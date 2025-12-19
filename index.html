@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Venta de repuestos para camiones Mercedes Benz, Iveco, Ford, Scania y Sprinter. Solo retiro en local. Av Rioja 931 Sur.">
+    <title>Zabala Repuestos | Mercedes, Iveco, Ford, Scania, Volkswagen</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="main-header">
+        <div class="container header-content">
+            <div class="logo">
+                <h1>Zabala<span class="highlight">Repuestos</span></h1>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="#marcas">Marcas</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                    <li><a href="#ubicacion">Ubicación</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="inicio" class="hero-section">
+            <div class="hero-overlay"></div>
+            <div class="container hero-content">
+                <div class="hero-box animate-up">
+                    <h2>Zabala Repuestos</h2>
+                    <p class="hero-text-desc delay-1">Empresa familiar dedicada a la venta de repuestos para camiones
+                        Mercedes
+                        Benz, Iveco, Scania, Ford, Volkswagen y Sprinter.</p>
+                    <div class="hero-buttons delay-3">
+                        <a href="nosotros.html" class="btn btn-secondary">Conócenos</a>
+                        <a href="#ubicacion" class="btn btn-primary">Ver Ubicación</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="marcas" class="brands-section">
+            <div class="container">
+                <h2 class="section-title">Nuestras Marcas</h2>
+                <div class="brands-grid">
+                    <div class="brand-card">
+                        <div class="brand-logo">Mercedes Benz</div>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-logo">Iveco</div>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-logo">Ford</div>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-logo">Scania</div>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-logo">Volkswagen</div>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-logo">Sprinter</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contacto" class="contact-section">
+            <div class="container">
+                <h2 class="section-title">Consultar Precio</h2>
+                <div class="contact-box animate-up">
+                    <p class="contact-desc">Envíanos tu consulta y te responderemos a la brevedad.</p>
+                    <form action="mailto:zabalarepuestossj@gmail.com" method="post" enctype="text/plain"
+                        class="contact-form">
+                        <div class="form-group">
+                            <label for="nombre">Tu Nombre</label>
+                            <input type="text" id="nombre" name="Nombre" placeholder="Juan Pérez" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Tu Correo</label>
+                            <input type="email" id="email" name="Email" placeholder="tucorreo@ejemplo.com" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="repuesto">Repuesto que necesitas</label>
+                            <textarea id="repuesto" name="Repuesto" rows="4"
+                                placeholder="Describe el repuesto, marca y modelo..." required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Consultar Precio</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <section id="ubicacion" class="info-section">
+            <div class="container info-grid">
+                <div class="info-details">
+                    <h2 class="section-title">Dónde Encontrarnos</h2>
+                    <div class="info-item">
+                        <h3>Dirección</h3>
+                        <p>Av Rioja 931 Sur</p>
+                    </div>
+                    <div class="info-item">
+                        <h3>Horarios</h3>
+                        <p>Lunes a Viernes: 8:30 - 13:00 / 16:30 - 20:00</p>
+                        <p>Sábados: 9:00 - 13:00</p>
+                    </div>
+                    <div class="info-alert">
+                        <p>Recuerde: <strong>Solo retiro presencial</strong></p>
+                    </div>
+                </div>
+                <div class="map-container">
+                    <!-- Placeholder for map since we can't easily embed a real interactive one without API key or external iframe limits, styling a nice box instead -->
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.5678!2d-68.5!3d-31.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzHCsDMwJzAwLjAiUyA2OMKwMzAnMDAuMCJX!5e0!3m2!1sen!2sar!4v1600000000000!5m2!1sen!2sar"
+                        width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                        title="Mapa de ubicación">
+                    </iframe>
+                    <div class="map-overlay-hint">Av Rioja 931 Sur</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2024 Repuestos Camiones. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
