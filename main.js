@@ -33,4 +33,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+
+    // Contact Form Handler - REMOVED (Using FormSubmit.co)
+    // const contactForm = document.getElementById('contactForm');
+    // if (contactForm) ...
 });
