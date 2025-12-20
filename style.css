@@ -808,21 +808,105 @@ body {
     transition-delay: 0.3s;
 }
 
+/* Hamburger Menu */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 30px;
+    height: 25px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1001;
+    position: relative;
+}
+
+.hamburger span {
+    width: 100%;
+    height: 3px;
+    background-color: white;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.hamburger.active span:nth-child(1) {
+    transform: rotate(45deg) translate(8px, 8px);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -7px);
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .header-content {
-        flex-direction: column;
-        height: auto;
-        padding: 1rem 0;
+        height: 80px;
+        position: relative;
+    }
+
+    .hamburger {
+        display: flex;
+        position: absolute;
+        right: 2rem;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .main-nav {
+        position: fixed;
+        top: 80px;
+        right: -100%;
+        width: 280px;
+        height: calc(100vh - 80px);
+        background: rgba(15, 23, 42, 0.98);
+        backdrop-filter: blur(10px);
+        border-left: 1px solid rgba(255, 255, 255, 0.1);
+        transition: right 0.3s ease;
+        z-index: 999;
+        overflow-y: auto;
+    }
+
+    .main-nav.active {
+        right: 0;
     }
 
     .main-nav ul {
-        margin-top: 1rem;
-        gap: 1.5rem;
+        flex-direction: column;
+        gap: 0;
+        padding: 2rem 0;
+        margin-top: 0;
+    }
+
+    .main-nav li {
+        width: 100%;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .main-nav a {
+        display: block;
+        padding: 1.2rem 2rem;
+        font-size: 1.1rem;
+        transition: all 0.3s ease;
+    }
+
+    .main-nav a:hover,
+    .main-nav a.active {
+        background: rgba(0, 98, 204, 0.2);
+        color: var(--accent-color);
     }
 
     .hero-content h2 {
         font-size: 2.5rem;
+    }
+
+    .hero-box {
+        padding: 2rem;
     }
 
     .info-grid {
@@ -836,6 +920,16 @@ body {
 
     .quality-image {
         order: -1;
+        max-width: 100%;
+    }
+
+    .testimonial-card {
+        min-width: 320px;
+    }
+
+    .brands-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 1rem;
     }
 }
 
