@@ -65,6 +65,19 @@ body {
     color: var(--primary-color);
 }
 
+.logo-img {
+    height: 60px;
+    width: auto;
+    border-radius: 50%;
+    border: 2px solid var(--primary-color);
+    background: white;
+    transition: var(--transition);
+}
+
+.logo-img:hover {
+    transform: scale(1.05);
+}
+
 
 
 .main-nav ul {
@@ -93,7 +106,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url('fondo_nuevo.jpg') no-repeat center center/cover;
+    background: url('fondo_nuevo.jpg?v=2') no-repeat center center/cover;
     overflow: hidden;
 }
 
@@ -416,6 +429,16 @@ body {
     margin-top: 1rem;
     font-size: 1.1rem;
     border: none;
+}
+
+/* Page Header (Nosotros) */
+.page-header {
+    height: 40vh;
+    min-height: 300px;
+    background: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.6)), url('truck_hero.png') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Info Section */
