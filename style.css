@@ -93,7 +93,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url('hero_bg.png') no-repeat center center/cover;
+    background: url('fondo_local.jpg') no-repeat center center/cover;
     overflow: hidden;
 }
 
