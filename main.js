@@ -63,7 +63,92 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 
-    // Contact Form Handler - REMOVED (Using FormSubmit.co)
-    // const contactForm = document.getElementById('contactForm');
-    // if (contactForm) ...
+    // Products Carousel - Infinite Loop
+    const carousel = document.querySelector('.products-carousel');
+    const track = document.querySelector('.products-track');
+    const prevBtn = document.querySelector('.carousel-prev');
+    const nextBtn = document.querySelector('.carousel-next');
+
+    if (carousel && track && prevBtn && nextBtn) {
+        const cards = Array.from(track.children);
+        const cardCount = cards.length;
+
+        // Clone cards for infinite effect
+        cards.forEach(card => {
+            const cloneBefore = card.cloneNode(true);
+            const cloneAfter = card.cloneNode(true);
+            track.insertBefore(cloneBefore, track.firstChild);
+            track.appendChild(cloneAfter);
+        });
+
+        let currentIndex = cardCount; // Start from the first original set
+        let isTransitioning = false;
+
+        // Function to get cards per view based on screen size
+        function getCardsPerView() {
+            return window.innerWidth <= 768 ? 1 : 3;
+        }
+
+        // Function to update carousel position
+        function updateCarousel(smooth = true) {
+            const cardsPerView = getCardsPerView();
+            const cardWidth = track.children[0].offsetWidth;
+            const gap = 48; // 3rem = 48px
+            const offset = currentIndex * (cardWidth + gap);
+
+            track.style.transition = smooth ? 'transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)' : 'none';
+            track.style.transform = `translateX(-${offset}px)`;
+        }
+
+        // Next button handler
+        function moveNext() {
+            if (isTransitioning) return;
+            isTransitioning = true;
+
+            currentIndex++;
+            updateCarousel();
+
+            setTimeout(() => {
+                // If we've reached the cloned end, jump to the real beginning
+                if (currentIndex >= cardCount * 2) {
+                    currentIndex = cardCount;
+                    updateCarousel(false);
+                }
+                isTransitioning = false;
+            }, 500);
+        }
+
+        // Previous button handler
+        function movePrev() {
+            if (isTransitioning) return;
+            isTransitioning = true;
+
+            currentIndex--;
+            updateCarousel();
+
+            setTimeout(() => {
+                // If we've reached the cloned beginning, jump to the real end
+                if (currentIndex < cardCount) {
+                    currentIndex = cardCount * 2 - 1;
+                    updateCarousel(false);
+                }
+                isTransitioning = false;
+            }, 500);
+        }
+
+        nextBtn.addEventListener('click', moveNext);
+        prevBtn.addEventListener('click', movePrev);
+
+        // Initialize carousel position
+        updateCarousel(false);
+
+        // Handle window resize
+        let resizeTimeout;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(() => {
+                updateCarousel(false);
+            }, 250);
+        });
+    }
 });
