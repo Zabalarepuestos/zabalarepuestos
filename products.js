@@ -264,6 +264,251 @@ const products = [
         image: "valvula_gobernadora_mb_universal.jpg",
         description: "Válvula gobernadora universal para circuitos de aire Mercedes Benz. Control y seguridad.",
         category: "Frenos"
+    },
+    {
+        id: "cubretuercas-32",
+        name: "CubreTuercas 32",
+        image: "cubretuercas_32.jpg",
+        description: "Cubre tuercas cromado medida 32mm. Estética y protección para sus ruedas.",
+        category: "Ruedas"
+    },
+    {
+        id: "guia-guardabarro-1114",
+        name: "Guia De Guardabarro 1114",
+        image: "guia_guardabarro_1114.jpg",
+        description: "Guía de guardabarro para Mercedes Benz 1114. Repuesto de alta calidad y resistencia.",
+        category: "Carrocería"
+    },
+    {
+        id: "guardabarro-delantero-1114",
+        name: "Guardabarro Delantero Mercedes Benz 1114",
+        image: "guardabarro_delantero_mb1114.jpg",
+        description: "Guardabarro delantero para Mercedes Benz 1114. Fabricado en material resistente para larga duración.",
+        category: "Carrocería"
+    },
+    {
+        id: "juego-cubre-opticas-1114",
+        name: "Juego De Cubre Opticas Mercedes Benz 1114",
+        image: "juego_cubre_opticas_mb1114.jpg",
+        description: "Juego de cubre ópticas para Mercedes Benz 1114. Diseño clásico y ajuste perfecto.",
+        category: "Iluminación"
+    },
+    {
+        id: "palanca-cambios-1114",
+        name: "Palanca de cambios Mercedes Benz 1114",
+        image: "palanca_cambios_mb1114.jpg",
+        description: "Palanca de cambios para Mercedes Benz 1114. Repuesto robusto y confiable.",
+        category: "Transmisión"
+    },
+    {
+        id: "torre-palanca-1114-1518-reforma",
+        name: "Torre Palanca Cambios Mercedes Benz 1114-1518 Reforma",
+        image: "torre_palanca_mb1114_1518_reforma.jpg",
+        description: "Torre de palanca de cambios con reforma para Mercedes Benz 1114 y 1518. Mejora la precisión y durabilidad del sistema.",
+        category: "Transmisión"
+    },
+    {
+        id: "cano-guia-varilla-1114",
+        name: "CAÑO GUIA VARILLA NIVEL ACEITE 1114",
+        image: "cano_guia_varilla_1114.jpg",
+        description: "Caño guía para varilla de nivel de aceite de Mercedes Benz 1114. Fabricado con materiales de alta resistencia.",
+        category: "Motor"
+    },
+    {
+        id: "varilla-nivel-aceite-650mm-1114-1517",
+        name: "VARILLA NIVEL ACEITE 650mm. 1114/1517",
+        image: "varilla_nivel_aceite_650mm.jpg",
+        description: "Varilla de nivel de aceite de 650mm para Mercedes Benz 1114 y 1517. Medición precisa y fácil lectura.",
+        category: "Motor"
+    },
+    {
+        id: "tapon-block-tacita-30mm-todos",
+        name: "TAPON BLOCK (TACITA) 30mm. TODOS",
+        image: "tapon_block_tacita_30mm.jpg",
+        description: "Tapón de block tipo tacita de 30mm. Compatible con diversos modelos. Fabricado en material resistente para asegurar un sellado perfecto.",
+        category: "Motor"
+    },
+    {
+        id: "tapon-arbol-levas-60mm-todos",
+        name: "TAPON ARBOL DE LEVAS 60mm. TODOS",
+        image: "tapon_arbol_levas_60mm.jpg",
+        description: "Tapón de árbol de levas de 60mm. Compatible con todos los modelos. Asegura un sellado hermético y duradero.",
+        category: "Motor"
+    },
+    {
+        id: "cano-entrada-aceite-1114",
+        name: "CAÑO ENTRADA ACEITE 1114",
+        image: "cano_entrada_aceite_1114.jpg",
+        description: "Caño de entrada de aceite para Mercedes Benz 1114. Reemplazo de alta calidad para asegurar el correcto flujo de lubricación.",
+        category: "Motor"
+    },
+    {
+        id: "codo-descarga-turbo-om352a",
+        name: "CODO DESCARGA TURBO AL CARTER OM352A CHAPA",
+        image: "codo_descarga_turbo_om352a.jpg",
+        description: "Codo de descarga de turbo al cárter para motor Mercedes Benz OM352A. Fabricado en chapa de alta resistencia para un sellado y durabilidad óptimos.",
+        category: "Motor"
+    },
+    {
+        id: "bulon-bancada-15x121-om352-366",
+        name: "BULON BANCADA BLOCK 15X121 OM352/366",
+        image: "bulon_bancada_15x121.jpg",
+        description: "Bulón de bancada de block 15x121 para motores Mercedes Benz OM352 y OM366. Repuesto de alta resistencia y precisión para el ensamble del motor.",
+        category: "Motor"
+    },
+    {
+        id: "tapa-filtro-gasoil-doble-reforma",
+        name: "TAPA FILTRO GAS-OIL DOBLE 1/2 LITRO REFORMA (UNIDAD SELLADA) OM352/366",
+        image: "tapa_filtro_gasoil_doble_reforma.jpg",
+        description: "Tapa de filtro gas-oil doble 1/2 litro reforma, unidad sellada. Compatible con OM352/366.",
+        category: "Filtros"
+    },
+    {
+        id: "juego-junta-motor-st-1114-om352",
+        name: "JGO.JUNTA MOTOR S/T.1114OM352",
+        image: "juego_junta_motor_om352.jpg",
+        description: "Juego de juntas de motor S/T (Sin Tapa) para Mercedes Benz 1114 motor OM352. Marca SABO.",
+        category: "Motor"
+    },
+    {
+        id: "valvula-bomba-aceite-om352",
+        name: "VALVULA BOMBA ACEITE OM352",
+        image: "valvula_bomba_aceite_om352.jpg",
+        description: "Válvula de bomba de aceite para Mercedes Benz motor OM352. Garantiza la presión correcta de lubricación.",
+        category: "Motor"
+    },
+    {
+        id: "avance-arbol-levas-importado-om352-366",
+        name: "AVANCE ARBOL LEVAS IMPORTADO OM352/366",
+        image: "avance_arbol_levas_importado_om352.jpg",
+        description: "Avance de árbol de levas importado para motores Mercedes Benz OM352 y OM366. Calidad superior y precisión.",
+        category: "Motor"
+    },
+    {
+        id: "soporte-bomba-inyectora-om352",
+        name: "SOPORTE BOMBA INYECTORA OM352",
+        image: "soporte_bomba_inyectora_om352.jpg",
+        description: "Soporte de bomba inyectora para Mercedes Benz OM352. Pieza de fundición de alta resistencia.",
+        category: "Motor"
+    },
+    {
+        id: "botador-valvula-imp-om352-366",
+        name: "BOTADOR VALVULA IMP. OM352/366",
+        image: "botador_valvula_imp_om352.jpg",
+        description: "Botador de válvula importado para motores Mercedes Benz OM352 y OM366. Alta durabilidad y precisión.",
+        category: "Motor"
+    },
+    {
+        id: "chaveta-arbol-levas-mnuevo-om352-366",
+        name: "CHAVETA ARBOL LEVAS M/NUEVO OM352/366",
+        image: "chaveta_arbol_levas_mnuevo_om352.jpg",
+        description: "Chaveta de árbol de levas modelo nuevo para Mercedes Benz OM352 y OM366. Ajuste perfecto.",
+        category: "Motor"
+    },
+    {
+        id: "registro-valvula-ctuerca-om352-366",
+        name: "REGISTRO VALVULA C/TUERCA OM352/366",
+        image: "registro_valvula_ctuerca_om352.jpg",
+        description: "Registro de válvula con tuerca para Mercedes Benz OM352 y OM366. Ajuste preciso del juego de válvulas.",
+        category: "Motor"
+    },
+    {
+        id: "plaqueta-arbol-levas-mviejo-om352",
+        name: "PLAQUETA ARBOL LEVAS M/VIEJO OM352",
+        image: "plaqueta_arbol_levas_mviejo_om352.jpg",
+        description: "Plaqueta de fijación de árbol de levas modelo viejo para Mercedes Benz OM352. Material resistente.",
+        category: "Motor"
+    },
+    {
+        id: "seguro-eje-balancines-om352-366",
+        name: "SEGURO EJE BALANCINES OM352/366",
+        image: "seguro_eje_balancines_om352.jpg",
+        description: "Seguro de eje de balancines para Mercedes Benz OM352 y OM366. Material de alta resistencia.",
+        category: "Motor"
+    },
+    {
+        id: "engranaje-arbol-levas-grande-mv-om352-zf",
+        name: "ENGRANAJE ARBOL LEVAS GRANDE M/VJO.OM352 ZF",
+        image: "engranaje_arbol_levas_grande_mv_om352.jpg",
+        description: "Engranaje de árbol de levas grande modelo viejo para Mercedes Benz OM352 (ZF). Alta precisión y durabilidad.",
+        category: "Motor"
+    },
+    {
+        id: "eje-balancin-om352-366",
+        name: "EJE BALANCIN OM352/366",
+        image: "eje_balancin_om352.jpg",
+        description: "Eje de balancín para Mercedes Benz OM352 y OM366. Componente esencial para el sistema de distribución.",
+        category: "Motor"
+    },
+    {
+        id: "prisionero-eje-balancin-om352-366",
+        name: "PRISIONERO EJE BALANCIN OM352/366",
+        image: "prisionero_eje_balancin_om352.jpg",
+        description: "Prisionero de eje de balancín para Mercedes Benz OM352 y OM366. Fijación segura y resistente.",
+        category: "Motor"
+    },
+    {
+        id: "plaqueta-arbol-levas-mnuevo-om352-366",
+        name: "PLAQUETA ARBOL LEVAS M/NUEVO OM352/366",
+        image: "plaqueta_arbol_levas_mnuevo_om352.jpg",
+        description: "Plaqueta de fijación de árbol de levas modelo nuevo para Mercedes Benz OM352 y OM366. Material resistente.",
+        category: "Motor"
+    },
+    {
+        id: "balancin-valvulas-esc-izq-om352-366",
+        name: "BALANCIN VALVULAS ESC. (IZQ.) OM352/366",
+        image: "balancin_valvulas_esc_izq_om352.jpg",
+        description: "Balancín de válvulas de escape (izquierdo) para Mercedes Benz OM352 y OM366. Alta resistencia.",
+        category: "Motor"
+    },
+    {
+        id: "resorte-entre-balancines-om352-366",
+        name: "RESORTE ENTRE BALANCINES OM352/366",
+        image: "resorte_entre_balancines_om352.jpg",
+        description: "Resorte ubicado entre balancines para Mercedes Benz OM352 y OM366. Correcta tensión y funcionamiento.",
+        category: "Motor"
+    },
+    {
+        id: "avance-bomba-inyectora-om352-314",
+        name: "AVANCE BOMBA INYECTORA OM352/314",
+        image: "avance_bomba_inyectora_om352_314.jpg",
+        description: "Avance de bomba inyectora para Mercedes Benz OM352 y OM314. Optimiza la inyección de combustible.",
+        category: "Motor"
+    },
+    {
+        id: "varilla-lev-valvula-om352-366",
+        name: "VARILLA LEV. VALVULA (x12) OM352/366",
+        image: "varilla_lev_valvula_om352.jpg",
+        description: "Varilla levanta válvula (juego x12) para Mercedes Benz OM352 y OM366. Alta resistencia y durabilidad.",
+        category: "Motor"
+    },
+    {
+        id: "soporte-balancin-nros-2-5-6-om352-366",
+        name: "SOPORTE BALANCIN (NROS: 2-5-6) OM352/366",
+        image: "soporte_balancin_nros_2_5_6_om352.jpg",
+        description: "Soporte de balancín (números 2, 5 y 6) para Mercedes Benz OM352 y OM366. Fundición de alta calidad.",
+        category: "Motor"
+    },
+    {
+        id: "soporte-balancin-nro-1-om352-366",
+        name: "SOPORTE BALANCIN (NRO: 1) OM352/366",
+        image: "soporte_balancin_nro_1_om352.jpg",
+        description: "Soporte de balancín (número 1) para Mercedes Benz OM352 y OM366. Fundición de alta calidad.",
+        category: "Motor"
+    },
+    {
+        id: "bulon-plaqueta-arbol-levas-8x24-om352",
+        name: "BULON PLAQUETA ARBOL LEVAS 8x24 OM352",
+        image: "bulon_plaqueta_arbol_levas_8x24_om352.jpg",
+        description: "Bulón de plaqueta de árbol de levas (medida 8x24) para Mercedes Benz OM352. Fijación segura.",
+        category: "Motor"
+    },
+    {
+        id: "tuerca-registro-valvula-om352-366",
+        name: "TUERCA REGISTRO VALVULA OM352/366",
+        image: "tuerca_registro_valvula_om352.jpg",
+        description: "Tuerca para registro de válvula Mercedes Benz OM352 y OM366. Asegura un ajuste correcto.",
+        category: "Motor"
     }
 ];
 
