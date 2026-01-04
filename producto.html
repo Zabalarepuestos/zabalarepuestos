@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle Producto | Zabala Repuestos</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="main-header">
+        <div class="container header-content">
+            <div class="logo">
+                <a href="index.html" style="text-decoration: none;">
+                    <h1>Zabala<span class="highlight">Repuestos</span></h1>
+                </a>
+            </div>
+            <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="main-nav" id="mainNav">
+                <ul>
+                    <li><a href="index.html#inicio">Inicio</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="catalogo.html" class="active">Catálogo</a></li>
+                    <li><a href="index.html#marcas">Marcas</a></li>
+                    <li><a href="index.html#ubicacion">Ubicación</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <a href="catalogo.html" class="back-link">← Volver al Catálogo</a>
+            </div>
+        </section>
+
+        <section class="product-detail-section">
+            <div class="container">
+                <div id="product-container" class="product-detail-grid">
+                    <!-- Dynamic Content Loaded Here -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-contact" style="margin-bottom: 1rem; font-size: 1.1rem;">
+                <p>Tel: 4220004 | Email: zabalarepuestos@gmail.com</p>
+                <p>Av Rioja 931 Sur</p>
+            </div>
+            <p>&copy; 2024 Zabala Repuestos. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="products.js"></script>
+    <script src="producto.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
