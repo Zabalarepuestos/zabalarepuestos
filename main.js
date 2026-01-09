@@ -73,13 +73,21 @@ document.addEventListener('DOMContentLoaded', () => {
         const cards = Array.from(track.children);
         const cardCount = cards.length;
 
+        // Create fragments for clones to maintain order
+        const startClones = document.createDocumentFragment();
+        const endClones = document.createDocumentFragment();
+
         // Clone cards for infinite effect
         cards.forEach(card => {
             const cloneBefore = card.cloneNode(true);
             const cloneAfter = card.cloneNode(true);
-            track.insertBefore(cloneBefore, track.firstChild);
-            track.appendChild(cloneAfter);
+            startClones.appendChild(cloneBefore);
+            endClones.appendChild(cloneAfter);
         });
+
+        // Insert clones
+        track.insertBefore(startClones, track.firstChild);
+        track.appendChild(endClones);
 
         let currentIndex = cardCount; // Start from the first original set
         let isTransitioning = false;
