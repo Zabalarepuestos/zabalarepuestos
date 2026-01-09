@@ -22,7 +22,7 @@ const server = http.createServer((req, res) => {
     // Remove query params if any
     filePath = filePath.split('?')[0];
 
-    const extname = path.extname(filePath);
+    const extname = path.extname(filePath).toLowerCase();
     const contentType = mimeTypes[extname] || 'application/octet-stream';
 
     fs.readFile(filePath, (error, content) => {
@@ -36,7 +36,8 @@ const server = http.createServer((req, res) => {
             }
         } else {
             res.writeHead(200, { 'Content-Type': contentType });
-            res.end(content, 'utf-8');
+            // content is a Buffer, so we should not specify an encoding
+            res.end(content);
         }
     });
 });
