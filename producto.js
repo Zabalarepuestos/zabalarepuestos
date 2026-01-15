@@ -1,42 +1,78 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const productContainer = document.getElementById('product-container');
 
-    // Get ID from URL
+document.addEventListener('DOMContentLoaded', () => {
+    const productDetailContainer = document.getElementById('productDetailContainer');
+
+    // Get product ID from URL params
     const urlParams = new URLSearchParams(window.location.search);
     const productId = urlParams.get('id');
 
     if (!productId) {
-        window.location.href = 'catalogo.html';
+        showError('No se especificó ningún producto.');
         return;
     }
 
-    const product = window.getProductById(productId);
+    // Find product in the global products array (from products.js)
+    const product = products.find(p => p.id === productId);
 
     if (!product) {
-        productContainer.innerHTML = '<p style="color: white; text-align: center;">Producto no encontrado.</p>';
+        showError('Producto no encontrado.');
         return;
     }
 
-    // Build WhatsApp Message
-    const whatsappMessage = `Hola Zabala Repuestos, quisiera consultar el precio del producto: ${product.name}`;
-    const whatsappLink = `https://wa.me/5492645859764?text=${encodeURIComponent(whatsappMessage)}`;
+    renderProductDetail(product);
+});
 
-    productContainer.innerHTML = `
-        <div class="product-detail-image animate-up">
-            <img src="${product.image}" alt="${product.name}">
-        </div>
-        <div class="product-detail-info animate-up delay-1">
-            <h2 class="detail-title">${product.name}</h2>
-            <p class="detail-category">Categoría: ${product.category || 'General'}</p>
-            <div class="detail-description">
-                <p>${product.description}</p>
+function renderProductDetail(product) {
+    const whatsappMessage = encodeURIComponent(`Hola Zabala Repuestos! Me gustaría cotizar el siguiente producto: ${product.name} (Código: ${product.code})`);
+    const whatsappLink = `https://wa.me/5492645859764?text=${whatsappMessage}`;
+
+    const html = `
+        <a href="catalogo.html" class="back-link">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M19 12H5M12 19l-7-7 7-7"/>
+            </svg>
+            Volver al catálogo
+        </a>
+        
+        <div class="product-detail-container">
+            <div class="product-detail-img-container">
+                <img src="${product.image}" alt="${product.name}" class="product-detail-img">
             </div>
-            <a href="${whatsappLink}" target="_blank" class="btn btn-primary btn-whatsapp">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 8px;">
-                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                </svg>
-                Consultar Precio
+            
+            <div class="product-detail-info">
+                <span class="product-detail-brand">${product.brand}</span>
+                <h1 class="product-detail-name">${product.name}</h1>
+                
+                <div>
+                    <span class="product-detail-code">Código: ${product.code}</span>
+                    ${product.originalCode ? `<span class="product-detail-code" style="margin-left: 10px;">Orig: ${product.originalCode}</span>` : ''}
+                </div>
+                
+                <p class="product-detail-description">
+                    ${product.description || 'Sin descripción disponible para este producto.'}
+                </p>
+                
+                <a href="${whatsappLink}" class="btn-whatsapp-large" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="24" height="24" fill="currentColor">
+                        <path d="M248 8C111 8 0 119 0 256c0 58.8 22.1 114.5 62.1 158.4L8.7 512.6c-1.3 5.4 2.8 9.6 8.3 8.3l108.8-57.9c43.6 28.1 94.9 43 147.2 43 137 0 248-111 248-248S385 8 248 8zm120.3 365.1c-6.8 19.1-39.7 34.9-54.3 37.1-12.7 1.9-28.5 3.3-80.9-17-48.4-18.7-79.6-66.3-81.8-69.3-2.2-3-19.4-25.8-19.4-49.2 0-23.4 12.1-35 16.4-39.7 3.5-3.8 7.7-4.4 10.3-4.4 2.6 0 5.2 0 7.4.1 2.4.1 5.7.5 8.7 7.7 3.3 7.9 11.2 27.4 12.2 29.4s1.7 4.3.3 6.9-2.2 4-4.4 6.6c-2.4 2.8-5.1 6.3-7.2 8.5-2.6 2.6-5.3 5.5-2.2 10.8 3.1 5.3 13.9 22.8 29.8 37 20.3 18.1 37.4 24.2 42.7 26.9 5.3 2.7 8.5 2.2 11.6-1.4 3.1-3.6 13.5-15.7 17.1-21 3.6-5.3 7.3-4.4 12.3-2.6 5.1 1.8 32.2 15.2 37.7 17.9 5.5 2.7 9.2 4 10.5 6.3 1.3 2.3 1.3 13.2-5.5 32.3z" />
+                    </svg>
+                    Consultar Precio por WhatsApp
+                </a>
+            </div>
+        </div>
+    `;
+
+    document.getElementById('productDetailContainer').innerHTML = html;
+}
+
+function showError(message) {
+    document.getElementById('productDetailContainer').innerHTML = `
+        <div class="error-message">
+            <h2>¡Ups!</h2>
+            <p>${message}</p>
+            <a href="catalogo.html" class="back-link" style="margin-top: 20px;">
+                Volver al catálogo
             </a>
         </div>
     `;
-});
+}
