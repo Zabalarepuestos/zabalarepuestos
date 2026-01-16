@@ -4,13 +4,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById('productModal');
     const modalBody = document.getElementById('modalBody');
     const closeModal = document.getElementById('closeModal');
+    const brandFilter = document.getElementById('brandFilter');
+    const engineFilter = document.getElementById('engineFilter');
+    const clearFiltersBtn = document.getElementById('clearFiltersBtn');
 
     // Function to render products
     function renderProducts(filteredProducts) {
         productGrid.innerHTML = '';
 
         if (filteredProducts.length === 0) {
-            productGrid.innerHTML = '<div class="no-results"><h3>No se encontraron productos</h3><p>Intenta con otros términos de búsqueda</p></div>';
+            productGrid.innerHTML = '<div class="no-results"><h3>No se encontraron productos</h3><p>Intenta con otros términos de búsqueda o filtros</p></div>';
             return;
         }
 
@@ -34,18 +37,56 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Populate Brand Filter
+    function populateBrandFilter() {
+        const brands = [...new Set(products.map(p => p.brand))].sort();
+        brands.forEach(brand => {
+            const option = document.createElement('option');
+            option.value = brand;
+            option.textContent = brand;
+            brandFilter.appendChild(option);
+        });
+    }
+
+    // Main Filter Function
+    function filterProducts() {
+        const searchTerm = searchInput.value.toLowerCase();
+        const selectedBrand = brandFilter.value;
+        const selectedEngine = engineFilter.value.toLowerCase();
+
+        const filteredProducts = products.filter(product => {
+            const matchesSearch = product.name.toLowerCase().includes(searchTerm) ||
+                product.code.toLowerCase().includes(searchTerm) ||
+                product.brand.toLowerCase().includes(searchTerm);
+
+            const matchesBrand = selectedBrand === "" || product.brand === selectedBrand;
+
+            const matchesEngine = selectedEngine === "" ||
+                product.name.toLowerCase().includes(selectedEngine) ||
+                product.description.toLowerCase().includes(selectedEngine);
+
+            return matchesSearch && matchesBrand && matchesEngine;
+        });
+
+        renderProducts(filteredProducts);
+    }
+
+    // Event Listeners
+    searchInput.addEventListener('input', filterProducts);
+    brandFilter.addEventListener('change', filterProducts);
+    engineFilter.addEventListener('change', filterProducts);
+
+    clearFiltersBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        brandFilter.value = '';
+        engineFilter.value = '';
+        filterProducts();
+    });
+
     // Modal logic removed
 
-    // Search functionality
-    searchInput.addEventListener('input', (e) => {
-        const searchTerm = e.target.value.toLowerCase();
-        const filteredProducts = products.filter(product =>
-            product.name.toLowerCase().includes(searchTerm) ||
-            product.code.toLowerCase().includes(searchTerm) ||
-            product.brand.toLowerCase().includes(searchTerm)
-        );
-        renderProducts(filteredProducts);
-    });
+    // Voice Search Functionality
+
 
     // Voice Search Functionality
     const voiceSearchBtn = document.getElementById('voiceSearchBtn');
@@ -100,5 +141,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Initial render
+    populateBrandFilter();
     renderProducts(products);
 });
