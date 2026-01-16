@@ -28,7 +28,8 @@
 
         .search-input {
             width: 100%;
-            padding: 1.2rem 2rem;
+            padding: 1.2rem 3.5rem 1.2rem 2rem;
+            /* Added padding-right for button */
             border-radius: 50px;
             background: var(--card-bg);
             border: 1px solid rgba(255, 255, 255, 0.1);
@@ -39,10 +40,54 @@
             transition: var(--transition);
         }
 
+        .voice-search-btn {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            cursor: pointer;
+            padding: 8px;
+            border-radius: 50%;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .voice-search-btn:hover {
+            color: var(--primary-color);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .voice-search-btn.listening {
+            color: #ef4444;
+            /* Red color when listening */
+            animation: pulse 1.5s infinite;
+            background: rgba(239, 68, 68, 0.1);
+        }
+
+        @keyframes pulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4);
+            }
+
+            70% {
+                box-shadow: 0 0 0 10px rgba(239, 68, 68, 0);
+            }
+
+            100% {
+                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+            }
+        }
+
         .search-input:focus {
             border-color: var(--primary-color);
             box-shadow: 0 0 20px rgba(0, 98, 204, 0.3);
         }
+
 
         .product-grid {
             display: grid;
@@ -313,6 +358,15 @@
                 <div class="search-container">
                     <input type="text" id="searchInput" class="search-input"
                         placeholder="Buscar por nombre o código...">
+                    <button id="voiceSearchBtn" class="voice-search-btn" aria-label="Buscar por voz">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+                            <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                            <line x1="12" y1="19" x2="12" y2="23"></line>
+                            <line x1="8" y1="23" x2="16" y2="23"></line>
+                        </svg>
+                    </button>
                 </div>
 
                 <div id="productGrid" class="product-grid">

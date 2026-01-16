@@ -47,6 +47,58 @@ document.addEventListener('DOMContentLoaded', () => {
         renderProducts(filteredProducts);
     });
 
+    // Voice Search Functionality
+    const voiceSearchBtn = document.getElementById('voiceSearchBtn');
+
+    // Check browser support
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+    if (SpeechRecognition) {
+        const recognition = new SpeechRecognition();
+        recognition.continuous = false;
+        recognition.lang = 'es-ES';
+        recognition.interimResults = false;
+
+        voiceSearchBtn.addEventListener('click', () => {
+            if (voiceSearchBtn.classList.contains('listening')) {
+                recognition.stop();
+            } else {
+                recognition.start();
+            }
+        });
+
+        recognition.onstart = () => {
+            voiceSearchBtn.classList.add('listening');
+            searchInput.placeholder = "Escuchando...";
+        };
+
+        recognition.onend = () => {
+            voiceSearchBtn.classList.remove('listening');
+            searchInput.placeholder = "Buscar por nombre o código...";
+        };
+
+        recognition.onresult = (event) => {
+            const transcript = event.results[0][0].transcript;
+            searchInput.value = transcript;
+
+            // Trigger input event to filter products
+            const inputEvent = new Event('input');
+            searchInput.dispatchEvent(inputEvent);
+            searchInput.focus();
+        };
+
+        recognition.onerror = (event) => {
+            console.error('Error de reconocimiento de voz:', event.error);
+            voiceSearchBtn.classList.remove('listening');
+            searchInput.placeholder = "Error. Intenta de nuevo.";
+        };
+    } else {
+        // Hide button if speech recognition is not supported
+        if (voiceSearchBtn) {
+            voiceSearchBtn.style.display = 'none';
+        }
+    }
+
     // Initial render
     renderProducts(products);
 });
