@@ -1361,6 +1361,519 @@ const products = [
         image: "./img/products/om366/indicador-puesta-a-punto-19-om366la-ii.jpg",
         description: "Chapa indicadora de puesta a punto (19 grados) para motores Mercedes Benz OM366LA II. Pieza metálica de precisión utilizada como referencia visual para el ajuste correcto del tiempo de inyección y distribución del motor."
     }
+    ,
+    {
+        id: "P171",
+        name: "POLEA ALTERNADOR OM447/457 1634",
+        brand: "Mercedes Benz",
+        code: "0011556315",
+        image: "./img/products/om447/polea-alternador-om447.jpg",
+        description: "Polea de alternador para motores Mercedes Benz OM447 y OM457. Repuesto de alta calidad y durabilidad."
+    },
+    {
+        id: "P172",
+        name: "PISTON EMBOLO (CON ORING) DE FRENO MOTOR M. BENZ OM447 OM457 CON VALVULA TOP BRAKE",
+        brand: "Mercedes Benz",
+        code: "5410160690 / 5410160090 / 5410160290 / 5410160490 / 4429975047 / 44201600",
+        image: "./img/products/om447/piston-embolo-freno-motor-om447.jpg",
+        description: "Pistón émbolo con O-ring de freno motor con válvula Top Brake. Compatible con motores Mercedes Benz OM447 y OM457."
+    },
+    {
+        id: "P173",
+        name: "JUNTA COLECTOR ADMISION LATERAL OM447/449/1634",
+        brand: "Mercedes Benz",
+        code: "4750980280",
+        image: "./img/products/om447/junta-colector-admision-om447.jpg",
+        description: "Junta de colector de admisión lateral para motores Mercedes Benz OM447, OM449 y modelo 1634. Repuesto original con código 4750980280."
+    },
+    {
+        id: "P174",
+        name: "INYECTOR COMPLETO C/TOBERA 1633/1938 OM447/449",
+        brand: "Mercedes Benz",
+        code: "9430082318 / 0030176121 / 0020174321 / 0020173021",
+        image: "./img/products/om447/inyector-completo-om447.jpg",
+        description: "Inyector completo con tobera para motores Mercedes Benz OM447 y OM449. Compatible con modelos 1633 y 1938."
+    },
+    {
+        id: "P175",
+        name: "ALTERNADOR 24V 80A C/POLEA MULTICANAL OM447/457 1634",
+        brand: "Mercedes Benz",
+        code: "0001508850",
+        image: "./img/products/om447/alternador-om447.jpg",
+        description: "Alternador de 24V 80A con polea multicanal. Compatible con motores Mercedes Benz OM447 y OM457, modelo 1634. Código original 0001508850."
+    },
+    {
+        id: "P176",
+        name: "JUNTA T/CIL.ELRING OM447/449",
+        brand: "Mercedes Benz",
+        code: "4420160420",
+        image: "./img/products/om447/junta-tapa-cilindro-elring-om447.jpg",
+        description: "Junta de tapa de cilindro marca Elring. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4420160420."
+    },
+    {
+        id: "P177",
+        name: "ELEMENTO FILTRO AIRE C271340 1634 OM447/457/OM906",
+        brand: "Mercedes Benz",
+        code: "4760940004 / 0040943504",
+        image: "./img/products/om447/filtro-aire-om447.jpg",
+        description: "Elemento filtro de aire C271340. Compatible con motores OM447, OM457, OM906 y modelo 1634."
+    },
+    {
+        id: "P178",
+        name: "BULON CARCAZA DISTRIBUCION OM447",
+        brand: "Mercedes Benz",
+        code: "0029907700",
+        image: "./img/products/om447/bulon-carcaza-distribucion-om447.jpg",
+        description: "Bulón de carcaza de distribución para motores Mercedes Benz OM447. Código original 0029907700."
+    },
+    {
+        id: "P179",
+        name: "BULON CARC. DISTRIBUCION OM447",
+        brand: "Mercedes Benz",
+        code: "4039900704",
+        image: "./img/products/om447/bulon-carcaza-distribucion-om447-v2.jpg",
+        description: "Bulón para carcaza de distribución de motores Mercedes Benz OM447. Código original 4039900704."
+    },
+    {
+        id: "P180",
+        name: "FILTRO COMBUSTIBLE R120-10MB AQII ATEGO/AXOR/OF1215/1634 OM447",
+        brand: "Mercedes Benz",
+        code: "9794770015",
+        image: "./img/products/om447/filtro-combustible-om447.jpg",
+        description: "Filtro de combustible R120-10MB AQII. Compatible con Atego, Axor, OF1215 y 1634 con motor OM447. Código original 9794770015."
+    },
+    {
+        id: "P181",
+        name: "JGO. JUNTA TURBO 1938/1622/1526 OM447/457",
+        brand: "Mercedes Benz",
+        code: "4570987580",
+        image: "./img/products/om447/juego-junta-turbo-om447.jpg",
+        description: "Juego de juntas para turbo. Compatible con modelos 1938, 1622 y 1526 con motores OM447 y OM457. Código original 4570987580."
+    },
+    {
+        id: "P182",
+        name: "JUNTA ADM.SABO OM447/9",
+        brand: "Mercedes Benz",
+        code: "4421411780",
+        image: "./img/products/om447/junta-admision-sabo-om447.jpg",
+        description: "Junta de admisión marca Sabo. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4421411780."
+    },
+    {
+        id: "P183",
+        name: "JUNTA T/CIL.SABO OM447/449",
+        brand: "Mercedes Benz",
+        code: "4420160420",
+        image: "./img/products/om447/junta-tapa-cilindro-sabo-om447.jpg",
+        description: "Junta de tapa de cilindro marca Sabo. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4420160420."
+    },
+    {
+        id: "P184",
+        name: "LLAVE TUERCA INYECTOR OM447/9",
+        brand: "Mercedes Benz",
+        code: ">05825",
+        image: "./img/products/om447/llave-tuerca-inyector-om447.jpg",
+        description: "Llave para tuerca de inyector. Herramienta específica para motores Mercedes Benz OM447 y OM449. Código >05825."
+    },
+    {
+        id: "P185",
+        name: "KIT SEGURO CRAP/EMBRAGUE M/DISC OM447",
+        brand: "Mercedes Benz",
+        code: "0002520646",
+        image: "./img/products/om447/kit-seguro-embrague-om447.jpg",
+        description: "Kit de seguro para crapodina de embrague (monodisco). Compatible con Mercedes Benz OM447. Código original 0002520646."
+    },
+    {
+        id: "P186",
+        name: "SOPORTE EJE VENT.OM447 O-400",
+        brand: "Mercedes Benz",
+        code: "4752057305 / 3012050005 / 4752057005",
+        image: "./img/products/om447/soporte-eje-ventilador-om447.jpg",
+        description: "Soporte de eje de ventilador. Compatible con Mercedes Benz OM447 O-400. Códigos originales: 4752057305, 3012050005, 4752057005."
+    },
+    {
+        id: "P187",
+        name: "BOMBA AGUA TURBINA 125MM OM447/449 1633/1634/1938",
+        brand: "Mercedes Benz",
+        code: "4752000101 / 4752000001 / 4572001601",
+        image: "./img/products/om447/bomba-agua-om447.jpg",
+        description: "Bomba de agua con turbina de 125mm. Compatible con motores Mercedes Benz OM447 y OM449, modelos 1633, 1634 y 1938."
+    },
+    {
+        id: "P188",
+        name: "REFRIGERADOR ACEITE 10 FILAS OM447/449LA/457",
+        brand: "Mercedes Benz",
+        code: "0011883101 / 0011886201",
+        image: "./img/products/om447/refrigerador-aceite-om447.jpg",
+        description: "Refrigerador de aceite de 10 filas. Compatible con motores Mercedes Benz OM447, OM449LA y OM457. Códigos originales: 0011883101, 0011886201."
+    },
+    {
+        id: "P189",
+        name: "BOMBA ACEITE OM447",
+        brand: "Mercedes Benz",
+        code: "4031801701",
+        image: "./img/products/om447/bomba-aceite-om447.jpg",
+        description: "Bomba de aceite para motores Mercedes Benz OM447. Código original 4031801701."
+    },
+    {
+        id: "P190",
+        name: "VALVULA BOMBA ACEITE OM447",
+        brand: "Mercedes Benz",
+        code: "4421800015 / 4221800315",
+        image: "./img/products/om447/valvula-bomba-aceite-om447.jpg",
+        description: "Válvula para bomba de aceite. Compatible con motores Mercedes Benz OM447. Códigos originales: 4421800015, 4221800315."
+    },
+    {
+        id: "P191",
+        name: "MULTIPLE ESCAPE 1634/1938 om447",
+        brand: "Mercedes Benz",
+        code: "4761420001",
+        image: "./img/products/om447/multiple-escape-om447.jpg",
+        description: "Múltiple de escape para motores Mercedes Benz OM447. Compatible con modelos 1634 y 1938. Código original 4761420001."
+    },
+    {
+        id: "P192",
+        name: "CIGUEÑAL COMPRESOR KNORR 90 OM447/449",
+        brand: "Mercedes Benz",
+        code: "4031300214",
+        image: "./img/products/om447/ciguenal-compresor-om447.jpg",
+        description: "Cigüeñal para compresor Knorr 90. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4031300214."
+    },
+    {
+        id: "P193",
+        name: "COMPRESOR COMP. OM447/449 S/ENG.KNORR 90",
+        brand: "Mercedes Benz",
+        code: "4751300115",
+        image: "./img/products/om447/compresor-completo-om447.jpg",
+        description: "Compresor completo Knorr 90 sin engrane. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4751300115."
+    },
+    {
+        id: "P194",
+        name: "CAÑO COMPRESOR 1634/1938 OM447/457 SALIDA 1ER TRAMO",
+        brand: "Mercedes Benz",
+        code: "6964201226",
+        image: "./img/products/om447/cano-compresor-om447.jpg",
+        description: "Caño de compresor (salida 1er tramo). Compatible con modelos 1634 y 1938, motores OM447 y OM457. Código original 6964201226."
+    },
+    {
+        id: "P195",
+        name: "CAÑO COMPRESOR 1938/OM447 SALIDA A GOB. LARGO",
+        brand: "Mercedes Benz",
+        code: "3884207026",
+        image: "./img/products/om447/cano-compresor-largo-om447.jpg",
+        description: "Caño de compresor (salida a gobernador, largo). Compatible con modelo 1938 y motor OM447. Código original 3884207026."
+    },
+    {
+        id: "P196",
+        name: "CONJUNTO COMPRESOR 90MM.OM447/449",
+        brand: "Mercedes Benz",
+        code: "4421300008",
+        image: "./img/products/om447/conjunto-compresor-om447.jpg",
+        description: "Conjunto de compresor de 90mm. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4421300008."
+    },
+    {
+        id: "P197",
+        name: "CAÑO COMPRESOR 1634/1938 OM447/457",
+        brand: "Mercedes Benz",
+        code: "6954207436",
+        image: "./img/products/om447/cano-compresor-1634-1938-om447.jpg",
+        description: "Caño de compresor. Compatible con modelos 1634 y 1938, motores OM447 y OM457. Código original 6954207436."
+    },
+    {
+        id: "P198",
+        name: "CAÑO COMPRESOR 1938/OM447 GOB.A TANQUE AIRE CORTO",
+        brand: "Mercedes Benz",
+        code: "3884209826",
+        image: "./img/products/om447/cano-compresor-corto-om447.jpg",
+        description: "Caño de compresor (gobernador a tanque de aire, corto). Compatible con modelo 1938 y motor OM447. Código original 3884209826."
+    },
+    {
+        id: "P199",
+        name: "AROS COMPRESOR 90M.STD 1521 OM447/9",
+        brand: "Mercedes Benz",
+        code: "0001318211",
+        image: "./img/products/om447/aros-compresor-om447.jpg",
+        description: "Juego de aros para compresor (90mm STD). Compatible con modelo 1521 y motores OM447/OM449. Código original 0001318211."
+    },
+    {
+        id: "P200",
+        name: "CODO BAJADA TURBO 1938 OM447 COMP",
+        brand: "Mercedes Benz",
+        code: "4761400253",
+        image: "./img/products/om447/codo-bajada-turbo-om447.jpg",
+        description: "Codo de bajada de turbo completo. Compatible con modelo 1938 y motor OM447. Código original 4761400253."
+    },
+    {
+        id: "P201",
+        name: "CODO BAJADA TURBO 1938 OM447 SOLO",
+        brand: "Mercedes Benz",
+        code: "4761440112",
+        image: "./img/products/om447/codo-bajada-turbo-solo-om447.jpg",
+        description: "Codo de bajada de turbo (solo). Compatible con modelo 1938 y motor OM447. Código original 4761440112."
+    },
+    {
+        id: "P202",
+        name: "ORING TURBO 60x8 OM447",
+        brand: "Mercedes Benz",
+        code: "0069974948",
+        image: "./img/products/om447/oring-turbo-om447.jpg",
+        description: "O-ring de turbo 60x8. Compatible con motores Mercedes Benz OM447. Código original 0069974948."
+    },
+    {
+        id: "P203",
+        name: "FUELLE FILTRO AIRE A CAPOT 1634 OM447/457",
+        brand: "Mercedes Benz",
+        code: "6955280182",
+        image: "./img/products/om447/fuelle-filtro-aire-om447.jpg",
+        description: "Fuelle de filtro de aire a capot. Compatible con modelo 1634 y motores OM447/OM457. Código original 6955280182."
+    },
+    {
+        id: "P204",
+        name: "MANGUERA FILTRO AIRE A TURBO 1634 OM447LA",
+        brand: "Mercedes Benz",
+        code: "4760980083",
+        image: "./img/products/om447/manguera-filtro-aire-turbo-om447.jpg",
+        description: "Manguera de filtro de aire a turbo. Compatible con modelo 1634 y motor OM447LA. Código original 4760980083."
+    },
+    {
+        id: "P205",
+        name: "BULON SOPORTE BALANCIN 10x50x1.50 OM447",
+        brand: "Mercedes Benz",
+        code: "000931010369",
+        image: "./img/products/om447/bulon-soporte-balancin-om447.jpg",
+        description: "Bulón de soporte de balancín 10x50x1.50. Compatible con motores Mercedes Benz OM447. Código original 000931010369."
+    },
+    {
+        id: "P206",
+        name: "PREFILTRO COMPLETO OM447/449",
+        brand: "Mercedes Benz",
+        code: "0004770002",
+        image: "./img/products/om447/prefiltro-completo-om447.jpg",
+        description: "Prefiltro completo de combustible. Compatible con motores Mercedes Benz OM447 y OM449. Código original 0004770002."
+    },
+    {
+        id: "P207",
+        name: "SOPORTE BALANCIN OM447/449",
+        brand: "Mercedes Benz",
+        code: "4030501236",
+        image: "./img/products/om447/soporte-balancin-om447.jpg",
+        description: "Soporte de balancín. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4030501236."
+    },
+    {
+        id: "P208",
+        name: "BALANCIN VALVULAS OM447/449",
+        brand: "Mercedes Benz",
+        code: "4030500733",
+        image: "./img/products/om447/balancin-valvulas-om447.jpg",
+        description: "Balancín de válvulas. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4030500733."
+    },
+    {
+        id: "P209",
+        name: "CHAVETA VALVULA(X UNIDAD) OM447/449",
+        brand: "Mercedes Benz",
+        code: "4220530026",
+        image: "./img/products/om447/chaveta-valvula-om447.jpg",
+        description: "Chaveta de válvula (por unidad). Compatible con motores Mercedes Benz OM447 y OM449. Código original 4220530026."
+    },
+    {
+        id: "P210",
+        name: "BULON BALANCEADOR ARMONICO OM447/449",
+        brand: "Mercedes Benz",
+        code: "4220350071",
+        image: "./img/products/om447/bulon-balanceador-armonico-om447.jpg",
+        description: "Bulón de balanceador armónico. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4220350071."
+    },
+    {
+        id: "P211",
+        name: "VARILLA LEV. VALVULA OM447/449",
+        brand: "Mercedes Benz",
+        code: "4750540005",
+        image: "./img/products/om447/varilla-lev-valvula-om447.jpg",
+        description: "Varilla levantaválvulas. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4750540005."
+    },
+    {
+        id: "P212",
+        name: "PLATILLO VALVULA OM447/449",
+        brand: "Mercedes Benz",
+        code: "4220530025",
+        image: "./img/products/om447/platillo-valvula-om447.jpg",
+        description: "Platillo de válvula. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4220530025."
+    },
+    {
+        id: "P213",
+        name: "RESORTE VALVULA EXTERIOR OM447/449",
+        brand: "Mercedes Benz",
+        code: "4030530120",
+        image: "./img/products/om447/resorte-valvula-exterior-om447.jpg",
+        description: "Resorte de válvula exterior. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4030530120."
+    },
+    {
+        id: "P214",
+        name: "REGISTRO VALVULA C/TUERCA OM447/449",
+        brand: "Mercedes Benz",
+        code: "4420550020",
+        image: "./img/products/om447/registro-valvula-con-tuerca-om447.jpg",
+        description: "Registro de válvula con tuerca. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4420550020."
+    },
+    {
+        id: "P215",
+        name: "BOTADOR VALVULA OM447/449",
+        brand: "Mercedes Benz",
+        code: "4220500325 4030540101",
+        image: "./img/products/om447/botador-valvula-om447.jpg",
+        description: "Botador de válvula. Compatible con motores Mercedes Benz OM447 y OM449. Códigos originales 4220500325 y 4030540101."
+    },
+    {
+        id: "P216",
+        name: "RESORTE VALVULA INTERIOR OM447/449",
+        brand: "Mercedes Benz",
+        code: "4030530822",
+        image: "./img/products/om447/resorte-valvula-interior-om447.jpg",
+        description: "Resorte de válvula interior. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4030530822."
+    },
+    {
+        id: "P217",
+        name: "JGO. ARANDELAS RESORTE VALVULA OM447/449",
+        brand: "Mercedes Benz",
+        code: "4030530052 4030530152",
+        image: "./img/products/om447/juego-arandelas-resorte-valvula-om447.jpg",
+        description: "Juego de arandelas para resorte de válvula. Compatible con motores Mercedes Benz OM447 y OM449. Códigos originales 4030530052 y 4030530152."
+    },
+    {
+        id: "P218",
+        name: "CORONA ARRANQUE 151D.12 AGUJ.EQUIDISTANTES OM447/449/457",
+        brand: "Mercedes Benz",
+        code: "4750320105",
+        image: "./img/products/om447/corona-arranque-151d-12-aguj-om447.jpg",
+        description: "Corona de arranque de 151 dientes y 12 agujeros equidistantes. Compatible con motores Mercedes Benz OM447, OM449 y OM457. Código original 4750320105."
+    },
+    {
+        id: "P219",
+        name: "BULON VOLANTE MOTOR 16X76mm. OM447/449/457",
+        brand: "Mercedes Benz",
+        code: "4600320071 4220320271",
+        image: "./img/products/om447/bulon-volante-motor-om447.jpg",
+        description: "Bulón de volante de motor, medidas 16x76mm. Compatible con motores Mercedes Benz OM447, OM449 y OM457. Códigos originales 4600320071 y 4220320271."
+    },
+    {
+        id: "P220",
+        name: "BULON TAPA CILINDRO 15X168 (12/10) OM447/449",
+        brand: "Mercedes Benz",
+        code: "4229900401",
+        image: "./img/products/om447/bulon-tapa-cilindro-om447.jpg",
+        description: "Bulón de tapa de cilindro, medidas 15x168mm (12/10). Compatible con motores Mercedes Benz OM447 y OM449. Código original 4229900401."
+    },
+    {
+        id: "P221",
+        name: "ENGRANAJE CIGÜEÑAL 43dtes. OM447/449",
+        brand: "Mercedes Benz",
+        code: "4030500303 4030520103",
+        image: "./img/products/om447/engranaje-ciguenal-om447.jpg",
+        description: "Engranaje de cigüeñal de 43 dientes. Compatible con motores Mercedes Benz OM447 y OM449. Códigos originales 4030500303 y 4030520103."
+    },
+    {
+        id: "P222",
+        name: "BULON BIELA MOTOR 16x1.5x67 OM447/449/457",
+        brand: "Mercedes Benz",
+        code: "4420380071",
+        image: "./img/products/om447/bulon-biela-motor-om447.jpg",
+        description: "Bulón de biela de motor, medidas 16x1.5x67mm. Compatible con motores Mercedes Benz OM447, OM449 y OM457. Código original 4420380071."
+    },
+    {
+        id: "P223",
+        name: "VOLANTE MOTOR C/CORONA 430mm 151",
+        brand: "Mercedes Benz",
+        code: "4760300405 4760300505",
+        image: "./img/products/om447/volante-motor-con-corona-om447.jpg",
+        description: "Volante de motor con corona, diámetro 430mm, 151 dientes. Compatible con motores Mercedes Benz. Códigos originales 4760300405 y 4760300505."
+    },
+    {
+        id: "P224",
+        name: "PISTA CIGÜEÑAL DELANTERA 105x100 OM447/449/457",
+        brand: "Mercedes Benz",
+        code: "4420310027",
+        image: "./img/products/om447/pista-ciguenal-delantera-om447.jpg",
+        description: "Pista de cigüeñal delantera, medidas 105x100mm. Compatible con motores Mercedes Benz OM447, OM449 y OM457. Código original 4420310027."
+    },
+    {
+        id: "P225",
+        name: "BULON TAPA CILINDRO 15X143 (18/15) OM447/449",
+        brand: "Mercedes Benz",
+        code: "4229900301",
+        image: "./img/products/om447/bulon-tapa-cilindro-15x143-om447.jpg",
+        description: "Bulón de tapa de cilindro, medidas 15x143mm (18/15). Compatible con motores Mercedes Benz OM447 y OM449. Código original 4229900301."
+    },
+    {
+        id: "P226",
+        name: "POLEA CIGÜEÑAL CHAPA 2 CAN.OM447/9",
+        brand: "Mercedes Benz",
+        code: "4760350112 4750350112",
+        image: "./img/products/om447/polea-ciguenal-chapa-2-can-om447.jpg",
+        description: "Polea de cigüeñal de chapa, 2 canales. Compatible con motores Mercedes Benz OM447 y OM449. Códigos originales 4760350112 y 4750350112."
+    },
+    {
+        id: "P227",
+        name: "TAPON CARTER 26mm. S/IMAN ALLEN OM447",
+        brand: "Mercedes Benz",
+        code: "4039970230",
+        image: "./img/products/om447/tapon-carter-26mm-om447.jpg",
+        description: "Tapón de cárter de 26mm, sin imán, con cabeza Allen. Compatible con motores Mercedes Benz OM447. Código original 4039970230."
+    },
+    {
+        id: "P228",
+        name: "BUJE GUIA TAPA CILINDRO OM447/449",
+        brand: "Mercedes Benz",
+        code: "1079910041",
+        image: "./img/products/om447/buje-guia-tapa-cilindro-om447.jpg",
+        description: "Buje guía de tapa de cilindro. Compatible con motores Mercedes Benz OM447 y OM449. Código original 1079910041."
+    },
+    {
+        id: "P229",
+        name: "JUEGO JUNTA DESCARBONIZACION OM447/449 ELRING",
+        brand: "Mercedes Benz",
+        code: "4760100120",
+        image: "./img/products/om447/juego-junta-descarbonizacion-om447.jpg",
+        description: "Juego de juntas para descarbonización Elring. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4760100120."
+    },
+    {
+        id: "P230",
+        name: "VARILLA NIVEL ACEITE 970mm. OM447/O400",
+        brand: "Mercedes Benz",
+        code: "4760107272",
+        image: "./img/products/om447/varilla-nivel-aceite-om447.jpg",
+        description: "Varilla de nivel de aceite, longitud 970mm. Compatible con motores Mercedes Benz OM447 y O400. Código original 4760107272."
+    },
+    {
+        id: "P231",
+        name: "TAPON CARTER 26mm. C/IMAN ALLEN OM447/904/906",
+        brand: "Mercedes Benz",
+        code: "4039970230",
+        image: "./img/products/om447/tapon-carter-26mm-con-iman-om447.jpg",
+        description: "Tapón de cárter de 26mm, con imán, cabeza Allen. Compatible con motores Mercedes Benz OM447, OM904 y OM906. Código original 4039970230."
+    },
+    {
+        id: "P232",
+        name: "INYECTOR LUBRICACION BOTADORES OM447",
+        brand: "Mercedes Benz",
+        code: "4271800043",
+        image: "./img/products/om447/inyector-lubricacion-botadores-om447.jpg",
+        description: "Inyector de lubricación para botadores. Compatible con motores Mercedes Benz OM447. Código original 4271800043."
+    },
+    {
+        id: "P233",
+        name: "BULON CARTER LEGITIMO 8X35 OM447/449/457",
+        brand: "Mercedes Benz",
+        code: "910105008014",
+        image: "./img/products/om447/bulon-carter-legitimo-om447.jpg",
+        description: "Bulón de cárter legítimo, medidas 8x35mm. Compatible con motores Mercedes Benz OM447, OM449 y OM457. Código original 910105008014."
+    },
+    {
+        id: "P234",
+        name: "VARILLA NIVEL ACEITE 720mm. OM447/449",
+        brand: "Mercedes Benz",
+        code: "4750100072",
+        image: "./img/products/om447/varilla-nivel-aceite-720mm-om447.jpg",
+        description: "Varilla de nivel de aceite, longitud 720mm. Compatible con motores Mercedes Benz OM447 y OM449. Código original 4750100072."
+    }
 ];
 
 if (typeof module !== 'undefined' && module.exports) {
