@@ -588,7 +588,7 @@ const products = [
         name: "BULON CARTER LEGITIMO 8X20 OM352/366 (x2)",
         brand: "Mercedes Benz",
         code: "0039905801",
-        image: "./img/products/bulon-carter-om352-8x20.jpg",
+        image: "./img/products/om352/bulon-carter-om352.jpg",
         description: "Bulón legítimo para cárter, medida 8x20mm. Compatible con motores Mercedes Benz OM352 y OM366. Se comercializa por par (2 unidades). Incluye arandela de presión para un ajuste seguro y evitar filtraciones."
     },
     {
@@ -2155,7 +2155,7 @@ const products = [
         name: "POLEA TENSOR AXOR 2 OM457",
         brand: "Mercedes Benz",
         code: "0005501933 / 4572001070",
-        image: "./img/products/om457/polea-tensor-axor-2-om457.jpg",
+        image: "./img/products/om457/tensor-correa-axor-2035-om457.jpg",
         description: "Polea para tensor de correas de motores Mercedes Benz Axor 2 con motor OM457. Códigos originales 0005501933 y 4572001070. Fabricada en acero con rodamiento de alta precisión para un giro suave y duradero, esencial para el correcto funcionamiento del sistema de accesorios."
     },
     {
@@ -2163,7 +2163,7 @@ const products = [
         name: "JUNTA FRENTE COMPRESOR WABCO 85MM TAPA LARGA OM457",
         brand: "Mercedes Benz",
         code: "4571310180",
-        image: "./img/products/om457/junta-frente-compresor-om457.jpg",
+        image: "./img/products/om457/juego-junta-flapers-85mm-om457.jpg",
         description: "Junta de frente para compresor de aire WABCO de 85mm con tapa larga, compatible con motores Mercedes Benz OM457. Código original 4571310180. Fabricada en material de alta calidad resistente a la temperatura y presión, asegurando un sellado hermético entre el compresor y el block del motor."
     },
     {
@@ -2499,7 +2499,7 @@ const products = [
         brand: "S&M",
         code: "1124",
         originalCode: "457 200 0050",
-        image: "img/products/om457/juego-reparacion-bomba-agua-om457.jpg",
+        image: "./img/products/om457/bomba-agua-turbina-135mm-om457.png",
         description: "Kit completo de reparación para bomba de agua en motores Mercedes Benz OM457. Incluye rodamiento, sello y componentes críticos para restaurar el flujo y enfriamiento del motor."
     },
     {
