@@ -2057,7 +2057,7 @@ const products = [
         brand: "Mercedes Benz",
         code: "5411800209 / 4571800009",
         originalCode: "5411800209 / 4571800009",
-        image: "./img/products/om457/filtro-aceite-hu12140x-om457-v2.jpg",
+        image: "./img/products/om457/filtro-aceite-hu12140x-om457.jpg",
         description: "Filtro de aceite tipo elemento HU12140X para motores Mercedes Benz OM457 y modelos electrónicos 1938. Códigos originales: 5411800209 y 4571800009. Filtro de alta eficiencia que garantiza la máxima protección del motor, eliminando impurezas y prolongando la vida útil del sistema de lubricación."
     },
     {
