@@ -2147,7 +2147,7 @@ const products = [
         name: "CABEZAL COMPLETO REFRIGERADOR/FILTRO ACEITE OM457 1634E/AXOR",
         brand: "Mercedes Benz",
         code: "4571803210 / 4571800138 / 4571801010 / 4571803110",
-        image: "./img/products/om457/cabezal-completo-filtro-aceite-om457.jpg",
+        image: "./img/products/om457/cabezal-refrigerador-aceite-om457.jpg",
         description: "Cabezal completo para refrigerador y filtro de aceite de motores Mercedes Benz OM457, modelos 1634E y Axor. Códigos originales 4571803210, 4571800138, 4571801010 y 4571803110. Fabricado en fundición de aluminio de alta resistencia, incluye porta filtro y conexiones para el sistema de lubricación y enfriamiento de aceite."
     },
     {
@@ -2267,7 +2267,7 @@ const products = [
         name: "PALETA PLASTICO OM457 AXOR/ACTROS C/ARO 8 PALAS 750mm.",
         brand: "Mercedes Benz",
         code: "0032053606 / 0032054506 / 0032053906 / 0032054206",
-        image: "./img/products/om457/paleta-plastico-om457-axor-actros-750mm.jpg",
+        image: "./img/products/om457/paleta-plastico-viscosa-om457.jpg",
         description: "Paleta de ventilador fabricada en plástico reforzado para motores Mercedes Benz OM457 (modelos Axor y Actros). Cuenta con aro protector y 8 palas con un diámetro total de 750mm. Códigos originales 0032053606, 0032054506, 0032053906 y 0032054206. Proporciona un alto flujo de aire para una refrigeración eficiente del motor bajo condiciones severas de trabajo."
     },
     {
