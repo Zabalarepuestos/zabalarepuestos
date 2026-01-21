@@ -3343,4 +3343,452 @@
 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = products;
+},
+    {
+        id: "P403",
+        name: "CAÑO D/H CORTO 1722 OM906/924",
+        brand: "Mercedes Benz",
+        code: "3844600924",
+        originalCode: "3844600924",
+        image: "img/products/om906/cano-dh-corto-1722-om906.jpg",
+        description: "Caño de dirección hidráulica corto para camiones Mercedes Benz 1722 con motores OM906 y OM924. Código original 3844600924. Rubro: DIRECCIÓN. Componente de alta resistencia para el sistema de dirección asistida."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P404",
+        name: "CAÑO RAD.O500/OM906 INFERIOR",
+        brand: "Mercedes Benz",
+        code: "3825011582",
+        originalCode: "3825011582",
+        image: "img/products/om906/cano-radiador-o500-om906-inferior.jpg",
+        description: "Caño de radiador inferior para chasis Mercedes Benz O500 con motor OM906. Código original 3825011582. Rubro: RADIADOR. Manguera moldeada de alta calidad, resistente a las vibraciones y temperaturas extremas del sistema de refrigeración."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P405",
+        name: "PALETA PLASTICO OM906/926 ATRON/ATEGO/1624/1728/1632/2423 C/ARO 8 PALAS 704mm.C/VISCOSO",
+        brand: "Mercedes Benz",
+        code: "9062000723 / 9062050406 / 9062050606 / 9062051306 / 0002005323 / 0002006223 / 9062002323",
+        originalCode: "9062000723 / 9062050406 / 9062050606 / 9062051306 / 0002005323 / 0002006223 / 9062002323",
+        image: "img/products/om906/paleta-ventilador-viscoso-om906.jpg",
+        description: "Paleta de ventilador de plástico con acople viscoso y aro, de 8 palas y 704mm de diámetro. Compatible con camiones Mercedes Benz Atron, Atego, 1624, 1728, 1632, 2423 y motores OM906/926. Códigos originales: 9062000723, 9062050406, 9062050606, 9062051306, 0002005323, 0002006223, 9062002323. Rubro: REFRIGERACIÓN."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P406",
+        name: "VALVULA ACEITE MOTOR OM906/26",
+        brand: "Mercedes Benz",
+        code: "9060100391",
+        originalCode: "9060100391",
+        image: "img/products/om906/valvula-aceite-motor-om906.jpg",
+        description: "Válvula de aceite para motores Mercedes Benz OM906 y OM926. Código original 9060100391. Rubro: BLOCK DE MOTOR Y CÁRTER. Componente esencial para la regulación y control del flujo de aceite en el sistema de lubricación."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P407",
+        name: "VARILLA NIVEL ACEITE 530mm. CORTA OM906/1624",
+        brand: "Mercedes Benz",
+        code: "9060103372",
+        originalCode: "9060103372",
+        image: "img/products/om906/varilla-aceite-corta-om906-1624.jpg",
+        description: "Varilla de nivel de aceite corta (530mm) para camiones Mercedes Benz 1624 con motor OM906. Código original 9060103372. Rubro: BLOCK DE MOTOR Y CÁRTER. Componente esencial para la medición precisa del nivel de aceite en el cárter."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P408",
+        name: "SENSOR PRESION AIRE/TEMPERATURA 1418 OM904LA/OM906LA/OM457LA",
+        brand: "Mercedes Benz",
+        code: "0041537028 / 0041537628 / 0281002468",
+        originalCode: "0041537028 / 0041537628 / 0281002468",
+        image: "img/products/om906/sensor-presion-aire-temperatura_om906.jpg",
+        description: "Sensor combinado de presión de aire y temperatura de admisión. Compatible con camiones Mercedes Benz 1418 y motores OM904LA, OM906LA y OM457LA. Códigos originales 0041537028, 0041537628, 0281002468. Rubro: INSTRUMENTAL."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P409",
+        name: "CAÑO RAD.1624 COMPLEMENTO DE (19440) OM906",
+        brand: "Mercedes Benz",
+        code: "6955012082",
+        originalCode: "6955012082",
+        image: "img/products/om906/cano-radiador-1624-complemento-2-om906.jpg",
+        description: "Caño de radiador complementario para camiones Mercedes Benz 1624 con motor OM906. Código original 6955012082. Rubro: RADIADOR. Tubo rígido diseñado para complementar el sistema de refrigeración principal, asegurando un flujo de refrigerante constante y fiable."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P410",
+        name: "JUNTA LATERAL ACEITE OM906/926",
+        brand: "Mercedes Benz",
+        code: "9060160721",
+        originalCode: "9060160721",
+        image: "img/products/om906/junta-lateral-aceite-om906.jpg",
+        description: "Junta lateral de aceite para motores Mercedes Benz OM906 y OM926. Código original 9060160721. Rubro: JUNTAS. Sellado lateral del block de motor para prevenir fugas de lubricante."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P411",
+        name: "JUNTA T/CIL.SABO OM906",
+        brand: "Mercedes Benz",
+        code: "9060161420",
+        originalCode: "9060161420",
+        image: "img/products/om906/junta-tapa-cilindro-sabo-om906.jpg",
+        description: "Junta de tapa de cilindro marca Sabo para motores Mercedes Benz OM906. Código original 9060161420. Rubro: JUNTAS. Material de alta calidad para asegurar la compresión y evitar fugas entre la tapa y el bloque."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P412",
+        name: "JUNTA T/REFRIGER.ACEITE OM906",
+        brand: "Mercedes Benz",
+        code: "0001883380",
+        originalCode: "0001883380",
+        image: "img/products/om906/junta-refrigerador-aceite-om906.jpg",
+        description: "Junta de tapa de refrigerador de aceite para motores Mercedes Benz OM906. Código original 0001883380. Rubro: JUNTAS. Diseñada para soportar altas temperaturas y presiones, asegurando la estanqueidad del sistema de refrigeración de aceite."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P413",
+        name: "SENSOR PRESION ACEITE(3 PIN) OM904LA/OM906LA/712C/914C/AXOR 1933/45",
+        brand: "Mercedes Benz",
+        code: "0071530828",
+        originalCode: "0071530828",
+        image: "img/products/om906/sensor-presion-aceite-3pin-om906.jpg",
+        description: "Sensor de presión de aceite de 3 pines. Compatible con camiones Mercedes Benz 712C, 914C, Axor 1933/45 y motores OM904LA/OM906LA. Código original 0071530828. Rubro: INSTRUMENTAL. Monitoreo preciso de la presión de aceite para la protección del motor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P414",
+        name: "BULBO PRESION ACEITE(2 PIN) OM904LA/OM906LA/712C/914C/AXOR 1933/45",
+        brand: "Mercedes Benz",
+        code: "0001539932 / 0041534928",
+        originalCode: "0001539932 / 0041534928",
+        image: "img/products/om906/bulbo-presion-aceite-2pin-om906.jpg",
+        description: "Bulbo de presión de aceite de 2 pines. Compatible con camiones Mercedes Benz 712C, 914C, Axor 1933/45 y motores OM904LA/OM906LA. Códigos originales 0001539932, 0041534928. Rubro: INSTRUMENTAL. Sensor esencial para el control de la presión de aceite del motor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P415",
+        name: "CAÑO RAD.1624 INFERIOR OM906",
+        brand: "Mercedes Benz",
+        code: "6955011982 / 6955010282 / 6955012782",
+        originalCode: "6955011982 / 6955010282 / 6955012782",
+        image: "img/products/om906/cano-radiador-1624-inferior-om906.jpg",
+        description: "Caño de radiador inferior para camiones Mercedes Benz 1624 con motor OM906. Códigos originales 6955011982, 6955010282, 6955012782. Rubro: RADIADOR. Tubo moldeado de alta resistencia para el circuito de refrigeración."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P416",
+        name: "CAÑO RAD.1624 SUPERIOR OM906",
+        brand: "Mercedes Benz",
+        code: "6955011782 / 6955010082",
+        originalCode: "6955011782 / 6955010082",
+        image: "img/products/om906/cano-radiador-1624-superior-om906.jpg",
+        description: "Caño de radiador superior para camiones Mercedes Benz 1624 con motor OM906. Códigos originales 6955011782, 6955010082. Rubro: RADIADOR. Manguera moldeada de alta calidad para la conducción de refrigerante en el circuito superior."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P417",
+        name: "DEFLECTOR RAD.1620/22/24 OM906",
+        brand: "Mercedes Benz",
+        code: "6935057730",
+        originalCode: "6935057730",
+        image: "img/products/om906/deflector-radiador-1620-om906.jpg",
+        description: "Deflector de radiador para camiones Mercedes Benz modelos 1620, 1622 y 1624 con motor OM906. Código original 6935057730. Rubro: RADIADOR. Pieza plástica diseñada para canalizar el flujo de aire a través del radiador, mejorando la eficiencia de enfriamiento."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P418",
+        name: "SOPORTE MOTOR TRASERO 3 AGUJ. OM906 1725/2423",
+        brand: "Mercedes Benz",
+        code: "9582400918 / 9582400118 / 9732400318",
+        originalCode: "9582400918 / 9582400118 / 9732400318",
+        image: "img/products/om906/soporte-motor-trasero-3aguj-om906.jpg",
+        description: "Soporte de motor trasero de 3 agujeros para camiones Mercedes Benz modelos 1725 y 2423 con motor OM906. Códigos originales 9582400918, 9582400118, 9732400318. Rubro: SUSPENSIÓN DE MOTOR. Pieza fundamental para la absorción de vibraciones y la correcta sujeción del bloque motor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P419",
+        name: "POLEA TENSOR LISA OM906/OM457",
+        brand: "Mercedes Benz",
+        code: "0005500433",
+        originalCode: "0005500433",
+        image: "img/products/om906/polea-tensor-lisa-om906.jpg",
+        description: "Polea tensora lisa para motores Mercedes Benz OM906 y OM457. Código original 0005500433. Rubro: REFRIGERACIÓN. Componente del sistema de correas, asegura la tensión adecuada para el funcionamiento de los accesorios."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P420",
+        name: "PALANCA ROD.TENSOR O500/OH1618/OM906",
+        brand: "Mercedes Benz",
+        code: "4752000438 / 3742000038 / 3742000438 / 3741500412",
+        originalCode: "4752000438 / 3742000038 / 3742000438 / 3741500412",
+        image: "img/products/om906/palanca-rodillo-tensor-o500-om906.jpg",
+        description: "Palanca de rodillo tensor para camiones Mercedes Benz O500, OH1618 y motor OM906. Códigos originales 4752000438, 3742000038, 3742000438, 3741500412. Rubro: REFRIGERACIÓN. Componente clave para mantener la tensión adecuada de la correa de accesorios."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P421",
+        name: "PALETA PLASTICO OM906/926/1632/2423/1938S C/ARO 8 PALAS 704mm.",
+        brand: "Mercedes Benz",
+        code: "9062000723 / 9062050406 / 9062050606 / 9062051306 / 0002005323 / 0002006223 / 9062051106",
+        originalCode: "9062000723 / 9062050406 / 9062050606 / 9062051306 / 0002005323 / 0002006223 / 9062051106",
+        image: "img/products/om906/paleta-ventilador-plastico-om906.jpg",
+        description: "Paleta de ventilador de plástico con aro, de 8 palas y 704mm de diámetro. Compatible con motores Mercedes Benz OM906, OM926, y modelos 1632, 2423, 1938S. Códigos originales: 9062000723, 9062050406, 9062050606, 9062051306, 0002005323, 0002006223, 9062051106. Rubro: REFRIGERACIÓN."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P422",
+        name: "VISCOSO OM906LA/OM926 EUROII ATEGO1725/2425 AXOR 1933",
+        brand: "Mercedes Benz",
+        code: "9062000822 / 9062001822 / 9062001823 / 9062000522 / 9062002423",
+        originalCode: "9062000822 / 9062001822 / 9062001823 / 9062000522 / 9062002423",
+        image: "img/products/om906/viscoso-om906-om926-atego-axor.jpg",
+        description: "Embrague viscoso de ventilador para motores Mercedes Benz OM906LA, OM926 Euro II. Aplicable a camiones Atego 1725, 2425 y Axor 1933. Códigos originales 9062000822, 9062001822, 9062001823, 9062000522, 9062002423. Rubro: REFRIGERACIÓN. Controla el acople del ventilador según la temperatura del motor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P423",
+        name: "VISCOSO SOLO OM906LA EUROI 1632/1723/2423",
+        brand: "Mercedes Benz",
+        code: "9062000922",
+        originalCode: "9062000922",
+        image: "img/products/om906/viscoso-solo-om906-euro1.jpg",
+        description: "Embrague viscoso (solo) para ventilador. Motores Mercedes Benz OM906LA Euro I. Aplicable a modelos 1632, 1723, 2423. Código original 9062000922. Rubro: REFRIGERACIÓN. Control preciso del ventilador para optimizar la refrigeración y el consumo."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P424",
+        name: "POLEA TENSOR ATEGO/AXOR OM906LA ESTRIADO",
+        brand: "Mercedes Benz",
+        code: "9062002670",
+        originalCode: "9062002670",
+        image: "img/products/om906/polea-tensor-estriada-atego-axor-om906.jpg",
+        description: "Polea tensora estriada para camiones Mercedes Benz Atego y Axor con motor OM906LA. Código original 9062002670. Rubro: REFRIGERACIÓN. Componente esencial para la transmisión de potencia en el sistema de accesorios."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P425",
+        name: "REFRIGERADOR ACEITE OM906/926",
+        brand: "Mercedes Benz",
+        code: "0001802765 / 0001806765 / 9061801365 / 9061801465",
+        originalCode: "0001802765 / 0001806765 / 9061801365 / 9061801465",
+        image: "img/products/om906/refrigerador-aceite-om906-om926.jpg",
+        description: "Refrigerador de aceite para motores Mercedes Benz OM906 y OM926. Códigos originales 0001802765, 0001806765, 9061801365, 9061801465. Rubro: LUBRICACIÓN. Intercambiador de calor esencial para mantener la temperatura óptima del aceite del motor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P426",
+        name: "FILTRO ACEITE OM906/924/926 HU945/2 L 1624/1933S",
+        brand: "Mercedes Benz",
+        code: "0001801709 / 9061800009",
+        originalCode: "0001801709 / 9061800009",
+        image: "img/products/om906/filtro-aceite-om906-hu945-2-original.jpg",
+        description: "Filtro de aceite original Mercedes Benz tipo HU945/2 L. Compatible con motores OM906, OM924, OM926 y modelos 1624, 1933S. Códigos originales 0001801709, 9061800009. Rubro: LUBRICACIÓN. Elemento filtrante de alta eficiencia para la protección del motor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P427",
+        name: "CAÑO COMPRESOR (SERPENTINA) AL APU OM906/O500",
+        brand: "Mercedes Benz",
+        code: "3824204728",
+        originalCode: "3824204728",
+        image: "img/products/om906/cano-compresor-serpentina-om906.jpg",
+        description: "Caño de compresor tipo serpentina al APU para camiones Mercedes Benz OM906 y O500. Código original 3824204728. Rubro: COMPRESOR. Tubería de alta presión para el sistema de aire comprimido."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P428",
+        name: "CAÑO LUBRICACION TURBO 1624/1725 OM906",
+        brand: "Mercedes Benz",
+        code: "9061800720",
+        originalCode: "9061800720",
+        image: "img/products/om906/cano-lubricacion-turbo-1624-om906.jpg",
+        description: "Caño de lubricación de turbo para camiones Mercedes Benz modelos 1624 y 1725 con motor OM906. Código original 9061800720. Rubro: TURBO. Tubería metálica diseñada para asegurar el flujo de aceite al turbocompresor."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P429",
+        name: "FUELLE UNION FILTRO AIRE 1622/24 OM906/24",
+        brand: "Mercedes Benz",
+        code: "6955287382",
+        originalCode: "6955287382",
+        image: "img/products/om906/fuelle-union-filtro-aire-1622-om906.jpg",
+        description: "Fuelle de unión para filtro de aire de camiones Mercedes Benz modelos 1622 y 1624 con motor OM906. Código original 6955287382. Rubro: FILTROS DE AIRE. Conexión flexible de goma para la admisión de aire."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P430",
+        name: "MANGUERA FILTRO AIRE A TURBO 1624 OM906 ELECT.",
+        brand: "Mercedes Benz",
+        code: "6955280482",
+        originalCode: "6955280482",
+        image: "img/products/om906/manguera-filtro-aire-turbo-1624-om906.jpg",
+        description: "Manguera de admisión desde filtro de aire al turbo para camiones Mercedes Benz 1624 con motor OM906 electrónico. Código original 6955280482. Rubro: FILTROS DE AIRE. Conducto de aire de admisión de alta resistencia."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P431",
+        name: "CAÑO GASOIL BLOCK A TAPA CILINDRO Y AL FILTRO OM906/926LA",
+        brand: "Mercedes Benz",
+        code: "9060901276 / 9060903376",
+        originalCode: "9060901276 / 9060903376",
+        image: "img/products/om906/cano-gasoil-block-tapa-filtro-om906.jpg",
+        description: "Caño de gasoil desde el block a la tapa de cilindro y al filtro para motores Mercedes Benz OM906 y OM926LA. Códigos originales 9060901276, 9060903376. Rubro: INYECCIÓN. Tubería de combustible de alta precisión."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P432",
+        name: "FLEXIBLE RETORNO INYECTORES O500/OM906/926",
+        brand: "Mercedes Benz",
+        code: "9060702033 / 9060702533",
+        originalCode: "9060702033 / 9060702533",
+        image: "img/products/om906/flexible-retorno-inyectores-om906.jpg",
+        description: "Flexible de retorno de inyectores para motores Mercedes Benz O500, OM906 y OM926. Códigos originales 9060702033, 9060702533. Rubro: INYECCIÓN. Manguera de retorno de combustible."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P433",
+        name: "CODO BAJADA TURBO 1620/1725/2423 OM906 COMP.",
+        brand: "Mercedes Benz",
+        code: "9060900228",
+        originalCode: "9060900228",
+        image: "img/products/om906/codo-bajada-turbo-om906-completo.jpg",
+        description: "Codo de bajada de turbo completo para camiones Mercedes Benz modelos 1620, 1725 y 2423 con motor OM906. Código original 9060900228. Rubro: TURBO. Incluye válvula y mecanismo de accionamiento (freno motor)."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
+},
+    {
+        id: "P434",
+        name: "VARILLA NIVEL ACEITE 485MM. ATEGO/AXOR OM906/26",
+        brand: "Mercedes Benz",
+        code: "9060101072 / 9260104272",
+        originalCode: "9060101072 / 9260104272",
+        image: "img/products/om906/varilla-nivel-aceite-485mm-om906.jpg",
+        description: "Varilla de nivel de aceite de 485mm de largo para motores Mercedes Benz OM906 y OM926. Aplicable a camiones Atego y Axor. Códigos originales 9060101072, 9260104272. Rubro: BLOCK DE MOTOR Y CÁRTER. Herramienta esencial para el mantenimiento y control del lubricante."
+    }
+];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = products;
 }
