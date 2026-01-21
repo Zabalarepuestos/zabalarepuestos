@@ -3260,7 +3260,7 @@
     },
     {
         id: "P394",
-        name: "ABRAZADERA ESCAPE 90MM (3 1/2") OM906",
+        name: "ABRAZADERA ESCAPE 90MM (3 1/2\") OM906",
         brand: "Mercedes Benz",
         code: "6209970590",
         originalCode: "6209970590",
