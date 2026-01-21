@@ -3023,6 +3023,150 @@ const products = [
         originalCode: "3825200001",
         image: "img/products/om906/manguera-filtro-aire-om906.jpg",
         description: "Manguera de filtro de aire para Mercedes Benz O500 y camiones 1725/1726 con motores OM906 y OM926. Código original 3825200001. Rubro: ADMISIÓN. Fabricada en caucho reforzado de alta calidad para asegurar un flujo de aire óptimo y estanco hacia el motor, resistiendo vibraciones y temperaturas de operación."
+    },
+    {
+        id: "P368",
+        name: "TAPA SUPERIOR VALVULA PLASTICA OM906/926",
+        brand: "Mercedes Benz",
+        code: "9060101030",
+        originalCode: "9060101030",
+        image: "img/products/om906/tapa-superior-valvula-plastica-om906.jpg",
+        description: "Tapa superior de válvula fabricada en material plástico de alta resistencia para motores Mercedes Benz OM906 y OM926. Código original 9060101030. Rubro: TAPA CILINDRO Y VÁLVULA. Diseñada para proteger los componentes del tren de válvulas y asegurar un sellado estanco en la culata, resistiendo las altas temperaturas del motor."
+    },
+    {
+        id: "P369",
+        name: "RIGIDO DE COMPRESOR ULTIMO TRAMO O500 OM906/926",
+        brand: "Mercedes Benz",
+        code: "3824208831 / 3824204735",
+        originalCode: "3824208831 / 3824204735",
+        image: "img/products/om906/rigido-compresor-o500-om906.jpg",
+        description: "Rígido de compresor último tramo para chasis de ómnibus Mercedes Benz O500 con motores OM906 y OM926. Códigos originales 3824208831 y 3824204735. Rubro: COMPRESOR. Fabricado en material de alta resistencia para asegurar la conducción eficiente del aire comprimido desde el compresor hacia el sistema neumático, diseñado para soportar altas presiones y vibraciones."
+    },
+    {
+        id: "P370",
+        name: "POLEA CIGÜEÑAL OM906/926",
+        brand: "Mercedes Benz",
+        code: "9060350800",
+        originalCode: "9060350800",
+        image: "img/products/om906/polea-ciguenal-om906.jpg",
+        description: "Polea de cigüeñal para motores Mercedes Benz OM906 y OM926. Código original 9060350800. Rubro: PIEZAS MOTRICES. Fabricada con materiales de alta resistencia para un guiado preciso de la correa de accesorios, garantizando el correcto funcionamiento del alternador, bomba de agua y demás periféricos del motor."
+    },
+    {
+        id: "P371",
+        name: "MANGUERA D/HID BOMBA AL DEPOSITO OF1721/1722 OM906",
+        brand: "Mercedes Benz",
+        code: "3844661181",
+        originalCode: "3844661181",
+        image: "img/products/om906/manguera-dhid-bomba-deposito-om906.jpg",
+        description: "Manguera de dirección hidráulica que conecta la bomba al depósito para chasis Mercedes Benz OF1721 y OF1722 con motor OM906. Código original 3844661181. Rubro: DIRECCIÓN. Fabricada en caucho de alta resistencia a la presión y temperatura del fluido hidráulico, diseñada para asegurar un retorno eficiente del aceite al depósito del sistema de dirección."
+    },
+    {
+        id: "P372",
+        name: "CEBADOR CON SOP 457/OM906 LA/OM926/O500",
+        brand: "Mercedes Benz",
+        code: "0000908550 / 0000909250 / 0440011021",
+        originalCode: "0000908550 / 0000909250 / 0440011021",
+        image: "img/products/om906/cebador-con-sop-om906.jpg",
+        description: "Cebador manual con soporte para sistema de inyección de combustible. Compatible con motores Mercedes Benz OM457, OM906 LA, OM926 y chasis O500. Códigos originales 0000908550, 0000909250 y 0440011021. Rubro: INYECCIÓN. Componente esencial para purgar el aire del sistema de combustible y facilitar el arranque del motor, fabricado con materiales resistentes al gasoil."
+    },
+    {
+        id: "P373",
+        name: "JGO.JUNTA COMPLETO 85mm OM906/926 BICILINDRICO TAPA LARGA",
+        brand: "Mercedes Benz",
+        code: "9115539232 / 9125101404 / 8975700084 / 9125109352",
+        originalCode: "9115539232 / 9125101404 / 8975700084 / 9125109352",
+        image: "img/products/om906/jgo-junta-compresor-85mm-om906.jpg",
+        description: "Juego de juntas completo para compresor bicilíndrico de 85mm con tapa larga, compatible con motores Mercedes Benz OM906 y OM926. Códigos originales 9115539232, 9125101404, 8975700084 y 9125109352. Rubro: COMPRESOR. Incluye todas las juntas necesarias para el sellado perfecto del compresor de aire, fabricadas con materiales de alta calidad resistentes a altas temperaturas y presión."
+    },
+    {
+        id: "P374",
+        name: "AMORTIGUADOR DELANTERO OM906/926 O500",
+        brand: "Mercedes Benz",
+        code: "3823230100 / 6283230100 / 6283230400",
+        originalCode: "3823230100 / 6283230100 / 6283230400",
+        image: "img/products/om906/amortiguador-delantero-o500-om906.jpg",
+        description: "Amortiguador delantero para chasis de ómnibus Mercedes Benz O500 con motores OM906 y OM926. Códigos originales 3823230100, 6283230100 y 6283230400. Rubro: ELÁSTICO-SUSPENSIÓN-AMORT. Fabricado con tecnología de alta calidad para garantizar una conducción suave y segura, diseñado para soportar las exigencias del transporte de pasajeros."
+    },
+    {
+        id: "P375",
+        name: "CUBO ACOPLE VENTILADOR OHL1618 OM904 OM906 O500",
+        brand: "Mercedes Benz",
+        code: "4752057604",
+        originalCode: "4752057604",
+        image: "img/products/om906/cubo-acople-ventilador-om906.jpg",
+        description: "Cubo de acople para ventilador compatible con chasis Mercedes Benz OHL1618, O500 y motores OM904 y OM906. Código original 4752057604. Rubro: REFRIGERACIÓN. Fabricado en fundición de alta resistencia para transmitir el movimiento del motor al ventilador de refrigeración, asegurando un enfriamiento eficiente del sistema."
+    },
+    {
+        id: "P376",
+        name: "CAÑO TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926",
+        brand: "Mercedes Benz",
+        code: "3685000094",
+        originalCode: "3685000094",
+        image: "img/products/om906/cano-tee-union-tubos-agua-om906.jpg",
+        description: "Caño en forma de T para unión de tubos de agua del sistema de refrigeración. Compatible con chasis Mercedes Benz O500 y motores OM904, OM924, OM906 y OM926. Código original 3685000094. Rubro: RADIADOR. Fabricado en material plástico de alta resistencia térmica para asegurar conexiones estancas en el circuito de refrigeración."
+    },
+    {
+        id: "P377",
+        name: "ARBOL LEVAS OM906 C/ENGRANAJE",
+        brand: "Mercedes Benz",
+        code: "9060501401",
+        originalCode: "9060501401",
+        image: "img/products/om906/arbol-levas-om906.jpg",
+        description: "Árbol de levas completo con engranaje para motores Mercedes Benz OM906. Código original 9060501401. Rubro: DISTRIBUCIÓN. Componente crítico del sistema de distribución fabricado con acero de alta resistencia, diseñado para controlar la apertura y cierre de las válvulas con precisión, garantizando el rendimiento óptimo del motor."
+    },
+    {
+        id: "P378",
+        name: "CAÑO LLENADO ACEITE MOTOR OM906 O500",
+        brand: "Mercedes Benz",
+        code: "9060100182",
+        originalCode: "9060100182",
+        image: "img/products/om906/cano-llenado-aceite-om906.jpg",
+        description: "Caño de llenado de aceite para motores Mercedes Benz OM906 en chasis O500. Código original 9060100182. Rubro: BLOCK DE MOTOR Y CÁRTER. Fabricado en caucho de alta resistencia térmica para asegurar un llenado seguro y estanco del aceite lubricante, diseñado para soportar las temperaturas del vano motor."
+    },
+    {
+        id: "P379",
+        name: "MANGUERA RETORNO DESCARGA ACEITE TURBO OM906",
+        brand: "Mercedes Benz",
+        code: "9069970382",
+        originalCode: "9069970382",
+        image: "img/products/om906/manguera-retorno-aceite-turbo-om906.jpg",
+        description: "Manguera de retorno de descarga de aceite del turbocompresor para motores Mercedes Benz OM906. Código original 9069970382. Rubro: TURBO. Fabricada en caucho de alta resistencia térmica y al aceite, diseñada para asegurar el retorno eficiente del lubricante desde el turbo hacia el cárter del motor."
+    },
+    {
+        id: "P380",
+        name: "JGO. JUNTA SUPERIOR MOTOR OM906",
+        brand: "Mercedes Benz",
+        code: "9060101721",
+        originalCode: "9060101721",
+        image: "img/products/om906/jgo-junta-superior-motor-om906.jpg",
+        description: "Juego de juntas superior completo para motores Mercedes Benz OM906. Código original 9060101721. Rubro: JUNTAS. Incluye junta de tapa de cilindros, juntas de múltiple de admisión y escape, y todas las juntas necesarias para el sellado superior del motor. Fabricado con materiales de alta calidad resistentes a altas temperaturas y presión."
+    },
+    {
+        id: "P381",
+        name: "TURBO BORGWARNER K27 EURO2 OM906/O500 17288 MOTOR 906.977 HASTA 906.993",
+        brand: "Mercedes Benz",
+        code: "9060963199",
+        originalCode: "9060963199",
+        image: "img/products/om906/turbo-borgwarner-k27-om906.jpg",
+        description: "Turbocompresor BorgWarner K27 EURO2 para motores Mercedes Benz OM906 en chasis O500, modelo 17288. Compatible con motores desde 906.977 hasta 906.993. Código original 9060963199. Rubro: TURBO. Turbocompresor de alta performance diseñado para aumentar la potencia y eficiencia del motor, fabricado bajo estándares OEM para garantizar durabilidad y rendimiento óptimo."
+    },
+    {
+        id: "P382",
+        name: "FLEXIBLE COMBUSTIBLE OF1417/O500/OM906/LA-924",
+        brand: "Mercedes Benz",
+        code: "6934707064",
+        originalCode: "6934707064",
+        image: "img/products/om906/flexible-combustible-om906.jpg",
+        description: "Flexible de combustible para chasis Mercedes Benz OF1417 y O500 con motores OM906 LA y OM924. Código original 6934707064. Rubro: FLEXIBLES Y RÍGIDOS. Fabricado en caucho de alta resistencia al gasoil con refuerzos internos, diseñado para asegurar una conducción segura y estanca del combustible desde el tanque hacia el sistema de inyección."
+    },
+    {
+        id: "P383",
+        name: "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500",
+        brand: "Mercedes Benz",
+        code: "3824201828 / 3824208531",
+        originalCode: "3824201828 / 3824208531",
+        image: "img/products/om906/cano-compresor-serpentina-om906.jpg",
+        description: "Caño compresor tipo serpentina para APU (Auxiliary Power Unit) de chasis Mercedes Benz O500 con motor OM906. Códigos originales 3824201828 y 3824208531. Rubro: COMPRESOR. Fabricado en acero con recubrimiento anticorrosivo, diseñado para conducir el aire comprimido de manera eficiente en el sistema neumático del vehículo."
     }
 ];
 
