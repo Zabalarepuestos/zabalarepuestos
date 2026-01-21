@@ -3239,12 +3239,7 @@
         originalCode: "3824201036 / 3824200736",
         image: "img/products/om906/cano-compresor-serpentina-2-om906.jpg",
         description: "Caño de compresor tipo serpentina para APU (Auxiliary Power Unit) de chasis Mercedes Benz O500 con motor OM906. Códigos originales 3824201036 y 3824200736. Rubro: COMPRESOR. Tubo de acero en espiral diseñado para la refrigeración y conducción eficiente del aire comprimido."
-    }
-];
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = products;
-},
+    },
     {
         id: "P392",
         name: "BUJE (TUBO DISTANCIADOR)PALANCA ROD.TENSOR O500/OH1618/OM906",
@@ -3279,7 +3274,7 @@ if (typeof module !== 'undefined' && module.exports) {
         code: "9061840066",
         originalCode: "9061840066",
         image: "img/products/om906/eje-tubular-filtro-aceite-om906.jpg",
-        description: "Eje tubular para el filtro de aceite de motores Mercedes Benz OM906 y OM926. Código original 9061840066. Rubro: LUBRICACIÓN. Componente plástico de alta calidad diseñado para el correcto flujo y soporte del elemento filtrante de aceite."
+        description: "Eje tubular para el filtro de aceite de motores Mercedes Benz OM906 and OM926. Código original 9061840066. Rubro: LUBRICACIÓN. Componente plástico de alta calidad diseñado para el correcto flujo y soporte del elemento filtrante de aceite."
     },
     {
         id: "P396",
@@ -3298,12 +3293,7 @@ if (typeof module !== 'undefined' && module.exports) {
         originalCode: "6944204426 / 6944200326",
         image: "img/products/om906/cano-compresor-1624-om906-salida.jpg",
         description: "Caño de salida de compresor para camiones Mercedes Benz 1624 con motor OM906. Códigos originales 6944204426 y 6944200326. Rubro: COMPRESOR. Tubo rígido de alta precisión diseñado para la descarga segura de aire comprimido desde el compresor."
-    }
-];
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = products;
-},
+    },
     {
         id: "P398",
         name: "JUNTA RADIADOR ACEITE OM906/926",
@@ -3312,12 +3302,7 @@ if (typeof module !== 'undefined' && module.exports) {
         originalCode: "9061880280 / 9261880080",
         image: "img/products/om906/junta-radiador-aceite-om906.jpg",
         description: "Junta para el radiador de aceite de motores Mercedes Benz OM906 y OM926. Códigos originales 9061880280 y 9261880080. Rubro: JUNTAS. Fabricada en material de alta calidad para garantizar un sellado perfecto y prevenir fugas de aceite en el sistema de lubricación."
-    }
-];
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = products;
-},
+    },
     {
         id: "P399",
         name: "SOPORTE MOTOR TRASERO OM906 AXOR 1933",
@@ -3326,12 +3311,7 @@ if (typeof module !== 'undefined' && module.exports) {
         originalCode: "9402401118 / 9402401218",
         image: "img/products/om906/soporte-motor-trasero-axor-om906.jpg",
         description: "Soporte de motor trasero para camiones Mercedes Benz Axor 1933 con motor OM906. Códigos originales 9402401118 y 9402401218. Rubro: SUSPENSIÓN DE MOTOR. Fabricado con materiales de alta resistencia para absorber vibraciones y garantizar una sujeción segura del motor."
-    }
-];
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = products;
-},
+    },
     {
         id: "P400",
         name: "CAÑO RETORNO ACEITE OM906",
@@ -3340,12 +3320,7 @@ if (typeof module !== 'undefined' && module.exports) {
         originalCode: "9061871801",
         image: "img/products/om906/cano-retorno-aceite-om906.jpg",
         description: "Caño de retorno de aceite para motor Mercedes Benz OM906. Código original 9061871801. Rubro: LUBRICACIÓN. Conducto metálico diseñado para asegurar el retorno eficiente del aceite al cárter, fabricado con materiales resistentes a la corrosión y alta temperatura."
-    }
-];
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = products;
-},
+    },
     {
         id: "P401",
         name: "MANGUERA DEPOSITO COMPENSACION ATEGO 1725 OM906",
@@ -3354,12 +3329,7 @@ if (typeof module !== 'undefined' && module.exports) {
         originalCode: "9585010982",
         image: "img/products/om906/manguera-deposito-compensacion-atego-om906.jpg",
         description: "Manguera para el depósito de compensación de camiones Mercedes Benz Atego 1725 con motor OM906. Código original 9585010982. Rubro: RADIADOR. Fabricada con materiales de alta durabilidad para resistir la presión y temperatura del sistema de enfriamiento."
-    }
-];
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = products;
-},
+    },
     {
         id: "P402",
         name: "CAÑO RAD.1624 COMPLEMENTO DE (19440) OM906",
