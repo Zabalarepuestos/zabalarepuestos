@@ -1271,3 +1271,63 @@ body {
     height: 35px;
     fill: white;
 }
+
+
+
+/* Truck Animation Header */
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    /* Context for absolute positioning if needed, though we use transform */
+}
+
+.truck-icon-header {
+    height: 75px;
+    /* Fit within 80px header */
+    width: auto;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+    z-index: 20;
+}
+
+.truck-icon-header:hover {
+    transform: scale(1.1);
+}
+
+.truck-moving {
+    animation: driveTruckHeader 5s ease-in-out forwards;
+    pointer-events: none;
+    /* Disable clicks while moving */
+}
+
+@keyframes driveTruckHeader {
+    0% {
+        transform: translateX(0) scaleX(1);
+    }
+
+    45% {
+        /* Drive to the right - adjust distance based on screen width estimates */
+        transform: translateX(60vw) scaleX(1);
+    }
+
+    50% {
+        transform: translateX(60vw) scaleX(-1);
+    }
+
+    95% {
+        transform: translateX(0) scaleX(-1);
+    }
+
+    100% {
+        transform: translateX(0) scaleX(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .truck-icon-header {
+        display: none;
+    }
+}

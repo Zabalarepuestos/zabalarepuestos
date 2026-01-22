@@ -18,6 +18,7 @@
     <header class="main-header">
         <div class="container header-content">
             <div class="logo">
+                <img src="img/camion_animado.png" id="truck-anim" class="truck-icon-header" alt="Camión de reparto">
                 <h1>Zabala<span class="highlight">Repuestos</span></h1>
             </div>
             <button class="hamburger" id="hamburger" aria-label="Toggle menu">
@@ -361,18 +362,16 @@
                         <p>Lunes a Viernes: 8:30 - 13:00 / 16:30 - 20:00</p>
                         <p>Sábados: 9:00 - 13:00</p>
                     </div>
-
+                    <div class="map-container">
+                        <!-- Placeholder for map since we can't easily embed a real interactive one without API key or external iframe limits, styling a nice box instead -->
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.2388649891336!2d-68.52327782340417!3d-31.545058602485245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a9f1715dc57%3A0x8c201e7b0a2d9853!2sZabala%20Repuestos!5e0!3m2!1ses-419!2sar!4v1766191594059!5m2!1ses-419!2sar"
+                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                            title="Mapa de ubicación de Zabala Repuestos">
+                        </iframe>
+                        <div class="map-overlay-hint">Av Rioja 931 Sur</div>
+                    </div>
                 </div>
-                <div class="map-container">
-                    <!-- Placeholder for map since we can't easily embed a real interactive one without API key or external iframe limits, styling a nice box instead -->
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.2388649891336!2d-68.52327782340417!3d-31.545058602485245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a9f1715dc57%3A0x8c201e7b0a2d9853!2sZabala%20Repuestos!5e0!3m2!1ses-419!2sar!4v1766191594059!5m2!1ses-419!2sar"
-                        width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
-                        title="Mapa de ubicación de Zabala Repuestos">
-                    </iframe>
-                    <div class="map-overlay-hint">Av Rioja 931 Sur</div>
-                </div>
-            </div>
         </section>
     </main>
 

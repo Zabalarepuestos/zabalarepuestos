@@ -159,4 +159,20 @@ document.addEventListener('DOMContentLoaded', () => {
             }, 250);
         });
     }
+
+    // Truck Animation
+    const truck = document.getElementById('truck-anim');
+    if (truck) {
+        truck.addEventListener('click', () => {
+            // Prevent spamming
+            if (truck.classList.contains('truck-moving')) return;
+
+            truck.classList.add('truck-moving');
+
+            // Remove class after animation completes
+            truck.addEventListener('animationend', () => {
+                truck.classList.remove('truck-moving');
+            }, { once: true });
+        });
+    }
 });
