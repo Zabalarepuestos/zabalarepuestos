@@ -3625,6 +3625,346 @@ const products = [
         "originalCode": "9060101072 9260104272",
         "image": "img/products/om906/varilla-nivel-aceite-485mm-om906.jpg",
         "description": "VARILLA NIVEL ACEITE 485MM. ATEGO/AXOR OM906/26 9060101072 9260104272"
+    },
+    {
+        "id": "P435",
+        "name": "MANGUERA SUPERIOR RADIADOR OF1722/1418/1519/OM924/OM904",
+        "brand": "Mercedes Benz",
+        "code": "3845010184 3845011682 3845014084",
+        "originalCode": "3845010184 3845011682 3845014084",
+        "image": "img/products/om904/manguera-superior-radiador-om904.jpg",
+        "description": "MANGUERA SUPERIOR RADIADOR OF1722/1418/1519/OM924/OM904 3845010184 3845011682 3845014084",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P436",
+        "name": "SENSOR TERMPERATURA Y HUMEDAD OM924/906/926",
+        "brand": "Mercedes Benz",
+        "code": "0071531128",
+        "originalCode": "0071531128",
+        "image": "img/products/om904/sensor-temperatura-humedad-om924.jpg",
+        "description": "SENSOR TERMPERATURA Y HUMEDAD OM924/906/926 0071531128",
+        "rubro": "ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P437",
+        "name": "ARBOL LEVAS OM924 EURO V C/ENGRANAJE 2013...",
+        "brand": "Mercedes Benz",
+        "code": "9240500001 9240500201",
+        "originalCode": "9240500001 9240500201",
+        "image": "img/products/om904/arbol-levas-om924-euro-v.jpg",
+        "description": "ARBOL LEVAS OM924 EURO V C/ENGRANAJE 2013... 9240500001 9240500201",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P438",
+        "name": "CAÑO RIGIDO SALIDA COMPRESOR 5 TRAMO OF1721/1722 OM924 EURO 5",
+        "brand": "Mercedes Benz",
+        "code": "3844201831",
+        "originalCode": "3844201831",
+        "image": "img/products/om904/cano-rigido-salida-compresor-om924.jpg",
+        "description": "CAÑO RIGIDO SALIDA COMPRESOR 5 TRAMO OF1721/1722 OM924 EURO 5 3844201831",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P439",
+        "name": "CAÑO RIGIDO SALIDA COMPRESOR 3 TRAMO OF1721/1722 OM924 EURO 5",
+        "brand": "Mercedes Benz",
+        "code": "3844201931",
+        "originalCode": "3844201931",
+        "image": "img/products/om904/cano-rigido-salida-compresor-3-tramo-om924.jpg",
+        "description": "CAÑO RIGIDO SALIDA COMPRESOR 3 TRAMO OF1721/1722 OM924 EURO 5 3844201931",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P440",
+        "name": "CAÑO COMPRESOR (SERPENTINA) 2° TRAMO OF1721/1722/ OM924/ LA EURO 5",
+        "brand": "Mercedes Benz",
+        "code": "3844200331",
+        "originalCode": "3844200331",
+        "image": "img/products/om904/cano-compresor-serpentina-2-tramo-om924.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) 2° TRAMO OF1721/1722/ OM924/ LA EURO 5 3844200331",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P441",
+        "name": "CAÑO SALIDA COMPRESOR 1 TRAMO OF1721/1722 OM924 EURO 5",
+        "brand": "Mercedes Benz",
+        "code": "3844200197",
+        "originalCode": "3844200197",
+        "image": "img/products/om904/cano-salida-compresor-1-tramo-om924.jpg",
+        "description": "CAÑO SALIDA COMPRESOR 1 TRAMO OF1721/1722 OM924 EURO 5 3844200197",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P442",
+        "name": "JUNTA MULTIPLE ESCAPE INOXIDABLE ACCELO/ATEGO/AXOR OM924LA/926LA MODELO NUEVO",
+        "brand": "Mercedes Benz",
+        "code": "9261420080",
+        "originalCode": "9261420080",
+        "image": "img/products/om904/junta-multiple-escape-inox-om924.jpg",
+        "description": "JUNTA MULTIPLE ESCAPE INOXIDABLE ACCELO/ATEGO/AXOR OM924LA/926LA MODELO NUEVO 9261420080",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P443",
+        "name": "SOPORTE MOTOR TRASERO OM924LA/926LA/O500/ ATEGO 1725/1732",
+        "brand": "Mercedes Benz",
+        "code": "6342410013 3822410113 3822410213",
+        "originalCode": "6342410013 3822410113 3822410213",
+        "image": "img/products/om904/soporte-motor-trasero-om924.jpg",
+        "description": "SOPORTE MOTOR TRASERO OM924LA/926LA/O500/ ATEGO 1725/1732 6342410013 3822410113 3822410213",
+        "rubro": "SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P444",
+        "name": "BUJE BIELA STD 42mm - 46.52mm OM924/926",
+        "brand": "Mercedes Benz",
+        "code": "9060381050",
+        "originalCode": "9060381050",
+        "image": "img/products/om904/buje-biela-std-om924.jpg",
+        "description": "BUJE BIELA STD 42mm - 46.52mm OM924/926 9060381050",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P445",
+        "name": "DEFLECTOR RAD. OF1519-1621 OM924",
+        "brand": "Mercedes Benz",
+        "code": "3845050155",
+        "originalCode": "3845050155",
+        "image": "img/products/om904/deflector-radiador-om924.jpg",
+        "description": "DEFLECTOR RAD. OF1519-1621 OM924 3845050155",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P446",
+        "name": "CAÑO RAD. \"T\" A DEPOSITO OF1721/1722 OM924",
+        "brand": "Mercedes Benz",
+        "code": "3845011184 3845014984",
+        "originalCode": "3845011184 3845014984",
+        "image": "img/products/om904/cano-radiador-t-deposito-om924.jpg",
+        "description": "CAÑO RAD. \"T\" A DEPOSITO OF1721/1722 OM924 3845011184 3845014984",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P447",
+        "name": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH",
+        "brand": "Mercedes Benz",
+        "code": "3685013882",
+        "originalCode": "3685013882",
+        "image": "img/products/om904/cano-radiador-termostato-om924.jpg",
+        "description": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH 3685013882",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P448",
+        "name": "SOPORTE MOTOR TRASERO OM924/926 ATEGO 1726/2426",
+        "brand": "Mercedes Benz",
+        "code": "9582402118",
+        "originalCode": "9582402118",
+        "image": "img/products/om904/soporte-motor-trasero-om924-1726.jpg",
+        "description": "SOPORTE MOTOR TRASERO OM924/926 ATEGO 1726/2426 9582402118",
+        "rubro": "SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P449",
+        "name": "MANGUERA FILTRO AIRE OF1519/1721/1722 OM924",
+        "brand": "Mercedes Benz",
+        "code": "3845202401 3845201801 3845201601",
+        "originalCode": "3845202401 3845201801 3845201601",
+        "image": "img/products/om904/manguera-filtro-aire-om924.jpg",
+        "description": "MANGUERA FILTRO AIRE OF1519/1721/1722 OM924 3845202401 3845201801 3845201601",
+        "rubro": "FILTROS DE AIRE"
+    },
+    {
+        "id": "P450",
+        "name": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
+        "brand": "Mercedes Benz",
+        "code": "3685013982",
+        "originalCode": "3685013982",
+        "image": "img/products/om904/cano-radiador-liquido-refrigerante-om924.jpg",
+        "description": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P451",
+        "name": "CAÑO RADIADOR DEL TERMOSTATO AL RADIADOR. OHL1621 - 1721 OM924",
+        "brand": "Mercedes Benz",
+        "code": "3685014682 3685014082",
+        "originalCode": "3685014682 3685014082",
+        "image": "img/products/om904/cano-radiador-termostato-radiador-om924.jpg",
+        "description": "CAÑO RADIADOR DEL TERMOSTATO AL RADIADOR. OHL1621 - 1721 OM924 3685014682 3685014082",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P452",
+        "name": "MANGUERA BAJADA DEPOSITO COMPENSACION ACCELO 815/1016 OM924",
+        "brand": "Mercedes Benz",
+        "code": "9795012382",
+        "originalCode": "9795012382",
+        "image": "img/products/om904/manguera-bajada-deposito-compensacion-om924.jpg",
+        "description": "MANGUERA BAJADA DEPOSITO COMPENSACION ACCELO 815/1016 OM924 9795012382",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P453",
+        "name": "CAÑO RIGIDO SALIDA APU L1622/L1624 OM924LA",
+        "brand": "Mercedes Benz",
+        "code": "6934202526 6954207828 6944200426",
+        "originalCode": "6934202526 6954207828 6944200426",
+        "image": "img/products/om904/cano-rigido-salida-apu-om924.jpg",
+        "description": "CAÑO RIGIDO SALIDA APU L1622/L1624 OM924LA 6934202526 6954207828 6944200426",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P454",
+        "name": "DEPOSITO CARBON 1618/O500/1724/OM924/26",
+        "brand": "Mercedes Benz",
+        "code": "3824327501",
+        "originalCode": "3824327501",
+        "image": "img/products/om904/deposito-carbon-om924.jpg",
+        "description": "DEPOSITO CARBON 1618/O500/1724/OM924/26 3824327501",
+        "rubro": "FRENO HIDRAULICO"
+    },
+    {
+        "id": "P455",
+        "name": "VARILLA NIVEL ACEITE 472MM OM924LA EURO 5 OF1417 OF1519 OF1721 OF1722",
+        "brand": "Mercedes Benz",
+        "code": ">00143",
+        "originalCode": "9240101072",
+        "image": "img/products/om904/varilla-nivel-aceite-472mm-om924.jpg",
+        "description": "VARILLA NIVEL ACEITE 472MM OM924LA EURO 5 OF1417 OF1519 OF1721 OF1722 9240101072",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P456",
+        "name": "INYECTOR UREA OM924/926 ATEGO/AXOR",
+        "brand": "Mercedes Benz",
+        "code": "0001400030",
+        "originalCode": "0001400030",
+        "image": "img/products/om904/inyector-urea-om924.jpg",
+        "description": "INYECTOR UREA OM924/926 ATEGO/AXOR 0001400030",
+        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P457",
+        "name": "KIT FILTROS ACEITE/COMBUSTIBLE/SEPARADOR DE AGUA OM924 (EURO 5) POST 2017",
+        "brand": "Mercedes Benz",
+        "code": "0000901251 / 0004779915kz + 0001801609 / 9061800109 + 9060900051",
+        "originalCode": "0000901251 / 0004779915kz + 0001801609 / 9061800109 + 9060900051",
+        "image": "img/products/om904/kit-filtros-om924-euro5.jpg",
+        "description": "KIT FILTROS ACEITE/COMBUSTIBLE/SEPARADOR DE AGUA OM924 (EURO 5) POST 2017 0000901251 / 0004779915kz + 0001801609 / 9061800109 + 9060900051",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P458",
+        "name": "TURBO BORGWARNER OM924LA ATEGO 1419/ACCELO 815C",
+        "brand": "Mercedes Benz",
+        "code": "9240963399",
+        "originalCode": "9240963399",
+        "image": "img/products/om904/turbo-borgwarner-om924.jpg",
+        "description": "TURBO BORGWARNER OM924LA ATEGO 1419/ACCELO 815C 9240963399",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P459",
+        "name": "CAÑO D/H CORTO 1622/1624 OM924",
+        "brand": "Mercedes Benz",
+        "code": "6952600095",
+        "originalCode": "6952600095",
+        "image": "img/products/om904/cano-dh-corto-om924.jpg",
+        "description": "CAÑO D/H CORTO 1622/1624 OM924 6952600095",
+        "rubro": "DIRECCIÓN"
+    },
+    {
+        "id": "P460",
+        "name": "JUNTA T/CIL.SABO OM924/A/LA",
+        "brand": "Mercedes Benz",
+        "code": "9240160620 9240160720 9240161120",
+        "originalCode": "9240160620 9240160720 9240161120",
+        "image": "img/products/om904/junta-tapa-cilindro-sabo-om924.jpg",
+        "description": "JUNTA T/CIL.SABO OM924/A/LA 9240160620 9240160720 9240161120",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P461",
+        "name": "PALETA PLASTICO OM924LA OF1722 C/ARO 8 PALAS.654mm.C/VISCOSO",
+        "brand": "Mercedes Benz",
+        "code": "9062001323",
+        "originalCode": "9062001323",
+        "image": "img/products/om904/paleta-plastico-om924la.jpg",
+        "description": "PALETA PLASTICO OM924LA OF1722 C/ARO 8 PALAS.654mm.C/VISCOSO 9062001323",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P462",
+        "name": "TAPON DESAGUE PURGADOR BLOCK OM924/906/904/926 SPRINTER 611",
+        "brand": "Mercedes Benz",
+        "code": "6019970430",
+        "originalCode": "6019970430",
+        "image": "img/products/om904/tapon-desague-purgador-block-om924.jpg",
+        "description": "TAPON DESAGUE PURGADOR BLOCK OM924/906/904/926 SPRINTER 611 6019970430",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P463",
+        "name": "FLEXIBLE DE ESCAPE MB OF1519/1621 OM924 EURO V",
+        "brand": "Mercedes Benz",
+        "code": "3844904131",
+        "originalCode": "3844904131",
+        "image": "img/products/om904/flexible-escape-om924.jpg",
+        "description": "FLEXIBLE DE ESCAPE MB OF1519/1621 OM924 EURO V 3844904131",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P464",
+        "name": "CAÑO SALIDA DE BOMBA A CAJA D/HIDR.1624 OM924",
+        "brand": "Mercedes Benz",
+        "code": "6952600085",
+        "originalCode": "6952600085",
+        "image": "img/products/om904/cano-salida-bomba-direccion-om924.jpg",
+        "description": "CAÑO SALIDA DE BOMBA A CAJA D/HIDR.1624 OM924 6952600085",
+        "rubro": "DIRECCIÓN"
+    },
+    {
+        "id": "P465",
+        "name": "BOMBA AGUA OM924/926",
+        "brand": "Mercedes Benz",
+        "code": "9062004801 9062005701 9062006101 9062004201",
+        "originalCode": "9062004801 9062005701 9062006101 9062004201",
+        "image": "img/products/om904/bomba-agua-om924.jpg",
+        "description": "BOMBA AGUA OM924/926 9062004801 9062005701 9062006101 9062004201",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P466",
+        "name": "PALETA PLASTICO OM924/L1624/1725 C/ARO 8 PALAS.654mm.",
+        "brand": "Mercedes Benz",
+        "code": "9062050106 0032051306 9062001323 6C458600CA",
+        "originalCode": "9062050106 0032051306 9062001323 6C458600CA",
+        "image": "img/products/om904/paleta-plastico-om924-1624.jpg",
+        "description": "PALETA PLASTICO OM924/L1624/1725 C/ARO 8 PALAS.654mm. 9062050106 0032051306 9062001323 6C458600CA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P467",
+        "name": "CODO BAJADA TURBO OF1721 OM924 COMP.",
+        "brand": "Mercedes Benz",
+        "code": "9240900028",
+        "originalCode": "9240900028",
+        "image": "img/products/om904/codo-bajada-turbo-om924.jpg",
+        "description": "CODO BAJADA TURBO OF1721 OM924 COMP. 9240900028",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P468",
+        "name": "VISCOSO SOLA OF1722E/OM924LA/1624/1725",
+        "brand": "Mercedes Benz",
+        "code": "9062001522 9062001723",
+        "originalCode": "9062001522 9062001723",
+        "image": "img/products/om904/viscoso-om924.jpg",
+        "description": "VISCOSO SOLA OF1722E/OM924LA/1624/1725 9062001522 9062001723",
+        "rubro": "REFRIGERACIÓN"
     }
 ];
 
