@@ -3965,6 +3965,316 @@ const products = [
         "image": "img/products/om924/viscoso-om924.jpg",
         "description": "VISCOSO SOLA OF1722E/OM924LA/1624/1725 9062001522 9062001723",
         "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P469",
+        "name": "FLEXIBLE LEVANTA CABINA 2560 mm.OM926/1933",
+        "brand": "Mercedes Benz",
+        "code": "9405532782",
+        "originalCode": "9405532782",
+        "image": "img/products/om926/flexible-levanta-cabina-2560-om926.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA 2560 mm.OM926/1933 9405532782",
+        "rubro": "890-CABINA"
+    },
+    {
+        "id": "P470",
+        "name": "CAÑO SERPENTINA 2 TRAMO COMPRESOR OF1519 OM926 EURO V",
+        "brand": "Mercedes Benz",
+        "code": "3844208629",
+        "originalCode": "3844208629",
+        "image": "img/products/om926/cano-serpentina-2-tramo-compresor-om926.jpg",
+        "description": "CAÑO SERPENTINA 2 TRAMO COMPRESOR OF1519 OM926 EURO V 3844208629",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P471",
+        "name": "RIGIDO COMPRESOR INTERMEDIO O500 OM926",
+        "brand": "Mercedes Benz",
+        "code": "3824204835",
+        "originalCode": "3824204835",
+        "image": "img/products/om926/rigido-compresor-intermedio-o500-om926.jpg",
+        "description": "RIGIDO COMPRESOR INTERMEDIO O500 OM926 3824204835",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P472",
+        "name": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V",
+        "brand": "Mercedes Benz",
+        "code": "3824208833",
+        "originalCode": "3824208833",
+        "image": "img/products/om926/cano-rigido-compresor-5-tramo-o500-om926.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V 3824208833",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P473",
+        "name": "TURBO OM926LA AXOR 1933 EURO II/III 350HP",
+        "brand": "Mercedes Benz",
+        "code": "9260960399 9260960999 9260961899 9260961999 9260962299 9260963199 9260963299 9260964499",
+        "originalCode": "9260960399 9260960999 9260961899 9260961999 9260962299 9260963199 9260963299 9260964499",
+        "image": "img/products/om926/turbo-om926-axor-1933.jpg",
+        "description": "TURBO OM926LA AXOR 1933 EURO II/III 350HP 9260960399 9260960999 9260961899 9260961999 9260962299 9260963199 9260963299 9260964499",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P474",
+        "name": "VARILLA NIVEL ACEITE O500/OM926",
+        "brand": "Mercedes Benz",
+        "code": "9060101074",
+        "originalCode": "9060101074",
+        "image": "img/products/om926/varilla-nivel-aceite-o500-om926.jpg",
+        "description": "VARILLA NIVEL ACEITE O500/OM926 9060101074",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P475",
+        "name": "CAÑO COMPRESOR (SERPENTINA) 3° TRAMO OM500M/OM926",
+        "brand": "Mercedes Benz",
+        "code": "3824204134 3824204828 3824200736",
+        "originalCode": "3824204134 3824204828 3824200736",
+        "image": "img/products/om926/cano-compresor-serpentina-3-tramo-om926.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) 3° TRAMO OM500M/OM926 3824204134 3824204828 3824200736",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P476",
+        "name": "CAÑO RIGIDO COMPRESOR 3 TRAMO OF1519/OM926/ EURO 5",
+        "brand": "Mercedes Benz",
+        "code": "3844208529",
+        "originalCode": "3844208529",
+        "image": "img/products/om926/cano-rigido-compresor-3-tramo-om926-euro-5.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 3 TRAMO OF1519/OM926/ EURO 5 3844208529",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P477",
+        "name": "CEBADOR CON SOP 457/OM906 LA/OM926/O500",
+        "brand": "Mercedes Benz",
+        "code": "0000908550 0000909250 0440011021",
+        "originalCode": "0000908550 0000909250 0440011021",
+        "image": "img/products/om926/cebador-con-soporte-om926.jpg",
+        "description": "CEBADOR CON SOP 457/OM906 LA/OM926/O500 0000908550 0000909250 0440011021",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P478",
+        "name": "CAÑO RIGIDO DE SALIDA COMPRESOR 4 TRAMO OF1519/OM926/ EURO 5",
+        "brand": "Mercedes Benz",
+        "code": "3844208729",
+        "originalCode": "3844208729",
+        "image": "img/products/om926/cano-rigido-salida-compresor-4-tramo-om926.jpg",
+        "description": "CAÑO RIGIDO DE SALIDA COMPRESOR 4 TRAMO OF1519/OM926/ EURO 5 3844208729",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P479",
+        "name": "ENTRETAPA SOLA COMPRESOR BICILINDRICO WABCO 85mm O500 OM926",
+        "brand": "Mercedes Benz",
+        "code": "0011303015 4115539212 9061301515 9061301815 9061302415 9061303315 1100295001 9125100050",
+        "originalCode": "0011303015 4115539212 9061301515 9061301815 9061302415 9061303315 1100295001 9125100050",
+        "image": "img/products/om926/entretapa-compresor-wabco-85mm-om926.jpg",
+        "description": "ENTRETAPA SOLA COMPRESOR BICILINDRICO WABCO 85mm O500 OM926 0011303015 4115539212 9061301515 9061301815 9061302415 9061303315 1100295001 9125100050",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P480",
+        "name": "JGO.JUNTA MOTOR SUPERIOR C/RETEN SABO OM926",
+        "brand": "Mercedes Benz",
+        "code": "9260101024",
+        "originalCode": "9260101024",
+        "image": "img/products/om926/juego-juntas-motor-superior-om926.jpg",
+        "description": "JGO.JUNTA MOTOR SUPERIOR C/RETEN SABO OM926 9260101024",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P481",
+        "name": "COMPRESOR COMPLETO 85mm OM926 BICILINDRICO TAPA LARGA",
+        "brand": "Mercedes Benz",
+        "code": "9061306815 9061306415 9061306715 9125100030 9125100050 9125100051",
+        "originalCode": "9061306815 9061306415 9061306715 9125100030 9125100050 9125100051",
+        "image": "img/products/om926/compresor-completo-85mm-om926.jpg",
+        "description": "COMPRESOR COMPLETO 85mm OM926 BICILINDRICO TAPA LARGA 9061306815 9061306415 9061306715 9125100030 9125100050 9125100051",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P482",
+        "name": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
+        "brand": "Mercedes Benz",
+        "code": "3685013982",
+        "originalCode": "3685013982",
+        "image": "img/products/om926/cano-radiador-tuberria-om926.png",
+        "description": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P483",
+        "name": "CAÑO COMPRESOR (SERPENTINA) APU OM926/AXOR 1933",
+        "brand": "Mercedes Benz",
+        "code": "9584201133",
+        "originalCode": "9584201133",
+        "image": "img/products/om926/cano-compresor-serpentina-apu-om926.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) APU OM926/AXOR 1933 9584201133",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P484",
+        "name": "MANGUERA REFRIGERACION CAJA OM904/906/O500/OM926",
+        "brand": "Mercedes Benz",
+        "code": "3685014482 900271050024",
+        "originalCode": "3685014482 900271050024",
+        "image": "img/products/om926/manguera-refrigeracion-caja-om926.jpg",
+        "description": "MANGUERA REFRIGERACION CAJA OM904/906/O500/OM926 3685014482 900271050024",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P485",
+        "name": "JUNTA TAPA CILINDRO ELRING OM926 ATEGO/AXOR",
+        "brand": "Mercedes Benz",
+        "code": "9260160820",
+        "originalCode": "9260160820",
+        "image": "img/products/om926/junta-tapa-cilindro-elring-om926.jpg",
+        "description": "JUNTA TAPA CILINDRO ELRING OM926 ATEGO/AXOR 9260160820",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P486",
+        "name": "JUEGO JUNTA DESCARBONIZACION 106MM.OM926 ORIGINAL",
+        "brand": "Mercedes Benz",
+        "code": "9260100320 9260103520",
+        "originalCode": "9260100320 9260103520",
+        "image": "img/products/om926/juego-junta-descarbonizacion-om926.jpg",
+        "description": "JUEGO JUNTA DESCARBONIZACION 106MM.OM926 ORIGINAL 9260100320 9260103520",
+        "rubro": "TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P487",
+        "name": "VISCOSO SOLO C/CABLE ELECTROMAGNETICO OM926LA ATEGO/AXOR 1726/1729/2426",
+        "brand": "Mercedes Benz",
+        "code": "9262000223",
+        "originalCode": "9262000223",
+        "image": "img/products/om926/viscoso-electromagnetico-om926.jpg",
+        "description": "VISCOSO SOLO C/CABLE ELECTROMAGNETICO OM926LA ATEGO/AXOR 1726/1729/2426 9262000223",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P488",
+        "name": "PALETA CON VISCOSO C/CABLE ELECTROMAGNETICO OM926LA ATEGO/AXOR 1726/1729/2426",
+        "brand": "Mercedes Benz",
+        "code": "9262000223",
+        "originalCode": "9262000223",
+        "image": "img/products/om926/paleta-con-viscoso-electromagnetico-om926.jpg",
+        "description": "PALETA CON VISCOSO C/CABLE ELECTROMAGNETICO OM926LA ATEGO/AXOR 1726/1729/2426 9262000223",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P489",
+        "name": "TAPA COMPLETA WABCO 85MM BICILINDRICO TAPA LARGA O-500/ATEGO/AXOR OM926",
+        "brand": "Mercedes Benz",
+        "code": "4115539212 0011303015",
+        "originalCode": "4115539212 0011303015",
+        "image": "img/products/om926/tapa-completa-compresor-wabco-85mm-om926.jpg",
+        "description": "TAPA COMPLETA WABCO 85MM BICILINDRICO TAPA LARGA O-500/ATEGO/AXOR OM926 4115539212 0011303015",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P490",
+        "name": "CAÑO COMPRESOR 1624L/1933/2035/AXOR OM926 3ER TRAMO",
+        "brand": "Mercedes Benz",
+        "code": "9584209326 6944204626",
+        "originalCode": "9584209326 6944204626",
+        "image": "img/products/om926/cano-compresor-3-tramo-axor-om926.jpg",
+        "description": "CAÑO COMPRESOR 1624L/1933/2035/AXOR OM926 3ER TRAMO 9584209326 6944204626",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P491",
+        "name": "CAÑO COMPRESOR 1933 OM926 SALIDA COMPRESOR AXOR",
+        "brand": "Mercedes Benz",
+        "code": "9584209033",
+        "originalCode": "9584209033",
+        "image": "img/products/om926/cano-salida-compresor-axor-om926.jpg",
+        "description": "CAÑO COMPRESOR 1933 OM926 SALIDA COMPRESOR AXOR 9584209033",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P492",
+        "name": "CAÑO COMPRESOR 1933/2035/AXOR OM926 2DO TRAMO",
+        "brand": "Mercedes Benz",
+        "code": "9584204129",
+        "originalCode": "9584204129",
+        "image": "img/products/om926/cano-compresor-2-tramo-axor-om926.jpg",
+        "description": "CAÑO COMPRESOR 1933/2035/AXOR OM926 2DO TRAMO 9584204129",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P493",
+        "name": "KIT FILTROS ACEITE/COMBUSTIBLE/SEPARADOR DE AGUA OM926 (EURO 5) POST 2017",
+        "brand": "Mercedes Benz",
+        "code": "9060900051 / 0000901251 / 0004779915kz + 0001801709",
+        "originalCode": "9060900051 / 0000901251 / 0004779915kz + 0001801709",
+        "image": "img/products/om926/kit-filtros-om926-euro-5.jpg",
+        "description": "KIT FILTROS ACEITE/COMBUSTIBLE/SEPARADOR DE AGUA OM926 (EURO 5) POST 2017 9060900051 / 0000901251 / 0004779915kz + 0001801709",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P494",
+        "name": "CAÑO COMPRESOR 1634/1933/2533/AXOR OM926 4TO TRAMO A VALVULA",
+        "brand": "Mercedes Benz",
+        "code": "9584209426",
+        "originalCode": "9584209426",
+        "image": "img/products/om926/cano-compresor-4-tramo-axor-om926.jpg",
+        "description": "CAÑO COMPRESOR 1634/1933/2533/AXOR OM926 4TO TRAMO A VALVULA 9584209426",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P495",
+        "name": "VISCOSO SOLO AXOR 1933/2831/OM926LA",
+        "brand": "Mercedes Benz",
+        "code": "9062001923 9062001222 9062002022 9062001922 9262000022",
+        "originalCode": "9062001923 9062001222 9062002022 9062001922 9262000022",
+        "image": "img/products/om926/viscoso-solo-axor-om926.jpg",
+        "description": "VISCOSO SOLO AXOR 1933/2831/OM926LA 9062001923 9062001222 9062002022 9062001922 9262000022",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P496",
+        "name": "JUNTA TAPA CILINDRO OM926/A/LA SABO",
+        "brand": "Mercedes Benz",
+        "code": "9260160820",
+        "originalCode": "9260160820",
+        "image": "img/products/om926/junta-tapa-cilindro-sabo-om926.jpg",
+        "description": "JUNTA TAPA CILINDRO OM926/A/LA SABO 9260160820",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P497",
+        "name": "TENSOR DE CORREA O500/OM926/OF1115",
+        "brand": "Mercedes Benz",
+        "code": "9062000370 9062004670",
+        "originalCode": "9062000370 9062004670",
+        "image": "img/products/om926/tensor-correa-om926.jpg",
+        "description": "TENSOR DE CORREA O500/OM926/OF1115 9062000370 9062004670",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P498",
+        "name": "CODO BAJADA TURBO AXOR 1933/2831 OM926 COMP.",
+        "brand": "Mercedes Benz",
+        "code": "9061400153",
+        "originalCode": "9061400153",
+        "image": "img/products/om926/codo-bajada-turbo-om926.jpg",
+        "description": "CODO BAJADA TURBO AXOR 1933/2831 OM926 COMP. 9061400153",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P499",
+        "name": "JUEGO JUNTA DESCARBONIZACION 106MM.OM926 ELRING",
+        "brand": "Mercedes Benz",
+        "code": "9260100320 9260103520",
+        "originalCode": "9260100320 9260103520",
+        "image": "img/products/om926/juego-junta-descarbonizacion-elring-om926.jpg",
+        "description": "JUEGO JUNTA DESCARBONIZACION 106MM.OM926 ELRING 9260100320 9260103520",
+        "rubro": "TAPA CILINDRO Y VÁLVULA"
     }
 ];
 
