@@ -5335,6 +5335,486 @@ const products = [
         "image": "img/products/om611/valvula_venteo_om611.jpg",
         "description": "VALVULA VENTEO CDI OM611 6110160134",
         "rubro": "SPRINTER"
+    },
+    {
+        "id": "P606",
+        "name": "CONEXION RECTA FLEXIBLE BOMBA COMBUSTIBLE A SENSOR PRESION OM611/CDI",
+        "brand": "Mercedes Benz",
+        "code": "",
+        "originalCode": "",
+        "image": "img/products/om611/conexion_recta_flexible_bomba_combustible_sensor_presion_om611.jpg",
+        "description": "CONEXION RECTA FLEXIBLE BOMBA COMBUSTIBLE A SENSOR PRESION OM611/CDI",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P607",
+        "name": "CONEXION CURVA FLEXIBLE BOMBA COMBUSTIBLE A SENSOR PRESION OM611/CDI",
+        "brand": "Mercedes Benz",
+        "code": "T10700001",
+        "originalCode": "T10700001",
+        "image": "img/products/om611/conexion_curva_flexible_bomba_combustible_sensor_presion_om611.jpg",
+        "description": "CONEXION CURVA FLEXIBLE BOMBA COMBUSTIBLE A SENSOR PRESION OM611/CDI T10700001",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P608",
+        "name": "BARRA TIRO CAMBIO DE CAJA SPR CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "9032600189 9032680025",
+        "originalCode": "9032600189 9032680025",
+        "image": "img/products/om611/barra_tiro_cambio_caja_spr_cdi_om611.jpg",
+        "description": "BARRA TIRO CAMBIO DE CAJA SPR CDI OM611 9032600189 9032680025",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P609",
+        "name": "BULON SOPORTE TOBERA INYECCION CDI 313/413 OM611",
+        "brand": "Mercedes Benz",
+        "code": "0039904012 0049902812 0009902907",
+        "originalCode": "0039904012 0049902812 0009902907",
+        "image": "img/products/om611/bulon_soporte_tobera_inyeccion_cdi_om611.jpg",
+        "description": "BULON SOPORTE TOBERA INYECCION CDI 313/413 OM611 0039904012 0049902812 0009902907",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P610",
+        "name": "VOLANTE MOTOR BIMASA OM611 SPRINTER 313 CDI LUK",
+        "brand": "Mercedes Benz",
+        "code": "6110302005",
+        "originalCode": "6110302005",
+        "image": "img/products/om611/volante_motor_bimasa_om611_sprinter_313_cdi_luk.jpg",
+        "description": "VOLANTE MOTOR BIMASA OM611 SPRINTER 313 CDI LUK 6110302005",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P611",
+        "name": "TAPA FILTRO ACEITE OM611",
+        "brand": "Mercedes Benz",
+        "code": "6111800210",
+        "originalCode": "6111800210",
+        "image": "img/products/om611/tapa_filtro_aceite_om611.jpg",
+        "description": "TAPA FILTRO ACEITE OM611 6111800210",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P612",
+        "name": "ORING FLEXIBLE COMBUSTIBLE OM611",
+        "brand": "Mercedes Benz",
+        "code": "6019970645",
+        "originalCode": "6019970645",
+        "image": "img/products/om611/oring_flexible_combustible_om611.jpg",
+        "description": "ORING FLEXIBLE COMBUSTIBLE OM611 6019970645",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P613",
+        "name": "BOTADOR VALVULA OM611 SPRINTER 313/413",
+        "brand": "Mercedes Benz",
+        "code": "6110500225",
+        "originalCode": "6110500225",
+        "image": "img/products/om611/botador_valvula_om611_sprinter.jpg",
+        "description": "BOTADOR VALVULA OM611 SPRINTER 313/413 6110500225",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P614",
+        "name": "CAÑO TERMOSTATO OM611 CDI311/313",
+        "brand": "Mercedes Benz",
+        "code": "6112030582",
+        "originalCode": "6112030582",
+        "image": "img/products/om611/cano_termostato_om611_cdi.jpg",
+        "description": "CAÑO TERMOSTATO OM611 CDI311/313 6112030582",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P615",
+        "name": "VALVULA SOBREPRESION EN EL CARTER DISTRIBUCION OM611",
+        "brand": "Mercedes Benz",
+        "code": "6111800115 6111800215",
+        "originalCode": "6111800115 6111800215",
+        "image": "img/products/om611/valvula_sobrepresion_carter_distribucion_om611.jpg",
+        "description": "VALVULA SOBREPRESION EN EL CARTER DISTRIBUCION OM611 6111800115 6111800215",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P616",
+        "name": "ENGRANAJE INTERMEDIO ACCIONAMIENTO BOMBA ALTA PRESION CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "6460500605 6110500405",
+        "originalCode": "6460500605 6110500405",
+        "image": "img/products/om611/engranaje_intermedio_bomba_alta_presion_cdi_om611.jpg",
+        "description": "ENGRANAJE INTERMEDIO ACCIONAMIENTO BOMBA ALTA PRESION CDI OM611 6460500605 6110500405",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P617",
+        "name": "BULBO PRESION COMBUSTIBLE OM611/311/313/411/413",
+        "brand": "Mercedes Benz",
+        "code": "0051535828 0071530228 0281002942",
+        "originalCode": "0051535828 0071530228 0281002942",
+        "image": "img/products/om611/bulbo_presion_combustible_om611.jpg",
+        "description": "BULBO PRESION COMBUSTIBLE OM611/311/313/411/413 0051535828 0071530228 0281002942",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P618",
+        "name": "JGO.JUNTA MOTOR COMPLETO OM611",
+        "brand": "Mercedes Benz",
+        "code": "80297",
+        "originalCode": "80297",
+        "image": "img/products/om611/juego_junta_motor_completo_om611.jpg",
+        "description": "JGO.JUNTA MOTOR COMPLETO OM611 80297",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P619",
+        "name": "CAÑO RETORNO ACEITE TURBO AL BLOCK SPR CDI OM611 313/413",
+        "brand": "Mercedes Benz",
+        "code": "6461800322 6111800122",
+        "originalCode": "6461800322 6111800122",
+        "image": "img/products/om611/cano_retorno_aceite_turbo_block_spr_cdi_om611.jpg",
+        "description": "CAÑO RETORNO ACEITE TURBO AL BLOCK SPR CDI OM611 313/413 6461800322 6111800122",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P620",
+        "name": "JUNTA BLOCK BASE TERMOSTATO OM611",
+        "brand": "Mercedes Benz",
+        "code": "6110150180",
+        "originalCode": "6110150180",
+        "image": "img/products/om611/junta_block_base_termostato_om611.jpg",
+        "description": "JUNTA BLOCK BASE TERMOSTATO OM611 6110150180",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P621",
+        "name": "RELAY 12V/20amp OM611 308/311/313/413",
+        "brand": "Mercedes Benz",
+        "code": "0035420219",
+        "originalCode": "0035420219",
+        "image": "img/products/om611/relay_12v_20amp_om611.jpg",
+        "description": "RELAY 12V/20amp OM611 308/311/313/413 0035420219",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P622",
+        "name": "TURBO SPRINTER CDI 313/413 OM611",
+        "brand": "Mercedes Benz",
+        "code": "6110960899 6110961599 6110961699",
+        "originalCode": "6110960899 6110961599 6110961699",
+        "image": "img/products/om611/turbo_sprinter_cdi_313_413_om611.jpg",
+        "description": "TURBO SPRINTER CDI 313/413 OM611 6110960899 6110961599 6110961699",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P623",
+        "name": "JUNTA TAPA CILINDRO OM611",
+        "brand": "Mercedes Benz",
+        "code": "6110161020",
+        "originalCode": "6110161020",
+        "image": "img/products/om611/junta_tapa_cilindro_om611.jpg",
+        "description": "JUNTA TAPA CILINDRO OM611 6110161020",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P624",
+        "name": "RETEN BANCADA CIGUEÑAL TRASERO OM611",
+        "brand": "Mercedes Benz",
+        "code": "6110100114",
+        "originalCode": "6110100114",
+        "image": "img/products/om611/reten_bancada_ciguenal_trasero_om611.jpg",
+        "description": "RETEN BANCADA CIGUEÑAL TRASERO OM611 6110100114",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P625",
+        "name": "ARANDELA TAPA VALVULA OM611",
+        "brand": "Mercedes Benz",
+        "code": "6069920125",
+        "originalCode": "6069920125",
+        "image": "img/products/om611/arandela_tapa_valvula_om611.jpg",
+        "description": "ARANDELA TAPA VALVULA OM611 6069920125",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P626",
+        "name": "JGO JUNTA PROTECCION BUJIA TAPA VALVULA CDI413/OM611 (4 PZAS)",
+        "brand": "Mercedes Benz",
+        "code": "6460161321",
+        "originalCode": "6460161321",
+        "image": "img/products/om611/juego_junta_proteccion_bujia_om611.jpg",
+        "description": "JGO JUNTA PROTECCION BUJIA TAPA VALVULA CDI413/OM611 (4 PZAS) 6460161321",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P627",
+        "name": "RETEN DISTRIBUCION DELANTERO OM611 CDI 311/313",
+        "brand": "Mercedes Benz",
+        "code": "0239978447 0189971947",
+        "originalCode": "0239978447 0189971947",
+        "image": "img/products/om611/reten_distribucion_delantero_om611.jpg",
+        "description": "RETEN DISTRIBUCION DELANTERO OM611 CDI 311/313 0239978447 0189971947",
+        "rubro": "RETENES"
+    },
+    {
+        "id": "P628",
+        "name": "KIT DISTRIBUCION SPRINTER OM611 CDI 313/413",
+        "brand": "Mercedes Benz",
+        "code": "6110520016 6110520216 6110520416 6110520416 0039978594 0039975794",
+        "originalCode": "6110520016 6110520216 6110520416 6110520416 0039978594 0039975794",
+        "image": "img/products/om611/kit_distribucion_sprinter_om611_cdi.jpg",
+        "description": "KIT DISTRIBUCION SPRINTER OM611 CDI 313/413 6110520016 6110520216 6110520416 6110520416 0039978594 0039975794",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P629",
+        "name": "SENSOR CIGUEÑAL SPRINTER CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "0031532728 0031532828",
+        "originalCode": "0031532728 0031532828",
+        "image": "img/products/om611/sensor_ciguenal_sprinter_om611.jpg",
+        "description": "SENSOR CIGUEÑAL SPRINTER CDI OM611 0031532728 0031532828",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P630",
+        "name": "JUNTA MULTIPLE ESCAPE CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "6111420780 6131420480",
+        "originalCode": "6111420780 6131420480",
+        "image": "img/products/om611/junta_multiple_escape_cdi_om611.jpg",
+        "description": "JUNTA MULTIPLE ESCAPE CDI OM611 6111420780 6131420480",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P631",
+        "name": "BUJIA SPRINTER CDI 313/413 OM611",
+        "brand": "Mercedes Benz",
+        "code": "0011594801",
+        "originalCode": "0011594801",
+        "image": "img/products/om611/bujia_sprinter_cdi_313_413_om611.jpg",
+        "description": "BUJIA SPRINTER CDI 313/413 OM611 0011594801",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P632",
+        "name": "TAPA VALVULA SPRINTER CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "6460101930 6460161905",
+        "originalCode": "6460101930 6460161905",
+        "image": "img/products/om611/tapa_valvula_sprinter_cdi_om611.jpg",
+        "description": "TAPA VALVULA SPRINTER CDI OM611 6460101930 6460161905",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P633",
+        "name": "VARILLA NIVEL ACEITE 550mm OM611",
+        "brand": "Mercedes Benz",
+        "code": "6110100572 6030101272",
+        "originalCode": "6110100572 6030101272",
+        "image": "img/products/om611/varilla_nivel_aceite_550mm_om611.jpg",
+        "description": "VARILLA NIVEL ACEITE 550mm OM611 6110100572 6030101272",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P634",
+        "name": "SENSOR ARBOL DE LEVA CDI/OM611",
+        "brand": "Mercedes Benz",
+        "code": "0051531328 0031539728",
+        "originalCode": "0051531328 0031539728",
+        "image": "img/products/om611/sensor_arbol_de_leva_cdi_om611.jpg",
+        "description": "SENSOR ARBOL DE LEVA CDI/OM611 0051531328 0031539728",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P635",
+        "name": "FLEXIBLE CONFORMADO BOMBA ALTA PRESION A REGULADOR PRESION OM611/CDI",
+        "brand": "Mercedes Benz",
+        "code": "6110702932",
+        "originalCode": "6110702932",
+        "image": "img/products/om611/flexible_conformado_bomba_alta_presion_regulador_om611.jpg",
+        "description": "FLEXIBLE CONFORMADO BOMBA ALTA PRESION A REGULADOR PRESION OM611/CDI 6110702932",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P636",
+        "name": "FLEXIBLE CONFORMADO BOMBA ALIM.A VALVULA INTERRUPCION OM611/CDI",
+        "brand": "Mercedes Benz",
+        "code": "6110701932",
+        "originalCode": "6110701932",
+        "image": "img/products/om611/flexible_conformado_bomba_alim_valvula_interrupcion_om611.jpg",
+        "description": "FLEXIBLE CONFORMADO BOMBA ALIM.A VALVULA INTERRUPCION OM611/CDI 6110701932",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P637",
+        "name": "FLEXIBLE CONFORMADO BOMBA COMBUSTIBLE A SENSOR PRESION OM611/CDI",
+        "brand": "Mercedes Benz",
+        "code": "6110707632",
+        "originalCode": "6110707632",
+        "image": "img/products/om611/flexible_conformado_bomba_combustible_sensor_presion_om611.jpg",
+        "description": "FLEXIBLE CONFORMADO BOMBA COMBUSTIBLE A SENSOR PRESION OM611/CDI 6110707632",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P638",
+        "name": "BOMBA ACEITE OM611 CDI",
+        "brand": "Mercedes Benz",
+        "code": "6011801401",
+        "originalCode": "6011801401",
+        "image": "img/products/om611/bomba_aceite_om611_cdi.jpg",
+        "description": "BOMBA ACEITE OM611 CDI 6011801401",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P639",
+        "name": "VOLANTE MOTOR BIMASA OM611 SPRINTER 313 CDI SACHS",
+        "brand": "Mercedes Benz",
+        "code": "6110302005",
+        "originalCode": "6110302005",
+        "image": "img/products/om611/volante_motor_bimasa_om611_sprinter_313_cdi_sachs.jpg",
+        "description": "VOLANTE MOTOR BIMASA OM611 SPRINTER 313 CDI SACHS 6110302005",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P640",
+        "name": "JGO.JUNTA DESCARBONIZACION OM611 SPRINTER CDI",
+        "brand": "Mercedes Benz",
+        "code": "6110104520",
+        "originalCode": "6110104520",
+        "image": "img/products/om611/juego_junta_descarbonizacion_om611_sprinter_cdi.jpg",
+        "description": "JGO.JUNTA DESCARBONIZACION OM611 SPRINTER CDI 6110104520",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P641",
+        "name": "BOMBA AGUA SPRINTER 313/413 OM611 CDI",
+        "brand": "Mercedes Benz",
+        "code": "6112000801 6462001001 T12000301",
+        "originalCode": "6112000801 6462001001 T12000301",
+        "image": "img/products/om611/bomba_agua_sprinter_313_413_om611.jpg",
+        "description": "BOMBA AGUA SPRINTER 313/413 OM611 CDI 6112000801 6462001001 T12000301",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P642",
+        "name": "INYECTOR ACEITE PISTON SPRINTER CDI OM611 (x4)",
+        "brand": "Mercedes Benz",
+        "code": "6111800043",
+        "originalCode": "6111800043",
+        "image": "img/products/om611/inyector_aceite_piston_sprinter_cdi_om611.jpg",
+        "description": "INYECTOR ACEITE PISTON SPRINTER CDI OM611 (x4) 6111800043",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P643",
+        "name": "JUNTA RADIADOR ACEITE SPR.CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "6111840280",
+        "originalCode": "6111840280",
+        "image": "img/products/om611/junta_radiador_aceite_spr_cdi_om611.jpg",
+        "description": "JUNTA RADIADOR ACEITE SPR.CDI OM611 6111840280",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P644",
+        "name": "PATIN TENSOR DE CADENA A LA TAPA DE CILINDROS SPR.OM611 CDI 313/413",
+        "brand": "Mercedes Benz",
+        "code": "6110520316",
+        "originalCode": "6110520316",
+        "image": "img/products/om611/patin_tensor_cadena_tapa_cilindros_om611.jpg",
+        "description": "PATIN TENSOR DE CADENA A LA TAPA DE CILINDROS SPR.OM611 CDI 313/413 6110520316",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P645",
+        "name": "CAÑO BOMBA AGUA AL RETORNO CALEFACCION CDI OM611",
+        "brand": "Mercedes Benz",
+        "code": "6112030482",
+        "originalCode": "6112030482",
+        "image": "img/products/om611/cano_bomba_agua_al_retorno_calefaccion_om611.jpg",
+        "description": "CAÑO BOMBA AGUA AL RETORNO CALEFACCION CDI OM611 6112030482",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P646",
+        "name": "CADENA DISTRIB.DOBLE SPRINTER OM611 CDI 313/413",
+        "brand": "Mercedes Benz",
+        "code": "0039977594",
+        "originalCode": "0039977594",
+        "image": "img/products/om611/cadena_distribucion_doble_om611.jpg",
+        "description": "CADENA DISTRIB.DOBLE SPRINTER OM611 CDI 313/413 0039977594",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P647",
+        "name": "VALVULA CONVERTIDORA DE PRESION TURBO SPRINTER CDI 313/413 OM611",
+        "brand": "Mercedes Benz",
+        "code": "0005450527",
+        "originalCode": "0005450527",
+        "image": "img/products/om611/valvula_convertidora_presion_turbo_om611.jpg",
+        "description": "VALVULA CONVERTIDORA DE PRESION TURBO SPRINTER CDI 313/413 OM611 0005450527",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P648",
+        "name": "POLEA CIGUEÑAL CDI OM611/613",
+        "brand": "Mercedes Benz",
+        "code": "6460300903 6110300503",
+        "originalCode": "6460300903 6110300503",
+        "image": "img/products/om611/polea_ciguenal_cdi_om611_613.jpg",
+        "description": "POLEA CIGUEÑAL CDI OM611/613 6460300903 6110300503",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P649",
+        "name": "PATIN TENSOR DE CADENA AL BLOCK SPR.OM611 CDI 313/413",
+        "brand": "Mercedes Benz",
+        "code": "6110520416",
+        "originalCode": "6110520416",
+        "image": "img/products/om611/patin_tensor_cadena_block_om611.jpg",
+        "description": "PATIN TENSOR DE CADENA AL BLOCK SPR.OM611 CDI 313/413 6110520416",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P650",
+        "name": "JUNTA TAPA VALVULA SPRINTER CDI313 OM611",
+        "brand": "Mercedes Benz",
+        "code": "6460160621",
+        "originalCode": "6460160621",
+        "image": "img/products/om611/junta_tapa_valvula_sprinter_cdi313_om611.jpg",
+        "description": "JUNTA TAPA VALVULA SPRINTER CDI313 OM611 6460160621",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P651",
+        "name": "VISCOSO SOLA SPRINTER CDI OM611 313/413",
+        "brand": "Mercedes Benz",
+        "code": "0002005822",
+        "originalCode": "0002005822",
+        "image": "img/products/om611/viscoso_sola_sprinter_cdi_om611.jpg",
+        "description": "VISCOSO SOLA SPRINTER CDI OM611 313/413 0002005822",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P652",
+        "name": "SOPORTE MOTOR Y CAJA TRASERO SPR. 310/313/413 OM611",
+        "brand": "Mercedes Benz",
+        "code": "6902427113 9012421413",
+        "originalCode": "6902427113 9012421413",
+        "image": "img/products/om611/soporte_motor_caja_trasero_om611.jpg",
+        "description": "SOPORTE MOTOR Y CAJA TRASERO SPR. 310/313/413 OM611 6902427113 9012421413",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P653",
+        "name": "CAÑO INYECTOR OM611 313/412",
+        "brand": "Mercedes Benz",
+        "code": "6110700033 T10700033",
+        "originalCode": "6110700033 T10700033",
+        "image": "img/products/om611/cano_inyector_om611.jpg",
+        "description": "CAÑO INYECTOR OM611 313/412 6110700033 T10700033",
+        "rubro": "SPRINTER"
     }
 ];
 
