@@ -5815,6 +5815,986 @@ const products = [
         "image": "img/products/om611/cano_inyector_om611.jpg",
         "description": "CAÑO INYECTOR OM611 313/412 6110700033 T10700033",
         "rubro": "SPRINTER"
+    },
+    {
+        "id": "P654",
+        "name": "SENSOR TEMP. ACEITE DE CAJA/DIFERENCIAL G210/G240 1938/AXOR/O500",
+        "brand": "Mercedes Benz",
+        "code": "0125421017",
+        "originalCode": "0125421017",
+        "image": "img/products/o500/sensor_temp_aceite_o500.jpg",
+        "description": "SENSOR TEMP. ACEITE DE CAJA/DIFERENCIAL G210/G240 1938/AXOR/O500 0125421017",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P655",
+        "name": "VALVULA RELAY ABS T/WABCO M/N 1634/ATEGO/AXOR/O500",
+        "brand": "Mercedes Benz",
+        "code": "0004208671 9760001000",
+        "originalCode": "0004208671 9760001000",
+        "image": "img/products/o500/valvula_relay_abs_o500.jpg",
+        "description": "VALVULA RELAY ABS T/WABCO M/N 1634/ATEGO/AXOR/O500 0004208671 9760001000",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P656",
+        "name": "MANGUERA FILTRO AIRE O500/1725/1726 OM906/926",
+        "brand": "Mercedes Benz",
+        "code": "3825200001",
+        "originalCode": "3825200001",
+        "image": "img/products/o500/manguera_filtro_aire_o500.jpg",
+        "description": "MANGUERA FILTRO AIRE O500/1725/1726 OM906/926 3825200001",
+        "rubro": "FILTROS DE AIRE"
+    },
+    {
+        "id": "P657",
+        "name": "VALVULA SOLENOIDE MODULADORA 24VDC T/ WABCO O500",
+        "brand": "Mercedes Benz",
+        "code": "4721950180 4721950160 0044296544 10575",
+        "originalCode": "4721950180 4721950160 0044296544 10575",
+        "image": "img/products/o500/valvula_solenoide_moduladora_o500.jpg",
+        "description": "VALVULA SOLENOIDE MODULADORA 24VDC T/ WABCO O500 4721950180 4721950160 0044296544 10575",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P658",
+        "name": "VALVULA F/MANO T/KNORR O500",
+        "brand": "Mercedes Benz",
+        "code": "DPM24A K038805 0034307581",
+        "originalCode": "DPM24A K038805 0034307581",
+        "image": "img/products/o500/valvula_f_mano_o500.jpg",
+        "description": "VALVULA F/MANO T/KNORR O500 DPM24A K038805 0034307581",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P659",
+        "name": "CAÑO GOMA LLENADO ACEITE OM457/O500",
+        "brand": "Mercedes Benz",
+        "code": "4570180082",
+        "originalCode": "4570180082",
+        "image": "img/products/o500/cano_goma_llenado_aceite_o500.jpg",
+        "description": "CAÑO GOMA LLENADO ACEITE OM457/O500 4570180082",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P660",
+        "name": "POLEA ACCIONAMIENTO EJE VENTILADOR DOBLE CANAL (ESTRIADA) O500",
+        "brand": "Mercedes Benz",
+        "code": "4752057510",
+        "originalCode": "4752057510",
+        "image": "img/products/o500/polea_accionamiento_ventilador_o500.jpg",
+        "description": "POLEA ACCIONAMIENTO EJE VENTILADOR DOBLE CANAL (ESTRIADA) O500 4752057510",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P661",
+        "name": "BARRA COLUMNA DIRECCION O500",
+        "brand": "Mercedes Benz",
+        "code": "6344600509",
+        "originalCode": "6344600509",
+        "image": "img/products/o500/barra_columna_direccion_o500.jpg",
+        "description": "BARRA COLUMNA DIRECCION O500 6344600509",
+        "rubro": "DIRECCIÓN"
+    },
+    {
+        "id": "P662",
+        "name": "SENSOR DE ALTURA ECAS O500 T/WABCO",
+        "brand": "Mercedes Benz",
+        "code": "4410500120 0015420018 1934583 500340806 5021170130",
+        "originalCode": "4410500120 0015420018 1934583 500340806 5021170130",
+        "image": "img/products/o500/sensor_altura_ecas_o500.jpg",
+        "description": "SENSOR DE ALTURA ECAS O500 T/WABCO 4410500120 0015420018 1934583 500340806 5021170130",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P663",
+        "name": "ELECTROVALVULA CAJA DE CAMBIO AXOR/O500",
+        "brand": "Mercedes Benz",
+        "code": "0025404997 4213509272",
+        "originalCode": "0025404997 4213509272",
+        "image": "img/products/o500/electrovalvula_caja_cambio_o500.jpg",
+        "description": "ELECTROVALVULA CAJA DE CAMBIO AXOR/O500 0025404997 4213509272",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P664",
+        "name": "VALVULA SOLENOIDE ECAS T/WABCO 24V.ACTROS/OH1618/O500",
+        "brand": "Mercedes Benz",
+        "code": "0003278525 4728800010 0003276725 4729000600",
+        "originalCode": "0003278525 4728800010 0003276725 4729000600",
+        "image": "img/products/o500/valvula_solenoide_ecas_o500.jpg",
+        "description": "VALVULA SOLENOIDE ECAS T/WABCO 24V.ACTROS/OH1618/O500 0003278525 4728800010 0003276725 4729000600",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P665",
+        "name": "RIGIDO DE COMPRESOR ULTIMO TRAMO O500 OM906/926",
+        "brand": "Mercedes Benz",
+        "code": "3824208831 3824204735",
+        "originalCode": "3824208831 3824204735",
+        "image": "img/products/o500/rigido_compresor_o500.jpg",
+        "description": "RIGIDO DE COMPRESOR ULTIMO TRAMO O500 OM906/926 3824208831 3824204735",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P666",
+        "name": "CAÑO INF RADIADOR OH1618/O500 OM904/926 EURO V",
+        "brand": "Mercedes Benz",
+        "code": "3685011082 3685010282",
+        "originalCode": "3685011082 3685010282",
+        "image": "img/products/o500/cano_inf_radiador_o500.jpg",
+        "description": "CAÑO INF RADIADOR OH1618/O500 OM904/926 EURO V 3685011082 3685010282",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P667",
+        "name": "RIGIDO COMPRESOR INTERMEDIO O500 OM926",
+        "brand": "Mercedes Benz",
+        "code": "3824204835",
+        "originalCode": "3824204835",
+        "image": "img/products/o500/rigido_compresor_intermedio_o500.jpg",
+        "description": "RIGIDO COMPRESOR INTERMEDIO O500 OM926 3824204835",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P668",
+        "name": "TAPA TRASERA COMPRESOR BICILINDRICO O500",
+        "brand": "Mercedes Benz",
+        "code": "4111476034 4111476036 8976701904",
+        "originalCode": "4111476034 4111476036 8976701904",
+        "image": "img/products/o500/tapa_trasera_compresor_o500.jpg",
+        "description": "TAPA TRASERA COMPRESOR BICILINDRICO O500 4111476034 4111476036 8976701904",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P669",
+        "name": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V",
+        "brand": "Mercedes Benz",
+        "code": "3824208833",
+        "originalCode": "3824208833",
+        "image": "img/products/o500/cano_rigido_compresor_5to_tramo_o500.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V 3824208833",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P670",
+        "name": "VARILLA NIVEL ACEITE O500/OM926",
+        "brand": "Mercedes Benz",
+        "code": "9060101074",
+        "originalCode": "9060101074",
+        "image": "img/products/o500/varilla_nivel_aceite_o500.jpg",
+        "description": "VARILLA NIVEL ACEITE O500/OM926 9060101074",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P671",
+        "name": "CEBADOR CON SOP 457/OM906 LA/OM926/O500",
+        "brand": "Mercedes Benz",
+        "code": "0000908550 0000909250 0440011021",
+        "originalCode": "0000908550 0000909250 0440011021",
+        "image": "img/products/o500/cebador_con_sop_o500.jpg",
+        "description": "CEBADOR CON SOP 457/OM906 LA/OM926/O500 0000908550 0000909250 0440011021",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P672",
+        "name": "CAÑO COMPRESOR (SERPENTINA)5°TRAMO C/SALIDA RECTA O500/OM457 LA",
+        "brand": "Mercedes Benz",
+        "code": "6344209029 3844204228",
+        "originalCode": "6344209029 3844204228",
+        "image": "img/products/o500/cano_compresor_serpentina_o500.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA)5°TRAMO C/SALIDA RECTA O500/OM457 LA 6344209029 3844204228",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P673",
+        "name": "RADIADOR INTERCOOLER M.BENZ OH1618 OMNIBUS O500",
+        "brand": "Mercedes Benz",
+        "code": "3685000000",
+        "originalCode": "3685000000",
+        "image": "img/products/o500/radiador_intercooler_o500.jpg",
+        "description": "RADIADOR INTERCOOLER M.BENZ OH1618 OMNIBUS O500 3685000000",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P674",
+        "name": "ENTRETAPA SOLA COMPRESOR BICILINDRICO WABCO 85mm O500 OM926",
+        "brand": "Mercedes Benz",
+        "code": "0011303015 4115539212 9061301515 9061301815 9061302415 9061303315 1100295001 9125100050",
+        "originalCode": "0011303015 4115539212 9061301515 9061301815 9061302415 9061303315 1100295001 9125100050",
+        "image": "img/products/o500/entretapa_compresor_o500.jpg",
+        "description": "ENTRETAPA SOLA COMPRESOR BICILINDRICO WABCO 85mm O500 OM926 0011303015 4115539212 9061301515 9061301815 9061302415 9061303315 1100295001 9125100050",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P675",
+        "name": "CAÑO RIGIDO COMPRESOR 2° TRAMO RECTO 2.510mm O500 EURO 5 OM 926",
+        "brand": "Mercedes Benz",
+        "code": "3824208931",
+        "originalCode": "3824208931",
+        "image": "img/products/o500/cano_rigido_compresor_2do_tramo_o500.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 2° TRAMO RECTO 2.510mm O500 EURO 5 OM 926 3824208931",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P676",
+        "name": "AMORTIGUADOR DELANTERO OM906/926 O500",
+        "brand": "Mercedes Benz",
+        "code": "3823230100 6283230100 6283230400",
+        "originalCode": "3823230100 6283230100 6283230400",
+        "image": "img/products/o500/amortiguador_delantero_o500.jpg",
+        "description": "AMORTIGUADOR DELANTERO OM906/926 O500 3823230100 6283230100 6283230400",
+        "rubro": "ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P677",
+        "name": "SOPORTE MOTOR TRASERO OM924LA/926LA/O500/ ATEGO 1725/1732",
+        "brand": "Mercedes Benz",
+        "code": "6342410013 3822410113 3822410213",
+        "originalCode": "6342410013 3822410113 3822410213",
+        "image": "img/products/o500/soporte_motor_trasero_o500.jpg",
+        "description": "SOPORTE MOTOR TRASERO OM924LA/926LA/O500/ ATEGO 1725/1732 6342410013 3822410113 3822410213",
+        "rubro": "SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P678",
+        "name": "CUBO ACOPLE VENTILADOR OHL1618 OM904 OM906 O500",
+        "brand": "Mercedes Benz",
+        "code": "4752057604",
+        "originalCode": "4752057604",
+        "image": "img/products/o500/cubo_acople_ventilador_o500.jpg",
+        "description": "CUBO ACOPLE VENTILADOR OHL1618 OM904 OM906 O500 4752057604",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P679",
+        "name": "RIGIDO CURVO DIRECCION HIDRAULICA OF1417/O500 OM904",
+        "brand": "Mercedes Benz",
+        "code": "6349970276",
+        "originalCode": "6349970276",
+        "image": "img/products/o500/rigido_curvo_direccion_hidraulica_o500.jpg",
+        "description": "RIGIDO CURVO DIRECCION HIDRAULICA OF1417/O500 OM904 6349970276",
+        "rubro": "DIRECCIÓN"
+    },
+    {
+        "id": "P680",
+        "name": "CAÑO TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926",
+        "brand": "Mercedes Benz",
+        "code": "3685000094",
+        "originalCode": "3685000094",
+        "image": "img/products/o500/cano_tee_union_agua_o500.jpg",
+        "description": "CAÑO TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926 3685000094",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P681",
+        "name": "CAÑO LLENADO ACEITE MOTOR OM906 O500",
+        "brand": "Mercedes Benz",
+        "code": "9060100182",
+        "originalCode": "9060100182",
+        "image": "img/products/o500/cano_llenado_aceite_om906_o500.jpg",
+        "description": "CAÑO LLENADO ACEITE MOTOR OM906 O500 9060100182",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P682",
+        "name": "OLLA PORTA CORONA ARMADA HL4 O500 (para coronas 40x12 y 44x12)",
+        "brand": "Mercedes Benz",
+        "code": "6153503923 6153503323 6153501127 6153504123",
+        "originalCode": "6153503923 6153503323 6153501127 6153504123",
+        "image": "img/products/o500/olla_porta_corona_o500.jpg",
+        "description": "OLLA PORTA CORONA ARMADA HL4 O500 (para coronas 40x12 y 44x12) 6153503923 6153503323 6153501127 6153504123",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P683",
+        "name": "POLEA DOBLE ESTRIADA AC.VENTILADOR OH1518/1618 O500 OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "3762057210",
+        "originalCode": "3762057210",
+        "image": "img/products/o500/polea_doble_estriada_o500.jpg",
+        "description": "POLEA DOBLE ESTRIADA AC.VENTILADOR OH1518/1618 O500 OM904/906 3762057210",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P684",
+        "name": "CAÑO RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR",
+        "brand": "Mercedes Benz",
+        "code": "6345010482",
+        "originalCode": "6345010482",
+        "image": "img/products/o500/cano_agua_flexible_o500.jpg",
+        "description": "CAÑO RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR 6345010482",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P685",
+        "name": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH",
+        "brand": "Mercedes Benz",
+        "code": "3685013882",
+        "originalCode": "3685013882",
+        "image": "img/products/o500/cano_termostato_radiador_o500.jpg",
+        "description": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH 3685013882",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P686",
+        "name": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
+        "brand": "Mercedes Benz",
+        "code": "3685013982",
+        "originalCode": "3685013982",
+        "image": "img/products/o500/cano_radiador_liquido_refrigerante_o500.png",
+        "description": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P687",
+        "name": "CRAPODINA EMBRAGUE DISCO SIMPLE 1938/O500 OM447/457/926",
+        "brand": "Mercedes Benz",
+        "code": "0012509215 3345",
+        "originalCode": "0012509215 3345",
+        "image": "img/products/o500/crapodina_embrague_o500.jpg",
+        "description": "CRAPODINA EMBRAGUE DISCO SIMPLE 1938/O500 OM447/457/926 0012509215 3345",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P688",
+        "name": "VALVULA SOLENOIDE 3/2 VIAS CAJA GO-210 O500",
+        "brand": "Mercedes Benz",
+        "code": "9452601757",
+        "originalCode": "9452601757",
+        "image": "img/products/o500/valvula_solenoide_caja_go210_o500.jpg",
+        "description": "VALVULA SOLENOIDE 3/2 VIAS CAJA GO-210 O500 9452601757",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P689",
+        "name": "TURBO BORGWARNER K27 EURO2 OM906/O500 17288 MOTOR 906.977 HASTA 906.993",
+        "brand": "Mercedes Benz",
+        "code": "9060963199",
+        "originalCode": "9060963199",
+        "image": "img/products/o500/turbo_borgwarner_k27_o500.jpg",
+        "description": "TURBO BORGWARNER K27 EURO2 OM906/O500 17288 MOTOR 906.977 HASTA 906.993 9060963199",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P690",
+        "name": "HORQUILLA EMBRAGUE ORIGINAL O500",
+        "brand": "Mercedes Benz",
+        "code": "6562500813",
+        "originalCode": "6562500813",
+        "image": "img/products/o500/horquilla_embrague_original_o500.jpg",
+        "description": "HORQUILLA EMBRAGUE ORIGINAL O500 6562500813",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P691",
+        "name": "PALIER 38 ESTRIAS 1015 mm.8AG.oh1618/o500 HL4",
+        "brand": "Mercedes Benz",
+        "code": "6343570001",
+        "originalCode": "6343570001",
+        "image": "img/products/o500/palier_38_estrias_o500.jpg",
+        "description": "PALIER 38 ESTRIAS 1015 mm.8AG.oh1618/o500 HL4 6343570001",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P692",
+        "name": "FLEXIBLE COMBUSTIBLE OF1417/O500/OM906/LA-924",
+        "brand": "Mercedes Benz",
+        "code": "6934707064",
+        "originalCode": "6934707064",
+        "image": "img/products/o500/flexible_combustible_o500.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE OF1417/O500/OM906/LA-924 6934707064",
+        "rubro": "FLEXIBLES Y RÍGIDOS"
+    },
+    {
+        "id": "P693",
+        "name": "CAÑO LUBRICACION TURBO O500/0M906",
+        "brand": "Mercedes Benz",
+        "code": "4571802820",
+        "originalCode": "4571802820",
+        "image": "img/products/o500/cano_lubricacion_turbo_o500.jpg",
+        "description": "CAÑO LUBRICACION TURBO O500/0M906 4571802820",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P694",
+        "name": "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500",
+        "brand": "Mercedes Benz",
+        "code": "3824201828 3824208531",
+        "originalCode": "3824201828 3824208531",
+        "image": "img/products/o500/cano_compresor_serpentina_apu_o500.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500 3824201828 3824208531",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P695",
+        "name": "CAÑO COMPRESOR O500/ OM906",
+        "brand": "Mercedes Benz",
+        "code": "3824200128 3824205732 3824208934",
+        "originalCode": "3824200128 3824205732 3824208934",
+        "image": "img/products/o500/cano_compresor_om906_o500.jpg",
+        "description": "CAÑO COMPRESOR O500/ OM906 3824200128 3824205732 3824208934",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P696",
+        "name": "CAÑO RAD.O500 OM906/926 REFR. CAJA A MOTOR",
+        "brand": "Mercedes Benz",
+        "code": "3825015682 6645018882",
+        "originalCode": "3825015682 6645018882",
+        "image": "img/products/o500/cano_refr_caja_motor_o500.jpg",
+        "description": "CAÑO RAD.O500 OM906/926 REFR. CAJA A MOTOR 3825015682 6645018882",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P697",
+        "name": "MANGUERA REFRIGERACION CAJA OM904/906/O500/OM926",
+        "brand": "Mercedes Benz",
+        "code": "3685014482 900271050024",
+        "originalCode": "3685014482 900271050024",
+        "image": "img/products/o500/manguera_refr_caja_o500.jpg",
+        "description": "MANGUERA REFRIGERACION CAJA OM904/906/O500/OM926 3685014482 900271050024",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P698",
+        "name": "CONEXION 16X14 CAÑO LUBRICACION TURBO O500/0M906 A TURBO",
+        "brand": "Mercedes Benz",
+        "code": "",
+        "originalCode": "",
+        "image": "img/products/o500/conexion_lubricacion_turbo_o500.jpg",
+        "description": "CONEXION 16X14 CAÑO LUBRICACION TURBO O500/0M906 A TURBO",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P699",
+        "name": "CAÑO LUBRICACION TURBO OM457 O500",
+        "brand": "Mercedes Benz",
+        "code": "5411801422",
+        "originalCode": "5411801422",
+        "image": "img/products/o500/cano_lubricacion_turbo_om457_o500.jpg",
+        "description": "CAÑO LUBRICACION TURBO OM457 O500 5411801422",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P700",
+        "name": "DEPOSITO CARBON 1618/O500/1724/OM924/26",
+        "brand": "Mercedes Benz",
+        "code": "3824327501",
+        "originalCode": "3824327501",
+        "image": "img/products/o500/deposito_carbon_o500.jpg",
+        "description": "DEPOSITO CARBON 1618/O500/1724/OM924/26 3824327501",
+        "rubro": "FRENO HIDRAULICO"
+    },
+    {
+        "id": "P701",
+        "name": "SENSOR ABS O500/AXOR/ACTROS/ACCELO DELANTERO 2000MM DER/IZQ",
+        "brand": "Mercedes Benz",
+        "code": "0015428718 0015429618",
+        "originalCode": "0015428718 0015429618",
+        "image": "img/products/o500/sensor_abs_delantero_o500.jpg",
+        "description": "SENSOR ABS O500/AXOR/ACTROS/ACCELO DELANTERO 2000MM DER/IZQ 0015428718 0015429618",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P702",
+        "name": "VARILLA NIVEL ACEITE 1127MM 906/926 O500 / 1622",
+        "brand": "Mercedes Benz",
+        "code": "9060105172 9060100674",
+        "originalCode": "9060105172 9060100674",
+        "image": "img/products/o500/varilla_nivel_aceite_o500.jpg",
+        "description": "VARILLA NIVEL ACEITE 1127MM 906/926 O500 / 1622 9060105172 9060100674",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P703",
+        "name": "BULBO F/MOTOR 26X1.5 / M27X1 O500/OF1417/18/21/22",
+        "brand": "Mercedes Benz",
+        "code": "3845400001 0005457108",
+        "originalCode": "3845400001 0005457108",
+        "image": "img/products/o500/bulbo_motor_o500.jpg",
+        "description": "BULBO F/MOTOR 26X1.5 / M27X1 O500/OF1417/18/21/22 3845400001 0005457108",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P704",
+        "name": "BARRA LARGA 1642mm. O500",
+        "brand": "Mercedes Benz",
+        "code": "3023301503 3643307603 6343300203 6343300403",
+        "originalCode": "3023301503 3643307603 6343300203 6343300403",
+        "image": "img/products/o500/barra_larga_o500.jpg",
+        "description": "BARRA LARGA 1642mm. O500 3023301503 3643307603 6343300203 6343300403",
+        "rubro": "DIRECCIÓN"
+    },
+    {
+        "id": "P705",
+        "name": "DISCO FRENO VENTILADO 430MM/211MM.10A.1634/1938/ ATEGO/AXOR/O500",
+        "brand": "Mercedes Benz",
+        "code": "9424211212 9424212112 9424230012",
+        "originalCode": "9424211212 9424212112 9424230012",
+        "image": "img/products/o500/disco_freno_ventilado_o500.jpg",
+        "description": "DISCO FRENO VENTILADO 430MM/211MM.10A.1634/1938/ ATEGO/AXOR/O500 9424211212 9424212112 9424230012",
+        "rubro": "RUEDA"
+    },
+    {
+        "id": "P706",
+        "name": "VALVULA NIVELAMIENTO TRAS.IZQ.TIPO BOSCH O500/ATEGO/ACTROS",
+        "brand": "Mercedes Benz",
+        "code": "0500005002 0003282130 K005934 K005935",
+        "originalCode": "0500005002 0003282130 K005934 K005935",
+        "image": "img/products/o500/valvula_nivelamiento_tras_izq_o500.jpg",
+        "description": "VALVULA NIVELAMIENTO TRAS.IZQ.TIPO BOSCH O500/ATEGO/ACTROS 0500005002 0003282130 K005934 K005935",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P707",
+        "name": "VALVULA RETENCION NIVELADORA O400/O500",
+        "brand": "Mercedes Benz",
+        "code": "0003272125 0500100006",
+        "originalCode": "0003272125 0500100006",
+        "image": "img/products/o500/valvula_retencion_niveladora_o500.jpg",
+        "description": "VALVULA RETENCION NIVELADORA O400/O500 0003272125 0500100006",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P708",
+        "name": "SENSOR ABS O500/AXOR/ACTROS/ACCELO TRASERO DERECHO",
+        "brand": "Mercedes Benz",
+        "code": "0015428918",
+        "originalCode": "0015428918",
+        "image": "img/products/o500/sensor_abs_trasero_der_o500.jpg",
+        "description": "SENSOR ABS O500/AXOR/ACTROS/ACCELO TRASERO DERECHO 0015428918",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P709",
+        "name": "SENSOR ABS O500/AXOR/ACTROS/ACCELO TRASERO IZQUIERDA",
+        "brand": "Mercedes Benz",
+        "code": "0015428818 0015423318",
+        "originalCode": "0015428818 0015423318",
+        "image": "img/products/o500/sensor_abs_trasero_izq_o500.jpg",
+        "description": "SENSOR ABS O500/AXOR/ACTROS/ACCELO TRASERO IZQUIERDA 0015428818 0015423318",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P710",
+        "name": "CAÑO COMPRESOR (SERPENTINA) A APUOM906/O500",
+        "brand": "Mercedes Benz",
+        "code": "3824201036 3824200736",
+        "originalCode": "3824201036 3824200736",
+        "image": "img/products/o500/cano_compresor_serpentina_apu_alt_o500.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) A APUOM906/O500 3824201036 3824200736",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P711",
+        "name": "BUJE (TUBO DISTANCIADOR)PALANCA ROD.TENSOR O500/OH1618/OM906",
+        "brand": "Mercedes Benz",
+        "code": "6645527253",
+        "originalCode": "6645527253",
+        "image": "img/products/o500/buje_tubo_distanciador_o500.jpg",
+        "description": "BUJE (TUBO DISTANCIADOR)PALANCA ROD.TENSOR O500/OH1618/OM906 6645527253",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P712",
+        "name": "CAÑO COMPRESOR (SERPENTINA) APUOM906/O500",
+        "brand": "Mercedes Benz",
+        "code": "3824204828 // 3824207429",
+        "originalCode": "3824204828 // 3824207429",
+        "image": "img/products/o500/cano_compresor_serpentina_apu_v3_o500.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) APUOM906/O500 3824204828 // 3824207429",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P713",
+        "name": "RIGIDO FLEXIBLE A SILENCIADOR O500/906",
+        "brand": "Mercedes Benz",
+        "code": "3824201728",
+        "originalCode": "3824201728",
+        "image": "img/products/o500/rigido_flexible_silenciador_o500.jpg",
+        "description": "RIGIDO FLEXIBLE A SILENCIADOR O500/906 3824201728",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P714",
+        "name": "RIGIDO COMPRESOR 1° TRAMO O500/906",
+        "brand": "Mercedes Benz",
+        "code": "3824200933",
+        "originalCode": "3824200933",
+        "image": "img/products/o500/rigido_compresor_1er_tramo_o500.jpg",
+        "description": "RIGIDO COMPRESOR 1° TRAMO O500/906 3824200933",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P715",
+        "name": "REPARACION DE CALIPER DEL. AXOR/O500",
+        "brand": "Mercedes Benz",
+        "code": "0004203482 k001470 0004216174",
+        "originalCode": "0004203482 k001470 0004216174",
+        "image": "img/products/o500/reparacion_caliper_delantero_axor_o500.jpg",
+        "description": "REPARACION DE CALIPER DEL. AXOR/O500 0004203482 k001470 0004216174",
+        "rubro": "FRENO HIDRAULICO"
+    },
+    {
+        "id": "P716",
+        "name": "VALVULA NIVELAMIENTO TRAS.DER.TIPO BOSCH O500/ATEGO/ACTROS",
+        "brand": "Mercedes Benz",
+        "code": "0003282030 0500005002 K005934 K005935",
+        "originalCode": "0003282030 0500005002 K005934 K005935",
+        "image": "img/products/o500/valvula_nivelamiento_tras_der_o500.jpg",
+        "description": "VALVULA NIVELAMIENTO TRAS.DER.TIPO BOSCH O500/ATEGO/ACTROS 0003282030 0500005002 K005934 K005935",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P717",
+        "name": "DISCO FRENO VENTILADO 430MM/131MM .10A. ATEGO/ACTROS/O500",
+        "brand": "Mercedes Benz",
+        "code": "9434210312",
+        "originalCode": "9434210312",
+        "image": "img/products/o500/disco_freno_ventilado_131mm_o500.jpg",
+        "description": "DISCO FRENO VENTILADO 430MM/131MM .10A. ATEGO/ACTROS/O500 9434210312",
+        "rubro": "RUEDA"
+    },
+    {
+        "id": "P718",
+        "name": "VALVULA SOLENOIDE SUSPENSION ELECTRONICA 24V. ECAS O500/OH1421L",
+        "brand": "Mercedes Benz",
+        "code": "0003277425 4729000560",
+        "originalCode": "0003277425 4729000560",
+        "image": "img/products/o500/valvula_solenoide_ecas_o500.jpg",
+        "description": "VALVULA SOLENOIDE SUSPENSION ELECTRONICA 24V. ECAS O500/OH1421L 0003277425 4729000560",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P719",
+        "name": "SILENCIADOR OMNIBUS O500",
+        "brand": "Mercedes Benz",
+        "code": "",
+        "originalCode": "",
+        "image": "img/products/o500/silenciador_omnibus_o500.jpg",
+        "description": "SILENCIADOR OMNIBUS O500",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P720",
+        "name": "TENSOR DE CORREA O500 OM457",
+        "brand": "Mercedes Benz",
+        "code": "4572004770",
+        "originalCode": "4572004770",
+        "image": "img/products/o500/tensor_correa_om457_o500.jpg",
+        "description": "TENSOR DE CORREA O500 OM457 4572004770",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P721",
+        "name": "BARRA CORTA 935mm.O500",
+        "brand": "Mercedes Benz",
+        "code": "6344600005 6344600405",
+        "originalCode": "6344600005 6344600405",
+        "image": "img/products/o500/barra_corta_o500.jpg",
+        "description": "BARRA CORTA 935mm.O500 6344600005 6344600405",
+        "rubro": "DIRECCIÓN"
+    },
+    {
+        "id": "P722",
+        "name": "FILTRO AIRE 1418/1420/1718/1718/1720/1723/O500M",
+        "brand": "Mercedes Benz",
+        "code": "4760900001 4760900601 2T2129601A",
+        "originalCode": "4760900001 4760900601 2T2129601A",
+        "image": "img/products/o500/filtro_aire_o500.jpg",
+        "description": "FILTRO AIRE 1418/1420/1718/1718/1720/1723/O500M 4760900001 4760900601 2T2129601A",
+        "rubro": "FILTROS DE AIRE"
+    },
+    {
+        "id": "P723",
+        "name": "CAÑO RAD.O500/OM457 SUPERIOR",
+        "brand": "Mercedes Benz",
+        "code": "6345010382",
+        "originalCode": "6345010382",
+        "image": "img/products/o500/cano_rad_superior_o500_om457.jpg",
+        "description": "CAÑO RAD.O500/OM457 SUPERIOR 6345010382",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P724",
+        "name": "SOPORTE MOTOR DEL.1620 ELECT./ATEGO1418/1725/BUS O500 I.A.",
+        "brand": "Mercedes Benz",
+        "code": "3682400217",
+        "originalCode": "3682400217",
+        "image": "img/products/o500/soporte_motor_delantero_o500.jpg",
+        "description": "SOPORTE MOTOR DEL.1620 ELECT./ATEGO1418/1725/BUS O500 I.A. 3682400217",
+        "rubro": "SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P725",
+        "name": "CAÑO RAD.O500/OM457 SUPER. 20/90",
+        "brand": "Mercedes Benz",
+        "code": "6345010084 3825010384",
+        "originalCode": "6345010084 3825010384",
+        "image": "img/products/o500/cano_rad_superior_o500_om457_v2.jpg",
+        "description": "CAÑO RAD.O500/OM457 SUPER. 20/90 6345010084 3825010384",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P726",
+        "name": "RESORTE ACELERADOR O500",
+        "brand": "Mercedes Benz",
+        "code": "6939930110",
+        "originalCode": "6939930110",
+        "image": "img/products/o500/resorte_acelerador_o500.jpg",
+        "description": "RESORTE ACELERADOR O500 6939930110",
+        "rubro": "ACELERACIÓN"
+    },
+    {
+        "id": "P727",
+        "name": "CAÑO COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457",
+        "brand": "Mercedes Benz",
+        "code": "6344209029",
+        "originalCode": "6344209029",
+        "image": "img/products/o500/cano_compresor_serpentina_intermedio_o500.jpg",
+        "description": "CAÑO COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457 6344209029",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P728",
+        "name": "CAÑO CAMARA COMPRESOR O500/904/906/457",
+        "brand": "Mercedes Benz",
+        "code": "6284300270",
+        "originalCode": "6284300270",
+        "image": "img/products/o500/cano_camara_compresor_o500.jpg",
+        "description": "CAÑO CAMARA COMPRESOR O500/904/906/457 6284300270",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P729",
+        "name": "CAÑO RAD.O500/OM906 INFERIOR",
+        "brand": "Mercedes Benz",
+        "code": "3825011582",
+        "originalCode": "3825011582",
+        "image": "img/products/o500/cano_rad_inferior_o500_om906.jpg",
+        "description": "CAÑO RAD.O500/OM906 INFERIOR 3825011582",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P730",
+        "name": "EJE POLEA VENT. 1621/O500",
+        "brand": "Mercedes Benz",
+        "code": "3762057002 3642057002 3642057102",
+        "originalCode": "3762057002 3642057002 3642057102",
+        "image": "img/products/o500/eje_polea_ventilador_o500.jpg",
+        "description": "EJE POLEA VENT. 1621/O500 3762057002 3642057002 3642057102",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P731",
+        "name": "POLEA BOMBA AGUA AXOR 1938/2044/O500",
+        "brand": "Mercedes Benz",
+        "code": "4572020310 5412020110",
+        "originalCode": "4572020310 5412020110",
+        "image": "img/products/o500/polea_bomba_agua_o500.jpg",
+        "description": "POLEA BOMBA AGUA AXOR 1938/2044/O500 4572020310 5412020110",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P732",
+        "name": "CILINDRO TRANS.DESBLOQUEO RAPIDO(BOMBA ) OF1218/1417/1418/1722 OM904LA/O500",
+        "brand": "Mercedes Benz",
+        "code": "3842950006",
+        "originalCode": "3842950006",
+        "image": "img/products/o500/cilindro_trans_desbloqueo_o500.jpg",
+        "description": "CILINDRO TRANS.DESBLOQUEO RAPIDO(BOMBA ) OF1218/1417/1418/1722 OM904LA/O500 3842950006",
+        "rubro": "PEDALERA"
+    },
+    {
+        "id": "P733",
+        "name": "BUJE TENSOR 75 X 130 AGUJ. 18mm O500",
+        "brand": "Mercedes Benz",
+        "code": "0003302011",
+        "originalCode": "0003302011",
+        "image": "img/products/o500/buje_tensor_o500.jpg",
+        "description": "BUJE TENSOR 75 X 130 AGUJ. 18mm O500 0003302011",
+        "rubro": "ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P734",
+        "name": "CONJUNTO TRANSBALADOR CAJA O500/906/457",
+        "brand": "Mercedes Benz",
+        "code": "6292680101 0002686701",
+        "originalCode": "6292680101 0002686701",
+        "image": "img/products/o500/conjunto_transbalador_caja_o500.jpg",
+        "description": "CONJUNTO TRANSBALADOR CAJA O500/906/457 6292680101 0002686701",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P735",
+        "name": "LLAVE T/CAÑONERA ATEGO/O500",
+        "brand": "Mercedes Benz",
+        "code": "",
+        "originalCode": "",
+        "image": "img/products/o500/llave_t_canonera_atego_o500.jpg",
+        "description": "LLAVE T/CAÑONERA ATEGO/O500",
+        "rubro": "HERRAMIENTAS"
+    },
+    {
+        "id": "P736",
+        "name": "LLAVE LUCES 1938E/ATEGO/AXOR/ACTROS/O500 KOSTAL",
+        "brand": "Mercedes Benz",
+        "code": "0085450124",
+        "originalCode": "0085450124",
+        "image": "img/products/o500/llave_luces_kostal_o500.jpg",
+        "description": "LLAVE LUCES 1938E/ATEGO/AXOR/ACTROS/O500 KOSTAL 0085450124",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P737",
+        "name": "DEPOSITO RADIADOR REDONDO L/N OH 1628/O500/O400",
+        "brand": "Mercedes Benz",
+        "code": "3825007449 6345000049",
+        "originalCode": "3825007449 6345000049",
+        "image": "img/products/o500/deposito_radiador_redondo_o500.jpg",
+        "description": "DEPOSITO RADIADOR REDONDO L/N OH 1628/O500/O400 3825007449 6345000049",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P738",
+        "name": "DEPOSITO RADIADOR O500/OM457",
+        "brand": "Mercedes Benz",
+        "code": "6295000049",
+        "originalCode": "6295000049",
+        "image": "img/products/o500/deposito_radiador_om457_o500.jpg",
+        "description": "DEPOSITO RADIADOR O500/OM457 6295000049",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P739",
+        "name": "SECADOR AIRE COMPRESOR T/WABCO APU 1620/O500",
+        "brand": "Mercedes Benz",
+        "code": "0004301515 4324100830 9324000030 9324000070 0004301915",
+        "originalCode": "0004301515 4324100830 9324000030 9324000070 0004301915",
+        "image": "img/products/o500/secador_aire_wabco_apu_o500.jpg",
+        "description": "SECADOR AIRE COMPRESOR T/WABCO APU 1620/O500 0004301515 4324100830 9324000030 9324000070 0004301915",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P740",
+        "name": "SECADOR AIRE COMPRESOR T/KNORR APU 12.3 bar 1620/O500",
+        "brand": "Mercedes Benz",
+        "code": "0004301915 K016633 0004304515 LA9033 0004306815 0024315015",
+        "originalCode": "0004301915 K016633 0004304515 LA9033 0004306815 0024315015",
+        "image": "img/products/o500/secador_aire_knorr_apu_o500.jpg",
+        "description": "SECADOR AIRE COMPRESOR T/KNORR APU 12.3 bar 1620/O500 0004301915 K016633 0004304515 LA9033 0004306815 0024315015",
+        "rubro": "FRENO AIRE"
+    },
+    {
+        "id": "P741",
+        "name": "MEDIA MANGA CAÑONERA 80MM O500/ATEGO",
+        "brand": "Mercedes Benz",
+        "code": "",
+        "originalCode": "",
+        "image": "img/products/o500/media_manga_canonera_80mm_o500.jpg",
+        "description": "MEDIA MANGA CAÑONERA 80MM O500/ATEGO",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P742",
+        "name": "JGO.SATELITE PLAN.CRUZ 38E.O373/O400/O500",
+        "brand": "Mercedes Benz",
+        "code": "3513500240",
+        "originalCode": "3513500240",
+        "image": "img/products/o500/juego_satelite_planetario_cruz_o500.jpg",
+        "description": "JGO.SATELITE PLAN.CRUZ 38E.O373/O400/O500 3513500240",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P743",
+        "name": "TUERCA CAÑONERA O500/1622/1725 80MM ATEGO STD",
+        "brand": "Mercedes Benz",
+        "code": "9763560026",
+        "originalCode": "9763560026",
+        "image": "img/products/o500/tuerca_canonera_80mm_o500.jpg",
+        "description": "TUERCA CAÑONERA O500/1622/1725 80MM ATEGO STD 9763560026",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P744",
+        "name": "ARANDELA ONDULADA 7.04mm.O500/1722/1725/1620 OH1625",
+        "brand": "Mercedes Benz",
+        "code": "3013537952 3013531252",
+        "originalCode": "3013537952 3013531252",
+        "image": "img/products/o500/arandela_ondulada_704mm_o500.jpg",
+        "description": "ARANDELA ONDULADA 7.04mm.O500/1722/1725/1620 OH1625 3013537952 3013531252",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P745",
+        "name": "PORTA CORONA COMP.40E O373/O400/O500",
+        "brand": "Mercedes Benz",
+        "code": "3523506223",
+        "originalCode": "3523506223",
+        "image": "img/products/o500/porta_corona_comp_40e_o500.jpg",
+        "description": "PORTA CORONA COMP.40E O373/O400/O500 3523506223",
+        "rubro": "EJE TRASERO"
+    },
+    {
+        "id": "P746",
+        "name": "CABLE SELECTOR MARCHAS COMP.11000MM. O500RS",
+        "brand": "Mercedes Benz",
+        "code": "6292682891 6342600651",
+        "originalCode": "6292682891 6342600651",
+        "image": "img/products/o500/cable_selector_marchas_o500rs.jpg",
+        "description": "CABLE SELECTOR MARCHAS COMP.11000MM. O500RS 6292682891 6342600651",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P747",
+        "name": "CABLE SELECTOR MARCHAS COMP.10250MM. 1725 O500M",
+        "brand": "Mercedes Benz",
+        "code": "3822600351",
+        "originalCode": "3822600351",
+        "image": "img/products/o500/cable_selector_marchas_o500m.jpg",
+        "description": "CABLE SELECTOR MARCHAS COMP.10250MM. 1725 O500M 3822600351",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P748",
+        "name": "CABLE SELECTOR MARCHAS COMP. 10750MM.1725 O500M C/TERMINALES",
+        "brand": "Mercedes Benz",
+        "code": "3822600451 3822601751",
+        "originalCode": "3822600451 3822601751",
+        "image": "img/products/o500/cable_selector_marchas_o500m_c_terminales.jpg",
+        "description": "CABLE SELECTOR MARCHAS COMP. 10750MM.1725 O500M C/TERMINALES 3822600451 3822601751",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P749",
+        "name": "RESORTE EMBRAGUE OF 1417/O500",
+        "brand": "Mercedes Benz",
+        "code": "6739930110",
+        "originalCode": "6739930110",
+        "image": "img/products/o500/resorte_embrague_o500.jpg",
+        "description": "RESORTE EMBRAGUE OF 1417/O500 6739930110",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P750",
+        "name": "TENSOR DE CORREA O500/OM457/OM457LA (74X39)",
+        "brand": "Mercedes Benz",
+        "code": "4572003270 4572003870",
+        "originalCode": "4572003270 4572003870",
+        "image": "img/products/o500/tensor_correa_o500_om457_74x39.jpg",
+        "description": "TENSOR DE CORREA O500/OM457/OM457LA (74X39) 4572003270 4572003870",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P751",
+        "name": "TORNILLO REGISTRO PALANCA TENSOR VENT. 12x272 O500/1621",
+        "brand": "Mercedes Benz",
+        "code": "6349900001",
+        "originalCode": "6349900001",
+        "image": "img/products/o500/tornillo_registro_palanca_tensor_o500.jpg",
+        "description": "TORNILLO REGISTRO PALANCA TENSOR VENT. 12x272 O500/1621 6349900001",
+        "rubro": "REFRIGERACIÓN"
     }
 ];
 
