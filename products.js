@@ -7735,6 +7735,736 @@ const products = [
         "image": "img/products/isb/volante_motor_isbe6_138d.jpg",
         "description": "Volante motor c/corona serie ISB36/ISCE6 1723/1729 constellation 17250 (395mm 138 dientes) 3966065 3966065 bg5x6375ba 2t2105269a",
         "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P846",
+        "name": "SOPORTE MOTOR DELANTERO OM904-OHL1315/1115",
+        "brand": "Mercedes Benz",
+        "code": "9792400017",
+        "originalCode": "9792400017",
+        "image": "img/products/om904/soporte_motor_delantero_om904_9792400017.png",
+        "description": "SOPORTE MOTOR DELANTERO OM904-OHL1315/1115 9792400017",
+        "rubro": "SOPORTE MOTOR Y SUS PARTES"
+    },
+    {
+        "id": "P847",
+        "name": "CAÑO GUIA VARILLA N/ACEITE OM904",
+        "brand": "Mercedes Benz",
+        "code": "9040101466",
+        "originalCode": "9040101466",
+        "image": "img/products/om904/cano_guia_varilla_aceite_om904_9040101466.png",
+        "description": "CAÑO GUIA VARILLA N/ACEITE OM904 9040101466 Modelo: OM906",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P848",
+        "name": "TAPON CARTER 20mm.OM904",
+        "brand": "Mercedes Benz",
+        "code": "000908020004",
+        "originalCode": "000908020004",
+        "image": "img/products/om904/tapon_carter_20mm_om904_000908020004.png",
+        "description": "TAPON CARTER 20mm.OM904 000908020004 Modelo: 712-C",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P849",
+        "name": "TAPA CILINDRO OM904/924 COMPLETA",
+        "brand": "Mercedes Benz",
+        "code": "9040101221",
+        "originalCode": "9040101221",
+        "image": "img/products/om904/tapa_cilindro_om904_9040101221.png",
+        "description": "TAPA CILINDRO OM904/924 COMPLETA 9040101221 Modelo: 712C-OF1417",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P850",
+        "name": "ARANDELA TAPA VALVULA #JGO# OM904(1jgo.=5a.) OM906(1jgo.=7a.)",
+        "brand": "Mercedes Benz",
+        "code": "9060160080",
+        "originalCode": "9060160080",
+        "image": "img/products/om904/arandela_tapa_valvula_om904_9060160080.png",
+        "description": "ARANDELA TAPA VALVULA #JGO# OM904(1jgo.=5a.) OM906(1jgo.=7a.) 9060160080 Modelo: OM904/6",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P851",
+        "name": "DIAFRAGMA VALVULA DE VENTEO OM904/6-924",
+        "brand": "Mercedes Benz",
+        "code": "0000180133",
+        "originalCode": "0000180133",
+        "image": "img/products/om904/diafragma_valvula_venteo_om904_0000180133.png",
+        "description": "DIAFRAGMA VALVULA DE VENTEO OM904/6-924 0000180133 Modelo: OM904/6-924",
+        "rubro": "BOMBA DE ACEITE, TAPA REFRIG."
+    },
+    {
+        "id": "P852",
+        "name": "JUNTA VALVULA DE VENTEO OM904/6-924",
+        "brand": "Mercedes Benz",
+        "code": "0000180480",
+        "originalCode": "0000180480",
+        "image": "img/products/om904/junta_valvula_venteo_om904_0000180480.png",
+        "description": "JUNTA VALVULA DE VENTEO OM904/6-924 0000180480 Modelo: OM904/6-924",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P853",
+        "name": "PERNO PISTON OM904-906LA",
+        "brand": "Mercedes Benz",
+        "code": "9060370320",
+        "originalCode": "9060370320",
+        "image": "img/products/om904/perno_piston_om904_9060370320.png",
+        "description": "PERNO PISTON OM904-906LA 9060370320 Modelo: OM904/6LA",
+        "rubro": "PIEZAS MOTRICES DE MOTOR"
+    },
+    {
+        "id": "P854",
+        "name": "CIGUEÑAL OM904 SUSIN",
+        "brand": "Mercedes Benz",
+        "code": "9040300801",
+        "originalCode": "9040300801",
+        "image": "img/products/om904/ciguenal_om904_surin_9040300801.png",
+        "description": "CIGUEÑAL OM904 SUSIN 9040300801 Modelo: ACCELO-ATEGO",
+        "rubro": "PIEZAS MOTRICES DE MOTOR"
+    },
+    {
+        "id": "P855",
+        "name": "BUJE ARBOL D/LEVA #JGO# OM904",
+        "brand": "Mercedes Benz",
+        "code": "9040500151",
+        "originalCode": "9040500151",
+        "image": "img/products/om904/buje_arbol_levas_om904_9040500151.png",
+        "description": "BUJE ARBOL D/LEVA #JGO# OM904 9040500151 Modelo: 712C-914C",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P856",
+        "name": "CONO SEGURO D/VALVULA #Jgo=2 1/2 cañas# OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "1020530026",
+        "originalCode": "1020530026",
+        "image": "img/products/om904/cono_seguro_valvula_om904_1020530026.png",
+        "description": "CONO SEGURO D/VALVULA #Jgo=2 1/2 cañas# OM904/6 1020530026 Modelo: OM904/6",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P857",
+        "name": "VALVULA ADMISION OM904LA-OM906LA",
+        "brand": "Mercedes Benz",
+        "code": "9060500326",
+        "originalCode": "9060500326",
+        "image": "img/products/om904/valvula_admision_om904_9060500326.png",
+        "description": "VALVULA ADMISION OM904LA-OM906LA 9060500326 Modelo: 712C-1214",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P858",
+        "name": "VALVULA ESCAPE OM904LA-OM906LA",
+        "brand": "Mercedes Benz",
+        "code": "9060500327",
+        "originalCode": "9060500327",
+        "image": "img/products/om904/valvula_escape_om904_9060500327.png",
+        "description": "VALVULA ESCAPE OM904LA-OM906LA 9060500327 Modelo: 721C-1214",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P859",
+        "name": "CONO SEGURO D/VALVULA #1/2 caña# TOP BRAKE OM904",
+        "brand": "Mercedes Benz",
+        "code": "9060530026",
+        "originalCode": "9060530026",
+        "image": "img/products/om904/cono_seguro_valvula_top_brake_om904_9060530026.png",
+        "description": "CONO SEGURO D/VALVULA #1/2 caña# TOP BRAKE OM904 9060530026 Modelo: OM904",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P860",
+        "name": "VALVULA TOP BRAKE OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060160791",
+        "originalCode": "9060160791",
+        "image": "img/products/om904/valvula_top_brake_om904_9060160791.png",
+        "description": "VALVULA TOP BRAKE OM904/6 9060160791 Modelo: OM904/6",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P861",
+        "name": "GUIA VALVULA ADMISION/ESCAPE OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060530129",
+        "originalCode": "9060530129",
+        "image": "img/products/om904/guia_valvula_om904_9060530129.png",
+        "description": "GUIA VALVULA ADMISION/ESCAPE OM904/6 9060530129 Modelo: OM904/6",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P862",
+        "name": "CASQUILLO VALVULA ESCAPE OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060530132",
+        "originalCode": "9060530132",
+        "image": "img/products/om904/casquillo_valvula_escape_om904_9060530132.png",
+        "description": "CASQUILLO VALVULA ESCAPE OM904/6 9060530132 Modelo: OM904/6",
+        "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
+    },
+    {
+        "id": "P863",
+        "name": "RESORTE VALVULA MOTOR ESCAPE OM904/6 ALEMAN",
+        "brand": "Mercedes Benz",
+        "code": "9060530020 / 9060530220",
+        "originalCode": "9060530020 / 9060530220",
+        "image": "img/products/om904/resorte_valvula_escape_om904_9060530020.png",
+        "description": "RESORTE VALVULA MOTOR ESCAPE OM904/6 ALEMAN 9060530020/0220 Modelo: OM904/6",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P864",
+        "name": "PLATILLO ASIENTO VALVULAS MOTOR OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060530225 / 9060530025",
+        "originalCode": "9060530225 / 9060530025",
+        "image": "img/products/om904/platillo_asiento_valvula_om904_9060530225.png",
+        "description": "PLATILLO ASIENTO VALVULAS MOTOR OM904/6 9060530225/0025 Modelo: OM904/6",
+        "rubro": "DISTRIBUCION DEL MOTOR"
+    },
+    {
+        "id": "P865",
+        "name": "ORING PORTA INYECTOR (CANETA) OM904/6/457 11/17x3mm.NACIONAL",
+        "brand": "Mercedes Benz",
+        "code": "5419970645",
+        "originalCode": "5419970645",
+        "image": "img/products/om904/oring_porta_inyector_om904_5419970645.png",
+        "description": "ORING PORTA INYECTOR (CANETA) OM904/6/457 11/17x3mm.NACIONAL 5419970645 Modelo: OM904/6/457",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P866",
+        "name": "ORING SUPERIOR DE TOBERA OM904/6/457 21/27x3mm.NACIONAL",
+        "brand": "Mercedes Benz",
+        "code": "5419970545",
+        "originalCode": "5419970545",
+        "image": "img/products/om904/oring_superior_tobera_om904_5419970545.png",
+        "description": "ORING SUPERIOR DE TOBERA OM904/6/457 21/27x3mm.NACIONAL 5419970545 Modelo: OM904/6/457",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P867",
+        "name": "ORING INFERIOR DE TOBERA OM904/6/457 25/32x3,50mm.NACIONAL",
+        "brand": "Mercedes Benz",
+        "code": "5419970745",
+        "originalCode": "5419970745",
+        "image": "img/products/om904/oring_inferior_tobera_om904_5419970745.png",
+        "description": "ORING INFERIOR DE TOBERA OM904/6/457 25/32x3,50mm.NACIONAL 5419970745 Modelo: OM904/6/457",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P868",
+        "name": "ARANDELA ASIENTO INYECTOR OM904/906/457 (SOMBRERITO)",
+        "brand": "Mercedes Benz",
+        "code": "9060170860",
+        "originalCode": "9060170860",
+        "image": "img/products/om904/arandela_asiento_inyector_om904_9060170860.png",
+        "description": "ARANDELA ASIENTO INYECTOR OM904/906/457 (SOMBRERITO) 9060170860 Modelo: OM904/906/457",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P869",
+        "name": "ORING BOMBA SOLIDARIA #JGO# OM904/6 (MONOBOMBA)",
+        "brand": "Mercedes Benz",
+        "code": "0289975648",
+        "originalCode": "0289975648",
+        "image": "img/products/om904/oring_bomba_solidaria_om904_0289975648.png",
+        "description": "ORING BOMBA SOLIDARIA #JGO# OM904/6 (MONOBOMBA) 0289975648 Modelo: OM904/6",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P870",
+        "name": "BOMBA ALIMENTADORA OM904-906-924-926",
+        "brand": "Mercedes Benz",
+        "code": "0040910401",
+        "originalCode": "0040910401",
+        "image": "img/products/om904/bomba_alimentadora_om904_0040910401.png",
+        "description": "BOMBA ALIMENTADORA OM904-906-924-926 0040910401 Modelo: OM904/6/24/6",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P871",
+        "name": "ARANDELA ASIENTO TOBERA \"COBRE\"OM904/6 (PLANA) 15x7x1,5mm.",
+        "brand": "Mercedes Benz",
+        "code": "9060170260",
+        "originalCode": "9060170260",
+        "image": "img/products/om904/arandela_asiento_tobera_om904_9060170260.png",
+        "description": "ARANDELA ASIENTO TOBERA \"COBRE\"OM904/6 (PLANA) 15x7x1,5mm. 9060170260 Modelo: OM904/6",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P872",
+        "name": "ORING LATERAL BBA.SOLIDARIA O MONOBOMBA OM904/6 (9x14x2,5)",
+        "brand": "Mercedes Benz",
+        "code": "0239976848",
+        "originalCode": "0239976848",
+        "image": "img/products/om904/oring_lateral_bomba_solidaria_om904_0239976848.png",
+        "description": "ORING LATERAL BBA.SOLIDARIA O MONOBOMBA OM904/6 (9x14x2,5) 0239976848 Modelo: OM904/6",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P873",
+        "name": "TRANSMISOR DE IMPULSOS CIGUEÑAL OM904/24-906/26-457LA",
+        "brand": "Mercedes Benz",
+        "code": "0011533120",
+        "originalCode": "0011533120",
+        "image": "img/products/om904/transmisor_impulsos_ciguenal_om904_0011533120.png",
+        "description": "TRANSMISOR DE IMPULSOS CIGUEÑAL OM904/24-906/26-457LA 0011533120 Modelo: OM904/26-457",
+        "rubro": "ALTERNADOR, ARRANQUE, DINAMO"
+    },
+    {
+        "id": "P874",
+        "name": "VALVULA SOBREPRESION GAS-OIL OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060921210",
+        "originalCode": "9060921210",
+        "image": "img/products/om904/valvula_sobrepresion_gasoil_om904_9060921210.png",
+        "description": "VALVULA SOBREPRESION GAS-OIL OM904/6 9060921210 Modelo: OM904/6",
+        "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P875",
+        "name": "KIT PREFILTRO FILTRO GAS-OIL OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "0000900751",
+        "originalCode": "0000900751",
+        "image": "img/products/om904/kit_prefiltro_gasoil_om904_0000900751.png",
+        "description": "KIT PREFILTRO FILTRO GAS-OIL OM904/6 0000900751 Modelo: 712C",
+        "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P876",
+        "name": "ABRAZADERA MULTIPLE ADMISION AL TURBO OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9069970190",
+        "originalCode": "9069970190",
+        "image": "img/products/om904/abrazadera_multiple_admision_turbo_om904_9069970190.png",
+        "description": "ABRAZADERA MULTIPLE ADMISION AL TURBO OM904/6 9069970190 Modelo: 712C-1417-O50",
+        "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P877",
+        "name": "ELEMENTO FILTRO AIRE OM904LA",
+        "brand": "Mercedes Benz",
+        "code": "3740947104",
+        "originalCode": "3740947104",
+        "image": "img/products/om904/filtro_aire_om904_3740947104.png",
+        "description": "ELEMENTO FILTRO AIRE OM904LA 3740947104 Modelo: 712C",
+        "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P878",
+        "name": "CAÑO CODO TAPA VALVULA OF1417/8-OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060180082",
+        "originalCode": "9060180082",
+        "image": "img/products/om904/codo_tapa_valvula_om904_9060180082.png",
+        "description": "CAÑO CODO TAPA VALVULA OF1417/8-OM904/6 9060180082 Modelo: OF1417/8",
+        "rubro": "BOMBA DE ACEITE, TAPA REFRIGERACION"
+    },
+    {
+        "id": "P879",
+        "name": "CAÑO D/GOMA DESCARGA ACEITE DE TURBO OM904/924",
+        "brand": "Mercedes Benz",
+        "code": "9049970282",
+        "originalCode": "9049970282",
+        "image": "img/products/om904/cano_goma_descarga_aceite_turbo_om904_9049970282.png",
+        "description": "CAÑO D/GOMA DESCARGA ACEITE DE TURBO OM904/924 9049970282 Modelo: 712C",
+        "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P880",
+        "name": "TURBO SOBREALIMENTADOR OM904LA-E2 712C",
+        "brand": "Mercedes Benz",
+        "code": "9040967649",
+        "originalCode": "9040967649",
+        "image": "img/products/om904/turbo_om904la_712c_9040967649.png",
+        "description": "TURBO SOBREALIMENTADOR OM904LA-E2 712C 9040967649 Modelo: 712C",
+        "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P881",
+        "name": "MULTIPLE DE ADMISION OM904/24",
+        "brand": "Mercedes Benz",
+        "code": "9040908137",
+        "originalCode": "9040908137",
+        "image": "img/products/om904/multiple_admision_om904_9040908137.png",
+        "description": "MULTIPLE DE ADMISION OM904/24 9040908137 Modelo: OM904/24",
+        "rubro": "MULTIPLE DE ESCAPE, SUS PARTES"
+    },
+    {
+        "id": "P882",
+        "name": "BUJE COMPRESOR DELANTERO WABCO 85mm. OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "S/N",
+        "originalCode": "S/N",
+        "image": "img/products/om904/buje_compresor_delantero_wabco_85mm_om904.png",
+        "description": "BUJE COMPRESOR DELANTERO WABCO 85mm. OM904/6 Modelo: OM904/6",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
+    },
+    {
+        "id": "P883",
+        "name": "ORING COMPRESOR DELANTERO OM904/6 (117x3,5mm.)",
+        "brand": "Mercedes Benz",
+        "code": "0249972148",
+        "originalCode": "0249972148",
+        "image": "img/products/om904/oring_compresor_delantero_om904_0249972148.png",
+        "description": "ORING COMPRESOR DELANTERO OM904/6 (117x3,5mm.) 0249972148 Modelo: OM904/6",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
+    },
+    {
+        "id": "P884",
+        "name": "TAPA Y ENTRETAPA COMPRESOR WABCO 85mm.OM904",
+        "brand": "Mercedes Benz",
+        "code": "0001312221",
+        "originalCode": "0001312221",
+        "image": "img/products/om904/tapa_entretapa_compresor_om904_0001312221.png",
+        "description": "TAPA Y ENTRETAPA COMPRESOR WABCO 85mm.OM904 0001312221 Modelo: OF1417",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
+    },
+    {
+        "id": "P885",
+        "name": "MULTIPLE DE ESCAPE OM904-924",
+        "brand": "Mercedes Benz",
+        "code": "9041401909",
+        "originalCode": "9041401909",
+        "image": "img/products/om904/multiple_escape_om904_9041401909.png",
+        "description": "MULTIPLE DE ESCAPE OM904-924 9041401909 Modelo: OM904/924",
+        "rubro": "MULTIPLE DE ESCAPE, SUS PARTES"
+    },
+    {
+        "id": "P886",
+        "name": "SOPORTE ALTERNADOR OM904 OF-1417 FUNDICION",
+        "brand": "Mercedes Benz",
+        "code": "9061500770",
+        "originalCode": "9061500770",
+        "image": "img/products/om904/soporte_alternador_om904_9061500770.png",
+        "description": "SOPORTE ALTERNADOR OM904 OF-1417 FUNDICION 9061500770 Modelo: OF-1417",
+        "rubro": "ALTERNADOR, ARRANQUE, DINAMO"
+    },
+    {
+        "id": "P887",
+        "name": "SOPORTE ALTERNADOR OM904 OF-1417 ALUMINIO",
+        "brand": "Mercedes Benz",
+        "code": "9061500770",
+        "originalCode": "9061500770",
+        "image": "img/products/om904/soporte_alternador_om904_aluminio_9061500770.png",
+        "description": "SOPORTE ALTERNADOR OM904 OF-1417 ALUMINIO 9061500770 Modelo: OF-1417",
+        "rubro": "ALTERNADOR, ARRANQUE, DINAMO"
+    },
+    {
+        "id": "P888",
+        "name": "TOBERA INYECTOR DE ACEITE OM904/906 C/CUELLO",
+        "brand": "Mercedes Benz",
+        "code": "9061800443",
+        "originalCode": "9061800443",
+        "image": "img/products/om904/tobera_inyector_aceite_om904_9061800443.png",
+        "description": "TOBERA INYECTOR DE ACEITE OM904/906 C/CUELLO 9061800443 Modelo: OM904/906",
+        "rubro": "BOMBA DE ACEITE, TAPA REFRIGERACION"
+    },
+    {
+        "id": "P889",
+        "name": "BULON LUBRICACION ACEITE OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "915036010208",
+        "originalCode": "915036010208",
+        "image": "img/products/om904/bulon_lubricacion_aceite_om904_915036010208.png",
+        "description": "BULON LUBRICACION ACEITE OM904/906 915036010208 Modelo: OM904/906",
+        "rubro": "BOMBA DE ACEITE, TAPA REFRIGERACION"
+    },
+    {
+        "id": "P890",
+        "name": "VALVULA SOBREPRESION ACEITE OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "0001800915",
+        "originalCode": "0001800915",
+        "image": "img/products/om904/valvula_sobrepresion_aceite_om904_0001800915.png",
+        "description": "VALVULA SOBREPRESION ACEITE OM904/6 0001800915 Modelo: OM904/6",
+        "rubro": "BOMBA DE ACEITE, TAPA REFRIGERACION"
+    },
+    {
+        "id": "P891",
+        "name": "SENSOR DE F/ACEITE Y TEMPERATURA OM904/6/924/6",
+        "brand": "Mercedes Benz",
+        "code": "0041532028",
+        "originalCode": "0041532028",
+        "image": "img/products/om904/sensor_f_aceite_temperatura_om904_0041532028.png",
+        "description": "SENSOR DE F/ACEITE Y TEMPERATURA OM904/6/924/6 0041532028 Modelo: OM904/6/24/6",
+        "rubro": "BOMBA DE ACEITE, TAPA REFRIGERACION"
+    },
+    {
+        "id": "P892",
+        "name": "SENSOR NIVEL DE ACEITE OM904/6/24/6",
+        "brand": "Mercedes Benz",
+        "code": "0041530228",
+        "originalCode": "0041530228",
+        "image": "img/products/om904/sensor_nivel_aceite_om904_0041530228.png",
+        "description": "SENSOR NIVEL DE ACEITE OM904/6/24/6 0041530228 Modelo: OM904/6/24/6",
+        "rubro": "ALTERNADOR, ARRANQUE, DINAMO"
+    },
+    {
+        "id": "P893",
+        "name": "CAÑO RIG.SAL.BBA.AGUA OM904",
+        "brand": "Mercedes Benz",
+        "code": "9062030015",
+        "originalCode": "9062030015",
+        "image": "img/products/om904/cano_rig_sal_bomba_agua_om904_9062030015.png",
+        "description": "CAÑO RIG.SAL.BBA.AGUA OM904 9062030015 Modelo: OM904",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P894",
+        "name": "CODO TERMOSTATO OM904/6 OF1417-1624",
+        "brand": "Mercedes Benz",
+        "code": "9042030574",
+        "originalCode": "9042030574",
+        "image": "img/products/om904/codo_termostato_om904_9042030574.png",
+        "description": "CODO TERMOSTATO OM904/6 OF1417-1624 9042030574 Modelo: OF1417-1624",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P895",
+        "name": "UNION ORIENTABLE CALEFACCION 20x10mm.OM904",
+        "brand": "Mercedes Benz",
+        "code": "0019908688",
+        "originalCode": "0019908688",
+        "image": "img/products/om904/union_orientable_calefaccion_om904_0019908688.png",
+        "description": "UNION ORIENTABLE CALEFACCION 20x10mm.OM904 0019908688 Modelo: OM904",
+        "rubro": "CALEFACCION Y SUS PARTES"
+    },
+    {
+        "id": "P896",
+        "name": "CAÑO GOMA RADIADOR INFERIOR A BOMBA DE AGUA OF1417 (OM904)",
+        "brand": "Mercedes Benz",
+        "code": "3845012982",
+        "originalCode": "3845012982",
+        "image": "img/products/om904/cano_radiador_inferior_of1417_3845012982.png",
+        "description": "CAÑO GOMA RADIADOR INFERIOR A BOMBA DE AGUA OF1417 (OM904) 3845012982 Modelo: OF1417(OM904)",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P897",
+        "name": "CAÑO GOMA RADIADOR SUPERIOR ATEGO 1418 OM904",
+        "brand": "Mercedes Benz",
+        "code": "9585011982",
+        "originalCode": "9585011982",
+        "image": "img/products/om904/cano_radiador_superior_atego_1418_9585011982.png",
+        "description": "CAÑO GOMA RADIADOR SUPERIOR ATEGO 1418 OM904 9585011982 Modelo: ATEGO 1418",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P898",
+        "name": "CAÑO GOMA RADIADOR INFERIOR ATRON 1720 OM904",
+        "brand": "Mercedes Benz",
+        "code": "6935010382",
+        "originalCode": "6935010382",
+        "image": "img/products/om904/cano_radiador_inferior_atron_1720_6935010382.png",
+        "description": "CAÑO GOMA RADIADOR INFERIOR ATRON 1720 OM904 6935010382 Modelo: ATRON 1720",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P899",
+        "name": "CAÑO GOMA RADIADOR SUPERIOR ATRON 1720 OM904",
+        "brand": "Mercedes Benz",
+        "code": "6935019082",
+        "originalCode": "6935019082",
+        "image": "img/products/om904/cano_radiador_superior_atron_1720_6935019082.png",
+        "description": "CAÑO GOMA RADIADOR SUPERIOR ATRON 1720 OM904 6935019082 Modelo: ATRON 1720",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P900",
+        "name": "HIDROSTATICO OM904 (3 ESPARRAGOS) M/VJO.",
+        "brand": "Mercedes Benz",
+        "code": "9042001122",
+        "originalCode": "9042001122",
+        "image": "img/products/om904/hidrostatico_om904_3_esparragos_9042001122.png",
+        "description": "HIDROSTATICO OM904 (3 ESPARRAGOS) M/VJO. 9042001122 Modelo: OM904",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P901",
+        "name": "CAÑO GOMA RADIADOR INFERIOR ATEGO 1418 OM904",
+        "brand": "Mercedes Benz",
+        "code": "3845011982/0284",
+        "originalCode": "3845011982/0284",
+        "image": "img/products/om904/cano_radiador_inferior_atego_1418_3845011982.png",
+        "description": "CAÑO GOMA RADIADOR INFERIOR ATEGO 1418 OM904 3845011982/0284 Modelo: ATEGO 1418",
+        "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
+    },
+    {
+        "id": "P902",
+        "name": "SUBCONJ.D/MOT.OM904 EURO II (P=40mm.) STD.",
+        "brand": "Mercedes Benz",
+        "code": "S/N",
+        "originalCode": "S/N",
+        "image": "img/products/om904/subconj_om904_euro2_p40_std.png",
+        "description": "SUBCONJ.D/MOT.OM904 EURO II (P=40mm.) STD. Modelo: OM904/906",
+        "rubro": "PIEZAS MOTRICES DE MOTOR"
+    },
+    {
+        "id": "P903",
+        "name": "DEPOSITO DE AGUA OH1315/1621L-O400/500 C/MOTOR OM904 C/SENSOR",
+        "brand": "Mercedes Benz",
+        "code": "3825007449",
+        "originalCode": "3825007449",
+        "image": "img/products/om904/deposito_agua_oh1315_3825007449.png",
+        "description": "DEPOSITO DE AGUA OH1315/1621L-O400/500 C/MOTOR OM904 C/SENSOR 3825007449 Modelo: OH1315/1621L",
+        "rubro": "RADIADOR Y SUS PARTES"
+    },
+    {
+        "id": "P904",
+        "name": "DEFLECTOR DE RADIADOR ACCELO 915-1016 MOTOR OM904LA/924LA",
+        "brand": "Mercedes Benz",
+        "code": "9795050155",
+        "originalCode": "9795050155",
+        "image": "img/products/om904/deflector_radiador_accelo_915_9795050155.png",
+        "description": "DEFLECTOR DE RADIADOR ACCELO 915-1016 MOTOR OM904LA/924LA 9795050155 Modelo: ACCELO 915",
+        "rubro": "RADIADOR Y SUS PARTES"
+    },
+    {
+        "id": "P905",
+        "name": "DEFLECTOR DE RADIADOR 712C-914C (OM904LA)",
+        "brand": "Mercedes Benz",
+        "code": "6885057130",
+        "originalCode": "6885057130",
+        "image": "img/products/om904/deflector_radiador_712c_914c_6885057130.png",
+        "description": "DEFLECTOR DE RADIADOR 712C-914C (OM904LA) 6885057130 Modelo: 712C-914C",
+        "rubro": "RADIADOR Y SUS PARTES"
+    },
+    {
+        "id": "P906",
+        "name": "SENSOR NIVEL DE AGUA M/NVO.O500 OF1722 ATRON",
+        "brand": "Mercedes Benz",
+        "code": "3685400417",
+        "originalCode": "3685400417",
+        "image": "img/products/om904/sensor_nivel_agua_3685400417.png",
+        "description": "SENSOR NIVEL DE AGUA M/NVO.O500 OF1722 ATRON 3685400417 Modelo: O500-OM904/6",
+        "rubro": "INSTALACION ELECTRICA, INSTRUMENTAL"
+    },
+    {
+        "id": "P907",
+        "name": "CAÑO GOMA ASPIRACION F/AIRE AL TURBO L1218 OM904",
+        "brand": "Mercedes Benz",
+        "code": "S/N",
+        "originalCode": "S/N",
+        "image": "img/products/om904/cano_aspiracion_aire_turbo_l1218_om904.png",
+        "description": "CAÑO GOMA ASPIRACION F/AIRE AL TURBO L1218 OM904 Modelo: L1218",
+        "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P908",
+        "name": "PREFILTRO GAS-OIL OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "0004770002",
+        "originalCode": "0004770002",
+        "image": "img/products/om904/prefiltro_gasoil_om904_0004770002.png",
+        "description": "PREFILTRO GAS-OIL OM904/6 0004770002 Modelo: 712-C",
+        "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P909",
+        "name": "JTA.PIPETA DE TURBO OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "S/N",
+        "originalCode": "S/N",
+        "image": "img/products/om904/jta_pipeta_turbo_om904_906.png",
+        "description": "JTA.PIPETA DE TURBO OM904/6 Modelo: OM904/6",
+        "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P910",
+        "name": "JTA.CAÑO LUBRICACION PIPETA DE TURBO OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "5411870080",
+        "originalCode": "5411870080",
+        "image": "img/products/om904/jta_cano_lubricacion_pipeta_turbo_om904_5411870080.png",
+        "description": "JTA.CAÑO LUBRICACION PIPETA DE TURBO OM904/6 5411870080 Modelo: OM904/6",
+        "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P911",
+        "name": "JTA.BOMBA COMBUSTIBLE OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060910380/580/780",
+        "originalCode": "9060910380/580/780",
+        "image": "img/products/om904/jta_bomba_combustible_om904_9060910380.png",
+        "description": "JTA.BOMBA COMBUSTIBLE OM904/6 9060910380/580/780 Modelo: 712-1624",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P912",
+        "name": "JTA.ADMISION T/VALVULA OM904/6",
+        "brand": "Mercedes Benz",
+        "code": "9060980480",
+        "originalCode": "9060980480",
+        "image": "img/products/om904/jta_admision_t_valvula_om904_9060980480.png",
+        "description": "JTA.ADMISION T/VALVULA OM904/6 9060980480 Modelo: 712-1624",
+        "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
+    },
+    {
+        "id": "P913",
+        "name": "CAÑO RIG.D/HIDR.AL FLEXIBLE OF1722 OM904",
+        "brand": "Mercedes Benz",
+        "code": "3844600824",
+        "originalCode": "3844600824",
+        "image": "img/products/om904/cano_rig_dh_flexible_of1722_3844600824.png",
+        "description": "CAÑO RIG.D/HIDR.AL FLEXIBLE OF1722 OM904 3844600824 Modelo: OF1722 OM904",
+        "rubro": "CAJA DE DIRECCION Y SUS PARTES"
+    },
+    {
+        "id": "P914",
+        "name": "CAÑO RETORNO INYECTOR TOP-BRAKE OM904/924",
+        "brand": "Mercedes Benz",
+        "code": "9040700433",
+        "originalCode": "9040700433",
+        "image": "img/products/om904/cano_retorno_inyector_top_brake_om904_9040700433.png",
+        "description": "CAÑO RETORNO INYECTOR TOP-BRAKE OM904/924 9040700433 Modelo: OM904/924",
+        "rubro": "INYECCION DEL MOTOR"
+    },
+    {
+        "id": "P915",
+        "name": "CAÑO RIGIDO D/COMPRESOR OM904 712C",
+        "brand": "Mercedes Benz",
+        "code": "6884204036",
+        "originalCode": "6884204036",
+        "image": "img/products/om904/cano_rigido_compresor_712c_6884204036.png",
+        "description": "CAÑO RIGIDO D/COMPRESOR OM904 712C 6884204036 Modelo: 712C",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
+    },
+    {
+        "id": "P916",
+        "name": "CAÑO RIGIDO SALIDA COMPRESOR OF1417/8-OM904LA",
+        "brand": "Mercedes Benz",
+        "code": "3844203636",
+        "originalCode": "3844203636",
+        "image": "img/products/om904/cano_rigido_salida_compresor_of1417_3844203636.png",
+        "description": "CAÑO RIGIDO SALIDA COMPRESOR OF1417/8-OM904LA 3844203636 Modelo: 1417/8-OM904L",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
+    },
+    {
+        "id": "P917",
+        "name": "FLEXIBLE SALIDA COMPRESOR 500mm.OF-1417/8 OM904LA",
+        "brand": "Mercedes Benz",
+        "code": "6654297635/LGO.",
+        "originalCode": "6654297635/LGO.",
+        "image": "img/products/om904/flexible_salida_compresor_500mm_6654297635.png",
+        "description": "FLEXIBLE SALIDA COMPRESOR 500mm.OF-1417/8 OM904LA 6654297635/LGO. Modelo: OF-1417/8",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
+    },
+    {
+        "id": "P918",
+        "name": "CAÑO RIG.SAL.COMPR.1er.TRAMO (1 RULO) OM904",
+        "brand": "Mercedes Benz",
+        "code": "3904200849",
+        "originalCode": "3904200849",
+        "image": "img/products/om904/cano_rig_sal_compr_1er_tramo_3904200849.png",
+        "description": "CAÑO RIG.SAL.COMPR.1er.TRAMO (1 RULO) OM904 3904200849 Modelo: 814",
+        "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     }
 ];
 
