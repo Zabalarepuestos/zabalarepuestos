@@ -8975,6 +8975,806 @@ const products = [
         "image": "img/products/isf/sensor_presion_aire_isb_isf_BH5X9D290AA.jpg",
         "description": "SENSOR PRESION AIRE ISB 4.5 6.7 ISF CARGO 1723/1729 BH5X9D290AA / 2Z0906051A",
         "rubro": "540-INSTRUMENTAL"
+    },
+    {
+        "id": "P970",
+        "name": "VIDRIO MAYOR PLANO ESPEJO IZQ VW DELIVERY 2018",
+        "brand": "Mercedes Benz",
+        "code": "S/CODIGO",
+        "originalCode": "S/CODIGO",
+        "image": "img/products/6c/vidrio-mayor-plano-espejo-izq-vw-delivery-2018.jpg",
+        "description": "VIDRIO MAYOR PLANO ESPEJO IZQ VW DELIVERY 2018",
+        "rubro": "BEPO"
+    },
+    {
+        "id": "P971",
+        "name": "Deflector radiador ford cargo nuevo 1722/23/1722e/2422e",
+        "brand": "Ford/VW",
+        "code": "AC458146CA / DC458146AA / GC458146CA",
+        "originalCode": "AC458146CA DC458146AA GC458146CA",
+        "image": "img/products/6c/deflector-radiador-ford-cargo-nuevo-1722.jpg",
+        "description": "Deflector radiador ford cargo nuevo 1722/23/1722e/2422e AC458146CA DC458146AA GC458146CA",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P972",
+        "name": "Sensor nivel de agua de refrigeracion Nuevo Cargo /VW (modulo ccm)",
+        "brand": "Ford/VW",
+        "code": "6C458B397BA / 2R0941038A / 2R0941038B",
+        "originalCode": "6C458B397BA 2R0941038A 2R0941038B",
+        "image": "img/products/6c/sensor-nivel-agua-refrigeracion-nuevo-cargo-vw.jpg",
+        "description": "Sensor nivel de agua de refrigeracion Nuevo Cargo /VW (modulo ccm) 6C458B397BA 2R0941038A 2R0941038B",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P973",
+        "name": "Sensor rotacion ciguenal cummins isc ford/vw",
+        "brand": "Ford/VW",
+        "code": "2872279 / 4921686 / BH0X6C315AA / BG6X6C315BA / 2Z0906051B",
+        "originalCode": "2872279 4921686 BH0X6C315AA BG6X6C315BA 2Z0906051B",
+        "image": "img/products/6c/sensor-rotacion-ciguenal-cummins-isc-ford-vw.jpg",
+        "description": "Sensor rotacion ciguenal cummins isc ford/vw 2872279 4921686 BH0X6C315AA BG6X6C315BA 2Z0906051B",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P974",
+        "name": "Cierre capot ford cargo m/n (perno) izq",
+        "brand": "Ford/VW",
+        "code": ">890-043/I",
+        "originalCode": "BC4516C609AB",
+        "image": "img/products/6c/cierre-capot-ford-cargo-mn-perno-izq.jpg",
+        "description": "Cierre capot ford cargo m/n (perno) izq >890-043/I BC4516C609AB",
+        "rubro": "CABINA"
+    },
+    {
+        "id": "P975",
+        "name": "Cierre capot ford cargo m/n (perno) der",
+        "brand": "Ford/VW",
+        "code": ">890-043/D",
+        "originalCode": "BC4516C608AB",
+        "image": "img/products/6c/cierre-capot-ford-cargo-mn-perno-der.jpg",
+        "description": "Cierre capot ford cargo m/n (perno) der >890-043/D BC4516C608AB",
+        "rubro": "CABINA"
+    },
+    {
+        "id": "P976",
+        "name": "Sensor de giro de cigueñal/arbol de levas cummins ISBE / MWM",
+        "brand": "Ford/VW",
+        "code": "4890190 / BG5X6C315BA / 2R0906433A / 961200670024",
+        "originalCode": "4890190 BG5X6C315BA 2R0906433A 961200670024",
+        "image": "img/products/6c/sensor-giro-ciguenal-cummins-isbe-mwm.jpg",
+        "description": "Sensor de giro de cigueñal/arbol de levas cummins ISBE / MWM 4890190 BG5X6C315BA 2R0906433A 961200670024",
+        "rubro": "ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P977",
+        "name": "Amortiguador capot ford l/n",
+        "brand": "Ford/VW",
+        "code": "BC4516C826BA",
+        "originalCode": "BC4516C826BA",
+        "image": "img/products/6c/amortiguador-capot-ford-ln.jpg",
+        "description": "Amortiguador capot ford l/n BC4516C826BA",
+        "rubro": "DESPIECE CAPOT/GUARDABARRO"
+    },
+    {
+        "id": "P978",
+        "name": "Pedal acelerador completo electrico ford 815e/915e/1317e/1517e/1722e 2009/2011 m/v",
+        "brand": "Ford/VW",
+        "code": "6C459G883AA",
+        "originalCode": "6C459G883AA",
+        "image": "img/products/6c/pedal-acelerador-completo-electrico-ford.jpg",
+        "description": "Pedal acelerador completo electrico ford 815e/915e/1317e/1517e/1722e 2009/2011 m/v 6C459G883AA",
+        "rubro": "ACELERACIÓN"
+    },
+    {
+        "id": "P979",
+        "name": "Empuñadura palanca ford C2632 (15 marchas) completa",
+        "brand": "Ford/VW",
+        "code": "A6915 / 3003913 / BC457213BA / S2581 / 6C457213AA / 2RR711259",
+        "originalCode": "A6915 3003913 BC457213BA S2581 6C457213AA 2RR711259",
+        "image": "img/products/6c/empunadura-palanca-ford-c2632-15-marchas.jpg",
+        "description": "Empuñadura palanca ford C2632 (15 marchas) completa A6915 3003913 BC457213BA S2581 6C457213AA 2RR711259",
+        "rubro": "CAJA CAMBIO"
+    },
+    {
+        "id": "P980",
+        "name": "Junta caja distribucion 6ct",
+        "brand": "Ford/VW",
+        "code": "3281721 / 3938737 / 3358252 / BG1X6C045AA / TJG109235 / 2T0109235A",
+        "originalCode": "3281721 3938737 3358252 BG1X6C045AA TJG109235 2T0109235A",
+        "image": "img/products/6c/junta-caja-distribucion-6ct.jpg",
+        "description": "Junta caja distribucion 6ct 3281721 3938737 3358252 BG1X6C045AA TJG109235 2T0109235A",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P981",
+        "name": "Abrazadera multiple admision e intercooler 104x115",
+        "brand": "Ford/VW",
+        "code": "TAL117269 / BF8T5A272AA / XC456F081AA / 6C456F081AA",
+        "originalCode": "TAL117269 BF8T5A272AA XC456F081AA 6C456F081AA",
+        "image": "img/products/6c/abrazadera-multiple-admision-intercooler-104x115.jpg",
+        "description": "Abrazadera multiple admision e intercooler 104x115 TAL117269 BF8T5A272AA XC456F081AA 6C456F081AA",
+        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P982",
+        "name": "Manguera intercooler a admision cargo 1722/1932/2632 05-15",
+        "brand": "Ford/VW",
+        "code": "6C456K863AB",
+        "originalCode": "6C456K863AB",
+        "image": "img/products/6c/manguera-intercooler-a-admision-cargo-1722-1932-2632.jpg",
+        "description": "Manguera intercooler a admision cargo 1722/1932/2632 05-15 6C456K863AB",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P983",
+        "name": "Inyector Common Rail cummins qsb ford/vw",
+        "brand": "Ford/VW",
+        "code": "0445120161 / 4988835 / BH1X9K526CA",
+        "originalCode": "0445120161 4988835 BH1X9K526CA",
+        "image": "img/products/6c/inyector-common-rail-cummins-qsb-ford-vw.jpg",
+        "description": "Inyector Common Rail cummins qsb ford/vw 0445120161 4988835 BH1X9K526CA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P984",
+        "name": "Junta tapa lateral botadores 6bt 3284623",
+        "brand": "Ford/VW",
+        "code": "3284623 / BF8T6C519B / 2RL130911A / 2RL130911",
+        "originalCode": "3284623 BF8T6C519B 2RL130911A 2RL130911",
+        "image": "img/products/6c/junta-tapa-lateral-botadores-6bt-3284623.jpg",
+        "description": "Junta tapa lateral botadores 6bt 3284623 3284623 BF8T6C519B 2RL130911A 2RL130911",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P985",
+        "name": "Tope traba capot lateral der/izq. 14000",
+        "brand": "Ford/VW",
+        "code": "F8HZ16C680AA",
+        "originalCode": "F8HZ16C680AA",
+        "image": "img/products/6c/tope-traba-capot-lateral-14000.jpg",
+        "description": "Tope traba capot lateral der/izq. 14000 F8HZ16C680AA",
+        "rubro": "CABINA"
+    },
+    {
+        "id": "P986",
+        "name": "Motor l/parabrisa ford cargo 24v. m/v",
+        "brand": "Ford/VW",
+        "code": "6C4517504AC",
+        "originalCode": "6C4517504AC",
+        "image": "img/products/6c/motor-l-parabrisa-ford-cargo-24v.jpg",
+        "description": "Motor l/parabrisa ford cargo 24v. m/v 6C4517504AC",
+        "rubro": "FAROS"
+    },
+    {
+        "id": "P987",
+        "name": "Maquina l/cristal mec. ford 14000 der (99-)",
+        "brand": "Ford/VW",
+        "code": "6C3Z2523200AA / XC3Z2523200AA / 8C342523200AA",
+        "originalCode": "6C3Z2523200AA XC3Z2523200AA 8C342523200AA",
+        "image": "img/products/6c/maquina-levanta-cristal-mecanica-ford-14000-der.jpg",
+        "description": "Maquina l/cristal mec. ford 14000 der (99-) 6C3Z2523200AA XC3Z2523200AA 8C342523200AA",
+        "rubro": "PUERTAS"
+    },
+    {
+        "id": "P988",
+        "name": "Acople rapido tubo combustible cummins isb",
+        "brand": "Ford/VW",
+        "code": "3964337 / BG5X87236BA / 2T2201156C",
+        "originalCode": "3964337 BG5X87236BA 2T2201156C",
+        "image": "img/products/6c/acople-rapido-tubo-combustible-cummins-isb.jpg",
+        "description": "Acople rapido tubo combustible cummins isb 3964337 BG5X87236BA 2T2201156C",
+        "rubro": "COMBUSTIBLE"
+    },
+    {
+        "id": "P989",
+        "name": "Apoya brazo izq. ford cargo m/n post. 05",
+        "brand": "Ford/VW",
+        "code": "86HUE26691AA / 6C45E26691AB / 800778",
+        "originalCode": "86HUE26691AA 6C45E26691AB 800778",
+        "image": "img/products/6c/apoya-brazo-izq-ford-cargo-mn-post-05.jpg",
+        "description": "Apoya brazo izq. ford cargo m/n post. 05 86HUE26691AA 6C45E26691AB 800778",
+        "rubro": "REVESTIMIENTOS"
+    },
+    {
+        "id": "P990",
+        "name": "Tecla interruptor freno de motor cargo 1832e/2632e(2002-06) 24v.",
+        "brand": "Ford/VW",
+        "code": "6C452W067AA",
+        "originalCode": "6C452W067AA",
+        "image": "img/products/6c/tecla-interruptor-freno-motor-cargo-1832e.jpg",
+        "description": "Tecla interruptor freno de motor cargo 1832e/2632e(2002-06) 24v. 6C452W067AA",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P991",
+        "name": "DESTELLADOR GIRO 24V 3 TERM.",
+        "brand": "Ford/VW",
+        "code": "6C4513350AA / TAR953227 / 2RP953231",
+        "originalCode": "6C4513350AA TAR953227 2RP953231",
+        "image": "img/products/6c/destellador-giro-24v-3-term.jpg",
+        "description": "DESTELLADOR GIRO 24V 3 TERM. 6C4513350AA TAR953227 2RP953231",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P992",
+        "name": "Maquina l/cristal mec. ford 14000 izq (99-)",
+        "brand": "Ford/VW",
+        "code": "6C3Z2523201AA / XC3Z2523201AA / 8C342523201AA",
+        "originalCode": "6C3Z2523201AA XC3Z2523201AA 8C342523201AA",
+        "image": "img/products/6c/maquina-levanta-cristal-mecanica-ford-14000-izq.jpg",
+        "description": "Maquina l/cristal mec. ford 14000 izq (99-) 6C3Z2523201AA XC3Z2523201AA 8C342523201AA",
+        "rubro": "PUERTAS"
+    },
+    {
+        "id": "P993",
+        "name": "RELAY 24V 4 TERM.",
+        "brand": "Ford/VW",
+        "code": "0015310260 / 0045455805 / 6C4510A968AA",
+        "originalCode": "0015310260 0045455805 6C4510A968AA",
+        "image": "img/products/6c/relay-24v-4-term.jpg",
+        "description": "RELAY 24V 4 TERM. 0015310260 0045455805 6C4510A968AA",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P994",
+        "name": "Conexion flexible lubricacion turbo m/m ford/vw",
+        "brand": "Ford/VW",
+        "code": "3922789 / BG5X6073BA / 2R0115406C",
+        "originalCode": "3922789 BG5X6073BA 2R0115406C",
+        "image": "img/products/6c/conexion-flexible-lubricacion-turbo-mm-ford-vw.jpg",
+        "description": "Conexion flexible lubricacion turbo m/m ford/vw 3922789 BG5X6073BA 2R0115406C",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P995",
+        "name": "Manguera radiador inferior nuevo cargo elect.1932/2632",
+        "brand": "Ford/VW",
+        "code": "6C458286AD",
+        "originalCode": "6C458286AD",
+        "image": "img/products/6c/manguera-radiador-inferior-nuevo-cargo-elect-1932-2632.jpg",
+        "description": "Manguera radiador inferior nuevo cargo elect.1932/2632 6C458286AD",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P996",
+        "name": "Manguera radiador inferior cargo electronico 1722e/1832e/2632e (2005-2010)",
+        "brand": "Ford/VW",
+        "code": "4C458286CF / 4C458286CD / 4C458286CE",
+        "originalCode": "4C458286CF 4C458286CD 4C458286CE",
+        "image": "img/products/6c/manguera-radiador-inferior-cargo-electronico.jpg",
+        "description": "Manguera radiador inferior cargo electronico 1722e/1832e/2632e (2005-2010) 4C458286CF 4C458286CD 4C458286CE",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P997",
+        "name": "Barra tensor motor ford cargo 1831/2626/2631 VW 18310/24220/26310 bus 17240",
+        "brand": "Ford/VW",
+        "code": "XC45/6C061/AA / 2RR199383/A",
+        "originalCode": "XC456C061AA 2RR199383A",
+        "image": "img/products/6c/barra-tensor-motor-ford-cargo-vw.jpg",
+        "description": "Barra tensor motor ford cargo 1831/2626/2631 VW 18310/24220/26310 bus 17240 XC456C061AA 2RR199383A",
+        "rubro": "SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P998",
+        "name": "Deflector radiador ford cargo 1722 elec.",
+        "brand": "Ford/VW",
+        "code": "6C458146CC",
+        "originalCode": "6C458146CC",
+        "image": "img/products/6c/deflector-radiador-ford-cargo-1722-elec.jpg",
+        "description": "Deflector radiador ford cargo 1722 elec. 6C458146CC",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P999",
+        "name": "Manguera radiador inferior cargo electronico 1517e/1722e/1832e/2632e (2011-2015)",
+        "brand": "Ford/VW",
+        "code": "AC458286CA / AC4Z8286B",
+        "originalCode": "AC458286CA AC4Z8286B",
+        "image": "img/products/6c/manguera-radiador-inferior-cargo-electronico-2011-2015.jpg",
+        "description": "Manguera radiador inferior cargo electronico 1517e/1722e/1832e/2632e (2011-2015) AC458286CA AC4Z8286B",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P1000",
+        "name": "Reten cummins bancada con pista 130x155x13 isbe/isce",
+        "brand": "Ford/VW",
+        "code": "4890833 / BG5X6701AA / 2R0103196C",
+        "originalCode": "4890833 BG5X6701AA 2R0103196C",
+        "image": "img/products/6c/reten-cummins-bancada-con-pista-130x155x13-isbe-isce.jpg",
+        "description": "Reten cummins bancada con pista 130x155x13 isbe/isce 4890833 BG5X6701AA 2R0103196C",
+        "rubro": "RETENES"
+    },
+    {
+        "id": "P1001",
+        "name": "Polea cigueñal ford 14000 96/99 vw 9150/13180 mwm 6.10tca",
+        "brand": "Ford/VW",
+        "code": "BF5X6316A / 961007030034 / 2RD105259 / 941003810174 / BF5X6316C / 941007030014",
+        "originalCode": "BF5X6316A 961007030034 2RD105259 941003810174 BF5X6316C 941007030014",
+        "image": "img/products/6c/polea-ciguenal-ford-14000-vw-9150.jpg",
+        "description": "Polea cigueñal ford 14000 96/99 vw 9150/13180 mwm 6.10tca BF5X6316A 961007030034 2RD105259 941003810174 BF5X6316C 941007030014",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1002",
+        "name": "RELAY MINI MULTIFUNCION 24V 5TERM.",
+        "brand": "Ford/VW",
+        "code": "3845427119 / 6C4514B192AA / 3825450205",
+        "originalCode": "3845427119 6C4514B192AA 3825450205",
+        "image": "img/products/6c/relay-mini-multifuncion-24v-5term.jpg",
+        "description": "RELAY MINI MULTIFUNCION 24V 5TERM. 3845427119 6C4514B192AA 3825450205",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1003",
+        "name": "Cierre capot ford cargo m/v (perno)",
+        "brand": "Ford/VW",
+        "code": "81DB16C680AA",
+        "originalCode": "81DB16C680AA",
+        "image": "img/products/6c/cierre-capot-ford-cargo-mv-perno.jpg",
+        "description": "Cierre capot ford cargo m/v (perno) 81DB16C680AA",
+        "rubro": "CABINA"
+    },
+    {
+        "id": "P1004",
+        "name": "Palanca giro/bocina ford cargo",
+        "brand": "Ford/VW",
+        "code": "TJG953513 / 6C4513335AA / 6C4513335BA / 97HU13335AA",
+        "originalCode": "TJG953513 6C4513335AA 6C4513335BA 97HU13335AA",
+        "image": "img/products/6c/palanca-giro-bocina-ford-cargo.jpg",
+        "description": "Palanca giro/bocina ford cargo TJG953513 6C4513335AA 6C4513335BA 97HU13335AA",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1005",
+        "name": "Manguera intercooler reduccion 63/76 x 102 ford 4c456c640da",
+        "brand": "Ford/VW",
+        "code": "4C456C640DA",
+        "originalCode": "4C456C640DA",
+        "image": "img/products/6c/manguera-intercooler-reduccion-63-76-x-102-ford.jpg",
+        "description": "Manguera intercooler reduccion 63/76 x 102 ford 4c456c640da 4C456C640DA",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P1006",
+        "name": "Manguera intercooler reduccion 63 / 74 ford cargo 1722e",
+        "brand": "Ford/VW",
+        "code": "4C456C640DA",
+        "originalCode": "4C456C640DA",
+        "image": "img/products/6c/manguera-intercooler-reduccion-63-74-ford-cargo-1722e.jpg",
+        "description": "Manguera intercooler reduccion 63 / 74 ford cargo 1722e 4C456C640DA",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P1007",
+        "name": "Reservatorio agua cargo ant.2000",
+        "brand": "Ford/VW",
+        "code": "6C458A084BB",
+        "originalCode": "6C458A084BB",
+        "image": "img/products/6c/reservatorio-agua-cargo-ant-2000.jpg",
+        "description": "Reservatorio agua cargo ant.2000 6C458A084BB",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P1008",
+        "name": "Manguera intercooler 63 x 115 mm. Ford / vw 2ta117231 a todos livianos 3.9",
+        "brand": "Ford/VW",
+        "code": "2C456C640AA / 4C456C640CA / 2TA117231A",
+        "originalCode": "2C456C640AA 4C456C640CA 2TA117231A",
+        "image": "img/products/6c/manguera-intercooler-livianos-3-9.jpg",
+        "description": "Manguera intercooler 63 x 115 mm. Ford / vw 2ta117231 a todos livianos 3.9 2C456C640AA 4C456C640CA 2TA117231A",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P1009",
+        "name": "Soporte servo embrague ford",
+        "brand": "Ford/VW",
+        "code": "6C457B582BB",
+        "originalCode": "6C457B582BB",
+        "image": "img/products/6c/soporte-servo-embrague-ford.jpg",
+        "description": "Soporte servo embrague ford 6C457B582BB",
+        "rubro": "PEDALERA"
+    },
+    {
+        "id": "P1010",
+        "name": "Palanca horquilla embrague ford cargo elec. 200mm.",
+        "brand": "Ford/VW",
+        "code": "6C457N512AA / 6C457N512BA",
+        "originalCode": "6C457N512AA 6C457N512BA",
+        "image": "img/products/6c/palanca-horquilla-embrague-ford-cargo-elec-200mm.jpg",
+        "description": "Palanca horquilla embrague ford cargo elec. 200mm. 6C457N512AA 6C457N512BA",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1011",
+        "name": "Viscoso(**)ford cargo 1722e cummins 220-275 6 aguj.",
+        "brand": "Ford/VW",
+        "code": "6C458A616CA / BH5X8A616AA / DC458C617AA",
+        "originalCode": "6C458A616CA BH5X8A616AA DC458C617AA",
+        "image": "img/products/6c/viscoso-ford-cargo-1722e-cummins.jpg",
+        "description": "Viscoso(**)ford cargo 1722e cummins 220-275 6 aguj. 6C458A616CA BH5X8A616AA DC458C617AA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1012",
+        "name": "Viscoso (**)ford cum6ct 1722/1730/2631 6 aguj. Vastago largo rosca hem (185mm) ant.2003",
+        "brand": "Ford/VW",
+        "code": "4C458A616CA",
+        "originalCode": "4C458A616CA",
+        "image": "img/products/6c/viscoso-ford-cum6ct-1722-1730-2631.jpg",
+        "description": "Viscoso (**)ford cum6ct 1722/1730/2631 6 aguj. Vastago largo rosca hem (185mm) ant.2003 4C458A616CA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1013",
+        "name": "PALETA PLASTICO OM924/L1624/1725 C/ARO 8 PALAS.654mm.",
+        "brand": "Mercedes Benz",
+        "code": "9062050106 / 0032051306 / 9062001323 / 6C458600CA",
+        "originalCode": "9062050106 0032051306 9062001323 6C458600CA",
+        "image": "img/products/6c/paleta-plastico-om924-l1624-1725.jpg",
+        "description": "PALETA PLASTICO OM924/L1624/1725 C/ARO 8 PALAS.654mm. 9062050106 0032051306 9062001323 6C458600CA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1014",
+        "name": "Compresor armado completo ford cargo motor cummins hasta año 2000 qe296c T/HOLSET",
+        "brand": "Ford/VW",
+        "code": "BF0X2W152AA / 3976310 / QE296C",
+        "originalCode": "BF0X2W152AA 3976310 QE296C",
+        "image": "img/products/6c/compresor-armado-completo-ford-cargo-cummins-qe296c.jpg",
+        "description": "Compresor armado completo ford cargo motor cummins hasta año 2000 qe296c T/HOLSET BF0X2W152AA 3976310 QE296C",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1015",
+        "name": "Valvula retencion combustible 8mm cummins 6b/6c ford/vw (2 ag.)",
+        "brand": "Ford/VW",
+        "code": "3924726 / TRA130799",
+        "originalCode": "3924726 TRA130799",
+        "image": "img/products/6c/valvula-retencion-combustible-8mm-cummins.jpg",
+        "description": "Valvula retencion combustible 8mm cummins 6b/6c ford/vw (2 ag.) 3924726 TRA130799",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1016",
+        "name": "FLOTANTE TUBULAR AXOR/ACTROS 46cm TANQUE 590L M/V",
+        "brand": "Mercedes Benz",
+        "code": "0135427617 / 0135427117",
+        "originalCode": "0135427617 0135427117",
+        "image": "img/products/om457/flotante-tubular-axor-actros-46cm.jpg",
+        "description": "FLOTANTE TUBULAR AXOR/ACTROS 46cm TANQUE 590L M/V 0135427617 0135427117",
+        "rubro": "COMBUSTIBLE"
+    },
+    {
+        "id": "P1017",
+        "name": "Tapa trasera porta reten carcaza volante Ford Cargo 1722/1730/1831/2626/2631/CUMMINS 6CT - 6CTA - 6C",
+        "brand": "Ford/VW",
+        "code": "2RL103157 / 2RK103157 / TE3103157 / 3933384",
+        "originalCode": "2RL103157 2RK103157 TE3103157 3933384",
+        "image": "img/products/6c/tapa-trasera-porta-reten-carcaza-volante-ford-cargo.jpg",
+        "description": "Tapa trasera porta reten carcaza volante Ford Cargo 1722/1730/1831/2626/2631/CUMMINS 6CT - 6CTA - 6C 2RL103157 2RK103157 TE3103157 3933384",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1018",
+        "name": "CAÑO RIGIDO AGUA 6CIL. AXOR",
+        "brand": "Mercedes Benz",
+        "code": "4570100455",
+        "originalCode": "4570100455",
+        "image": "img/products/om457/cano-rigido-agua-6cil-axor.jpg",
+        "description": "CAÑO RIGIDO AGUA 6CIL. AXOR 4570100455",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1019",
+        "name": "Junta tapa valvula inferior cummins isc 6c",
+        "brand": "Ford/VW",
+        "code": "3966708 / 5272959 / BG5X6584CA / BH3X6584AA / 2T2109139A",
+        "originalCode": "3966708 5272959 BG5X6584CA BH3X6584AA 2T2109139A",
+        "image": "img/products/6c/junta-tapa-valvula-inferior-cummins-isc-6c.jpg",
+        "description": "Junta tapa valvula inferior cummins isc 6c 3966708 5272959 BG5X6584CA BH3X6584AA 2T2109139A",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1020",
+        "name": "Jgo. Junta superior motor cummins 6ct c/t. cil. orig",
+        "brand": "Ford/VW",
+        "code": "3802624 / BG2X6008AA / BG3X6008AA / 2T0198012C",
+        "originalCode": "3802624 BG2X6008AA BG3X6008AA 2T0198012C",
+        "image": "img/products/6c/jgo-junta-superior-motor-cummins-6ct.jpg",
+        "description": "Jgo. Junta superior motor cummins 6ct c/t. cil. orig 3802624 BG2X6008AA BG3X6008AA 2T0198012C",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1021",
+        "name": "Filtro combustible ford cargo/vw camion wk719/6 cummins 6b/6c",
+        "brand": "Ford/VW",
+        "code": "WK719/6",
+        "originalCode": "WK719/6",
+        "image": "img/products/6c/filtro-combustible-ford-cargo-vw-wk719-6.jpg",
+        "description": "Filtro combustible ford cargo/vw camion wk719/6 cummins 6b/6c WK719/6",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P1022",
+        "name": "Junta base compresor holset/cummins 6ct/oa105 ford/vw (metalica)",
+        "brand": "Ford/VW",
+        "code": "3913287 / 3916042 / TE3145857",
+        "originalCode": "3913287 3916042 TE3145857",
+        "image": "img/products/6c/junta-base-compresor-holset-cummins-6ct.jpg",
+        "description": "Junta base compresor holset/cummins 6ct/oa105 ford/vw (metalica) 3913287 3916042 TE3145857",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1023",
+        "name": "Junta conexion salida de agua cummins 6ct ford/vw",
+        "brand": "Ford/VW",
+        "code": "3918779 / 2RK121809 / TF3121809",
+        "originalCode": "3918779 2RK121809 TF3121809",
+        "image": "img/products/6c/junta-conexion-salida-agua-cummins-6ct.jpg",
+        "description": "Junta conexion salida de agua cummins 6ct ford/vw 3918779 2RK121809 TF3121809",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1024",
+        "name": "VALVULA PRESION ACEITE FORD/VW CUMMINS 4B/4C/6B/6C",
+        "brand": "Ford/VW",
+        "code": "3936365 / BG2X6674AA / BF8T6674B / 2RL115419 / 2TE115419",
+        "originalCode": "3936365 BG2X6674AA BF8T6674B 2RL115419 2TE115419",
+        "image": "img/products/6c/valvula-presion-aceite-ford-vw-cummins.jpg",
+        "description": "VALVULA PRESION ACEITE FORD/VW CUMMINS 4B/4C/6B/6C 3936365 BG2X6674AA BF8T6674B 2RL115419 2TE115419",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1025",
+        "name": "Jgo. Junta inferior motor cummins 6ct",
+        "brand": "Ford/VW",
+        "code": "3802389 / 3800558 / 3357004 / BF9X6008AA / 2RK198005B",
+        "originalCode": "3802389 3800558 3357004 BF9X6008AA 2RK198005B",
+        "image": "img/products/6c/jgo-junta-inferior-motor-cummins-6ct.jpg",
+        "description": "Jgo. Junta inferior motor cummins 6ct 3802389 3800558 3357004 BF9X6008AA 2RK198005B",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1026",
+        "name": "Jgo. Junta superior motor cummins 6ct s/t. cil.",
+        "brand": "Ford/VW",
+        "code": "3802624 / BG2X6008AA / BG3X6008AA / 2T0198012C",
+        "originalCode": "3802624 BG2X6008AA BG3X6008AA 2T0198012C",
+        "image": "img/products/6c/jgo-junta-superior-motor-cummins-6ct-sin-tapa.jpg",
+        "description": "Jgo. Junta superior motor cummins 6ct s/t. cil. 3802624 BG2X6008AA BG3X6008AA 2T0198012C",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1027",
+        "name": "Caño tubo descarga aceite turbo 6cta 8.3",
+        "brand": "Ford/VW",
+        "code": "3926842 / 3908114 / BG2X6418AA / BF8T6418A / TE3145465 / 2T0145735",
+        "originalCode": "3926842 3908114 BG2X6418AA BF8T6418A TE3145465 2T0145735",
+        "image": "img/products/6c/cano-tubo-descarga-aceite-turbo-6cta-8-3.jpg",
+        "description": "Caño tubo descarga aceite turbo 6cta 8.3 3926842 3908114 BG2X6418AA BF8T6418A TE3145465 2T0145735",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1028",
+        "name": "Adaptador cigueñal corto 6ct 8.3 cummins Vw 17220/18310",
+        "brand": "Ford/VW",
+        "code": "2T0105253 / 3357101",
+        "originalCode": "2T0105253 3357101",
+        "image": "img/products/6c/adaptador-ciguenal-corto-6ct.jpg",
+        "description": "Adaptador cigueñal corto 6ct 8.3 cummins Vw 17220/18310 2T0105253 3357101",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1029",
+        "name": "Juego Juntas Superior man d08 6cil vw constellation 17280",
+        "brand": "Ford/VW",
+        "code": "MAN D08 6CIL",
+        "originalCode": "MAN D08 6CIL",
+        "image": "img/products/6c/juego-juntas-superior-man-d08-6cil.jpg",
+        "description": "Juego Juntas Superior man d08 6cil vw constellation 17280 MAN D08 6CIL",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1030",
+        "name": "Junta tapa valvula man d08 6cil vw constellation 17280",
+        "brand": "Ford/VW",
+        "code": "51039050167 / 07W103483A",
+        "originalCode": "51039050167 07W103483A",
+        "image": "img/products/6c/junta-tapa-valvula-man-d08-6cil.jpg",
+        "description": "Junta tapa valvula man d08 6cil vw constellation 17280 51039050167 07W103483A",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1031",
+        "name": "Junta carter man d08 6cil vw constellation 17280",
+        "brand": "Ford/VW",
+        "code": "51059040139 / 07W103609",
+        "originalCode": "51059040139 07W103609",
+        "image": "img/products/6c/junta-carter-man-d08-6cil.jpg",
+        "description": "Junta carter man d08 6cil vw constellation 17280 51059040139 07W103609",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1032",
+        "name": "Camisa motor cummins 6ct/isce alt 134mm corta",
+        "brand": "Ford/VW",
+        "code": "CUMMINS 6CT/ISCE",
+        "originalCode": "CUMMINS 6CT/ISCE",
+        "image": "img/products/6c/camisa-motor-cummins-6ct-isce-corta.jpg",
+        "description": "Camisa motor cummins 6ct/isce alt 134mm corta",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1033",
+        "name": "Jgo (x6) Junta multiple escape cummins 6c/ct/cta 8.3L",
+        "brand": "Ford/VW",
+        "code": "3932063 / 3929012 / BG2X9451AA / TE3129589 / 2U0129589 / 2RK129589",
+        "originalCode": "3932063 3929012 BG2X9451AA TE3129589 2U0129589 2RK129589",
+        "image": "img/products/6c/jgo-juntas-multiple-escape-cummins-6c.jpg",
+        "description": "Jgo (x6) Junta multiple escape cummins 6c/ct/cta 8.3L 3932063 3929012 BG2X9451AA TE3129589 2U0129589 2RK129589",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1034",
+        "name": "Junta tapa cilindro cummins 6c (3931019)",
+        "brand": "Ford/VW",
+        "code": "3931019 / 3938267 / 3967011 / 2T0103383 / BF9X6584AA / 2RL130383 / BG3X6051AA",
+        "originalCode": "3931019 3938267 3967011 2T0103383 BF9X6584AA 2RL130383 BG3X6051AA",
+        "image": "img/products/6c/junta-tapa-cilindro-cummins-6c-3931019.jpg",
+        "description": "Junta tapa cilindro cummins 6c (3931019) 3931019 3938267 3967011 2T0103383 BF9X6584AA 2RL130383 BG3X6051AA",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1035",
+        "name": "Jgo junta admision cummins 6c",
+        "brand": "Ford/VW",
+        "code": "3921440 / 3354398",
+        "originalCode": "3921440 3354398",
+        "image": "img/products/6c/jgo-junta-admision-cummins-6c.jpg",
+        "description": "Jgo junta admision cummins 6c 3921440 3354398",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1036",
+        "name": "Junta tapa distribucion 6c/ct/cta 8.3L bomba rotativa",
+        "brand": "Ford/VW",
+        "code": "3917780 / TJG109289",
+        "originalCode": "3917780 TJG109289",
+        "image": "img/products/6c/junta-tapa-distribucion-cummins-6c-rotativa.jpg",
+        "description": "Junta tapa distribucion 6c/ct/cta 8.3L bomba rotativa 3917780 TJG109289",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1037",
+        "name": "Jgo.junta bomba d/h cummins 6c",
+        "brand": "Ford/VW",
+        "code": "CUMMINS 6C",
+        "originalCode": "CUMMINS 6C",
+        "image": "img/products/6c/jgo-juntas-bomba-dh-cummins-6c.jpg",
+        "description": "Jgo.junta bomba d/h cummins 6c",
+        "rubro": "CORREAS"
+    },
+    {
+        "id": "P1038",
+        "name": "JTA.LAT.CAMARA AGUA 355 6CIL",
+        "brand": "Mercedes Benz",
+        "code": "3560150121",
+        "originalCode": "3560150121",
+        "image": "img/products/om355/jta-lat-camara-agua-355-6cil.jpg",
+        "description": "JTA.LAT.CAMARA AGUA 355 6CIL 3560150121",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1039",
+        "name": "FILTRO COMBUSTIBLE CUMMINS 6C ELEC WK954/1",
+        "brand": "Mercedes Benz",
+        "code": "WK954/1",
+        "originalCode": "WK954/1",
+        "image": "img/products/6c/filtro-combustible-cummins-6c-wk954-1.jpg",
+        "description": "FILTRO COMBUSTIBLE CUMMINS 6C ELEC WK954/1",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P1040",
+        "name": "Disco embrague ford/vw cummins 6ct placa eaton 365mm",
+        "brand": "Ford/VW",
+        "code": "1878004676 / 5067 / 128658 / AC457550AA",
+        "originalCode": "1878004676 5067 128658 AC457550AA",
+        "image": "img/products/6c/disco-embrague-cummins-6ct-365mm.jpg",
+        "description": "Disco embrague ford/vw cummins 6ct placa eaton 365mm 1878004676 5067 128658 AC457550AA",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1041",
+        "name": "Turbo cargo 1630/1730/2331/2425/2626/4025 cummins 6ctaa 8.3 c/valvula",
+        "brand": "Mercedes Benz",
+        "code": "CUMMINS 6CTAA",
+        "originalCode": "CUMMINS 6CTAA",
+        "image": "img/products/6c/turbo-cargo-cummins-6ctaa-valvula.jpg",
+        "description": "Turbo cargo 1630/1730/2331/2425/2626/4025 cummins 6ctaa 8.3 c/valvula",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1042",
+        "name": "Junta tapa valvula cummins 6c (3905449)",
+        "brand": "Ford/VW",
+        "code": "3905449 / TE3103483",
+        "originalCode": "3905449 TE3103483",
+        "image": "img/products/6c/junta-tapa-valvula-cummins-6c-3905449.jpg",
+        "description": "Junta tapa valvula cummins 6c (3905449) 3905449 TE3103483",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1043",
+        "name": "tornillo registro de valvulas 3/8 x 24mm cummins 4b/6b/6c",
+        "brand": "Ford/VW",
+        "code": "3937438 / 3900706 / 3934086 / BF0T6549AA / BF8T6549A / 2S0109451W",
+        "originalCode": "3937438 3900706 3934086 BF0T6549AA BF8T6549A 2S0109451W",
+        "image": "img/products/6c/tornillo-registro-valvulas-cummins.jpg",
+        "description": "tornillo registro de valvulas 3/8 x 24mm cummins 4b/6b/6c",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1044",
+        "name": "CAÑO RIGIDO PURGADOR 6CIL.447A/LA 1938",
+        "brand": "Mercedes Benz",
+        "code": "4760100070",
+        "originalCode": "4760100070",
+        "image": "img/products/om447/cano-rigido-purgador-447.jpg",
+        "description": "CAÑO RIGIDO PURGADOR 6CIL.447A/LA 1938 4760100070",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1045",
+        "name": "Junta multiple admision cummins 6ct",
+        "brand": "Ford/VW",
+        "code": "3936993",
+        "originalCode": "3936993",
+        "image": "img/products/6c/junta-multiple-admision-cummins-6ct.jpg",
+        "description": "Junta multiple admision cummins 6ct 3936993",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1046",
+        "name": "Jgo.junta radiador aceite cummins 6ct/ISC",
+        "brand": "Ford/VW",
+        "code": "TJG115441 / 3918174 / 3918332",
+        "originalCode": "TJG115441 3918174 3918332",
+        "image": "img/products/6c/jgo-juntas-radiador-aceite-cummins-6ct.jpg",
+        "description": "Jgo.junta radiador aceite cummins 6ct/ISC TJG115441 3918174 3918332",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1047",
+        "name": "Junta termostato cummins 6ct ford/vw 3914310",
+        "brand": "Ford/VW",
+        "code": "3914310 / TJG121119",
+        "originalCode": "3914310 TJG121119",
+        "image": "img/products/6c/junta-termostato-cummins-6ct-3914310.jpg",
+        "description": "Junta termostato cummins 6ct ford/vw 3914310 3914310 TJG121119",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1048",
+        "name": "Soporte chapa frente compresor wabco cummins 6ctaa ISC",
+        "brand": "Ford/VW",
+        "code": "bf5x10145b / 2rl145859a / 3928486 / 3934079",
+        "originalCode": "bf5x10145b 2rl145859a 3928486 3934079",
+        "image": "img/products/6c/soporte-chapa-frente-compresor-6ct-isc.jpg",
+        "description": "Soporte chapa frente compresor wabco cummins 6ctaa ISC bf5x10145b 2rl145859a 3928486 3934079",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1049",
+        "name": "Radiador aceite cummins isbe 6cil 7 filas Ford Cargo 1722 vw17250 iveco",
+        "brand": "Ford/VW",
+        "code": "3959031 / BG5X6B856BA / 2S0117021B / 4896407 / 504047629 / 504387924",
+        "originalCode": "3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
+        "image": "img/products/6c/radiador-aceite-cummins-isbe-6cil-7filas.jpg",
+        "description": "Radiador aceite cummins isbe 6cil 7 filas Ford Cargo 1722 vw17250 iveco 3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
+        "rubro": "LUBRICACIÓN"
     }
 ];
 
