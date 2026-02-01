@@ -8955,6 +8955,26 @@ const products = [
         "image": "img/products/om904/junta_descarbonizacion_jgo_om904_9040108020.png",
         "description": "JTA.DESCARBONIZACION #JGO# OM904 9040108020 Modelo: 712C-ELECTR.",
         "rubro": "BLOCK MOTOR, CARTER Y TAPA DE CILINDRO"
+    },
+    {
+        "id": "P968",
+        "name": "RADIADOR ACEITE MOT. CUMMINS ISF 2.8 VW DELIVERY",
+        "brand": "Ford/VW",
+        "code": "5318533 / 23B117021",
+        "originalCode": "5318533 23B117021",
+        "image": "img/products/isf/radiador_aceite_cummins_isf28_5318533.jpg",
+        "description": "RADIADOR ACEITE MOT. CUMMINS ISF 2.8 VW DELIVERY 5318533 / 23B117021",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P969",
+        "name": "SENSOR PRESION AIRE ISB 4.5 6.7 ISF CARGO 1723/1729",
+        "brand": "Ford/VW",
+        "code": "BH5X9D290AA / 2Z0906051A",
+        "originalCode": "BH5X9D290AA 2Z0906051A",
+        "image": "img/products/isf/sensor_presion_aire_isb_isf_BH5X9D290AA.jpg",
+        "description": "SENSOR PRESION AIRE ISB 4.5 6.7 ISF CARGO 1723/1729 BH5X9D290AA / 2Z0906051A",
+        "rubro": "540-INSTRUMENTAL"
     }
 ];
 
