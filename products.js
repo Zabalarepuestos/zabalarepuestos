@@ -9775,6 +9775,616 @@ const products = [
         "image": "img/products/6c/radiador-aceite-cummins-isbe-6cil-7filas.jpg",
         "description": "Radiador aceite cummins isbe 6cil 7 filas Ford Cargo 1722 vw17250 iveco 3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
         "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1050",
+        "name": "Bulon soporte inyector cummins 6c",
+        "brand": "Ford/VW",
+        "code": "3902112",
+        "originalCode": "3902112",
+        "image": "img/products/6c/bulon-soporte-inyector-cummins-6c-3902112.jpg",
+        "description": "Bulon soporte inyector cummins 6c 3902112",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1051",
+        "name": "Manguera continuacion caño entrada aceite 6ct ford/vw",
+        "brand": "Ford/VW",
+        "code": "TJG115617 / TJG115617B / XC456A787CA",
+        "originalCode": "TJG115617 TJG115617B XC456A787CA",
+        "image": "img/products/6c/manguera-entrada-aceite-cummins-6ct.jpg",
+        "description": "Manguera continuacion caño entrada aceite 6ct ford/vw TJG115617 TJG115617B XC456A787CA",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1052",
+        "name": "Flexible salida agua compresor cummins 6ct conex. 1/2 vw 17220/17310/18310",
+        "brand": "Ford/VW",
+        "code": "4928784 / 2t0121625h",
+        "originalCode": "4928784 2t0121625h",
+        "image": "img/products/6c/flexible-salida-agua-compresor-6ct.jpg",
+        "description": "Flexible salida agua compresor cummins 6ct conex. 1/2 vw 17220/17310/18310 4928784 2t0121625h",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1053",
+        "name": "Manguera radiador superior cummins 6c vw 17220/13180",
+        "brand": "Ford/VW",
+        "code": "tjg121115",
+        "originalCode": "tjg121115",
+        "image": "img/products/6c/manguera-radiador-superior-cummins-6c-tjg121115.jpg",
+        "description": "Manguera radiador superior cummins 6c vw 17220/13180 tjg121115",
+        "rubro": "500-RADIADOR"
+    },
+    {
+        "id": "P1054",
+        "name": "Esparrago tapa de valvula cummins 6ct ford/vw",
+        "brand": "Ford/VW",
+        "code": "3922639 / bg2x6064aa / 2rk103591",
+        "originalCode": "3922639 bg2x6064aa 2rk103591",
+        "image": "img/products/6c/esparrago-tapa-valvula-cummins-6ct.jpg",
+        "description": "Esparrago tapa de valvula cummins 6ct ford/vw 3922639 bg2x6064aa 2rk103591",
+        "rubro": "TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P1055",
+        "name": "Manguera radiador inferior cummins 6c vw 17220/13180",
+        "brand": "Ford/VW",
+        "code": "2vu121073",
+        "originalCode": "2vu121073",
+        "image": "img/products/6c/manguera-radiador-inferior-cummins-6c-2vu121073.jpg",
+        "description": "Manguera radiador inferior cummins 6c vw 17220/13180 2vu121073",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P1056",
+        "name": "Tapa trasera compresor wabco 85mm.6BTAA 6CTAA 5.9 8.2 Lts ford/vw",
+        "brand": "Ford/VW",
+        "code": "8845025824",
+        "originalCode": "8845025824",
+        "image": "img/products/6c/tapa-trasera-compresor-wabco-85mm-8845025824.jpg",
+        "description": "Tapa trasera compresor wabco 85mm.6BTAA 6CTAA 5.9 8.2 Lts ford/vw 8845025824",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1057",
+        "name": "Tapon sello block cummins 6ct 35 mm. (ENVIAR 00193)",
+        "brand": "Ford/VW",
+        "code": "3905401",
+        "originalCode": "3905401",
+        "image": "img/products/6c/tapon-sello-block-cummins-6ct-35mm.jpg",
+        "description": "Tapon sello block cummins 6ct 35 mm. (ENVIAR 00193) 3905401",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1058",
+        "name": "Tapon sello block cummins 6ct 29 mm.",
+        "brand": "Ford/VW",
+        "code": "143066",
+        "originalCode": "143066",
+        "image": "img/products/6c/tapon-sello-block-cummins-6ct-29mm.jpg",
+        "description": "Tapon sello block cummins 6ct 29 mm. 143066",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1059",
+        "name": "Junta turbo a multiple escape cummins 6CT",
+        "brand": "Ford/VW",
+        "code": "3755843",
+        "originalCode": "3755843",
+        "image": "img/products/6c/junta-turbo-a-multiple-escape-cummins-6ct.jpg",
+        "description": "Junta turbo a multiple escape cummins 6CT 3755843",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1060",
+        "name": "Flexible retorno gas oil cummins 6ct/6cta/cargo 1722/2626",
+        "brand": "Ford/VW",
+        "code": "3920595 / tjg130311 / 3922667 / BG2X9A564AA / 2U0130311A",
+        "originalCode": "3920595 tjg130311 3922667 BG2X9A564AA 2U0130311A",
+        "image": "img/products/6c/flexible-retorno-gas-oil-cummins-6ct.jpg",
+        "description": "Flexible retorno gas oil cummins 6ct/6cta/cargo 1722/2626 3920595 tjg130311 3922667 BG2X9A564AA 2U0130311A",
+        "rubro": "COMBUSTIBLE"
+    },
+    {
+        "id": "P1061",
+        "name": "Guia varilla n/aceite 1250 mm. Cummins 6ct Ford Cargo/VW 26260e",
+        "brand": "Ford/VW",
+        "code": "TEG115629 / 2C456784BC",
+        "originalCode": "TEG115629 2C456784BC",
+        "image": "img/products/6c/guia-varilla-aceite-cummins-6ct-1250mm.jpg",
+        "description": "Guia varilla n/aceite 1250 mm. Cummins 6ct Ford Cargo/VW 26260e TEG115629 2C456784BC",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1062",
+        "name": "Flexible entrada agua compresor cummins 6ct vw 17220/17310/18310",
+        "brand": "Ford/VW",
+        "code": "4928786 / 2t0121621a",
+        "originalCode": "4928786 2t0121621a",
+        "image": "img/products/6c/flexible-entrada-agua-compresor-6ct.jpg",
+        "description": "Flexible entrada agua compresor cummins 6ct vw 17220/17310/18310 4928786 2t0121621a",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1063",
+        "name": "Tapa de valvulas cummins 6ct ford/vw",
+        "brand": "Ford/VW",
+        "code": "TE3103475 / 2RK103475 / 3907734 / 3930903 / 3903791 / 3927907",
+        "originalCode": "TE3103475 2RK103475 3907734 3930903 3903791 3927907",
+        "image": "img/products/6c/tapa-valvulas-cummins-6ct.jpg",
+        "description": "Tapa de valvulas cummins 6ct ford/vw TE3103475 2RK103475 3907734 3930903 3903791 3927907",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1064",
+        "name": "Abrazadera caño inyector cummins 6c",
+        "brand": "Ford/VW",
+        "code": "3910279 / TE3130221",
+        "originalCode": "3910279 TE3130221",
+        "image": "img/products/6c/abrazadera-cano-inyector-cummins-6c.jpg",
+        "description": "Abrazadera caño inyector cummins 6c 3910279 TE3130221",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1065",
+        "name": "Codo de entrada agua al motor Cummins 6CT",
+        "brand": "Ford/VW",
+        "code": "3920762 / 2RK121079 / BF9X8266AA",
+        "originalCode": "3920762 2RK121079 BF9X8266AA",
+        "image": "img/products/6c/codo-entrada-agua-motor-cummins-6ct.jpg",
+        "description": "Codo de entrada agua al motor Cummins 6CT 3920762 2RK121079 BF9X8266AA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1066",
+        "name": "Caño venteo cummins 6ct isc 8.3 ford 1722/1730 vw 17220/17300/18310",
+        "brand": "Ford/VW",
+        "code": "3924589 / TJG127699 / 2RK127699",
+        "originalCode": "3924589 TJG127699 2RK127699",
+        "image": "img/products/6c/cano-venteo-cummins-6ct.jpg",
+        "description": "Caño venteo cummins 6ct isc 8.3 ford 1722/1730 vw 17220/17300/18310 3924589 TJG127699 2RK127699",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1067",
+        "name": "FLOTANTE TUBULAR AXOR/ACTROS 46cm TANQUE 590L M/N",
+        "brand": "Mercedes Benz",
+        "code": "0095423018 / 0155424317",
+        "originalCode": "0095423018 0155424317",
+        "image": "img/products/om457/flotante-tubular-axor-actros-46cm.jpg",
+        "description": "FLOTANTE TUBULAR AXOR/ACTROS 46cm TANQUE 590L M/N 0095423018 0155424317",
+        "rubro": "COMBUSTIBLE"
+    },
+    {
+        "id": "P1068",
+        "name": "Tapa caja engranaje distribucion serie 6ct 8.3 ford/vw",
+        "brand": "Ford/VW",
+        "code": "2U0109283 / 3922530 / 3925230 / 3926847 / 3926840 / BG1X6019AA / TN4109283",
+        "originalCode": "2U0109283 3922530 3925230 3926847 3926840 BG1X6019AA TN4109283",
+        "image": "img/products/6c/tapa-caja-engranaje-distribucion-cummins-6ct.jpg",
+        "description": "Tapa caja engranaje distribucion serie 6ct 8.3 ford/vw 2U0109283 3922530 3925230 3926847 3926840 BG1X6019AA TN4109283",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1069",
+        "name": "Codo salida agua cummins 6cta 8.3",
+        "brand": "Ford/VW",
+        "code": "tjg121121 / 3354394",
+        "originalCode": "tjg121121 3354394",
+        "image": "img/products/6c/codo-salida-agua-cummins-6cta-8-3.jpg",
+        "description": "Codo salida agua cummins 6cta 8.3 tjg121121 3354394",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1070",
+        "name": "Adaptador cigueñal 6ct 8.3 cummins ford/Vw",
+        "brand": "Ford/VW",
+        "code": "2RK105251 / BF5X6312A / 3355380",
+        "originalCode": "2RK105251 BF5X6312A 3355380",
+        "image": "img/products/6c/adaptador-cigueñal-cummins-6ct-8-3.jpg",
+        "description": "Adaptador cigueñal 6ct 8.3 cummins ford/Vw 2RK105251 BF5X6312A 3355380",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1071",
+        "name": "Soporte hierro motor tras.cummins 6ct ISC",
+        "brand": "Ford/VW",
+        "code": "TJG199375",
+        "originalCode": "TJG199375",
+        "image": "img/products/6c/soporte-hierro-motor-tras-cummins-6ct-isc.jpg",
+        "description": "Soporte hierro motor tras.cummins 6ct ISC TJG199375",
+        "rubro": "SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P1072",
+        "name": "Carcaza inf.termostato cummins 6ct 8.3 ford/vw",
+        "brand": "Ford/VW",
+        "code": "bf9x9k478aa / 2rk121117",
+        "originalCode": "bf9x9k478aa 2rk121117",
+        "image": "img/products/6c/carcaza-inf-termostato-cummins-6ct-8-3.jpg",
+        "description": "Carcaza inf.termostato cummins 6ct 8.3 ford/vw bf9x9k478aa 2rk121117",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1073",
+        "name": "Bomba aceite cummins ISBE 5.9 6cil (electronico)",
+        "brand": "Ford/VW",
+        "code": "4897481 / 4939588 / BG5X6600BA / 2S0115105C",
+        "originalCode": "4897481 4939588 BG5X6600BA 2S0115105C",
+        "image": "img/products/isb/bomba-aceite-cummins-isbe-5-9-6cil-electronico.jpg",
+        "description": "Bomba aceite cummins ISBE 5.9 6cil (electronico) 4897481 4939588 BG5X6600BA 2S0115105C",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1074",
+        "name": "Rigido y flexible gas oil cummins 6ct",
+        "brand": "Ford/VW",
+        "code": "3937342",
+        "originalCode": "3937342",
+        "image": "img/products/6c/rigido-flexible-gas-oil-cummins-6ct.jpg",
+        "description": "Rigido y flexible gas oil cummins 6ct 3937342",
+        "rubro": "COMBUSTIBLE"
+    },
+    {
+        "id": "P1075",
+        "name": "FLEXIBLE ESCAPE 4\"(36cm)C/ABRAZADERA 1526/1633/ OHL1621",
+        "brand": "Mercedes Benz",
+        "code": "3824900165 / 3824907065",
+        "originalCode": "3824900165 3824907065",
+        "image": "img/products/om366/flexible-escape-4-36cm-c-abrazadera.jpg",
+        "description": "FLEXIBLE ESCAPE 4\"(36cm)C/ABRAZADERA 1526/1633/ OHL1621 3824900165 3824907065",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P1076",
+        "name": "JGO.JUNTA ADMIS. 5/6CIL. 355/371",
+        "brand": "Mercedes Benz",
+        "code": "3461410180",
+        "originalCode": "3461410180",
+        "image": "img/products/om355/juego-junta-admision-355-371.jpg",
+        "description": "JGO.JUNTA ADMIS. 5/6CIL. 355/371 3461410180",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1077",
+        "name": "Bulbo temperatura 3/4 x 14nptf cummins 6C ford 1722/30/1831",
+        "brand": "Ford/VW",
+        "code": "TJG919501A / XC4510884AA",
+        "originalCode": "TJG919501A XC4510884AA",
+        "image": "img/products/6c/bulbo-temperatura-cummins-6c-3-4-14nptf.jpg",
+        "description": "Bulbo temperatura 3/4 x 14nptf cummins 6C ford 1722/30/1831 TJG919501A XC4510884AA",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1078",
+        "name": "Flexible bomba a bombin embrague cummins 6ct 4370mm ford/vw",
+        "brand": "Ford/VW",
+        "code": "XC457A512AA / TNG721479",
+        "originalCode": "XC457A512AA TNG721479",
+        "image": "img/products/6c/flexible-bomba-bombin-embrague-cummins-6ct-4370mm.jpg",
+        "description": "Flexible bomba a bombin embrague cummins 6ct 4370mm ford/vw XC457A512AA TNG721479",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1079",
+        "name": "Viscoso(**) ford cum 6cta 1831/2631 vw 17310 6 aguj.vastago corto rosca hem(200mm.)",
+        "brand": "Ford/VW",
+        "code": "4C458A616AA / 2T0121302",
+        "originalCode": "4C458A616AA 2T0121302",
+        "image": "img/products/6c/viscoso-cummins-6cta-6aguj-rosca-hembra.jpg",
+        "description": "Viscoso(**) ford cum 6cta 1831/2631 vw 17310 6 aguj.vastago corto rosca hem(200mm.) 4C458A616AA 2T0121302",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1080",
+        "name": "Bomba agua cummins 6CT (3 agujeros)",
+        "brand": "Ford/VW",
+        "code": "2S0121004E / BG1X8501AA / TF3121005 / 3802973 / 3806180 / 3913430 / 3802081",
+        "originalCode": "2S0121004E BG1X8501AA TF3121005 3802973 3806180 3913430 3802081",
+        "image": "img/products/6c/bomba-agua-cummins-6ct-3-agujeros.jpg",
+        "description": "Bomba agua cummins 6CT (3 agujeros) 2S0121004E BG1X8501AA TF3121005 3802973 3806180 3913430 3802081",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1081",
+        "name": "Viscoso(**) v.w.cummins-6ct: 17310/18310/23310/26310 pesados - 6 aguj.vastago corto(200mm.)",
+        "brand": "Ford/VW",
+        "code": "2T0121302 / 4C458A616AA",
+        "originalCode": "2T0121302 4C458A616AA",
+        "image": "img/products/6c/viscoso-vw-cummins-6ct-pesados.jpg",
+        "description": "Viscoso(**) v.w.cummins-6ct: 17310/18310/23310/26310 pesados - 6 aguj.vastago corto(200mm.) 2T0121302 4C458A616AA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1082",
+        "name": "Viscoso cummins 6ct ford 1722/1730/2625 97/02 6 tornillos (diam.185mm.)c/adap.",
+        "brand": "Ford/VW",
+        "code": "TMG121431X",
+        "originalCode": "TMG121431X",
+        "image": "img/products/6c/viscoso-cummins-6ct-ford-1722-1730-2625-diam-185mm.jpg",
+        "description": "Viscoso cummins 6ct ford 1722/1730/2625 97/02 6 tornillos (diam.185mm.)c/adap. TMG121431X",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1083",
+        "name": "Viscoso(**) v.w./mwm:15180e cum13170e/15180e/24250e cumm-6c:17300 6aguj.vtago cto 185mm.",
+        "brand": "Ford/VW",
+        "code": "2VP121431",
+        "originalCode": "2VP121431",
+        "image": "img/products/6c/viscoso-vw-mwm-cummins-6c-185mm.jpg",
+        "description": "Viscoso(**) v.w./mwm:15180e cum13170e/15180e/24250e cumm-6c:17300 6aguj.vtago cto 185mm. 2VP121431",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1084",
+        "name": "Paleta vent.(**)9 palas 6ag.(635mm)cumm.btvw17210/17220 cum.6ct24250 ford 1722/30/2625",
+        "brand": "Ford/VW",
+        "code": "2tc121303a / 97HU8600AA",
+        "originalCode": "2tc121303a 97HU8600AA",
+        "image": "img/products/6c/paleta-ventilador-9-palas-cummins-6ct.jpg",
+        "description": "Paleta vent.(**)9 palas 6ag.(635mm)cumm.btvw17210/17220 cum.6ct24250 ford 1722/30/2625 2tc121303a 97HU8600AA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1085",
+        "name": "Bomba agua cummins elect.6ct 8.3 isce (3 agujeros) ford 2632/4032 vw CONSTELLATION",
+        "brand": "Ford/VW",
+        "code": "3973114 / BH2X8501BA / BG7X8501AA / 2T2121004A",
+        "originalCode": "3973114 BH2X8501BA BG7X8501AA 2T2121004A",
+        "image": "img/products/6c/bomba-agua-cummins-isce-8-3-elect.jpg",
+        "description": "Bomba agua cummins elect.6ct 8.3 isce (3 agujeros) ford 2632/4032 vw CONSTELLATION 3973114 BH2X8501BA BG7X8501AA 2T2121004A",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1086",
+        "name": "CAÑO RIGIDO AGUA 6CIL. 447A/LA C/TOP BRAKE 1634/1938E",
+        "brand": "Mercedes Benz",
+        "code": "4762000158",
+        "originalCode": "4762000158",
+        "image": "img/products/om447/cano-rigido-agua-6cil-447a-la-c-top-brake.jpg",
+        "description": "CAÑO RIGIDO AGUA 6CIL. 447A/LA C/TOP BRAKE 1634/1938E 4762000158",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1087",
+        "name": "Cabezal p/filtro aceite 6CT cummins",
+        "brand": "Ford/VW",
+        "code": "3931077 / TJG115309 / BG2X6N786AA / tjg115417 / BG2X6718AA / 3934159 / 3919014 / 3974324",
+        "originalCode": "3931077 TJG115309 BG2X6N786AA tjg115417 BG2X6718AA 3934159 3919014 3974324",
+        "image": "img/products/6c/cabezal-filtro-aceite-6ct-cummins.jpg",
+        "description": "Cabezal p/filtro aceite 6CT cummins 3931077 TJG115309 BG2X6N786AA tjg115417 BG2X6718AA 3934159 3919014 3974324",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1088",
+        "name": "Bombas aceite cummins 6c / ct / cta",
+        "brand": "Ford/VW",
+        "code": "BG1X6600AA / BG3X6600AA / 2T0115105A / 3800828 / 3415365 / 3921067",
+        "originalCode": "BG1X6600AA BG3X6600AA 2T0115105A 3800828 3415365 3921067",
+        "image": "img/products/6c/bomba-aceite-cummins-6c-ct-cta.jpg",
+        "description": "Bombas aceite cummins 6c / ct / cta BG1X6600AA BG3X6600AA 2T0115105A 3800828 3415365 3921067",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1089",
+        "name": "Multiple escape cummins 6ct salida lateral",
+        "brand": "Ford/VW",
+        "code": "TE3129591 / BG3X9430AA / 2T0129591",
+        "originalCode": "TE3129591 BG3X9430AA 2T0129591",
+        "image": "img/products/6c/multiple-escape-cummins-6ct-salida-lateral.jpg",
+        "description": "Multiple escape cummins 6ct salida lateral TE3129591 BG3X9430AA 2T0129591",
+        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P1090",
+        "name": "Soporte alternador cummins 6c ford/vw",
+        "brand": "Ford/VW",
+        "code": "3352585 / TE3903141",
+        "originalCode": "3352585 TE3903141",
+        "image": "img/products/6c/soporte-alternador-cummins-6c.jpg",
+        "description": "Soporte alternador cummins 6c ford/vw 3352585 TE3903141",
+        "rubro": "ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P1091",
+        "name": "Tensor correa cummins 6ct (polea acanalada) 3936210",
+        "brand": "Ford/VW",
+        "code": "2S0145299B / BF0T10B300BA / TJG1457275 / 3936210 / 3914854",
+        "originalCode": "2S0145299B BF0T10B300BA TJG1457275 3936210 3914854",
+        "image": "img/products/6c/tensor-correa-cummins-6ct-polea-acanalada.jpg",
+        "description": "Tensor correa cummins 6ct (polea acanalada) 3936210 2S0145299B BF0T10B300BA TJG1457275 3936210 3914854",
+        "rubro": "ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P1092",
+        "name": "Bulon multiple escape cummins serie 6ct",
+        "brand": "Ford/VW",
+        "code": "3929537 / BG2X9K424AA / 2td129593",
+        "originalCode": "3929537 BG2X9K424AA 2td129593",
+        "image": "img/products/6c/bulon-multiple-escape-cummins-serie-6ct.jpg",
+        "description": "Bulon multiple escape cummins serie 6ct 3929537 BG2X9K424AA 2td129593",
+        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P1093",
+        "name": "Cigüeñal compresor wabco 85 cummins vw 6b/6c ford 6b",
+        "brand": "Ford/VW",
+        "code": "9111556912",
+        "originalCode": "9111556912",
+        "image": "img/products/6c/ciguenal-compresor-wabco-85-cummins.jpg",
+        "description": "Cigüeñal compresor wabco 85 cummins vw 6b/6c ford 6b 9111556912",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1094",
+        "name": "Engranaje compresor conico knorr 88 31 dtes ford/vw/mwm 6cil.",
+        "brand": "Ford/VW",
+        "code": "tae109117 / 961003710074",
+        "originalCode": "tae109117 961003710074",
+        "image": "img/products/6c/engranaje-compresor-conico-knorr-88-31-dtes.jpg",
+        "description": "Engranaje compresor conico knorr 88 31 dtes ford/vw/mwm 6cil. tae109117 961003710074",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1095",
+        "name": "Entretapa comp. Wabco 85mm (cummins) elect.fordcargo 6bta/6cta",
+        "brand": "Ford/VW",
+        "code": "BF0X2A932AA / 8845032002",
+        "originalCode": "BF0X2A932AA 8845032002",
+        "image": "img/products/6c/entretapa-comp-wabco-85mm-cummins.jpg",
+        "description": "Entretapa comp. Wabco 85mm (cummins) elect.fordcargo 6bta/6cta BF0X2A932AA 8845032002",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1096",
+        "name": "Entretapa comp.t/wabco 85 cummins vw 6bta/6cta s/alivio",
+        "brand": "Ford/VW",
+        "code": "2S0145615 / 9111558032",
+        "originalCode": "2S0145615 9111558032",
+        "image": "img/products/6c/entretapa-comp-wabco-85-cummins-sin-alivio.jpg",
+        "description": "Entretapa comp.t/wabco 85 cummins vw 6bta/6cta s/alivio 2S0145615 9111558032",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1097",
+        "name": "Compresor aire wabco 85 Cummins 6BTA/6CTA 8.3 ford cargo 1317e/1517e/1722",
+        "brand": "Ford/VW",
+        "code": "9111555110 / 3558071 / BF0X2875AA / BF5X2875CA",
+        "originalCode": "9111555110 3558071 BF0X2875AA BF5X2875CA",
+        "image": "img/products/6c/compresor-aire-wabco-85-cummins-6bta-6cta.jpg",
+        "description": "Compresor aire wabco 85 Cummins 6BTA/6CTA 8.3 ford cargo 1317e/1517e/1722 9111555110 3558071 BF0X2875AA BF5X2875CA",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1098",
+        "name": "Biela compresor wabco 85mm (cumming) elect.fordcargo 6bt/6ct",
+        "brand": "Ford/VW",
+        "code": "BF0X2K902AA / 9111537302",
+        "originalCode": "BF0X2K902AA 9111537302",
+        "image": "img/products/6c/biela-compresor-wabco-85mm-cummins.jpg",
+        "description": "Biela compresor wabco 85mm (cumming) elect.fordcargo 6bt/6ct BF0X2K902AA 9111537302",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1099",
+        "name": "Compresor aire wabco 85 cummins 6bt/6ct vw 17220/18310",
+        "brand": "Ford/VW",
+        "code": "9111550500 / 9111550600 / 9111550620 / 3357106 / 4930344 / 2t0100759",
+        "originalCode": "9111550500 9111550600 9111550620 3357106 4930344 2t0100759",
+        "image": "img/products/6c/compresor-aire-wabco-85-cummins-6bt-6ct.jpg",
+        "description": "Compresor aire wabco 85 cummins 6bt/6ct vw 17220/18310 9111550500 9111550600 9111550620 3357106 4930344 2t0100759",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1100",
+        "name": "Engranaje compresor wabco 37 dtes.ford/vw 6cta",
+        "brand": "Ford/VW",
+        "code": "3902595 / 8959052184",
+        "originalCode": "3902595 8959052184",
+        "image": "img/products/6c/engranaje-compresor-wabco-37-dtes.jpg",
+        "description": "Engranaje compresor wabco 37 dtes.ford/vw 6cta 3902595 8959052184",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1101",
+        "name": "Cigüeñal compresor wabco 85 ford cummins 6ct 8.3",
+        "brand": "Ford/VW",
+        "code": "9111556902",
+        "originalCode": "9111556902",
+        "image": "img/products/6c/ciguenal-compresor-wabco-85-ford-cummins-6ct.jpg",
+        "description": "Cigüeñal compresor wabco 85 ford cummins 6ct 8.3 9111556902",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1102",
+        "name": "Entretapa comp.t/wabco 85mm (cummins) elect.ford cargo 6bta/6cta",
+        "brand": "Ford/VW",
+        "code": "BF0X2A932AA / 8845032002",
+        "originalCode": "BF0X2A932AA 8845032002",
+        "image": "img/products/6c/entretapa-comp-tipo-wabco-85mm-cummins.jpg",
+        "description": "Entretapa comp.t/wabco 85mm (cummins) elect.ford cargo 6bta/6cta BF0X2A932AA 8845032002",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1103",
+        "name": "Tapa Compresor wabco 85 completa (130-043) ford cargo 1317/1517/1722e/C1932 Cummins 6b/6c/ISBe6/ISCe6",
+        "brand": "Ford/VW",
+        "code": "9111558042 / 3358025",
+        "originalCode": "9111558042 3358025",
+        "image": "img/products/6c/tapa-compresor-wabco-85-completa.jpg",
+        "description": "Tapa Compresor wabco 85 completa (130-043) ford cargo 1317/1517/1722e/C1932 Cummins 6b/6c/ISBe6/ISCe6 9111558042 3358025",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1104",
+        "name": "Soporte compresor wabco cummins 6ctaa ISC",
+        "brand": "Ford/VW",
+        "code": "2T0145846 / 2T2145198 / BF0X2032CA / 3354335 / 3357103",
+        "originalCode": "2T0145846 2T2145198 BF0X2032CA 3354335 3357103",
+        "image": "img/products/6c/soporte-compresor-wabco-cummins-6ctaa.jpg",
+        "description": "Soporte compresor wabco cummins 6ctaa ISC 2T0145846 2T2145198 BF0X2032CA 3354335 3357103",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1105",
+        "name": "Flexible lubricacion turbo cummins 6c ford/vw",
+        "brand": "Ford/VW",
+        "code": "3281415 / TF3145459",
+        "originalCode": "3281415 TF3145459",
+        "image": "img/products/6c/flexible-lubricacion-turbo-cummins-6c.jpg",
+        "description": "Flexible lubricacion turbo cummins 6c ford/vw 3281415 TF3145459",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1106",
+        "name": "MANG.F/AIRE A TURBO CARGO 6CTAA/ISBE6/ISCE6 8.3 110X150 1722/1731 /2000.",
+        "brand": "Ford/VW",
+        "code": "2C459K658BA / 2C459K658BB / 2C459K658BC",
+        "originalCode": "2C459K658BA 2C459K658BB 2C459K658BC",
+        "image": "img/products/6c/manguera-filtro-aire-a-turbo-cargo-6ctaa.jpg",
+        "description": "MANG.F/AIRE A TURBO CARGO 6CTAA/ISBE6/ISCE6 8.3 110X150 1722/1731 /2000. 2C459K658BA 2C459K658BB 2C459K658BC",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1107",
+        "name": "Filtro combustible ford/vw mediano mec. cargo 1722 / 17220 cummins 6bt/6ct",
+        "brand": "Ford/VW",
+        "code": "BF0X9155AA / 4C459N074AA / 2TD127491A / 2R0127177D",
+        "originalCode": "BF0X9155AA 4C459N074AA 2TD127491A 2R0127177D",
+        "image": "img/products/6c/filtro-combustible-cargo-1722-cummins-6bt-6ct.jpg",
+        "description": "Filtro combustible ford/vw mediano mec. cargo 1722 / 17220 cummins 6bt/6ct BF0X9155AA 4C459N074AA 2TD127491A 2R0127177D",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P1108",
+        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n5",
+        "brand": "Ford/VW",
+        "code": "3354594 / TRG130305",
+        "originalCode": "3354594 TRG130305",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n5.jpg",
+        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n5 3354594 TRG130305",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1109",
+        "name": "Engranaje b/inyectora 84dtes. Cummins 6ctaa ford/vw",
+        "brand": "Ford/VW",
+        "code": "3931380 / TRG130111 / 2TC130111",
+        "originalCode": "3931380 TRG130111 2TC130111",
+        "image": "img/products/6c/engranaje-bomba-inyectora-84-dtes-cummins-6ctaa.jpg",
+        "description": "Engranaje b/inyectora 84dtes. Cummins 6ctaa ford/vw 3931380 TRG130111 2TC130111",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1110",
+        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1",
+        "brand": "Ford/VW",
+        "code": "3354590 / TRG130301",
+        "originalCode": "3354590 TRG130301",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n1.jpg",
+        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1 3354590 TRG130301",
+        "rubro": "INYECCIÓN"
     }
 ];
 
