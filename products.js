@@ -10385,6 +10385,311 @@ const products = [
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n1.jpg",
         "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1 3354590 TRG130301",
         "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1111",
+        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n3",
+        "brand": "Ford/VW",
+        "code": "3354592 / TRG130303",
+        "originalCode": "3354592 TRG130303",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n3.jpg",
+        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n3 3354592 TRG130303",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1112",
+        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n2",
+        "brand": "Ford/VW",
+        "code": "3354591 / TRG130302",
+        "originalCode": "3354591 TRG130302",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n2.jpg",
+        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n2 3354591 TRG130302",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1113",
+        "name": "Caño inyector cummins 6ct n3 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "brand": "Ford/VW",
+        "code": "3356192 / TJG130303 / 2RK130303",
+        "originalCode": "3356192 TJG130303 2RK130303",
+        "image": "img/products/6c/cano-inyector-cummins-6ct-n3.jpg",
+        "description": "Caño inyector cummins 6ct n3 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356192 TJG130303 2RK130303",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1114",
+        "name": "Caño inyector cummins 6ctaa n 1 tca bb 1730/1831 vw17220/26310 euroi",
+        "brand": "Ford/VW",
+        "code": "3355325 / 2U0130304 / 3925325 / BG2X9A558BA",
+        "originalCode": "3355325 2U0130304 3925325 BG2X9A558BA",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n1-euroi.jpg",
+        "description": "Caño inyector cummins 6ctaa n 1 tca bb 1730/1831 vw17220/26310 euroi 3355325 2U0130304 3925325 BG2X9A558BA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1115",
+        "name": "Caño inyector cummins 6ctaa n 5 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "brand": "Ford/VW",
+        "code": "3924629 / 2U0130302 / 3924629 / BG2X9A556BA",
+        "originalCode": "3924629 2U0130302 3924629 BG2X9A556BA",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n5-euroi.jpg",
+        "description": "Caño inyector cummins 6ctaa n 5 tca.bb 1730/1831 vw 17220/26310 euroi 3924629 2U0130302 3924629 BG2X9A556BA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1116",
+        "name": "Caño inyector cummins 6ct n4 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "brand": "Ford/VW",
+        "code": "3356193 / TJG130304 / 2RK130304",
+        "originalCode": "3356193 TJG130304 2RK130304",
+        "image": "img/products/6c/cano-inyector-cummins-6ct-n4.jpg",
+        "description": "Caño inyector cummins 6ct n4 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356193 TJG130304 2RK130304",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1117",
+        "name": "Caño inyector cummins 6ct n6 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "brand": "Ford/VW",
+        "code": "3356195 / TJG130306 / 2RK130306",
+        "originalCode": "3356195 TJG130306 2RK130306",
+        "image": "img/products/6c/cano-inyector-cummins-6ct-n6.jpg",
+        "description": "Caño inyector cummins 6ct n6 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356195 TJG130306 2RK130306",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1118",
+        "name": "Caño inyector cummins 6ctaa n 4 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "brand": "Ford/VW",
+        "code": "3924628 / 2U0130301 / 3924628 / BG2X9A555BA",
+        "originalCode": "3924628 2U0130301 3924628 BG2X9A555BA",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n4-euroi.jpg",
+        "description": "Caño inyector cummins 6ctaa n 4 tca.bb 1730/1831 vw 17220/26310 euroi 3924628 2U0130301 3924628 BG2X9A555BA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1119",
+        "name": "Caño inyector cummins 6ctaa n 6 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "brand": "Ford/VW",
+        "code": "3924630 / 2U0130303 / 3924630 / BG2X9A557BA",
+        "originalCode": "3924630 2U0130303 3924630 BG2X9A557BA",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n6-euroi.jpg",
+        "description": "Caño inyector cummins 6ctaa n 6 tca.bb 1730/1831 vw 17220/26310 euroi 3924630 2U0130303 3924630 BG2X9A557BA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1120",
+        "name": "Caño inyector cummins 6ctaa n 2 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "brand": "Ford/VW",
+        "code": "3355327 / 2U0130305 / 3925327 / BG2X9A559BA",
+        "originalCode": "3355327 2U0130305 3925327 BG2X9A559BA",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n2-euroi.jpg",
+        "description": "Caño inyector cummins 6ctaa n 2 tca.bb 1730/1831 vw 17220/26310 euroi 3355327 2U0130305 3925327 BG2X9A559BA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1121",
+        "name": "Caño inyector cummins 6ct n5 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "brand": "Ford/VW",
+        "code": "3356194 / TJG130305 / 2RK130305",
+        "originalCode": "3356194 TJG130305 2RK130305",
+        "image": "img/products/6c/cano-inyector-cummins-6ct-n5.jpg",
+        "description": "Caño inyector cummins 6ct n5 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356194 TJG130305 2RK130305",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1122",
+        "name": "Caño inyector cummins 6ct n1 tca.aa ford 1722 vw 17220/24220 bba.lineal 91/93",
+        "brand": "Ford/VW",
+        "code": "3356190 / TJG130301 / 2RK130301",
+        "originalCode": "3356190 TJG130301 2RK130301",
+        "image": "img/products/6c/cano-inyector-cummins-6ct-n1.jpg",
+        "description": "Caño inyector cummins 6ct n1 tca.aa ford 1722 vw 17220/24220 bba.lineal 91/93 3356190 TJG130301 2RK130301",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1123",
+        "name": "Caño inyector cummins 6ct n2 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "brand": "Ford/VW",
+        "code": "3356191 / TJG130302 / 2RK130302",
+        "originalCode": "3356191 TJG130302 2RK130302",
+        "image": "img/products/6c/cano-inyector-cummins-6ct-n2.jpg",
+        "description": "Caño inyector cummins 6ct n2 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356191 TJG130302 2RK130302",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1124",
+        "name": "Caño inyector cummins 6ctaa n 3 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "brand": "Ford/VW",
+        "code": "3355329 / 2U0130306 / 3925329 / BG2X9A560BA",
+        "originalCode": "3355329 2U0130306 3925329 BG2X9A560BA",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n3-euroi.jpg",
+        "description": "Caño inyector cummins 6ctaa n 3 tca.bb 1730/1831 vw 17220/26310 euroi 3355329 2U0130306 3925329 BG2X9A560BA",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1125",
+        "name": "Arbol levas 6ct",
+        "brand": "Ford/VW",
+        "code": "",
+        "image": "img/products/6c/arbol-levas-6ct.jpg",
+        "description": "Arbol levas 6ct",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1126",
+        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n6",
+        "brand": "Ford/VW",
+        "code": "3354595 / TRG130306",
+        "originalCode": "3354595 TRG130306",
+        "image": "img/products/6c/cano-inyector-cummins-6ctaa-n6.jpg",
+        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n6 3354595 TRG130306",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1127",
+        "name": "Engranaje arbol leva 84d. 6ct ford/vw 3918777",
+        "brand": "Ford/VW",
+        "code": "TRG109111 / TJG109111 / 3918777",
+        "originalCode": "TRG109111 TJG109111 3918777",
+        "image": "img/products/6c/engranaje-arbol-levas-84d-6ct.jpg",
+        "description": "Engranaje arbol leva 84d. 6ct ford/vw 3918777 TRG109111 TJG109111 3918777",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1128",
+        "name": "Cigueñal 6ct ford 1722/1730 cummins",
+        "brand": "Ford/VW",
+        "code": "",
+        "image": "img/products/6c/ciguenal-6ct-ford-cummins.jpg",
+        "description": "Cigueñal 6ct ford 1722/1730 cummins",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1129",
+        "name": "Bulon tapa cilindro 6ct corto (12)",
+        "brand": "Ford/VW",
+        "code": "",
+        "image": "img/products/6c/bulon-tapa-cilindro-6ct-corto.jpg",
+        "description": "Bulon tapa cilindro 6ct corto (12)",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1130",
+        "name": "Volante motor c/corona serie 6ct 8.3 ford 1722/1730/17220/17300 (365/380mm 138 dientes) 3936423",
+        "brand": "Ford/VW",
+        "code": "tjg105269 / 2t0105269 / 2ta105269 / 2rk105269 / bg3x6375aa / 3936423",
+        "originalCode": "tjg105269 2t0105269 2ta105269 2rk105269 bg3x6375aa 3936423",
+        "image": "img/products/6c/volante-motor-6ct-3936423.jpg",
+        "description": "Volante motor c/corona serie 6ct 8.3 ford 1722/1730/17220/17300 (365/380mm 138 dientes) 3936423 tjg105269 2t0105269 2ta105269 2rk105269 bg3x6375aa 3936423",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1131",
+        "name": "Corona de arranque serie c 6c/isce (hasta 2012) (412mm 138 dientes) 3902127 espesor 22mm",
+        "brand": "Ford/VW",
+        "code": "TE3105275 / 3902127",
+        "originalCode": "TE3105275 3902127",
+        "image": "img/products/6c/corona-arranque-6c-3902127.jpg",
+        "description": "Corona de arranque serie c 6c/isce (hasta 2012) (412mm 138 dientes) 3902127 espesor 22mm TE3105275 3902127",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1132",
+        "name": "Bulon tapa cilindro cummins 6ct largo (14)",
+        "brand": "Ford/VW",
+        "code": "3917728 / 3960043 / TJG103385 / 2RD199120AG",
+        "originalCode": "3917728 3960043 TJG103385 2RD199120AG",
+        "image": "img/products/6c/bulon-tapa-cilindro-6ct-largo.jpg",
+        "description": "Bulon tapa cilindro cummins 6ct largo (14) 3917728 3960043 TJG103385 2RD199120AG",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1133",
+        "name": "Eng. Cigüeñal 6ct bajo medida 3918776",
+        "brand": "Ford/VW",
+        "code": "TRG105209",
+        "originalCode": "TRG105209",
+        "image": "img/products/6c/engranaje-ciguenal-6ct-bajo-medida.jpg",
+        "description": "Eng. Cigüeñal 6ct bajo medida 3918776 TRG105209",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1134",
+        "name": "Bulon biela de motor 6ct",
+        "brand": "Ford/VW",
+        "code": "TE3105425 / 2RK105425 / 3901380 / 3928870 / 3924351 / 3920799",
+        "originalCode": "TE3105425 2RK105425 3901380 3928870 3924351 3920799",
+        "image": "img/products/6c/bulon-biela-6ct.jpg",
+        "description": "Bulon biela de motor 6ct TE3105425 2RK105425 3901380 3928870 3924351 3920799",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1135",
+        "name": "Eng. Cigüeñal cummins 6ct std 42d.3918776",
+        "brand": "Ford/VW",
+        "code": "TRG105209",
+        "originalCode": "TRG105209",
+        "image": "img/products/6c/engranaje-ciguenal-cummins-6ct-std.jpg",
+        "description": "Eng. Cigüeñal cummins 6ct std 42d.3918776 TRG105209",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1136",
+        "name": "Kit bulones tapa cilindro cummins 6c-6ct-6cta (26 unidades)",
+        "brand": "Ford/VW",
+        "code": "",
+        "image": "img/products/6c/kit-bulones-tapa-cummins-6c.jpg",
+        "description": "Kit bulones tapa cilindro cummins 6c-6ct-6cta (26 unidades)",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1137",
+        "name": "Biela de motor 6ct ford 1722/1730 cummins",
+        "brand": "Ford/VW",
+        "code": "",
+        "image": "img/products/6c/biela-motor-6ct-ford-cummins.jpg",
+        "description": "Biela de motor 6ct ford 1722/1730 cummins",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1138",
+        "name": "Tubo carter 6ct",
+        "brand": "Ford/VW",
+        "code": "TJG115253 / 2so115253b / 3287755",
+        "originalCode": "TJG115253 2so115253b 3287755",
+        "image": "img/products/6c/tubo-carter-6ct.jpg",
+        "description": "Tubo carter 6ct TJG115253 2so115253b 3287755",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1139",
+        "name": "Varilla n/aceite cummins 6ct vw 17220-17300-17310-18310-26310 (1248mm)",
+        "brand": "Ford/VW",
+        "code": "TJG115611",
+        "originalCode": "TJG115611",
+        "image": "img/products/6c/varilla-nivel-aceite-cummins-6ct.jpg",
+        "description": "Varilla n/aceite cummins 6ct vw 17220-17300-17310-18310-26310 (1248mm) TJG115611",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1140",
+        "name": "Carter aceite 6ct 1722",
+        "brand": "Ford/VW",
+        "code": "TJG103601",
+        "originalCode": "TJG103601",
+        "image": "img/products/6c/carter-aceite-6ct-1722.jpg",
+        "description": "Carter aceite 6ct 1722 TJG103601",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1141",
+        "name": "Tapon sello block cummins 6ctaa 8.3 69.5mm",
+        "brand": "Ford/VW",
+        "code": "TJG103113",
+        "originalCode": "TJG103113",
+        "image": "img/products/6c/tapon-sello-block-cummins-6ctaa.jpg",
+        "description": "Tapon sello block cummins 6ctaa 8.3 69.5mm TJG103113",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
     }
 ];
 
