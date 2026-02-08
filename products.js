@@ -10690,6 +10690,656 @@ const products = [
         "image": "img/products/6c/tapon-sello-block-cummins-6ctaa.jpg",
         "description": "Tapon sello block cummins 6ctaa 8.3 69.5mm TJG103113",
         "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1142",
+        "name": "Adaptador cigueñal cummins ISC ford/vw",
+        "brand": "Ford/VW",
+        "code": "BG6X6312AA / 3975103",
+        "originalCode": "BG6X6312AA 3975103",
+        "image": "img/products/isc/adaptador-ciguenal-cummins-isc.jpg",
+        "description": "Adaptador cigueñal cummins ISC ford/vw BG6X6312AA 3975103",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1143",
+        "name": "Termostato cummins-mwm 9.3L 6 Cil /19-320E Constellation 07 Cummins ISCe L6 320E 8,2lts 82°",
+        "brand": "Ford/VW",
+        "code": "1872219C1 / 2U2121113",
+        "originalCode": "1872219C1 2U2121113",
+        "image": "img/products/isc/termostato-cummins-mwm-isce.jpg",
+        "description": "Termostato cummins-mwm 9.3L 6 Cil /19-320E Constellation 07 Cummins ISCe L6 320E 8,2lts 82° 1872219C1 2U2121113",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1144",
+        "name": "Juego junta superior cummins ISC",
+        "brand": "Ford/VW",
+        "code": "js21540/6 / 4089758",
+        "originalCode": "js21540/6 4089758",
+        "image": "img/products/isc/juego-junta-superior-cummins-isc.jpg",
+        "description": "Juego junta superior cummins ISC js21540/6 4089758",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1145",
+        "name": "Junta tapa de admision cummins isc",
+        "brand": "Ford/VW",
+        "code": "3944646",
+        "originalCode": "3944646",
+        "image": "img/products/isc/junta-tapa-admision-cummins-isc.jpg",
+        "description": "Junta tapa de admision cummins isc 3944646",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1146",
+        "name": "Junta codo admision cummins isc",
+        "brand": "Ford/VW",
+        "code": "3967891 / BG6X9451AA / 2T2145773",
+        "originalCode": "3967891 BG6X9451AA 2T2145773",
+        "image": "img/products/isc/junta-codo-admision-cummins-isc.jpg",
+        "description": "Junta codo admision cummins isc 3967891 BG6X9451AA 2T2145773",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1147",
+        "name": "Junta carcaza distribucion al block cummins isc/isl ford/vw electronico",
+        "brand": "Ford/VW",
+        "code": "3944293 / BG5X6C045AA / 2T2109139",
+        "originalCode": "3944293 BG5X6C045AA 2T2109139",
+        "image": "img/products/isc/junta-carcaza-distribucion-cummins-isc.jpg",
+        "description": "Junta carcaza distribucion al block cummins isc/isl ford/vw electronico 3944293 BG5X6C045AA 2T2109139",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1148",
+        "name": "Kit embrague 430mm 10 est. ford cargo isc/isl",
+        "brand": "Ford/VW",
+        "code": "104036 / 3400654140 / 6654",
+        "originalCode": "104036 3400654140 6654",
+        "image": "img/products/isc/kit-embrague-430mm-ford-isc.jpg",
+        "description": "Kit embrague 430mm 10 est. ford cargo isc/isl 104036 3400654140 6654",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1149",
+        "name": "Paleta vent.(**)11 palas 6ag.(716mm) vw constellation 17280 motor man C/VISCOSO",
+        "brand": "Ford/VW",
+        "code": "2u2121303",
+        "originalCode": "2u2121303",
+        "image": "img/products/isc/paleta-ventilador-vw-constellation-man.jpg",
+        "description": "Paleta vent.(**)11 palas 6ag.(716mm) vw constellation 17280 motor man C/VISCOSO 2u2121303",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1150",
+        "name": "Juego junta inferior cummins ISc 8.3",
+        "brand": "Mercedes Benz",
+        "code": "3800343 / 4089759 / BG5X6008DA",
+        "originalCode": "3800343 4089759 BG5X6008DA",
+        "image": "img/products/isc/juego-junta-inferior-cummins-isc.jpg",
+        "description": "Juego junta inferior cummins ISc 8.3 3800343 4089759 BG5X6008DA",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1151",
+        "name": "Sensor temperatura aire admision cummins isc ford/vw",
+        "brand": "Ford/VW",
+        "code": "4076493 / BH6X9F479AA / 2t2906051b / BG6X9F479CA",
+        "originalCode": "4076493 BH6X9F479AA 2t2906051b BG6X9F479CA",
+        "image": "img/products/isc/sensor-temperatura-aire-cummins-isc.jpg",
+        "description": "Sensor temperatura aire admision cummins isc ford/vw 4076493 BH6X9F479AA 2t2906051b BG6X9F479CA",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1152",
+        "name": "Sensor rotacion ciguenal cummins isc ford/vw",
+        "brand": "Ford/VW",
+        "code": "2872279 / 4921686 / BH0X6C315AA / BG6X6C315BA / 2Z0906051B",
+        "originalCode": "2872279 4921686 bh0x6c315aa bg6x6c315ba 2z0906051b",
+        "image": "img/products/isc/sensor-rotacion-ciguenal-cummins-isc.jpg",
+        "description": "Sensor rotacion ciguenal cummins isc ford/vw 2872279 4921686 bh0x6c315aa bg6x6c315ba 2z0906051b",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1153",
+        "name": "Flexible compresor para agua cummins ISCe 8.3 VW 17250/19320 (Menor a 2005)",
+        "brand": "Ford/VW",
+        "code": "4934432 / BH1X2910DA / 2T2145367C",
+        "originalCode": "4934432 BH1X2910DA 2T2145367C",
+        "image": "img/products/isc/flexible-compresor-agua-cummins-isc.jpg",
+        "description": "Flexible compresor para agua cummins ISCe 8.3 VW 17250/19320 (Menor a 2005) 4934432 BH1X2910DA 2T2145367C",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1154",
+        "name": "Sensor Presion Aceite ford isc ford cargo 1832/1932 VW",
+        "brand": "Ford/VW",
+        "code": "BG6X9F479AA / BG6X9F479EA / 4921517 / 2t2906051e",
+        "originalCode": "BG6X9F479AA BG6X9F479EA 4921517 2t2906051e",
+        "image": "img/products/isc/sensor-presion-aceite-ford-isc.jpg",
+        "description": "Sensor Presion Aceite ford isc ford cargo 1832/1932 VW BG6X9F479AA BG6X9F479EA 4921517 2t2906051e",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1155",
+        "name": "Tapa caja engranaje distribucion cummins isce",
+        "brand": "Ford/VW",
+        "code": "3958112 / BG5X6019BA",
+        "originalCode": "3958112 BG5X6019BA",
+        "image": "img/products/isc/tapa-caja-engranaje-distribucion-cummins-isce.jpg",
+        "description": "Tapa caja engranaje distribucion cummins isce 3958112 BG5X6019BA",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1156",
+        "name": "Caja engranaje distribucion isce ford/vw",
+        "brand": "Ford/VW",
+        "code": "BG5X6W059CA / 4938693 / 4991695",
+        "originalCode": "BG5X6W059CA 4938693 4991695",
+        "image": "img/products/isc/caja-engranaje-distribucion-isce.jpg",
+        "description": "Caja engranaje distribucion isce ford/vw BG5X6W059CA 4938693 4991695",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1157",
+        "name": "Botador valvulas cummins isce",
+        "brand": "Ford/VW",
+        "code": "3965966 / BG5X6500AA",
+        "originalCode": "3965966 BG5X6500AA",
+        "image": "img/products/isc/botador-valvulas-cummins-isce.jpg",
+        "description": "Botador valvulas cummins isce 3965966 BG5X6500AA",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1158",
+        "name": "Valvula reguladora presion combustible cummins isce 6 (actuador)",
+        "brand": "Ford/VW",
+        "code": "0928400473 / 4088518 / 4903523 / BG7X9F350CA / 2T2927353A",
+        "originalCode": "0928400473 4088518 4903523 BG7X9F350CA 2T2927353A",
+        "image": "img/products/isc/valvula-reguladora-presion-cummins-isce.jpg",
+        "description": "Valvula reguladora presion combustible cummins isce 6 (actuador) 0928400473 4088518 4903523 BG7X9F350CA 2T2927353A",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1159",
+        "name": "Cabezal p/filtro aceite isce cummins",
+        "brand": "Ford/VW",
+        "code": "3974326 / BG6X/6715/AA",
+        "originalCode": "3974326 BG6X/6715/AA",
+        "image": "img/products/isc/cabezal-filtro-aceite-cummins-isce.jpg",
+        "description": "Cabezal p/filtro aceite isce cummins 3974326 BG6X/6715/AA",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1160",
+        "name": "Instalacion electrica modulo inyeccion cummins isce",
+        "brand": "Ford/VW",
+        "code": "3968886 / BG6X14398BA / 2T2971079A",
+        "originalCode": "3968886 BG6X14398BA 2T2971079A",
+        "image": "img/products/isc/instalacion-electrica-modulo-inyeccion-isce.jpg",
+        "description": "Instalacion electrica modulo inyeccion cummins isce 3968886 BG6X14398BA 2T2971079A",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1161",
+        "name": "Bomba transferencia combustible cummins isce",
+        "brand": "Ford/VW",
+        "code": "5260634 / 3968190 / 3970198 / 3968189 / 4947999 / BH0X9350BA / 2T2130744A",
+        "originalCode": "5260634 3968190 3970198 3968189 4947999 BH0X9350BA 2T2130744A",
+        "image": "img/products/isc/bomba-transferencia-combustible-cummins-isce.jpg",
+        "description": "Bomba transferencia combustible cummins isce 5260634 3968190 3970198 3968189 4947999 BH0X9350BA 2T2130744A",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1162",
+        "name": "Junta tapa cilindro cummins ISC 6 cilindros electronico",
+        "brand": "Ford/VW",
+        "code": "3967059 / 4981796 / BG5X6051FA",
+        "originalCode": "3967059 4981796 BG5X6051FA",
+        "image": "img/products/isc/junta-tapa-cilindro-cummins-isc.jpg",
+        "description": "Junta tapa cilindro cummins ISC 6 cilindros electronico 3967059 4981796 BG5X6051FA",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1163",
+        "name": "Junta tapa valvula Cummins ISC 3959798",
+        "brand": "Ford/VW",
+        "code": "3959798 / BG5X6854CA",
+        "originalCode": "3959798 bg5x6854ca",
+        "image": "img/products/isc/junta-tapa-valvula-cummins-isc.jpg",
+        "description": "Junta tapa valvula Cummins ISC 3959798 3959798 bg5x6854ca",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1164",
+        "name": "Platillo asiento valvula cummins isc ford/vw",
+        "brand": "Ford/VW",
+        "code": "3944452 / BG5X6517AA / 2T2109375",
+        "originalCode": "3944452 BG5X6517AA 2T2109375",
+        "image": "img/products/isc/platillo-asiento-valvula-cummins-isc.jpg",
+        "description": "Platillo asiento valvula cummins isc ford/vw 3944452 BG5X6517AA 2T2109375",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1165",
+        "name": "Inyector Common Rail cummins isc ford/vw",
+        "brand": "Ford/VW",
+        "code": "4945807 / 0445120120 / BG7X9K526AA / 2T2130201D / 0445120140",
+        "originalCode": "4945807 0445120120 BG7X9K526AA 2T2130201D 0445120140",
+        "image": "img/products/isc/inyector-common-rail-cummins-isc.jpg",
+        "description": "Inyector Common Rail cummins isc ford/vw 4945807 0445120120 BG7X9K526AA 2T2130201D 0445120140",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1166",
+        "name": "Viscoso con cable vw motor man constellation 17280",
+        "brand": "Ford/VW",
+        "code": "157.020005344 / 2u2121302a",
+        "originalCode": "157.020005344 2u2121302a",
+        "image": "img/products/isc/viscoso-cable-vw-constellation.jpg",
+        "description": "Viscoso con cable vw motor man constellation 17280 157.020005344 2u2121302a",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1167",
+        "name": "Resorte Valvula adm/esc Cummins ISCE Ford 1832/1932-2632 Vw Constellation",
+        "brand": "Ford/VW",
+        "code": "4936076 / 5316172 / BG5X6513CA / 2Z0109623",
+        "originalCode": "4936076 5316172 bg5x6513ca 2z0109623",
+        "image": "img/products/isc/resorte-valvula-cummins-isce.jpg",
+        "description": "Resorte Valvula adm/esc Cummins ISCE Ford 1832/1932-2632 Vw Constellation 4936076 5316172 bg5x6513ca 2z0109623",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1168",
+        "name": "Termostato chico cummins cargo 1832e/2632e constellation 19320e/25320e isce6",
+        "brand": "Ford/VW",
+        "code": "4936026 / bg8x8575ba / 2t2121113c",
+        "originalCode": "4936026 bg8x8575ba 2t2121113c",
+        "image": "img/products/isc/termostato-chico-cummins-isce.jpg",
+        "description": "Termostato chico cummins cargo 1832e/2632e constellation 19320e/25320e isce6 4936026 bg8x8575ba 2t2121113c",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1169",
+        "name": "Bulbo temperatura cummins ISC/ISL ford/vw",
+        "brand": "Ford/VW",
+        "code": "4088832 / BG6X10884BA / 2t2919501",
+        "originalCode": "4088832 BG6X10884BA 2t2919501",
+        "image": "img/products/isc/bulbo-temperatura-cummins-isc.jpg",
+        "description": "Bulbo temperatura cummins ISC/ISL ford/vw 4088832 BG6X10884BA 2t2919501",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1170",
+        "name": "Flexible entrada agua compresor (conex 1/2) cummins isce ford 1832e/2632e vw constellation",
+        "brand": "Ford/VW",
+        "code": "bh0x2910ha / bg6x2910aa / 5259201 / 4936656 / 5259212",
+        "originalCode": "bh0x2910ha bg6x2910aa 5259201 4936656 5259212",
+        "image": "img/products/isc/flexible-entrada-agua-compresor-isce.jpg",
+        "description": "Flexible entrada agua compresor (conex 1/2) cummins isce ford 1832e/2632e vw constellation bh0x2910ha bg6x2910aa 5259201 4936656 5259212",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1171",
+        "name": "Termostato cummins cargo 1832e/2632e constellation 19320e/25320e isce6/isl (82º)",
+        "brand": "Ford/VW",
+        "code": "3940632 / 4930594 / bg5x8575ba / 2t2121113c / BH1X8575AA / BH5X8575AA",
+        "originalCode": "3940632 4930594 bg5x8575ba 2t2121113c BH1X8575AA BH5X8575AA",
+        "image": "img/products/isc/termostato-cummins-isc-82.jpg",
+        "description": "Termostato cummins cargo 1832e/2632e constellation 19320e/25320e isce6/isl (82º) 3940632 4930594 bg5x8575ba 2t2121113c BH1X8575AA BH5X8575AA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1172",
+        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 suministro",
+        "brand": "Ford/VW",
+        "code": "4955367 / bg6x9k500aa / 2t2130305c / 2t2130305e",
+        "originalCode": "4955367 bg6x9k500aa 2t2130305c 2t2130305e",
+        "image": "img/products/isc/canos-inyector-cummins-isce.jpg",
+        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 suministro 4955367 bg6x9k500aa 2t2130305c 2t2130305e",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1173",
+        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N6",
+        "brand": "Ford/VW",
+        "code": "3964143 / bg6x9c520ja / 2t2130305b",
+        "originalCode": "3964143 bg6x9c520ja 2t2130305b",
+        "image": "img/products/isc/canos-inyector-cummins-isce-n6.jpg",
+        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N6 3964143 bg6x9c520ja 2t2130305b",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1174",
+        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N3",
+        "brand": "Ford/VW",
+        "code": "3975042 / bg6x9c520la / 2t2130305d",
+        "originalCode": "3975042 bg6x9c520la 2t2130305d",
+        "image": "img/products/isc/canos-inyector-cummins-isce-n3.jpg",
+        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N3 3975042 bg6x9c520la 2t2130305d",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1175",
+        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N2/4/5",
+        "brand": "Ford/VW",
+        "code": "3964142 / bg6x9c520ha / 2t2130305a",
+        "originalCode": "3964142 bg6x9c520ha 2t2130305a",
+        "image": "img/products/isc/canos-inyector-cummins-isce-n2-4-5.jpg",
+        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N2/4/5 3964142 bg6x9c520ha 2t2130305a",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1176",
+        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N1",
+        "brand": "Ford/VW",
+        "code": "3964141 / bg6x9c520ga / 2t2130305",
+        "originalCode": "3964141 bg6x9c520ga 2t2130305",
+        "image": "img/products/isc/canos-inyector-cummins-isce-n1.jpg",
+        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N1 3964141 bg6x9c520ga 2t2130305",
+        "rubro": "INYECCIÓN"
+    },
+    {
+        "id": "P1177",
+        "name": "Juego junta multiple escape cummins ISCe electronico",
+        "brand": "Ford/VW",
+        "code": "3937479 / BH1X9451AA / BG6X9451BA",
+        "originalCode": "3937479 BH1X9451AA BG6X9451BA",
+        "image": "img/products/isc/juego-junta-multiple-escape-cummins-isce.jpg",
+        "description": "Juego junta multiple escape cummins ISCe electronico 3937479 BH1X9451AA BG6X9451BA",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1178",
+        "name": "Polea cigueñal motor cummins isce6 ford/vw 3925567",
+        "brand": "Ford/VW",
+        "code": "3925567 / 2t2105243 / bg5x6316da",
+        "originalCode": "3925567 2t2105243 bg5x6316da",
+        "image": "img/products/isc/polea-ciguenal-cummins-isce.jpg",
+        "description": "Polea cigueñal motor cummins isce6 ford/vw 3925567 3925567 2t2105243 bg5x6316da",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1179",
+        "name": "Jgo.junta turbo cummins isc",
+        "brand": "Ford/VW",
+        "code": "",
+        "originalCode": "",
+        "image": "img/products/isc/juego-junta-turbo-cummins-isc.jpg",
+        "description": "Jgo.junta turbo cummins isc",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1180",
+        "name": "Tensor correa cummins isce Constellation 19320E/31320E polea acanalada",
+        "brand": "Ford/VW",
+        "code": "2T2145299A / 3976831 / 3957434 / 3565151 / 3936213 / 3976834",
+        "originalCode": "2T2145299A 3976831 3957434 3565151 3936213 3976834",
+        "image": "img/products/isc/tensor-correa-cummins-isce.jpg",
+        "description": "Tensor correa cummins isce Constellation 19320E/31320E polea acanalada 2T2145299A 3976831 3957434 3565151 3936213 3976834",
+        "rubro": "ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P1181",
+        "name": "Conjunto embrague placa y disco Ford Cargo 815/915 electronico 330 mm.",
+        "brand": "Ford/VW",
+        "code": "232670",
+        "originalCode": "232670",
+        "image": "img/products/isc/conjunto-embrague-ford-cargo-815-915.jpg",
+        "description": "Conjunto embrague placa y disco Ford Cargo 815/915 electronico 330 mm. 232670",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1182",
+        "name": "Kit bulones tapa cilindro cummins ISC elect. 14x160x2 (26 unidades)",
+        "brand": "Ford/VW",
+        "code": "TJG103385",
+        "originalCode": "TJG103385",
+        "image": "img/products/isc/kit-bulones-tapa-cilindro-cummins-isc.jpg",
+        "description": "Kit bulones tapa cilindro cummins ISC elect. 14x160x2 (26 unidades) TJG103385",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1183",
+        "name": "Varilla levanta valvulas ELECT.ISCe 8.3 2632/4032 E",
+        "brand": "Ford/VW",
+        "code": "BG5X6565BA / 3964715",
+        "originalCode": "BG5X6565BA 3964715",
+        "image": "img/products/isc/varilla-levanta-valvulas-cummins-isce.jpg",
+        "description": "Varilla levanta valvulas ELECT.ISCe 8.3 2632/4032 E BG5X6565BA 3964715",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1184",
+        "name": "Carcaza volante motor.cummins C/ISC 8.3 FORD/VW",
+        "brand": "Ford/VW",
+        "code": "3354392 / 2RL103203 / 3974770",
+        "originalCode": "3354392 2RL103203 3974770",
+        "image": "img/products/isc/carcaza-volante-cummins-isc.jpg",
+        "description": "Carcaza volante motor.cummins C/ISC 8.3 FORD/VW 3354392 2RL103203 3974770",
+        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P1185",
+        "name": "Viscoso (**)ford cumelect.1317e/1517e 6 aguj.vastago corto-rosca hem(185mm.) Ant._2005",
+        "brand": "Ford/VW",
+        "code": "4C458A616BA",
+        "originalCode": "4C458A616BA",
+        "image": "img/products/isc/viscoso-ford-cummins-1317e.jpg",
+        "description": "Viscoso (**)ford cumelect.1317e/1517e 6 aguj.vastago corto-rosca hem(185mm.) Ant._2005 4C458A616BA",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1186",
+        "name": "Adaptador viscoso 1722/1730 vw24250",
+        "brand": "Ford/VW",
+        "code": "tau121431x",
+        "originalCode": "tau121431x",
+        "image": "img/products/isc/adaptador-viscoso-ford-1722.jpg",
+        "description": "Adaptador viscoso 1722/1730 vw24250 tau121431x",
+        "rubro": "REFRIGERACIÓN"
+    },
+    {
+        "id": "P1187",
+        "name": "Radiador aceite cummins isc 8.3 1832/1932/2632 Vw 19320/26320 constellation",
+        "brand": "Ford/VW",
+        "code": "3966365 / 3943460 / BG6X6B856AA / BH2X6B856AA / 2T2117021",
+        "originalCode": "3966365 3943460 BG6X6B856AA BH2X6B856AA 2T2117021",
+        "image": "img/products/isc/radiador-aceite-cummins-isc.jpg",
+        "description": "Radiador aceite cummins isc 8.3 1832/1932/2632 Vw 19320/26320 constellation 3966365 3943460 BG6X6B856AA BH2X6B856AA 2T2117021",
+        "rubro": "LUBRICACIÓN"
+    },
+    {
+        "id": "P1188",
+        "name": "Compresor wabco 85 con acople cruz cummins isc ford",
+        "brand": "Ford/VW",
+        "code": "9111555190 / BG6X2875AA",
+        "originalCode": "9111555190 BG6X2875AA",
+        "image": "img/products/isc/compresor-wabco-85-cummins-isc.jpg",
+        "description": "Compresor wabco 85 con acople cruz cummins isc ford 9111555190 BG6X2875AA",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P1189",
+        "name": "Rampas de balancines armadas ELECT.ISCE 8.3 2632/4032 E",
+        "brand": "Ford/VW",
+        "code": "BH0X6529AA / 3972540 / 2t2109447c / 5253887",
+        "originalCode": "BH0X6529AA 3972540 2t2109447c 5253887",
+        "image": "img/products/isc/rampas-balancines-cummins-isce.jpg",
+        "description": "Rampas de balancines armadas ELECT.ISCE 8.3 2632/4032 E BH0X6529AA 3972540 2t2109447c 5253887",
+        "rubro": "DISTRIBUCIÓN"
+    },
+    {
+        "id": "P1190",
+        "name": "Corona de arranque serie c isce6 (desde 2013) (158 dientes) 3907308",
+        "brand": "Ford/VW",
+        "code": "3907308 / bh1x6384aa / 2t2105275",
+        "originalCode": "3907308 bh1x6384aa 2t2105275",
+        "image": "img/products/isc/corona-arranque-cummins-isce.jpg",
+        "description": "Corona de arranque serie c isce6 (desde 2013) (158 dientes) 3907308 3907308 bh1x6384aa 2t2105275",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1191",
+        "name": "Flexible embrague ford 1932e/1517e/1317e",
+        "brand": "Ford/VW",
+        "code": "BC457K610AC",
+        "originalCode": "BC457K610AC",
+        "image": "img/products/isc/flexible-embrague-ford-cargo.jpg",
+        "description": "Flexible embrague ford 1932e/1517e/1317e BC457K610AC",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1192",
+        "name": "Buje eje embrague 19-320 ford/vw",
+        "brand": "Ford/VW",
+        "code": "2T2141173 / 0635285060",
+        "originalCode": "2T2141173 0635285060",
+        "image": "img/products/isc/buje-eje-embrague-ford-vw.jpg",
+        "description": "Buje eje embrague 19-320 ford/vw 2T2141173 0635285060",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1193",
+        "name": "Horquilla Bombin Embrague Ford Cargo 915/1517/1722",
+        "brand": "Ford/VW",
+        "code": "81DB2143AC",
+        "originalCode": "81DB2143AC",
+        "image": "img/products/isc/horquilla-bombin-embrague-ford-cargo.jpg",
+        "description": "Horquilla Bombin Embrague Ford Cargo 915/1517/1722 81DB2143AC",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1194",
+        "name": "Crapodina embrague c/porta p/tubo guia ford cargo 1730/1832e vw 18310 (placa 395mm)",
+        "brand": "Ford/VW",
+        "code": "125716",
+        "originalCode": "125716",
+        "image": "img/products/isc/crapodina-embrague-ford-vw.jpg",
+        "description": "Crapodina embrague c/porta p/tubo guia ford cargo 1730/1832e vw 18310 (placa 395mm) 125716",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1195",
+        "name": "Crapodina embrague c/porta p/tubo guia ford cargo 1729 (placa 395mm)",
+        "brand": "Ford/VW",
+        "code": "1271010 / bh6x7548ba",
+        "originalCode": "1271010 bh6x7548ba",
+        "image": "img/products/isc/crapodina-embrague-ford-cargo-1729.jpg",
+        "description": "Crapodina embrague c/porta p/tubo guia ford cargo 1729 (placa 395mm) 1271010 bh6x7548ba",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1196",
+        "name": "Crapodina embrague (3396)constellation 19320/25320/25370",
+        "brand": "Ford/VW",
+        "code": "m82141165a",
+        "originalCode": "m82141165a",
+        "image": "img/products/isc/crapodina-embrague-constellation.jpg",
+        "description": "Crapodina embrague (3396)constellation 19320/25320/25370 m82141165a",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1197",
+        "name": "Crapodina embrague s/directa ford cargo 8.3 1722/1730 (tipo sachs 350/380mm.)",
+        "brand": "Ford/VW",
+        "code": "bf6x7a605a / 3348",
+        "originalCode": "bf6x7a605a 3348",
+        "image": "img/products/isc/crapodina-embrague-sachs-ford-cargo.jpg",
+        "description": "Crapodina embrague s/directa ford cargo 8.3 1722/1730 (tipo sachs 350/380mm.) bf6x7a605a 3348",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1198",
+        "name": "Horquilla embrague c/rodillo vw constellation caja eaton",
+        "brand": "Ford/VW",
+        "code": "2t2141720 / 125699",
+        "originalCode": "2t2141720 eaton 125699",
+        "image": "img/products/isc/horquilla-embrague-vw-constellation.jpg",
+        "description": "Horquilla embrague c/rodillo vw constellation caja eaton 2t2141720 eaton 125699",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1199",
+        "name": "Horquilla embrague c/rodillo vw constellation caja zf",
+        "brand": "Ford/VW",
+        "code": "2T2141719 / 2T2141719D / ZF6060268042",
+        "originalCode": "2t2141719 2t2141719d 2t2141719e 2t2141719f zf6060268042",
+        "image": "img/products/isc/horquilla-embrague-vw-constellation-zf.jpg",
+        "description": "Horquilla embrague c/rodillo vw constellation caja zf 2t2141719 2t2141719d 2t2141719e 2t2141719f zf6060268042",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1200",
+        "name": "Kit seguro crapodina embrague c/ tubo guia 80mm eaton 350/380mm ford/vw/volvo/iveco/agrale",
+        "brand": "Ford/VW",
+        "code": "2RK198187",
+        "originalCode": "2RK198187",
+        "image": "img/products/isc/kit-seguro-crapodina-eaton.jpg",
+        "description": "Kit seguro crapodina embrague c/ tubo guia 80mm eaton 350/380mm ford/vw/volvo/iveco/agrale 2RK198187",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1201",
+        "name": "Flexible bomba a bombin embrague mwm vw 13180 3800MM",
+        "brand": "Ford/VW",
+        "code": "2RL721479 / 2RK721479",
+        "originalCode": "2RL721479 2RK721479",
+        "image": "img/products/isc/flexible-embrague-vw-mwm.jpg",
+        "description": "Flexible bomba a bombin embrague mwm vw 13180 3800MM 2RL721479 2RK721479",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1202",
+        "name": "Horquilla embrague cargo 2011 1317e/1517e",
+        "brand": "Ford/VW",
+        "code": "BH1X7544AA",
+        "originalCode": "BH1X7544AA",
+        "image": "img/products/isc/horquilla-embrague-cargo-2011.jpg",
+        "description": "Horquilla embrague cargo 2011 1317e/1517e BH1X7544AA",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1203",
+        "name": "Horquilla embrague cargo 2011 1722e/2422e",
+        "brand": "Ford/VW",
+        "code": "BH1X7544BA / 125737",
+        "originalCode": "BH1X7544BA 125737",
+        "image": "img/products/isc/horquilla-embrague-cargo-2011-1722.jpg",
+        "description": "Horquilla embrague cargo 2011 1722e/2422e BH1X7544BA 125737",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1204",
+        "name": "Crapodina embrague c/tubo guia ford cargo 8.3 1722/1730 (tipo sachs 350/380mm.)",
+        "brand": "Ford/VW",
+        "code": "BF7X7A605A / 2RP141037C / SACHS 3359",
+        "originalCode": "BF7X7A605A 2RP141037C SACHS 3359",
+        "image": "img/products/isc/crapodina-embrague-tubo-guia-sachs.jpg",
+        "description": "Crapodina embrague c/tubo guia ford cargo 8.3 1722/1730 (tipo sachs 350/380mm.) BF7X7A605A 2RP141037C SACHS 3359",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1205",
+        "name": "Buje eje horquilla embrague vw 18310 titan",
+        "brand": "Ford/VW",
+        "code": "2T0301155",
+        "originalCode": "2T0301155",
+        "image": "img/products/isc/buje-horquilla-vw-18310.jpg",
+        "description": "Buje eje horquilla embrague vw 18310 titan 2T0301155",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1206",
+        "name": "Crapodina cargo 814/815e motor cummins 180CV ford 4000",
+        "brand": "Ford/VW",
+        "code": "XC457548AB / 2S0141165B / 125804 / 3373",
+        "originalCode": "XC457548AB 2S0141165B 125804 3373",
+        "image": "img/products/isc/crapodina-ford-cargo-815.jpg",
+        "description": "Crapodina cargo 814/815e motor cummins 180CV ford 4000 XC457548AB 2S0141165B 125804 3373",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
     }
 ];
 
