@@ -26,6 +26,11 @@
             z-index: 10;
         }
 
+        .search-input-wrapper {
+            position: relative;
+            width: 100%;
+        }
+
         .search-input {
             width: 100%;
             padding: 1.2rem 3.5rem 1.2rem 2rem;
@@ -86,6 +91,105 @@
         .search-input:focus {
             border-color: var(--primary-color);
             box-shadow: 0 0 20px rgba(0, 98, 204, 0.3);
+        }
+
+        /* Filter Section Styles */
+        .filter-container {
+            display: flex;
+            gap: 15px;
+            margin-top: 25px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .filter-wrapper {
+            position: relative;
+            flex: 1;
+            min-width: 180px;
+        }
+
+        .filter-icon {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--primary-color);
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .filter-select {
+            width: 100%;
+            padding: 14px 20px 14px 45px;
+            /* Left padding for icon */
+            border-radius: 12px;
+            background-color: rgba(30, 41, 59, 0.8);
+            /* Semi-transparent dark bg */
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #f1f5f9;
+            font-size: 0.95rem;
+            cursor: pointer;
+            outline: none;
+            transition: all 0.3s ease;
+            appearance: none;
+            /* Remove default arrow */
+            -webkit-appearance: none;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%2394a3b8' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+            background-position: right 0.5rem center;
+            background-repeat: no-repeat;
+            background-size: 1.5em 1.5em;
+        }
+
+        .filter-select:hover {
+            border-color: rgba(255, 255, 255, 0.2);
+            background-color: rgba(30, 41, 59, 1);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+
+        .filter-select:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+        }
+
+        .filter-select option {
+            background-color: #0f172a;
+            color: white;
+            padding: 10px;
+        }
+
+        .clear-filters-btn {
+            background: linear-gradient(135deg, #ef4444 0%, #b91c1c 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            padding: 0 20px;
+            height: 48px;
+            /* Match select height approximately */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px -1px rgba(220, 38, 38, 0.3);
+            font-weight: 600;
+            gap: 8px;
+            min-width: 140px;
+        }
+
+        .clear-filters-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(220, 38, 38, 0.4);
+            filter: brightness(1.1);
+        }
+
+        .clear-filters-btn svg {
+            transition: transform 0.3s ease;
+        }
+
+        .clear-filters-btn:hover svg {
+            transform: rotate(-180deg);
         }
 
 
@@ -358,17 +462,86 @@
         <section class="catalog-section">
             <div class="container">
                 <div class="search-container">
-                    <input type="text" id="searchInput" class="search-input"
-                        placeholder="Buscar por nombre o código...">
-                    <button id="voiceSearchBtn" class="voice-search-btn" aria-label="Buscar por voz">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
-                            <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
-                            <line x1="12" y1="19" x2="12" y2="23"></line>
-                            <line x1="8" y1="23" x2="16" y2="23"></line>
-                        </svg>
-                    </button>
+                    <div class="search-input-wrapper">
+                        <input type="text" id="searchInput" class="search-input"
+                            placeholder="Buscar por nombre o código...">
+                        <button id="voiceSearchBtn" class="voice-search-btn" aria-label="Buscar por voz">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+                                <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                                <line x1="12" y1="19" x2="12" y2="23"></line>
+                                <line x1="8" y1="23" x2="16" y2="23"></line>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <div class="filter-container">
+                        <!-- Motor Filter -->
+                        <div class="filter-wrapper">
+                            <div class="filter-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path
+                                        d="M12 2a10 10 0 1 0 10 10 4 4 0 0 1-5-5 4 4 0 0 1-5-5 10 10 0 0 0-10 10 10 10 0 0 0 10 10z" />
+                                    <path d="M8.5 8.5a2.5 2.5 0 0 1 3-1 2.5 2.5 0 0 1 2 2.5c0 1.5-1.5 2-2 3" />
+                                    <path d="M12 17h.01" />
+                                </svg>
+                                <!-- Placeholder for engine-like icon or generic setting -->
+                            </div>
+                            <select id="filterEngine" class="filter-select">
+                                <option value="">Todos los Motores</option>
+                                <!-- Options populated by JS -->
+                            </select>
+                        </div>
+
+                        <!-- Rubro Filter -->
+                        <div class="filter-wrapper">
+                            <div class="filter-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path
+                                        d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" />
+                                    <line x1="7" y1="7" x2="7.01" y2="7" />
+                                </svg>
+                            </div>
+                            <select id="filterCategory" class="filter-select">
+                                <option value="">Todos los Rubros</option>
+                                <!-- Options populated by JS -->
+                            </select>
+                        </div>
+
+                        <!-- Marca Filter -->
+                        <div class="filter-wrapper">
+                            <div class="filter-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10" />
+                                    <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+                                </svg>
+                            </div>
+                            <select id="filterBrand" class="filter-select">
+                                <option value="">Todas las Marcas</option>
+                                <!-- Options populated by JS -->
+                            </select>
+                        </div>
+
+                        <button id="clearFiltersBtn" class="clear-filters-btn" title="Limpiar filtros">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+                                <path d="M3 3v5h5"></path>
+                                <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"></path>
+                                <path d="M16 21h5v-5"></path>
+                            </svg>
+                            <span>Limpiar</span>
+                        </button>
+                    </div>
                 </div>
 
                 <div id="productGrid" class="product-grid">
