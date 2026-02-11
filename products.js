@@ -11340,6 +11340,136 @@ const products = [
         "image": "img/products/isc/crapodina-ford-cargo-815.jpg",
         "description": "Crapodina cargo 814/815e motor cummins 180CV ford 4000 XC457548AB 2S0141165B 125804 3373",
         "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1207",
+        "name": "Hoquilla embrague mwm vw 6.90/7.90/7.110/11.130/13.130/11.140/12.140/14.140 ant.91",
+        "brand": "Ford/VW",
+        "code": "2988085",
+        "originalCode": "2988085",
+        "image": "img/products/isc/2988085.jpg",
+        "description": "Hoquilla embrague mwm vw 6.90/7.90/7.110/11.130/13.130/11.140/12.140/14.140 ant.91 2988085",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1208",
+        "name": "Horquilla embrague cummins F14000 ( 99en adel.)",
+        "brand": "Ford/VW",
+        "code": "XC357541AA",
+        "originalCode": "XC357541AA",
+        "image": "img/products/isc/XC357541AA.jpg",
+        "description": "Horquilla embrague cummins F14000 ( 99en adel.) XC357541AA",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1209",
+        "name": "HORQUILLA EMBRAGUE ORIGINAL AXOR/ACTROS",
+        "brand": "Mercedes Benz",
+        "code": "6552501513 / 6552540708",
+        "originalCode": "6552501513 6552540708",
+        "image": "img/products/isc/6552501513.jpg",
+        "description": "HORQUILLA EMBRAGUE ORIGINAL AXOR/ACTROS 6552501513 6552540708",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1210",
+        "name": "Leva embrague vw 13180/15160/15170/15180/17210/17220",
+        "brand": "Ford/VW",
+        "code": "2vg141873",
+        "originalCode": "2vg141873",
+        "image": "img/products/isc/2vg141873.jpg",
+        "description": "Leva embrague vw 13180/15160/15170/15180/17210/17220 2vg141873",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1211",
+        "name": "Horquilla embrague c/rodillo ford / vw mod.2000 en adelante IMPORTADA",
+        "brand": "Ford/VW",
+        "code": "2RM141861 / BG1X7544AA / 997160",
+        "originalCode": "2RM141861 BG1X7544AA 997160",
+        "image": "img/products/isc/2RM141861.jpg",
+        "description": "Horquilla embrague c/rodillo ford / vw mod.2000 en adelante IMPORTADA 2RM141861 BG1X7544AA 997160",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1212",
+        "name": "Leva embrague ford 1317/1722/1730/1831/2626",
+        "brand": "Ford/VW",
+        "code": "XC457511AA / TJG141873",
+        "originalCode": "XC457511AA TJG141873",
+        "image": "img/products/isc/XC457511AA.jpg",
+        "description": "Leva embrague ford 1317/1722/1730/1831/2626 XC457511AA TJG141873",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1213",
+        "name": "Eje horquilla embrague Ford / vw 190mm VW13180/15180/17220",
+        "brand": "Ford/VW",
+        "code": "2VG141863 / 2RM141863",
+        "originalCode": "2VG141863 2RM141863",
+        "image": "img/products/isc/2VG141863.jpg",
+        "description": "Eje horquilla embrague Ford / vw 190mm VW13180/15180/17220 2VG141863 2RM141863",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1214",
+        "name": "Buje eje horquilla embrague ford / vw",
+        "brand": "Ford/VW",
+        "code": "xc457n620aa / te3141869",
+        "originalCode": "xc457n620aa te3141869",
+        "image": "img/products/isc/xc457n620aa.jpg",
+        "description": "Buje eje horquilla embrague ford / vw xc457n620aa te3141869",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1215",
+        "name": "Crapodina embrague c/porta ford cargo elect.8.3 1932/3132(tipo sachs 430mm.) M/N",
+        "brand": "Ford/VW",
+        "code": "AC457548AB",
+        "originalCode": "AC457548AB",
+        "image": "img/products/isc/AC457548AB.jpg",
+        "description": "Crapodina embrague c/porta ford cargo elect.8.3 1932/3132(tipo sachs 430mm.) M/N AC457548AB",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1216",
+        "name": "Horquilla embrague cam/omn.todos mwm",
+        "brand": "Ford/VW",
+        "code": "TPH141857 / 77TU7515A / 3001623 / 0501398725",
+        "originalCode": "TPH141857 77TU7515A 3001623 0501398725",
+        "image": "img/products/isc/TPH141857.jpg",
+        "description": "Horquilla embrague cam/omn.todos mwm TPH141857 77TU7515A 3001623 0501398725",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1217",
+        "name": "Eje horquilla embrague Ford / vw 145mm 1722/17220",
+        "brand": "Ford/VW",
+        "code": "tjg141865 / c1tt7590a",
+        "originalCode": "tjg141865 c1tt7590a",
+        "image": "img/products/isc/tjg141865.jpg",
+        "description": "Eje horquilla embrague Ford / vw 145mm 1722/17220 tjg141865 c1tt7590a",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1218",
+        "name": "Horquilla bombin inf.embrague vw mod.91-99",
+        "brand": "Ford/VW",
+        "code": "2rp141147a",
+        "originalCode": "2rp141147a",
+        "image": "img/products/isc/2rp141147a.jpg",
+        "description": "Horquilla bombin inf.embrague vw mod.91-99 2rp141147a",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1219",
+        "name": "Crapodina embrague c/porta ford 14000/vw 815/915/12140/13150",
+        "brand": "Ford/VW",
+        "code": "2SL141165",
+        "originalCode": "2SL141165",
+        "image": "img/products/isc/2SL141165.jpg",
+        "description": "Crapodina embrague c/porta ford 14000/vw 815/915/12140/13150 2SL141165",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
     }
 ];
 
