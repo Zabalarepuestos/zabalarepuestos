@@ -423,6 +423,76 @@
                 transform: translateY(0);
             }
         }
+
+        /* Brand Scroller Styles */
+        .catalog-hero {
+            position: relative;
+            overflow: hidden;
+            /* Prevent scrollbar if track goes wide */
+        }
+
+        .brand-scroller-container {
+            position: absolute;
+            bottom: 20px;
+            left: 0;
+            width: 100%;
+            overflow: hidden;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+            pointer-events: none;
+            z-index: 5;
+            mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+            -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+            padding: 10px 0;
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(2px);
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .catalog-hero:hover .brand-scroller-container {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+
+        .brand-track {
+            display: flex;
+            align-items: center;
+            gap: 4rem;
+            /* Spacing between logos */
+            width: max-content;
+            animation: scrollBrands 40s linear infinite;
+        }
+
+        .brand-track img {
+            height: 35px;
+            /* Adjust height as needed */
+            width: auto;
+            object-fit: contain;
+            filter: brightness(0) invert(1) opacity(0.7);
+            transition: all 0.3s ease;
+        }
+
+        .brand-track img:hover {
+            filter: brightness(0) invert(1) opacity(1);
+            transform: scale(1.1);
+        }
+
+        .brand-track:hover {
+            animation-play-state: paused;
+        }
+
+        @keyframes scrollBrands {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(-50%);
+            }
+        }
     </style>
 </head>
 
@@ -455,6 +525,43 @@
                     <span class="icon">⚠️</span>
                     <span>El catálogo se encuentra actualmente <strong>en construcción</strong>. Seguimos sumando
                         repuestos diariamente.</span>
+                </div>
+            </div>
+
+            <!-- Brand Scroller Animation -->
+            <div class="brand-scroller-container">
+                <div class="brand-track">
+                    <!-- Original Set -->
+                    <img src="img/Logo marcas para animacion catalogo/Cicarelli.png" alt="Cicarelli">
+                    <img src="img/Logo marcas para animacion catalogo/Cofap logo.png" alt="Cofap">
+                    <img src="img/Logo marcas para animacion catalogo/HC_Embragues_logo_indigo_880-280.png"
+                        alt="HC Embragues">
+                    <img src="img/Logo marcas para animacion catalogo/Logo Motorline.png" alt="Motorline">
+                    <img src="img/Logo marcas para animacion catalogo/Logo man.png" alt="MAN">
+                    <img src="img/Logo marcas para animacion catalogo/Logo wabco.png" alt="Wabco">
+                    <img src="img/Logo marcas para animacion catalogo/MAHLE.png" alt="Mahle">
+                    <img src="img/Logo marcas para animacion catalogo/Osram_Logo.svg.png" alt="Osram">
+                    <img src="img/Logo marcas para animacion catalogo/Sachs.png" alt="Sachs">
+                    <img src="img/Logo marcas para animacion catalogo/Wix.png" alt="Wix">
+                    <img src="img/Logo marcas para animacion catalogo/elring logo.png" alt="Elring">
+                    <img src="img/Logo marcas para animacion catalogo/knorr.png" alt="Knorr">
+                    <img src="img/Logo marcas para animacion catalogo/logo-Parker.png" alt="Parker">
+
+                    <!-- Duplicate Set for infinite scroll -->
+                    <img src="img/Logo marcas para animacion catalogo/Cicarelli.png" alt="Cicarelli">
+                    <img src="img/Logo marcas para animacion catalogo/Cofap logo.png" alt="Cofap">
+                    <img src="img/Logo marcas para animacion catalogo/HC_Embragues_logo_indigo_880-280.png"
+                        alt="HC Embragues">
+                    <img src="img/Logo marcas para animacion catalogo/Logo Motorline.png" alt="Motorline">
+                    <img src="img/Logo marcas para animacion catalogo/Logo man.png" alt="MAN">
+                    <img src="img/Logo marcas para animacion catalogo/Logo wabco.png" alt="Wabco">
+                    <img src="img/Logo marcas para animacion catalogo/MAHLE.png" alt="Mahle">
+                    <img src="img/Logo marcas para animacion catalogo/Osram_Logo.svg.png" alt="Osram">
+                    <img src="img/Logo marcas para animacion catalogo/Sachs.png" alt="Sachs">
+                    <img src="img/Logo marcas para animacion catalogo/Wix.png" alt="Wix">
+                    <img src="img/Logo marcas para animacion catalogo/elring logo.png" alt="Elring">
+                    <img src="img/Logo marcas para animacion catalogo/knorr.png" alt="Knorr">
+                    <img src="img/Logo marcas para animacion catalogo/logo-Parker.png" alt="Parker">
                 </div>
             </div>
         </section>
