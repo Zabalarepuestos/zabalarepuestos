@@ -11470,6 +11470,36 @@ const products = [
         "image": "img/products/isc/2SL141165.jpg",
         "description": "Crapodina embrague c/porta ford 14000/vw 815/915/12140/13150 2SL141165",
         "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1220",
+        "name": "Eje horquilla embrague Ford / vw 190mm VW13180/15180/17220",
+        "brand": "Ford/VW",
+        "code": "2VG141863 / 2RM141863",
+        "originalCode": "2VG141863 2RM141863",
+        "image": "img/products/isc/2VG141863.jpg",
+        "description": "Eje horquilla embrague Ford / vw 190mm VW13180/15180/17220 2VG141863 2RM141863",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1221",
+        "name": "Crapodina embrague c/porta ford cargo elect.5.9 1317E/1517E/1717E/1722E",
+        "brand": "Ford/VW",
+        "code": "1271029 / 1251040 / BH8X7543AA / BH7X7543AA",
+        "originalCode": "1271029 1251040 BH8X7543AA BH7X7543AA",
+        "image": "img/products/isc/BH8X7543AA.jpg",
+        "description": "Crapodina embrague c/porta ford cargo elect.5.9 1317E/1517E/1717E/1722E 1271029 1251040 BH8X7543AA BH7X7543AA",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1222",
+        "name": "Eje horquilla embrague ford / vw 220mm mod.91 al 99",
+        "brand": "Ford/VW",
+        "code": "tjg141863 / XC457590AA",
+        "originalCode": "tjg141863 XC457590AA",
+        "image": "img/products/isc/tjg141863.jpg",
+        "description": "Eje horquilla embrague ford / vw 220mm mod.91 al 99 tjg141863 XC457590AA",
+        "rubro": "EMBRAGUE (PLACAS-DISCOS)"
     }
 ];
 
