@@ -438,8 +438,8 @@
             /* Position at the top, just below fixed header */
             left: 0;
             width: 100%;
-            height: 60px;
-            /* Fixed height */
+            height: 100px;
+            /* Increased height for larger logos */
             overflow: hidden;
             opacity: 0;
             transform: translateY(-10px);
@@ -447,7 +447,7 @@
             transition: all 0.4s ease-out;
             pointer-events: none;
             z-index: 5;
-            mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+            mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
             -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
             display: flex;
             align-items: center;
@@ -472,14 +472,16 @@
         }
 
         .brand-track img {
-            height: 30px;
-            /* Slightly smaller for cleaner look */
+            height: 70px;
+            /* Significantly increased size */
             width: auto;
+            max-width: 180px;
+            /* Prevent overly wide logos */
             object-fit: contain;
             /* Fix for white backgrounds: Invert colors + Screen blend mode */
             filter: grayscale(1) invert(1) contrast(1.2);
             mix-blend-mode: screen;
-            opacity: 0.6;
+            opacity: 0.7;
             transition: all 0.3s ease;
         }
 
@@ -541,7 +543,7 @@
             <!-- Brand Scroller Animation -->
             <div class="brand-scroller-container">
                 <div class="brand-track">
-                    <!-- Original Set -->
+                    <!-- Set 1 -->
                     <img src="img/Logo marcas para animacion catalogo/Cicarelli.png" alt="Cicarelli">
                     <img src="img/Logo marcas para animacion catalogo/Cofap logo.png" alt="Cofap">
                     <img src="img/Logo marcas para animacion catalogo/HC_Embragues_logo_indigo_880-280.png"
@@ -557,7 +559,39 @@
                     <img src="img/Logo marcas para animacion catalogo/knorr.png" alt="Knorr">
                     <img src="img/Logo marcas para animacion catalogo/logo-Parker.png" alt="Parker">
 
-                    <!-- Duplicate Set for infinite scroll -->
+                    <!-- Set 2 -->
+                    <img src="img/Logo marcas para animacion catalogo/Cicarelli.png" alt="Cicarelli">
+                    <img src="img/Logo marcas para animacion catalogo/Cofap logo.png" alt="Cofap">
+                    <img src="img/Logo marcas para animacion catalogo/HC_Embragues_logo_indigo_880-280.png"
+                        alt="HC Embragues">
+                    <img src="img/Logo marcas para animacion catalogo/Logo Motorline.png" alt="Motorline">
+                    <img src="img/Logo marcas para animacion catalogo/Logo man.png" alt="MAN">
+                    <img src="img/Logo marcas para animacion catalogo/Logo wabco.png" alt="Wabco">
+                    <img src="img/Logo marcas para animacion catalogo/MAHLE.png" alt="Mahle">
+                    <img src="img/Logo marcas para animacion catalogo/Osram_Logo.svg.png" alt="Osram">
+                    <img src="img/Logo marcas para animacion catalogo/Sachs.png" alt="Sachs">
+                    <img src="img/Logo marcas para animacion catalogo/Wix.png" alt="Wix">
+                    <img src="img/Logo marcas para animacion catalogo/elring logo.png" alt="Elring">
+                    <img src="img/Logo marcas para animacion catalogo/knorr.png" alt="Knorr">
+                    <img src="img/Logo marcas para animacion catalogo/logo-Parker.png" alt="Parker">
+
+                    <!-- Set 3 -->
+                    <img src="img/Logo marcas para animacion catalogo/Cicarelli.png" alt="Cicarelli">
+                    <img src="img/Logo marcas para animacion catalogo/Cofap logo.png" alt="Cofap">
+                    <img src="img/Logo marcas para animacion catalogo/HC_Embragues_logo_indigo_880-280.png"
+                        alt="HC Embragues">
+                    <img src="img/Logo marcas para animacion catalogo/Logo Motorline.png" alt="Motorline">
+                    <img src="img/Logo marcas para animacion catalogo/Logo man.png" alt="MAN">
+                    <img src="img/Logo marcas para animacion catalogo/Logo wabco.png" alt="Wabco">
+                    <img src="img/Logo marcas para animacion catalogo/MAHLE.png" alt="Mahle">
+                    <img src="img/Logo marcas para animacion catalogo/Osram_Logo.svg.png" alt="Osram">
+                    <img src="img/Logo marcas para animacion catalogo/Sachs.png" alt="Sachs">
+                    <img src="img/Logo marcas para animacion catalogo/Wix.png" alt="Wix">
+                    <img src="img/Logo marcas para animacion catalogo/elring logo.png" alt="Elring">
+                    <img src="img/Logo marcas para animacion catalogo/knorr.png" alt="Knorr">
+                    <img src="img/Logo marcas para animacion catalogo/logo-Parker.png" alt="Parker">
+
+                    <!-- Set 4 -->
                     <img src="img/Logo marcas para animacion catalogo/Cicarelli.png" alt="Cicarelli">
                     <img src="img/Logo marcas para animacion catalogo/Cofap logo.png" alt="Cofap">
                     <img src="img/Logo marcas para animacion catalogo/HC_Embragues_logo_indigo_880-280.png"
