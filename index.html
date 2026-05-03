@@ -32,6 +32,8 @@
                     <li><a href="nosotros.html">Nosotros</a></li>
                     <li><a href="catalogo.html">Catálogo</a></li>
                     <li><a href="#marcas">Marcas</a></li>
+                    <li><a href="#cotizar">Cotizar</a></li>
+                    <li><a href="#faq">FAQ</a></li>
                     <li><a href="#ubicacion">Ubicación</a></li>
                 </ul>
             </nav>
@@ -54,6 +56,30 @@
                 </div>
             </div>
         </section>
+
+        <!-- Trust Banner -->
+        <div class="trust-banner">
+            <div class="container">
+                <div class="trust-grid">
+                    <div class="trust-item">
+                        <span class="trust-icon">✅</span>
+                        <span class="trust-text">Repuestos Originales y Alternativos</span>
+                    </div>
+                    <div class="trust-item">
+                        <span class="trust-icon">📍</span>
+                        <span class="trust-text">Retiro inmediato en local</span>
+                    </div>
+                    <div class="trust-item">
+                        <span class="trust-icon">💳</span>
+                        <span class="trust-text">Todos los medios de pago</span>
+                    </div>
+                    <div class="trust-item">
+                        <span class="trust-icon">🤝</span>
+                        <span class="trust-text">Asesoramiento Especializado</span>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
 
@@ -207,6 +233,77 @@
                     <div class="quality-image">
                         <img src="parts_image.png" alt="Repuestos de calidad">
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ Section -->
+        <section id="faq" class="faq-section">
+            <div class="container">
+                <h2 class="section-title">Preguntas Frecuentes</h2>
+                <div class="faq-container">
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            ¿Hacen envíos a domicilio?
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Actualmente trabajamos con <strong>retiro en local</strong> en nuestra sucursal ubicada en Av Rioja 931 Sur. Te esperamos para asesorarte personalmente en todo lo que necesites.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            ¿Qué medios de pago aceptan?
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Aceptamos efectivo, transferencias bancarias, tarjetas de débito y crédito. Consultá por promociones vigentes o facilidades de pago al momento de tu compra.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            ¿Traen repuestos a pedido?
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Sí, si no tenemos el repuesto específico en stock, podemos traerlo a pedido. Comunicate con nosotros por WhatsApp o completá el formulario de cotización para consultarnos sobre piezas especiales.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            ¿Tienen garantía los repuestos?
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Todos nuestros repuestos cuentan con garantía de fábrica por defectos de fabricación. Recordá conservar siempre tu factura de compra para cualquier reclamo o cambio necesario.</p>
+                            <p class="highlight-text" style="margin-top: 0.8rem; font-size: 0.95rem; color: #f87171;">⚠️ <strong>Importante:</strong> Los repuestos eléctricos no tienen cambio ni se aceptan devoluciones bajo ninguna circunstancia.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Cotización Section -->
+        <section id="cotizar" class="contact-section">
+            <div class="container">
+                <h2 class="section-title" style="margin-bottom: 1rem;">Cotizá tus Repuestos</h2>
+                <p class="contact-desc">Completá el formulario y te responderemos a la brevedad por WhatsApp con disponibilidad y precio exacto.</p>
+                <div class="contact-box">
+                    <form id="quoteForm">
+                        <div class="form-group">
+                            <label for="marca">Marca del Camión</label>
+                            <input type="text" id="marca" required placeholder="Ej: Mercedes Benz, Scania, Ford...">
+                        </div>
+                        <div class="form-group">
+                            <label for="modelo">Modelo y Año</label>
+                            <input type="text" id="modelo" required placeholder="Ej: 1114 año 1980, Axor 2035 año 2012...">
+                        </div>
+                        <div class="form-group">
+                            <label for="repuestos">Repuestos Necesarios</label>
+                            <textarea id="repuestos" rows="4" required placeholder="Detallá los repuestos que estás buscando. Si tenés número de pieza, mejor."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Solicitar Presupuesto por WhatsApp</button>
+                    </form>
                 </div>
             </div>
         </section>

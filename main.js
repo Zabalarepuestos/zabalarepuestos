@@ -201,4 +201,46 @@ document.addEventListener('DOMContentLoaded', () => {
             behavior: 'smooth'
         });
     });
+
+    // FAQ Accordion
+    const faqItems = document.querySelectorAll('.faq-item');
+    faqItems.forEach(item => {
+        const question = item.querySelector('.faq-question');
+        question.addEventListener('click', () => {
+            // Close other open items
+            faqItems.forEach(otherItem => {
+                if (otherItem !== item && otherItem.classList.contains('active')) {
+                    otherItem.classList.remove('active');
+                }
+            });
+            // Toggle current item
+            item.classList.toggle('active');
+        });
+    });
+
+    // Quote Form Submission to WhatsApp
+    const quoteForm = document.getElementById('quoteForm');
+    if (quoteForm) {
+        quoteForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            const marca = document.getElementById('marca').value.trim();
+            const modelo = document.getElementById('modelo').value.trim();
+            const repuestos = document.getElementById('repuestos').value.trim();
+            
+            if (marca && modelo && repuestos) {
+                // WhatsApp number from the footer/floating button: +5492645859764
+                const phoneNumber = '5492645859764'; 
+                
+                // Construct the message
+                const message = `*Hola Zabala Repuestos, quisiera cotizar lo siguiente:*%0A%0A*Marca:* ${encodeURIComponent(marca)}%0A*Modelo/Año:* ${encodeURIComponent(modelo)}%0A*Repuestos:*%0A${encodeURIComponent(repuestos)}`;
+                
+                // Open WhatsApp
+                window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank');
+                
+                // Reset form optionally
+                quoteForm.reset();
+            }
+        });
+    }
 });

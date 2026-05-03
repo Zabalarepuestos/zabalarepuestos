@@ -3,6 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('searchInput');
     const noResults = document.getElementById('noResults');
 
+    const productsData = typeof products !== 'undefined' ? products : [];
+
     // Render products function
     function renderProducts(productsToRender) {
         catalogGrid.innerHTML = '';
@@ -14,7 +16,10 @@ document.addEventListener('DOMContentLoaded', () => {
             noResults.style.display = 'none';
         }
 
-        productsToRender.forEach(product => {
+        // Limit to 100 to prevent browser crash
+        const limitedProducts = productsToRender.slice(0, 100);
+
+        limitedProducts.forEach(product => {
             const card = document.createElement('div');
             card.className = 'product-card catalog-card'; // Reusing product-card but adding catalog-card for specific tweaks
 
@@ -40,19 +45,21 @@ document.addEventListener('DOMContentLoaded', () => {
     // search filter
     function filterProducts(query) {
         const lowerQuery = query.toLowerCase();
-        const filtered = window.productsData.filter(product =>
+        const filtered = productsData.filter(product =>
             product.name.toLowerCase().includes(lowerQuery) ||
             product.description.toLowerCase().includes(lowerQuery) ||
-            (product.category && product.category.toLowerCase().includes(lowerQuery))
+            (product.brand && product.brand.toLowerCase().includes(lowerQuery))
         );
         renderProducts(filtered);
     }
 
     // Event listeners
-    searchInput.addEventListener('input', (e) => {
-        filterProducts(e.target.value);
-    });
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            filterProducts(e.target.value);
+        });
+    }
 
     // Initial render
-    renderProducts(window.productsData);
+    renderProducts(productsData);
 });
