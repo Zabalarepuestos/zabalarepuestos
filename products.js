@@ -11500,6 +11500,406 @@ const products = [
         "image": "img/products/isc/tjg141863.jpg",
         "description": "Eje horquilla embrague ford / vw 220mm mod.91 al 99 tjg141863 XC457590AA",
         "rubro": "EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P1223",
+        "name": "BULON PLAQUETA ARBOL LEVAS OM352",
+        "brand": "Mercedes Benz",
+        "code": "000912010040",
+        "originalCode": "000912010040",
+        "image": "img/products/om352/bulon-plaqueta-arbol-levas-om352.jpg",
+        "description": "Bulon para plaqueta de arbol de levas compatible con motor Mercedes Benz OM352.",
+        "rubro": "DISTRIBUCION"
+    },
+    {
+        "id": "P1224",
+        "name": "JUNTA TAPA VALVULAS OM352",
+        "brand": "Mercedes Benz",
+        "code": "3520160321",
+        "originalCode": "3520160321",
+        "image": "img/products/om352/junta-tapa-valvulas-om352.webp",
+        "description": "Junta de tapa de valvulas para motor Mercedes Benz OM352.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1225",
+        "name": "BOMBA DE AGUA OM352 1114/1517",
+        "brand": "Mercedes Benz",
+        "code": "3522002401",
+        "originalCode": "3522002401",
+        "image": "img/products/om352/bomba-agua-om352-sin-logo.jpg",
+        "description": "Bomba de agua para motores Mercedes Benz OM352, aplicaciones 1114 y 1517.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1226",
+        "name": "TERMOSTATO OM352",
+        "brand": "Mercedes Benz",
+        "code": "0032033275",
+        "originalCode": "0032033275",
+        "image": "img/products/om352/termostato-om352.jpg",
+        "description": "Termostato para circuito de refrigeracion de motor Mercedes Benz OM352.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1227",
+        "name": "INYECTOR COMPLETO OM352",
+        "brand": "Mercedes Benz",
+        "code": "0020173121",
+        "originalCode": "0020173121",
+        "image": "img/products/om352/inyector-completo-om352.jpg",
+        "description": "Inyector completo para motor Mercedes Benz OM352.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1228",
+        "name": "BOMBA ACEITE OM352",
+        "brand": "Mercedes Benz",
+        "code": "3521804801",
+        "originalCode": "3521804801 / 3431800101",
+        "image": "img/products/om352/bomba-aceite-om352.jpg",
+        "description": "Bomba de aceite para motor Mercedes Benz OM352.",
+        "rubro": "FILTROS Y LUBRICACION"
+    },
+    {
+        "id": "P1229",
+        "name": "AROS PISTON OM352 97MM",
+        "brand": "Mercedes Benz",
+        "code": "08-174311-80",
+        "originalCode": "08-174311-80",
+        "image": "img/products/om352/aros-piston-om352-v2.jpg",
+        "description": "Juego de aros de piston 97mm para motor Mercedes Benz OM352.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1230",
+        "name": "COJINETES BIELA OM352",
+        "brand": "Mercedes Benz",
+        "code": "71-3572/6",
+        "originalCode": "71-3572/6",
+        "image": "img/products/om352/cojinetes-biela-om352.jpg",
+        "description": "Juego de cojinetes de biela para motor Mercedes Benz OM352.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1231",
+        "name": "JUNTAS MULTIPLE ESCAPE OM352 6 CILINDROS",
+        "brand": "Mercedes Benz",
+        "code": "48821F5",
+        "originalCode": "48821F5",
+        "image": "img/products/om352/juntas-multiple-escape-om352-v2.jpg",
+        "description": "Juego de juntas de multiple de escape para motor Mercedes Benz OM352 6 cilindros.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1232",
+        "name": "BUCHA BIELA OM352",
+        "brand": "Mercedes Benz",
+        "code": "SBG-017-U",
+        "originalCode": "SBG-017-U",
+        "image": "img/products/om352/bucha-biela-om352.jpg",
+        "description": "Bucha de biela para motor Mercedes Benz OM352.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1233",
+        "name": "POLEA CIGUENAL OM 352 2 CANALES 1114 1518",
+        "brand": "Mercedes Benz",
+        "code": "10801",
+        "originalCode": "10801",
+        "image": "img/products/om352/polea-ciguenal-om352-2-canales-10801.jpg",
+        "description": "POLEA CIGUENAL OM 352 2 CANALES 1114 1518.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1234",
+        "name": "CARTER 1518 OM 352 CON ROSCA",
+        "brand": "Mercedes Benz",
+        "code": "01-277",
+        "originalCode": "01-277",
+        "image": "img/products/om352/carter-1518-om352-con-rosca-01-277.jpg",
+        "description": "CARTER 1518 OM 352 CON ROSCA.",
+        "rubro": "BLOCK DE MOTOR Y CARTER"
+    },
+    {
+        "id": "P1235",
+        "name": "CODO ADMISION OM 352 1518",
+        "brand": "Mercedes Benz",
+        "code": "MZ52002",
+        "originalCode": "MZ52002",
+        "image": "img/products/om352/codo-admision-om352-1518-mz52002.jpg",
+        "description": "CODO ADMISION OM 352 1518.",
+        "rubro": "MULTIPLE"
+    },
+    {
+        "id": "P1236",
+        "name": "VALVULA MOTOR ESCAPE OM 352 1114",
+        "brand": "Mercedes Benz",
+        "code": "22026 E+08",
+        "originalCode": "22026 E+08",
+        "image": "img/products/om352/valvula-motor-escape-om352-1114-22026e08.jpg",
+        "description": "VALVULA MOTOR ESCAPE OM 352 1114.",
+        "rubro": "VALVULA"
+    },
+    {
+        "id": "P1237",
+        "name": "ARBOL DE LEVAS OM 352 A 1518 94MM",
+        "brand": "Mercedes Benz",
+        "code": "41350179",
+        "originalCode": "41350179",
+        "image": "img/products/om352/arbol-levas-om352a-1518-41350179.jpg",
+        "description": "ARBOL DE LEVAS OM 352 A 1518 94MM.",
+        "rubro": "DISTRIBUCION"
+    },
+    {
+        "id": "P1238",
+        "name": "FILTRO ACEITE OM 352 1114 1517 1518",
+        "brand": "Mercedes Benz",
+        "code": "OX197D",
+        "originalCode": "OX197D",
+        "image": "img/products/om352/filtro-aceite-om352-ox197d.jpg",
+        "description": "FILTRO ACEITE OM 352 1114 1517 1518.",
+        "rubro": "FILTROS Y LUBRICACION"
+    },
+    {
+        "id": "P1239",
+        "name": "CAÑO LUBRICACION TURBO OM 352 A 1518",
+        "brand": "Mercedes Benz",
+        "code": "MV1705B",
+        "originalCode": "MV1705B",
+        "image": "img/products/om352/cano-lubricacion-turbo-om352a-mv1705b.jpg",
+        "description": "CAÑO LUBRICACION TURBO OM 352 A 1518.",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1240",
+        "name": "JUNTA CAÑERIA AGUA OM 352 1114 1518 JGO",
+        "brand": "Mercedes Benz",
+        "code": "15038",
+        "originalCode": "15038",
+        "image": "img/products/om352/junta-caneria-agua-om352-15038.jpg",
+        "description": "JUNTA CAÑERIA AGUA OM 352 1114 1518 JGO.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1241",
+        "name": "JUNTA CAÑO SALIDA ESCAPE OM 352 1114",
+        "brand": "Mercedes Benz",
+        "code": "15006",
+        "originalCode": "15006",
+        "image": "img/products/om352/junta-cano-salida-escape-om352-15006.jpg",
+        "description": "JUNTA CAÑO SALIDA ESCAPE OM 352 1114.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1242",
+        "name": "JUNTA MULTIPLE ESCAPE OM 352 1114 JGO",
+        "brand": "Mercedes Benz",
+        "code": "15010",
+        "originalCode": "15010",
+        "image": "img/products/om352/junta-multiple-escape-om352-15010.jpg",
+        "description": "JUNTA MULTIPLE ESCAPE OM 352 1114 JGO.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1243",
+        "name": "BOMBA ACEITE OM 352",
+        "brand": "Mercedes Benz",
+        "code": "40057",
+        "originalCode": "40057",
+        "image": "img/products/om352/bomba-aceite-om352-40057.jpg",
+        "description": "BOMBA ACEITE OM 352.",
+        "rubro": "FILTROS Y LUBRICACION"
+    },
+    {
+        "id": "P1244",
+        "name": "ARBOL DE LEVAS 1517",
+        "brand": "Mercedes Benz",
+        "code": "41350018",
+        "originalCode": "41350018",
+        "image": "img/products/om352/arbol-levas-1517-41350018.jpg",
+        "description": "ARBOL DE LEVAS 1517.",
+        "rubro": "DISTRIBUCION"
+    },
+    {
+        "id": "P1245",
+        "name": "AROS MOTOR OM 352",
+        "brand": "Mercedes Benz",
+        "code": "42924",
+        "originalCode": "42924",
+        "image": "img/products/om352/aros-motor-om352-42924.jpg",
+        "description": "AROS MOTOR OM 352.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1246",
+        "name": "AROS MOTOR OM 352",
+        "brand": "Mercedes Benz",
+        "code": "A48380",
+        "originalCode": "A48380",
+        "image": "img/products/om352/aros-motor-om352-a48380.jpg",
+        "description": "AROS MOTOR OM 352.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1247",
+        "name": "CAÑO INYECTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "M4/1",
+        "originalCode": "M4/1",
+        "image": "img/products/om352/cano-inyector-1114-m4-1.jpg",
+        "description": "CAÑO INYECTOR 1114.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1248",
+        "name": "CAÑO INYECTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "M4/2",
+        "originalCode": "M4/2",
+        "image": "img/products/om352/cano-inyector-1114-m4-2.jpg",
+        "description": "CAÑO INYECTOR 1114.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1249",
+        "name": "CAÑO INYECTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "M4/3",
+        "originalCode": "M4/3",
+        "image": "img/products/om352/cano-inyector-1114-m4-3.jpg",
+        "description": "CAÑO INYECTOR 1114.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1250",
+        "name": "CAÑO INYECTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "M4/4",
+        "originalCode": "M4/4",
+        "image": "img/products/om352/cano-inyector-1114-m4-4.jpg",
+        "description": "CAÑO INYECTOR 1114.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1251",
+        "name": "CAÑO INYECTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "M4/5",
+        "originalCode": "M4/5",
+        "image": "img/products/om352/cano-inyector-1114-m4-5.jpg",
+        "description": "CAÑO INYECTOR 1114.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1252",
+        "name": "COJINETE BANCADA OM 352",
+        "brand": "Mercedes Benz",
+        "code": "M48275",
+        "originalCode": "M48275",
+        "image": "img/products/om352/cojinete-bancada-om352-m48275.jpg",
+        "description": "COJINETE BANCADA OM 352.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1253",
+        "name": "SUBCONJUNTO OM 352 5R",
+        "brand": "Mercedes Benz",
+        "code": "S48100",
+        "originalCode": "S48100",
+        "image": "img/products/om352/subconjunto-om352-5r-s48100.jpg",
+        "description": "SUBCONJUNTO OM 352 5R.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1254",
+        "name": "SUBCONJUNTO OM 352 4R",
+        "brand": "Mercedes Benz",
+        "code": "S48130",
+        "originalCode": "S48130",
+        "image": "img/products/om352/subconjunto-om352-4r-s48130.jpg",
+        "description": "SUBCONJUNTO OM 352 4R.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1255",
+        "name": "TURBO OM 352 1114-1518",
+        "brand": "Mercedes Benz",
+        "code": "TC0480028",
+        "originalCode": "TC0480028",
+        "image": "img/products/om352/turbo-om352-1114-1518-tc0480028.jpg",
+        "description": "TURBO OM 352 1114-1518.",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1256",
+        "name": "JUNTA CARTER OM 352-366 1114 1518 1620",
+        "brand": "Mercedes Benz",
+        "code": "15041",
+        "originalCode": "15041",
+        "image": "img/products/om352/junta-carter-om352-366-15041.jpg",
+        "description": "JUNTA CARTER OM 352-366 1114 1518 1620.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1257",
+        "name": "ENGRANAJE BOMBA INYECTORA 1114",
+        "brand": "Mercedes Benz",
+        "code": "10330377",
+        "originalCode": "10330377",
+        "image": "img/products/om352/engranaje-bomba-inyectora-1114-10330377.jpg",
+        "description": "ENGRANAJE BOMBA INYECTORA 1114.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P1258",
+        "name": "BOMBA AGUA OM 352 1114-1518",
+        "brand": "Mercedes Benz",
+        "code": "401002",
+        "originalCode": "401002",
+        "image": "img/products/om352/bomba-agua-om352-401002.jpg",
+        "description": "BOMBA AGUA OM 352 1114-1518.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1259",
+        "name": "ARBOL DE LEVAS 1114 M/VIEJO",
+        "brand": "Mercedes Benz",
+        "code": "41350016",
+        "originalCode": "41350016",
+        "image": "img/products/om352/arbol-levas-1114-viejo-41350016.jpg",
+        "description": "ARBOL DE LEVAS 1114 M/VIEJO.",
+        "rubro": "DISTRIBUCION"
+    },
+    {
+        "id": "P1260",
+        "name": "AROS MOTOR OM 352 0,50",
+        "brand": "Mercedes Benz",
+        "code": "42924-050",
+        "originalCode": "42924-050",
+        "image": "img/products/om352/aros-motor-om352-050-42924-050.jpg",
+        "description": "AROS MOTOR OM 352 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1261",
+        "name": "CORONA ARRANQUE 1114 ANCHA",
+        "brand": "Mercedes Benz",
+        "code": "45330002",
+        "originalCode": "45330002",
+        "image": "img/products/om352/corona-arranque-1114-ancha-45330002.jpg",
+        "description": "CORONA ARRANQUE 1114 ANCHA.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1262",
+        "name": "COJINETE BANCADA OM 352 0,25",
+        "brand": "Mercedes Benz",
+        "code": "M48275-25",
+        "originalCode": "M48275-25",
+        "image": "img/products/om352/cojinete-bancada-om352-025-m48275-25.jpg",
+        "description": "COJINETE BANCADA OM 352 0,25.",
+        "rubro": "PIEZAS MOTRICES"
     }
 ];
 
