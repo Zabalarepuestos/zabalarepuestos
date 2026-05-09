@@ -11900,6 +11900,206 @@ const products = [
         "image": "img/products/om352/cojinete-bancada-om352-025-m48275-25.jpg",
         "description": "COJINETE BANCADA OM 352 0,25.",
         "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1263",
+        "name": "CAÑO DESCARGA TURBO 1518",
+        "brand": "Mercedes Benz",
+        "code": "MV1777",
+        "originalCode": "MV1777",
+        "image": "img/products/om352/cano-descarga-turbo-1518-mv1777.jpg",
+        "description": "CAÑO DESCARGA TURBO 1518.",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1264",
+        "name": "SUBCONJUNTO OM 352 5R 0,50",
+        "brand": "Mercedes Benz",
+        "code": "S48100-050",
+        "originalCode": "S48100-050",
+        "image": "img/products/om352/subconjunto-om352-5r-050-s48100-050.jpg",
+        "description": "SUBCONJUNTO OM 352 5R 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1265",
+        "name": "SUBCONJUNTO OM 352 3R 0,50",
+        "brand": "Mercedes Benz",
+        "code": "S48180-050",
+        "originalCode": "S48180-050",
+        "image": "img/products/om352/subconjunto-om352-3r-050-s48180-050.jpg",
+        "description": "SUBCONJUNTO OM 352 3R 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1266",
+        "name": "POLEA BOMBA AGUA 1518 FUNDICION",
+        "brand": "Mercedes Benz",
+        "code": "10804",
+        "originalCode": "10804",
+        "image": "img/products/om352/polea-bomba-agua-1518-10804.jpg",
+        "description": "POLEA BOMBA AGUA 1518 FUNDICION.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1267",
+        "name": "VALVULA MOTOR ADMISION 1114 +04",
+        "brand": "Mercedes Benz",
+        "code": "2026 A+04",
+        "originalCode": "2026 A+04",
+        "image": "img/products/om352/valvula-motor-admision-1114-04-2026a04.jpg",
+        "description": "VALVULA MOTOR ADMISION 1114 +04.",
+        "rubro": "VALVULA"
+    },
+    {
+        "id": "P1268",
+        "name": "ARBOL DE LEVAS 1114 M NUEVO",
+        "brand": "Mercedes Benz",
+        "code": "41350019",
+        "originalCode": "41350019",
+        "image": "img/products/om352/arbol-levas-1114-nuevo-41350019.jpg",
+        "description": "ARBOL DE LEVAS 1114 M NUEVO.",
+        "rubro": "DISTRIBUCION"
+    },
+    {
+        "id": "P1269",
+        "name": "AROS MOTOR OM 352 4 RANURAS",
+        "brand": "Mercedes Benz",
+        "code": "A48130",
+        "originalCode": "A48130",
+        "image": "img/products/om352/aros-motor-om352-4-ranuras-a48130.jpg",
+        "description": "AROS MOTOR OM 352 4 RANURAS.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1270",
+        "name": "FLEXIBLE BOMBA A FILTRO OM 352",
+        "brand": "Mercedes Benz",
+        "code": "MV0237A",
+        "originalCode": "MV0237A",
+        "image": "img/products/om352/flexible-bomba-filtro-om352-mv0237a.jpg",
+        "description": "FLEXIBLE BOMBA A FILTRO OM 352.",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P1271",
+        "name": "MANGUERA DESCARGA ACEITE TURBO OM 352",
+        "brand": "Mercedes Benz",
+        "code": "MZ12005",
+        "originalCode": "MZ12005",
+        "image": "img/products/om352/manguera-descarga-aceite-turbo-om352-mz12005.jpg",
+        "description": "MANGUERA DESCARGA ACEITE TURBO OM 352.",
+        "rubro": "TURBO"
+    },
+    {
+        "id": "P1272",
+        "name": "JUNTA BOMBA AGUA OM 352",
+        "brand": "Mercedes Benz",
+        "code": "15030",
+        "originalCode": "15030",
+        "image": "img/products/om352/junta-bomba-agua-om352-15030.jpg",
+        "description": "JUNTA BOMBA AGUA OM 352.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1273",
+        "name": "JUNTA TAPA VALVULA OM 352",
+        "brand": "Mercedes Benz",
+        "code": "711913740",
+        "originalCode": "711913740",
+        "image": "img/products/om352/junta-tapa-valvula-om352-711913740.jpg",
+        "description": "JUNTA TAPA VALVULA OM 352.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1274",
+        "name": "SUBCONJUNTO OM 352A 1518 3R 0,50",
+        "brand": "Mercedes Benz",
+        "code": "S48300-050",
+        "originalCode": "S48300-050",
+        "image": "img/products/om352/subconjunto-om352a-1518-3r-050-s48300-050.jpg",
+        "description": "SUBCONJUNTO OM 352A 1518 3R 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1275",
+        "name": "SUBCONJUNTO OM 352A 1518 3R 1,00",
+        "brand": "Mercedes Benz",
+        "code": "S48300-100",
+        "originalCode": "S48300-100",
+        "image": "img/products/om352/subconjunto-om352a-1518-3r-100-s48300-100.jpg",
+        "description": "SUBCONJUNTO OM 352A 1518 3R 1,00.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1276",
+        "name": "VALVULA MOTOR ESCAPE OM 352A 1517 TURBO",
+        "brand": "Mercedes Benz",
+        "code": "22032 E",
+        "originalCode": "22032 E",
+        "image": "img/products/om352/valvula-motor-escape-om352a-1517-turbo-22032e.jpg",
+        "description": "VALVULA MOTOR ESCAPE OM 352A 1517 TURBO.",
+        "rubro": "VALVULA"
+    },
+    {
+        "id": "P1277",
+        "name": "JGO JUNTAS TURBO OM 352A 1518",
+        "brand": "Mercedes Benz",
+        "code": "15019",
+        "originalCode": "15019",
+        "image": "img/products/om352/jgo-juntas-turbo-om352a-15019.jpg",
+        "description": "JGO JUNTAS TURBO OM 352A 1518.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1278",
+        "name": "JUNTA RADIADOR DE ACEITE OM 352 JGO",
+        "brand": "Mercedes Benz",
+        "code": "15047",
+        "originalCode": "15047",
+        "image": "img/products/om352/junta-radiador-aceite-om352-15047.jpg",
+        "description": "JUNTA RADIADOR DE ACEITE OM 352 JGO.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1279",
+        "name": "BOMBA ALIMENTADORA GAS OIL OM 352",
+        "brand": "Mercedes Benz",
+        "code": "BA130/22",
+        "originalCode": "BA130/22",
+        "image": "img/products/om352/bomba-alimentadora-gasoil-om352-ba130-22.jpg",
+        "description": "BOMBA ALIMENTADORA GAS OIL OM 352.",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P1280",
+        "name": "AROS MOTOR OM 352 5 RANURAS 2 CILINDROS",
+        "brand": "Mercedes Benz",
+        "code": "C52276",
+        "originalCode": "C52276",
+        "image": "img/products/om352/aros-motor-om352-5-ranuras-c52276.jpg",
+        "description": "AROS MOTOR OM 352 5 RANURAS 2 CILINDROS.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1281",
+        "name": "JGO JUNTA CAÑO AGUA OM 352",
+        "brand": "Mercedes Benz",
+        "code": "00015308",
+        "originalCode": "00015308",
+        "image": "img/products/om352/jgo-junta-cano-agua-om352-00015308.jpg",
+        "description": "JGO JUNTA CAÑO AGUA OM 352.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1282",
+        "name": "JGO JUNTAS MOTOR COMPLETO OM 352A 1518",
+        "brand": "Mercedes Benz",
+        "code": "48806EFPSD",
+        "originalCode": "48806EFPSD",
+        "image": "img/products/om352/jgo-juntas-motor-completo-om352a-48806efpsd.jpg",
+        "description": "JGO JUNTAS MOTOR COMPLETO OM 352A 1518.",
+        "rubro": "JUNTAS"
     }
 ];
 
