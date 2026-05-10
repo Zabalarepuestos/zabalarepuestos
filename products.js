@@ -12100,6 +12100,1296 @@ const products = [
         "image": "img/products/om352/jgo-juntas-motor-completo-om352a-48806efpsd.jpg",
         "description": "JGO JUNTAS MOTOR COMPLETO OM 352A 1518.",
         "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1283",
+        "name": "AROS MOTOR OM 352 2 CILINDROS",
+        "brand": "Mercedes Benz",
+        "code": "48410",
+        "originalCode": "48410",
+        "image": "img/products/om352/aros-motor-om352-2-cilindros-48410.jpg",
+        "description": "AROS MOTOR OM 352 2 CILINDROS.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1284",
+        "name": "SUBCONJUNTO OM 352A 1518 3R",
+        "brand": "Mercedes Benz",
+        "code": "S48300",
+        "originalCode": "S48300",
+        "image": "img/products/om352/subconjunto-om352a-1518-3r-s48300.jpg",
+        "description": "SUBCONJUNTO OM 352A 1518 3R.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1285",
+        "name": "COJINETE BANCADA OM 352 1,00",
+        "brand": "Mercedes Benz",
+        "code": "M48275-100",
+        "originalCode": "M48275-100",
+        "image": "img/products/om352/cojinete-bancada-om352-100-m48275-100.jpg",
+        "description": "COJINETE BANCADA OM 352 1,00.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1286",
+        "name": "COJINETE BANCADA OM 352 0,50",
+        "brand": "Mercedes Benz",
+        "code": "M48275-50",
+        "originalCode": "M48275-50",
+        "image": "img/products/om352/cojinete-bancada-om352-050-m48275-50.jpg",
+        "description": "COJINETE BANCADA OM 352 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1287",
+        "name": "COJINETE BANCADA OM 352 0,75",
+        "brand": "Mercedes Benz",
+        "code": "M48275-75",
+        "originalCode": "M48275-75",
+        "image": "img/products/om352/cojinete-bancada-om352-075-m48275-75.jpg",
+        "description": "COJINETE BANCADA OM 352 0,75.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1288",
+        "name": "BULON CIGUENAL OM 366 352 1114 1518 1620 1215",
+        "brand": "Mercedes Benz",
+        "code": "1800",
+        "originalCode": "1800",
+        "image": "img/products/om352/bulon-ciguenal-om352-1800.jpg",
+        "description": "BULON CIGUENAL OM 366 352 1114 1518 1620 1215.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1289",
+        "name": "CODO GOMA TAPA VALVULA OM 352",
+        "brand": "Mercedes Benz",
+        "code": "MZ52001",
+        "originalCode": "MZ52001",
+        "image": "img/products/om352/codo-goma-tapa-valvula-om352-mz52001.jpg",
+        "description": "CODO GOMA TAPA VALVULA OM 352.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1290",
+        "name": "MANGUERA INTERCOOLER A ADMISION 1517",
+        "brand": "Mercedes Benz",
+        "code": "FD13005",
+        "originalCode": "FD13005",
+        "image": "img/products/om352/manguera-intercooler-admision-1517-fd13005.jpg",
+        "description": "MANGUERA INTERCOOLER A ADMISION 1517.",
+        "rubro": "ADMISION"
+    },
+    {
+        "id": "P1291",
+        "name": "TACO MOTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "1043",
+        "originalCode": "1043",
+        "image": "img/products/om352/taco-motor-1114-1043.jpg",
+        "description": "TACO MOTOR 1114.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1292",
+        "name": "TACO MOTOR DELANTERO 1518",
+        "brand": "Mercedes Benz",
+        "code": "1251",
+        "originalCode": "1251",
+        "image": "img/products/om352/taco-motor-delantero-1518-1251.jpg",
+        "description": "TACO MOTOR DELANTERO 1518.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1293",
+        "name": "TRAVESAÑO DELANTERO MOTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "977",
+        "originalCode": "977",
+        "image": "img/products/om352/travesano-delantero-motor-1114-977.jpg",
+        "description": "TRAVESAÑO DELANTERO MOTOR 1114.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1294",
+        "name": "TRAVESAÑO DELANTERO MOTOR 1518",
+        "brand": "Mercedes Benz",
+        "code": "978",
+        "originalCode": "978",
+        "image": "img/products/om352/travesano-delantero-motor-1518-978.jpg",
+        "description": "TRAVESAÑO DELANTERO MOTOR 1518.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1295",
+        "name": "TRAVESAÑO TRASERO MOTOR 1518",
+        "brand": "Mercedes Benz",
+        "code": "980",
+        "originalCode": "980",
+        "image": "img/products/om352/travesano-trasero-motor-1518-980.jpg",
+        "description": "TRAVESAÑO TRASERO MOTOR 1518.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1296",
+        "name": "BULON VOLANTE MOTOR OM 366 1215 1620 1518 1114",
+        "brand": "Mercedes Benz",
+        "code": "1840",
+        "originalCode": "1840",
+        "image": "img/products/om352/bulon-volante-motor-om366-352-1840.jpg",
+        "description": "BULON VOLANTE MOTOR OM 366 1215 1620 1518 1114.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1297",
+        "name": "SOPORTE MOTOR TRASERO 1518",
+        "brand": "Mercedes Benz",
+        "code": "1252",
+        "originalCode": "1252",
+        "image": "img/products/om352/soporte-motor-trasero-1518-1252.jpg",
+        "description": "SOPORTE MOTOR TRASERO 1518.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1298",
+        "name": "SOPORTE FILTRO AIRE 1518",
+        "brand": "Mercedes Benz",
+        "code": "718",
+        "originalCode": "718",
+        "image": "img/products/om352/soporte-filtro-aire-1518-718.jpg",
+        "description": "SOPORTE FILTRO AIRE 1518.",
+        "rubro": "ADMISION"
+    },
+    {
+        "id": "P1299",
+        "name": "TENSOR CAJA MOTOR 1518",
+        "brand": "Mercedes Benz",
+        "code": "MIC0836",
+        "originalCode": "MIC0836",
+        "image": "img/products/om352/tensor-caja-motor-1518-mic0836.jpg",
+        "description": "TENSOR CAJA MOTOR 1518.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1300",
+        "name": "MULTIPLE ESCAPE M BENZ 1518 OM 352A",
+        "brand": "Mercedes Benz",
+        "code": "0055",
+        "originalCode": "0055",
+        "image": "img/products/om352/multiple-escape-1518-om352a-0055.jpg",
+        "description": "MULTIPLE ESCAPE M BENZ 1518 OM 352A.",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P1301",
+        "name": "ARBOL DE LEVAS 1517 P/V BIELA ANCHA",
+        "brand": "Mercedes Benz",
+        "code": "41350023",
+        "originalCode": "41350023",
+        "image": "img/products/om352/arbol-levas-1517-biela-ancha-41350023.jpg",
+        "description": "ARBOL DE LEVAS 1517 P/V BIELA ANCHA.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1302",
+        "name": "AROS MOTOR OM 352 2 CILINDROS 0,50",
+        "brand": "Mercedes Benz",
+        "code": "48410-050",
+        "originalCode": "48410-050",
+        "image": "img/products/om352/aros-motor-om352-2-cilindros-050-48410-050.jpg",
+        "description": "AROS MOTOR OM 352 2 CILINDROS 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1303",
+        "name": "AROS MOTOR OM 352 5 RANURAS 2 CILINDROS 1,00",
+        "brand": "Mercedes Benz",
+        "code": "C52276-100",
+        "originalCode": "C52276-100",
+        "image": "img/products/om352/aros-motor-om352-5-ranuras-100-c52276-100.jpg",
+        "description": "AROS MOTOR OM 352 5 RANURAS 2 CILINDROS 1,00.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1304",
+        "name": "JUNTA CAÑO SALIDA ESCAPE OM 352A 1518",
+        "brand": "Mercedes Benz",
+        "code": "15007",
+        "originalCode": "15007",
+        "image": "img/products/om352/junta-cano-salida-escape-om352a-15007.jpg",
+        "description": "JUNTA CAÑO SALIDA ESCAPE OM 352A 1518.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1305",
+        "name": "JUNTA MULTIPLE ESCAPE OM 352A 1518 JGO",
+        "brand": "Mercedes Benz",
+        "code": "15012",
+        "originalCode": "15012",
+        "image": "img/products/om352/junta-multiple-escape-om352a-15012.jpg",
+        "description": "JUNTA MULTIPLE ESCAPE OM 352A 1518 JGO.",
+        "rubro": "JUNTAS"
+    },
+    {
+        "id": "P1306",
+        "name": "FILTRO AIRE SEGURIDAD LX 2533 CARGO 1317 1517",
+        "brand": "Mercedes Benz",
+        "code": "LXS296",
+        "originalCode": "LXS296",
+        "image": "img/products/om352/filtro-aire-seguridad-lxs296.jpg",
+        "description": "FILTRO AIRE SEGURIDAD LX 2533 CARGO 1317 1517.",
+        "rubro": "ADMISION"
+    },
+    {
+        "id": "P1307",
+        "name": "BULBO PRESION ACEITE 2 SALIDAS",
+        "brand": "Mercedes Benz",
+        "code": "0015425617/1",
+        "originalCode": "0015425617/1",
+        "image": "img/products/om352/bulbo-presion-aceite-2-salidas-0015425617-1.jpg",
+        "description": "BULBO PRESION ACEITE 2 SALIDAS.",
+        "rubro": "LUBRICACION"
+    },
+    {
+        "id": "P1308",
+        "name": "APOYO SOPORTE MOTOR TRASERO DERECHO 1517",
+        "brand": "Mercedes Benz",
+        "code": "921D",
+        "originalCode": "921D",
+        "image": "img/products/om352/apoyo-soporte-motor-trasero-derecho-1517-921d.jpg",
+        "description": "APOYO SOPORTE MOTOR TRASERO DERECHO 1517.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1309",
+        "name": "APOYO SOPORTE MOTOR TRASERO IZQUIERDO 1517",
+        "brand": "Mercedes Benz",
+        "code": "921E",
+        "originalCode": "921E",
+        "image": "img/products/om352/apoyo-soporte-motor-trasero-izquierdo-1517-921e.jpg",
+        "description": "APOYO SOPORTE MOTOR TRASERO IZQUIERDO 1517.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1310",
+        "name": "MANGUERA RADIADOR SUPERIOR 1317 1517 ELECTRONICO",
+        "brand": "Mercedes Benz",
+        "code": "FD11007",
+        "originalCode": "FD11007",
+        "image": "img/products/om352/manguera-radiador-superior-1317-1517-fd11007.jpg",
+        "description": "MANGUERA RADIADOR SUPERIOR 1317 1517 ELECTRONICO.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1311",
+        "name": "FUELLE UNION TOMA AIRE 80 MM 1114",
+        "brand": "Mercedes Benz",
+        "code": "1046",
+        "originalCode": "1046",
+        "image": "img/products/om352/fuelle-union-toma-aire-80mm-1114-1046.jpg",
+        "description": "FUELLE UNION TOMA AIRE 80 MM 1114.",
+        "rubro": "ADMISION"
+    },
+    {
+        "id": "P1312",
+        "name": "TAPA LLENADO ACEITE MOTOR OM352-366",
+        "brand": "Mercedes Benz",
+        "code": "50210",
+        "originalCode": "50210",
+        "image": "img/products/om352/tapa-llenado-aceite-motor-om352-366-50210.jpg",
+        "description": "TAPA LLENADO ACEITE MOTOR OM352-366.",
+        "rubro": "LUBRICACION"
+    },
+    {
+        "id": "P1313",
+        "name": "MULTIPLE ESCAPE 1114 OM 352",
+        "brand": "Mercedes Benz",
+        "code": "1001",
+        "originalCode": "1001",
+        "image": "img/products/om352/multiple-escape-1114-om352-1001.jpg",
+        "description": "MULTIPLE ESCAPE 1114 OM 352.",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P1314",
+        "name": "CAÑO RIGIDO OM 352",
+        "brand": "Mercedes Benz",
+        "code": "MV0206",
+        "originalCode": "MV0206",
+        "image": "img/products/om352/cano-rigido-om352-mv0206.jpg",
+        "description": "CAÑO RIGIDO OM 352.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1315",
+        "name": "REFRIGERADOR ACEITE OM 352",
+        "brand": "Mercedes Benz",
+        "code": "056",
+        "originalCode": "056",
+        "image": "img/products/om352/refrigerador-aceite-om352-056.jpg",
+        "description": "REFRIGERADOR ACEITE OM 352.",
+        "rubro": "LUBRICACION"
+    },
+    {
+        "id": "P1316",
+        "name": "AROS MOTOR OM 352 1,00",
+        "brand": "Mercedes Benz",
+        "code": "42924-100",
+        "originalCode": "42924-100",
+        "image": "img/products/om352/aros-motor-om352-100-42924-100.jpg",
+        "description": "AROS MOTOR OM 352 1,00.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1317",
+        "name": "TRAVESAÑO TRASERO MOTOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "665",
+        "originalCode": "665",
+        "image": "img/products/om352/travesano-trasero-motor-1114-665.jpg",
+        "description": "TRAVESAÑO TRASERO MOTOR 1114.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1318",
+        "name": "FLEXIBLE MANOMETRO ACEITE 1114",
+        "brand": "Mercedes Benz",
+        "code": "MV0181",
+        "originalCode": "MV0181",
+        "image": "img/products/om352/flexible-manometro-aceite-1114-mv0181.jpg",
+        "description": "FLEXIBLE MANOMETRO ACEITE 1114.",
+        "rubro": "LUBRICACION"
+    },
+    {
+        "id": "P1319",
+        "name": "SUBCONJUNTO COMPRESOR 77MM 1114",
+        "brand": "Mercedes Benz",
+        "code": "S48010",
+        "originalCode": "S48010",
+        "image": "img/products/om352/subconjunto-compresor-77mm-1114-s48010.jpg",
+        "description": "SUBCONJUNTO COMPRESOR 77MM 1114.",
+        "rubro": "FRENOS Y AIRE"
+    },
+    {
+        "id": "P1320",
+        "name": "SUBCONJUNTO OM 352 4R 0,50",
+        "brand": "Mercedes Benz",
+        "code": "S48130-050",
+        "originalCode": "S48130-050",
+        "image": "img/products/om352/subconjunto-om352-4r-050-s48130-050.jpg",
+        "description": "SUBCONJUNTO OM 352 4R 0,50.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1321",
+        "name": "COJINETE BANCADA OM 352 PESTAÑA SUPERMEDIDA",
+        "brand": "Mercedes Benz",
+        "code": "M48135",
+        "originalCode": "M48135",
+        "image": "img/products/om352/cojinete-bancada-om352-pestana-supermedida-m48135.jpg",
+        "description": "COJINETE BANCADA OM 352 PESTAÑA SUPERMEDIDA.",
+        "rubro": "PIEZAS MOTRICES"
+    },
+    {
+        "id": "P1322",
+        "name": "KIT SATELITE PLANETARIO 1114 EURO",
+        "brand": "Mercedes Benz",
+        "code": "206825/1",
+        "originalCode": "206825/1",
+        "image": "img/products/om352/kit-satelite-planetario-1114-euro-206825-1.jpg",
+        "description": "KIT SATELITE PLANETARIO 1114 EURO.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1323",
+        "name": "PORTA CORONA VACIO 1114 ALTA",
+        "brand": "Mercedes Benz",
+        "code": "21350006",
+        "originalCode": "21350006",
+        "image": "img/products/om352/porta-corona-vacio-1114-alta-21350006.jpg",
+        "description": "PORTA CORONA VACIO 1114 ALTA.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1324",
+        "name": "TUERCA CAÑONERA 1517 STD 73.5MM",
+        "brand": "Mercedes Benz",
+        "code": "215",
+        "originalCode": "215",
+        "image": "img/products/om352/tuerca-canonera-1517-std-215.jpg",
+        "description": "TUERCA CAÑONERA 1517 STD 73.5MM.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1325",
+        "name": "BRIDA CARDAN 8 AUG 1518",
+        "brand": "Mercedes Benz",
+        "code": "24351003",
+        "originalCode": "24351003",
+        "image": "img/products/om352/brida-cardan-1518-24351003.jpg",
+        "description": "BRIDA CARDAN 8 AUG 1518.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1326",
+        "name": "EXTREMO DIRECCION 1114 DER 5009",
+        "brand": "Mercedes Benz",
+        "code": "2504",
+        "originalCode": "2504",
+        "image": "img/products/om352/extremo-direccion-1114-der-2504.jpg",
+        "description": "EXTREMO DIRECCION 1114 DER 5009.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P1327",
+        "name": "EXTREMO DIRECCION 1114 IZQ 5010",
+        "brand": "Mercedes Benz",
+        "code": "2505",
+        "originalCode": "2505",
+        "image": "img/products/om352/extremo-direccion-1114-izq-2505.jpg",
+        "description": "EXTREMO DIRECCION 1114 IZQ 5010.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P1328",
+        "name": "EXTREMO DIRECCION 1517 DER 5011",
+        "brand": "Mercedes Benz",
+        "code": "2506",
+        "originalCode": "2506",
+        "image": "img/products/om352/extremo-direccion-1517-der-2506.jpg",
+        "description": "EXTREMO DIRECCION 1517 DER 5011.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P1329",
+        "name": "EXTREMO DIRECCION 1517 IZQ 5012",
+        "brand": "Mercedes Benz",
+        "code": "2507",
+        "originalCode": "2507",
+        "image": "img/products/om352/extremo-direccion-1517-izq-2507.jpg",
+        "description": "EXTREMO DIRECCION 1517 IZQ 5012.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P1330",
+        "name": "CRUZ DIFERENCIAL 1114 EATON 162",
+        "brand": "Mercedes Benz",
+        "code": "25971USA",
+        "originalCode": "25971USA",
+        "image": "img/products/om352/cruz-diferencial-1114-eaton-25971usa.jpg",
+        "description": "CRUZ DIFERENCIAL 1114 EATON 162.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1331",
+        "name": "CONTACTOR ARRANQUE CON TAMBOR 1518",
+        "brand": "Mercedes Benz",
+        "code": "13013",
+        "originalCode": "13013",
+        "image": "img/products/om352/contactor-arranque-1518-13013.jpg",
+        "description": "CONTACTOR ARRANQUE CON TAMBOR 1518.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P1332",
+        "name": "VALVULA FRENO MANO ASIENTO 1517",
+        "brand": "Mercedes Benz",
+        "code": "14220310",
+        "originalCode": "14220310",
+        "image": "img/products/om352/valvula-freno-mano-asiento-1517-14220310.jpg",
+        "description": "VALVULA FRENO MANO ASIENTO 1517.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1333",
+        "name": "BURLETE PARABRISAS 1114 TECHO BAJO",
+        "brand": "Mercedes Benz",
+        "code": "39221",
+        "originalCode": "39221",
+        "image": "img/products/om352/burlete-parabrisas-1114-techo-bajo-39221.jpg",
+        "description": "BURLETE PARABRISAS 1114 TECHO BAJO.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1334",
+        "name": "SOPORTE TANQUE AIRE 1114 SIMPLE",
+        "brand": "Mercedes Benz",
+        "code": "421",
+        "originalCode": "421",
+        "image": "img/products/om352/soporte-tanque-aire-1114-421.jpg",
+        "description": "SOPORTE TANQUE AIRE 1114 SIMPLE.",
+        "rubro": "FRENOS Y AIRE"
+    },
+    {
+        "id": "P1335",
+        "name": "MANIJA INTERIOR PUERTA IZQUIERDA 1114",
+        "brand": "Mercedes Benz",
+        "code": "50119",
+        "originalCode": "50119",
+        "image": "img/products/om352/manija-interior-puerta-izq-1114-50119.jpg",
+        "description": "MANIJA INTERIOR PUERTA IZQUIERDA 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1336",
+        "name": "MANIJA INTERIOR PUERTA 1114 DERECHA",
+        "brand": "Mercedes Benz",
+        "code": "50120",
+        "originalCode": "50120",
+        "image": "img/products/om352/manija-interior-puerta-der-1114-50120.jpg",
+        "description": "MANIJA INTERIOR PUERTA 1114 DERECHA.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1337",
+        "name": "MARCO DE PUERTA H DERECHA 1114",
+        "brand": "Mercedes Benz",
+        "code": "50180",
+        "originalCode": "50180",
+        "image": "img/products/om352/marco-puerta-derecha-1114-50180.jpg",
+        "description": "MARCO DE PUERTA H DERECHA 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1338",
+        "name": "TAMBOR CONTACTO Y LUCES 1114",
+        "brand": "Mercedes Benz",
+        "code": "50222",
+        "originalCode": "50222",
+        "image": "img/products/om352/tambor-contacto-luces-1114-50222.jpg",
+        "description": "TAMBOR CONTACTO Y LUCES 1114.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P1339",
+        "name": "CRUZ DIFERENCIAL 1518 30 MM",
+        "brand": "Mercedes Benz",
+        "code": "60170249",
+        "originalCode": "60170249",
+        "image": "img/products/om352/cruz-diferencial-1518-30mm-60170249.jpg",
+        "description": "CRUZ DIFERENCIAL 1518 30 MM.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1340",
+        "name": "SOPORTE CABINA TRASERO 1114",
+        "brand": "Mercedes Benz",
+        "code": "886",
+        "originalCode": "886",
+        "image": "img/products/om352/soporte-cabina-trasero-1114-886.jpg",
+        "description": "SOPORTE CABINA TRASERO 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1341",
+        "name": "CINTA FRENO TRASERA 1517 JGO",
+        "brand": "Mercedes Benz",
+        "code": "FD84",
+        "originalCode": "FD84",
+        "image": "img/products/om352/cinta-freno-trasera-1517-fd84.jpg",
+        "description": "CINTA FRENO TRASERA 1517 JGO.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1342",
+        "name": "CABLE VELOCIMETRO 1517 CUADRANTE GRUESO",
+        "brand": "Mercedes Benz",
+        "code": "FR1321",
+        "originalCode": "FR1321",
+        "image": "img/products/om352/cable-velocimetro-1517-fr1321.jpg",
+        "description": "CABLE VELOCIMETRO 1517 CUADRANTE GRUESO.",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P1343",
+        "name": "CABLE CAPOT 1114",
+        "brand": "Mercedes Benz",
+        "code": "FR480",
+        "originalCode": "FR480",
+        "image": "img/products/om352/cable-capot-1114-fr480.jpg",
+        "description": "CABLE CAPOT 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1344",
+        "name": "LENTE FARO TRASERO 1517",
+        "brand": "Mercedes Benz",
+        "code": "L1517",
+        "originalCode": "L1517",
+        "image": "img/products/om352/lente-faro-trasero-1517-l1517.jpg",
+        "description": "LENTE FARO TRASERO 1517.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P1345",
+        "name": "TORRETA PALANCA CAMBIO 1114 ALUMINIO",
+        "brand": "Mercedes Benz",
+        "code": "MIC0251",
+        "originalCode": "MIC0251",
+        "image": "img/products/om352/torreta-palanca-cambio-1114-mic0251.jpg",
+        "description": "TORRETA PALANCA CAMBIO 1114 ALUMINIO.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1346",
+        "name": "PLACA Y DISCO 1518 DIAFRAGMA 310MM",
+        "brand": "Mercedes Benz",
+        "code": "MM00310D",
+        "originalCode": "MM00310D",
+        "image": "img/products/om352/placa-disco-1518-diafragma-mm00310d.jpg",
+        "description": "PLACA Y DISCO 1518 DIAFRAGMA 310MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1347",
+        "name": "FLEXIBLE ALTA Y BAJA DIFERENCIAL 1518",
+        "brand": "Mercedes Benz",
+        "code": "MV1715",
+        "originalCode": "MV1715",
+        "image": "img/products/om352/flexible-alta-baja-diferencial-1518-mv1715.jpg",
+        "description": "FLEXIBLE ALTA Y BAJA DIFERENCIAL 1518.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1348",
+        "name": "MANGUERA RADIADOR INFERIOR 1114 RECTA",
+        "brand": "Mercedes Benz",
+        "code": "MZ51002",
+        "originalCode": "MZ51002",
+        "image": "img/products/om352/manguera-radiador-inferior-1114-mz51002.jpg",
+        "description": "MANGUERA RADIADOR INFERIOR 1114 RECTA.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1349",
+        "name": "MANGUERA RADIADOR INFERIOR 1517 CURVA",
+        "brand": "Mercedes Benz",
+        "code": "MZ51006",
+        "originalCode": "MZ51006",
+        "image": "img/products/om352/manguera-radiador-inferior-1517-mz51006.jpg",
+        "description": "MANGUERA RADIADOR INFERIOR 1517 CURVA.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1350",
+        "name": "TAPA DE BATERIA 200 AMP M/V 1114",
+        "brand": "Mercedes Benz",
+        "code": "01-426",
+        "originalCode": "01-426",
+        "image": "img/products/om352/tapa-bateria-1114-01-426.jpg",
+        "description": "TAPA DE BATERIA 200 AMP M/V 1114.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P1351",
+        "name": "TUERCA PUNTA EJE 1114",
+        "brand": "Mercedes Benz",
+        "code": "257",
+        "originalCode": "257",
+        "image": "img/products/om352/tuerca-punta-eje-1114-257.jpg",
+        "description": "TUERCA PUNTA EJE 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1352",
+        "name": "FLEXIBLE FRENO 1517 TRASERO",
+        "brand": "Mercedes Benz",
+        "code": "68139",
+        "originalCode": "68139",
+        "image": "img/products/om352/flexible-freno-1517-trasero-68139.jpg",
+        "description": "FLEXIBLE FRENO 1517 TRASERO.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1353",
+        "name": "ESQUINERO INTERIOR DER 1114",
+        "brand": "Mercedes Benz",
+        "code": "789D",
+        "originalCode": "789D",
+        "image": "img/products/om352/esquinero-interior-der-1114-789d.jpg",
+        "description": "ESQUINERO INTERIOR DER 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1354",
+        "name": "BOMBIN GAS OIL 1114",
+        "brand": "Mercedes Benz",
+        "code": "CM133/1",
+        "originalCode": "CM133/1",
+        "image": "img/products/om352/bombin-gas-oil-1114-cm133-1.jpg",
+        "description": "BOMBIN GAS OIL 1114.",
+        "rubro": "FILTRO COMBUSTIBLE"
+    },
+    {
+        "id": "P1355",
+        "name": "FARO TRASERO 1517 CON VENTANA",
+        "brand": "Mercedes Benz",
+        "code": "F1517CV",
+        "originalCode": "F1517CV",
+        "image": "img/products/om352/faro-trasero-1517-con-ventana-f1517cv.jpg",
+        "description": "FARO TRASERO 1517 CON VENTANA.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P1356",
+        "name": "CORONA Y PIÑON 39/6 1114",
+        "brand": "Mercedes Benz",
+        "code": "98743",
+        "originalCode": "98743",
+        "image": "img/products/om352/corona-pinon-1114-39-6-98743.jpg",
+        "description": "CORONA Y PIÑON 39/6 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1357",
+        "name": "TECHO CABINA BAJA 1114",
+        "brand": "Mercedes Benz",
+        "code": "995",
+        "originalCode": "995",
+        "image": "img/products/om352/techo-cabina-baja-1114-995.jpg",
+        "description": "TECHO CABINA BAJA 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1358",
+        "name": "CINTA FRENO 1114 JGO",
+        "brand": "Mercedes Benz",
+        "code": "MB140",
+        "originalCode": "MB140",
+        "image": "img/products/om352/cinta-freno-1114-jgo-mb140.jpg",
+        "description": "CINTA FRENO 1114 JGO.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1359",
+        "name": "CINTA FRENO DELANTERA 1517",
+        "brand": "Mercedes Benz",
+        "code": "MB180",
+        "originalCode": "MB180",
+        "image": "img/products/om352/cinta-freno-delantera-1517-mb180.jpg",
+        "description": "CINTA FRENO DELANTERA 1517.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1360",
+        "name": "CINTA FRENO TRASERA 1517",
+        "brand": "Mercedes Benz",
+        "code": "MB181",
+        "originalCode": "MB181",
+        "image": "img/products/om352/cinta-freno-trasera-1517-mb181.jpg",
+        "description": "CINTA FRENO TRASERA 1517.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1361",
+        "name": "BUJE HORQUILLA A Y B 1518",
+        "brand": "Mercedes Benz",
+        "code": "MIC0179",
+        "originalCode": "MIC0179",
+        "image": "img/products/om352/buje-horquilla-a-y-b-1518-mic0179.jpg",
+        "description": "BUJE HORQUILLA A Y B 1518.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1362",
+        "name": "CONTINUACION BUCHE PORTA FARO 1518 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "304E",
+        "originalCode": "304E",
+        "image": "img/products/om352/continuacion-buche-porta-faro-1518-izq-304e.jpg",
+        "description": "CONTINUACION BUCHE PORTA FARO 1518 IZQ.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1363",
+        "name": "TAPA TANQUE GAS OIL 1114 CON LLAVE",
+        "brand": "Mercedes Benz",
+        "code": "10215U",
+        "originalCode": "10215U",
+        "image": "img/products/om352/tapa-tanque-gas-oil-1114-con-llave-10215u.jpg",
+        "description": "TAPA TANQUE GAS OIL 1114 CON LLAVE.",
+        "rubro": "COMBUSTIBLE"
+    },
+    {
+        "id": "P1364",
+        "name": "BULON CAJA PORTA SATELITE 1114",
+        "brand": "Mercedes Benz",
+        "code": "109238",
+        "originalCode": "109238",
+        "image": "img/products/om352/bulon-caja-porta-satelite-1114-109238.jpg",
+        "description": "BULON CAJA PORTA SATELITE 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1365",
+        "name": "TUERCA REGISTRO DERECHA 1114",
+        "brand": "Mercedes Benz",
+        "code": "110243",
+        "originalCode": "110243",
+        "image": "img/products/om352/tuerca-registro-derecha-1114-110243.jpg",
+        "description": "TUERCA REGISTRO DERECHA 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1366",
+        "name": "CAMPANA FRENO TRASERA 1114 FRENO HIDRAULICO",
+        "brand": "Mercedes Benz",
+        "code": "1113",
+        "originalCode": "1113",
+        "image": "img/products/om352/campana-freno-trasera-1114-1113.jpg",
+        "description": "CAMPANA FRENO TRASERA 1114 FRENO HIDRAULICO.",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1367",
+        "name": "PERNO DE BRONCE 1114 LARGO 96 MM",
+        "brand": "Mercedes Benz",
+        "code": "207011",
+        "originalCode": "207011",
+        "image": "img/products/om352/perno-bronce-1114-largo-207011.jpg",
+        "description": "PERNO DE BRONCE 1114 LARGO 96 MM.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1368",
+        "name": "PERNO DE BRONCE 1114 CORTO 92 MM",
+        "brand": "Mercedes Benz",
+        "code": "207070",
+        "originalCode": "207070",
+        "image": "img/products/om352/perno-bronce-1114-corto-207070.jpg",
+        "description": "PERNO DE BRONCE 1114 CORTO 92 MM.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1369",
+        "name": "RODILLO DIRECTA 17Z 1114 G-32",
+        "brand": "Mercedes Benz",
+        "code": "231",
+        "originalCode": "231",
+        "image": "img/products/om352/rodillo-directa-17z-1114-231.jpg",
+        "description": "RODILLO DIRECTA 17Z 1114 G-32.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1370",
+        "name": "COLIZAS PUERTA MB 1114",
+        "brand": "Mercedes Benz",
+        "code": "39308",
+        "originalCode": "39308",
+        "image": "img/products/om352/colizas-puerta-mb-1114-39308.jpg",
+        "description": "COLIZAS PUERTA MB 1114.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1371",
+        "name": "SOPORTE CARDAN 1114 40 MM",
+        "brand": "Mercedes Benz",
+        "code": "47951-2XR",
+        "originalCode": "47951-2XR",
+        "image": "img/products/om352/soporte-cardan-1114-40mm-47951-2xr.jpg",
+        "description": "SOPORTE CARDAN 1114 40 MM.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1372",
+        "name": "REGISTRO EMBRAGUE 1114",
+        "brand": "Mercedes Benz",
+        "code": "5040",
+        "originalCode": "5040",
+        "image": "img/products/om352/registro-embrague-1114-5040.jpg",
+        "description": "REGISTRO EMBRAGUE 1114.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1373",
+        "name": "SOPORTE TANQUE AIRE 1114 DOBLE ARM",
+        "brand": "Mercedes Benz",
+        "code": "522M",
+        "originalCode": "522M",
+        "image": "img/products/om352/soporte-tanque-aire-1114-doble-522m.jpg",
+        "description": "SOPORTE TANQUE AIRE 1114 DOBLE ARM.",
+        "rubro": "FRENOS Y AIRE"
+    },
+    {
+        "id": "P1374",
+        "name": "DISCO EMBRAGUE 1114 280 MM",
+        "brand": "Mercedes Benz",
+        "code": "5346FLRS",
+        "originalCode": "5346FLRS",
+        "image": "img/products/om352/disco-embrague-1114-280mm-5346flrs.jpg",
+        "description": "DISCO EMBRAGUE 1114 280 MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1375",
+        "name": "SOPORTE CENTRAL PARAGOLPE 1114 MOD NUE",
+        "brand": "Mercedes Benz",
+        "code": "549",
+        "originalCode": "549",
+        "image": "img/products/om352/soporte-central-paragolpe-1114-nuevo-549.jpg",
+        "description": "SOPORTE CENTRAL PARAGOLPE 1114 MOD NUE.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1376",
+        "name": "SOPORTE CENTRAL PARAGOLPE 1114 MOD VIE",
+        "brand": "Mercedes Benz",
+        "code": "550",
+        "originalCode": "550",
+        "image": "img/products/om352/soporte-central-paragolpe-1114-viejo-550.jpg",
+        "description": "SOPORTE CENTRAL PARAGOLPE 1114 MOD VIE.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1377",
+        "name": "SOPORTE CENTRAL PARAGOLPE 1517 MOD NU",
+        "brand": "Mercedes Benz",
+        "code": "552",
+        "originalCode": "552",
+        "image": "img/products/om352/soporte-central-paragolpe-1517-nuevo-552.jpg",
+        "description": "SOPORTE CENTRAL PARAGOLPE 1517 MOD NU.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1378",
+        "name": "CORONA Y PINON 7/48 HL 5 1518",
+        "brand": "Mercedes Benz",
+        "code": "60170128",
+        "originalCode": "60170128",
+        "image": "img/products/om352/corona-pinon-1518-7-48-60170128.jpg",
+        "description": "CORONA Y PINON 7/48 HL 5 1518.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1379",
+        "name": "KIT SATELITE PLANETARIO 1518 CRUZ 30",
+        "brand": "Mercedes Benz",
+        "code": "60170254",
+        "originalCode": "60170254",
+        "image": "img/products/om352/kit-satelite-planetario-1518-cruz-30-60170254.jpg",
+        "description": "KIT SATELITE PLANETARIO 1518 CRUZ 30.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1380",
+        "name": "CABLE CAPOT 1114 M/NUEVA",
+        "brand": "Mercedes Benz",
+        "code": "FR3298",
+        "originalCode": "FR3298",
+        "image": "img/products/om352/cable-capot-1114-nueva-fr3298.jpg",
+        "description": "CABLE CAPOT 1114 M/NUEVA.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1381",
+        "name": "ESPEJO MB 1114 JGO",
+        "brand": "Mercedes Benz",
+        "code": "M038D",
+        "originalCode": "M038D",
+        "image": "img/products/om352/espejo-mb-1114-jgo-m038d.jpg",
+        "description": "ESPEJO MB 1114 JGO.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1382",
+        "name": "PLACA Y DISCO EMBRAGUE 310 MM 1518 A LEVAS",
+        "brand": "Mercedes Benz",
+        "code": "MM00310L",
+        "originalCode": "MM00310L",
+        "image": "img/products/om352/placa-disco-embrague-310mm-1518-levas-mm00310l.jpg",
+        "description": "PLACA Y DISCO EMBRAGUE 310 MM 1518 A LEVAS.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1383",
+        "name": "TUERCA BULON RUEDA 1114 20 MM LLAVE 27",
+        "brand": "Mercedes Benz",
+        "code": "3020S3",
+        "originalCode": "3020S3",
+        "image": "img/products/om352/tuerca-bulon-rueda-1114-20mm-3020s3.jpg",
+        "description": "TUERCA BULON RUEDA 1114 20 MM LLAVE 27.",
+        "rubro": "RUEDA"
+    },
+    {
+        "id": "P1384",
+        "name": "JGO JUNTA CAJA G50/60 1518 1620",
+        "brand": "Mercedes Benz",
+        "code": "15083",
+        "originalCode": "15083",
+        "image": "img/products/om352/jgo-junta-caja-g50-60-1518-1620-15083.jpg",
+        "description": "JGO JUNTA CAJA G50/60 1518 1620.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1385",
+        "name": "MAZA RUEDA TRASERA M BENZ 1215 1114",
+        "brand": "Mercedes Benz",
+        "code": "4140",
+        "originalCode": "4140",
+        "image": "img/products/om352/maza-rueda-trasera-1215-1114-4140.jpg",
+        "description": "MAZA RUEDA TRASERA M BENZ 1215 1114.",
+        "rubro": "RUEDA"
+    },
+    {
+        "id": "P1386",
+        "name": "BISAGRA PUERTA SUP DER 1114-1518",
+        "brand": "Mercedes Benz",
+        "code": "50234",
+        "originalCode": "50234",
+        "image": "img/products/om352/bisagra-puerta-superior-derecha-1114-1518-50234.jpg",
+        "description": "BISAGRA PUERTA SUP DER 1114-1518.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1387",
+        "name": "CAPOT 1114-1518",
+        "brand": "Mercedes Benz",
+        "code": "981",
+        "originalCode": "981",
+        "image": "img/products/om352/capot-1114-1518-981.jpg",
+        "description": "CAPOT 1114-1518.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1388",
+        "name": "CRUCETA CARDAN MB 38MM X 157",
+        "brand": "Mercedes Benz",
+        "code": "CRT024",
+        "originalCode": "CRT024",
+        "image": "img/products/om352/cruceta-cardan-mb-38x157-crt024.jpg",
+        "description": "CRUCETA CARDAN MB 38MM X 157.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1389",
+        "name": "SOPORTE CARDAN COMPLETO 40 MM",
+        "brand": "Mercedes Benz",
+        "code": "R3060",
+        "originalCode": "R3060",
+        "image": "img/products/om352/soporte-cardan-completo-40mm-r3060.jpg",
+        "description": "SOPORTE CARDAN COMPLETO 40 MM.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1390",
+        "name": "HORQUILLA PARA SOLDAR MB",
+        "brand": "Mercedes Benz",
+        "code": "S313",
+        "originalCode": "S313",
+        "image": "img/products/om352/horquilla-para-soldar-mb-s313.jpg",
+        "description": "HORQUILLA PARA SOLDAR MB.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1391",
+        "name": "ESPEJO 1114-1526",
+        "brand": "Mercedes Benz",
+        "code": "2343",
+        "originalCode": "2343",
+        "image": "img/products/om352/espejo-1114-1526-2343.jpg",
+        "description": "ESPEJO 1114-1526.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1392",
+        "name": "HEMBRA CARDAN 1114",
+        "brand": "Mercedes Benz",
+        "code": "801400",
+        "originalCode": "801400",
+        "image": "img/products/om352/hembra-cardan-1114-801400.jpg",
+        "description": "HEMBRA CARDAN 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1393",
+        "name": "MACHO CARDAN 1114",
+        "brand": "Mercedes Benz",
+        "code": "801601",
+        "originalCode": "801601",
+        "image": "img/products/om352/macho-cardan-1114-801601.jpg",
+        "description": "MACHO CARDAN 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1394",
+        "name": "PARAGOLPE 1518",
+        "brand": "Mercedes Benz",
+        "code": "320",
+        "originalCode": "320",
+        "image": "img/products/om352/paragolpe-1518-320.jpg",
+        "description": "PARAGOLPE 1518.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1395",
+        "name": "PUNTA ESTRIADA CARDAN 1114",
+        "brand": "Mercedes Benz",
+        "code": "801500",
+        "originalCode": "801500",
+        "image": "img/products/om352/punta-estriada-cardan-1114-801500.jpg",
+        "description": "PUNTA ESTRIADA CARDAN 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1396",
+        "name": "FUELLE CARDAN 1517",
+        "brand": "Mercedes Benz",
+        "code": "1254B",
+        "originalCode": "1254B",
+        "image": "img/products/om352/fuelle-cardan-1517-1254b.jpg",
+        "description": "FUELLE CARDAN 1517.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1397",
+        "name": "BOMBA AGUA OM 352",
+        "brand": "Mercedes Benz",
+        "code": "20009",
+        "originalCode": "20009",
+        "image": "img/products/om352/bomba-agua-om352-20009.jpg",
+        "description": "BOMBA AGUA OM 352.",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1398",
+        "name": "CRUZ DIFERENCIAL 1114",
+        "brand": "Mercedes Benz",
+        "code": "24170001",
+        "originalCode": "24170001",
+        "image": "img/products/om352/cruz-diferencial-1114-24170001.jpg",
+        "description": "CRUZ DIFERENCIAL 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1399",
+        "name": "BOTON ARRANQUE 1114",
+        "brand": "Mercedes Benz",
+        "code": "13016",
+        "originalCode": "13016",
+        "image": "img/products/om352/boton-arranque-1114-13016.jpg",
+        "description": "BOTON ARRANQUE 1114.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P1400",
+        "name": "FUELLE GOBERNADOR 1114",
+        "brand": "Mercedes Benz",
+        "code": "630250",
+        "originalCode": "630250",
+        "image": "img/products/om352/fuelle-gobernador-1114-630250.jpg",
+        "description": "FUELLE GOBERNADOR 1114.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1401",
+        "name": "PLATO DE ALTA 1114",
+        "brand": "Mercedes Benz",
+        "code": "74023",
+        "originalCode": "74023",
+        "image": "img/products/om352/plato-de-alta-1114-74023.jpg",
+        "description": "PLATO DE ALTA 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1402",
+        "name": "CRAPODINA 1114 SOLA",
+        "brand": "Mercedes Benz",
+        "code": "HCS06P01",
+        "originalCode": "HCS06P01",
+        "image": "img/products/om352/crapodina-1114-sola-hcs06p01.jpg",
+        "description": "CRAPODINA 1114 SOLA.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1403",
+        "name": "CENTRO CARDAN 1518",
+        "brand": "Mercedes Benz",
+        "code": "R006R",
+        "originalCode": "R006R",
+        "image": "img/products/om352/centro-cardan-1518-r006r.jpg",
+        "description": "CENTRO CARDAN 1518.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1404",
+        "name": "POLEA CIGUENAL OM 352",
+        "brand": "Mercedes Benz",
+        "code": "R295P",
+        "originalCode": "R295P",
+        "image": "img/products/om352/polea-ciguenal-om352-r295p.jpg",
+        "description": "POLEA CIGUENAL OM 352.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1405",
+        "name": "CRUZ DIFERENCIAL 1114 ALTA",
+        "brand": "Mercedes Benz",
+        "code": "28330003",
+        "originalCode": "28330003",
+        "image": "img/products/om352/cruz-diferencial-1114-alta-28330003.jpg",
+        "description": "CRUZ DIFERENCIAL 1114 ALTA.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1406",
+        "name": "SOPORTE PARAGOLPE 1517 DER",
+        "brand": "Mercedes Benz",
+        "code": "302D",
+        "originalCode": "302D",
+        "image": "img/products/om352/soporte-paragolpe-1517-derecho-302d.jpg",
+        "description": "SOPORTE PARAGOLPE 1517 DER.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1407",
+        "name": "SOPORTE PARAGOLPE 1517 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "302E",
+        "originalCode": "302E",
+        "image": "img/products/om352/soporte-paragolpe-1517-izquierdo-302e.jpg",
+        "description": "SOPORTE PARAGOLPE 1517 IZQ.",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1408",
+        "name": "FUELLE PALANCA CAMBIO 1114",
+        "brand": "Mercedes Benz",
+        "code": "1028",
+        "originalCode": "1028",
+        "image": "img/products/om352/fuelle-palanca-cambio-1114-1028.jpg",
+        "description": "FUELLE PALANCA CAMBIO 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1409",
+        "name": "CRAPODINA 1114 COMPLETA",
+        "brand": "Mercedes Benz",
+        "code": "HCS06P04",
+        "originalCode": "HCS06P04",
+        "image": "img/products/om352/crapodina-1114-completa-hcs06p04.jpg",
+        "description": "CRAPODINA 1114 COMPLETA.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1410",
+        "name": "CAJA PORTASATELITES COMPLETA 1114",
+        "brand": "Mercedes Benz",
+        "code": "207114",
+        "originalCode": "207114",
+        "image": "img/products/om352/caja-portasatelites-completa-1114-207114.jpg",
+        "description": "CAJA PORTASATELITES COMPLETA 1114.",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1411",
+        "name": "AGARRE TORPEDO CABINA 1114",
+        "brand": "Mercedes Benz",
+        "code": "360",
+        "originalCode": "360",
+        "image": "img/products/om352/agarre-torpedo-cabina-1114-360.jpg",
+        "description": "AGARRE TORPEDO CABINA 1114.",
+        "rubro": "CARROCERIA"
     }
 ];
 

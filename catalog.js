@@ -27,6 +27,94 @@ document.addEventListener('DOMContentLoaded', () => {
         "CARROCERÍA Y OTROS": ["CABINA", "PUERTA", "VIDRIO", "ESPEJO", "PARAGOLPE", "HERRAMIENTAS", "REVESTIMIENTOS", "PEDALERA", "BEPO", "DESPIECE"]
     };
 
+    const engineAliasGroups = [
+        ["OM352", "OM 352", "OM-352", "OM352A", "OM 352A", "1114", "1517", "1518", "1314", "1317", "1215", "1620", "L1114", "L1517", "L1518", "OH1314"],
+        ["OM366", "OM 366", "OM-366", "OM366A", "OM366LA", "1215", "1418", "1420", "1517", "1620", "OHL1420", "OHL1620"],
+        ["OM904", "OM 904", "OM-904", "OM906", "OM 906", "OM-906", "O500", "OH1618", "OHL1618", "ATEGO", "1725", "2423"],
+        ["OM924", "OM 924", "OM-924", "OM926", "OM 926", "OM-926", "O500", "O500U", "OHL1621", "1721"],
+        ["OM611", "OM 611", "OM-611", "OM651", "OM 651", "OM-651", "SPRINTER", "CDI", "313", "413"],
+        ["ISB", "ISBE", "ISF", "6B", "6C", "CUMMINS", "FORD CARGO", "VW", "VOLKSWAGEN"],
+        ["IVECO", "DAILY", "TECTOR", "EUROCARGO"],
+        ["SCANIA", "113", "114", "124", "P94", "PGR"]
+    ];
+
+    const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
+
+    function normalizeText(value) {
+        return String(value || '')
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, ' ')
+            .trim()
+            .replace(/\s+/g, ' ');
+    }
+
+    function compactText(value) {
+        return normalizeText(value).replace(/\s+/g, '');
+    }
+
+    function includesTerm(text, term) {
+        if (!term) return true;
+        return text.includes(term) || compactText(text).includes(compactText(term));
+    }
+
+    function productBaseText(product) {
+        return normalizeText([
+            product.id,
+            product.name,
+            product.code,
+            product.originalCode,
+            product.brand,
+            product.rubro,
+            product.description,
+            product.image
+        ].join(' '));
+    }
+
+    function productSearchText(product) {
+        const baseText = productBaseText(product);
+        const compactBase = compactText(baseText);
+        const aliasesToAdd = [];
+
+        normalizedAliasGroups.forEach(group => {
+            const belongsToGroup = group.some(alias =>
+                baseText.includes(alias) || compactBase.includes(compactText(alias))
+            );
+
+            if (belongsToGroup) {
+                aliasesToAdd.push(...group);
+            }
+        });
+
+        return `${baseText} ${aliasesToAdd.join(' ')}`;
+    }
+
+    function matchesSearchQuery(product, query) {
+        const queryText = normalizeText(query);
+        if (!queryText) return true;
+
+        const searchableText = productSearchText(product);
+        return queryText.split(' ').every(term => includesTerm(searchableText, term));
+    }
+
+    function searchScore(product, query) {
+        const queryText = normalizeText(query);
+        if (!queryText) return 0;
+
+        const name = normalizeText(product.name);
+        const code = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
+        const baseText = productBaseText(product);
+        const searchableText = productSearchText(product);
+
+        if (includesTerm(code, queryText)) return 0;
+        if (includesTerm(name, queryText)) return 1;
+        if (includesTerm(baseText, queryText)) return 2;
+        if (matchesSearchQuery(product, queryText)) return 3;
+        if (includesTerm(searchableText, queryText)) return 4;
+        return 5;
+    }
+
     // Function to populate filters
     function populateFilters() {
         // Populate Engines
@@ -67,6 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
         filteredProducts.forEach(product => {
             const productCard = document.createElement('div');
             productCard.className = 'product-item';
+            productCard.title = product.name;
 
             // Handle missing image
             const imgPath = product.image || 'img/no-image.jpg';
@@ -91,23 +180,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Main Filter Function
     function applyFilters() {
-        const searchTerm = searchInput.value.toLowerCase();
-        const selectedEngine = filterEngine.value.toLowerCase();
+        const searchTerm = searchInput.value;
+        const selectedEngine = filterEngine.value;
         const selectedCategory = filterCategory.value; // Simplified Category Key
         const selectedBrand = filterBrand.value;
 
         const filteredProducts = products.filter(product => {
             // Search Text Filter
-            const matchesSearch = !searchTerm ||
-                product.name.toLowerCase().includes(searchTerm) ||
-                product.code.toLowerCase().includes(searchTerm) ||
-                (product.originalCode && product.originalCode.toLowerCase().includes(searchTerm)) || // Check originalCode too if exists
-                (product.brand && product.brand.toLowerCase().includes(searchTerm));
+            const matchesSearch = matchesSearchQuery(product, searchTerm);
 
-            // Engine Filter (Text search in name/desc)
-            const matchesEngine = !selectedEngine ||
-                product.name.toLowerCase().includes(selectedEngine) ||
-                (product.description && product.description.toLowerCase().includes(selectedEngine));
+            // Engine Filter with aliases, e.g. OM352 also finds 1114/1517/1518 parts.
+            const matchesEngine = matchesSearchQuery(product, selectedEngine);
 
             // Category Filter (Mapped Logic)
             let matchesCategory = true;
@@ -143,6 +226,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             return matchesSearch && matchesEngine && matchesCategory && matchesBrand;
+        }).sort((a, b) => {
+            const queryForScore = searchTerm || selectedEngine;
+            return searchScore(a, queryForScore) - searchScore(b, queryForScore);
         });
 
         renderProducts(filteredProducts);

@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
+    document.title = `${product.name} | Zabala Repuestos`;
     renderProductDetail(product);
 });
 
