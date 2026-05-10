@@ -6,6 +6,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const filterBrand = document.getElementById('filterBrand');
     const clearFiltersBtn = document.getElementById('clearFiltersBtn');
     const voiceSearchBtn = document.getElementById('voiceSearchBtn'); // Ensure this is selected if used
+    const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
+    const INITIAL_RENDER_LIMIT = 120;
+    const SEARCH_DEBOUNCE_MS = 80;
+    let searchTimer = null;
 
     // Defined lists for filters
     const engines = [
@@ -38,8 +42,6 @@ document.addEventListener('DOMContentLoaded', () => {
         ["SCANIA", "113", "114", "124", "P94", "PGR"]
     ];
 
-    const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
-
     function normalizeText(value) {
         return String(value || '')
             .normalize('NFD')
@@ -50,13 +52,12 @@ document.addEventListener('DOMContentLoaded', () => {
             .replace(/\s+/g, ' ');
     }
 
-    function compactText(value) {
-        return normalizeText(value).replace(/\s+/g, '');
-    }
+    const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
+    const normalizedAliasCompactGroups = normalizedAliasGroups.map(group => group.map(alias => alias.replace(/\s+/g, '')));
 
-    function includesTerm(text, term) {
+    function includesTerm(text, compact, term, compactTerm) {
         if (!term) return true;
-        return text.includes(term) || compactText(text).includes(compactText(term));
+        return text.includes(term) || compact.includes(compactTerm);
     }
 
     function productBaseText(product) {
@@ -72,14 +73,15 @@ document.addEventListener('DOMContentLoaded', () => {
         ].join(' '));
     }
 
-    function productSearchText(product) {
+    function createProductIndex(product) {
         const baseText = productBaseText(product);
-        const compactBase = compactText(baseText);
+        const compactBase = baseText.replace(/\s+/g, '');
         const aliasesToAdd = [];
 
-        normalizedAliasGroups.forEach(group => {
-            const belongsToGroup = group.some(alias =>
-                baseText.includes(alias) || compactBase.includes(compactText(alias))
+        normalizedAliasGroups.forEach((group, groupIndex) => {
+            const compactGroup = normalizedAliasCompactGroups[groupIndex];
+            const belongsToGroup = group.some((alias, aliasIndex) =>
+                baseText.includes(alias) || compactBase.includes(compactGroup[aliasIndex])
             );
 
             if (belongsToGroup) {
@@ -87,31 +89,56 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        return `${baseText} ${aliasesToAdd.join(' ')}`;
+        const searchText = `${baseText} ${aliasesToAdd.join(' ')}`.trim();
+        const nameText = normalizeText(product.name);
+        const codeText = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
+
+        return {
+            product,
+            baseText,
+            baseCompact: compactBase,
+            searchText,
+            searchCompact: searchText.replace(/\s+/g, ''),
+            nameText,
+            nameCompact: nameText.replace(/\s+/g, ''),
+            codeText,
+            codeCompact: codeText.replace(/\s+/g, ''),
+            brandLower: String(product.brand || '').toLowerCase(),
+            rubroUpper: String(product.rubro || '').toUpperCase()
+        };
     }
 
-    function matchesSearchQuery(product, query) {
-        const queryText = normalizeText(query);
-        if (!queryText) return true;
-
-        const searchableText = productSearchText(product);
-        return queryText.split(' ').every(term => includesTerm(searchableText, term));
+    function createQueryIndex(query) {
+        const text = normalizeText(query);
+        const compact = text.replace(/\s+/g, '');
+        return {
+            text,
+            compact,
+            terms: text ? text.split(' ').map(term => ({
+                text: term,
+                compact: term.replace(/\s+/g, '')
+            })) : []
+        };
     }
 
-    function searchScore(product, query) {
-        const queryText = normalizeText(query);
-        if (!queryText) return 0;
+    const indexedProducts = productsData.map(createProductIndex);
 
-        const name = normalizeText(product.name);
-        const code = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
-        const baseText = productBaseText(product);
-        const searchableText = productSearchText(product);
+    function matchesSearchQuery(indexedProduct, queryIndex) {
+        if (!queryIndex.text) return true;
 
-        if (includesTerm(code, queryText)) return 0;
-        if (includesTerm(name, queryText)) return 1;
-        if (includesTerm(baseText, queryText)) return 2;
-        if (matchesSearchQuery(product, queryText)) return 3;
-        if (includesTerm(searchableText, queryText)) return 4;
+        return queryIndex.terms.every(term =>
+            includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, term.text, term.compact)
+        );
+    }
+
+    function searchScore(indexedProduct, queryIndex) {
+        if (!queryIndex.text) return 0;
+
+        if (includesTerm(indexedProduct.codeText, indexedProduct.codeCompact, queryIndex.text, queryIndex.compact)) return 0;
+        if (includesTerm(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex.text, queryIndex.compact)) return 1;
+        if (includesTerm(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex.text, queryIndex.compact)) return 2;
+        if (matchesSearchQuery(indexedProduct, queryIndex)) return 3;
+        if (includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, queryIndex.text, queryIndex.compact)) return 4;
         return 5;
     }
 
@@ -152,6 +179,8 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
+        const fragment = document.createDocumentFragment();
+
         filteredProducts.forEach(product => {
             const productCard = document.createElement('div');
             productCard.className = 'product-item';
@@ -174,8 +203,10 @@ document.addEventListener('DOMContentLoaded', () => {
             productCard.addEventListener('click', () => {
                 window.location.href = `producto.html?id=${product.id}`;
             });
-            productGrid.appendChild(productCard);
+            fragment.appendChild(productCard);
         });
+
+        productGrid.appendChild(fragment);
     }
 
     // Main Filter Function
@@ -184,20 +215,25 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedEngine = filterEngine.value;
         const selectedCategory = filterCategory.value; // Simplified Category Key
         const selectedBrand = filterBrand.value;
+        const searchIndex = createQueryIndex(searchTerm);
+        const engineIndex = createQueryIndex(selectedEngine);
+        const scoreIndex = searchIndex.text ? searchIndex : engineIndex;
+        const shouldLimitInitialView = !searchIndex.text && !engineIndex.text && !selectedCategory && !selectedBrand;
 
-        const filteredProducts = products.filter(product => {
+        const filteredProducts = indexedProducts.filter(indexedProduct => {
+            const product = indexedProduct.product;
             // Search Text Filter
-            const matchesSearch = matchesSearchQuery(product, searchTerm);
+            const matchesSearch = matchesSearchQuery(indexedProduct, searchIndex);
 
             // Engine Filter with aliases, e.g. OM352 also finds 1114/1517/1518 parts.
-            const matchesEngine = matchesSearchQuery(product, selectedEngine);
+            const matchesEngine = matchesSearchQuery(indexedProduct, engineIndex);
 
             // Category Filter (Mapped Logic)
             let matchesCategory = true;
             if (selectedCategory) {
                 // Get keywords for the selected category
                 const keywords = categoryMapping[selectedCategory];
-                const productRubro = (product.rubro || "").toUpperCase(); // Current product rubro
+                const productRubro = indexedProduct.rubroUpper; // Current product rubro
 
                 // Check if the product's rubro contains ANY of the keywords
                 // Also assign "Uncategorized" items to Motor if mostly empty? No, strict matching first.
@@ -211,7 +247,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Brand Filter (Custom Logic)
             let matchesBrand = !selectedBrand;
             if (selectedBrand) {
-                const productBrand = (product.brand || "").toLowerCase();
+                const productBrand = indexedProduct.brandLower;
                 const filterBrandLower = selectedBrand.toLowerCase();
 
                 if (filterBrandLower === "cummins") {
@@ -226,16 +262,25 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             return matchesSearch && matchesEngine && matchesCategory && matchesBrand;
-        }).sort((a, b) => {
-            const queryForScore = searchTerm || selectedEngine;
-            return searchScore(a, queryForScore) - searchScore(b, queryForScore);
-        });
+        }).map(indexedProduct => ({
+            product: indexedProduct.product,
+            score: searchScore(indexedProduct, scoreIndex)
+        })).sort((a, b) => a.score - b.score);
 
-        renderProducts(filteredProducts);
+        const productsToRender = shouldLimitInitialView
+            ? filteredProducts.slice(0, INITIAL_RENDER_LIMIT).map(item => item.product)
+            : filteredProducts.map(item => item.product);
+
+        renderProducts(productsToRender);
+    }
+
+    function scheduleFilters() {
+        window.clearTimeout(searchTimer);
+        searchTimer = window.setTimeout(applyFilters, SEARCH_DEBOUNCE_MS);
     }
 
     // Event Listeners
-    searchInput.addEventListener('input', applyFilters);
+    searchInput.addEventListener('input', scheduleFilters);
     filterEngine.addEventListener('change', applyFilters);
     filterCategory.addEventListener('change', applyFilters);
     filterBrand.addEventListener('change', applyFilters);
@@ -297,5 +342,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Initial Setup
     populateFilters();
-    renderProducts(products); // Initial render
+    applyFilters(); // Initial render
 });

@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const noResults = document.getElementById('noResults');
 
     const productsData = typeof products !== 'undefined' ? products : [];
+    const SEARCH_DEBOUNCE_MS = 80;
+    let searchTimer = null;
 
     const engineAliasGroups = [
         ["OM352", "OM 352", "OM-352", "OM352A", "OM 352A", "1114", "1517", "1518", "1314", "1317", "1215", "1620", "L1114", "L1517", "L1518", "OH1314"],
@@ -16,8 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
         ["SCANIA", "113", "114", "124", "P94", "PGR"]
     ];
 
-    const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
-
     function normalizeText(value) {
         return String(value || '')
             .normalize('NFD')
@@ -28,13 +28,12 @@ document.addEventListener('DOMContentLoaded', () => {
             .replace(/\s+/g, ' ');
     }
 
-    function compactText(value) {
-        return normalizeText(value).replace(/\s+/g, '');
-    }
+    const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
+    const normalizedAliasCompactGroups = normalizedAliasGroups.map(group => group.map(alias => alias.replace(/\s+/g, '')));
 
-    function includesTerm(text, term) {
+    function includesTerm(text, compact, term, compactTerm) {
         if (!term) return true;
-        return text.includes(term) || compactText(text).includes(compactText(term));
+        return text.includes(term) || compact.includes(compactTerm);
     }
 
     function productBaseText(product) {
@@ -50,14 +49,15 @@ document.addEventListener('DOMContentLoaded', () => {
         ].join(' '));
     }
 
-    function productSearchText(product) {
+    function createProductIndex(product) {
         const baseText = productBaseText(product);
-        const compactBase = compactText(baseText);
+        const compactBase = baseText.replace(/\s+/g, '');
         const aliasesToAdd = [];
 
-        normalizedAliasGroups.forEach(group => {
-            const belongsToGroup = group.some(alias =>
-                baseText.includes(alias) || compactBase.includes(compactText(alias))
+        normalizedAliasGroups.forEach((group, groupIndex) => {
+            const compactGroup = normalizedAliasCompactGroups[groupIndex];
+            const belongsToGroup = group.some((alias, aliasIndex) =>
+                baseText.includes(alias) || compactBase.includes(compactGroup[aliasIndex])
             );
 
             if (belongsToGroup) {
@@ -65,31 +65,54 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        return `${baseText} ${aliasesToAdd.join(' ')}`;
+        const searchText = `${baseText} ${aliasesToAdd.join(' ')}`.trim();
+        const nameText = normalizeText(product.name);
+        const codeText = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
+
+        return {
+            product,
+            baseText,
+            baseCompact: compactBase,
+            searchText,
+            searchCompact: searchText.replace(/\s+/g, ''),
+            nameText,
+            nameCompact: nameText.replace(/\s+/g, ''),
+            codeText,
+            codeCompact: codeText.replace(/\s+/g, '')
+        };
     }
 
-    function matchesSearchQuery(product, query) {
-        const queryText = normalizeText(query);
-        if (!queryText) return true;
-
-        const searchableText = productSearchText(product);
-        return queryText.split(' ').every(term => includesTerm(searchableText, term));
+    function createQueryIndex(query) {
+        const text = normalizeText(query);
+        const compact = text.replace(/\s+/g, '');
+        return {
+            text,
+            compact,
+            terms: text ? text.split(' ').map(term => ({
+                text: term,
+                compact: term.replace(/\s+/g, '')
+            })) : []
+        };
     }
 
-    function searchScore(product, query) {
-        const queryText = normalizeText(query);
-        if (!queryText) return 0;
+    const indexedProducts = productsData.map(createProductIndex);
 
-        const name = normalizeText(product.name);
-        const code = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
-        const baseText = productBaseText(product);
-        const searchableText = productSearchText(product);
+    function matchesSearchQuery(indexedProduct, queryIndex) {
+        if (!queryIndex.text) return true;
 
-        if (includesTerm(code, queryText)) return 0;
-        if (includesTerm(name, queryText)) return 1;
-        if (includesTerm(baseText, queryText)) return 2;
-        if (matchesSearchQuery(product, queryText)) return 3;
-        if (includesTerm(searchableText, queryText)) return 4;
+        return queryIndex.terms.every(term =>
+            includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, term.text, term.compact)
+        );
+    }
+
+    function searchScore(indexedProduct, queryIndex) {
+        if (!queryIndex.text) return 0;
+
+        if (includesTerm(indexedProduct.codeText, indexedProduct.codeCompact, queryIndex.text, queryIndex.compact)) return 0;
+        if (includesTerm(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex.text, queryIndex.compact)) return 1;
+        if (includesTerm(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex.text, queryIndex.compact)) return 2;
+        if (matchesSearchQuery(indexedProduct, queryIndex)) return 3;
+        if (includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, queryIndex.text, queryIndex.compact)) return 4;
         return 5;
     }
 
@@ -107,6 +130,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // Keep the initial catalog light, but show every match when the user searches.
         const shouldLimitInitialView = !searchInput || !searchInput.value.trim();
         const limitedProducts = shouldLimitInitialView ? productsToRender.slice(0, 100) : productsToRender;
+
+        const fragment = document.createDocumentFragment();
 
         limitedProducts.forEach(product => {
             const card = document.createElement('div');
@@ -128,22 +153,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
 
-            catalogGrid.appendChild(card);
+            fragment.appendChild(card);
         });
+
+        catalogGrid.appendChild(fragment);
     }
 
     // search filter
     function filterProducts(query) {
-        const filtered = productsData
-            .filter(product => matchesSearchQuery(product, query))
-            .sort((a, b) => searchScore(a, query) - searchScore(b, query));
+        const queryIndex = createQueryIndex(query);
+        const filtered = indexedProducts
+            .filter(product => matchesSearchQuery(product, queryIndex))
+            .map(product => ({
+                product: product.product,
+                score: searchScore(product, queryIndex)
+            }))
+            .sort((a, b) => a.score - b.score)
+            .map(item => item.product);
+
         renderProducts(filtered);
     }
 
     // Event listeners
     if (searchInput) {
         searchInput.addEventListener('input', (e) => {
-            filterProducts(e.target.value);
+            window.clearTimeout(searchTimer);
+            searchTimer = window.setTimeout(() => filterProducts(e.target.value), SEARCH_DEBOUNCE_MS);
         });
     }
 
