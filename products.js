@@ -14690,6 +14690,3926 @@ const products = [
         "image": "img/products/om366/horquilla-embrague-l1620-mic1139.jpg",
         "description": "HORQUILLA EMBRAGUE L 1620 MIC1139",
         "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1542",
+        "name": "BOLSILLO PUERTA 1215 1620 MARRON",
+        "brand": "Mercedes Benz",
+        "code": "50371",
+        "originalCode": "50371",
+        "image": "img/products/om366/bolsillo-puerta-1215-1620-marron-50371.jpg",
+        "description": "BOLSILLO PUERTA 1215 1620 MARRON 50371",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1543",
+        "name": "ESPEJO 1215 CONVEXO",
+        "brand": "Mercedes Benz",
+        "code": "2353",
+        "originalCode": "2353",
+        "image": "img/products/om366/espejo-1215-convexo-2353.jpg",
+        "description": "ESPEJO 1215 CONVEXO 2353",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1544",
+        "name": "VALVULA MOTOR ADMISION OM 366 ASPIRADO 1215",
+        "brand": "Mercedes Benz",
+        "code": "23046 A+04",
+        "originalCode": "23046 A+04",
+        "image": "img/products/om366/valvula-admision-om366-aspirado-23046-a-04.jpg",
+        "description": "VALVULA MOTOR ADMISION OM 366 ASPIRADO 1215 23046 A+04",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1545",
+        "name": "VALVULA MOTOR ADMISION OM 366 ASPIRADO 1215",
+        "brand": "Mercedes Benz",
+        "code": "23046 A+08",
+        "originalCode": "23046 A+08",
+        "image": "img/products/om366/valvula-admision-om366-aspirado-23046-a-08.jpg",
+        "description": "VALVULA MOTOR ADMISION OM 366 ASPIRADO 1215 23046 A+08",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1546",
+        "name": "VALVULA MOTOR ESCAPE OM 366 ASPIRADO 1215",
+        "brand": "Mercedes Benz",
+        "code": "23046 E+04",
+        "originalCode": "23046 E+04",
+        "image": "img/products/om366/valvula-escape-om366-aspirado-23046-e-04.jpg",
+        "description": "VALVULA MOTOR ESCAPE OM 366 ASPIRADO 1215 23046 E+04",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1547",
+        "name": "VALVULA MOTOR ESCAPE OM 366 ASPIRADO 1215",
+        "brand": "Mercedes Benz",
+        "code": "23046 E+08",
+        "originalCode": "23046 E+08",
+        "image": "img/products/om366/valvula-escape-om366-aspirado-23046-e-08.jpg",
+        "description": "VALVULA MOTOR ESCAPE OM 366 ASPIRADO 1215 23046 E+08",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1548",
+        "name": "VALVULA MOTOR ADMISION OM 366 TURBO 1620",
+        "brand": "Mercedes Benz",
+        "code": "23047 A+04",
+        "originalCode": "23047 A+04",
+        "image": "img/products/om366/valvula-admision-om366-turbo-23047-a-04.jpg",
+        "description": "VALVULA MOTOR ADMISION OM 366 TURBO 1620 23047 A+04",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1549",
+        "name": "VALVULA MOTOR ADMISION OM 366 TURBO 1620",
+        "brand": "Mercedes Benz",
+        "code": "23047 A+08",
+        "originalCode": "23047 A+08",
+        "image": "img/products/om366/valvula-admision-om366-turbo-23047-a-08.jpg",
+        "description": "VALVULA MOTOR ADMISION OM 366 TURBO 1620 23047 A+08",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1550",
+        "name": "VALVULA MOTOR ESCAPE OM 366 TURBO 1620",
+        "brand": "Mercedes Benz",
+        "code": "23047 E+04",
+        "originalCode": "23047 E+04",
+        "image": "img/products/om366/valvula-escape-om366-turbo-23047-e-04.jpg",
+        "description": "VALVULA MOTOR ESCAPE OM 366 TURBO 1620 23047 E+04",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1551",
+        "name": "CERRADURA EXTERIOR 1215 -1620 DE",
+        "brand": "Mercedes Benz",
+        "code": "50194",
+        "originalCode": "50194",
+        "image": "img/products/om366/cerradura-exterior-1215-1620-de-50194.jpg",
+        "description": "CERRADURA EXTERIOR 1215 -1620 DE 50194",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1552",
+        "name": "PARAGOLPE L 1218 1620 CABINA SIMPLE 3 PARTES",
+        "brand": "Mercedes Benz",
+        "code": "1500",
+        "originalCode": "1500",
+        "image": "img/products/om366/paragolpe-l-1218-1620-cabina-simple-3-partes-1500.jpg",
+        "description": "PARAGOLPE L 1218 1620 CABINA SIMPLE 3 PARTES 1500",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1553",
+        "name": "CERRADURA INTERIOR PUERTA L1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "50282",
+        "originalCode": "50282",
+        "image": "img/products/om366/cerradura-interior-puerta-l1620-der-50282.jpg",
+        "description": "CERRADURA INTERIOR PUERTA L1620 DER 50282",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1554",
+        "name": "ESCOBILLA 24' 1215 L1620 - 34 WORKER CONSTELLATION",
+        "brand": "Mercedes Benz",
+        "code": "TX600",
+        "originalCode": "TX600",
+        "image": "img/products/om366/escobilla-24-1215-l1620-34-worker-constellation-tx600.jpg",
+        "description": "ESCOBILLA 24' 1215 L1620 - 34 WORKER CONSTELLATION TX600",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1555",
+        "name": "PUNTERA PARAGOLPE L 1620 CHAPA",
+        "brand": "Mercedes Benz",
+        "code": "1501E",
+        "originalCode": "1501E",
+        "image": "img/products/om366/puntera-paragolpe-l-1620-chapa-1501e.jpg",
+        "description": "PUNTERA PARAGOLPE L 1620 CHAPA 1501E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1556",
+        "name": "SOPORTE PARAGOLPE 1215",
+        "brand": "Mercedes Benz",
+        "code": "01-197",
+        "originalCode": "01-197",
+        "image": "img/products/om366/soporte-paragolpe-1215-01-197.jpg",
+        "description": "SOPORTE PARAGOLPE 1215 01-197",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1557",
+        "name": "DEPOSITO LAVAPARABRISAS 1620",
+        "brand": "Mercedes Benz",
+        "code": "000027",
+        "originalCode": "000027",
+        "image": "img/products/om366/deposito-lavaparabrisas-1620-000027.jpg",
+        "description": "DEPOSITO LAVAPARABRISAS 1620 000027",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1558",
+        "name": "CURVA GUARDABARRO 1620",
+        "brand": "Mercedes Benz",
+        "code": "1524D",
+        "originalCode": "1524D",
+        "image": "img/products/om366/curva-guardabarro-1620-1524d.jpg",
+        "description": "CURVA GUARDABARRO 1620 1524D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1559",
+        "name": "RETEN VALVULA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "S01924",
+        "originalCode": "S01924",
+        "image": "img/products/om366/reten-valvula-om-366-s01924.jpg",
+        "description": "RETEN VALVULA OM 366 S01924",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1560",
+        "name": "RETEN VALVULA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "S09236",
+        "originalCode": "S09236",
+        "image": "img/products/om366/reten-valvula-om-366-s09236.jpg",
+        "description": "RETEN VALVULA OM 366 S09236",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1561",
+        "name": "GUARDABARRO ESTRIBO L 1218 DER",
+        "brand": "Mercedes Benz",
+        "code": "1155D",
+        "originalCode": "1155D",
+        "image": "img/products/om366/guardabarro-estribo-l-1218-der-1155d.jpg",
+        "description": "GUARDABARRO ESTRIBO L 1218 DER 1155D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1562",
+        "name": "GUARDABARRO ESTRIBO L 1218 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1155E",
+        "originalCode": "1155E",
+        "image": "img/products/om366/guardabarro-estribo-l-1218-izq-1155e.jpg",
+        "description": "GUARDABARRO ESTRIBO L 1218 IZQ 1155E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1563",
+        "name": "SOPORTE PARAGOLPE L1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "1248D",
+        "originalCode": "1248D",
+        "image": "img/products/om366/soporte-paragolpe-l1620-der-1248d.jpg",
+        "description": "SOPORTE PARAGOLPE L1620 DER 1248D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1564",
+        "name": "TRAVESAÑO FIJACION CAPOT L1620",
+        "brand": "Mercedes Benz",
+        "code": "1513",
+        "originalCode": "1513",
+        "image": "img/products/om366/travesano-fijacion-capot-l1620-1513.jpg",
+        "description": "TRAVESAÑO FIJACION CAPOT L1620 1513",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1565",
+        "name": "GUIA GUARDABARRO MB 1215 1620 1633 1624 1634",
+        "brand": "Mercedes Benz",
+        "code": "50257",
+        "originalCode": "50257",
+        "image": "img/products/om366/guia-guardabarro-mb-1215-1620-1633-1624-1634-50257.jpg",
+        "description": "GUIA GUARDABARRO MB 1215 1620 1633 1624 1634 50257",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1566",
+        "name": "OPTICA L 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "F141",
+        "originalCode": "F141",
+        "image": "img/products/om366/optica-l-1620-izq-f141.jpg",
+        "description": "OPTICA L 1620 IZQ F141",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1567",
+        "name": "OPTICA L 1620 DERECHA",
+        "brand": "Mercedes Benz",
+        "code": "F142",
+        "originalCode": "F142",
+        "image": "img/products/om366/optica-l-1620-derecha-f142.jpg",
+        "description": "OPTICA L 1620 DERECHA F142",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1568",
+        "name": "TAPA DEPOSITO LAVAPARABRISAS 1215",
+        "brand": "Mercedes Benz",
+        "code": "10366",
+        "originalCode": "10366",
+        "image": "img/products/om366/tapa-deposito-lavaparabrisas-1215-10366.jpg",
+        "description": "TAPA DEPOSITO LAVAPARABRISAS 1215 10366",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1569",
+        "name": "ESTRELLA PARRILLA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1074",
+        "originalCode": "1074",
+        "image": "img/products/om366/estrella-parrilla-l-1620-1074.jpg",
+        "description": "ESTRELLA PARRILLA L 1620 1074",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1570",
+        "name": "PISO ESTRIBO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1097",
+        "originalCode": "1097",
+        "image": "img/products/om366/piso-estribo-l-1620-1097.jpg",
+        "description": "PISO ESTRIBO L 1620 1097",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1571",
+        "name": "TRAVESAÑO CAPOT COMPLETO 1620",
+        "brand": "Mercedes Benz",
+        "code": "1170",
+        "originalCode": "1170",
+        "image": "img/products/om366/travesano-capot-completo-1620-1170.jpg",
+        "description": "TRAVESAÑO CAPOT COMPLETO 1620 1170",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1572",
+        "name": "CABLE MULTIFUNCION L 1620",
+        "brand": "Mercedes Benz",
+        "code": "121279",
+        "originalCode": "121279",
+        "image": "img/products/om366/cable-multifuncion-l-1620-121279.jpg",
+        "description": "CABLE MULTIFUNCION L 1620 121279",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1573",
+        "name": "PISO DE CABINA 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "1505D",
+        "originalCode": "1505D",
+        "image": "img/products/om366/piso-de-cabina-1215-der-1505d.jpg",
+        "description": "PISO DE CABINA 1215 DER 1505D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1574",
+        "name": "PISO DE CABINA 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1505E",
+        "originalCode": "1505E",
+        "image": "img/products/om366/piso-de-cabina-1215-izq-1505e.jpg",
+        "description": "PISO DE CABINA 1215 IZQ 1505E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1575",
+        "name": "PARANTE CABINA 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "1785D",
+        "originalCode": "1785D",
+        "image": "img/products/om366/parante-cabina-1215-der-1785d.jpg",
+        "description": "PARANTE CABINA 1215 DER 1785D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1576",
+        "name": "PARANTE CABINA 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1785E",
+        "originalCode": "1785E",
+        "image": "img/products/om366/parante-cabina-1215-izq-1785e.jpg",
+        "description": "PARANTE CABINA 1215 IZQ 1785E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1577",
+        "name": "CURVA DE GUARDABARRO 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1791E",
+        "originalCode": "1791E",
+        "image": "img/products/om366/curva-de-guardabarro-1215-izq-1791e.jpg",
+        "description": "CURVA DE GUARDABARRO 1215 IZQ 1791E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1578",
+        "name": "BISAGRA PUERTA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "50405",
+        "originalCode": "50405",
+        "image": "img/products/om366/bisagra-puerta-l-1620-50405.jpg",
+        "description": "BISAGRA PUERTA L 1620 50405",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1579",
+        "name": "OPTICA L 1620 96-99",
+        "brand": "Mercedes Benz",
+        "code": "V891D",
+        "originalCode": "V891D",
+        "image": "img/products/om366/optica-l-1620-96-99-v891d.jpg",
+        "description": "OPTICA L 1620 96-99 V891D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1580",
+        "name": "ADAPTADOR PARAGOLPE CHAPA A PLASTICO L1620",
+        "brand": "Mercedes Benz",
+        "code": "1551",
+        "originalCode": "1551",
+        "image": "img/products/om366/adaptador-paragolpe-chapa-a-plastico-l1620-1551.jpg",
+        "description": "ADAPTADOR PARAGOLPE CHAPA A PLASTICO L1620 1551",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1581",
+        "name": "ESQUINERO TRASERO CABINA L1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "1626D",
+        "originalCode": "1626D",
+        "image": "img/products/om366/esquinero-trasero-cabina-l1620-der-1626d.jpg",
+        "description": "ESQUINERO TRASERO CABINA L1620 DER 1626D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1582",
+        "name": "FLEXIBLE EMBRAGUE L 1620",
+        "brand": "Mercedes Benz",
+        "code": "W4451",
+        "originalCode": "W4451",
+        "image": "img/products/om366/flexible-embrague-l-1620-w4451.jpg",
+        "description": "FLEXIBLE EMBRAGUE L 1620 W4451",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1583",
+        "name": "KIT BULON CARDAN 12X34 MM 1620",
+        "brand": "Mercedes Benz",
+        "code": "2820",
+        "originalCode": "2820",
+        "image": "img/products/om366/kit-bulon-cardan-12x34-mm-1620-2820.jpg",
+        "description": "KIT BULON CARDAN 12X34 MM 1620 2820",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1584",
+        "name": "LLAVE CONMUTADORA DE LUCES 710 1215 1620 33 NEGRA",
+        "brand": "Mercedes Benz",
+        "code": "13109",
+        "originalCode": "13109",
+        "image": "img/products/om366/llave-conmutadora-de-luces-710-1215-1620-33-negra-13109.jpg",
+        "description": "LLAVE CONMUTADORA DE LUCES 710 1215 1620 33 NEGRA 13109",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1585",
+        "name": "MARCO CUBRE OPTICA L1620 -1634 2005",
+        "brand": "Mercedes Benz",
+        "code": "1520",
+        "originalCode": "1520",
+        "image": "img/products/om366/marco-cubre-optica-l1620-1634-2005-1520.jpg",
+        "description": "MARCO CUBRE OPTICA L1620 -1634 2005 1520",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1586",
+        "name": "CABLE CAPOT L1620 385MM",
+        "brand": "Mercedes Benz",
+        "code": "FR3448",
+        "originalCode": "FR3448",
+        "image": "img/products/om366/cable-capot-l1620-385mm-fr3448.jpg",
+        "description": "CABLE CAPOT L1620 385MM FR3448",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1587",
+        "name": "RULEMAN CRAPODINA HIDRAULICA SOLO L1620",
+        "brand": "Mercedes Benz",
+        "code": "HCS06P17",
+        "originalCode": "HCS06P17",
+        "image": "img/products/om366/ruleman-crapodina-hidraulica-solo-l1620-hcs06p17.jpg",
+        "description": "RULEMAN CRAPODINA HIDRAULICA SOLO L1620 HCS06P17",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1588",
+        "name": "ARRANQUE L1620 1720 12V DELCO 12V29MT",
+        "brand": "Mercedes Benz",
+        "code": "MS847",
+        "originalCode": "MS847",
+        "image": "img/products/om366/arranque-l1620-1720-12v-delco-12v29mt-ms847.jpg",
+        "description": "ARRANQUE L1620 1720 12V DELCO 12V29MT MS847",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1589",
+        "name": "MANGUERA INFERIOR RADIADOR L1620 BIFURCADA DORM",
+        "brand": "Mercedes Benz",
+        "code": "MZ51007",
+        "originalCode": "MZ51007",
+        "image": "img/products/om366/manguera-inferior-radiador-l1620-bifurcada-dorm-mz51007.jpg",
+        "description": "MANGUERA INFERIOR RADIADOR L1620 BIFURCADA DORM MZ51007",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1590",
+        "name": "RETEN DIRECTA L1620 S5-680 48X69X10",
+        "brand": "Mercedes Benz",
+        "code": "S07485",
+        "originalCode": "S07485",
+        "image": "img/products/om366/reten-directa-l1620-s5-680-48x69x10-s07485.jpg",
+        "description": "RETEN DIRECTA L1620 S5-680 48X69X10 S07485",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1591",
+        "name": "AROS MOTOR OM 366 2 CILINDROS 0,50",
+        "brand": "Mercedes Benz",
+        "code": "46067-050",
+        "originalCode": "46067-050",
+        "image": "img/products/om366/aros-motor-om-366-2-cilindros-0-50-46067-050.jpg",
+        "description": "AROS MOTOR OM 366 2 CILINDROS 0,50 46067-050",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1592",
+        "name": "JUNTA MULTIPLE ADMISION OM 366",
+        "brand": "Mercedes Benz",
+        "code": "48623F",
+        "originalCode": "48623F",
+        "image": "img/products/om366/junta-multiple-admision-om-366-48623f.jpg",
+        "description": "JUNTA MULTIPLE ADMISION OM 366 48623F",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1593",
+        "name": "BARRA CORTA DIRECCION 1215 5072",
+        "brand": "Mercedes Benz",
+        "code": "2623",
+        "originalCode": "2623",
+        "image": "img/products/om366/barra-corta-direccion-1215-5072-2623.jpg",
+        "description": "BARRA CORTA DIRECCION 1215 5072 2623",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1594",
+        "name": "CASQUILLO VALVULA ADMISION OM 366 30 GRADOS",
+        "brand": "Mercedes Benz",
+        "code": "301529 A",
+        "originalCode": "301529 A",
+        "image": "img/products/om366/casquillo-valvula-admision-om-366-30-grados-301529-a.jpg",
+        "description": "CASQUILLO VALVULA ADMISION OM 366 30 GRADOS 301529 A",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1595",
+        "name": "MANIJA EXTERIOR PUERTA L 1620 DERECHA",
+        "brand": "Mercedes Benz",
+        "code": "50280",
+        "originalCode": "50280",
+        "image": "img/products/om366/manija-exterior-puerta-l-1620-derecha-50280.jpg",
+        "description": "MANIJA EXTERIOR PUERTA L 1620 DERECHA 50280",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1596",
+        "name": "TAPA RADIADOR MB 1215",
+        "brand": "Mercedes Benz",
+        "code": "50301U",
+        "originalCode": "50301U",
+        "image": "img/products/om366/tapa-radiador-mb-1215-50301u.jpg",
+        "description": "TAPA RADIADOR MB 1215 50301U",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1597",
+        "name": "KIT VARILLA TRABA PUERTA 1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "50362",
+        "originalCode": "50362",
+        "image": "img/products/om366/kit-varilla-traba-puerta-1620-der-50362.jpg",
+        "description": "KIT VARILLA TRABA PUERTA 1620 DER 50362",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1598",
+        "name": "REGISTRO EMBRAGUE 1215",
+        "brand": "Mercedes Benz",
+        "code": "5060",
+        "originalCode": "5060",
+        "image": "img/products/om366/registro-embrague-1215-5060.jpg",
+        "description": "REGISTRO EMBRAGUE 1215 5060",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1599",
+        "name": "CORONA Y PIÑON 7/43 HL 5 1620",
+        "brand": "Mercedes Benz",
+        "code": "60170131",
+        "originalCode": "60170131",
+        "image": "img/products/om366/corona-y-pinon-7-43-hl-5-1620-60170131.jpg",
+        "description": "CORONA Y PIÑON 7/43 HL 5 1620 60170131",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1600",
+        "name": "ARANDELA SATELITE 29 MM 1620",
+        "brand": "Mercedes Benz",
+        "code": "60170647",
+        "originalCode": "60170647",
+        "image": "img/products/om366/arandela-satelite-29-mm-1620-60170647.jpg",
+        "description": "ARANDELA SATELITE 29 MM 1620 60170647",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1601",
+        "name": "KIT SATELITE PLANETARIO 1620 29 MM",
+        "brand": "Mercedes Benz",
+        "code": "60170878",
+        "originalCode": "60170878",
+        "image": "img/products/om366/kit-satelite-planetario-1620-29-mm-60170878.jpg",
+        "description": "KIT SATELITE PLANETARIO 1620 29 MM 60170878",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1602",
+        "name": "KIT SATELITE PLANETARIO L 1620 CON RODILLO",
+        "brand": "Mercedes Benz",
+        "code": "60171848",
+        "originalCode": "60171848",
+        "image": "img/products/om366/kit-satelite-planetario-l-1620-con-rodillo-60171848.jpg",
+        "description": "KIT SATELITE PLANETARIO L 1620 CON RODILLO 60171848",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1603",
+        "name": "MANGUERA FILTRO AIRE A ADMISION 1215",
+        "brand": "Mercedes Benz",
+        "code": "000119",
+        "originalCode": "000119",
+        "image": "img/products/om366/manguera-filtro-aire-a-admision-1215-000119.jpg",
+        "description": "MANGUERA FILTRO AIRE A ADMISION 1215 000119",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1604",
+        "name": "FUELLE TOMA AIRE L 1218 ELEC",
+        "brand": "Mercedes Benz",
+        "code": "000256",
+        "originalCode": "000256",
+        "image": "img/products/om366/fuelle-toma-aire-l-1218-elec-000256.jpg",
+        "description": "FUELLE TOMA AIRE L 1218 ELEC 000256",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1605",
+        "name": "ESQUINERO TRASERO CABINA L1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1626E",
+        "originalCode": "1626E",
+        "image": "img/products/om366/esquinero-trasero-cabina-l1620-izq-1626e.jpg",
+        "description": "ESQUINERO TRASERO CABINA L1620 IZQ 1626E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1606",
+        "name": "OPTICA 1215 1633 A Y B DER",
+        "brand": "Mercedes Benz",
+        "code": "F36V",
+        "originalCode": "F36V",
+        "image": "img/products/om366/optica-1215-1633-a-y-b-der-f36v.jpg",
+        "description": "OPTICA 1215 1633 A Y B DER F36V",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1607",
+        "name": "TAPA BATERIA L 1620 (800908)",
+        "brand": "Mercedes Benz",
+        "code": "000058",
+        "originalCode": "000058",
+        "image": "img/products/om366/tapa-bateria-l-1620-800908-000058.jpg",
+        "description": "TAPA BATERIA L 1620 (800908) 000058",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1608",
+        "name": "TAPA BATERIA 1215 PLASTICA (800254)",
+        "brand": "Mercedes Benz",
+        "code": "000059",
+        "originalCode": "000059",
+        "image": "img/products/om366/tapa-bateria-1215-plastica-800254-000059.jpg",
+        "description": "TAPA BATERIA 1215 PLASTICA (800254) 000059",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1609",
+        "name": "CONTINUACION PARAGOLPE CORTA 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "01-191",
+        "originalCode": "01-191",
+        "image": "img/products/om366/continuacion-paragolpe-corta-1215-der-01-191.jpg",
+        "description": "CONTINUACION PARAGOLPE CORTA 1215 DER 01-191",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1610",
+        "name": "CONTINUACION PARAGOLPE CORTA 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "01-192",
+        "originalCode": "01-192",
+        "image": "img/products/om366/continuacion-paragolpe-corta-1215-izq-01-192.jpg",
+        "description": "CONTINUACION PARAGOLPE CORTA 1215 IZQ 01-192",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1611",
+        "name": "SOPORTE FARO TRASERO Y PATENTE 1620",
+        "brand": "Mercedes Benz",
+        "code": "1035A",
+        "originalCode": "1035A",
+        "image": "img/products/om366/soporte-faro-trasero-y-patente-1620-1035a.jpg",
+        "description": "SOPORTE FARO TRASERO Y PATENTE 1620 1035A",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1612",
+        "name": "PERILLA COMANDO CALEFACCION L 1620 800208",
+        "brand": "Mercedes Benz",
+        "code": "000655",
+        "originalCode": "000655",
+        "image": "img/products/om366/perilla-comando-calefaccion-l-1620-800208-000655.jpg",
+        "description": "PERILLA COMANDO CALEFACCION L 1620 800208 000655",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1613",
+        "name": "GUARDABARRO TRASERO CABINA SIM 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "01-235",
+        "originalCode": "01-235",
+        "image": "img/products/om366/guardabarro-trasero-cabina-sim-1215-der-01-235.jpg",
+        "description": "GUARDABARRO TRASERO CABINA SIM 1215 DER 01-235",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1614",
+        "name": "GUARDABARRO TRASERO CAB SIMPLE 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "01-236",
+        "originalCode": "01-236",
+        "image": "img/products/om366/guardabarro-trasero-cab-simple-1215-izq-01-236.jpg",
+        "description": "GUARDABARRO TRASERO CAB SIMPLE 1215 IZQ 01-236",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1615",
+        "name": "JGO SATELITES,PLANETARIOS CRUZ Y ARAND. 1620 29MM",
+        "brand": "Mercedes Benz",
+        "code": "05350032",
+        "originalCode": "05350032",
+        "image": "img/products/om366/jgo-satelites-planetarios-cruz-y-arand-1620-29mm-05350032.jpg",
+        "description": "JGO SATELITES,PLANETARIOS CRUZ Y ARAND. 1620 29MM 05350032",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1616",
+        "name": "TAPA TANQUE GAS OIL 1215 CON LLAVE",
+        "brand": "Mercedes Benz",
+        "code": "10216",
+        "originalCode": "10216",
+        "image": "img/products/om366/tapa-tanque-gas-oil-1215-con-llave-10216.jpg",
+        "description": "TAPA TANQUE GAS OIL 1215 CON LLAVE 10216",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1617",
+        "name": "MOLDURA OPTICA DELANTERA L 1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "1118D",
+        "originalCode": "1118D",
+        "image": "img/products/om366/moldura-optica-delantera-l-1620-der-1118d.jpg",
+        "description": "MOLDURA OPTICA DELANTERA L 1620 DER 1118D",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1618",
+        "name": "MOLDURA OPTICA DELANTERA L 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1118E",
+        "originalCode": "1118E",
+        "image": "img/products/om366/moldura-optica-delantera-l-1620-izq-1118e.jpg",
+        "description": "MOLDURA OPTICA DELANTERA L 1620 IZQ 1118E",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1619",
+        "name": "SOPORTE ESTRIBO SUPERIOR DERECHO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1136D",
+        "originalCode": "1136D",
+        "image": "img/products/om366/soporte-estribo-superior-derecho-l-1620-1136d.jpg",
+        "description": "SOPORTE ESTRIBO SUPERIOR DERECHO L 1620 1136D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1620",
+        "name": "SOPORTE ESTRIBO SUPERIOR IZQ L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1136E",
+        "originalCode": "1136E",
+        "image": "img/products/om366/soporte-estribo-superior-izq-l-1620-1136e.jpg",
+        "description": "SOPORTE ESTRIBO SUPERIOR IZQ L 1620 1136E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1621",
+        "name": "PORTA LAMPARA OPTICA CHICO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1190106",
+        "originalCode": "1190106",
+        "image": "img/products/om366/porta-lampara-optica-chico-l-1620-1190106.jpg",
+        "description": "PORTA LAMPARA OPTICA CHICO L 1620 1190106",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1622",
+        "name": "JGO SATELITES PLANATARIOS CRUZ Y ARANDELAS 1215 ES",
+        "brand": "Mercedes Benz",
+        "code": "24170557",
+        "originalCode": "24170557",
+        "image": "img/products/om366/jgo-satelites-planatarios-cruz-y-arandelas-1215-es-24170557.jpg",
+        "description": "JGO SATELITES PLANATARIOS CRUZ Y ARANDELAS 1215 ES 24170557",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1623",
+        "name": "BRIDA PIÑON 1620 BULON 12MM",
+        "brand": "Mercedes Benz",
+        "code": "24330047",
+        "originalCode": "24330047",
+        "image": "img/products/om366/brida-pinon-1620-bulon-12mm-24330047.jpg",
+        "description": "BRIDA PIÑON 1620 BULON 12MM 24330047",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1624",
+        "name": "SOPORTE ESTRIBO SUPERIOR IZQ L 1218",
+        "brand": "Mercedes Benz",
+        "code": "1333E",
+        "originalCode": "1333E",
+        "image": "img/products/om366/soporte-estribo-superior-izq-l-1218-1333e.jpg",
+        "description": "SOPORTE ESTRIBO SUPERIOR IZQ L 1218 1333E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1625",
+        "name": "JUNTA CAJA TERMOSTATO OM 366",
+        "brand": "Mercedes Benz",
+        "code": "15235",
+        "originalCode": "15235",
+        "image": "img/products/om366/junta-caja-termostato-om-366-15235.jpg",
+        "description": "JUNTA CAJA TERMOSTATO OM 366 15235",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1626",
+        "name": "JGO JUNTAS MMOTOR SIN TAPA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "15270",
+        "originalCode": "15270",
+        "image": "img/products/om366/jgo-juntas-mmotor-sin-tapa-om-366-15270.jpg",
+        "description": "JGO JUNTAS MMOTOR SIN TAPA OM 366 15270",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1627",
+        "name": "ESQUINERO TRASEERO DERECHO L 1218 D",
+        "brand": "Mercedes Benz",
+        "code": "1709D",
+        "originalCode": "1709D",
+        "image": "img/products/om366/esquinero-traseero-derecho-l-1218-d-1709d.jpg",
+        "description": "ESQUINERO TRASEERO DERECHO L 1218 D 1709D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1628",
+        "name": "SEGURO HORQUILLA EMBRAGUE 1215",
+        "brand": "Mercedes Benz",
+        "code": "176",
+        "originalCode": "176",
+        "image": "img/products/om366/seguro-horquilla-embrague-1215-176.jpg",
+        "description": "SEGURO HORQUILLA EMBRAGUE 1215 176",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1629",
+        "name": "VALVULA CUATRO CIRCUITOS APU L 1620",
+        "brand": "Mercedes Benz",
+        "code": "I31163",
+        "originalCode": "I31163",
+        "image": "img/products/om366/valvula-cuatro-circuitos-apu-l-1620-i31163.jpg",
+        "description": "VALVULA CUATRO CIRCUITOS APU L 1620 I31163",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1630",
+        "name": "TUERCA ESTIRA CORREA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC0441",
+        "originalCode": "MIC0441",
+        "image": "img/products/om366/tuerca-estira-correa-l-1620-mic0441.jpg",
+        "description": "TUERCA ESTIRA CORREA L 1620 MIC0441",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1631",
+        "name": "BUJE BRONCE HOLLA 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC0576",
+        "originalCode": "MIC0576",
+        "image": "img/products/om366/buje-bronce-holla-1620-mic0576.jpg",
+        "description": "BUJE BRONCE HOLLA 1620 MIC0576",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1632",
+        "name": "CAÑO LUBRICACION TURBO OM 366 LA CON TURBO LATERAL",
+        "brand": "Mercedes Benz",
+        "code": "MV1721",
+        "originalCode": "MV1721",
+        "image": "img/products/om366/cano-lubricacion-turbo-om-366-la-con-turbo-lateral-mv1721.jpg",
+        "description": "CAÑO LUBRICACION TURBO OM 366 LA CON TURBO LATERAL MV1721",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1633",
+        "name": "MANGUERA DESCARGA ACEITE TURBO COMP OM 366",
+        "brand": "Mercedes Benz",
+        "code": "MZ12002",
+        "originalCode": "MZ12002",
+        "image": "img/products/om366/manguera-descarga-aceite-turbo-comp-om-366-mz12002.jpg",
+        "description": "MANGUERA DESCARGA ACEITE TURBO COMP OM 366 MZ12002",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1634",
+        "name": "SOPORTE CARDAN 45 MM 1620",
+        "brand": "Mercedes Benz",
+        "code": "R3034",
+        "originalCode": "R3034",
+        "image": "img/products/om366/soporte-cardan-45-mm-1620-r3034.jpg",
+        "description": "SOPORTE CARDAN 45 MM 1620 R3034",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1635",
+        "name": "SOPORTE MOTOR DELANTERO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "R382",
+        "originalCode": "R382",
+        "image": "img/products/om366/soporte-motor-delantero-l-1620-r382.jpg",
+        "description": "SOPORTE MOTOR DELANTERO L 1620 R382",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1636",
+        "name": "TACO GOMA SOPORTE INTERCOOLER L 1620",
+        "brand": "Mercedes Benz",
+        "code": "R720",
+        "originalCode": "R720",
+        "image": "img/products/om366/taco-goma-soporte-intercooler-l-1620-r720.jpg",
+        "description": "TACO GOMA SOPORTE INTERCOOLER L 1620 R720",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1637",
+        "name": "TACO MOTOR DELANTERO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "R740",
+        "originalCode": "R740",
+        "image": "img/products/om366/taco-motor-delantero-l-1620-r740.jpg",
+        "description": "TACO MOTOR DELANTERO L 1620 R740",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1638",
+        "name": "SOPORTE MOTOR DELANTERO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "R755",
+        "originalCode": "R755",
+        "image": "img/products/om366/soporte-motor-delantero-l-1620-r755.jpg",
+        "description": "SOPORTE MOTOR DELANTERO L 1620 R755",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1639",
+        "name": "CAÑO COMPRESOR L 1620 2 TRAMO",
+        "brand": "Mercedes Benz",
+        "code": "W4428",
+        "originalCode": "W4428",
+        "image": "img/products/om366/cano-compresor-l-1620-2-tramo-w4428.jpg",
+        "description": "CAÑO COMPRESOR L 1620 2 TRAMO W4428",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1640",
+        "name": "CAÑO EMBRAGUE 1620 FORMA S",
+        "brand": "Mercedes Benz",
+        "code": "W4448",
+        "originalCode": "W4448",
+        "image": "img/products/om366/cano-embrague-1620-forma-s-w4448.jpg",
+        "description": "CAÑO EMBRAGUE 1620 FORMA S W4448",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1641",
+        "name": "CABLE CAPOT L1620 545 MM",
+        "brand": "Mercedes Benz",
+        "code": "FR3401",
+        "originalCode": "FR3401",
+        "image": "img/products/om366/cable-capot-l1620-545-mm-fr3401.jpg",
+        "description": "CABLE CAPOT L1620 545 MM FR3401",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1642",
+        "name": "VOLANTE MOTOR CON CORONA L 1620 CAJA G-85",
+        "brand": "Mercedes Benz",
+        "code": "46350124",
+        "originalCode": "46350124",
+        "image": "img/products/om366/volante-motor-con-corona-l-1620-caja-g-85-46350124.jpg",
+        "description": "VOLANTE MOTOR CON CORONA L 1620 CAJA G-85 46350124",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1643",
+        "name": "JGO JUNTAS MOTOR COMPLETO OM 366 ASP",
+        "brand": "Mercedes Benz",
+        "code": "48606EFPSD",
+        "originalCode": "48606EFPSD",
+        "image": "img/products/om366/jgo-juntas-motor-completo-om-366-asp-48606efpsd.jpg",
+        "description": "JGO JUNTAS MOTOR COMPLETO OM 366 ASP 48606EFPSD",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1644",
+        "name": "BARRA LARGA DIRECCION 1215 AL 1633 5108",
+        "brand": "Mercedes Benz",
+        "code": "2708",
+        "originalCode": "2708",
+        "image": "img/products/om366/barra-larga-direccion-1215-al-1633-5108-2708.jpg",
+        "description": "BARRA LARGA DIRECCION 1215 AL 1633 5108 2708",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1645",
+        "name": "CRAPODINA HIDRAULICA 712C L 1620 ATEGO",
+        "brand": "Mercedes Benz",
+        "code": "3182998501FLRS",
+        "originalCode": "3182998501FLRS",
+        "image": "img/products/om366/crapodina-hidraulica-712c-l-1620-atego-3182998501flrs.jpg",
+        "description": "CRAPODINA HIDRAULICA 712C L 1620 ATEGO 3182998501FLRS",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1646",
+        "name": "KIT MANIJA INTERIOR PUERTA L 1620 DERECHA",
+        "brand": "Mercedes Benz",
+        "code": "50286",
+        "originalCode": "50286",
+        "image": "img/products/om366/kit-manija-interior-puerta-l-1620-derecha-50286.jpg",
+        "description": "KIT MANIJA INTERIOR PUERTA L 1620 DERECHA 50286",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1647",
+        "name": "KIT MANIJA INTERIOR PUERTA L 1620 IZQUIERDA",
+        "brand": "Mercedes Benz",
+        "code": "50287",
+        "originalCode": "50287",
+        "image": "img/products/om366/kit-manija-interior-puerta-l-1620-izquierda-50287.jpg",
+        "description": "KIT MANIJA INTERIOR PUERTA L 1620 IZQUIERDA 50287",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1648",
+        "name": "ANILLO SINCRONIZADO 5 S5-680 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1262304050",
+        "originalCode": "1262304050",
+        "image": "img/products/om366/anillo-sincronizado-5-s5-680-l-1620-1262304050.jpg",
+        "description": "ANILLO SINCRONIZADO 5 S5-680 L 1620 1262304050",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1649",
+        "name": "JUNTA GUARDABARRO TRAS DER 1215",
+        "brand": "Mercedes Benz",
+        "code": "000065",
+        "originalCode": "000065",
+        "image": "img/products/om366/junta-guardabarro-tras-der-1215-000065.jpg",
+        "description": "JUNTA GUARDABARRO TRAS DER 1215 000065",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1650",
+        "name": "JUNTA TAPA DISTRIBUCION OM 366 LA OMNIBUS",
+        "brand": "Mercedes Benz",
+        "code": "00015227",
+        "originalCode": "00015227",
+        "image": "img/products/om366/junta-tapa-distribucion-om-366-la-omnibus-00015227.jpg",
+        "description": "JUNTA TAPA DISTRIBUCION OM 366 LA OMNIBUS 00015227",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1651",
+        "name": "TOMA AIRE FILTRO AIRE L 1620",
+        "brand": "Mercedes Benz",
+        "code": "000370",
+        "originalCode": "000370",
+        "image": "img/products/om366/toma-aire-filtro-aire-l-1620-000370.jpg",
+        "description": "TOMA AIRE FILTRO AIRE L 1620 000370",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1652",
+        "name": "MANGUERA ADMISION A FILTRO L 1218 EL 800360",
+        "brand": "Mercedes Benz",
+        "code": "000424",
+        "originalCode": "000424",
+        "image": "img/products/om366/manguera-admision-a-filtro-l-1218-el-800360-000424.jpg",
+        "description": "MANGUERA ADMISION A FILTRO L 1218 EL 800360 000424",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1653",
+        "name": "ENGRANAJE CICLO AVANCE OM 366 LA ECOLOGICO OF 1721",
+        "brand": "Mercedes Benz",
+        "code": "04350030",
+        "originalCode": "04350030",
+        "image": "img/products/om366/engranaje-ciclo-avance-om-366-la-ecologico-of-1721-04350030.jpg",
+        "description": "ENGRANAJE CICLO AVANCE OM 366 LA ECOLOGICO OF 1721 04350030",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1654",
+        "name": "BRIDA PIÑON OF 1721 1417 LK 1620",
+        "brand": "Mercedes Benz",
+        "code": "04857-1",
+        "originalCode": "04857-1",
+        "image": "img/products/om366/brida-pinon-of-1721-1417-lk-1620-04857-1.jpg",
+        "description": "BRIDA PIÑON OF 1721 1417 LK 1620 04857-1",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1655",
+        "name": "ENGRANAJE DESLIZANTE CHOCLO 1114 1215",
+        "brand": "Mercedes Benz",
+        "code": "113629",
+        "originalCode": "113629",
+        "image": "img/products/om366/engranaje-deslizante-choclo-1114-1215-113629.jpg",
+        "description": "ENGRANAJE DESLIZANTE CHOCLO 1114 1215 113629",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1656",
+        "name": "CABLE ACEL. CAJA A PEDAL L 1620 541MM",
+        "brand": "Mercedes Benz",
+        "code": "121111",
+        "originalCode": "121111",
+        "image": "img/products/om366/cable-acel-caja-a-pedal-l-1620-541mm-121111.jpg",
+        "description": "CABLE ACEL. CAJA A PEDAL L 1620 541MM 121111",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1657",
+        "name": "KIT SATELITE PLANATARIOS CRUZ Y ARANDELAS 1215 EST",
+        "brand": "Mercedes Benz",
+        "code": "121748",
+        "originalCode": "121748",
+        "image": "img/products/om366/kit-satelite-planatarios-cruz-y-arandelas-1215-est-121748.jpg",
+        "description": "KIT SATELITE PLANATARIOS CRUZ Y ARANDELAS 1215 EST 121748",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1658",
+        "name": "CENTRO PARAGOLPE L 1620 CAB SIMPLE CHA",
+        "brand": "Mercedes Benz",
+        "code": "1502",
+        "originalCode": "1502",
+        "image": "img/products/om366/centro-paragolpe-l-1620-cab-simple-cha-1502.jpg",
+        "description": "CENTRO PARAGOLPE L 1620 CAB SIMPLE CHA 1502",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1659",
+        "name": "JUNTA MULTIPLE ESCAPE OM 366 JGO",
+        "brand": "Mercedes Benz",
+        "code": "15208",
+        "originalCode": "15208",
+        "image": "img/products/om366/junta-multiple-escape-om-366-jgo-15208.jpg",
+        "description": "JUNTA MULTIPLE ESCAPE OM 366 JGO 15208",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1660",
+        "name": "JUNTA MULTIPLE ADMISION OM 366 JGO",
+        "brand": "Mercedes Benz",
+        "code": "15210",
+        "originalCode": "15210",
+        "image": "img/products/om366/junta-multiple-admision-om-366-jgo-15210.jpg",
+        "description": "JUNTA MULTIPLE ADMISION OM 366 JGO 15210",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1661",
+        "name": "JUNTA BASE FILTRO ACEITE OM 366",
+        "brand": "Mercedes Benz",
+        "code": "15250",
+        "originalCode": "15250",
+        "image": "img/products/om366/junta-base-filtro-aceite-om-366-15250.jpg",
+        "description": "JUNTA BASE FILTRO ACEITE OM 366 15250",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1662",
+        "name": "JGO JUNTAS MOTOR OM 366 SIN TAPA CON RETENES",
+        "brand": "Mercedes Benz",
+        "code": "81902",
+        "originalCode": "81902",
+        "image": "img/products/om366/jgo-juntas-motor-om-366-sin-tapa-con-retenes-81902.jpg",
+        "description": "JGO JUNTAS MOTOR OM 366 SIN TAPA CON RETENES 81902",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1663",
+        "name": "VALVULA SOLENOIDE APU 12 V L 1620",
+        "brand": "Mercedes Benz",
+        "code": "8845016340",
+        "originalCode": "8845016340",
+        "image": "img/products/om366/valvula-solenoide-apu-12-v-l-1620-8845016340.jpg",
+        "description": "VALVULA SOLENOIDE APU 12 V L 1620 8845016340",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1664",
+        "name": "ANILLO SINCRONIZADO 5 S5-680 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "95530397",
+        "originalCode": "95530397",
+        "image": "img/products/om366/anillo-sincronizado-5-s5-680-l-1620-95530397.jpg",
+        "description": "ANILLO SINCRONIZADO 5 S5-680 L 1620 95530397",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1665",
+        "name": "BOMBA EMBRAGUE MB 1215",
+        "brand": "Mercedes Benz",
+        "code": "C2607",
+        "originalCode": "C2607",
+        "image": "img/products/om366/bomba-embrague-mb-1215-c2607.jpg",
+        "description": "BOMBA EMBRAGUE MB 1215 C2607",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1666",
+        "name": "BOMBIN EMBRAGUE MB 1215",
+        "brand": "Mercedes Benz",
+        "code": "C2614",
+        "originalCode": "C2614",
+        "image": "img/products/om366/bombin-embrague-mb-1215-c2614.jpg",
+        "description": "BOMBIN EMBRAGUE MB 1215 C2614",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1667",
+        "name": "CABLE CAPOT CORTO 1215 548MM",
+        "brand": "Mercedes Benz",
+        "code": "FR3250",
+        "originalCode": "FR3250",
+        "image": "img/products/om366/cable-capot-corto-1215-548mm-fr3250.jpg",
+        "description": "CABLE CAPOT CORTO 1215 548MM FR3250",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1668",
+        "name": "CABLE PUERTA IZQ L 1620",
+        "brand": "Mercedes Benz",
+        "code": "FR3561",
+        "originalCode": "FR3561",
+        "image": "img/products/om366/cable-puerta-izq-l-1620-fr3561.jpg",
+        "description": "CABLE PUERTA IZQ L 1620 FR3561",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1669",
+        "name": "CABLE PUERTA L 1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "FR3562",
+        "originalCode": "FR3562",
+        "image": "img/products/om366/cable-puerta-l-1620-der-fr3562.jpg",
+        "description": "CABLE PUERTA L 1620 DER FR3562",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1670",
+        "name": "CRAPODINA HIDRAULICA L 1620 OF 1417",
+        "brand": "Mercedes Benz",
+        "code": "HCS13H09",
+        "originalCode": "HCS13H09",
+        "image": "img/products/om366/crapodina-hidraulica-l-1620-of-1417-hcs13h09.jpg",
+        "description": "CRAPODINA HIDRAULICA L 1620 OF 1417 HCS13H09",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1671",
+        "name": "COMPRESOR COMPLETO L 1620 75 MM",
+        "brand": "Mercedes Benz",
+        "code": "I88770",
+        "originalCode": "I88770",
+        "image": "img/products/om366/compresor-completo-l-1620-75-mm-i88770.jpg",
+        "description": "COMPRESOR COMPLETO L 1620 75 MM I88770",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1672",
+        "name": "SILENCIADOR OF 1722 L 1620 CAJA 6",
+        "brand": "Mercedes Benz",
+        "code": "M087N",
+        "originalCode": "M087N",
+        "image": "img/products/om366/silenciador-of-1722-l-1620-caja-6-m087n.jpg",
+        "description": "SILENCIADOR OF 1722 L 1620 CAJA 6 M087N",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1673",
+        "name": "TUERCA PASANTE ESTIRA CORREA COMPR OM 366 LA",
+        "brand": "Mercedes Benz",
+        "code": "MIC0401",
+        "originalCode": "MIC0401",
+        "image": "img/products/om366/tuerca-pasante-estira-correa-compr-om-366-la-mic0401.jpg",
+        "description": "TUERCA PASANTE ESTIRA CORREA COMPR OM 366 LA MIC0401",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1674",
+        "name": "LEVA ESTRIADA CAJA G 85 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC0990",
+        "originalCode": "MIC0990",
+        "image": "img/products/om366/leva-estriada-caja-g-85-l-1620-mic0990.jpg",
+        "description": "LEVA ESTRIADA CAJA G 85 L 1620 MIC0990",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1675",
+        "name": "RULEMAN ESTIRA CORREA COMPRESOR L 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC1204",
+        "originalCode": "MIC1204",
+        "image": "img/products/om366/ruleman-estira-correa-compresor-l-1620-mic1204.jpg",
+        "description": "RULEMAN ESTIRA CORREA COMPRESOR L 1620 MIC1204",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1676",
+        "name": "TUERCA PORTA PIÑON L 1620 HL 5",
+        "brand": "Mercedes Benz",
+        "code": "MIC1315",
+        "originalCode": "MIC1315",
+        "image": "img/products/om366/tuerca-porta-pinon-l-1620-hl-5-mic1315.jpg",
+        "description": "TUERCA PORTA PIÑON L 1620 HL 5 MIC1315",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1677",
+        "name": "FLEXIBLE MULTIPLE ADMISION A TPS B INYECTORA 366",
+        "brand": "Mercedes Benz",
+        "code": "MV1714",
+        "originalCode": "MV1714",
+        "image": "img/products/om366/flexible-multiple-admision-a-tps-b-inyectora-366-mv1714.jpg",
+        "description": "FLEXIBLE MULTIPLE ADMISION A TPS B INYECTORA 366 MV1714",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1678",
+        "name": "CRUCETA CARDAN L 1620 41.2 X 126MM",
+        "brand": "Mercedes Benz",
+        "code": "SPL90-1X",
+        "originalCode": "SPL90-1X",
+        "image": "img/products/om366/cruceta-cardan-l-1620-41-2-x-126mm-spl90-1x.jpg",
+        "description": "CRUCETA CARDAN L 1620 41.2 X 126MM SPL90-1X",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1679",
+        "name": "PIPETA TERMOSTATO MB 1215-1620 OM 366",
+        "brand": "Mercedes Benz",
+        "code": "VN3762030774",
+        "originalCode": "VN3762030774",
+        "image": "img/products/om366/pipeta-termostato-mb-1215-1620-om-366-vn3762030774.jpg",
+        "description": "PIPETA TERMOSTATO MB 1215-1620 OM 366 VN3762030774",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1680",
+        "name": "TANQUE COMPENSACION L1620 SIN SENSOR",
+        "brand": "Mercedes Benz",
+        "code": "3845008249",
+        "originalCode": "3845008249",
+        "image": "img/products/om366/tanque-compensacion-l1620-sin-sensor-3845008249.jpg",
+        "description": "TANQUE COMPENSACION L1620 SIN SENSOR 3845008249",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1681",
+        "name": "VALVULA MOTOR ESCAPE OM 366LA L1620 20 GR",
+        "brand": "Mercedes Benz",
+        "code": "23147 E",
+        "originalCode": "23147 E",
+        "image": "img/products/om366/valvula-motor-escape-om-366la-l1620-20-gr-23147-e.jpg",
+        "description": "VALVULA MOTOR ESCAPE OM 366LA L1620 20 GR 23147 E",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1682",
+        "name": "REPARACION VALVULA 3/2 VIAS APU L1620",
+        "brand": "Mercedes Benz",
+        "code": "9347050012",
+        "originalCode": "9347050012",
+        "image": "img/products/om366/reparacion-valvula-3-2-vias-apu-l1620-9347050012.jpg",
+        "description": "REPARACION VALVULA 3/2 VIAS APU L1620 9347050012",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1683",
+        "name": "MAQUINA LEVANTA VIDRIO L 1620 IZQUIERDA",
+        "brand": "Mercedes Benz",
+        "code": "50317",
+        "originalCode": "50317",
+        "image": "img/products/om366/maquina-levanta-vidrio-l-1620-izquierda-50317.jpg",
+        "description": "MAQUINA LEVANTA VIDRIO L 1620 IZQUIERDA 50317",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1684",
+        "name": "MAQUINA LEVANTA VIDRIO L 1620 DERECHA",
+        "brand": "Mercedes Benz",
+        "code": "50318",
+        "originalCode": "50318",
+        "image": "img/products/om366/maquina-levanta-vidrio-l-1620-derecha-50318.jpg",
+        "description": "MAQUINA LEVANTA VIDRIO L 1620 DERECHA 50318",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1685",
+        "name": "ROSETA MANIJA LEVANTA CRISTAL L 1620",
+        "brand": "Mercedes Benz",
+        "code": "50436",
+        "originalCode": "50436",
+        "image": "img/products/om366/roseta-manija-levanta-cristal-l-1620-50436.jpg",
+        "description": "ROSETA MANIJA LEVANTA CRISTAL L 1620 50436",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1686",
+        "name": "ROSETA MANIJA LEVANTA CRISTAL L 1620",
+        "brand": "Mercedes Benz",
+        "code": "50437",
+        "originalCode": "50437",
+        "image": "img/products/om366/roseta-manija-levanta-cristal-l-1620-50437.jpg",
+        "description": "ROSETA MANIJA LEVANTA CRISTAL L 1620 50437",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1687",
+        "name": "MANIJA LEVANTA CRISTAL L 1620 AZUL",
+        "brand": "Mercedes Benz",
+        "code": "50439",
+        "originalCode": "50439",
+        "image": "img/products/om366/manija-levanta-cristal-l-1620-azul-50439.jpg",
+        "description": "MANIJA LEVANTA CRISTAL L 1620 AZUL 50439",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1688",
+        "name": "PLASTICO FILTRO AIRE L 1620 ( 801001)",
+        "brand": "Mercedes Benz",
+        "code": "000135",
+        "originalCode": "000135",
+        "image": "img/products/om366/plastico-filtro-aire-l-1620-801001-000135.jpg",
+        "description": "PLASTICO FILTRO AIRE L 1620 ( 801001) 000135",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1689",
+        "name": "MANGUERA FILTRO AIRE A TURBO L 1620 (800348)",
+        "brand": "Mercedes Benz",
+        "code": "000152",
+        "originalCode": "000152",
+        "image": "img/products/om366/manguera-filtro-aire-a-turbo-l-1620-800348-000152.jpg",
+        "description": "MANGUERA FILTRO AIRE A TURBO L 1620 (800348) 000152",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1690",
+        "name": "FUELLE TOMA AIRE A FILTRO L 1620 801146",
+        "brand": "Mercedes Benz",
+        "code": "000292",
+        "originalCode": "000292",
+        "image": "img/products/om366/fuelle-toma-aire-a-filtro-l-1620-801146-000292.jpg",
+        "description": "FUELLE TOMA AIRE A FILTRO L 1620 801146 000292",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1691",
+        "name": "BOQUILLA FILTRO AIRE L 1620 CARGO",
+        "brand": "Mercedes Benz",
+        "code": "000841",
+        "originalCode": "000841",
+        "image": "img/products/om366/boquilla-filtro-aire-l-1620-cargo-000841.jpg",
+        "description": "BOQUILLA FILTRO AIRE L 1620 CARGO 000841",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1692",
+        "name": "RETEN DIRECTA L 1620 ZF S5-680 48X69X10",
+        "brand": "Mercedes Benz",
+        "code": "10967",
+        "originalCode": "10967",
+        "image": "img/products/om366/reten-directa-l-1620-zf-s5-680-48x69x10-10967.jpg",
+        "description": "RETEN DIRECTA L 1620 ZF S5-680 48X69X10 10967",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1693",
+        "name": "CABLE MULT. L 1620 CAB. VIEJA MOD 96",
+        "brand": "Mercedes Benz",
+        "code": "121134",
+        "originalCode": "121134",
+        "image": "img/products/om366/cable-mult-l-1620-cab-vieja-mod-96-121134.jpg",
+        "description": "CABLE MULT. L 1620 CAB. VIEJA MOD 96 121134",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1694",
+        "name": "PALIER MB L 1620 ROCKWEL 240",
+        "brand": "Mercedes Benz",
+        "code": "19330288",
+        "originalCode": "19330288",
+        "image": "img/products/om366/palier-mb-l-1620-rockwel-240-19330288.jpg",
+        "description": "PALIER MB L 1620 ROCKWEL 240 19330288",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1695",
+        "name": "EJE VELOCIMETRO ZF S5-680 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1290295017",
+        "originalCode": "1290295017",
+        "image": "img/products/om366/eje-velocimetro-zf-s5-680-l-1620-1290295017.jpg",
+        "description": "EJE VELOCIMETRO ZF S5-680 L 1620 1290295017",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1696",
+        "name": "JUNTA TAPA CILINDRO OM 366",
+        "brand": "Mercedes Benz",
+        "code": "15220",
+        "originalCode": "15220",
+        "image": "img/products/om366/junta-tapa-cilindro-om-366-15220.jpg",
+        "description": "JUNTA TAPA CILINDRO OM 366 15220",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1697",
+        "name": "BRIDA PIÑON L 1620 SPL 90 OF 1721",
+        "brand": "Mercedes Benz",
+        "code": "801703",
+        "originalCode": "801703",
+        "image": "img/products/om366/brida-pinon-l-1620-spl-90-of-1721-801703.jpg",
+        "description": "BRIDA PIÑON L 1620 SPL 90 OF 1721 801703",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1698",
+        "name": "JUNTA TAPA CILINDRO OM 366",
+        "brand": "Mercedes Benz",
+        "code": "82175",
+        "originalCode": "82175",
+        "image": "img/products/om366/junta-tapa-cilindro-om-366-82175.jpg",
+        "description": "JUNTA TAPA CILINDRO OM 366 82175",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1699",
+        "name": "JUNTA TAPA CILINDRO OM 366",
+        "brand": "Mercedes Benz",
+        "code": "612735040",
+        "originalCode": "612735040",
+        "image": "img/products/om366/junta-tapa-cilindro-om-366-612735040.jpg",
+        "description": "JUNTA TAPA CILINDRO OM 366 612735040",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1700",
+        "name": "AROS MOTOR OM 366 3 R 2 BOCAS RECTIFICACION",
+        "brand": "Mercedes Benz",
+        "code": "A48410",
+        "originalCode": "A48410",
+        "image": "img/products/om366/aros-motor-om-366-3-r-2-bocas-rectificacion-a48410.jpg",
+        "description": "AROS MOTOR OM 366 3 R 2 BOCAS RECTIFICACION A48410",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1701",
+        "name": "VISCOSO VENTILADOR L 1620 OF1417 ATEGO 1418",
+        "brand": "Mercedes Benz",
+        "code": "CFC000084",
+        "originalCode": "CFC000084",
+        "image": "img/products/om366/viscoso-ventilador-l-1620-of1417-atego-1418-cfc000084.jpg",
+        "description": "VISCOSO VENTILADOR L 1620 OF1417 ATEGO 1418 CFC000084",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1702",
+        "name": "BOMBA AGUA L 1620 OM 366LA CUELLO LARGO",
+        "brand": "Mercedes Benz",
+        "code": "E401012",
+        "originalCode": "E401012",
+        "image": "img/products/om366/bomba-agua-l-1620-om-366la-cuello-largo-e401012.jpg",
+        "description": "BOMBA AGUA L 1620 OM 366LA CUELLO LARGO E401012",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1703",
+        "name": "FILTRO FLOTANTE TANQUE 1620 8 MM",
+        "brand": "Mercedes Benz",
+        "code": "FM152/17",
+        "originalCode": "FM152/17",
+        "image": "img/products/om366/filtro-flotante-tanque-1620-8-mm-fm152-17.jpg",
+        "description": "FILTRO FLOTANTE TANQUE 1620 8 MM FM152/17",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1704",
+        "name": "CABLE ACEL. CAJA A BOMBA 549 MM L 1620",
+        "brand": "Mercedes Benz",
+        "code": "FR3137",
+        "originalCode": "FR3137",
+        "image": "img/products/om366/cable-acel-caja-a-bomba-549-mm-l-1620-fr3137.jpg",
+        "description": "CABLE ACEL. CAJA A BOMBA 549 MM L 1620 FR3137",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1705",
+        "name": "CABLE REGULADOR MARCHA 1215 1015 MM",
+        "brand": "Mercedes Benz",
+        "code": "FR3290",
+        "originalCode": "FR3290",
+        "image": "img/products/om366/cable-regulador-marcha-1215-1015-mm-fr3290.jpg",
+        "description": "CABLE REGULADOR MARCHA 1215 1015 MM FR3290",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1706",
+        "name": "MANIJA APERTURA CAPOT DERECHA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "FR3402",
+        "originalCode": "FR3402",
+        "image": "img/products/om366/manija-apertura-capot-derecha-l-1620-fr3402.jpg",
+        "description": "MANIJA APERTURA CAPOT DERECHA L 1620 FR3402",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1707",
+        "name": "MANIJA APERTURA CAPOT IZQUIERDA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "FR526",
+        "originalCode": "FR526",
+        "image": "img/products/om366/manija-apertura-capot-izquierda-l-1620-fr526.jpg",
+        "description": "MANIJA APERTURA CAPOT IZQUIERDA L 1620 FR526",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1708",
+        "name": "FILTRO AIRE SECUNDARIO L 1620 LX1056 LX971",
+        "brand": "Mercedes Benz",
+        "code": "LXS227",
+        "originalCode": "LXS227",
+        "image": "img/products/om366/filtro-aire-secundario-l-1620-lx1056-lx971-lxs227.jpg",
+        "description": "FILTRO AIRE SECUNDARIO L 1620 LX1056 LX971 LXS227",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1709",
+        "name": "EJE HORQUILLA EMBRAGUE L 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC0490",
+        "originalCode": "MIC0490",
+        "image": "img/products/om366/eje-horquilla-embrague-l-1620-mic0490.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE L 1620 MIC0490",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1710",
+        "name": "CAÑO RETORNO GAS OIL P ENCHUFAR MANGUERA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "MV0213A",
+        "originalCode": "MV0213A",
+        "image": "img/products/om366/cano-retorno-gas-oil-p-enchufar-manguera-om-366-mv0213a.jpg",
+        "description": "CAÑO RETORNO GAS OIL P ENCHUFAR MANGUERA OM 366 MV0213A",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1711",
+        "name": "SOPORTE MOTOR TRASERO L 1620 CAJA 6",
+        "brand": "Mercedes Benz",
+        "code": "R294",
+        "originalCode": "R294",
+        "image": "img/products/om366/soporte-motor-trasero-l-1620-caja-6-r294.jpg",
+        "description": "SOPORTE MOTOR TRASERO L 1620 CAJA 6 R294",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1712",
+        "name": "PIPETA TERMOSTATO L 1620 2 TERMOSTATO OM 366LA",
+        "brand": "Mercedes Benz",
+        "code": "VN3762039174",
+        "originalCode": "VN3762039174",
+        "image": "img/products/om366/pipeta-termostato-l-1620-2-termostato-om-366la-vn3762039174.jpg",
+        "description": "PIPETA TERMOSTATO L 1620 2 TERMOSTATO OM 366LA VN3762039174",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1713",
+        "name": "CRUCETA CARDAN 47.64 X 134.90 MM L1620 FORD CARGO",
+        "brand": "Mercedes Benz",
+        "code": "5-438X",
+        "originalCode": "5-438X",
+        "image": "img/products/om366/cruceta-cardan-47-64-x-134-90-mm-l1620-ford-cargo-5-438x.jpg",
+        "description": "CRUCETA CARDAN 47.64 X 134.90 MM L1620 FORD CARGO 5-438X",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1714",
+        "name": "VALVULA 6 VIAS APU L1620 OF 1417 TIPO KNORR",
+        "brand": "Mercedes Benz",
+        "code": "064505001",
+        "originalCode": "064505001",
+        "image": "img/products/om366/valvula-6-vias-apu-l1620-of-1417-tipo-knorr-064505001.jpg",
+        "description": "VALVULA 6 VIAS APU L1620 OF 1417 TIPO KNORR 064505001",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1715",
+        "name": "TANQUE COMPENSACION L1620 OF 1417 CON SENSOR",
+        "brand": "Mercedes Benz",
+        "code": "3845008449",
+        "originalCode": "3845008449",
+        "image": "img/products/om366/tanque-compensacion-l1620-of-1417-con-sensor-3845008449.jpg",
+        "description": "TANQUE COMPENSACION L1620 OF 1417 CON SENSOR 3845008449",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1716",
+        "name": "CRAPODINA EMBRAGUE 1622 L 1620 OHL 1420",
+        "brand": "Mercedes Benz",
+        "code": "3354FLRS",
+        "originalCode": "3354FLRS",
+        "image": "img/products/om366/crapodina-embrague-1622-l-1620-ohl-1420-3354flrs.jpg",
+        "description": "CRAPODINA EMBRAGUE 1622 L 1620 OHL 1420 3354FLRS",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1717",
+        "name": "CODO SALIDA FILTRO AIRE L 1620 CONSTELLATION",
+        "brand": "Mercedes Benz",
+        "code": "000826",
+        "originalCode": "000826",
+        "image": "img/products/om366/codo-salida-filtro-aire-l-1620-constellation-000826.jpg",
+        "description": "CODO SALIDA FILTRO AIRE L 1620 CONSTELLATION 000826",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1718",
+        "name": "TAPA TANQUE GAS OIL 1215 S LLAVE OH 1621",
+        "brand": "Mercedes Benz",
+        "code": "10239",
+        "originalCode": "10239",
+        "image": "img/products/om366/tapa-tanque-gas-oil-1215-s-llave-oh-1621-10239.jpg",
+        "description": "TAPA TANQUE GAS OIL 1215 S LLAVE OH 1621 10239",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1719",
+        "name": "TAPA DEPOSITO AGUA 1215 VERDE",
+        "brand": "Mercedes Benz",
+        "code": "10393",
+        "originalCode": "10393",
+        "image": "img/products/om366/tapa-deposito-agua-1215-verde-10393.jpg",
+        "description": "TAPA DEPOSITO AGUA 1215 VERDE 10393",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1720",
+        "name": "POLEA BOMBA AGUA 1620 4 CANALES FUNDICION AUG 28",
+        "brand": "Mercedes Benz",
+        "code": "10810",
+        "originalCode": "10810",
+        "image": "img/products/om366/polea-bomba-agua-1620-4-canales-fundicion-aug-28-10810.jpg",
+        "description": "POLEA BOMBA AGUA 1620 4 CANALES FUNDICION AUG 28 10810",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1721",
+        "name": "JUNTA TAPA CILINDRO OM 366 A 352",
+        "brand": "Mercedes Benz",
+        "code": "JC48350/6",
+        "originalCode": "JC48350/6",
+        "image": "img/products/om366/junta-tapa-cilindro-om-366-a-352-jc48350-6.jpg",
+        "description": "JUNTA TAPA CILINDRO OM 366 A 352 JC48350/6",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1722",
+        "name": "FILTRO AIRE MB 1215 M VIEJO",
+        "brand": "Mercedes Benz",
+        "code": "LX236/1",
+        "originalCode": "LX236/1",
+        "image": "img/products/om366/filtro-aire-mb-1215-m-viejo-lx236-1.jpg",
+        "description": "FILTRO AIRE MB 1215 M VIEJO LX236/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1723",
+        "name": "TACO MOTOR DELANTERO L 1620 2005 OF 1721",
+        "brand": "Mercedes Benz",
+        "code": "R3229",
+        "originalCode": "R3229",
+        "image": "img/products/om366/taco-motor-delantero-l-1620-2005-of-1721-r3229.jpg",
+        "description": "TACO MOTOR DELANTERO L 1620 2005 OF 1721 R3229",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1724",
+        "name": "CRAPODINA HIDRAULICA M BENZ 712C L 1620",
+        "brand": "Mercedes Benz",
+        "code": "ZA5108.3",
+        "originalCode": "ZA5108.3",
+        "image": "img/products/om366/crapodina-hidraulica-m-benz-712c-l-1620-za5108-3.jpg",
+        "description": "CRAPODINA HIDRAULICA M BENZ 712C L 1620 ZA5108.3",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1725",
+        "name": "TANQUE COMPENSACION AGUA L1620 O 500 (800345)",
+        "brand": "Mercedes Benz",
+        "code": "000015",
+        "originalCode": "000015",
+        "image": "img/products/om366/tanque-compensacion-agua-l1620-o-500-800345-000015.jpg",
+        "description": "TANQUE COMPENSACION AGUA L1620 O 500 (800345) 000015",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1726",
+        "name": "TAPA TANQUE GAS OIL L1620 VW FORD S/LLAVE ROSCA IN",
+        "brand": "Mercedes Benz",
+        "code": "10263",
+        "originalCode": "10263",
+        "image": "img/products/om366/tapa-tanque-gas-oil-l1620-vw-ford-s-llave-rosca-in-10263.jpg",
+        "description": "TAPA TANQUE GAS OIL L1620 VW FORD S/LLAVE ROSCA IN 10263",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1727",
+        "name": "CABEZAL REGISTRO EMBRAGUE 1215 14 MM",
+        "brand": "Mercedes Benz",
+        "code": "5540",
+        "originalCode": "5540",
+        "image": "img/products/om366/cabezal-registro-embrague-1215-14-mm-5540.jpg",
+        "description": "CABEZAL REGISTRO EMBRAGUE 1215 14 MM 5540",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1728",
+        "name": "RETEN PIÑON M BENZ L 1620 BUS ATEGO EXTERIOR",
+        "brand": "Mercedes Benz",
+        "code": "10270",
+        "originalCode": "10270",
+        "image": "img/products/om366/reten-pinon-m-benz-l-1620-bus-atego-exterior-10270.jpg",
+        "description": "RETEN PIÑON M BENZ L 1620 BUS ATEGO EXTERIOR 10270",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1729",
+        "name": "BULON TAPA CILINDRO OM 366 X JGO 25",
+        "brand": "Mercedes Benz",
+        "code": "143206302",
+        "originalCode": "143206302",
+        "image": "img/products/om366/bulon-tapa-cilindro-om-366-x-jgo-25-143206302.jpg",
+        "description": "BULON TAPA CILINDRO OM 366 X JGO 25 143206302",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1730",
+        "name": "HELICE VENTILADOR L 1620 OF 1417 ATEGO 1418",
+        "brand": "Mercedes Benz",
+        "code": "9042050706GT",
+        "originalCode": "9042050706GT",
+        "image": "img/products/om366/helice-ventilador-l-1620-of-1417-atego-1418-9042050706gt.jpg",
+        "description": "HELICE VENTILADOR L 1620 OF 1417 ATEGO 1418 9042050706GT",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1731",
+        "name": "BOMBA EMBRAGUE OF 1417 1215 C",
+        "brand": "Mercedes Benz",
+        "code": "C2655",
+        "originalCode": "C2655",
+        "image": "img/products/om366/bomba-embrague-of-1417-1215-c-c2655.jpg",
+        "description": "BOMBA EMBRAGUE OF 1417 1215 C C2655",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1732",
+        "name": "HELICE VENTILADOR L 1620 OF 1417 ATEGO 1418",
+        "brand": "Mercedes Benz",
+        "code": "CFW000030",
+        "originalCode": "CFW000030",
+        "image": "img/products/om366/helice-ventilador-l-1620-of-1417-atego-1418-cfw000030.jpg",
+        "description": "HELICE VENTILADOR L 1620 OF 1417 ATEGO 1418 CFW000030",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1733",
+        "name": "REPARACION VALVULA CUATRO CIRCUITOS APU L 1620 PIE",
+        "brand": "Mercedes Benz",
+        "code": "I311630061",
+        "originalCode": "I311630061",
+        "image": "img/products/om366/reparacion-valvula-cuatro-circuitos-apu-l-1620-pie-i311630061.jpg",
+        "description": "REPARACION VALVULA CUATRO CIRCUITOS APU L 1620 PIE I311630061",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1734",
+        "name": "REPARACION VALVULA CUATRO CIRCUITOS APU L 1620 PIE",
+        "brand": "Mercedes Benz",
+        "code": "I311630062",
+        "originalCode": "I311630062",
+        "image": "img/products/om366/reparacion-valvula-cuatro-circuitos-apu-l-1620-pie-i311630062.jpg",
+        "description": "REPARACION VALVULA CUATRO CIRCUITOS APU L 1620 PIE I311630062",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1735",
+        "name": "REPARACION VALVULA FRENO MANO CON PALANCA L 1620 -",
+        "brand": "Mercedes Benz",
+        "code": "I35253",
+        "originalCode": "I35253",
+        "image": "img/products/om366/reparacion-valvula-freno-mano-con-palanca-l-1620-i35253.jpg",
+        "description": "REPARACION VALVULA FRENO MANO CON PALANCA L 1620 - I35253",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1736",
+        "name": "MACHO CARDAN MB 1114 1518 1215",
+        "brand": "Mercedes Benz",
+        "code": "PU185",
+        "originalCode": "PU185",
+        "image": "img/products/om366/macho-cardan-mb-1114-1518-1215-pu185.jpg",
+        "description": "MACHO CARDAN MB 1114 1518 1215 PU185",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1737",
+        "name": "MAZA RUEDA DELANTERA VOLTEO MB 1620 1634 OF 1417",
+        "brand": "Mercedes Benz",
+        "code": "4139",
+        "originalCode": "4139",
+        "image": "img/products/om366/maza-rueda-delantera-volteo-mb-1620-1634-of-1417-4139.jpg",
+        "description": "MAZA RUEDA DELANTERA VOLTEO MB 1620 1634 OF 1417 4139",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1738",
+        "name": "BRAZO LIMPIAPARABRISAS M BENZ L 1620 24 34 1735",
+        "brand": "Mercedes Benz",
+        "code": "VN6948200144",
+        "originalCode": "VN6948200144",
+        "image": "img/products/om366/brazo-limpiaparabrisas-m-benz-l-1620-24-34-1735-vn6948200144.jpg",
+        "description": "BRAZO LIMPIAPARABRISAS M BENZ L 1620 24 34 1735 VN6948200144",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1739",
+        "name": "TAPA TANQUE GAS OIL C/ LLAVE ROSCA INT l 1620 VW F",
+        "brand": "Mercedes Benz",
+        "code": "10264",
+        "originalCode": "10264",
+        "image": "img/products/om366/tapa-tanque-gas-oil-c-llave-rosca-int-l-1620-vw-f-10264.jpg",
+        "description": "TAPA TANQUE GAS OIL C/ LLAVE ROSCA INT l 1620 VW F 10264",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1740",
+        "name": "TAPA TANQUE GAS OIL M BENZ 1215 FORD VW CON LLAVE",
+        "brand": "Mercedes Benz",
+        "code": "1590050",
+        "originalCode": "1590050",
+        "image": "img/products/om366/tapa-tanque-gas-oil-m-benz-1215-ford-vw-con-llave-1590050.jpg",
+        "description": "TAPA TANQUE GAS OIL M BENZ 1215 FORD VW CON LLAVE 1590050",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1741",
+        "name": "SECADOR AIRE TIPO WABCO M BENZ L 1620 24 ATEGO BUS",
+        "brand": "Mercedes Benz",
+        "code": "HL53002",
+        "originalCode": "HL53002",
+        "image": "img/products/om366/secador-aire-tipo-wabco-m-benz-l-1620-24-atego-bus-hl53002.jpg",
+        "description": "SECADOR AIRE TIPO WABCO M BENZ L 1620 24 ATEGO BUS HL53002",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1742",
+        "name": "LLAVE CONMUTADORA LUCES 1215 20 24 1633 34 NEGRA",
+        "brand": "Mercedes Benz",
+        "code": "6885407045/1",
+        "originalCode": "6885407045/1",
+        "image": "img/products/om366/llave-conmutadora-luces-1215-20-24-1633-34-negra-6885407045-1.jpg",
+        "description": "LLAVE CONMUTADORA LUCES 1215 20 24 1633 34 NEGRA 6885407045/1",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1743",
+        "name": "FILTRO TRAMPA AGUA MB L 1620 1' 14UNS 2B",
+        "brand": "Mercedes Benz",
+        "code": "KC127",
+        "originalCode": "KC127",
+        "image": "img/products/om366/filtro-trampa-agua-mb-l-1620-1-14uns-2b-kc127.jpg",
+        "description": "FILTRO TRAMPA AGUA MB L 1620 1' 14UNS 2B KC127",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1744",
+        "name": "BRIDA SALIDA DIFERENCIAL HL5 10 MM 26 EST",
+        "brand": "Mercedes Benz",
+        "code": "S329",
+        "originalCode": "S329",
+        "image": "img/products/om366/brida-salida-diferencial-hl5-10-mm-26-est-s329.jpg",
+        "description": "BRIDA SALIDA DIFERENCIAL HL5 10 MM 26 EST S329",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1745",
+        "name": "ANILLO SINCRONIZADO 5 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "1262304050/1",
+        "originalCode": "1262304050/1",
+        "image": "img/products/om366/anillo-sincronizado-5-s5-680-1262304050-1.jpg",
+        "description": "ANILLO SINCRONIZADO 5 S5-680 1262304050/1",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1746",
+        "name": "ANILLO SINCRONIZADO 1 Y 2 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "1290395332/1",
+        "originalCode": "1290395332/1",
+        "image": "img/products/om366/anillo-sincronizado-1-y-2-s5-680-1290395332-1.jpg",
+        "description": "ANILLO SINCRONIZADO 1 Y 2 S5-680 1290395332/1",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1747",
+        "name": "COMPRESOR COMPLETO 88 MM M BENZ REF AGUA",
+        "brand": "Mercedes Benz",
+        "code": "1500100003",
+        "originalCode": "1500100003",
+        "image": "img/products/om366/compresor-completo-88-mm-m-benz-ref-agua-1500100003.jpg",
+        "description": "COMPRESOR COMPLETO 88 MM M BENZ REF AGUA 1500100003",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1748",
+        "name": "BULON CRUCETA ALBARUS M10MMX1.00X20",
+        "brand": "Mercedes Benz",
+        "code": "2890",
+        "originalCode": "2890",
+        "image": "img/products/om366/bulon-cruceta-albarus-m10mmx1-00x20-2890.jpg",
+        "description": "BULON CRUCETA ALBARUS M10MMX1.00X20 2890",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1749",
+        "name": "BISAGRA CAPOT 1620-1624-1634",
+        "brand": "Mercedes Benz",
+        "code": "50104/1",
+        "originalCode": "50104/1",
+        "image": "img/products/om366/bisagra-capot-1620-1624-1634-50104-1.jpg",
+        "description": "BISAGRA CAPOT 1620-1624-1634 50104/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1750",
+        "name": "CERRADURA PUERTA 1215-1633 IZQUIERDA",
+        "brand": "Mercedes Benz",
+        "code": "6887207035/1",
+        "originalCode": "6887207035/1",
+        "image": "img/products/om366/cerradura-puerta-1215-1633-izquierda-6887207035-1.jpg",
+        "description": "CERRADURA PUERTA 1215-1633 IZQUIERDA 6887207035/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1751",
+        "name": "BRIDA CARDAN PARA CRUCETA 5-438X",
+        "brand": "Mercedes Benz",
+        "code": "S307",
+        "originalCode": "S307",
+        "image": "img/products/om366/brida-cardan-para-cruceta-5-438x-s307.jpg",
+        "description": "BRIDA CARDAN PARA CRUCETA 5-438X S307",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1752",
+        "name": "ESPEJO AUXILIAR GRAN ANGULAR",
+        "brand": "Mercedes Benz",
+        "code": "2366",
+        "originalCode": "2366",
+        "image": "img/products/om366/espejo-auxiliar-gran-angular-2366.jpg",
+        "description": "ESPEJO AUXILIAR GRAN ANGULAR 2366",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1753",
+        "name": "CAJA PORTA SATELITE COMPLETA HL5 29MM",
+        "brand": "Mercedes Benz",
+        "code": "MIC1926",
+        "originalCode": "MIC1926",
+        "image": "img/products/om366/caja-porta-satelite-completa-hl5-29mm-mic1926.jpg",
+        "description": "CAJA PORTA SATELITE COMPLETA HL5 29MM MIC1926",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1754",
+        "name": "BARRA CORTA DIRECCION AL ESTABILI 5063",
+        "brand": "Mercedes Benz",
+        "code": "2613",
+        "originalCode": "2613",
+        "image": "img/products/om366/barra-corta-direccion-al-estabili-5063-2613.jpg",
+        "description": "BARRA CORTA DIRECCION AL ESTABILI 5063 2613",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1755",
+        "name": "MOTOR LIMPIAPARABRISAS 12 V L",
+        "brand": "Mercedes Benz",
+        "code": "6948247001GT",
+        "originalCode": "6948247001GT",
+        "image": "img/products/om366/motor-limpiaparabrisas-12-v-l-6948247001gt.jpg",
+        "description": "MOTOR LIMPIAPARABRISAS 12 V L 6948247001GT",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1756",
+        "name": "TECLA LUCES 1215-1620 12 V",
+        "brand": "Mercedes Benz",
+        "code": "6885457814-1",
+        "originalCode": "6885457814-1",
+        "image": "img/products/om366/tecla-luces-1215-1620-12-v-6885457814-1.jpg",
+        "description": "TECLA LUCES 1215-1620 12 V 6885457814-1",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1757",
+        "name": "MOTOR LIMPIAPARABRISAS MB 12 V",
+        "brand": "Mercedes Benz",
+        "code": "6888247301GT",
+        "originalCode": "6888247301GT",
+        "image": "img/products/om366/motor-limpiaparabrisas-mb-12-v-6888247301gt.jpg",
+        "description": "MOTOR LIMPIAPARABRISAS MB 12 V 6888247301GT",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1758",
+        "name": "PANEL PUERTA 1215-1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1325E",
+        "originalCode": "1325E",
+        "image": "img/products/om366/panel-puerta-1215-1620-izq-1325e.jpg",
+        "description": "PANEL PUERTA 1215-1620 IZQ 1325E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1759",
+        "name": "CIERRE CAPOT INFERIOR 1215-1634",
+        "brand": "Mercedes Benz",
+        "code": "6948800060/1",
+        "originalCode": "6948800060/1",
+        "image": "img/products/om366/cierre-capot-inferior-1215-1634-6948800060-1.jpg",
+        "description": "CIERRE CAPOT INFERIOR 1215-1634 6948800060/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1760",
+        "name": "CRUCETA CARDAN MB",
+        "brand": "Mercedes Benz",
+        "code": "CRT191",
+        "originalCode": "CRT191",
+        "image": "img/products/om366/cruceta-cardan-mb-crt191.jpg",
+        "description": "CRUCETA CARDAN MB CRT191",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1761",
+        "name": "PLATO PORTA CRUCETA P 5-12100X",
+        "brand": "Mercedes Benz",
+        "code": "S359",
+        "originalCode": "S359",
+        "image": "img/products/om366/plato-porta-cruceta-p-5-12100x-s359.jpg",
+        "description": "PLATO PORTA CRUCETA P 5-12100X S359",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1762",
+        "name": "CERRADURA INTERIOR PUERTA IZQ",
+        "brand": "Mercedes Benz",
+        "code": "50283",
+        "originalCode": "50283",
+        "image": "img/products/om366/cerradura-interior-puerta-izq-50283.jpg",
+        "description": "CERRADURA INTERIOR PUERTA IZQ 50283",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1763",
+        "name": "BULBO MARCHA ATRAS S5-680",
+        "brand": "Mercedes Benz",
+        "code": "0005457506/1",
+        "originalCode": "0005457506/1",
+        "image": "img/products/om366/bulbo-marcha-atras-s5-680-0005457506-1.jpg",
+        "description": "BULBO MARCHA ATRAS S5-680 0005457506/1",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1764",
+        "name": "PANEL PUERTA 1215-1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "1325D",
+        "originalCode": "1325D",
+        "image": "img/products/om366/panel-puerta-1215-1620-der-1325d.jpg",
+        "description": "PANEL PUERTA 1215-1620 DER 1325D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1765",
+        "name": "CERRADURA PUERTA L 1620-1634 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "6947207035/1",
+        "originalCode": "6947207035/1",
+        "image": "img/products/om366/cerradura-puerta-l-1620-1634-izq-6947207035-1.jpg",
+        "description": "CERRADURA PUERTA L 1620-1634 IZQ 6947207035/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1766",
+        "name": "CIERRE CAPOT SUPERIOR 1215-1634",
+        "brand": "Mercedes Benz",
+        "code": "6948800160/1",
+        "originalCode": "6948800160/1",
+        "image": "img/products/om366/cierre-capot-superior-1215-1634-6948800160-1.jpg",
+        "description": "CIERRE CAPOT SUPERIOR 1215-1634 6948800160/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1767",
+        "name": "BULBO TEMPERATURA OM 366LA",
+        "brand": "Mercedes Benz",
+        "code": "6955420217/1",
+        "originalCode": "6955420217/1",
+        "image": "img/products/om366/bulbo-temperatura-om-366la-6955420217-1.jpg",
+        "description": "BULBO TEMPERATURA OM 366LA 6955420217/1",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1768",
+        "name": "BRIDA SALIDA CAJA ZF S5-680 P SPL 90",
+        "brand": "Mercedes Benz",
+        "code": "S332",
+        "originalCode": "S332",
+        "image": "img/products/om366/brida-salida-caja-zf-s5-680-p-spl-90-s332.jpg",
+        "description": "BRIDA SALIDA CAJA ZF S5-680 P SPL 90 S332",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1769",
+        "name": "BISAGRA CAPOT 1215-1620 M/ NUEVO",
+        "brand": "Mercedes Benz",
+        "code": "50104",
+        "originalCode": "50104",
+        "image": "img/products/om366/bisagra-capot-1215-1620-m-nuevo-50104.jpg",
+        "description": "BISAGRA CAPOT 1215-1620 M/ NUEVO 50104",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1770",
+        "name": "CABLE PUERTA L 1620-34 DER",
+        "brand": "Mercedes Benz",
+        "code": "50132",
+        "originalCode": "50132",
+        "image": "img/products/om366/cable-puerta-l-1620-34-der-50132.jpg",
+        "description": "CABLE PUERTA L 1620-34 DER 50132",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1771",
+        "name": "BOLSILLO PUERTA L 1620-1634",
+        "brand": "Mercedes Benz",
+        "code": "50502",
+        "originalCode": "50502",
+        "image": "img/products/om366/bolsillo-puerta-l-1620-1634-50502.jpg",
+        "description": "BOLSILLO PUERTA L 1620-1634 50502",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1772",
+        "name": "MACHO CARDAN SPL 90",
+        "brand": "Mercedes Benz",
+        "code": "801606",
+        "originalCode": "801606",
+        "image": "img/products/om366/macho-cardan-spl-90-801606.jpg",
+        "description": "MACHO CARDAN SPL 90 801606",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1773",
+        "name": "CERRADURA PUERTA L1620-1634 DER",
+        "brand": "Mercedes Benz",
+        "code": "6947207135/1",
+        "originalCode": "6947207135/1",
+        "image": "img/products/om366/cerradura-puerta-l1620-1634-der-6947207135-1.jpg",
+        "description": "CERRADURA PUERTA L1620-1634 DER 6947207135/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1774",
+        "name": "BUJE BARRA ESTABILIZADORA TRASERA",
+        "brand": "Mercedes Benz",
+        "code": "R459",
+        "originalCode": "R459",
+        "image": "img/products/om366/buje-barra-estabilizadora-trasera-r459.jpg",
+        "description": "BUJE BARRA ESTABILIZADORA TRASERA R459",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1775",
+        "name": "CRUCETA CARDAN 45.06MMX120.30MM",
+        "brand": "Mercedes Benz",
+        "code": "CRT121",
+        "originalCode": "CRT121",
+        "image": "img/products/om366/cruceta-cardan-45-06mmx120-30mm-crt121.jpg",
+        "description": "CRUCETA CARDAN 45.06MMX120.30MM CRT121",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1776",
+        "name": "CRUCETA CARDAN 41.26MMX126.1MM",
+        "brand": "Mercedes Benz",
+        "code": "CRT183",
+        "originalCode": "CRT183",
+        "image": "img/products/om366/cruceta-cardan-41-26mmx126-1mm-crt183.jpg",
+        "description": "CRUCETA CARDAN 41.26MMX126.1MM CRT183",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1777",
+        "name": "CRUCETA CARDAN 47.64MMX134.9MM",
+        "brand": "Mercedes Benz",
+        "code": "CRT164",
+        "originalCode": "CRT164",
+        "image": "img/products/om366/cruceta-cardan-47-64mmx134-9mm-crt164.jpg",
+        "description": "CRUCETA CARDAN 47.64MMX134.9MM CRT164",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1778",
+        "name": "PLATO PORTA CRUCETA 8 AUG",
+        "brand": "Mercedes Benz",
+        "code": "S302",
+        "originalCode": "S302",
+        "image": "img/products/om366/plato-porta-cruceta-8-aug-s302.jpg",
+        "description": "PLATO PORTA CRUCETA 8 AUG S302",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1779",
+        "name": "BRIDA SALIDA CAJA ZF S5-680 P 5-438X",
+        "brand": "Mercedes Benz",
+        "code": "S328",
+        "originalCode": "S328",
+        "image": "img/products/om366/brida-salida-caja-zf-s5-680-p-5-438x-s328.jpg",
+        "description": "BRIDA SALIDA CAJA ZF S5-680 P 5-438X S328",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1780",
+        "name": "HORQUILLA PARA SOLDAR 5-12100X",
+        "brand": "Mercedes Benz",
+        "code": "S339",
+        "originalCode": "S339",
+        "image": "img/products/om366/horquilla-para-soldar-5-12100x-s339.jpg",
+        "description": "HORQUILLA PARA SOLDAR 5-12100X S339",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1781",
+        "name": "MANIJA EXTERIOR PUERTA 1215-1620",
+        "brand": "Mercedes Benz",
+        "code": "6887607059/1",
+        "originalCode": "6887607059/1",
+        "image": "img/products/om366/manija-exterior-puerta-1215-1620-6887607059-1.jpg",
+        "description": "MANIJA EXTERIOR PUERTA 1215-1620 6887607059/1",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1782",
+        "name": "BRIDA CARDAN P CRUCETA P SPL 90-1X",
+        "brand": "Mercedes Benz",
+        "code": "S305",
+        "originalCode": "S305",
+        "image": "img/products/om366/brida-cardan-p-cruceta-p-spl-90-1x-s305.jpg",
+        "description": "BRIDA CARDAN P CRUCETA P SPL 90-1X S305",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1783",
+        "name": "HORQUILLA PARA SOLDAR 5-438X",
+        "brand": "Mercedes Benz",
+        "code": "S309",
+        "originalCode": "S309",
+        "image": "img/products/om366/horquilla-para-soldar-5-438x-s309.jpg",
+        "description": "HORQUILLA PARA SOLDAR 5-438X S309",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1784",
+        "name": "BOMBA ACEITE OM 366 CORTA 1620",
+        "brand": "Mercedes Benz",
+        "code": "40103",
+        "originalCode": "40103",
+        "image": "img/products/om366/bomba-aceite-om-366-corta-1620-40103.jpg",
+        "description": "BOMBA ACEITE OM 366 CORTA 1620 40103",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1785",
+        "name": "JUNTA TAPA VALVULA OM 366 1215 1620 1622",
+        "brand": "Mercedes Benz",
+        "code": "48626F",
+        "originalCode": "48626F",
+        "image": "img/products/om366/junta-tapa-valvula-om-366-1215-1620-1622-48626f.jpg",
+        "description": "JUNTA TAPA VALVULA OM 366 1215 1620 1622 48626F",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1786",
+        "name": "JUNTA TAPA LATERAL BOTADORES OM 366 1215 1620",
+        "brand": "Mercedes Benz",
+        "code": "48627",
+        "originalCode": "48627",
+        "image": "img/products/om366/junta-tapa-lateral-botadores-om-366-1215-1620-48627.jpg",
+        "description": "JUNTA TAPA LATERAL BOTADORES OM 366 1215 1620 48627",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1787",
+        "name": "PUNTERA PARAGOLPE CHAPA L1620",
+        "brand": "Mercedes Benz",
+        "code": "1501D",
+        "originalCode": "1501D",
+        "image": "img/products/om366/puntera-paragolpe-chapa-l1620-1501d.jpg",
+        "description": "PUNTERA PARAGOLPE CHAPA L1620 1501D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1788",
+        "name": "JUNTA SALIDA ESCAPE OM 366 LA 1620",
+        "brand": "Mercedes Benz",
+        "code": "48839F",
+        "originalCode": "48839F",
+        "image": "img/products/om366/junta-salida-escape-om-366-la-1620-48839f.jpg",
+        "description": "JUNTA SALIDA ESCAPE OM 366 LA 1620 48839F",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1789",
+        "name": "COLUMNA DIRECCION L 1218 1620 1624 1634",
+        "brand": "Mercedes Benz",
+        "code": "2106-1123/01X",
+        "originalCode": "2106-1123/01X",
+        "image": "img/products/om366/columna-direccion-l-1218-1620-1624-1634-2106-1123-01x.jpg",
+        "description": "COLUMNA DIRECCION L 1218 1620 1624 1634 2106-1123/01X",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1790",
+        "name": "HORQUILLA M/ATRAS L1620",
+        "brand": "Mercedes Benz",
+        "code": "1290395231",
+        "originalCode": "1290395231",
+        "image": "img/products/om366/horquilla-m-atras-l1620-1290395231.jpg",
+        "description": "HORQUILLA M/ATRAS L1620 1290395231",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1791",
+        "name": "CORONA ARRANQUE 366",
+        "brand": "Mercedes Benz",
+        "code": "45330006",
+        "originalCode": "45330006",
+        "image": "img/products/om366/corona-arranque-366-45330006.jpg",
+        "description": "CORONA ARRANQUE 366 45330006",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1792",
+        "name": "BARRA ESTABILIZADORA 1620",
+        "brand": "Mercedes Benz",
+        "code": "50330014",
+        "originalCode": "50330014",
+        "image": "img/products/om366/barra-estabilizadora-1620-50330014.jpg",
+        "description": "BARRA ESTABILIZADORA 1620 50330014",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1793",
+        "name": "CENICERO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "000089",
+        "originalCode": "000089",
+        "image": "img/products/om366/cenicero-l-1620-000089.jpg",
+        "description": "CENICERO L 1620 000089",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1794",
+        "name": "SOPORTE PARAGOLPE 1215",
+        "brand": "Mercedes Benz",
+        "code": "1017",
+        "originalCode": "1017",
+        "image": "img/products/om366/soporte-paragolpe-1215-1017.jpg",
+        "description": "SOPORTE PARAGOLPE 1215 1017",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1795",
+        "name": "BOMBA AGUA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "20031",
+        "originalCode": "20031",
+        "image": "img/products/om366/bomba-agua-om-366-20031.jpg",
+        "description": "BOMBA AGUA OM 366 20031",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1796",
+        "name": "POLEA COMPRESOR OM 366",
+        "brand": "Mercedes Benz",
+        "code": "R3215P",
+        "originalCode": "R3215P",
+        "image": "img/products/om366/polea-compresor-om-366-r3215p.jpg",
+        "description": "POLEA COMPRESOR OM 366 R3215P",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1797",
+        "name": "CAÑO INYECTOR OM 366 LA",
+        "brand": "Mercedes Benz",
+        "code": "M20/2",
+        "originalCode": "M20/2",
+        "image": "img/products/om366/cano-inyector-om-366-la-m20-2.jpg",
+        "description": "CAÑO INYECTOR OM 366 LA M20/2",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1798",
+        "name": "FLEXIBLE HIDRAULICA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "MV1709",
+        "originalCode": "MV1709",
+        "image": "img/products/om366/flexible-hidraulica-om-366-mv1709.jpg",
+        "description": "FLEXIBLE HIDRAULICA OM 366 MV1709",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1799",
+        "name": "CAÑO COMPRESOR 1620",
+        "brand": "Mercedes Benz",
+        "code": "W4392",
+        "originalCode": "W4392",
+        "image": "img/products/om366/cano-compresor-1620-w4392.jpg",
+        "description": "CAÑO COMPRESOR 1620 W4392",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1800",
+        "name": "ARRASTRADOR 5 L1620",
+        "brand": "Mercedes Benz",
+        "code": "14330100",
+        "originalCode": "14330100",
+        "image": "img/products/om366/arrastrador-5-l1620-14330100.jpg",
+        "description": "ARRASTRADOR 5 L1620 14330100",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1801",
+        "name": "ABRAZADERA INTERCOOLER L 1620",
+        "brand": "Mercedes Benz",
+        "code": "3769978490",
+        "originalCode": "3769978490",
+        "image": "img/products/om366/abrazadera-intercooler-l-1620-3769978490.jpg",
+        "description": "ABRAZADERA INTERCOOLER L 1620 3769978490",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1802",
+        "name": "SOPORTE CARDAN 1620",
+        "brand": "Mercedes Benz",
+        "code": "1101",
+        "originalCode": "1101",
+        "image": "img/products/om366/soporte-cardan-1620-1101.jpg",
+        "description": "SOPORTE CARDAN 1620 1101",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1803",
+        "name": "TRAVESAÑO MOTOR L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1217",
+        "originalCode": "1217",
+        "image": "img/products/om366/travesano-motor-l-1620-1217.jpg",
+        "description": "TRAVESAÑO MOTOR L 1620 1217",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1804",
+        "name": "CURVA GUARDABARRO 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1524E",
+        "originalCode": "1524E",
+        "image": "img/products/om366/curva-guardabarro-1620-izq-1524e.jpg",
+        "description": "CURVA GUARDABARRO 1620 IZQ 1524E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1805",
+        "name": "PARED TRASERA DERECHA 1215",
+        "brand": "Mercedes Benz",
+        "code": "1628D",
+        "originalCode": "1628D",
+        "image": "img/products/om366/pared-trasera-derecha-1215-1628d.jpg",
+        "description": "PARED TRASERA DERECHA 1215 1628D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1806",
+        "name": "CURVA DE GUARDABARRO 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "1791D",
+        "originalCode": "1791D",
+        "image": "img/products/om366/curva-de-guardabarro-1215-der-1791d.jpg",
+        "description": "CURVA DE GUARDABARRO 1215 DER 1791D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1807",
+        "name": "AROS MOTOR OM 366 0.50",
+        "brand": "Mercedes Benz",
+        "code": "A48515-50",
+        "originalCode": "A48515-50",
+        "image": "img/products/om366/aros-motor-om-366-0-50-a48515-50.jpg",
+        "description": "AROS MOTOR OM 366 0.50 A48515-50",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1808",
+        "name": "CABLE MULTIFUNCION L 1620",
+        "brand": "Mercedes Benz",
+        "code": "FR3541",
+        "originalCode": "FR3541",
+        "image": "img/products/om366/cable-multifuncion-l-1620-fr3541.jpg",
+        "description": "CABLE MULTIFUNCION L 1620 FR3541",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1809",
+        "name": "VALVULA PEDALERA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "I31291",
+        "originalCode": "I31291",
+        "image": "img/products/om366/valvula-pedalera-l-1620-i31291.jpg",
+        "description": "VALVULA PEDALERA L 1620 I31291",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1810",
+        "name": "POLEA DIRECCION HIDRAULICA OM 366",
+        "brand": "Mercedes Benz",
+        "code": "R738P",
+        "originalCode": "R738P",
+        "image": "img/products/om366/polea-direccion-hidraulica-om-366-r738p.jpg",
+        "description": "POLEA DIRECCION HIDRAULICA OM 366 R738P",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1811",
+        "name": "CAÑO INYECTOR OM 366 JGO",
+        "brand": "Mercedes Benz",
+        "code": "M12",
+        "originalCode": "M12",
+        "image": "img/products/om366/cano-inyector-om-366-jgo-m12.jpg",
+        "description": "CAÑO INYECTOR OM 366 JGO M12",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1812",
+        "name": "CAÑO INYECTOR OM 366 LA JGO",
+        "brand": "Mercedes Benz",
+        "code": "M20",
+        "originalCode": "M20",
+        "image": "img/products/om366/cano-inyector-om-366-la-jgo-m20.jpg",
+        "description": "CAÑO INYECTOR OM 366 LA JGO M20",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1813",
+        "name": "COJINETE BANCADA OM 366 1,00",
+        "brand": "Mercedes Benz",
+        "code": "M48333-100",
+        "originalCode": "M48333-100",
+        "image": "img/products/om366/cojinete-bancada-om-366-1-00-m48333-100.jpg",
+        "description": "COJINETE BANCADA OM 366 1,00 M48333-100",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1814",
+        "name": "CAÑO LUBRICACION TURBO 1620",
+        "brand": "Mercedes Benz",
+        "code": "MV1720",
+        "originalCode": "MV1720",
+        "image": "img/products/om366/cano-lubricacion-turbo-1620-mv1720.jpg",
+        "description": "CAÑO LUBRICACION TURBO 1620 MV1720",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1815",
+        "name": "CAÑO DESCARGA TURBO 1620",
+        "brand": "Mercedes Benz",
+        "code": "MV1728A",
+        "originalCode": "MV1728A",
+        "image": "img/products/om366/cano-descarga-turbo-1620-mv1728a.jpg",
+        "description": "CAÑO DESCARGA TURBO 1620 MV1728A",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1816",
+        "name": "FLEXIBLE FRENO TRASERO 1620",
+        "brand": "Mercedes Benz",
+        "code": "MV3593A",
+        "originalCode": "MV3593A",
+        "image": "img/products/om366/flexible-freno-trasero-1620-mv3593a.jpg",
+        "description": "FLEXIBLE FRENO TRASERO 1620 MV3593A",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1817",
+        "name": "ENGRANAJE 4 28Z SUPERIOR L1620",
+        "brand": "Mercedes Benz",
+        "code": "10330427",
+        "originalCode": "10330427",
+        "image": "img/products/om366/engranaje-4-28z-superior-l1620-10330427.jpg",
+        "description": "ENGRANAJE 4 28Z SUPERIOR L1620 10330427",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1818",
+        "name": "MAZA SINCRONIZADA 1 Y 2 L1620",
+        "brand": "Mercedes Benz",
+        "code": "14330102",
+        "originalCode": "14330102",
+        "image": "img/products/om366/maza-sincronizada-1-y-2-l1620-14330102.jpg",
+        "description": "MAZA SINCRONIZADA 1 Y 2 L1620 14330102",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1819",
+        "name": "ARRASTRADOR 3 Y 4 L1620",
+        "brand": "Mercedes Benz",
+        "code": "14330104",
+        "originalCode": "14330104",
+        "image": "img/products/om366/arrastrador-3-y-4-l1620-14330104.jpg",
+        "description": "ARRASTRADOR 3 Y 4 L1620 14330104",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1820",
+        "name": "SENSOR TACOGRAFO L 1620 CAJA ZF 4 PIN",
+        "brand": "Mercedes Benz",
+        "code": "0095421017/1",
+        "originalCode": "0095421017/1",
+        "image": "img/products/om366/sensor-tacografo-l-1620-caja-zf-4-pin-0095421017-1.jpg",
+        "description": "SENSOR TACOGRAFO L 1620 CAJA ZF 4 PIN 0095421017/1",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1821",
+        "name": "ARBOL DE LEVAS 1620 OM 366A",
+        "brand": "Mercedes Benz",
+        "code": "41350007",
+        "originalCode": "41350007",
+        "image": "img/products/om366/arbol-de-levas-1620-om-366a-41350007.jpg",
+        "description": "ARBOL DE LEVAS 1620 OM 366A 41350007",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1822",
+        "name": "REVESTIMIENTO INFERIOR PARANTE EXT 1215",
+        "brand": "Mercedes Benz",
+        "code": "1141D",
+        "originalCode": "1141D",
+        "image": "img/products/om366/revestimiento-inferior-parante-ext-1215-1141d.jpg",
+        "description": "REVESTIMIENTO INFERIOR PARANTE EXT 1215 1141D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1823",
+        "name": "SOPORTE PARAGOLPE L 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1248E",
+        "originalCode": "1248E",
+        "image": "img/products/om366/soporte-paragolpe-l-1620-izq-1248e.jpg",
+        "description": "SOPORTE PARAGOLPE L 1620 IZQ 1248E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1824",
+        "name": "SOPORTE ESTRIBO DER L 1218",
+        "brand": "Mercedes Benz",
+        "code": "1333D",
+        "originalCode": "1333D",
+        "image": "img/products/om366/soporte-estribo-der-l-1218-1333d.jpg",
+        "description": "SOPORTE ESTRIBO DER L 1218 1333D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1825",
+        "name": "PARRILLA L 1620 GRIS M96",
+        "brand": "Mercedes Benz",
+        "code": "1560",
+        "originalCode": "1560",
+        "image": "img/products/om366/parrilla-l-1620-gris-m96-1560.jpg",
+        "description": "PARRILLA L 1620 GRIS M96 1560",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1826",
+        "name": "ESQUINERO TRASERO CABINA 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "1625D",
+        "originalCode": "1625D",
+        "image": "img/products/om366/esquinero-trasero-cabina-1215-der-1625d.jpg",
+        "description": "ESQUINERO TRASERO CABINA 1215 DER 1625D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1827",
+        "name": "ESQUINERO TRASERO CABINA 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1625E",
+        "originalCode": "1625E",
+        "image": "img/products/om366/esquinero-trasero-cabina-1215-izq-1625e.jpg",
+        "description": "ESQUINERO TRASERO CABINA 1215 IZQ 1625E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1828",
+        "name": "ESQUINERO TRASERO IZQ L 1218",
+        "brand": "Mercedes Benz",
+        "code": "1709E",
+        "originalCode": "1709E",
+        "image": "img/products/om366/esquinero-trasero-izq-l-1218-1709e.jpg",
+        "description": "ESQUINERO TRASERO IZQ L 1218 1709E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1829",
+        "name": "CURVA DE GUARDABARRO L 1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "1790D",
+        "originalCode": "1790D",
+        "image": "img/products/om366/curva-de-guardabarro-l-1620-der-1790d.jpg",
+        "description": "CURVA DE GUARDABARRO L 1620 DER 1790D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1830",
+        "name": "CURVA DE GUARDABARRO L 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1790E",
+        "originalCode": "1790E",
+        "image": "img/products/om366/curva-de-guardabarro-l-1620-izq-1790e.jpg",
+        "description": "CURVA DE GUARDABARRO L 1620 IZQ 1790E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1831",
+        "name": "TOPE PUERTA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "50285",
+        "originalCode": "50285",
+        "image": "img/products/om366/tope-puerta-l-1620-50285.jpg",
+        "description": "TOPE PUERTA L 1620 50285",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1832",
+        "name": "BISAGRA PUERTA DERECHA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "50332",
+        "originalCode": "50332",
+        "image": "img/products/om366/bisagra-puerta-derecha-l-1620-50332.jpg",
+        "description": "BISAGRA PUERTA DERECHA L 1620 50332",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1833",
+        "name": "BISAGRA PUERTA L 1620 IZQUIERDA",
+        "brand": "Mercedes Benz",
+        "code": "50333",
+        "originalCode": "50333",
+        "image": "img/products/om366/bisagra-puerta-l-1620-izquierda-50333.jpg",
+        "description": "BISAGRA PUERTA L 1620 IZQUIERDA 50333",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1834",
+        "name": "BISAGRA PUERTA INFERIOR L 1620",
+        "brand": "Mercedes Benz",
+        "code": "50334",
+        "originalCode": "50334",
+        "image": "img/products/om366/bisagra-puerta-inferior-l-1620-50334.jpg",
+        "description": "BISAGRA PUERTA INFERIOR L 1620 50334",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1835",
+        "name": "KIT VARILLA PUERTA 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "50363",
+        "originalCode": "50363",
+        "image": "img/products/om366/kit-varilla-puerta-1620-izq-50363.jpg",
+        "description": "KIT VARILLA PUERTA 1620 IZQ 50363",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1836",
+        "name": "FARO GIRO L 1620 DER",
+        "brand": "Mercedes Benz",
+        "code": "38020D",
+        "originalCode": "38020D",
+        "image": "img/products/om366/faro-giro-l-1620-der-38020d.jpg",
+        "description": "FARO GIRO L 1620 DER 38020D",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1837",
+        "name": "FARO GIRO L 1620 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "38020I",
+        "originalCode": "38020I",
+        "image": "img/products/om366/faro-giro-l-1620-izq-38020i.jpg",
+        "description": "FARO GIRO L 1620 IZQ 38020I",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1838",
+        "name": "TORRETA PALANCA CAMBIO 1215 ALUMINIO",
+        "brand": "Mercedes Benz",
+        "code": "MIC0255",
+        "originalCode": "MIC0255",
+        "image": "img/products/om366/torreta-palanca-cambio-1215-aluminio-mic0255.jpg",
+        "description": "TORRETA PALANCA CAMBIO 1215 ALUMINIO MIC0255",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1839",
+        "name": "LEVA ESTRIADA CILINDRO A Y B 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC0311",
+        "originalCode": "MIC0311",
+        "image": "img/products/om366/leva-estriada-cilindro-a-y-b-1620-mic0311.jpg",
+        "description": "LEVA ESTRIADA CILINDRO A Y B 1620 MIC0311",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1840",
+        "name": "BRIDA PIÑON L 1620 OF",
+        "brand": "Mercedes Benz",
+        "code": "S317GT",
+        "originalCode": "S317GT",
+        "image": "img/products/om366/brida-pinon-l-1620-of-s317gt.jpg",
+        "description": "BRIDA PIÑON L 1620 OF S317GT",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1841",
+        "name": "OPTICA L 1620 96-99 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "V891I",
+        "originalCode": "V891I",
+        "image": "img/products/om366/optica-l-1620-96-99-izq-v891i.jpg",
+        "description": "OPTICA L 1620 96-99 IZQ V891I",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1842",
+        "name": "VALVULA A Y B PALANCA CAMBIO 1620",
+        "brand": "Mercedes Benz",
+        "code": "4630690030",
+        "originalCode": "4630690030",
+        "image": "img/products/om366/valvula-a-y-b-palanca-cambio-1620-4630690030.jpg",
+        "description": "VALVULA A Y B PALANCA CAMBIO 1620 4630690030",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1843",
+        "name": "CRUZ DIFERENCIAL 1620 CRUZ 29",
+        "brand": "Mercedes Benz",
+        "code": "28330021",
+        "originalCode": "28330021",
+        "image": "img/products/om366/cruz-diferencial-1620-cruz-29-28330021.jpg",
+        "description": "CRUZ DIFERENCIAL 1620 CRUZ 29 28330021",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1844",
+        "name": "CRUCETA CARDAN 52X 133MM 1620",
+        "brand": "Mercedes Benz",
+        "code": "5-12924X",
+        "originalCode": "5-12924X",
+        "image": "img/products/om366/cruceta-cardan-52x-133mm-1620-5-12924x.jpg",
+        "description": "CRUCETA CARDAN 52X 133MM 1620 5-12924X",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1845",
+        "name": "CAMPANA FRENO TRASERA 1620 DEL O 400",
+        "brand": "Mercedes Benz",
+        "code": "51330002",
+        "originalCode": "51330002",
+        "image": "img/products/om366/campana-freno-trasera-1620-del-o-400-51330002.jpg",
+        "description": "CAMPANA FRENO TRASERA 1620 DEL O 400 51330002",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1846",
+        "name": "CORONA Y PIÑON 8/39 HL5 1620",
+        "brand": "Mercedes Benz",
+        "code": "60170137",
+        "originalCode": "60170137",
+        "image": "img/products/om366/corona-y-pinon-8-39-hl5-1620-60170137.jpg",
+        "description": "CORONA Y PIÑON 8/39 HL5 1620 60170137",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1847",
+        "name": "BRIDA PIÑON 1620 AUG 12MM",
+        "brand": "Mercedes Benz",
+        "code": "60170935",
+        "originalCode": "60170935",
+        "image": "img/products/om366/brida-pinon-1620-aug-12mm-60170935.jpg",
+        "description": "BRIDA PIÑON 1620 AUG 12MM 60170935",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1848",
+        "name": "TECLA FRENO MOTOR 12V 1620",
+        "brand": "Mercedes Benz",
+        "code": "13032",
+        "originalCode": "13032",
+        "image": "img/products/om366/tecla-freno-motor-12v-1620-13032.jpg",
+        "description": "TECLA FRENO MOTOR 12V 1620 13032",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1849",
+        "name": "TECLA REOSTATICA TABLERO 12V 1620",
+        "brand": "Mercedes Benz",
+        "code": "13245",
+        "originalCode": "13245",
+        "image": "img/products/om366/tecla-reostatica-tablero-12v-1620-13245.jpg",
+        "description": "TECLA REOSTATICA TABLERO 12V 1620 13245",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1850",
+        "name": "CONTINUACION PARAGOLPE CORTA 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "1001D",
+        "originalCode": "1001D",
+        "image": "img/products/om366/continuacion-paragolpe-corta-1215-der-1001d.jpg",
+        "description": "CONTINUACION PARAGOLPE CORTA 1215 DER 1001D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1851",
+        "name": "CONTINUACION PARAGOLPE CORTA 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1001E",
+        "originalCode": "1001E",
+        "image": "img/products/om366/continuacion-paragolpe-corta-1215-izq-1001e.jpg",
+        "description": "CONTINUACION PARAGOLPE CORTA 1215 IZQ 1001E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1852",
+        "name": "JUNTA CARTER OM 366",
+        "brand": "Mercedes Benz",
+        "code": "101241302",
+        "originalCode": "101241302",
+        "image": "img/products/om366/junta-carter-om-366-101241302.jpg",
+        "description": "JUNTA CARTER OM 366 101241302",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1853",
+        "name": "TANQUE AIRE 40L L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1075",
+        "originalCode": "1075",
+        "image": "img/products/om366/tanque-aire-40l-l-1620-1075.jpg",
+        "description": "TANQUE AIRE 40L L 1620 1075",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1854",
+        "name": "SOPORTE TACO cabina 1215",
+        "brand": "Mercedes Benz",
+        "code": "1128",
+        "originalCode": "1128",
+        "image": "img/products/om366/soporte-taco-cabina-1215-1128.jpg",
+        "description": "SOPORTE TACO cabina 1215 1128",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1855",
+        "name": "TANQUE AIRE 5L L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1146",
+        "originalCode": "1146",
+        "image": "img/products/om366/tanque-aire-5l-l-1620-1146.jpg",
+        "description": "TANQUE AIRE 5L L 1620 1146",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1856",
+        "name": "TANQUE AIRE 40 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1152",
+        "originalCode": "1152",
+        "image": "img/products/om366/tanque-aire-40-l-1620-1152.jpg",
+        "description": "TANQUE AIRE 40 L 1620 1152",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1857",
+        "name": "TANQUE AIRE 20 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1153",
+        "originalCode": "1153",
+        "image": "img/products/om366/tanque-aire-20-l-1620-1153.jpg",
+        "description": "TANQUE AIRE 20 L 1620 1153",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1858",
+        "name": "GUARDABARRO TRASERO CABINA 1215 DER",
+        "brand": "Mercedes Benz",
+        "code": "1159D",
+        "originalCode": "1159D",
+        "image": "img/products/om366/guardabarro-trasero-cabina-1215-der-1159d.jpg",
+        "description": "GUARDABARRO TRASERO CABINA 1215 DER 1159D",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1859",
+        "name": "GUARDABARRO TRASERO CABINA 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "1159E",
+        "originalCode": "1159E",
+        "image": "img/products/om366/guardabarro-trasero-cabina-1215-izq-1159e.jpg",
+        "description": "GUARDABARRO TRASERO CABINA 1215 IZQ 1159E",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1860",
+        "name": "SOPORTE FARO TRASERO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1161",
+        "originalCode": "1161",
+        "image": "img/products/om366/soporte-faro-trasero-l-1620-1161.jpg",
+        "description": "SOPORTE FARO TRASERO L 1620 1161",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1861",
+        "name": "CORONA Y PIÑON 1218 9/39 RAPIDA",
+        "brand": "Mercedes Benz",
+        "code": "121810",
+        "originalCode": "121810",
+        "image": "img/products/om366/corona-y-pinon-1218-9-39-rapida-121810.jpg",
+        "description": "CORONA Y PIÑON 1218 9/39 RAPIDA 121810",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1862",
+        "name": "BOMBA AGUA OM 366 CUELLO LARGO",
+        "brand": "Mercedes Benz",
+        "code": "20119",
+        "originalCode": "20119",
+        "image": "img/products/om366/bomba-agua-om-366-cuello-largo-20119.jpg",
+        "description": "BOMBA AGUA OM 366 CUELLO LARGO 20119",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1863",
+        "name": "CAJA PORTA SATELITES COMPLETA 1215",
+        "brand": "Mercedes Benz",
+        "code": "207203",
+        "originalCode": "207203",
+        "image": "img/products/om366/caja-porta-satelites-completa-1215-207203.jpg",
+        "description": "CAJA PORTA SATELITES COMPLETA 1215 207203",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1864",
+        "name": "CAJA PORTA SATELITES VACIA 1215",
+        "brand": "Mercedes Benz",
+        "code": "24170544",
+        "originalCode": "24170544",
+        "image": "img/products/om366/caja-porta-satelites-vacia-1215-24170544.jpg",
+        "description": "CAJA PORTA SATELITES VACIA 1215 24170544",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1865",
+        "name": "CORONA Y PIÑON 8/39 1215 19050",
+        "brand": "Mercedes Benz",
+        "code": "24170689",
+        "originalCode": "24170689",
+        "image": "img/products/om366/corona-y-pinon-8-39-1215-19050-24170689.jpg",
+        "description": "CORONA Y PIÑON 8/39 1215 19050 24170689",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1866",
+        "name": "CORONA Y PIÑON 7/46 1215 19050",
+        "brand": "Mercedes Benz",
+        "code": "24170698",
+        "originalCode": "24170698",
+        "image": "img/products/om366/corona-y-pinon-7-46-1215-19050-24170698.jpg",
+        "description": "CORONA Y PIÑON 7/46 1215 19050 24170698",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1867",
+        "name": "CAJA PORTA SATELITES COMPLETA 1215",
+        "brand": "Mercedes Benz",
+        "code": "24171003",
+        "originalCode": "24171003",
+        "image": "img/products/om366/caja-porta-satelites-completa-1215-24171003.jpg",
+        "description": "CAJA PORTA SATELITES COMPLETA 1215 24171003",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1868",
+        "name": "SOPORTE CRUCETA PALANCA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1290395170",
+        "originalCode": "1290395170",
+        "image": "img/products/om366/soporte-cruceta-palanca-l-1620-1290395170.jpg",
+        "description": "SOPORTE CRUCETA PALANCA L 1620 1290395170",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1869",
+        "name": "SOPORTE ESTRIBO INFERIOR L 1218",
+        "brand": "Mercedes Benz",
+        "code": "1334",
+        "originalCode": "1334",
+        "image": "img/products/om366/soporte-estribo-inferior-l-1218-1334.jpg",
+        "description": "SOPORTE ESTRIBO INFERIOR L 1218 1334",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1870",
+        "name": "MAZA SINCRONIZADA 5 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "14330101",
+        "originalCode": "14330101",
+        "image": "img/products/om366/maza-sincronizada-5-l-1620-14330101.jpg",
+        "description": "MAZA SINCRONIZADA 5 L 1620 14330101",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1871",
+        "name": "POLEA CIGUENAL OM 366A 1620",
+        "brand": "Mercedes Benz",
+        "code": "R388P",
+        "originalCode": "R388P",
+        "image": "img/products/om366/polea-ciguenal-om-366a-1620-r388p.jpg",
+        "description": "POLEA CIGUENAL OM 366A 1620 R388P",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1872",
+        "name": "COJINETE BANCADA OM 366 PESTAÑA SUPERMEDIDA",
+        "brand": "Mercedes Benz",
+        "code": "M48375",
+        "originalCode": "M48375",
+        "image": "img/products/om366/cojinete-bancada-om-366-pestana-supermedida-m48375.jpg",
+        "description": "COJINETE BANCADA OM 366 PESTAÑA SUPERMEDIDA M48375",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1873",
+        "name": "CAÑO RETORNO GAS OIL OM 366",
+        "brand": "Mercedes Benz",
+        "code": "MV0213B",
+        "originalCode": "MV0213B",
+        "image": "img/products/om366/cano-retorno-gas-oil-om-366-mv0213b.jpg",
+        "description": "CAÑO RETORNO GAS OIL OM 366 MV0213B",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1874",
+        "name": "CAÑO ALIMENTACION BOMBA INY 1620",
+        "brand": "Mercedes Benz",
+        "code": "MV1727",
+        "originalCode": "MV1727",
+        "image": "img/products/om366/cano-alimentacion-bomba-iny-1620-mv1727.jpg",
+        "description": "CAÑO ALIMENTACION BOMBA INY 1620 MV1727",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1875",
+        "name": "CAÑO CORTO FINO HIDRAULICA 1620",
+        "brand": "Mercedes Benz",
+        "code": "MV1733",
+        "originalCode": "MV1733",
+        "image": "img/products/om366/cano-corto-fino-hidraulica-1620-mv1733.jpg",
+        "description": "CAÑO CORTO FINO HIDRAULICA 1620 MV1733",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1876",
+        "name": "DEFLECTOR RADIADOR L1620 ( 801068 )",
+        "brand": "Mercedes Benz",
+        "code": "000279",
+        "originalCode": "000279",
+        "image": "img/products/om366/deflector-radiador-l1620-801068-000279.jpg",
+        "description": "DEFLECTOR RADIADOR L1620 ( 801068 ) 000279",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1877",
+        "name": "VALVULA PEDALERA OH 1621 L L1620",
+        "brand": "Mercedes Benz",
+        "code": "I31347",
+        "originalCode": "I31347",
+        "image": "img/products/om366/valvula-pedalera-oh-1621-l-l1620-i31347.jpg",
+        "description": "VALVULA PEDALERA OH 1621 L L1620 I31347",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1878",
+        "name": "AROS MOTOR OM 366 2 CILINDROS 1,00",
+        "brand": "Mercedes Benz",
+        "code": "46067-100",
+        "originalCode": "46067-100",
+        "image": "img/products/om366/aros-motor-om-366-2-cilindros-1-00-46067-100.jpg",
+        "description": "AROS MOTOR OM 366 2 CILINDROS 1,00 46067-100",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1879",
+        "name": "CAJA PORTA SATELITE ARMADA 1620 CON RODILLOS",
+        "brand": "Mercedes Benz",
+        "code": "03350036",
+        "originalCode": "03350036",
+        "image": "img/products/om366/caja-porta-satelite-armada-1620-con-rodillos-03350036.jpg",
+        "description": "CAJA PORTA SATELITE ARMADA 1620 CON RODILLOS 03350036",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1880",
+        "name": "ENGRANAJE 3 29Z L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "10330451",
+        "originalCode": "10330451",
+        "image": "img/products/om366/engranaje-3-29z-l-1620-s5-680-10330451.jpg",
+        "description": "ENGRANAJE 3 29Z L 1620 S5-680 10330451",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1881",
+        "name": "EJE ACANALADO L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "13330074",
+        "originalCode": "13330074",
+        "image": "img/products/om366/eje-acanalado-l-1620-s5-680-13330074.jpg",
+        "description": "EJE ACANALADO L 1620 S5-680 13330074",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1882",
+        "name": "CRAPODINA L 1620 OHL 1420",
+        "brand": "Mercedes Benz",
+        "code": "HCS06P11",
+        "originalCode": "HCS06P11",
+        "image": "img/products/om366/crapodina-l-1620-ohl-1420-hcs06p11.jpg",
+        "description": "CRAPODINA L 1620 OHL 1420 HCS06P11",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P1883",
+        "name": "REPARCION SECADOR DE AIRE CON REGULADOR L 1620",
+        "brand": "Mercedes Benz",
+        "code": "I325810051",
+        "originalCode": "I325810051",
+        "image": "img/products/om366/reparcion-secador-de-aire-con-regulador-l-1620-i325810051.jpg",
+        "description": "REPARCION SECADOR DE AIRE CON REGULADOR L 1620 I325810051",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1884",
+        "name": "COMPRESOR COMPLETO L 1620 88MM",
+        "brand": "Mercedes Benz",
+        "code": "I36928",
+        "originalCode": "I36928",
+        "image": "img/products/om366/compresor-completo-l-1620-88mm-i36928.jpg",
+        "description": "COMPRESOR COMPLETO L 1620 88MM I36928",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1885",
+        "name": "VALVULA FRENO MANO 1620 CON ENGANCHE LATERAL",
+        "brand": "Mercedes Benz",
+        "code": "9617221820",
+        "originalCode": "9617221820",
+        "image": "img/products/om366/valvula-freno-mano-1620-con-enganche-lateral-9617221820.jpg",
+        "description": "VALVULA FRENO MANO 1620 CON ENGANCHE LATERAL 9617221820",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1886",
+        "name": "SOPORTE MOTOR TRASERO 1620 O H",
+        "brand": "Mercedes Benz",
+        "code": "R283",
+        "originalCode": "R283",
+        "image": "img/products/om366/soporte-motor-trasero-1620-o-h-r283.jpg",
+        "description": "SOPORTE MOTOR TRASERO 1620 O H R283",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1887",
+        "name": "VASO FILTRO ACEITE 1215 CARTUCHO",
+        "brand": "Mercedes Benz",
+        "code": "MIC0374",
+        "originalCode": "MIC0374",
+        "image": "img/products/om366/vaso-filtro-aceite-1215-cartucho-mic0374.jpg",
+        "description": "VASO FILTRO ACEITE 1215 CARTUCHO MIC0374",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1888",
+        "name": "ESTIRA CORREA COMPRESOR OM 366 LA SIN POLEA",
+        "brand": "Mercedes Benz",
+        "code": "MIC0777",
+        "originalCode": "MIC0777",
+        "image": "img/products/om366/estira-correa-compresor-om-366-la-sin-polea-mic0777.jpg",
+        "description": "ESTIRA CORREA COMPRESOR OM 366 LA SIN POLEA MIC0777",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1889",
+        "name": "CAÑO COMPRESOR L 1620 1 TRAMO",
+        "brand": "Mercedes Benz",
+        "code": "MV3568",
+        "originalCode": "MV3568",
+        "image": "img/products/om366/cano-compresor-l-1620-1-tramo-mv3568.jpg",
+        "description": "CAÑO COMPRESOR L 1620 1 TRAMO MV3568",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1890",
+        "name": "CILINDRO A Y B M BENZ L1620 1624",
+        "brand": "Mercedes Benz",
+        "code": "7610-076",
+        "originalCode": "7610-076",
+        "image": "img/products/om366/cilindro-a-y-b-m-benz-l1620-1624-7610-076.jpg",
+        "description": "CILINDRO A Y B M BENZ L1620 1624 7610-076",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1891",
+        "name": "BULON TAPA DIFERENCIAL 1620 OH 10X20",
+        "brand": "Mercedes Benz",
+        "code": "2870",
+        "originalCode": "2870",
+        "image": "img/products/om366/bulon-tapa-diferencial-1620-oh-10x20-2870.jpg",
+        "description": "BULON TAPA DIFERENCIAL 1620 OH 10X20 2870",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1892",
+        "name": "JUNTA GUARDABARRO TRAS 1215 IZQ",
+        "brand": "Mercedes Benz",
+        "code": "000064",
+        "originalCode": "000064",
+        "image": "img/products/om366/junta-guardabarro-tras-1215-izq-000064.jpg",
+        "description": "JUNTA GUARDABARRO TRAS 1215 IZQ 000064",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1893",
+        "name": "COMPRESOR COMPLETO 75 MM L 1620",
+        "brand": "Mercedes Benz",
+        "code": "011200175",
+        "originalCode": "011200175",
+        "image": "img/products/om366/compresor-completo-75-mm-l-1620-011200175.jpg",
+        "description": "COMPRESOR COMPLETO 75 MM L 1620 011200175",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1894",
+        "name": "BOMBA ALIMENTADORA GAS OIL OM 366",
+        "brand": "Mercedes Benz",
+        "code": "0440003240-1",
+        "originalCode": "0440003240-1",
+        "image": "img/products/om366/bomba-alimentadora-gas-oil-om-366-0440003240-1.jpg",
+        "description": "BOMBA ALIMENTADORA GAS OIL OM 366 0440003240-1",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1895",
+        "name": "SOPORTE RADIADOR Y DEP AGUA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "1138",
+        "originalCode": "1138",
+        "image": "img/products/om366/soporte-radiador-y-dep-agua-l-1620-1138.jpg",
+        "description": "SOPORTE RADIADOR Y DEP AGUA L 1620 1138",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1896",
+        "name": "DESPLAZABLE 5 L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "14330098",
+        "originalCode": "14330098",
+        "image": "img/products/om366/desplazable-5-l-1620-s5-680-14330098.jpg",
+        "description": "DESPLAZABLE 5 L 1620 S5-680 14330098",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1897",
+        "name": "ARRASTRADOR 1 Y 2 L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "14330103",
+        "originalCode": "14330103",
+        "image": "img/products/om366/arrastrador-1-y-2-l-1620-s5-680-14330103.jpg",
+        "description": "ARRASTRADOR 1 Y 2 L 1620 S5-680 14330103",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1898",
+        "name": "JUNTA BOMBA AGUA CON DEFLECTOR OM 366",
+        "brand": "Mercedes Benz",
+        "code": "15232",
+        "originalCode": "15232",
+        "image": "img/products/om366/junta-bomba-agua-con-deflector-om-366-15232.jpg",
+        "description": "JUNTA BOMBA AGUA CON DEFLECTOR OM 366 15232",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1899",
+        "name": "BOMBA ALIMENTADORA GAS OIL OM 366",
+        "brand": "Mercedes Benz",
+        "code": "BA130/21",
+        "originalCode": "BA130/21",
+        "image": "img/products/om366/bomba-alimentadora-gas-oil-om-366-ba130-21.jpg",
+        "description": "BOMBA ALIMENTADORA GAS OIL OM 366 BA130/21",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1900",
+        "name": "FLEXIBLE ESCAPE L 1218 ELEC 1720 ATRON",
+        "brand": "Mercedes Benz",
+        "code": "BRC008",
+        "originalCode": "BRC008",
+        "image": "img/products/om366/flexible-escape-l-1218-elec-1720-atron-brc008.jpg",
+        "description": "FLEXIBLE ESCAPE L 1218 ELEC 1720 ATRON BRC008",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1901",
+        "name": "CARTER MB 1620 OM 366A",
+        "brand": "Mercedes Benz",
+        "code": "C018",
+        "originalCode": "C018",
+        "image": "img/products/om366/carter-mb-1620-om-366a-c018.jpg",
+        "description": "CARTER MB 1620 OM 366A C018",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1902",
+        "name": "CABLE ACEL. CAJA A PEDAL L 1620 541MM",
+        "brand": "Mercedes Benz",
+        "code": "FR3138",
+        "originalCode": "FR3138",
+        "image": "img/products/om366/cable-acel-caja-a-pedal-l-1620-541mm-fr3138.jpg",
+        "description": "CABLE ACEL. CAJA A PEDAL L 1620 541MM FR3138",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1903",
+        "name": "SECADOR DE AIRE CON REGULADOR Y FILTRO L 1620",
+        "brand": "Mercedes Benz",
+        "code": "I32581",
+        "originalCode": "I32581",
+        "image": "img/products/om366/secador-de-aire-con-regulador-y-filtro-l-1620-i32581.jpg",
+        "description": "SECADOR DE AIRE CON REGULADOR Y FILTRO L 1620 I32581",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1904",
+        "name": "REPARACION VALVULA DISTRIBUIDORA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "I35270",
+        "originalCode": "I35270",
+        "image": "img/products/om366/reparacion-valvula-distribuidora-l-1620-i35270.jpg",
+        "description": "REPARACION VALVULA DISTRIBUIDORA L 1620 I35270",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1905",
+        "name": "GOMA CARDAN L 1620 FORD VW",
+        "brand": "Mercedes Benz",
+        "code": "R252",
+        "originalCode": "R252",
+        "image": "img/products/om366/goma-cardan-l-1620-ford-vw-r252.jpg",
+        "description": "GOMA CARDAN L 1620 FORD VW R252",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1906",
+        "name": "RULEMAN CARDAN CON GOMA L 1620 OF 1417",
+        "brand": "Mercedes Benz",
+        "code": "S07802",
+        "originalCode": "S07802",
+        "image": "img/products/om366/ruleman-cardan-con-goma-l-1620-of-1417-s07802.jpg",
+        "description": "RULEMAN CARDAN CON GOMA L 1620 OF 1417 S07802",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1907",
+        "name": "PLANCHUELA ESTIRA CORREA COMPRESOR L 1620",
+        "brand": "Mercedes Benz",
+        "code": "MIC0753",
+        "originalCode": "MIC0753",
+        "image": "img/products/om366/planchuela-estira-correa-compresor-l-1620-mic0753.jpg",
+        "description": "PLANCHUELA ESTIRA CORREA COMPRESOR L 1620 MIC0753",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1908",
+        "name": "ENGRANAJE BOMBA HIDRAULICA L 1620 OM 366LA",
+        "brand": "Mercedes Benz",
+        "code": "MIC1837",
+        "originalCode": "MIC1837",
+        "image": "img/products/om366/engranaje-bomba-hidraulica-l-1620-om-366la-mic1837.jpg",
+        "description": "ENGRANAJE BOMBA HIDRAULICA L 1620 OM 366LA MIC1837",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1909",
+        "name": "ESTIRA CORREA COMPRESOR L 1620 COMP",
+        "brand": "Mercedes Benz",
+        "code": "MIC2199",
+        "originalCode": "MIC2199",
+        "image": "img/products/om366/estira-correa-compresor-l-1620-comp-mic2199.jpg",
+        "description": "ESTIRA CORREA COMPRESOR L 1620 COMP MIC2199",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P1910",
+        "name": "MANIJA LEVANTA VIDRIO 1215 GRIS METALICA",
+        "brand": "Mercedes Benz",
+        "code": "50403",
+        "originalCode": "50403",
+        "image": "img/products/om366/manija-levanta-vidrio-1215-gris-metalica-50403.jpg",
+        "description": "MANIJA LEVANTA VIDRIO 1215 GRIS METALICA 50403",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1911",
+        "name": "CARCAZA PORTA CRUCETA PALANCA CAMBIO L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "0091307125",
+        "originalCode": "0091307125",
+        "image": "img/products/om366/carcaza-porta-cruceta-palanca-cambio-l-1620-s5-680-0091307125.jpg",
+        "description": "CARCAZA PORTA CRUCETA PALANCA CAMBIO L 1620 S5-680 0091307125",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1912",
+        "name": "ENGRANAJE 3 INFERIOR 24 Z L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "10330452",
+        "originalCode": "10330452",
+        "image": "img/products/om366/engranaje-3-inferior-24-z-l-1620-s5-680-10330452.jpg",
+        "description": "ENGRANAJE 3 INFERIOR 24 Z L 1620 S5-680 10330452",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1913",
+        "name": "DIRECTA 17 Z PARA 1 RULEMAN L 1218",
+        "brand": "Mercedes Benz",
+        "code": "12330022",
+        "originalCode": "12330022",
+        "image": "img/products/om366/directa-17-z-para-1-ruleman-l-1218-12330022.jpg",
+        "description": "DIRECTA 17 Z PARA 1 RULEMAN L 1218 12330022",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1914",
+        "name": "DESPLAZABLE 3 Y 4 L 1620 S5-680",
+        "brand": "Mercedes Benz",
+        "code": "14330090",
+        "originalCode": "14330090",
+        "image": "img/products/om366/desplazable-3-y-4-l-1620-s5-680-14330090.jpg",
+        "description": "DESPLAZABLE 3 Y 4 L 1620 S5-680 14330090",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1915",
+        "name": "HELICE VENTILADOR OF 1417 L 1620",
+        "brand": "Mercedes Benz",
+        "code": "7037110",
+        "originalCode": "7037110",
+        "image": "img/products/om366/helice-ventilador-of-1417-l-1620-7037110.jpg",
+        "description": "HELICE VENTILADOR OF 1417 L 1620 7037110",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1916",
+        "name": "VALVULA FRENO MANO CON PALANCA L 1620 - 1632-34",
+        "brand": "Mercedes Benz",
+        "code": "DPM93A",
+        "originalCode": "DPM93A",
+        "image": "img/products/om366/valvula-freno-mano-con-palanca-l-1620-1632-34-dpm93a.jpg",
+        "description": "VALVULA FRENO MANO CON PALANCA L 1620 - 1632-34 DPM93A",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P1917",
+        "name": "CAÑO AGUA REFRIGERACION COMP L 1620 ENTRADA",
+        "brand": "Mercedes Benz",
+        "code": "MV1774",
+        "originalCode": "MV1774",
+        "image": "img/products/om366/cano-agua-refrigeracion-comp-l-1620-entrada-mv1774.jpg",
+        "description": "CAÑO AGUA REFRIGERACION COMP L 1620 ENTRADA MV1774",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1918",
+        "name": "CAÑO AGUA REFRIGERACION COMP L 1620 SALIDA",
+        "brand": "Mercedes Benz",
+        "code": "MV1775",
+        "originalCode": "MV1775",
+        "image": "img/products/om366/cano-agua-refrigeracion-comp-l-1620-salida-mv1775.jpg",
+        "description": "CAÑO AGUA REFRIGERACION COMP L 1620 SALIDA MV1775",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1919",
+        "name": "BRIDA SALIDA CAJA MB ZF L1620 P/ 5-438",
+        "brand": "Mercedes Benz",
+        "code": "04879-1",
+        "originalCode": "04879-1",
+        "image": "img/products/om366/brida-salida-caja-mb-zf-l1620-p-5-438-04879-1.jpg",
+        "description": "BRIDA SALIDA CAJA MB ZF L1620 P/ 5-438 04879-1",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1920",
+        "name": "JGO SATELITES PLANETARIOS CRUZ L 1620 MOD NUEVO CO",
+        "brand": "Mercedes Benz",
+        "code": "05350037L",
+        "originalCode": "05350037L",
+        "image": "img/products/om366/jgo-satelites-planetarios-cruz-l-1620-mod-nuevo-co-05350037l.jpg",
+        "description": "JGO SATELITES PLANETARIOS CRUZ L 1620 MOD NUEVO CO 05350037L",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1921",
+        "name": "TAPA TANQUE GAS OIL CON LLAVE ROSCA EXTERNA L 1620",
+        "brand": "Mercedes Benz",
+        "code": "10223",
+        "originalCode": "10223",
+        "image": "img/products/om366/tapa-tanque-gas-oil-con-llave-rosca-externa-l-1620-10223.jpg",
+        "description": "TAPA TANQUE GAS OIL CON LLAVE ROSCA EXTERNA L 1620 10223",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1922",
+        "name": "TAPA TANQUE GAS OIL SIN LLAVE L 1620 CON ROSCA EXT",
+        "brand": "Mercedes Benz",
+        "code": "10242",
+        "originalCode": "10242",
+        "image": "img/products/om366/tapa-tanque-gas-oil-sin-llave-l-1620-con-rosca-ext-10242.jpg",
+        "description": "TAPA TANQUE GAS OIL SIN LLAVE L 1620 CON ROSCA EXT 10242",
+        "rubro": "SISTEMA ELECTRICO"
+    },
+    {
+        "id": "P1923",
+        "name": "FLEXIBLE ESCAPE L 1620 ATEGO O 500 OM 906",
+        "brand": "Mercedes Benz",
+        "code": "BRC003",
+        "originalCode": "BRC003",
+        "image": "img/products/om366/flexible-escape-l-1620-atego-o-500-om-906-brc003.jpg",
+        "description": "FLEXIBLE ESCAPE L 1620 ATEGO O 500 OM 906 BRC003",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1924",
+        "name": "CENTRO CARDAN L 1620 VW CARGO 45 MM",
+        "brand": "Mercedes Benz",
+        "code": "R252R",
+        "originalCode": "R252R",
+        "image": "img/products/om366/centro-cardan-l-1620-vw-cargo-45-mm-r252r.jpg",
+        "description": "CENTRO CARDAN L 1620 VW CARGO 45 MM R252R",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1925",
+        "name": "FUELLE PALANCA CAMBIO 1215 C 1720",
+        "brand": "Mercedes Benz",
+        "code": "R3404",
+        "originalCode": "R3404",
+        "image": "img/products/om366/fuelle-palanca-cambio-1215-c-1720-r3404.jpg",
+        "description": "FUELLE PALANCA CAMBIO 1215 C 1720 R3404",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1926",
+        "name": "POLEA BOMBA AGUA L 1620 1720 AGUJERO GRANDE 33 MM",
+        "brand": "Mercedes Benz",
+        "code": "R762P",
+        "originalCode": "R762P",
+        "image": "img/products/om366/polea-bomba-agua-l-1620-1720-agujero-grande-33-mm-r762p.jpg",
+        "description": "POLEA BOMBA AGUA L 1620 1720 AGUJERO GRANDE 33 MM R762P",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P1927",
+        "name": "TRANSMISOR IMPULSOS VELOCIMETRO 914 C 1215 C",
+        "brand": "Mercedes Benz",
+        "code": "0501208794",
+        "originalCode": "0501208794",
+        "image": "img/products/om366/transmisor-impulsos-velocimetro-914-c-1215-c-0501208794.jpg",
+        "description": "TRANSMISOR IMPULSOS VELOCIMETRO 914 C 1215 C 0501208794",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1928",
+        "name": "BARRA CORTA DIRECCION A ESTAB 5092",
+        "brand": "Mercedes Benz",
+        "code": "2667",
+        "originalCode": "2667",
+        "image": "img/products/om366/barra-corta-direccion-a-estab-5092-2667.jpg",
+        "description": "BARRA CORTA DIRECCION A ESTAB 5092 2667",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P1929",
+        "name": "RULEMAN RUEDA DELANTERA CHICO 1215-1620",
+        "brand": "Mercedes Benz",
+        "code": "33208",
+        "originalCode": "33208",
+        "image": "img/products/om366/ruleman-rueda-delantera-chico-1215-1620-33208.jpg",
+        "description": "RULEMAN RUEDA DELANTERA CHICO 1215-1620 33208",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1930",
+        "name": "BRIDA PIÑON ROCKWELL 240 5-438 MB",
+        "brand": "Mercedes Benz",
+        "code": "S385",
+        "originalCode": "S385",
+        "image": "img/products/om366/brida-pinon-rockwell-240-5-438-mb-s385.jpg",
+        "description": "BRIDA PIÑON ROCKWELL 240 5-438 MB S385",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1931",
+        "name": "BRIDA DIFERENCIAL ROCKWELL 240 MB SPL90",
+        "brand": "Mercedes Benz",
+        "code": "S340",
+        "originalCode": "S340",
+        "image": "img/products/om366/brida-diferencial-rockwell-240-mb-spl90-s340.jpg",
+        "description": "BRIDA DIFERENCIAL ROCKWELL 240 MB SPL90 S340",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1932",
+        "name": "BRIDA PIÑON 26 ESTRIAS SPL 90-1X",
+        "brand": "Mercedes Benz",
+        "code": "S317",
+        "originalCode": "S317",
+        "image": "img/products/om366/brida-pinon-26-estrias-spl-90-1x-s317.jpg",
+        "description": "BRIDA PIÑON 26 ESTRIAS SPL 90-1X S317",
+        "rubro": "TRANSMISION"
+    },
+    {
+        "id": "P1933",
+        "name": "EMBUDO DIRECTA G85/6 G60/6",
+        "brand": "Mercedes Benz",
+        "code": "MIC2280",
+        "originalCode": "MIC2280",
+        "image": "img/products/om366/embudo-directa-g85-6-g60-6-mic2280.jpg",
+        "description": "EMBUDO DIRECTA G85/6 G60/6 MIC2280",
+        "rubro": "TRANSMISION"
     }
 ];
 
