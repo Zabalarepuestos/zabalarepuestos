@@ -24210,6 +24210,4798 @@ const products = [
         "code": "0501209188",
         "image": "img/products/Stralis/accionador-valvula-3-2-vias-16s2280stralis-0501209188.jpg",
         "description": "ACCIONADOR VALVULA 3/2 VIAS 16S2280STRALIS 0501209188"
+    },
+    {
+        "id": "P2634",
+        "name": "PRESILLA PLASTICA / VARIOS USOS CIPEC",
+        "brand": "Scania",
+        "code": "8111",
+        "image": "img/products/Scania 111/presilla-plastica-varios-usos-cipec-8111.jpg",
+        "description": "PRESILLA PLASTICA / VARIOS USOS CIPEC 8111"
+    },
+    {
+        "id": "P2635",
+        "name": "LETRERO CROMADO «SCANIA» CIPEC",
+        "brand": "Scania",
+        "code": "3459",
+        "image": "img/products/Scania 111/letrero-cromado-scania-cipec-3459.jpg",
+        "description": "LETRERO CROMADO «SCANIA» CIPEC 3459"
+    },
+    {
+        "id": "P2636",
+        "name": "EMBOLO TUBULAR VALVULA RELAY KNORR TIPO RE1115 BEL-AR",
+        "brand": "Scania",
+        "code": "2622",
+        "image": "img/products/Scania 111/embolo-tubular-valvula-relay-knorr-tipo-re1115-bel-ar-2622.jpg",
+        "description": "EMBOLO TUBULAR VALVULA RELAY KNORR TIPO RE1115 BEL-AR 2622"
+    },
+    {
+        "id": "P2637",
+        "name": "ARANDELA SUPLEMENTO EJE TANDEM / MEDIDAS 136,8MM. X 111,7MM. X 2,3MM. CIPEC",
+        "brand": "Scania",
+        "code": "13974",
+        "image": "img/products/Scania 111/arandela-suplemento-eje-tandem-medidas-136-8mm-x-111-7mm-x-2-3mm-cipec-13974.jpg",
+        "description": "ARANDELA SUPLEMENTO EJE TANDEM / MEDIDAS 136,8MM. X 111,7MM. X 2,3MM. CIPEC 13974"
+    },
+    {
+        "id": "P2638",
+        "name": "PARRILLA FRONTAL INFERIOR / PLASTICO IMP.",
+        "brand": "Scania",
+        "code": "12111",
+        "image": "img/products/Scania 111/parrilla-frontal-inferior-plastico-imp-12111.jpg",
+        "description": "PARRILLA FRONTAL INFERIOR / PLASTICO IMP. 12111"
+    },
+    {
+        "id": "P2639",
+        "name": "DEFLECTOR DE AIRE RESERPLASTIC",
+        "brand": "Scania",
+        "code": "11190",
+        "image": "img/products/Scania 111/deflector-de-aire-reserplastic-11190.jpg",
+        "description": "DEFLECTOR DE AIRE RESERPLASTIC 11190"
+    },
+    {
+        "id": "P2640",
+        "name": "MANGUERA FILTRO DE AIRE / PLASTICO RESERPLASTIC",
+        "brand": "Scania",
+        "code": "11182",
+        "image": "img/products/Scania 111/manguera-filtro-de-aire-plastico-reserplastic-11182.jpg",
+        "description": "MANGUERA FILTRO DE AIRE / PLASTICO RESERPLASTIC 11182"
+    },
+    {
+        "id": "P2641",
+        "name": "CORREA POLY V 8PK2063 CT CONTITECH",
+        "brand": "Scania",
+        "code": "11154",
+        "image": "img/products/Scania 111/correa-poly-v-8pk2063-ct-contitech-11154.jpg",
+        "description": "CORREA POLY V 8PK2063 CT CONTITECH 11154"
+    },
+    {
+        "id": "P2642",
+        "name": "CORREA POLY V 8PK2085 CONTITECH",
+        "brand": "Scania",
+        "code": "11155",
+        "image": "img/products/Scania 111/correa-poly-v-8pk2085-contitech-11155.jpg",
+        "description": "CORREA POLY V 8PK2085 CONTITECH 11155"
+    },
+    {
+        "id": "P2643",
+        "name": "CORREA POLY V 8PK2110 RNH CONTITECH",
+        "brand": "Scania",
+        "code": "11156",
+        "image": "img/products/Scania 111/correa-poly-v-8pk2110-rnh-contitech-11156.jpg",
+        "description": "CORREA POLY V 8PK2110 RNH CONTITECH 11156"
+    },
+    {
+        "id": "P2644",
+        "name": "CORREA POLY V 8PK2155 RNH CONTITECH",
+        "brand": "Scania",
+        "code": "11157",
+        "image": "img/products/Scania 111/correa-poly-v-8pk2155-rnh-contitech-11157.jpg",
+        "description": "CORREA POLY V 8PK2155 RNH CONTITECH 11157"
+    },
+    {
+        "id": "P2645",
+        "name": "BOMBA DIRECCION HIDRAULICA TRUCKTEC",
+        "brand": "Scania",
+        "code": "11120",
+        "image": "img/products/Scania 111/bomba-direccion-hidraulica-trucktec-11120.jpg",
+        "description": "BOMBA DIRECCION HIDRAULICA TRUCKTEC 11120"
+    },
+    {
+        "id": "P2646",
+        "name": "BOMBA DIRECCION HIDRAULICA TRUCKTEC",
+        "brand": "Scania",
+        "code": "11121",
+        "image": "img/products/Scania 111/bomba-direccion-hidraulica-trucktec-11121.jpg",
+        "description": "BOMBA DIRECCION HIDRAULICA TRUCKTEC 11121"
+    },
+    {
+        "id": "P2647",
+        "name": "MOTOR CALEFACCION 24V TRUCKTEC",
+        "brand": "Scania",
+        "code": "11122",
+        "image": "img/products/Scania 111/motor-calefaccion-24v-trucktec-11122.jpg",
+        "description": "MOTOR CALEFACCION 24V TRUCKTEC 11122"
+    },
+    {
+        "id": "P2648",
+        "name": "REP. VALVULA RELAY TIPO RE1115 QUINELATO",
+        "brand": "Scania",
+        "code": "0456",
+        "image": "img/products/Scania 111/rep-valvula-relay-tipo-re1115-quinelato-0456.jpg",
+        "description": "REP. VALVULA RELAY TIPO RE1115 QUINELATO 0456"
+    },
+    {
+        "id": "P2649",
+        "name": "SERVOEMBRAGUE KONSBERG 100MM. TKL",
+        "brand": "Scania",
+        "code": "9881",
+        "image": "img/products/Scania 111/servoembrague-konsberg-100mm-tkl-9881.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 100MM. TKL 9881"
+    },
+    {
+        "id": "P2650",
+        "name": "BULON VOLANTE DE MOTOR 14 X 35MM. CIPEC",
+        "brand": "Scania",
+        "code": "9819",
+        "image": "img/products/Scania 111/bulon-volante-de-motor-14-x-35mm-cipec-9819.jpg",
+        "description": "BULON VOLANTE DE MOTOR 14 X 35MM. CIPEC 9819"
+    },
+    {
+        "id": "P2651",
+        "name": "EMPAQUETADURA BOMBA DE AGUA CIPEC",
+        "brand": "Scania",
+        "code": "9820",
+        "image": "img/products/Scania 111/empaquetadura-bomba-de-agua-cipec-9820.jpg",
+        "description": "EMPAQUETADURA BOMBA DE AGUA CIPEC 9820"
+    },
+    {
+        "id": "P2652",
+        "name": "BRIDA ACOPLE CARDAN 22 ESTRIAS / NODULAR REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "9664",
+        "image": "img/products/Scania 111/brida-acople-cardan-22-estrias-nodular-rei-autoparts-9664.jpg",
+        "description": "BRIDA ACOPLE CARDAN 22 ESTRIAS / NODULAR REI AUTOPARTS 9664"
+    },
+    {
+        "id": "P2653",
+        "name": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "9665",
+        "image": "img/products/Scania 111/brida-pinon-diferencial-y-salida-de-caja-22-estrias-nodular-rei-autoparts-9665.jpg",
+        "description": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS 9665"
+    },
+    {
+        "id": "P2654",
+        "name": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "9666",
+        "image": "img/products/Scania 111/brida-pinon-diferencial-y-salida-de-caja-22-estrias-nodular-rei-autoparts-9666.jpg",
+        "description": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS 9666"
+    },
+    {
+        "id": "P2655",
+        "name": "BRIDA PIÑON DIFERENCIAL Y ACOPLE CARDAN 22 ESTRIAS / ACERO REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "9662",
+        "image": "img/products/Scania 111/brida-pinon-diferencial-y-acople-cardan-22-estrias-acero-rei-autoparts-9662.jpg",
+        "description": "BRIDA PIÑON DIFERENCIAL Y ACOPLE CARDAN 22 ESTRIAS / ACERO REI AUTOPARTS 9662"
+    },
+    {
+        "id": "P2656",
+        "name": "FUELLE PALANCA DE CAMBIOS SUPORTE REI",
+        "brand": "Scania",
+        "code": "9632",
+        "image": "img/products/Scania 111/fuelle-palanca-de-cambios-suporte-rei-9632.jpg",
+        "description": "FUELLE PALANCA DE CAMBIOS SUPORTE REI 9632"
+    },
+    {
+        "id": "P2657",
+        "name": "BUJE AMORTIGUADOR INFERIOR DELANTERO Y TRASERO SUPORTE REI",
+        "brand": "Scania",
+        "code": "9566",
+        "image": "img/products/Scania 111/buje-amortiguador-inferior-delantero-y-trasero-suporte-rei-9566.jpg",
+        "description": "BUJE AMORTIGUADOR INFERIOR DELANTERO Y TRASERO SUPORTE REI 9566"
+    },
+    {
+        "id": "P2658",
+        "name": "EJE VALVULA NIVELADORA KNORR QUINELATO",
+        "brand": "Scania",
+        "code": "9513",
+        "image": "img/products/Scania 111/eje-valvula-niveladora-knorr-quinelato-9513.jpg",
+        "description": "EJE VALVULA NIVELADORA KNORR QUINELATO 9513"
+    },
+    {
+        "id": "P2659",
+        "name": "KIT DE PIEZAS PLASTICAS PARA VALVULA RELAY KNORR QUINELATO",
+        "brand": "Scania",
+        "code": "9486",
+        "image": "img/products/Scania 111/kit-de-piezas-plasticas-para-valvula-relay-knorr-quinelato-9486.jpg",
+        "description": "KIT DE PIEZAS PLASTICAS PARA VALVULA RELAY KNORR QUINELATO 9486"
+    },
+    {
+        "id": "P2660",
+        "name": "BULON REGISTRO CAMARA TRISTOP WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "9494",
+        "image": "img/products/Scania 111/bulon-registro-camara-tristop-wabco-quinelato-9494.jpg",
+        "description": "BULON REGISTRO CAMARA TRISTOP WABCO QUINELATO 9494"
+    },
+    {
+        "id": "P2661",
+        "name": "REP. CAMARA TRISTOP WABCO TIPO 30″ QUINELATO",
+        "brand": "Scania",
+        "code": "9495",
+        "image": "img/products/Scania 111/rep-camara-tristop-wabco-tipo-30-8243-quinelato-9495.jpg",
+        "description": "REP. CAMARA TRISTOP WABCO TIPO 30″ QUINELATO 9495"
+    },
+    {
+        "id": "P2662",
+        "name": "REP. VALVULA PEDALERA WABCO PARCIAL QUINELATO",
+        "brand": "Scania",
+        "code": "9479",
+        "image": "img/products/Scania 111/rep-valvula-pedalera-wabco-parcial-quinelato-9479.jpg",
+        "description": "REP. VALVULA PEDALERA WABCO PARCIAL QUINELATO 9479"
+    },
+    {
+        "id": "P2663",
+        "name": "RELAY AUXILIAR 24V. / 4 TERMINALES / 40 AMP. DNI",
+        "brand": "Scania",
+        "code": "9311",
+        "image": "img/products/Scania 111/relay-auxiliar-24v-4-terminales-40-amp-dni-9311.jpg",
+        "description": "RELAY AUXILIAR 24V. / 4 TERMINALES / 40 AMP. DNI 9311"
+    },
+    {
+        "id": "P2664",
+        "name": "FILTRO DIRECCION HIDRAULICA HENGST",
+        "brand": "Scania",
+        "code": "9154",
+        "image": "img/products/Scania 111/filtro-direccion-hidraulica-hengst-9154.jpg",
+        "description": "FILTRO DIRECCION HIDRAULICA HENGST 9154"
+    },
+    {
+        "id": "P2665",
+        "name": "INTERRUPTOR LUCES MARCHA ATRÁS MA2Ó",
+        "brand": "Scania",
+        "code": "9126",
+        "image": "img/products/Scania 111/interruptor-luces-marcha-atras-ma2o-9126.jpg",
+        "description": "INTERRUPTOR LUCES MARCHA ATRÁS MA2Ó 9126"
+    },
+    {
+        "id": "P2666",
+        "name": "FUELLE PALANCA DE CAMBIOS IMP.",
+        "brand": "Scania",
+        "code": "8993",
+        "image": "img/products/Scania 111/fuelle-palanca-de-cambios-imp-8993.jpg",
+        "description": "FUELLE PALANCA DE CAMBIOS IMP. 8993"
+    },
+    {
+        "id": "P2667",
+        "name": "RETEN LEVA FRENO DELANTERO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8936",
+        "image": "img/products/Scania 111/reten-leva-freno-delantero-tf-p-technology-8936.jpg",
+        "description": "RETEN LEVA FRENO DELANTERO TF&P TECHNOLOGY 8936"
+    },
+    {
+        "id": "P2668",
+        "name": "TUERCA EJE TAMDEM O BOOGIE TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8937",
+        "image": "img/products/Scania 111/tuerca-eje-tamdem-o-boogie-tf-p-technology-8937.jpg",
+        "description": "TUERCA EJE TAMDEM O BOOGIE TF&P TECHNOLOGY 8937"
+    },
+    {
+        "id": "P2669",
+        "name": "BUJE LEVA FRENO TRASERO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8927",
+        "image": "img/products/Scania 111/buje-leva-freno-trasero-tf-p-technology-8927.jpg",
+        "description": "BUJE LEVA FRENO TRASERO TF&P TECHNOLOGY 8927"
+    },
+    {
+        "id": "P2670",
+        "name": "BUJE LEVA FRENO DELANTERO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8928",
+        "image": "img/products/Scania 111/buje-leva-freno-delantero-tf-p-technology-8928.jpg",
+        "description": "BUJE LEVA FRENO DELANTERO TF&P TECHNOLOGY 8928"
+    },
+    {
+        "id": "P2671",
+        "name": "RODILLO PATIN FRENO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8930",
+        "image": "img/products/Scania 111/rodillo-patin-freno-tf-p-technology-8930.jpg",
+        "description": "RODILLO PATIN FRENO TF&P TECHNOLOGY 8930"
+    },
+    {
+        "id": "P2672",
+        "name": "BUJE RODILLO PATIN FRENO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8931",
+        "image": "img/products/Scania 111/buje-rodillo-patin-freno-tf-p-technology-8931.jpg",
+        "description": "BUJE RODILLO PATIN FRENO TF&P TECHNOLOGY 8931"
+    },
+    {
+        "id": "P2673",
+        "name": "PERNO PATIN FRENO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8932",
+        "image": "img/products/Scania 111/perno-patin-freno-tf-p-technology-8932.jpg",
+        "description": "PERNO PATIN FRENO TF&P TECHNOLOGY 8932"
+    },
+    {
+        "id": "P2674",
+        "name": "ORING CUBO RUEDA TRASERA TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8913",
+        "image": "img/products/Scania 111/oring-cubo-rueda-trasera-tf-p-technology-8913.jpg",
+        "description": "ORING CUBO RUEDA TRASERA TF&P TECHNOLOGY 8913"
+    },
+    {
+        "id": "P2675",
+        "name": "RETEN RUEDA TRASERA TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8914",
+        "image": "img/products/Scania 111/reten-rueda-trasera-tf-p-technology-8914.jpg",
+        "description": "RETEN RUEDA TRASERA TF&P TECHNOLOGY 8914"
+    },
+    {
+        "id": "P2676",
+        "name": "VALVULA SELENOIDE 24V. / FRENO MOTOR / CAMBIO DE CAJA 3/2 VIAS / TOMA DE FUERZA / BOCINA TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "8869",
+        "image": "img/products/Scania 111/valvula-selenoide-24v-freno-motor-cambio-de-caja-3-2-vias-toma-de-fuerza-bocina-tf-p-technology-8869.jpg",
+        "description": "VALVULA SELENOIDE 24V. / FRENO MOTOR / CAMBIO DE CAJA 3/2 VIAS / TOMA DE FUERZA / BOCINA TF&P TECHNOLOGY 8869"
+    },
+    {
+        "id": "P2677",
+        "name": "RODILLO PATIN FRENO CON BUJE CIPEC",
+        "brand": "Scania",
+        "code": "8753",
+        "image": "img/products/Scania 111/rodillo-patin-freno-con-buje-cipec-8753.jpg",
+        "description": "RODILLO PATIN FRENO CON BUJE CIPEC 8753"
+    },
+    {
+        "id": "P2678",
+        "name": "CHAVETA USOS VARIOS CIPEC",
+        "brand": "Scania",
+        "code": "8717",
+        "image": "img/products/Scania 111/chaveta-usos-varios-cipec-8717.jpg",
+        "description": "CHAVETA USOS VARIOS CIPEC 8717"
+    },
+    {
+        "id": "P2679",
+        "name": "BULON FIJACION BOMBA INYECTORA / M9.7 X 1.5 X 92 CIPEC",
+        "brand": "Scania",
+        "code": "8719",
+        "image": "img/products/Scania 111/bulon-fijacion-bomba-inyectora-m9-7-x-1-5-x-92-cipec-8719.jpg",
+        "description": "BULON FIJACION BOMBA INYECTORA / M9.7 X 1.5 X 92 CIPEC 8719"
+    },
+    {
+        "id": "P2680",
+        "name": "SEGURO TRABA ENGRANAJES DE CAJA CIPEC",
+        "brand": "Scania",
+        "code": "8700",
+        "image": "img/products/Scania 111/seguro-traba-engranajes-de-caja-cipec-8700.jpg",
+        "description": "SEGURO TRABA ENGRANAJES DE CAJA CIPEC 8700"
+    },
+    {
+        "id": "P2681",
+        "name": "BUJE PRESILLA FORRO PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "8701",
+        "image": "img/products/Scania 111/buje-presilla-forro-puerta-cipec-8701.jpg",
+        "description": "BUJE PRESILLA FORRO PUERTA CIPEC 8701"
+    },
+    {
+        "id": "P2682",
+        "name": "PLACA PERNO PATIN DE FRENO CIPEC",
+        "brand": "Scania",
+        "code": "8702",
+        "image": "img/products/Scania 111/placa-perno-patin-de-freno-cipec-8702.jpg",
+        "description": "PLACA PERNO PATIN DE FRENO CIPEC 8702"
+    },
+    {
+        "id": "P2683",
+        "name": "PALANCA INTERMEDIA PEDAL DE EMBRAGUE CIPEC",
+        "brand": "Scania",
+        "code": "8703",
+        "image": "img/products/Scania 111/palanca-intermedia-pedal-de-embrague-cipec-8703.jpg",
+        "description": "PALANCA INTERMEDIA PEDAL DE EMBRAGUE CIPEC 8703"
+    },
+    {
+        "id": "P2684",
+        "name": "BUJE PATIN FRENO TRASERO CIPEC",
+        "brand": "Scania",
+        "code": "8704",
+        "image": "img/products/Scania 111/buje-patin-freno-trasero-cipec-8704.jpg",
+        "description": "BUJE PATIN FRENO TRASERO CIPEC 8704"
+    },
+    {
+        "id": "P2685",
+        "name": "RODILLO PATIN FRENO SIN BUJE CIPEC",
+        "brand": "Scania",
+        "code": "8705",
+        "image": "img/products/Scania 111/rodillo-patin-freno-sin-buje-cipec-8705.jpg",
+        "description": "RODILLO PATIN FRENO SIN BUJE CIPEC 8705"
+    },
+    {
+        "id": "P2686",
+        "name": "BUJE BI-PARTIDO RODILLO PATIN DE FRENO / PATIN CORTO CIPEC",
+        "brand": "Scania",
+        "code": "8706",
+        "image": "img/products/Scania 111/buje-bi-partido-rodillo-patin-de-freno-patin-corto-cipec-8706.jpg",
+        "description": "BUJE BI-PARTIDO RODILLO PATIN DE FRENO / PATIN CORTO CIPEC 8706"
+    },
+    {
+        "id": "P2687",
+        "name": "PIÑON VELOCIMETRO 9 DIENTES CIPEC",
+        "brand": "Scania",
+        "code": "8707",
+        "image": "img/products/Scania 111/pinon-velocimetro-9-dientes-cipec-8707.jpg",
+        "description": "PIÑON VELOCIMETRO 9 DIENTES CIPEC 8707"
+    },
+    {
+        "id": "P2688",
+        "name": "PIÑON VELOCIMETRO 10 DIENTES CIPEC",
+        "brand": "Scania",
+        "code": "8708",
+        "image": "img/products/Scania 111/pinon-velocimetro-10-dientes-cipec-8708.jpg",
+        "description": "PIÑON VELOCIMETRO 10 DIENTES CIPEC 8708"
+    },
+    {
+        "id": "P2689",
+        "name": "PIÑON VELOCIMETRO 11 DIENTES CIPEC",
+        "brand": "Scania",
+        "code": "8709",
+        "image": "img/products/Scania 111/pinon-velocimetro-11-dientes-cipec-8709.jpg",
+        "description": "PIÑON VELOCIMETRO 11 DIENTES CIPEC 8709"
+    },
+    {
+        "id": "P2690",
+        "name": "BULON BRAZO PUNTA DE EJE CIPEC",
+        "brand": "Scania",
+        "code": "8710",
+        "image": "img/products/Scania 111/bulon-brazo-punta-de-eje-cipec-8710.jpg",
+        "description": "BULON BRAZO PUNTA DE EJE CIPEC 8710"
+    },
+    {
+        "id": "P2691",
+        "name": "BOMBA ACEITE DE LA CAJA CIPEC",
+        "brand": "Scania",
+        "code": "8711",
+        "image": "img/products/Scania 111/bomba-aceite-de-la-caja-cipec-8711.jpg",
+        "description": "BOMBA ACEITE DE LA CAJA CIPEC 8711"
+    },
+    {
+        "id": "P2692",
+        "name": "BULON CORONA DIFERENCIAL CIPEC",
+        "brand": "Scania",
+        "code": "8713",
+        "image": "img/products/Scania 111/bulon-corona-diferencial-cipec-8713.jpg",
+        "description": "BULON CORONA DIFERENCIAL CIPEC 8713"
+    },
+    {
+        "id": "P2693",
+        "name": "TUERCA BULON CORONA DIFERENCIAL CIPEC",
+        "brand": "Scania",
+        "code": "8714",
+        "image": "img/products/Scania 111/tuerca-bulon-corona-diferencial-cipec-8714.jpg",
+        "description": "TUERCA BULON CORONA DIFERENCIAL CIPEC 8714"
+    },
+    {
+        "id": "P2694",
+        "name": "CRAPODINA EMBRAGUE HCS",
+        "brand": "Scania",
+        "code": "8688",
+        "image": "img/products/Scania 111/crapodina-embrague-hcs-8688.jpg",
+        "description": "CRAPODINA EMBRAGUE HCS 8688"
+    },
+    {
+        "id": "P2695",
+        "name": "DIAFRAGMA 6 1/2″ / TIPO 20 X 24 KNORR 168 X 37MM. BINS",
+        "brand": "Scania",
+        "code": "8594",
+        "image": "img/products/Scania 111/diafragma-6-1-2-8243-tipo-20-x-24-knorr-168-x-37mm-bins-8594.jpg",
+        "description": "DIAFRAGMA 6 1/2″ / TIPO 20 X 24 KNORR 168 X 37MM. BINS 8594"
+    },
+    {
+        "id": "P2696",
+        "name": "TUERCA REGISTRO VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "8554",
+        "image": "img/products/Scania 111/tuerca-registro-valvulas-cipec-8554.jpg",
+        "description": "TUERCA REGISTRO VALVULAS CIPEC 8554"
+    },
+    {
+        "id": "P2697",
+        "name": "ESPACIADOR RODAMIENTO CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "8555",
+        "image": "img/products/Scania 111/espaciador-rodamiento-caja-de-cambios-cipec-8555.jpg",
+        "description": "ESPACIADOR RODAMIENTO CAJA DE CAMBIOS CIPEC 8555"
+    },
+    {
+        "id": "P2698",
+        "name": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA / NO USA TRABA 184.055 CIPEC",
+        "brand": "Scania",
+        "code": "8561",
+        "image": "img/products/Scania 111/tuerca-reforma-cardan-pinon-salida-de-caja-no-usa-traba-184-055-cipec-8561.jpg",
+        "description": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA / NO USA TRABA 184.055 CIPEC 8561"
+    },
+    {
+        "id": "P2699",
+        "name": "CARCAZA SELECTORA DE CAJA / CON AGUJERO PARA SENSOR / USA BUJE 812.374 CIPEC",
+        "brand": "Scania",
+        "code": "8562",
+        "image": "img/products/Scania 111/carcaza-selectora-de-caja-con-agujero-para-sensor-usa-buje-812-374-cipec-8562.jpg",
+        "description": "CARCAZA SELECTORA DE CAJA / CON AGUJERO PARA SENSOR / USA BUJE 812.374 CIPEC 8562"
+    },
+    {
+        "id": "P2700",
+        "name": "BURLETE PARABRISAS CIPEC",
+        "brand": "Scania",
+        "code": "8552",
+        "image": "img/products/Scania 111/burlete-parabrisas-cipec-8552.jpg",
+        "description": "BURLETE PARABRISAS CIPEC 8552"
+    },
+    {
+        "id": "P2701",
+        "name": "CORREA AVX13X1550 CONTITECH",
+        "brand": "Scania",
+        "code": "8501",
+        "image": "img/products/Scania 111/correa-avx13x1550-contitech-8501.jpg",
+        "description": "CORREA AVX13X1550 CONTITECH 8501"
+    },
+    {
+        "id": "P2702",
+        "name": "CORREA AVX13X1575 CONTITECH",
+        "brand": "Scania",
+        "code": "8503",
+        "image": "img/products/Scania 111/correa-avx13x1575-contitech-8503.jpg",
+        "description": "CORREA AVX13X1575 CONTITECH 8503"
+    },
+    {
+        "id": "P2703",
+        "name": "CORREA AVX13X1650 CONTITECH",
+        "brand": "Scania",
+        "code": "8505",
+        "image": "img/products/Scania 111/correa-avx13x1650-contitech-8505.jpg",
+        "description": "CORREA AVX13X1650 CONTITECH 8505"
+    },
+    {
+        "id": "P2704",
+        "name": "JGO. JUNTAS MOTOR CON JUNTA DE TAPA DE CILINDROS ELRING / SIN RETENES CICCARELLI / ELRING",
+        "brand": "Scania",
+        "code": "8401",
+        "image": "img/products/Scania 111/jgo-juntas-motor-con-junta-de-tapa-de-cilindros-elring-sin-retenes-ciccarelli-elring-8401.jpg",
+        "description": "JGO. JUNTAS MOTOR CON JUNTA DE TAPA DE CILINDROS ELRING / SIN RETENES CICCARELLI / ELRING 8401"
+    },
+    {
+        "id": "P2705",
+        "name": "JGO. JUNTAS MOTOR SIN TAPA DE CILINDROS / SIN RETENES CICCARELLI",
+        "brand": "Scania",
+        "code": "8388",
+        "image": "img/products/Scania 111/jgo-juntas-motor-sin-tapa-de-cilindros-sin-retenes-ciccarelli-8388.jpg",
+        "description": "JGO. JUNTAS MOTOR SIN TAPA DE CILINDROS / SIN RETENES CICCARELLI 8388"
+    },
+    {
+        "id": "P2706",
+        "name": "TAPA CILINDROS / INYECTOR CON BRIDA MARINGÁ",
+        "brand": "Scania",
+        "code": "8361",
+        "image": "img/products/Scania 111/tapa-cilindros-inyector-con-brida-maringa-8361.jpg",
+        "description": "TAPA CILINDROS / INYECTOR CON BRIDA MARINGÁ 8361"
+    },
+    {
+        "id": "P2707",
+        "name": "BULBO TEMPERATURA R14 X 1.5 MM. CIPEC",
+        "brand": "Scania",
+        "code": "8318",
+        "image": "img/products/Scania 111/bulbo-temperatura-r14-x-1-5-mm-cipec-8318.jpg",
+        "description": "BULBO TEMPERATURA R14 X 1.5 MM. CIPEC 8318"
+    },
+    {
+        "id": "P2708",
+        "name": "REP. HORQUILLA SELECTORA CAJA CAMBIOS IMP.",
+        "brand": "Scania",
+        "code": "8289",
+        "image": "img/products/Scania 111/rep-horquilla-selectora-caja-cambios-imp-8289.jpg",
+        "description": "REP. HORQUILLA SELECTORA CAJA CAMBIOS IMP. 8289"
+    },
+    {
+        "id": "P2709",
+        "name": "PEDAL ACELERADOR CIPEC",
+        "brand": "Scania",
+        "code": "8290",
+        "image": "img/products/Scania 111/pedal-acelerador-cipec-8290.jpg",
+        "description": "PEDAL ACELERADOR CIPEC 8290"
+    },
+    {
+        "id": "P2710",
+        "name": "TRABA HORQUILLA VALVULA SUSPENSION DE CABINA CIPEC",
+        "brand": "Scania",
+        "code": "8292",
+        "image": "img/products/Scania 111/traba-horquilla-valvula-suspension-de-cabina-cipec-8292.jpg",
+        "description": "TRABA HORQUILLA VALVULA SUSPENSION DE CABINA CIPEC 8292"
+    },
+    {
+        "id": "P2711",
+        "name": "PISTA SEPARADORA CENTRO DE CARDAN CIPEC",
+        "brand": "Scania",
+        "code": "8294",
+        "image": "img/products/Scania 111/pista-separadora-centro-de-cardan-cipec-8294.jpg",
+        "description": "PISTA SEPARADORA CENTRO DE CARDAN CIPEC 8294"
+    },
+    {
+        "id": "P2712",
+        "name": "SOPORTE RODAMIENTO CARDAN / MEDIANO 250MM. CIPEC",
+        "brand": "Scania",
+        "code": "8298",
+        "image": "img/products/Scania 111/soporte-rodamiento-cardan-mediano-250mm-cipec-8298.jpg",
+        "description": "SOPORTE RODAMIENTO CARDAN / MEDIANO 250MM. CIPEC 8298"
+    },
+    {
+        "id": "P2713",
+        "name": "BANCADA CRUCETA CARDAN DADO 44.04MM. CIPEC",
+        "brand": "Scania",
+        "code": "8273",
+        "image": "img/products/Scania 111/bancada-cruceta-cardan-dado-44-04mm-cipec-8273.jpg",
+        "description": "BANCADA CRUCETA CARDAN DADO 44.04MM. CIPEC 8273"
+    },
+    {
+        "id": "P2714",
+        "name": "BANCADA CRUCETA CARDAN DADO 50MM. CIPEC",
+        "brand": "Scania",
+        "code": "8274",
+        "image": "img/products/Scania 111/bancada-cruceta-cardan-dado-50mm-cipec-8274.jpg",
+        "description": "BANCADA CRUCETA CARDAN DADO 50MM. CIPEC 8274"
+    },
+    {
+        "id": "P2715",
+        "name": "FLANGE CUBO RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "8276",
+        "image": "img/products/Scania 111/flange-cubo-rueda-trasera-cipec-8276.jpg",
+        "description": "FLANGE CUBO RUEDA TRASERA CIPEC 8276"
+    },
+    {
+        "id": "P2716",
+        "name": "TUBO DISTANCIADOR CUBO RUEDA DELANTERA CIPEC",
+        "brand": "Scania",
+        "code": "8277",
+        "image": "img/products/Scania 111/tubo-distanciador-cubo-rueda-delantera-cipec-8277.jpg",
+        "description": "TUBO DISTANCIADOR CUBO RUEDA DELANTERA CIPEC 8277"
+    },
+    {
+        "id": "P2717",
+        "name": "BUJE EJE HORQUILLA EMBRAGUE CIPEC",
+        "brand": "Scania",
+        "code": "8282",
+        "image": "img/products/Scania 111/buje-eje-horquilla-embrague-cipec-8282.jpg",
+        "description": "BUJE EJE HORQUILLA EMBRAGUE CIPEC 8282"
+    },
+    {
+        "id": "P2718",
+        "name": "COJINETE DEL RODAMIENTO DE EMBRAGUE CIPEC",
+        "brand": "Scania",
+        "code": "8283",
+        "image": "img/products/Scania 111/cojinete-del-rodamiento-de-embrague-cipec-8283.jpg",
+        "description": "COJINETE DEL RODAMIENTO DE EMBRAGUE CIPEC 8283"
+    },
+    {
+        "id": "P2719",
+        "name": "ANILLO TRABA ENGRANAJE CAJA DE CAMBIOS / LISO CIPEC",
+        "brand": "Scania",
+        "code": "8264",
+        "image": "img/products/Scania 111/anillo-traba-engranaje-caja-de-cambios-liso-cipec-8264.jpg",
+        "description": "ANILLO TRABA ENGRANAJE CAJA DE CAMBIOS / LISO CIPEC 8264"
+    },
+    {
+        "id": "P2720",
+        "name": "RODILLO SIN PERNO HORQUILLA SELECTORA DE CAJA CIPEC",
+        "brand": "Scania",
+        "code": "8216",
+        "image": "img/products/Scania 111/rodillo-sin-perno-horquilla-selectora-de-caja-cipec-8216.jpg",
+        "description": "RODILLO SIN PERNO HORQUILLA SELECTORA DE CAJA CIPEC 8216"
+    },
+    {
+        "id": "P2721",
+        "name": "EJE PROPULSOR BOMBA INYECTORA / USA CHAVETAS 800.695 Y 800.702 CIPEC",
+        "brand": "Scania",
+        "code": "8217",
+        "image": "img/products/Scania 111/eje-propulsor-bomba-inyectora-usa-chavetas-800-695-y-800-702-cipec-8217.jpg",
+        "description": "EJE PROPULSOR BOMBA INYECTORA / USA CHAVETAS 800.695 Y 800.702 CIPEC 8217"
+    },
+    {
+        "id": "P2722",
+        "name": "RETEN EJE PROPULSOR BOMBA INYECTORA SABO",
+        "brand": "Scania",
+        "code": "8220",
+        "image": "img/products/Scania 111/reten-eje-propulsor-bomba-inyectora-sabo-8220.jpg",
+        "description": "RETEN EJE PROPULSOR BOMBA INYECTORA SABO 8220"
+    },
+    {
+        "id": "P2723",
+        "name": "PERNO GUIA TAPA DE CILINDRO / 8 X 20MM. CIPEC",
+        "brand": "Scania",
+        "code": "8186",
+        "image": "img/products/Scania 111/perno-guia-tapa-de-cilindro-8-x-20mm-cipec-8186.jpg",
+        "description": "PERNO GUIA TAPA DE CILINDRO / 8 X 20MM. CIPEC 8186"
+    },
+    {
+        "id": "P2724",
+        "name": "TAPON BLOCK MOTOR CIPEC",
+        "brand": "Scania",
+        "code": "8187",
+        "image": "img/products/Scania 111/tapon-block-motor-cipec-8187.jpg",
+        "description": "TAPON BLOCK MOTOR CIPEC 8187"
+    },
+    {
+        "id": "P2725",
+        "name": "ANILLO TRABA CUBO RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "8196",
+        "image": "img/products/Scania 111/anillo-traba-cubo-rueda-trasera-cipec-8196.jpg",
+        "description": "ANILLO TRABA CUBO RUEDA TRASERA CIPEC 8196"
+    },
+    {
+        "id": "P2726",
+        "name": "PLATILLO SUPERIOR RESORTE VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "8198",
+        "image": "img/products/Scania 111/platillo-superior-resorte-valvulas-cipec-8198.jpg",
+        "description": "PLATILLO SUPERIOR RESORTE VALVULAS CIPEC 8198"
+    },
+    {
+        "id": "P2727",
+        "name": "CUBO POLEA CIGUEÑAL / FORJADO / TEMPLADO POR INDUCCION / PARA CHAVETA CIPEC",
+        "brand": "Scania",
+        "code": "8201",
+        "image": "img/products/Scania 111/cubo-polea-ciguenal-forjado-templado-por-induccion-para-chaveta-cipec-8201.jpg",
+        "description": "CUBO POLEA CIGUEÑAL / FORJADO / TEMPLADO POR INDUCCION / PARA CHAVETA CIPEC 8201"
+    },
+    {
+        "id": "P2728",
+        "name": "TUERCA DIRECTA / ACERO TEMPLADO CIPEC",
+        "brand": "Scania",
+        "code": "8165",
+        "image": "img/products/Scania 111/tuerca-directa-acero-templado-cipec-8165.jpg",
+        "description": "TUERCA DIRECTA / ACERO TEMPLADO CIPEC 8165"
+    },
+    {
+        "id": "P2729",
+        "name": "TUERCA BULON REGULADOR DE CORONA DE DIFERENCIAL CIPEC",
+        "brand": "Scania",
+        "code": "8167",
+        "image": "img/products/Scania 111/tuerca-bulon-regulador-de-corona-de-diferencial-cipec-8167.jpg",
+        "description": "TUERCA BULON REGULADOR DE CORONA DE DIFERENCIAL CIPEC 8167"
+    },
+    {
+        "id": "P2730",
+        "name": "TUERCA CUBO RUEDA CIPEC",
+        "brand": "Scania",
+        "code": "8168",
+        "image": "img/products/Scania 111/tuerca-cubo-rueda-cipec-8168.jpg",
+        "description": "TUERCA CUBO RUEDA CIPEC 8168"
+    },
+    {
+        "id": "P2731",
+        "name": "TUERCA DIRECTA CIPEC",
+        "brand": "Scania",
+        "code": "8169",
+        "image": "img/products/Scania 111/tuerca-directa-cipec-8169.jpg",
+        "description": "TUERCA DIRECTA CIPEC 8169"
+    },
+    {
+        "id": "P2732",
+        "name": "TUERCA CUBO TRASERO / DERECHA CIPEC",
+        "brand": "Scania",
+        "code": "8171",
+        "image": "img/products/Scania 111/tuerca-cubo-trasero-derecha-cipec-8171.jpg",
+        "description": "TUERCA CUBO TRASERO / DERECHA CIPEC 8171"
+    },
+    {
+        "id": "P2733",
+        "name": "TUERCA CUBO TRASERO / IZQUIERDA CIPEC",
+        "brand": "Scania",
+        "code": "8172",
+        "image": "img/products/Scania 111/tuerca-cubo-trasero-izquierda-cipec-8172.jpg",
+        "description": "TUERCA CUBO TRASERO / IZQUIERDA CIPEC 8172"
+    },
+    {
+        "id": "P2734",
+        "name": "TUERCA EJE FILTRO ROTATIVO DE ACEITE / MODELO NUEVO CIPEC",
+        "brand": "Scania",
+        "code": "8173",
+        "image": "img/products/Scania 111/tuerca-eje-filtro-rotativo-de-aceite-modelo-nuevo-cipec-8173.jpg",
+        "description": "TUERCA EJE FILTRO ROTATIVO DE ACEITE / MODELO NUEVO CIPEC 8173"
+    },
+    {
+        "id": "P2735",
+        "name": "TAPON USOS VARIOS CIPEC",
+        "brand": "Scania",
+        "code": "8176",
+        "image": "img/products/Scania 111/tapon-usos-varios-cipec-8176.jpg",
+        "description": "TAPON USOS VARIOS CIPEC 8176"
+    },
+    {
+        "id": "P2736",
+        "name": "ARANDELA LAMINA ACOPLE BOMBA INYECTORA CIPEC",
+        "brand": "Scania",
+        "code": "8180",
+        "image": "img/products/Scania 111/arandela-lamina-acople-bomba-inyectora-cipec-8180.jpg",
+        "description": "ARANDELA LAMINA ACOPLE BOMBA INYECTORA CIPEC 8180"
+    },
+    {
+        "id": "P2737",
+        "name": "TUBO BARRA ESTABILIZADORA DELANTERA CIPEC",
+        "brand": "Scania",
+        "code": "8153",
+        "image": "img/products/Scania 111/tubo-barra-estabilizadora-delantera-cipec-8153.jpg",
+        "description": "TUBO BARRA ESTABILIZADORA DELANTERA CIPEC 8153"
+    },
+    {
+        "id": "P2738",
+        "name": "TUERCA ARTICULACION FRENO DE MOTOR CIPEC",
+        "brand": "Scania",
+        "code": "8156",
+        "image": "img/products/Scania 111/tuerca-articulacion-freno-de-motor-cipec-8156.jpg",
+        "description": "TUERCA ARTICULACION FRENO DE MOTOR CIPEC 8156"
+    },
+    {
+        "id": "P2739",
+        "name": "ANILLO TRABA TRANSMISION PLANETARIA CIPEC",
+        "brand": "Scania",
+        "code": "8157",
+        "image": "img/products/Scania 111/anillo-traba-transmision-planetaria-cipec-8157.jpg",
+        "description": "ANILLO TRABA TRANSMISION PLANETARIA CIPEC 8157"
+    },
+    {
+        "id": "P2740",
+        "name": "BULON TAPA CILINDROS / 18 X 110MM. CIPEC",
+        "brand": "Scania",
+        "code": "8158",
+        "image": "img/products/Scania 111/bulon-tapa-cilindros-18-x-110mm-cipec-8158.jpg",
+        "description": "BULON TAPA CILINDROS / 18 X 110MM. CIPEC 8158"
+    },
+    {
+        "id": "P2741",
+        "name": "TORNILLO EJE BOMBA ACEITE CIPEC",
+        "brand": "Scania",
+        "code": "8159",
+        "image": "img/products/Scania 111/tornillo-eje-bomba-aceite-cipec-8159.jpg",
+        "description": "TORNILLO EJE BOMBA ACEITE CIPEC 8159"
+    },
+    {
+        "id": "P2742",
+        "name": "TORNILLO REGISTRO DE VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "8160",
+        "image": "img/products/Scania 111/tornillo-registro-de-valvulas-cipec-8160.jpg",
+        "description": "TORNILLO REGISTRO DE VALVULAS CIPEC 8160"
+    },
+    {
+        "id": "P2743",
+        "name": "TORNILLO MEDIA CARCAZA DIFERENCIAL DERECHA / M16 X 86 CIPEC",
+        "brand": "Scania",
+        "code": "8162",
+        "image": "img/products/Scania 111/tornillo-media-carcaza-diferencial-derecha-m16-x-86-cipec-8162.jpg",
+        "description": "TORNILLO MEDIA CARCAZA DIFERENCIAL DERECHA / M16 X 86 CIPEC 8162"
+    },
+    {
+        "id": "P2744",
+        "name": "ORING SOPORTE BOMBA INYECTORA CIPEC",
+        "brand": "Scania",
+        "code": "8133",
+        "image": "img/products/Scania 111/oring-soporte-bomba-inyectora-cipec-8133.jpg",
+        "description": "ORING SOPORTE BOMBA INYECTORA CIPEC 8133"
+    },
+    {
+        "id": "P2745",
+        "name": "MAZA POLEA CIGUEÑAL / FORJADO CIPEC",
+        "brand": "Scania",
+        "code": "7981",
+        "image": "img/products/Scania 111/maza-polea-ciguenal-forjado-cipec-7981.jpg",
+        "description": "MAZA POLEA CIGUEÑAL / FORJADO CIPEC 7981"
+    },
+    {
+        "id": "P2746",
+        "name": "PERNO BOMBA ACEITE 6 X 16MM. CIPEC",
+        "brand": "Scania",
+        "code": "7990",
+        "image": "img/products/Scania 111/perno-bomba-aceite-6-x-16mm-cipec-7990.jpg",
+        "description": "PERNO BOMBA ACEITE 6 X 16MM. CIPEC 7990"
+    },
+    {
+        "id": "P2747",
+        "name": "PERNO GUIA EJE CAJA SELECTORA / CARCAZA DISTRIBUCION 16 X 35MM. CIPEC",
+        "brand": "Scania",
+        "code": "7992",
+        "image": "img/products/Scania 111/perno-guia-eje-caja-selectora-carcaza-distribucion-16-x-35mm-cipec-7992.jpg",
+        "description": "PERNO GUIA EJE CAJA SELECTORA / CARCAZA DISTRIBUCION 16 X 35MM. CIPEC 7992"
+    },
+    {
+        "id": "P2748",
+        "name": "ARANDELA DEFLECTORA RETEN RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "7960",
+        "image": "img/products/Scania 111/arandela-deflectora-reten-rueda-trasera-cipec-7960.jpg",
+        "description": "ARANDELA DEFLECTORA RETEN RUEDA TRASERA CIPEC 7960"
+    },
+    {
+        "id": "P2749",
+        "name": "ANILLO MULTIPLE ESCAPE / DIAM. 52MM. CIPEC",
+        "brand": "Scania",
+        "code": "7961",
+        "image": "img/products/Scania 111/anillo-multiple-escape-diam-52mm-cipec-7961.jpg",
+        "description": "ANILLO MULTIPLE ESCAPE / DIAM. 52MM. CIPEC 7961"
+    },
+    {
+        "id": "P2750",
+        "name": "BUJE PISTON REGISTRO BOMBA ACEITE CIPEC",
+        "brand": "Scania",
+        "code": "7965",
+        "image": "img/products/Scania 111/buje-piston-registro-bomba-aceite-cipec-7965.jpg",
+        "description": "BUJE PISTON REGISTRO BOMBA ACEITE CIPEC 7965"
+    },
+    {
+        "id": "P2751",
+        "name": "BUJE ENGRANAJE INTERMEDIO DE DISTRIBUCION CIPEC",
+        "brand": "Scania",
+        "code": "7968",
+        "image": "img/products/Scania 111/buje-engranaje-intermedio-de-distribucion-cipec-7968.jpg",
+        "description": "BUJE ENGRANAJE INTERMEDIO DE DISTRIBUCION CIPEC 7968"
+    },
+    {
+        "id": "P2752",
+        "name": "LAMINA ACOPLE BOMBA INYECTORA / ACERO TEMPLADO CIPEC",
+        "brand": "Scania",
+        "code": "7970",
+        "image": "img/products/Scania 111/lamina-acople-bomba-inyectora-acero-templado-cipec-7970.jpg",
+        "description": "LAMINA ACOPLE BOMBA INYECTORA / ACERO TEMPLADO CIPEC 7970"
+    },
+    {
+        "id": "P2753",
+        "name": "ABRAZADERA CAÑO INYECTOR / 2 CAÑOS CIPEC",
+        "brand": "Scania",
+        "code": "7973",
+        "image": "img/products/Scania 111/abrazadera-cano-inyector-2-canos-cipec-7973.jpg",
+        "description": "ABRAZADERA CAÑO INYECTOR / 2 CAÑOS CIPEC 7973"
+    },
+    {
+        "id": "P2754",
+        "name": "ABRAZADERA CAÑO INYECTOR / 3 CAÑOS CIPEC",
+        "brand": "Scania",
+        "code": "7974",
+        "image": "img/products/Scania 111/abrazadera-cano-inyector-3-canos-cipec-7974.jpg",
+        "description": "ABRAZADERA CAÑO INYECTOR / 3 CAÑOS CIPEC 7974"
+    },
+    {
+        "id": "P2755",
+        "name": "ARANDELA PISTA CENTRO DE CARDAN CIPEC",
+        "brand": "Scania",
+        "code": "7940",
+        "image": "img/products/Scania 111/arandela-pista-centro-de-cardan-cipec-7940.jpg",
+        "description": "ARANDELA PISTA CENTRO DE CARDAN CIPEC 7940"
+    },
+    {
+        "id": "P2756",
+        "name": "ARANDELA DEFLECTORA CENTRO CARDAN CIPEC",
+        "brand": "Scania",
+        "code": "7941",
+        "image": "img/products/Scania 111/arandela-deflectora-centro-cardan-cipec-7941.jpg",
+        "description": "ARANDELA DEFLECTORA CENTRO CARDAN CIPEC 7941"
+    },
+    {
+        "id": "P2757",
+        "name": "LAMINA ACOPLE BOMBA INYECTORA / ACERO TEMPLADO CIPEC",
+        "brand": "Scania",
+        "code": "7942",
+        "image": "img/products/Scania 111/lamina-acople-bomba-inyectora-acero-templado-cipec-7942.jpg",
+        "description": "LAMINA ACOPLE BOMBA INYECTORA / ACERO TEMPLADO CIPEC 7942"
+    },
+    {
+        "id": "P2758",
+        "name": "BUJE LAMINA ACOPLE BOMBA INYECTORA / TEMPLADO CIPEC",
+        "brand": "Scania",
+        "code": "7943",
+        "image": "img/products/Scania 111/buje-lamina-acople-bomba-inyectora-templado-cipec-7943.jpg",
+        "description": "BUJE LAMINA ACOPLE BOMBA INYECTORA / TEMPLADO CIPEC 7943"
+    },
+    {
+        "id": "P2759",
+        "name": "DISCO DENTADO EXTERNO SINCRONIZADO CAJA CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7944",
+        "image": "img/products/Scania 111/disco-dentado-externo-sincronizado-caja-cambios-cipec-7944.jpg",
+        "description": "DISCO DENTADO EXTERNO SINCRONIZADO CAJA CAMBIOS CIPEC 7944"
+    },
+    {
+        "id": "P2760",
+        "name": "DISCO LISO CON DENTADO INTERNO SINCRONIZADO CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7945",
+        "image": "img/products/Scania 111/disco-liso-con-dentado-interno-sincronizado-caja-de-cambios-cipec-7945.jpg",
+        "description": "DISCO LISO CON DENTADO INTERNO SINCRONIZADO CAJA DE CAMBIOS CIPEC 7945"
+    },
+    {
+        "id": "P2761",
+        "name": "SOPORTE MOTOR Y ALTERNADOR / LADO DERECHO CIPEC",
+        "brand": "Scania",
+        "code": "7947",
+        "image": "img/products/Scania 111/soporte-motor-y-alternador-lado-derecho-cipec-7947.jpg",
+        "description": "SOPORTE MOTOR Y ALTERNADOR / LADO DERECHO CIPEC 7947"
+    },
+    {
+        "id": "P2762",
+        "name": "TENSOR CORREA ALTERNADOR CIPEC",
+        "brand": "Scania",
+        "code": "7948",
+        "image": "img/products/Scania 111/tensor-correa-alternador-cipec-7948.jpg",
+        "description": "TENSOR CORREA ALTERNADOR CIPEC 7948"
+    },
+    {
+        "id": "P2763",
+        "name": "PERNO TRABA CILINDRO SINCRONIZADO CAJA CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7949",
+        "image": "img/products/Scania 111/perno-traba-cilindro-sincronizado-caja-cambios-cipec-7949.jpg",
+        "description": "PERNO TRABA CILINDRO SINCRONIZADO CAJA CAMBIOS CIPEC 7949"
+    },
+    {
+        "id": "P2764",
+        "name": "GUIA DE DIRECTA CIPEC",
+        "brand": "Scania",
+        "code": "7950",
+        "image": "img/products/Scania 111/guia-de-directa-cipec-7950.jpg",
+        "description": "GUIA DE DIRECTA CIPEC 7950"
+    },
+    {
+        "id": "P2765",
+        "name": "TAPON TAPA DE CILINDROS CIPEC",
+        "brand": "Scania",
+        "code": "7951",
+        "image": "img/products/Scania 111/tapon-tapa-de-cilindros-cipec-7951.jpg",
+        "description": "TAPON TAPA DE CILINDROS CIPEC 7951"
+    },
+    {
+        "id": "P2766",
+        "name": "PALANCA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7952",
+        "image": "img/products/Scania 111/palanca-de-cambios-cipec-7952.jpg",
+        "description": "PALANCA DE CAMBIOS CIPEC 7952"
+    },
+    {
+        "id": "P2767",
+        "name": "MORSA CABLE PARE MOTOR CIPEC",
+        "brand": "Scania",
+        "code": "7953",
+        "image": "img/products/Scania 111/morsa-cable-pare-motor-cipec-7953.jpg",
+        "description": "MORSA CABLE PARE MOTOR CIPEC 7953"
+    },
+    {
+        "id": "P2768",
+        "name": "REP. CILINDRO CONTROL CAJA DE CAMBIOS / 10 MARCHAS CIPEC",
+        "brand": "Scania",
+        "code": "7954",
+        "image": "img/products/Scania 111/rep-cilindro-control-caja-de-cambios-10-marchas-cipec-7954.jpg",
+        "description": "REP. CILINDRO CONTROL CAJA DE CAMBIOS / 10 MARCHAS CIPEC 7954"
+    },
+    {
+        "id": "P2769",
+        "name": "HORQUILLA SELECTORA CAJA CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7955",
+        "image": "img/products/Scania 111/horquilla-selectora-caja-cambios-cipec-7955.jpg",
+        "description": "HORQUILLA SELECTORA CAJA CAMBIOS CIPEC 7955"
+    },
+    {
+        "id": "P2770",
+        "name": "CILINDRO SINCRONIZADO CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7956",
+        "image": "img/products/Scania 111/cilindro-sincronizado-caja-de-cambios-cipec-7956.jpg",
+        "description": "CILINDRO SINCRONIZADO CAJA DE CAMBIOS CIPEC 7956"
+    },
+    {
+        "id": "P2771",
+        "name": "PERNO TRABA SINCRONIZADO DE BAJA CAJA DE CAMBIOS IMP.",
+        "brand": "Scania",
+        "code": "7957",
+        "image": "img/products/Scania 111/perno-traba-sincronizado-de-baja-caja-de-cambios-imp-7957.jpg",
+        "description": "PERNO TRABA SINCRONIZADO DE BAJA CAJA DE CAMBIOS IMP. 7957"
+    },
+    {
+        "id": "P2772",
+        "name": "CONO ESPARRAGO TAPA PALIER CIPEC",
+        "brand": "Scania",
+        "code": "7922",
+        "image": "img/products/Scania 111/cono-esparrago-tapa-palier-cipec-7922.jpg",
+        "description": "CONO ESPARRAGO TAPA PALIER CIPEC 7922"
+    },
+    {
+        "id": "P2773",
+        "name": "TRABA TAPIZADO PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "7923",
+        "image": "img/products/Scania 111/traba-tapizado-puerta-cipec-7923.jpg",
+        "description": "TRABA TAPIZADO PUERTA CIPEC 7923"
+    },
+    {
+        "id": "P2774",
+        "name": "TRABA CAPOT COMPLETA CIPEC",
+        "brand": "Scania",
+        "code": "7924",
+        "image": "img/products/Scania 111/traba-capot-completa-cipec-7924.jpg",
+        "description": "TRABA CAPOT COMPLETA CIPEC 7924"
+    },
+    {
+        "id": "P2775",
+        "name": "PERNO GUIA CIGUEÑAL / VOLANTE 14 X 33MM. CIPEC",
+        "brand": "Scania",
+        "code": "7925",
+        "image": "img/products/Scania 111/perno-guia-ciguenal-volante-14-x-33mm-cipec-7925.jpg",
+        "description": "PERNO GUIA CIGUEÑAL / VOLANTE 14 X 33MM. CIPEC 7925"
+    },
+    {
+        "id": "P2776",
+        "name": "ARANDELA ENGRANAJE DISTRIBUCION / ACERO CIPEC",
+        "brand": "Scania",
+        "code": "7926",
+        "image": "img/products/Scania 111/arandela-engranaje-distribucion-acero-cipec-7926.jpg",
+        "description": "ARANDELA ENGRANAJE DISTRIBUCION / ACERO CIPEC 7926"
+    },
+    {
+        "id": "P2777",
+        "name": "ARANDELA ENGRANAJE DISTRIBUCION / BRONCE CIPEC",
+        "brand": "Scania",
+        "code": "7927",
+        "image": "img/products/Scania 111/arandela-engranaje-distribucion-bronce-cipec-7927.jpg",
+        "description": "ARANDELA ENGRANAJE DISTRIBUCION / BRONCE CIPEC 7927"
+    },
+    {
+        "id": "P2778",
+        "name": "ARANDELA SUPLEMENTO RODAMIENTO RUEDA DELANTERA / ESPESOR 6MM. CIPEC",
+        "brand": "Scania",
+        "code": "7928",
+        "image": "img/products/Scania 111/arandela-suplemento-rodamiento-rueda-delantera-espesor-6mm-cipec-7928.jpg",
+        "description": "ARANDELA SUPLEMENTO RODAMIENTO RUEDA DELANTERA / ESPESOR 6MM. CIPEC 7928"
+    },
+    {
+        "id": "P2779",
+        "name": "ARANDELA TRABA RUEDA DELANTERA CIPEC",
+        "brand": "Scania",
+        "code": "7929",
+        "image": "img/products/Scania 111/arandela-traba-rueda-delantera-cipec-7929.jpg",
+        "description": "ARANDELA TRABA RUEDA DELANTERA CIPEC 7929"
+    },
+    {
+        "id": "P2780",
+        "name": "PINO TRABA CAPOT CIPEC",
+        "brand": "Scania",
+        "code": "7930",
+        "image": "img/products/Scania 111/pino-traba-capot-cipec-7930.jpg",
+        "description": "PINO TRABA CAPOT CIPEC 7930"
+    },
+    {
+        "id": "P2781",
+        "name": "ASIENTO GUIA TRABA CAPOT CIPEC",
+        "brand": "Scania",
+        "code": "7931",
+        "image": "img/products/Scania 111/asiento-guia-traba-capot-cipec-7931.jpg",
+        "description": "ASIENTO GUIA TRABA CAPOT CIPEC 7931"
+    },
+    {
+        "id": "P2782",
+        "name": "BUJE CARCAZA BOMBA DE ACEITE / BRONCE CIPEC",
+        "brand": "Scania",
+        "code": "7932",
+        "image": "img/products/Scania 111/buje-carcaza-bomba-de-aceite-bronce-cipec-7932.jpg",
+        "description": "BUJE CARCAZA BOMBA DE ACEITE / BRONCE CIPEC 7932"
+    },
+    {
+        "id": "P2783",
+        "name": "BUJE PERNO ROTOR BOMBA DIRECCION HIDRAULICA / GOMA CIPEC",
+        "brand": "Scania",
+        "code": "7933",
+        "image": "img/products/Scania 111/buje-perno-rotor-bomba-direccion-hidraulica-goma-cipec-7933.jpg",
+        "description": "BUJE PERNO ROTOR BOMBA DIRECCION HIDRAULICA / GOMA CIPEC 7933"
+    },
+    {
+        "id": "P2784",
+        "name": "BUJE PIÑON VELOCIMETRO 9/10 DIENTES CIPEC",
+        "brand": "Scania",
+        "code": "7935",
+        "image": "img/products/Scania 111/buje-pinon-velocimetro-9-10-dientes-cipec-7935.jpg",
+        "description": "BUJE PIÑON VELOCIMETRO 9/10 DIENTES CIPEC 7935"
+    },
+    {
+        "id": "P2785",
+        "name": "BUJE PIÑON VELOCIMETRO 13/14 DIENTES CIPEC",
+        "brand": "Scania",
+        "code": "7936",
+        "image": "img/products/Scania 111/buje-pinon-velocimetro-13-14-dientes-cipec-7936.jpg",
+        "description": "BUJE PIÑON VELOCIMETRO 13/14 DIENTES CIPEC 7936"
+    },
+    {
+        "id": "P2786",
+        "name": "BUJE CRUCETA DIFERENCIAL / TRIMETALICO CIPEC",
+        "brand": "Scania",
+        "code": "7937",
+        "image": "img/products/Scania 111/buje-cruceta-diferencial-trimetalico-cipec-7937.jpg",
+        "description": "BUJE CRUCETA DIFERENCIAL / TRIMETALICO CIPEC 7937"
+    },
+    {
+        "id": "P2787",
+        "name": "ANILLO SUPLEMENTO PIÑON DIFERENCIAL CIPEC",
+        "brand": "Scania",
+        "code": "7938",
+        "image": "img/products/Scania 111/anillo-suplemento-pinon-diferencial-cipec-7938.jpg",
+        "description": "ANILLO SUPLEMENTO PIÑON DIFERENCIAL CIPEC 7938"
+    },
+    {
+        "id": "P2788",
+        "name": "PREFILTRO COMBUSTIBLE TRUCKTEC",
+        "brand": "Scania",
+        "code": "7885",
+        "image": "img/products/Scania 111/prefiltro-combustible-trucktec-7885.jpg",
+        "description": "PREFILTRO COMBUSTIBLE TRUCKTEC 7885"
+    },
+    {
+        "id": "P2789",
+        "name": "VALVULA DRENAJE AUTOMATICO KNORR IMP.",
+        "brand": "Scania",
+        "code": "7800",
+        "image": "img/products/Scania 111/valvula-drenaje-automatico-knorr-imp-7800.jpg",
+        "description": "VALVULA DRENAJE AUTOMATICO KNORR IMP. 7800"
+    },
+    {
+        "id": "P2790",
+        "name": "CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 90MM. NTI",
+        "brand": "Scania",
+        "code": "7816",
+        "image": "img/products/Scania 111/cilindro-control-caja-de-cambios-diam-90mm-nti-7816.jpg",
+        "description": "CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 90MM. NTI 7816"
+    },
+    {
+        "id": "P2791",
+        "name": "REP. PUNTA DE EJE CON BUJES / TIPO ORIGINAL / AM55 CIPEC",
+        "brand": "Scania",
+        "code": "7792",
+        "image": "img/products/Scania 111/rep-punta-de-eje-con-bujes-tipo-original-am55-cipec-7792.jpg",
+        "description": "REP. PUNTA DE EJE CON BUJES / TIPO ORIGINAL / AM55 CIPEC 7792"
+    },
+    {
+        "id": "P2792",
+        "name": "REP. EXTREMO DIRECCION COMPLETO CIPEC",
+        "brand": "Scania",
+        "code": "7762",
+        "image": "img/products/Scania 111/rep-extremo-direccion-completo-cipec-7762.jpg",
+        "description": "REP. EXTREMO DIRECCION COMPLETO CIPEC 7762"
+    },
+    {
+        "id": "P2793",
+        "name": "ORING BOMBA DE ACEITE DEL MOTOR AL BLOCK CIPEC",
+        "brand": "Scania",
+        "code": "7764",
+        "image": "img/products/Scania 111/oring-bomba-de-aceite-del-motor-al-block-cipec-7764.jpg",
+        "description": "ORING BOMBA DE ACEITE DEL MOTOR AL BLOCK CIPEC 7764"
+    },
+    {
+        "id": "P2794",
+        "name": "ORING CILINDRO CONTROL CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7765",
+        "image": "img/products/Scania 111/oring-cilindro-control-caja-de-cambios-cipec-7765.jpg",
+        "description": "ORING CILINDRO CONTROL CAJA DE CAMBIOS CIPEC 7765"
+    },
+    {
+        "id": "P2795",
+        "name": "SOPORTE UNION TAPA DE CILINDROS CIPEC",
+        "brand": "Scania",
+        "code": "7766",
+        "image": "img/products/Scania 111/soporte-union-tapa-de-cilindros-cipec-7766.jpg",
+        "description": "SOPORTE UNION TAPA DE CILINDROS CIPEC 7766"
+    },
+    {
+        "id": "P2796",
+        "name": "BULON SINCRONIZADO CAJA DE CAMBIOS 8MM. / LLAVE 6MM. CIPEC",
+        "brand": "Scania",
+        "code": "7739",
+        "image": "img/products/Scania 111/bulon-sincronizado-caja-de-cambios-8mm-llave-6mm-cipec-7739.jpg",
+        "description": "BULON SINCRONIZADO CAJA DE CAMBIOS 8MM. / LLAVE 6MM. CIPEC 7739"
+    },
+    {
+        "id": "P2797",
+        "name": "MEDIA ABRAZADERA SOPORTE DE CARDAN CIPEC",
+        "brand": "Scania",
+        "code": "7740",
+        "image": "img/products/Scania 111/media-abrazadera-soporte-de-cardan-cipec-7740.jpg",
+        "description": "MEDIA ABRAZADERA SOPORTE DE CARDAN CIPEC 7740"
+    },
+    {
+        "id": "P2798",
+        "name": "VARILLA LEVANTA VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "7741",
+        "image": "img/products/Scania 111/varilla-levanta-valvulas-cipec-7741.jpg",
+        "description": "VARILLA LEVANTA VALVULAS CIPEC 7741"
+    },
+    {
+        "id": "P2799",
+        "name": "TUERCA CUBO RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "7742",
+        "image": "img/products/Scania 111/tuerca-cubo-rueda-trasera-cipec-7742.jpg",
+        "description": "TUERCA CUBO RUEDA TRASERA CIPEC 7742"
+    },
+    {
+        "id": "P2800",
+        "name": "PICO REFRIGERACION PISTON MOTOR CIPEC",
+        "brand": "Scania",
+        "code": "7743",
+        "image": "img/products/Scania 111/pico-refrigeracion-piston-motor-cipec-7743.jpg",
+        "description": "PICO REFRIGERACION PISTON MOTOR CIPEC 7743"
+    },
+    {
+        "id": "P2801",
+        "name": "TUERCA TAPA VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "7749",
+        "image": "img/products/Scania 111/tuerca-tapa-valvulas-cipec-7749.jpg",
+        "description": "TUERCA TAPA VALVULAS CIPEC 7749"
+    },
+    {
+        "id": "P2802",
+        "name": "RETEN BOMBA DE AGUA / PORCELANA + GOMA CIPEC",
+        "brand": "Scania",
+        "code": "7750",
+        "image": "img/products/Scania 111/reten-bomba-de-agua-porcelana-goma-cipec-7750.jpg",
+        "description": "RETEN BOMBA DE AGUA / PORCELANA + GOMA CIPEC 7750"
+    },
+    {
+        "id": "P2803",
+        "name": "INTERRUPTOR DE PUERTA / LUZ DE CABINA 3-RHO",
+        "brand": "Scania",
+        "code": "7752",
+        "image": "img/products/Scania 111/interruptor-de-puerta-luz-de-cabina-3-rho-7752.jpg",
+        "description": "INTERRUPTOR DE PUERTA / LUZ DE CABINA 3-RHO 7752"
+    },
+    {
+        "id": "P2804",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. STD QUINELATO",
+        "brand": "Scania",
+        "code": "7720",
+        "image": "img/products/Scania 111/piston-con-perno-y-seguro-compresor-varga-70mm-std-quinelato-7720.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. STD QUINELATO 7720"
+    },
+    {
+        "id": "P2805",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.10” TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "7721",
+        "image": "img/products/Scania 111/piston-con-perno-y-seguro-compresor-varga-70mm-0-10-tf-p-technology-7721.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.10” TF&P TECHNOLOGY 7721"
+    },
+    {
+        "id": "P2806",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.20” TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "7722",
+        "image": "img/products/Scania 111/piston-con-perno-y-seguro-compresor-varga-70mm-0-20-tf-p-technology-7722.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.20” TF&P TECHNOLOGY 7722"
+    },
+    {
+        "id": "P2807",
+        "name": "CHAVETA DE VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "7726",
+        "image": "img/products/Scania 111/chaveta-de-valvulas-cipec-7726.jpg",
+        "description": "CHAVETA DE VALVULAS CIPEC 7726"
+    },
+    {
+        "id": "P2808",
+        "name": "MEDIA BANCADA BALANCIN EMBRAGUE CIPEC",
+        "brand": "Scania",
+        "code": "7727",
+        "image": "img/products/Scania 111/media-bancada-balancin-embrague-cipec-7727.jpg",
+        "description": "MEDIA BANCADA BALANCIN EMBRAGUE CIPEC 7727"
+    },
+    {
+        "id": "P2809",
+        "name": "BOTADOR DE VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "7728",
+        "image": "img/products/Scania 111/botador-de-valvulas-cipec-7728.jpg",
+        "description": "BOTADOR DE VALVULAS CIPEC 7728"
+    },
+    {
+        "id": "P2810",
+        "name": "CAPA TRABA CAPOT CIPEC",
+        "brand": "Scania",
+        "code": "7729",
+        "image": "img/products/Scania 111/capa-traba-capot-cipec-7729.jpg",
+        "description": "CAPA TRABA CAPOT CIPEC 7729"
+    },
+    {
+        "id": "P2811",
+        "name": "PISTA PORTARETEN RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "7730",
+        "image": "img/products/Scania 111/pista-portareten-rueda-trasera-cipec-7730.jpg",
+        "description": "PISTA PORTARETEN RUEDA TRASERA CIPEC 7730"
+    },
+    {
+        "id": "P2812",
+        "name": "ORING FILTRO ROTATIVO DE ACEITE CIPEC",
+        "brand": "Scania",
+        "code": "7731",
+        "image": "img/products/Scania 111/oring-filtro-rotativo-de-aceite-cipec-7731.jpg",
+        "description": "ORING FILTRO ROTATIVO DE ACEITE CIPEC 7731"
+    },
+    {
+        "id": "P2813",
+        "name": "TUERCA EJE FILTRO ROTATIVO DE ACEITE / MODELO VIEJO CIPEC",
+        "brand": "Scania",
+        "code": "7732",
+        "image": "img/products/Scania 111/tuerca-eje-filtro-rotativo-de-aceite-modelo-viejo-cipec-7732.jpg",
+        "description": "TUERCA EJE FILTRO ROTATIVO DE ACEITE / MODELO VIEJO CIPEC 7732"
+    },
+    {
+        "id": "P2814",
+        "name": "MAZA BOMBA DE AGUA CIPEC",
+        "brand": "Scania",
+        "code": "7733",
+        "image": "img/products/Scania 111/maza-bomba-de-agua-cipec-7733.jpg",
+        "description": "MAZA BOMBA DE AGUA CIPEC 7733"
+    },
+    {
+        "id": "P2815",
+        "name": "ORING RADIADOR ACEITE / SILICONA CIPEC",
+        "brand": "Scania",
+        "code": "7734",
+        "image": "img/products/Scania 111/oring-radiador-aceite-silicona-cipec-7734.jpg",
+        "description": "ORING RADIADOR ACEITE / SILICONA CIPEC 7734"
+    },
+    {
+        "id": "P2816",
+        "name": "PERNO HORQUILLA ALTA Y BAJA / 24 X 1.5 X 34MM. CIPEC",
+        "brand": "Scania",
+        "code": "7735",
+        "image": "img/products/Scania 111/perno-horquilla-alta-y-baja-24-x-1-5-x-34mm-cipec-7735.jpg",
+        "description": "PERNO HORQUILLA ALTA Y BAJA / 24 X 1.5 X 34MM. CIPEC 7735"
+    },
+    {
+        "id": "P2817",
+        "name": "RETEN CILINDRO CONTROL CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7736",
+        "image": "img/products/Scania 111/reten-cilindro-control-caja-de-cambios-cipec-7736.jpg",
+        "description": "RETEN CILINDRO CONTROL CAJA DE CAMBIOS CIPEC 7736"
+    },
+    {
+        "id": "P2818",
+        "name": "CASQUETE DE VALVULA / ALTO CIPEC",
+        "brand": "Scania",
+        "code": "7737",
+        "image": "img/products/Scania 111/casquete-de-valvula-alto-cipec-7737.jpg",
+        "description": "CASQUETE DE VALVULA / ALTO CIPEC 7737"
+    },
+    {
+        "id": "P2819",
+        "name": "CASQUETE DE VALVULA / BAJO CIPEC",
+        "brand": "Scania",
+        "code": "7738",
+        "image": "img/products/Scania 111/casquete-de-valvula-bajo-cipec-7738.jpg",
+        "description": "CASQUETE DE VALVULA / BAJO CIPEC 7738"
+    },
+    {
+        "id": "P2820",
+        "name": "JGO. AROS STD COMPRESOR VARGA 70MM. / MODELO NUEVO QUINELATO",
+        "brand": "Scania",
+        "code": "7694",
+        "image": "img/products/Scania 111/jgo-aros-std-compresor-varga-70mm-modelo-nuevo-quinelato-7694.jpg",
+        "description": "JGO. AROS STD COMPRESOR VARGA 70MM. / MODELO NUEVO QUINELATO 7694"
+    },
+    {
+        "id": "P2821",
+        "name": "JGO. AROS 010 COMPRESOR VARGA 70MM. / MODELO VIEJO QUINELATO",
+        "brand": "Scania",
+        "code": "7695",
+        "image": "img/products/Scania 111/jgo-aros-010-compresor-varga-70mm-modelo-viejo-quinelato-7695.jpg",
+        "description": "JGO. AROS 010 COMPRESOR VARGA 70MM. / MODELO VIEJO QUINELATO 7695"
+    },
+    {
+        "id": "P2822",
+        "name": "JGO. AROS 020 COMPRESOR VARGA 70MM. / MODELO VIEJO QUINELATO",
+        "brand": "Scania",
+        "code": "7696",
+        "image": "img/products/Scania 111/jgo-aros-020-compresor-varga-70mm-modelo-viejo-quinelato-7696.jpg",
+        "description": "JGO. AROS 020 COMPRESOR VARGA 70MM. / MODELO VIEJO QUINELATO 7696"
+    },
+    {
+        "id": "P2823",
+        "name": "RETEN PIÑON DIFERENCIAL / CAJA ELRING",
+        "brand": "Scania",
+        "code": "7631",
+        "image": "img/products/Scania 111/reten-pinon-diferencial-caja-elring-7631.jpg",
+        "description": "RETEN PIÑON DIFERENCIAL / CAJA ELRING 7631"
+    },
+    {
+        "id": "P2824",
+        "name": "TERMINAL ACELERADOR COMPLETO CIPEC",
+        "brand": "Scania",
+        "code": "7611",
+        "image": "img/products/Scania 111/terminal-acelerador-completo-cipec-7611.jpg",
+        "description": "TERMINAL ACELERADOR COMPLETO CIPEC 7611"
+    },
+    {
+        "id": "P2825",
+        "name": "ESPARRAGO CON CONO Y TUERCA PARA TAPA DE PALIER CIPEC",
+        "brand": "Scania",
+        "code": "7618",
+        "image": "img/products/Scania 111/esparrago-con-cono-y-tuerca-para-tapa-de-palier-cipec-7618.jpg",
+        "description": "ESPARRAGO CON CONO Y TUERCA PARA TAPA DE PALIER CIPEC 7618"
+    },
+    {
+        "id": "P2826",
+        "name": "TAPON DE CARTER CON IMAN CIPEC",
+        "brand": "Scania",
+        "code": "7597",
+        "image": "img/products/Scania 111/tapon-de-carter-con-iman-cipec-7597.jpg",
+        "description": "TAPON DE CARTER CON IMAN CIPEC 7597"
+    },
+    {
+        "id": "P2827",
+        "name": "ARANDELA SUPLEMENTO RUEDA TRASERA / 1.00MM. CIPEC",
+        "brand": "Scania",
+        "code": "7563",
+        "image": "img/products/Scania 111/arandela-suplemento-rueda-trasera-1-00mm-cipec-7563.jpg",
+        "description": "ARANDELA SUPLEMENTO RUEDA TRASERA / 1.00MM. CIPEC 7563"
+    },
+    {
+        "id": "P2828",
+        "name": "ARANDELA AMORTIGUADOR DELANTERO INFERIOR CIPEC",
+        "brand": "Scania",
+        "code": "7566",
+        "image": "img/products/Scania 111/arandela-amortiguador-delantero-inferior-cipec-7566.jpg",
+        "description": "ARANDELA AMORTIGUADOR DELANTERO INFERIOR CIPEC 7566"
+    },
+    {
+        "id": "P2829",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS CIPEC",
+        "brand": "Scania",
+        "code": "7542",
+        "image": "img/products/Scania 111/sensor-inductivo-para-tacografo-35mm-4-terminales-chatos-cipec-7542.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS CIPEC 7542"
+    },
+    {
+        "id": "P2830",
+        "name": "CARRETEL SINCRONIZADO DE BAJA DE LA CAJA DE CAMBIOS CON PINO CIPEC",
+        "brand": "Scania",
+        "code": "7533",
+        "image": "img/products/Scania 111/carretel-sincronizado-de-baja-de-la-caja-de-cambios-con-pino-cipec-7533.jpg",
+        "description": "CARRETEL SINCRONIZADO DE BAJA DE LA CAJA DE CAMBIOS CON PINO CIPEC 7533"
+    },
+    {
+        "id": "P2831",
+        "name": "REP. EXTREMO DIRECCION PARCIAL CIPEC",
+        "brand": "Scania",
+        "code": "7535",
+        "image": "img/products/Scania 111/rep-extremo-direccion-parcial-cipec-7535.jpg",
+        "description": "REP. EXTREMO DIRECCION PARCIAL CIPEC 7535"
+    },
+    {
+        "id": "P2832",
+        "name": "SEGURO SEEGUER PERNO RODILLO HORQUILLA SELECTORA DE CAJA CIPEC",
+        "brand": "Scania",
+        "code": "7536",
+        "image": "img/products/Scania 111/seguro-seeguer-perno-rodillo-horquilla-selectora-de-caja-cipec-7536.jpg",
+        "description": "SEGURO SEEGUER PERNO RODILLO HORQUILLA SELECTORA DE CAJA CIPEC 7536"
+    },
+    {
+        "id": "P2833",
+        "name": "MANGUITO TAPA FRONTAL CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7538",
+        "image": "img/products/Scania 111/manguito-tapa-frontal-caja-de-cambios-cipec-7538.jpg",
+        "description": "MANGUITO TAPA FRONTAL CAJA DE CAMBIOS CIPEC 7538"
+    },
+    {
+        "id": "P2834",
+        "name": "ARANDELA CILINDRO CONTROL CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7499",
+        "image": "img/products/Scania 111/arandela-cilindro-control-caja-de-cambios-cipec-7499.jpg",
+        "description": "ARANDELA CILINDRO CONTROL CAJA DE CAMBIOS CIPEC 7499"
+    },
+    {
+        "id": "P2835",
+        "name": "ARANDELA CONICA CIGUEÑAL CIPEC",
+        "brand": "Scania",
+        "code": "7503",
+        "image": "img/products/Scania 111/arandela-conica-ciguenal-cipec-7503.jpg",
+        "description": "ARANDELA CONICA CIGUEÑAL CIPEC 7503"
+    },
+    {
+        "id": "P2836",
+        "name": "ARANDELA SATELITE CIPEC",
+        "brand": "Scania",
+        "code": "7496",
+        "image": "img/products/Scania 111/arandela-satelite-cipec-7496.jpg",
+        "description": "ARANDELA SATELITE CIPEC 7496"
+    },
+    {
+        "id": "P2837",
+        "name": "ARANDELA PROTECTORA ENGRANAJE PLANETARIO CIPEC",
+        "brand": "Scania",
+        "code": "7497",
+        "image": "img/products/Scania 111/arandela-protectora-engranaje-planetario-cipec-7497.jpg",
+        "description": "ARANDELA PROTECTORA ENGRANAJE PLANETARIO CIPEC 7497"
+    },
+    {
+        "id": "P2838",
+        "name": "VALVULA ALIVIO PRESION ACEITE / M36 X 1.5 CIPEC",
+        "brand": "Scania",
+        "code": "7459",
+        "image": "img/products/Scania 111/valvula-alivio-presion-aceite-m36-x-1-5-cipec-7459.jpg",
+        "description": "VALVULA ALIVIO PRESION ACEITE / M36 X 1.5 CIPEC 7459"
+    },
+    {
+        "id": "P2839",
+        "name": "CARRETEL SINCRONIZADO DE BAJA DE LA CAJA DE CAMBIOS SIN PINO CIPEC",
+        "brand": "Scania",
+        "code": "7460",
+        "image": "img/products/Scania 111/carretel-sincronizado-de-baja-de-la-caja-de-cambios-sin-pino-cipec-7460.jpg",
+        "description": "CARRETEL SINCRONIZADO DE BAJA DE LA CAJA DE CAMBIOS SIN PINO CIPEC 7460"
+    },
+    {
+        "id": "P2840",
+        "name": "ARANDELA TRABA RODAMIENTO RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "7461",
+        "image": "img/products/Scania 111/arandela-traba-rodamiento-rueda-trasera-cipec-7461.jpg",
+        "description": "ARANDELA TRABA RODAMIENTO RUEDA TRASERA CIPEC 7461"
+    },
+    {
+        "id": "P2841",
+        "name": "ARANDELA TRABA TUERCA RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "7462",
+        "image": "img/products/Scania 111/arandela-traba-tuerca-rueda-trasera-cipec-7462.jpg",
+        "description": "ARANDELA TRABA TUERCA RUEDA TRASERA CIPEC 7462"
+    },
+    {
+        "id": "P2842",
+        "name": "ARANDELA SUPLEMENTO RUEDA TRASERA / 0.25MM. CIPEC",
+        "brand": "Scania",
+        "code": "7463",
+        "image": "img/products/Scania 111/arandela-suplemento-rueda-trasera-0-25mm-cipec-7463.jpg",
+        "description": "ARANDELA SUPLEMENTO RUEDA TRASERA / 0.25MM. CIPEC 7463"
+    },
+    {
+        "id": "P2843",
+        "name": "ARANDELA SUPLEMENTO RUEDA TRASERA / 0.50MM. CIPEC",
+        "brand": "Scania",
+        "code": "7464",
+        "image": "img/products/Scania 111/arandela-suplemento-rueda-trasera-0-50mm-cipec-7464.jpg",
+        "description": "ARANDELA SUPLEMENTO RUEDA TRASERA / 0.50MM. CIPEC 7464"
+    },
+    {
+        "id": "P2844",
+        "name": "PERNO PALANCA CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7439",
+        "image": "img/products/Scania 111/perno-palanca-cambios-cipec-7439.jpg",
+        "description": "PERNO PALANCA CAMBIOS CIPEC 7439"
+    },
+    {
+        "id": "P2845",
+        "name": "TAPA CARCAZA DE EMBRAGUE CIPEC",
+        "brand": "Scania",
+        "code": "7441",
+        "image": "img/products/Scania 111/tapa-carcaza-de-embrague-cipec-7441.jpg",
+        "description": "TAPA CARCAZA DE EMBRAGUE CIPEC 7441"
+    },
+    {
+        "id": "P2846",
+        "name": "BUJE SOPORTE BARRA ESTABILIZADORA DELANTERA / BRONCE CIPEC",
+        "brand": "Scania",
+        "code": "7442",
+        "image": "img/products/Scania 111/buje-soporte-barra-estabilizadora-delantera-bronce-cipec-7442.jpg",
+        "description": "BUJE SOPORTE BARRA ESTABILIZADORA DELANTERA / BRONCE CIPEC 7442"
+    },
+    {
+        "id": "P2847",
+        "name": "ARANDELA PERNO HORQUILLA SELECTORA DE CAJA CIPEC",
+        "brand": "Scania",
+        "code": "7443",
+        "image": "img/products/Scania 111/arandela-perno-horquilla-selectora-de-caja-cipec-7443.jpg",
+        "description": "ARANDELA PERNO HORQUILLA SELECTORA DE CAJA CIPEC 7443"
+    },
+    {
+        "id": "P2848",
+        "name": "FILTRO ACEITE CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7444",
+        "image": "img/products/Scania 111/filtro-aceite-caja-de-cambios-cipec-7444.jpg",
+        "description": "FILTRO ACEITE CAJA DE CAMBIOS CIPEC 7444"
+    },
+    {
+        "id": "P2849",
+        "name": "BASE FILTRO DE ACEITE CIPEC",
+        "brand": "Scania",
+        "code": "7445",
+        "image": "img/products/Scania 111/base-filtro-de-aceite-cipec-7445.jpg",
+        "description": "BASE FILTRO DE ACEITE CIPEC 7445"
+    },
+    {
+        "id": "P2850",
+        "name": "POLEA VENTILADOR 4 AGUJEROS CIPEC",
+        "brand": "Scania",
+        "code": "7446",
+        "image": "img/products/Scania 111/polea-ventilador-4-agujeros-cipec-7446.jpg",
+        "description": "POLEA VENTILADOR 4 AGUJEROS CIPEC 7446"
+    },
+    {
+        "id": "P2851",
+        "name": "PERNO RODILLO HORQUILLA SELECTORA DE CAJA CIPEC",
+        "brand": "Scania",
+        "code": "7447",
+        "image": "img/products/Scania 111/perno-rodillo-horquilla-selectora-de-caja-cipec-7447.jpg",
+        "description": "PERNO RODILLO HORQUILLA SELECTORA DE CAJA CIPEC 7447"
+    },
+    {
+        "id": "P2852",
+        "name": "ANILLO TRABA EJE PLANETARIO CIPEC",
+        "brand": "Scania",
+        "code": "7448",
+        "image": "img/products/Scania 111/anillo-traba-eje-planetario-cipec-7448.jpg",
+        "description": "ANILLO TRABA EJE PLANETARIO CIPEC 7448"
+    },
+    {
+        "id": "P2853",
+        "name": "PESTAÑA VIDRIO DE PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "7449",
+        "image": "img/products/Scania 111/pestana-vidrio-de-puerta-cipec-7449.jpg",
+        "description": "PESTAÑA VIDRIO DE PUERTA CIPEC 7449"
+    },
+    {
+        "id": "P2854",
+        "name": "BURLETE GUIA VIDRIO DE PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "7450",
+        "image": "img/products/Scania 111/burlete-guia-vidrio-de-puerta-cipec-7450.jpg",
+        "description": "BURLETE GUIA VIDRIO DE PUERTA CIPEC 7450"
+    },
+    {
+        "id": "P2855",
+        "name": "BURLETE VIDRIO DE PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "7451",
+        "image": "img/products/Scania 111/burlete-vidrio-de-puerta-cipec-7451.jpg",
+        "description": "BURLETE VIDRIO DE PUERTA CIPEC 7451"
+    },
+    {
+        "id": "P2856",
+        "name": "ZAPATA DESLIZANTE HORQUILLA DE CAJA / BRONCE CIPEC",
+        "brand": "Scania",
+        "code": "7454",
+        "image": "img/products/Scania 111/zapata-deslizante-horquilla-de-caja-bronce-cipec-7454.jpg",
+        "description": "ZAPATA DESLIZANTE HORQUILLA DE CAJA / BRONCE CIPEC 7454"
+    },
+    {
+        "id": "P2857",
+        "name": "BUJE CILINDRO CONTROL CAJA DE CAMBIOS / BRONCE CIPEC",
+        "brand": "Scania",
+        "code": "7455",
+        "image": "img/products/Scania 111/buje-cilindro-control-caja-de-cambios-bronce-cipec-7455.jpg",
+        "description": "BUJE CILINDRO CONTROL CAJA DE CAMBIOS / BRONCE CIPEC 7455"
+    },
+    {
+        "id": "P2858",
+        "name": "BURLETE SOPORTE VIDRIO PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "7457",
+        "image": "img/products/Scania 111/burlete-soporte-vidrio-puerta-cipec-7457.jpg",
+        "description": "BURLETE SOPORTE VIDRIO PUERTA CIPEC 7457"
+    },
+    {
+        "id": "P2859",
+        "name": "MULTIPLE ESCAPE DELANTERO MAYOR CIPEC",
+        "brand": "Scania",
+        "code": "7458",
+        "image": "img/products/Scania 111/multiple-escape-delantero-mayor-cipec-7458.jpg",
+        "description": "MULTIPLE ESCAPE DELANTERO MAYOR CIPEC 7458"
+    },
+    {
+        "id": "P2860",
+        "name": "ARANDELA PROTECTORA SOPORTE MOTOR DELANTERO CIPEC",
+        "brand": "Scania",
+        "code": "7419",
+        "image": "img/products/Scania 111/arandela-protectora-soporte-motor-delantero-cipec-7419.jpg",
+        "description": "ARANDELA PROTECTORA SOPORTE MOTOR DELANTERO CIPEC 7419"
+    },
+    {
+        "id": "P2861",
+        "name": "DEFLECTOR DE ACEITE DEL CIGUEÑAL CIPEC",
+        "brand": "Scania",
+        "code": "7420",
+        "image": "img/products/Scania 111/deflector-de-aceite-del-ciguenal-cipec-7420.jpg",
+        "description": "DEFLECTOR DE ACEITE DEL CIGUEÑAL CIPEC 7420"
+    },
+    {
+        "id": "P2862",
+        "name": "ANILLO MULTIPLE ESCAPE / DIAM. 62MM. CIPEC",
+        "brand": "Scania",
+        "code": "7421",
+        "image": "img/products/Scania 111/anillo-multiple-escape-diam-62mm-cipec-7421.jpg",
+        "description": "ANILLO MULTIPLE ESCAPE / DIAM. 62MM. CIPEC 7421"
+    },
+    {
+        "id": "P2863",
+        "name": "TAPON DIFERENCIAL CON IMAN CIPEC",
+        "brand": "Scania",
+        "code": "7422",
+        "image": "img/products/Scania 111/tapon-diferencial-con-iman-cipec-7422.jpg",
+        "description": "TAPON DIFERENCIAL CON IMAN CIPEC 7422"
+    },
+    {
+        "id": "P2864",
+        "name": "TAPON CARCAZA DIFERENCIAL CIPEC",
+        "brand": "Scania",
+        "code": "7424",
+        "image": "img/products/Scania 111/tapon-carcaza-diferencial-cipec-7424.jpg",
+        "description": "TAPON CARCAZA DIFERENCIAL CIPEC 7424"
+    },
+    {
+        "id": "P2865",
+        "name": "TAPON DE CARTER CON IMAN 24 X 2MM. / LLAVE ALLEN CIPEC",
+        "brand": "Scania",
+        "code": "7425",
+        "image": "img/products/Scania 111/tapon-de-carter-con-iman-24-x-2mm-llave-allen-cipec-7425.jpg",
+        "description": "TAPON DE CARTER CON IMAN 24 X 2MM. / LLAVE ALLEN CIPEC 7425"
+    },
+    {
+        "id": "P2866",
+        "name": "ARANDELA ALUMINIO TAPON DE CARTER / 24 X 1.5 X 38MM. CIPEC",
+        "brand": "Scania",
+        "code": "7426",
+        "image": "img/products/Scania 111/arandela-aluminio-tapon-de-carter-24-x-1-5-x-38mm-cipec-7426.jpg",
+        "description": "ARANDELA ALUMINIO TAPON DE CARTER / 24 X 1.5 X 38MM. CIPEC 7426"
+    },
+    {
+        "id": "P2867",
+        "name": "ARANDELA RESORTE VALVULA INFERIOR CIPEC",
+        "brand": "Scania",
+        "code": "7427",
+        "image": "img/products/Scania 111/arandela-resorte-valvula-inferior-cipec-7427.jpg",
+        "description": "ARANDELA RESORTE VALVULA INFERIOR CIPEC 7427"
+    },
+    {
+        "id": "P2868",
+        "name": "TUBO GUIA SEMI EJE CIPEC",
+        "brand": "Scania",
+        "code": "7428",
+        "image": "img/products/Scania 111/tubo-guia-semi-eje-cipec-7428.jpg",
+        "description": "TUBO GUIA SEMI EJE CIPEC 7428"
+    },
+    {
+        "id": "P2869",
+        "name": "COJINETE PIÑON DE VELOCIMETRO 11 / 12 DIENTES CIPEC",
+        "brand": "Scania",
+        "code": "7429",
+        "image": "img/products/Scania 111/cojinete-pinon-de-velocimetro-11-12-dientes-cipec-7429.jpg",
+        "description": "COJINETE PIÑON DE VELOCIMETRO 11 / 12 DIENTES CIPEC 7429"
+    },
+    {
+        "id": "P2870",
+        "name": "ENGRANAJE SIN FIN DEL VELOCIMETRO CIPEC",
+        "brand": "Scania",
+        "code": "7430",
+        "image": "img/products/Scania 111/engranaje-sin-fin-del-velocimetro-cipec-7430.jpg",
+        "description": "ENGRANAJE SIN FIN DEL VELOCIMETRO CIPEC 7430"
+    },
+    {
+        "id": "P2871",
+        "name": "BUJE CON ROSCA PARA TAPON DE CARTER / 22 X 2 X 28MM. / HEXAGONO 41MM. CIPEC",
+        "brand": "Scania",
+        "code": "7431",
+        "image": "img/products/Scania 111/buje-con-rosca-para-tapon-de-carter-22-x-2-x-28mm-hexagono-41mm-cipec-7431.jpg",
+        "description": "BUJE CON ROSCA PARA TAPON DE CARTER / 22 X 2 X 28MM. / HEXAGONO 41MM. CIPEC 7431"
+    },
+    {
+        "id": "P2872",
+        "name": "TRABA ARAÑA BRIDA CARDAN CIPEC",
+        "brand": "Scania",
+        "code": "7432",
+        "image": "img/products/Scania 111/traba-arana-brida-cardan-cipec-7432.jpg",
+        "description": "TRABA ARAÑA BRIDA CARDAN CIPEC 7432"
+    },
+    {
+        "id": "P2873",
+        "name": "ARANDELA SUPLEMENTO PIÑON DIFERENCIAL 0.30MM. CIPEC",
+        "brand": "Scania",
+        "code": "7433",
+        "image": "img/products/Scania 111/arandela-suplemento-pinon-diferencial-0-30mm-cipec-7433.jpg",
+        "description": "ARANDELA SUPLEMENTO PIÑON DIFERENCIAL 0.30MM. CIPEC 7433"
+    },
+    {
+        "id": "P2874",
+        "name": "ANILLO TRABA SINCRONIZADO CIPEC",
+        "brand": "Scania",
+        "code": "7434",
+        "image": "img/products/Scania 111/anillo-traba-sincronizado-cipec-7434.jpg",
+        "description": "ANILLO TRABA SINCRONIZADO CIPEC 7434"
+    },
+    {
+        "id": "P2875",
+        "name": "ARANDELA ACOPLE BOMBA INYECTORA / ACERO TEMPLADO / 13 X 20 X 3MM. CIPEC",
+        "brand": "Scania",
+        "code": "7435",
+        "image": "img/products/Scania 111/arandela-acople-bomba-inyectora-acero-templado-13-x-20-x-3mm-cipec-7435.jpg",
+        "description": "ARANDELA ACOPLE BOMBA INYECTORA / ACERO TEMPLADO / 13 X 20 X 3MM. CIPEC 7435"
+    },
+    {
+        "id": "P2876",
+        "name": "FILTRO BOMBA ALIMENTADORA COMBUSTIBLE CIPEC",
+        "brand": "Scania",
+        "code": "7436",
+        "image": "img/products/Scania 111/filtro-bomba-alimentadora-combustible-cipec-7436.jpg",
+        "description": "FILTRO BOMBA ALIMENTADORA COMBUSTIBLE CIPEC 7436"
+    },
+    {
+        "id": "P2877",
+        "name": "ANILLO ESPACIADOR RODAMIENTO SALIDA CAJA CIPEC",
+        "brand": "Scania",
+        "code": "7437",
+        "image": "img/products/Scania 111/anillo-espaciador-rodamiento-salida-caja-cipec-7437.jpg",
+        "description": "ANILLO ESPACIADOR RODAMIENTO SALIDA CAJA CIPEC 7437"
+    },
+    {
+        "id": "P2878",
+        "name": "ASIENTO PALANCA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "7438",
+        "image": "img/products/Scania 111/asiento-palanca-de-cambios-cipec-7438.jpg",
+        "description": "ASIENTO PALANCA DE CAMBIOS CIPEC 7438"
+    },
+    {
+        "id": "P2879",
+        "name": "ANILLO MULTIPLE ESCAPE / DIAM. 110MM. CIPEC",
+        "brand": "Scania",
+        "code": "7413",
+        "image": "img/products/Scania 111/anillo-multiple-escape-diam-110mm-cipec-7413.jpg",
+        "description": "ANILLO MULTIPLE ESCAPE / DIAM. 110MM. CIPEC 7413"
+    },
+    {
+        "id": "P2880",
+        "name": "ARANDELA SUPLEMENTO RODAMIENTO 0.10MM. CIPEC",
+        "brand": "Scania",
+        "code": "7414",
+        "image": "img/products/Scania 111/arandela-suplemento-rodamiento-0-10mm-cipec-7414.jpg",
+        "description": "ARANDELA SUPLEMENTO RODAMIENTO 0.10MM. CIPEC 7414"
+    },
+    {
+        "id": "P2881",
+        "name": "ARANDELA SUPLEMENTO RODAMIENTO 0.25MM. CIPEC",
+        "brand": "Scania",
+        "code": "7415",
+        "image": "img/products/Scania 111/arandela-suplemento-rodamiento-0-25mm-cipec-7415.jpg",
+        "description": "ARANDELA SUPLEMENTO RODAMIENTO 0.25MM. CIPEC 7415"
+    },
+    {
+        "id": "P2882",
+        "name": "ARANDELA SUPLEMENTO RODAMIENTO 0.10MM. CIPEC",
+        "brand": "Scania",
+        "code": "7416",
+        "image": "img/products/Scania 111/arandela-suplemento-rodamiento-0-10mm-cipec-7416.jpg",
+        "description": "ARANDELA SUPLEMENTO RODAMIENTO 0.10MM. CIPEC 7416"
+    },
+    {
+        "id": "P2883",
+        "name": "CONEXIÓN FLEXIBLE CAJA DIRECCION / 5/8” X 1/2” CIPEC",
+        "brand": "Scania",
+        "code": "7417",
+        "image": "img/products/Scania 111/conexion-flexible-caja-direccion-5-8-x-1-2-cipec-7417.jpg",
+        "description": "CONEXIÓN FLEXIBLE CAJA DIRECCION / 5/8” X 1/2” CIPEC 7417"
+    },
+    {
+        "id": "P2884",
+        "name": "ARANDELA BALANCIN DE VALVULAS / ACERO / 32 X 25.50 X 1.8MM. CIPEC",
+        "brand": "Scania",
+        "code": "7418",
+        "image": "img/products/Scania 111/arandela-balancin-de-valvulas-acero-32-x-25-50-x-1-8mm-cipec-7418.jpg",
+        "description": "ARANDELA BALANCIN DE VALVULAS / ACERO / 32 X 25.50 X 1.8MM. CIPEC 7418"
+    },
+    {
+        "id": "P2885",
+        "name": "FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE RACOR PARKER",
+        "brand": "Scania",
+        "code": "7384",
+        "image": "img/products/Scania 111/filtro-separador-de-agua-del-combustible-racor-parker-7384.jpg",
+        "description": "FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE RACOR PARKER 7384"
+    },
+    {
+        "id": "P2886",
+        "name": "VALVULA SELENOIDE 24V. / BLOQUEO DIFERENCIAL / CAMBIO DE CAJA / TOMA DE FUERZA / FRENO MOTOR / BOCINA / ROSCA 1/4 NPT PARKER",
+        "brand": "Scania",
+        "code": "7390",
+        "image": "img/products/Scania 111/valvula-selenoide-24v-bloqueo-diferencial-cambio-de-caja-toma-de-fuerza-freno-motor-bocina-rosca-1-4.jpg",
+        "description": "VALVULA SELENOIDE 24V. / BLOQUEO DIFERENCIAL / CAMBIO DE CAJA / TOMA DE FUERZA / FRENO MOTOR / BOCINA / ROSCA 1/4 NPT PARKER 7390"
+    },
+    {
+        "id": "P2887",
+        "name": "EMISOR DE IMPULSOS AL TACOGRAFO 3 ENCHUFES CHATOS / R22 X 1.5 MM. TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "7359",
+        "image": "img/products/Scania 111/emisor-de-impulsos-al-tacografo-3-enchufes-chatos-r22-x-1-5-mm-tf-p-technology-7359.jpg",
+        "description": "EMISOR DE IMPULSOS AL TACOGRAFO 3 ENCHUFES CHATOS / R22 X 1.5 MM. TF&P TECHNOLOGY 7359"
+    },
+    {
+        "id": "P2888",
+        "name": "TAPA FILTRO TRAMPA DE AGUA RACOR PARKER",
+        "brand": "Scania",
+        "code": "7376",
+        "image": "img/products/Scania 111/tapa-filtro-trampa-de-agua-racor-parker-7376.jpg",
+        "description": "TAPA FILTRO TRAMPA DE AGUA RACOR PARKER 7376"
+    },
+    {
+        "id": "P2889",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "7323",
+        "image": "img/products/Scania 111/sensor-inductivo-para-tacografo-35mm-4-terminales-chatos-tf-p-technology-7323.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS TF&P TECHNOLOGY 7323"
+    },
+    {
+        "id": "P2890",
+        "name": "TAPA FILTRO TRAMPA DE AGUA TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "7312",
+        "image": "img/products/Scania 111/tapa-filtro-trampa-de-agua-tf-p-technology-7312.jpg",
+        "description": "TAPA FILTRO TRAMPA DE AGUA TF&P TECHNOLOGY 7312"
+    },
+    {
+        "id": "P2891",
+        "name": "RELAY LUCES DE GIRO 24V. / 3 TERMINALES TOP RELAY",
+        "brand": "Scania",
+        "code": "7285",
+        "image": "img/products/Scania 111/relay-luces-de-giro-24v-3-terminales-top-relay-7285.jpg",
+        "description": "RELAY LUCES DE GIRO 24V. / 3 TERMINALES TOP RELAY 7285"
+    },
+    {
+        "id": "P2892",
+        "name": "RELAY AUXILIAR 24V. / 4 TERMINALES / 40 AMP. / CON SOPORTE DE FIJACION TOP RELAY",
+        "brand": "Scania",
+        "code": "7269",
+        "image": "img/products/Scania 111/relay-auxiliar-24v-4-terminales-40-amp-con-soporte-de-fijacion-top-relay-7269.jpg",
+        "description": "RELAY AUXILIAR 24V. / 4 TERMINALES / 40 AMP. / CON SOPORTE DE FIJACION TOP RELAY 7269"
+    },
+    {
+        "id": "P2893",
+        "name": "COMPRESOR VARGA 70MM. EL1600 BEL-AR",
+        "brand": "Scania",
+        "code": "6920",
+        "image": "img/products/Scania 111/compresor-varga-70mm-el1600-bel-ar-6920.jpg",
+        "description": "COMPRESOR VARGA 70MM. EL1600 BEL-AR 6920"
+    },
+    {
+        "id": "P2894",
+        "name": "DEPOSITO CILINDRO AUXILIAR EMBRAGUE CON TAPA RESERPLASTIC",
+        "brand": "Scania",
+        "code": "6854",
+        "image": "img/products/Scania 111/deposito-cilindro-auxiliar-embrague-con-tapa-reserplastic-6854.jpg",
+        "description": "DEPOSITO CILINDRO AUXILIAR EMBRAGUE CON TAPA RESERPLASTIC 6854"
+    },
+    {
+        "id": "P2895",
+        "name": "PISTA RODAMIENTO CAJA 3º Y 4º IMP.",
+        "brand": "Scania",
+        "code": "6839",
+        "image": "img/products/Scania 111/pista-rodamiento-caja-3-y-4-imp-6839.jpg",
+        "description": "PISTA RODAMIENTO CAJA 3º Y 4º IMP. 6839"
+    },
+    {
+        "id": "P2896",
+        "name": "BANCADA CRUCETA CARDAN DADO 50MM. INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "6831",
+        "image": "img/products/Scania 111/bancada-cruceta-cardan-dado-50mm-industria-argentina-6831.jpg",
+        "description": "BANCADA CRUCETA CARDAN DADO 50MM. INDUSTRIA ARGENTINA 6831"
+    },
+    {
+        "id": "P2897",
+        "name": "RETEN GUIA PUERTA UNIVERSAL",
+        "brand": "Scania",
+        "code": "6734",
+        "image": "img/products/Scania 111/reten-guia-puerta-universal-6734.jpg",
+        "description": "RETEN GUIA PUERTA UNIVERSAL 6734"
+    },
+    {
+        "id": "P2898",
+        "name": "GUIA LATERAL VIDRIO PUERTA DERECHA MICRO",
+        "brand": "Scania",
+        "code": "6748",
+        "image": "img/products/Scania 111/guia-lateral-vidrio-puerta-derecha-micro-6748.jpg",
+        "description": "GUIA LATERAL VIDRIO PUERTA DERECHA MICRO 6748"
+    },
+    {
+        "id": "P2899",
+        "name": "GUIA LATERAL VIDRIO PUERTA IZQUIERDA MICRO",
+        "brand": "Scania",
+        "code": "6749",
+        "image": "img/products/Scania 111/guia-lateral-vidrio-puerta-izquierda-micro-6749.jpg",
+        "description": "GUIA LATERAL VIDRIO PUERTA IZQUIERDA MICRO 6749"
+    },
+    {
+        "id": "P2900",
+        "name": "TAPA DEPOSITO LIQUIDO DIRECCION HIDRAULICA UNICK",
+        "brand": "Scania",
+        "code": "6689",
+        "image": "img/products/Scania 111/tapa-deposito-liquido-direccion-hidraulica-unick-6689.jpg",
+        "description": "TAPA DEPOSITO LIQUIDO DIRECCION HIDRAULICA UNICK 6689"
+    },
+    {
+        "id": "P2901",
+        "name": "RETEN DE VALVULA BLK DIESEL",
+        "brand": "Scania",
+        "code": "6559",
+        "image": "img/products/Scania 111/reten-de-valvula-blk-diesel-6559.jpg",
+        "description": "RETEN DE VALVULA BLK DIESEL 6559"
+    },
+    {
+        "id": "P2902",
+        "name": "DEPOSITO LIQUIDO DIRECCION HIDRAULICA RESERPLASTIC",
+        "brand": "Scania",
+        "code": "6458",
+        "image": "img/products/Scania 111/deposito-liquido-direccion-hidraulica-reserplastic-6458.jpg",
+        "description": "DEPOSITO LIQUIDO DIRECCION HIDRAULICA RESERPLASTIC 6458"
+    },
+    {
+        "id": "P2903",
+        "name": "CUBRE PEDAL DE EMBRAGUE SUPORTE REI",
+        "brand": "Scania",
+        "code": "6394",
+        "image": "img/products/Scania 111/cubre-pedal-de-embrague-suporte-rei-6394.jpg",
+        "description": "CUBRE PEDAL DE EMBRAGUE SUPORTE REI 6394"
+    },
+    {
+        "id": "P2904",
+        "name": "PISTON CON PERNO Y AROS STD COMPRESOR KNORR 92MM. A-TECH",
+        "brand": "Scania",
+        "code": "6053",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-std-compresor-knorr-92mm-a-tech-6053.jpg",
+        "description": "PISTON CON PERNO Y AROS STD COMPRESOR KNORR 92MM. A-TECH 6053"
+    },
+    {
+        "id": "P2905",
+        "name": "PISTON CON PERNO Y AROS 0.10” COMPRESOR KNORR 92MM. A-TECH",
+        "brand": "Scania",
+        "code": "6054",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-0-10-compresor-knorr-92mm-a-tech-6054.jpg",
+        "description": "PISTON CON PERNO Y AROS 0.10” COMPRESOR KNORR 92MM. A-TECH 6054"
+    },
+    {
+        "id": "P2906",
+        "name": "PISTON CON PERNO Y AROS 0.20” COMPRESOR KNORR 92MM. A-TECH",
+        "brand": "Scania",
+        "code": "6055",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-0-20-compresor-knorr-92mm-a-tech-6055.jpg",
+        "description": "PISTON CON PERNO Y AROS 0.20” COMPRESOR KNORR 92MM. A-TECH 6055"
+    },
+    {
+        "id": "P2907",
+        "name": "REGISTRO FRENO MANUAL DELANTERO/TRASERO DERECHO E IZQUIERDO 10 DIENTES TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5998",
+        "image": "img/products/Scania 111/registro-freno-manual-delantero-trasero-derecho-e-izquierdo-10-dientes-tf-p-technology-5998.jpg",
+        "description": "REGISTRO FRENO MANUAL DELANTERO/TRASERO DERECHO E IZQUIERDO 10 DIENTES TF&P TECHNOLOGY 5998"
+    },
+    {
+        "id": "P2908",
+        "name": "VALVULA SELENOIDE 24V. / FRENO MOTOR / CAMBIO DE CAJA 3/2 VIAS / TOMA DE FUERZA / BOCINA PARKER",
+        "brand": "Scania",
+        "code": "5915",
+        "image": "img/products/Scania 111/valvula-selenoide-24v-freno-motor-cambio-de-caja-3-2-vias-toma-de-fuerza-bocina-parker-5915.jpg",
+        "description": "VALVULA SELENOIDE 24V. / FRENO MOTOR / CAMBIO DE CAJA 3/2 VIAS / TOMA DE FUERZA / BOCINA PARKER 5915"
+    },
+    {
+        "id": "P2909",
+        "name": "SOPORTE CAJA CAMBIOS / REFORZADO SUPORTE REI",
+        "brand": "Scania",
+        "code": "5852",
+        "image": "img/products/Scania 111/soporte-caja-cambios-reforzado-suporte-rei-5852.jpg",
+        "description": "SOPORTE CAJA CAMBIOS / REFORZADO SUPORTE REI 5852"
+    },
+    {
+        "id": "P2910",
+        "name": "JGO. ORINGS DE CAMISA SABO",
+        "brand": "Scania",
+        "code": "5683",
+        "image": "img/products/Scania 111/jgo-orings-de-camisa-sabo-5683.jpg",
+        "description": "JGO. ORINGS DE CAMISA SABO 5683"
+    },
+    {
+        "id": "P2911",
+        "name": "TAPON DE DRENAJE EN TAPA FILTRO TRAMPA AGUA RACOR PARKER",
+        "brand": "Scania",
+        "code": "5640",
+        "image": "img/products/Scania 111/tapon-de-drenaje-en-tapa-filtro-trampa-agua-racor-parker-5640.jpg",
+        "description": "TAPON DE DRENAJE EN TAPA FILTRO TRAMPA AGUA RACOR PARKER 5640"
+    },
+    {
+        "id": "P2912",
+        "name": "CORONA VOLANTE MOTOR / 158 DIENTES RMOSS",
+        "brand": "Scania",
+        "code": "5520",
+        "image": "img/products/Scania 111/corona-volante-motor-158-dientes-rmoss-5520.jpg",
+        "description": "CORONA VOLANTE MOTOR / 158 DIENTES RMOSS 5520"
+    },
+    {
+        "id": "P2913",
+        "name": "RODAMIENTO CARDAN CON GOMA DIAM. 55MM. / RETEN DIAM. INT. 68MM. SUPORTE REI",
+        "brand": "Scania",
+        "code": "5531",
+        "image": "img/products/Scania 111/rodamiento-cardan-con-goma-diam-55mm-reten-diam-int-68mm-suporte-rei-5531.jpg",
+        "description": "RODAMIENTO CARDAN CON GOMA DIAM. 55MM. / RETEN DIAM. INT. 68MM. SUPORTE REI 5531"
+    },
+    {
+        "id": "P2914",
+        "name": "VALVULA NIVELAMIENTO KNORR F.S.S",
+        "brand": "Scania",
+        "code": "5452",
+        "image": "img/products/Scania 111/valvula-nivelamiento-knorr-f-s-s-5452.jpg",
+        "description": "VALVULA NIVELAMIENTO KNORR F.S.S 5452"
+    },
+    {
+        "id": "P2915",
+        "name": "CAÑO RIGIDO LUBRICACION DEL FILTRO AL CARTER DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "5417",
+        "image": "img/products/Scania 111/cano-rigido-lubricacion-del-filtro-al-carter-del-compresor-industria-argentina-5417.jpg",
+        "description": "CAÑO RIGIDO LUBRICACION DEL FILTRO AL CARTER DEL COMPRESOR INDUSTRIA ARGENTINA 5417"
+    },
+    {
+        "id": "P2916",
+        "name": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M16 X 1.5MM. / AUTOMATICO AMARILLO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5380",
+        "image": "img/products/Scania 111/cabezal-acoplamiento-linea-aire-wabco-m16-x-1-5mm-automatico-amarillo-tf-p-technology-5380.jpg",
+        "description": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M16 X 1.5MM. / AUTOMATICO AMARILLO TF&P TECHNOLOGY 5380"
+    },
+    {
+        "id": "P2917",
+        "name": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M22 X 1.5MM. / AUTOMATICO AMARILLO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5381",
+        "image": "img/products/Scania 111/cabezal-acoplamiento-linea-aire-wabco-m22-x-1-5mm-automatico-amarillo-tf-p-technology-5381.jpg",
+        "description": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M22 X 1.5MM. / AUTOMATICO AMARILLO TF&P TECHNOLOGY 5381"
+    },
+    {
+        "id": "P2918",
+        "name": "FILTRO DE AIRE SIN ELEMENTO 21M3 FILTROS SERRANO",
+        "brand": "Scania",
+        "code": "5343",
+        "image": "img/products/Scania 111/filtro-de-aire-sin-elemento-21m3-filtros-serrano-5343.jpg",
+        "description": "FILTRO DE AIRE SIN ELEMENTO 21M3 FILTROS SERRANO 5343"
+    },
+    {
+        "id": "P2919",
+        "name": "TAPA COMPRESOR VARGA 70MM. BEL-AR",
+        "brand": "Scania",
+        "code": "5242",
+        "image": "img/products/Scania 111/tapa-compresor-varga-70mm-bel-ar-5242.jpg",
+        "description": "TAPA COMPRESOR VARGA 70MM. BEL-AR 5242"
+    },
+    {
+        "id": "P2920",
+        "name": "BULON AMORTIGUADOR CON CABEZA ALLEN IMP.",
+        "brand": "Scania",
+        "code": "5245",
+        "image": "img/products/Scania 111/bulon-amortiguador-con-cabeza-allen-imp-5245.jpg",
+        "description": "BULON AMORTIGUADOR CON CABEZA ALLEN IMP. 5245"
+    },
+    {
+        "id": "P2921",
+        "name": "KIT DESCARBONIZACION ELRING",
+        "brand": "Scania",
+        "code": "5171",
+        "image": "img/products/Scania 111/kit-descarbonizacion-elring-5171.jpg",
+        "description": "KIT DESCARBONIZACION ELRING 5171"
+    },
+    {
+        "id": "P2922",
+        "name": "REGULADOR DE VOLTAJE TIPO BOSCH 24V. / 5 PINES IMP.",
+        "brand": "Scania",
+        "code": "5102",
+        "image": "img/products/Scania 111/regulador-de-voltaje-tipo-bosch-24v-5-pines-imp-5102.jpg",
+        "description": "REGULADOR DE VOLTAJE TIPO BOSCH 24V. / 5 PINES IMP. 5102"
+    },
+    {
+        "id": "P2923",
+        "name": "EMBOLO PARA SERVOEMBRAGUE KONSBERG 100 MM. BEL-AR",
+        "brand": "Scania",
+        "code": "5113",
+        "image": "img/products/Scania 111/embolo-para-servoembrague-konsberg-100-mm-bel-ar-5113.jpg",
+        "description": "EMBOLO PARA SERVOEMBRAGUE KONSBERG 100 MM. BEL-AR 5113"
+    },
+    {
+        "id": "P2924",
+        "name": "EMBOLO PARA SERVOEMBRAGUE KONSBERG BEL-AR",
+        "brand": "Scania",
+        "code": "5115",
+        "image": "img/products/Scania 111/embolo-para-servoembrague-konsberg-bel-ar-5115.jpg",
+        "description": "EMBOLO PARA SERVOEMBRAGUE KONSBERG BEL-AR 5115"
+    },
+    {
+        "id": "P2925",
+        "name": "BUJE APOYO RADIADOR SUPORTE REI",
+        "brand": "Scania",
+        "code": "5077",
+        "image": "img/products/Scania 111/buje-apoyo-radiador-suporte-rei-5077.jpg",
+        "description": "BUJE APOYO RADIADOR SUPORTE REI 5077"
+    },
+    {
+        "id": "P2926",
+        "name": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M16 X 1.5MM. / AUTOMATICO ROJO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5042",
+        "image": "img/products/Scania 111/cabezal-acoplamiento-linea-aire-wabco-m16-x-1-5mm-automatico-rojo-tf-p-technology-5042.jpg",
+        "description": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M16 X 1.5MM. / AUTOMATICO ROJO TF&P TECHNOLOGY 5042"
+    },
+    {
+        "id": "P2927",
+        "name": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M22 X 1.5MM. / AUTOMATICO ROJO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5043",
+        "image": "img/products/Scania 111/cabezal-acoplamiento-linea-aire-wabco-m22-x-1-5mm-automatico-rojo-tf-p-technology-5043.jpg",
+        "description": "CABEZAL ACOPLAMIENTO LINEA AIRE WABCO / M22 X 1.5MM. / AUTOMATICO ROJO TF&P TECHNOLOGY 5043"
+    },
+    {
+        "id": "P2928",
+        "name": "VALVULA RETENCION DOBLE BENDIX / R3/8 NPTF TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5044",
+        "image": "img/products/Scania 111/valvula-retencion-doble-bendix-r3-8-nptf-tf-p-technology-5044.jpg",
+        "description": "VALVULA RETENCION DOBLE BENDIX / R3/8 NPTF TF&P TECHNOLOGY 5044"
+    },
+    {
+        "id": "P2929",
+        "name": "VALVULA FRENO DE MANO BENDIX TIPO TW-1 TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "5033",
+        "image": "img/products/Scania 111/valvula-freno-de-mano-bendix-tipo-tw-1-tf-p-technology-5033.jpg",
+        "description": "VALVULA FRENO DE MANO BENDIX TIPO TW-1 TF&P TECHNOLOGY 5033"
+    },
+    {
+        "id": "P2930",
+        "name": "RELAY AUXILIAR 24V. / 50AMP. 4 TERM. / LUCES ALTA Y BAJA DNI",
+        "brand": "Scania",
+        "code": "4945",
+        "image": "img/products/Scania 111/relay-auxiliar-24v-50amp-4-term-luces-alta-y-baja-dni-4945.jpg",
+        "description": "RELAY AUXILIAR 24V. / 50AMP. 4 TERM. / LUCES ALTA Y BAJA DNI 4945"
+    },
+    {
+        "id": "P2931",
+        "name": "RELAY AUXILIAR SIN SOPORTE 24V. / 30/40AMP. / 5 TERM. TOP RELAY",
+        "brand": "Scania",
+        "code": "4946",
+        "image": "img/products/Scania 111/relay-auxiliar-sin-soporte-24v-30-40amp-5-term-top-relay-4946.jpg",
+        "description": "RELAY AUXILIAR SIN SOPORTE 24V. / 30/40AMP. / 5 TERM. TOP RELAY 4946"
+    },
+    {
+        "id": "P2932",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS VDO",
+        "brand": "Scania",
+        "code": "4949",
+        "image": "img/products/Scania 111/sensor-inductivo-para-tacografo-35mm-4-terminales-chatos-vdo-4949.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS VDO 4949"
+    },
+    {
+        "id": "P2933",
+        "name": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4805",
+        "image": "img/products/Scania 111/cano-inyector-n-1-industria-argentina-4805.jpg",
+        "description": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA 4805"
+    },
+    {
+        "id": "P2934",
+        "name": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4806",
+        "image": "img/products/Scania 111/cano-inyector-n-2-industria-argentina-4806.jpg",
+        "description": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA 4806"
+    },
+    {
+        "id": "P2935",
+        "name": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4807",
+        "image": "img/products/Scania 111/cano-inyector-n-3-industria-argentina-4807.jpg",
+        "description": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA 4807"
+    },
+    {
+        "id": "P2936",
+        "name": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4808",
+        "image": "img/products/Scania 111/cano-inyector-n-4-industria-argentina-4808.jpg",
+        "description": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA 4808"
+    },
+    {
+        "id": "P2937",
+        "name": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4809",
+        "image": "img/products/Scania 111/cano-inyector-n-5-industria-argentina-4809.jpg",
+        "description": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA 4809"
+    },
+    {
+        "id": "P2938",
+        "name": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4810",
+        "image": "img/products/Scania 111/cano-inyector-n-6-industria-argentina-4810.jpg",
+        "description": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA 4810"
+    },
+    {
+        "id": "P2939",
+        "name": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4799",
+        "image": "img/products/Scania 111/cano-inyector-n-1-industria-argentina-4799.jpg",
+        "description": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA 4799"
+    },
+    {
+        "id": "P2940",
+        "name": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4800",
+        "image": "img/products/Scania 111/cano-inyector-n-2-industria-argentina-4800.jpg",
+        "description": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA 4800"
+    },
+    {
+        "id": "P2941",
+        "name": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4801",
+        "image": "img/products/Scania 111/cano-inyector-n-3-industria-argentina-4801.jpg",
+        "description": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA 4801"
+    },
+    {
+        "id": "P2942",
+        "name": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4802",
+        "image": "img/products/Scania 111/cano-inyector-n-4-industria-argentina-4802.jpg",
+        "description": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA 4802"
+    },
+    {
+        "id": "P2943",
+        "name": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4803",
+        "image": "img/products/Scania 111/cano-inyector-n-5-industria-argentina-4803.jpg",
+        "description": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA 4803"
+    },
+    {
+        "id": "P2944",
+        "name": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4804",
+        "image": "img/products/Scania 111/cano-inyector-n-6-industria-argentina-4804.jpg",
+        "description": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA 4804"
+    },
+    {
+        "id": "P2945",
+        "name": "JGO. JUNTAS MOTOR COMPLETO BANCO",
+        "brand": "Scania",
+        "code": "4732",
+        "image": "img/products/Scania 111/jgo-juntas-motor-completo-banco-4732.jpg",
+        "description": "JGO. JUNTAS MOTOR COMPLETO BANCO 4732"
+    },
+    {
+        "id": "P2946",
+        "name": "VALVULA GOBERNADORA DE COMPRESOR D-2 BENDIX TKL",
+        "brand": "Scania",
+        "code": "4690",
+        "image": "img/products/Scania 111/valvula-gobernadora-de-compresor-d-2-bendix-tkl-4690.jpg",
+        "description": "VALVULA GOBERNADORA DE COMPRESOR D-2 BENDIX TKL 4690"
+    },
+    {
+        "id": "P2947",
+        "name": "ACCIONAMIENTO VALVULA FRENO DE MANO BEL-AR",
+        "brand": "Scania",
+        "code": "4660",
+        "image": "img/products/Scania 111/accionamiento-valvula-freno-de-mano-bel-ar-4660.jpg",
+        "description": "ACCIONAMIENTO VALVULA FRENO DE MANO BEL-AR 4660"
+    },
+    {
+        "id": "P2948",
+        "name": "GUIA DE ROTACION PARA VALVULA FRENO DE MANO BEL-AR",
+        "brand": "Scania",
+        "code": "4661",
+        "image": "img/products/Scania 111/guia-de-rotacion-para-valvula-freno-de-mano-bel-ar-4661.jpg",
+        "description": "GUIA DE ROTACION PARA VALVULA FRENO DE MANO BEL-AR 4661"
+    },
+    {
+        "id": "P2949",
+        "name": "MANOMETRO PRESION ACEITE / DIAM. EXT. 60MM. / ESCALA 0-15 BAR / ROSCA M12 X 1.5 VDO",
+        "brand": "Scania",
+        "code": "4627",
+        "image": "img/products/Scania 111/manometro-presion-aceite-diam-ext-60mm-escala-0-15-bar-rosca-m12-x-1-5-vdo-4627.jpg",
+        "description": "MANOMETRO PRESION ACEITE / DIAM. EXT. 60MM. / ESCALA 0-15 BAR / ROSCA M12 X 1.5 VDO 4627"
+    },
+    {
+        "id": "P2950",
+        "name": "MANOMETRO PRESION ACEITE / DIAM. EXT. 60MM. / ESCALA 0-10 BAR / ROSCA M12 X 1.5 VDO",
+        "brand": "Scania",
+        "code": "4545",
+        "image": "img/products/Scania 111/manometro-presion-aceite-diam-ext-60mm-escala-0-10-bar-rosca-m12-x-1-5-vdo-4545.jpg",
+        "description": "MANOMETRO PRESION ACEITE / DIAM. EXT. 60MM. / ESCALA 0-10 BAR / ROSCA M12 X 1.5 VDO 4545"
+    },
+    {
+        "id": "P2951",
+        "name": "POLEA CIGUEÑAL 2 CANALES INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4489",
+        "image": "img/products/Scania 111/polea-ciguenal-2-canales-industria-argentina-4489.jpg",
+        "description": "POLEA CIGUEÑAL 2 CANALES INDUSTRIA ARGENTINA 4489"
+    },
+    {
+        "id": "P2952",
+        "name": "TURBO 4GLZ-352 / 4LE-32 / TV6114 BIAGIO",
+        "brand": "Scania",
+        "code": "4476",
+        "image": "img/products/Scania 111/turbo-4glz-352-4le-32-tv6114-biagio-4476.jpg",
+        "description": "TURBO 4GLZ-352 / 4LE-32 / TV6114 BIAGIO 4476"
+    },
+    {
+        "id": "P2953",
+        "name": "CODO LATERAL COMPRESOR AIRE VARGA INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "4457",
+        "image": "img/products/Scania 111/codo-lateral-compresor-aire-varga-industria-argentina-4457.jpg",
+        "description": "CODO LATERAL COMPRESOR AIRE VARGA INDUSTRIA ARGENTINA 4457"
+    },
+    {
+        "id": "P2954",
+        "name": "VALVULA COMBUSTIBLE UGR",
+        "brand": "Scania",
+        "code": "4257",
+        "image": "img/products/Scania 111/valvula-combustible-ugr-4257.jpg",
+        "description": "VALVULA COMBUSTIBLE UGR 4257"
+    },
+    {
+        "id": "P2955",
+        "name": "TERMOSTATO 71º WAHLER",
+        "brand": "Scania",
+        "code": "4124",
+        "image": "img/products/Scania 111/termostato-71-wahler-4124.jpg",
+        "description": "TERMOSTATO 71º WAHLER 4124"
+    },
+    {
+        "id": "P2956",
+        "name": "CILINDRO COMPRESOR VARGA 70MM. EL1600 BEL-AR",
+        "brand": "Scania",
+        "code": "4103",
+        "image": "img/products/Scania 111/cilindro-compresor-varga-70mm-el1600-bel-ar-4103.jpg",
+        "description": "CILINDRO COMPRESOR VARGA 70MM. EL1600 BEL-AR 4103"
+    },
+    {
+        "id": "P2957",
+        "name": "CIGUEÑAL COMPRESOR VARGA 70MM. EL1600 BEL-AR",
+        "brand": "Scania",
+        "code": "4104",
+        "image": "img/products/Scania 111/ciguenal-compresor-varga-70mm-el1600-bel-ar-4104.jpg",
+        "description": "CIGUEÑAL COMPRESOR VARGA 70MM. EL1600 BEL-AR 4104"
+    },
+    {
+        "id": "P2958",
+        "name": "CARTER COMPRESOR VARGA 70MM. EL1300/1600 BEL-AR",
+        "brand": "Scania",
+        "code": "4105",
+        "image": "img/products/Scania 111/carter-compresor-varga-70mm-el1300-1600-bel-ar-4105.jpg",
+        "description": "CARTER COMPRESOR VARGA 70MM. EL1300/1600 BEL-AR 4105"
+    },
+    {
+        "id": "P2959",
+        "name": "TAPA CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 90MM. INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "3932",
+        "image": "img/products/Scania 111/tapa-cilindro-control-caja-de-cambios-diam-90mm-industria-argentina-3932.jpg",
+        "description": "TAPA CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 90MM. INDUSTRIA ARGENTINA 3932"
+    },
+    {
+        "id": "P2960",
+        "name": "CHAVETA CIGUEÑAL CIPEC",
+        "brand": "Scania",
+        "code": "3953",
+        "image": "img/products/Scania 111/chaveta-ciguenal-cipec-3953.jpg",
+        "description": "CHAVETA CIGUEÑAL CIPEC 3953"
+    },
+    {
+        "id": "P2961",
+        "name": "CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 90MM. INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "3931",
+        "image": "img/products/Scania 111/cilindro-control-caja-de-cambios-diam-90mm-industria-argentina-3931.jpg",
+        "description": "CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 90MM. INDUSTRIA ARGENTINA 3931"
+    },
+    {
+        "id": "P2962",
+        "name": "CIERRE DE CAPOT UNIVERSAL",
+        "brand": "Scania",
+        "code": "3604",
+        "image": "img/products/Scania 111/cierre-de-capot-universal-3604.jpg",
+        "description": "CIERRE DE CAPOT UNIVERSAL 3604"
+    },
+    {
+        "id": "P2963",
+        "name": "JUNTA TAPA CILINDROS SABO",
+        "brand": "Scania",
+        "code": "3538",
+        "image": "img/products/Scania 111/junta-tapa-cilindros-sabo-3538.jpg",
+        "description": "JUNTA TAPA CILINDROS SABO 3538"
+    },
+    {
+        "id": "P2964",
+        "name": "INTERRUPTOR MARCHA ATRÁS CAJA DE CAMBIOS 3-RHO",
+        "brand": "Scania",
+        "code": "3514",
+        "image": "img/products/Scania 111/interruptor-marcha-atras-caja-de-cambios-3-rho-3514.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS CAJA DE CAMBIOS 3-RHO 3514"
+    },
+    {
+        "id": "P2965",
+        "name": "SEMIACOPLAMIENTO BOMBA INYECTORA CIPEC",
+        "brand": "Scania",
+        "code": "3493",
+        "image": "img/products/Scania 111/semiacoplamiento-bomba-inyectora-cipec-3493.jpg",
+        "description": "SEMIACOPLAMIENTO BOMBA INYECTORA CIPEC 3493"
+    },
+    {
+        "id": "P2966",
+        "name": "ORING TAPA FILTRO ROTATIVO DE ACEITE CIPEC",
+        "brand": "Scania",
+        "code": "3496",
+        "image": "img/products/Scania 111/oring-tapa-filtro-rotativo-de-aceite-cipec-3496.jpg",
+        "description": "ORING TAPA FILTRO ROTATIVO DE ACEITE CIPEC 3496"
+    },
+    {
+        "id": "P2967",
+        "name": "MANGUERA SUPERIOR DE RADIADOR / ACEITE TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "3292",
+        "image": "img/products/Scania 111/manguera-superior-de-radiador-aceite-tf-p-technology-3292.jpg",
+        "description": "MANGUERA SUPERIOR DE RADIADOR / ACEITE TF&P TECHNOLOGY 3292"
+    },
+    {
+        "id": "P2968",
+        "name": "SOPORTE RADIADOR CIPEC",
+        "brand": "Scania",
+        "code": "3300",
+        "image": "img/products/Scania 111/soporte-radiador-cipec-3300.jpg",
+        "description": "SOPORTE RADIADOR CIPEC 3300"
+    },
+    {
+        "id": "P2969",
+        "name": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2”) 90 X 70 MM. TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "3286",
+        "image": "img/products/Scania 111/manguera-turbo-a-filtro-de-aire-silicona-roja-3-1-2-90-x-70-mm-tf-p-technology-3286.jpg",
+        "description": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2”) 90 X 70 MM. TF&P TECHNOLOGY 3286"
+    },
+    {
+        "id": "P2970",
+        "name": "HELICE VENTILADOR 8 PALAS DIAM. EXT. 580MM. / 4 AGUJEROS CHEZHOU",
+        "brand": "Scania",
+        "code": "3193",
+        "image": "img/products/Scania 111/helice-ventilador-8-palas-diam-ext-580mm-4-agujeros-chezhou-3193.jpg",
+        "description": "HELICE VENTILADOR 8 PALAS DIAM. EXT. 580MM. / 4 AGUJEROS CHEZHOU 3193"
+    },
+    {
+        "id": "P2971",
+        "name": "EMPUÑADURA PALANCA DE CAMBIOS 10 MARCHAS IMP.",
+        "brand": "Scania",
+        "code": "3175",
+        "image": "img/products/Scania 111/empunadura-palanca-de-cambios-10-marchas-imp-3175.jpg",
+        "description": "EMPUÑADURA PALANCA DE CAMBIOS 10 MARCHAS IMP. 3175"
+    },
+    {
+        "id": "P2972",
+        "name": "TAPON CARTER DE MOTOR CON IMAN 24 X 2MM. IMP.",
+        "brand": "Scania",
+        "code": "3181",
+        "image": "img/products/Scania 111/tapon-carter-de-motor-con-iman-24-x-2mm-imp-3181.jpg",
+        "description": "TAPON CARTER DE MOTOR CON IMAN 24 X 2MM. IMP. 3181"
+    },
+    {
+        "id": "P2973",
+        "name": "RESORTE TAMBOR DE FRENO DELANTERO Y TRASERO CIPEC",
+        "brand": "Scania",
+        "code": "3115",
+        "image": "img/products/Scania 111/resorte-tambor-de-freno-delantero-y-trasero-cipec-3115.jpg",
+        "description": "RESORTE TAMBOR DE FRENO DELANTERO Y TRASERO CIPEC 3115"
+    },
+    {
+        "id": "P2974",
+        "name": "VALVULA DISTRIBUIDORA WABCO TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "2902",
+        "image": "img/products/Scania 111/valvula-distribuidora-wabco-tf-p-technology-2902.jpg",
+        "description": "VALVULA DISTRIBUIDORA WABCO TF&P TECHNOLOGY 2902"
+    },
+    {
+        "id": "P2975",
+        "name": "ASIENTO RESORTE CAMARA TRISTOP WABCO TIPO G 24/24” QUINELATO",
+        "brand": "Scania",
+        "code": "2910",
+        "image": "img/products/Scania 111/asiento-resorte-camara-tristop-wabco-tipo-g-24-24-quinelato-2910.jpg",
+        "description": "ASIENTO RESORTE CAMARA TRISTOP WABCO TIPO G 24/24” QUINELATO 2910"
+    },
+    {
+        "id": "P2976",
+        "name": "GUARDAPOLVO SERVOEMBRAGUE WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "2912",
+        "image": "img/products/Scania 111/guardapolvo-servoembrague-wabco-bel-ar-2912.jpg",
+        "description": "GUARDAPOLVO SERVOEMBRAGUE WABCO BEL-AR 2912"
+    },
+    {
+        "id": "P2977",
+        "name": "MANIJA EXTERIOR DE PUERTA DERECHA CROMADA UNIVERSAL",
+        "brand": "Scania",
+        "code": "2848",
+        "image": "img/products/Scania 111/manija-exterior-de-puerta-derecha-cromada-universal-2848.jpg",
+        "description": "MANIJA EXTERIOR DE PUERTA DERECHA CROMADA UNIVERSAL 2848"
+    },
+    {
+        "id": "P2978",
+        "name": "MANIJA EXTERIOR DE PUERTA IZQUIERDA CROMADA CON LLAVE UNIVERSAL",
+        "brand": "Scania",
+        "code": "2849",
+        "image": "img/products/Scania 111/manija-exterior-de-puerta-izquierda-cromada-con-llave-universal-2849.jpg",
+        "description": "MANIJA EXTERIOR DE PUERTA IZQUIERDA CROMADA CON LLAVE UNIVERSAL 2849"
+    },
+    {
+        "id": "P2979",
+        "name": "MANIJA INTERIOR DE PUERTA CIPEC",
+        "brand": "Scania",
+        "code": "2850",
+        "image": "img/products/Scania 111/manija-interior-de-puerta-cipec-2850.jpg",
+        "description": "MANIJA INTERIOR DE PUERTA CIPEC 2850"
+    },
+    {
+        "id": "P2980",
+        "name": "MANIJA LEVANTA CRISTAL UNIVERSAL",
+        "brand": "Scania",
+        "code": "2851",
+        "image": "img/products/Scania 111/manija-levanta-cristal-universal-2851.jpg",
+        "description": "MANIJA LEVANTA CRISTAL UNIVERSAL 2851"
+    },
+    {
+        "id": "P2981",
+        "name": "CERRADURA PUERTA DERECHA UNIVERSAL",
+        "brand": "Scania",
+        "code": "2852",
+        "image": "img/products/Scania 111/cerradura-puerta-derecha-universal-2852.jpg",
+        "description": "CERRADURA PUERTA DERECHA UNIVERSAL 2852"
+    },
+    {
+        "id": "P2982",
+        "name": "CERRADURA PUERTA IZQUIERDA UNIVERSAL",
+        "brand": "Scania",
+        "code": "2853",
+        "image": "img/products/Scania 111/cerradura-puerta-izquierda-universal-2853.jpg",
+        "description": "CERRADURA PUERTA IZQUIERDA UNIVERSAL 2853"
+    },
+    {
+        "id": "P2983",
+        "name": "MAQUINA LEVANTA CRISTAL DERECHA MICRO",
+        "brand": "Scania",
+        "code": "2854",
+        "image": "img/products/Scania 111/maquina-levanta-cristal-derecha-micro-2854.jpg",
+        "description": "MAQUINA LEVANTA CRISTAL DERECHA MICRO 2854"
+    },
+    {
+        "id": "P2984",
+        "name": "MAQUINA LEVANTA CRISTAL IZQUIERDA MICRO",
+        "brand": "Scania",
+        "code": "2855",
+        "image": "img/products/Scania 111/maquina-levanta-cristal-izquierda-micro-2855.jpg",
+        "description": "MAQUINA LEVANTA CRISTAL IZQUIERDA MICRO 2855"
+    },
+    {
+        "id": "P2985",
+        "name": "RETEN DE PUERTA DERECHA UNIVERSAL",
+        "brand": "Scania",
+        "code": "2856",
+        "image": "img/products/Scania 111/reten-de-puerta-derecha-universal-2856.jpg",
+        "description": "RETEN DE PUERTA DERECHA UNIVERSAL 2856"
+    },
+    {
+        "id": "P2986",
+        "name": "RETEN DE PUERTA IZQUIERDA UNIVERSAL",
+        "brand": "Scania",
+        "code": "2857",
+        "image": "img/products/Scania 111/reten-de-puerta-izquierda-universal-2857.jpg",
+        "description": "RETEN DE PUERTA IZQUIERDA UNIVERSAL 2857"
+    },
+    {
+        "id": "P2987",
+        "name": "SOPORTE VIDRIO DE PUERTA UNIVERSAL",
+        "brand": "Scania",
+        "code": "2858",
+        "image": "img/products/Scania 111/soporte-vidrio-de-puerta-universal-2858.jpg",
+        "description": "SOPORTE VIDRIO DE PUERTA UNIVERSAL 2858"
+    },
+    {
+        "id": "P2988",
+        "name": "REGISTRO FRENO MANUAL TRASERO IZQUIERDO 10 DIENTES TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "2809",
+        "image": "img/products/Scania 111/registro-freno-manual-trasero-izquierdo-10-dientes-tf-p-technology-2809.jpg",
+        "description": "REGISTRO FRENO MANUAL TRASERO IZQUIERDO 10 DIENTES TF&P TECHNOLOGY 2809"
+    },
+    {
+        "id": "P2989",
+        "name": "REGISTRO FRENO MANUAL DELANTERO DERECHO 10 DIENTES TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "2785",
+        "image": "img/products/Scania 111/registro-freno-manual-delantero-derecho-10-dientes-tf-p-technology-2785.jpg",
+        "description": "REGISTRO FRENO MANUAL DELANTERO DERECHO 10 DIENTES TF&P TECHNOLOGY 2785"
+    },
+    {
+        "id": "P2990",
+        "name": "REGISTRO FRENO MANUAL DELANTERO IZQUIERDO 10 DIENTES TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "2786",
+        "image": "img/products/Scania 111/registro-freno-manual-delantero-izquierdo-10-dientes-tf-p-technology-2786.jpg",
+        "description": "REGISTRO FRENO MANUAL DELANTERO IZQUIERDO 10 DIENTES TF&P TECHNOLOGY 2786"
+    },
+    {
+        "id": "P2991",
+        "name": "APOYA BRAZO UNIVERSAL",
+        "brand": "Scania",
+        "code": "2713",
+        "image": "img/products/Scania 111/apoya-brazo-universal-2713.jpg",
+        "description": "APOYA BRAZO UNIVERSAL 2713"
+    },
+    {
+        "id": "P2992",
+        "name": "TERMOSTATO 75º / CHICO WAHLER",
+        "brand": "Scania",
+        "code": "2661",
+        "image": "img/products/Scania 111/termostato-75-chico-wahler-2661.jpg",
+        "description": "TERMOSTATO 75º / CHICO WAHLER 2661"
+    },
+    {
+        "id": "P2993",
+        "name": "TERMOSTATO 79º / CHICO BORG WARNER",
+        "brand": "Scania",
+        "code": "2662",
+        "image": "img/products/Scania 111/termostato-79-chico-borg-warner-2662.jpg",
+        "description": "TERMOSTATO 79º / CHICO BORG WARNER 2662"
+    },
+    {
+        "id": "P2994",
+        "name": "TAPA LLENADO ACEITE CHAPA UNICK",
+        "brand": "Scania",
+        "code": "2676",
+        "image": "img/products/Scania 111/tapa-llenado-aceite-chapa-unick-2676.jpg",
+        "description": "TAPA LLENADO ACEITE CHAPA UNICK 2676"
+    },
+    {
+        "id": "P2995",
+        "name": "TAPA LLENADO ACEITE PLASTICA REFORMA UNICK",
+        "brand": "Scania",
+        "code": "2677",
+        "image": "img/products/Scania 111/tapa-llenado-aceite-plastica-reforma-unick-2677.jpg",
+        "description": "TAPA LLENADO ACEITE PLASTICA REFORMA UNICK 2677"
+    },
+    {
+        "id": "P2996",
+        "name": "TORNILLO ESPURGUE SERVOEMBRAGUE WABCO M 7 X 1.5MM. QUINELATO",
+        "brand": "Scania",
+        "code": "2645",
+        "image": "img/products/Scania 111/tornillo-espurgue-servoembrague-wabco-m-7-x-1-5mm-quinelato-2645.jpg",
+        "description": "TORNILLO ESPURGUE SERVOEMBRAGUE WABCO M 7 X 1.5MM. QUINELATO 2645"
+    },
+    {
+        "id": "P2997",
+        "name": "JGO. AROS. 0.10” COMPRESOR KNORR 92MM. BEL-AR",
+        "brand": "Scania",
+        "code": "2619",
+        "image": "img/products/Scania 111/jgo-aros-0-10-compresor-knorr-92mm-bel-ar-2619.jpg",
+        "description": "JGO. AROS. 0.10” COMPRESOR KNORR 92MM. BEL-AR 2619"
+    },
+    {
+        "id": "P2998",
+        "name": "REP. CIGUEÑAL COMPRESOR KNORR 92MM. LK3976 BEL-AR",
+        "brand": "Scania",
+        "code": "2620",
+        "image": "img/products/Scania 111/rep-ciguenal-compresor-knorr-92mm-lk3976-bel-ar-2620.jpg",
+        "description": "REP. CIGUEÑAL COMPRESOR KNORR 92MM. LK3976 BEL-AR 2620"
+    },
+    {
+        "id": "P2999",
+        "name": "TAPA TRASERA COMPRESOR KNORR 92MM. LK3976 BEL-AR",
+        "brand": "Scania",
+        "code": "2616",
+        "image": "img/products/Scania 111/tapa-trasera-compresor-knorr-92mm-lk3976-bel-ar-2616.jpg",
+        "description": "TAPA TRASERA COMPRESOR KNORR 92MM. LK3976 BEL-AR 2616"
+    },
+    {
+        "id": "P3000",
+        "name": "JGO. AROS. STD. COMPRESOR KNORR 92MM. A-TECH",
+        "brand": "Scania",
+        "code": "2618",
+        "image": "img/products/Scania 111/jgo-aros-std-compresor-knorr-92mm-a-tech-2618.jpg",
+        "description": "JGO. AROS. STD. COMPRESOR KNORR 92MM. A-TECH 2618"
+    },
+    {
+        "id": "P3001",
+        "name": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE METALICO R. 1/2” BEL-AR",
+        "brand": "Scania",
+        "code": "2588",
+        "image": "img/products/Scania 111/valvula-retencion-simple-bendix-con-cierre-metalico-r-1-2-bel-ar-2588.jpg",
+        "description": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE METALICO R. 1/2” BEL-AR 2588"
+    },
+    {
+        "id": "P3002",
+        "name": "BASE FILTRO DE ACEITE INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "2429",
+        "image": "img/products/Scania 111/base-filtro-de-aceite-industria-argentina-2429.jpg",
+        "description": "BASE FILTRO DE ACEITE INDUSTRIA ARGENTINA 2429"
+    },
+    {
+        "id": "P3003",
+        "name": "BRIDA BOMBA DE AGUA INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "2430",
+        "image": "img/products/Scania 111/brida-bomba-de-agua-industria-argentina-2430.jpg",
+        "description": "BRIDA BOMBA DE AGUA INDUSTRIA ARGENTINA 2430"
+    },
+    {
+        "id": "P3004",
+        "name": "CILINDRO FRENO DE MOTOR WAYSER",
+        "brand": "Scania",
+        "code": "2396",
+        "image": "img/products/Scania 111/cilindro-freno-de-motor-wayser-2396.jpg",
+        "description": "CILINDRO FRENO DE MOTOR WAYSER 2396"
+    },
+    {
+        "id": "P3005",
+        "name": "BIELA COMPRESOR KNORR BEL-AR",
+        "brand": "Scania",
+        "code": "2361",
+        "image": "img/products/Scania 111/biela-compresor-knorr-bel-ar-2361.jpg",
+        "description": "BIELA COMPRESOR KNORR BEL-AR 2361"
+    },
+    {
+        "id": "P3006",
+        "name": "TAPA COMPRESOR KNORR 92MM. LK3976 BEL-AR",
+        "brand": "Scania",
+        "code": "2362",
+        "image": "img/products/Scania 111/tapa-compresor-knorr-92mm-lk3976-bel-ar-2362.jpg",
+        "description": "TAPA COMPRESOR KNORR 92MM. LK3976 BEL-AR 2362"
+    },
+    {
+        "id": "P3007",
+        "name": "BOMBIN CEBADOR 14 X 1.5MM / CUERPO ALUMINIO CON TAPA DE PLASTICO TRUCKTEC",
+        "brand": "Scania",
+        "code": "2346",
+        "image": "img/products/Scania 111/bombin-cebador-14-x-1-5mm-cuerpo-aluminio-con-tapa-de-plastico-trucktec-2346.jpg",
+        "description": "BOMBIN CEBADOR 14 X 1.5MM / CUERPO ALUMINIO CON TAPA DE PLASTICO TRUCKTEC 2346"
+    },
+    {
+        "id": "P3008",
+        "name": "SERVOEMBRAGUE KONSBERG 100MM. F.S.S",
+        "brand": "Scania",
+        "code": "2325",
+        "image": "img/products/Scania 111/servoembrague-konsberg-100mm-f-s-s-2325.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 100MM. F.S.S 2325"
+    },
+    {
+        "id": "P3009",
+        "name": "TAPA RADIADOR 7 LIBRAS UNICK",
+        "brand": "Scania",
+        "code": "2285",
+        "image": "img/products/Scania 111/tapa-radiador-7-libras-unick-2285.jpg",
+        "description": "TAPA RADIADOR 7 LIBRAS UNICK 2285"
+    },
+    {
+        "id": "P3010",
+        "name": "TAPA LLENADO ACEITE PLASTICA UNICK",
+        "brand": "Scania",
+        "code": "2230",
+        "image": "img/products/Scania 111/tapa-llenado-aceite-plastica-unick-2230.jpg",
+        "description": "TAPA LLENADO ACEITE PLASTICA UNICK 2230"
+    },
+    {
+        "id": "P3011",
+        "name": "REP. VALVULA PROTECCION PR-2 CON RETENCION BEL-AR",
+        "brand": "Scania",
+        "code": "2209",
+        "image": "img/products/Scania 111/rep-valvula-proteccion-pr-2-con-retencion-bel-ar-2209.jpg",
+        "description": "REP. VALVULA PROTECCION PR-2 CON RETENCION BEL-AR 2209"
+    },
+    {
+        "id": "P3012",
+        "name": "REP. CILINDRO TRISTOP TIPO G 24/24” QUINELATO",
+        "brand": "Scania",
+        "code": "2215",
+        "image": "img/products/Scania 111/rep-cilindro-tristop-tipo-g-24-24-quinelato-2215.jpg",
+        "description": "REP. CILINDRO TRISTOP TIPO G 24/24” QUINELATO 2215"
+    },
+    {
+        "id": "P3013",
+        "name": "PISTON VALVULA DISTRIBUIDORA WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "2219",
+        "image": "img/products/Scania 111/piston-valvula-distribuidora-wabco-bel-ar-2219.jpg",
+        "description": "PISTON VALVULA DISTRIBUIDORA WABCO BEL-AR 2219"
+    },
+    {
+        "id": "P3014",
+        "name": "REP. VALVULA 2 VIAS KNORR TIPO AE4523 QUINELATO",
+        "brand": "Scania",
+        "code": "2200",
+        "image": "img/products/Scania 111/rep-valvula-2-vias-knorr-tipo-ae4523-quinelato-2200.jpg",
+        "description": "REP. VALVULA 2 VIAS KNORR TIPO AE4523 QUINELATO 2200"
+    },
+    {
+        "id": "P3015",
+        "name": "REP. VALVULA PROTECCION PR-2 SIN RETENCION BEL-AR",
+        "brand": "Scania",
+        "code": "2208",
+        "image": "img/products/Scania 111/rep-valvula-proteccion-pr-2-sin-retencion-bel-ar-2208.jpg",
+        "description": "REP. VALVULA PROTECCION PR-2 SIN RETENCION BEL-AR 2208"
+    },
+    {
+        "id": "P3016",
+        "name": "ENTRETAPA COMPRESOR KNORR 92MM. COMPLETA LK3976 A-TECH",
+        "brand": "Scania",
+        "code": "2182",
+        "image": "img/products/Scania 111/entretapa-compresor-knorr-92mm-completa-lk3976-a-tech-2182.jpg",
+        "description": "ENTRETAPA COMPRESOR KNORR 92MM. COMPLETA LK3976 A-TECH 2182"
+    },
+    {
+        "id": "P3017",
+        "name": "BIELA COMPRESOR VARGA 70MM. EL1600 BEL-AR",
+        "brand": "Scania",
+        "code": "2184",
+        "image": "img/products/Scania 111/biela-compresor-varga-70mm-el1600-bel-ar-2184.jpg",
+        "description": "BIELA COMPRESOR VARGA 70MM. EL1600 BEL-AR 2184"
+    },
+    {
+        "id": "P3018",
+        "name": "REP. CILINDRO FRENO MOTOR KNORR TIPO SZ1226 BEL-AR",
+        "brand": "Scania",
+        "code": "2079",
+        "image": "img/products/Scania 111/rep-cilindro-freno-motor-knorr-tipo-sz1226-bel-ar-2079.jpg",
+        "description": "REP. CILINDRO FRENO MOTOR KNORR TIPO SZ1226 BEL-AR 2079"
+    },
+    {
+        "id": "P3019",
+        "name": "GUIA VÁLVULA ATMOSFERICA PARA SERVOEMBRAGUE WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "2088",
+        "image": "img/products/Scania 111/guia-valvula-atmosferica-para-servoembrague-wabco-quinelato-2088.jpg",
+        "description": "GUIA VÁLVULA ATMOSFERICA PARA SERVOEMBRAGUE WABCO QUINELATO 2088"
+    },
+    {
+        "id": "P3020",
+        "name": "REP. VALVULA GOBERNADORA VARGA BEL-AR",
+        "brand": "Scania",
+        "code": "2061",
+        "image": "img/products/Scania 111/rep-valvula-gobernadora-varga-bel-ar-2061.jpg",
+        "description": "REP. VALVULA GOBERNADORA VARGA BEL-AR 2061"
+    },
+    {
+        "id": "P3021",
+        "name": "REP. VALVULA RETENCION SIMPLE BENDIX BEL-AR",
+        "brand": "Scania",
+        "code": "2062",
+        "image": "img/products/Scania 111/rep-valvula-retencion-simple-bendix-bel-ar-2062.jpg",
+        "description": "REP. VALVULA RETENCION SIMPLE BENDIX BEL-AR 2062"
+    },
+    {
+        "id": "P3022",
+        "name": "JUNTA CARTER MOTOR TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "2064",
+        "image": "img/products/Scania 111/junta-carter-motor-tf-p-technology-2064.jpg",
+        "description": "JUNTA CARTER MOTOR TF&P TECHNOLOGY 2064"
+    },
+    {
+        "id": "P3023",
+        "name": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE DE GOMA R. 1/2” QUINELATO",
+        "brand": "Scania",
+        "code": "2065",
+        "image": "img/products/Scania 111/valvula-retencion-simple-bendix-con-cierre-de-goma-r-1-2-quinelato-2065.jpg",
+        "description": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE DE GOMA R. 1/2” QUINELATO 2065"
+    },
+    {
+        "id": "P3024",
+        "name": "REP. CAMARA TRISTOP WABCO 24/30 Y 30/30 QUINELATO",
+        "brand": "Scania",
+        "code": "2074",
+        "image": "img/products/Scania 111/rep-camara-tristop-wabco-24-30-y-30-30-quinelato-2074.jpg",
+        "description": "REP. CAMARA TRISTOP WABCO 24/30 Y 30/30 QUINELATO 2074"
+    },
+    {
+        "id": "P3025",
+        "name": "GUIA (TACITA) PARA VALVULA PEDALERA BENDIX QUINELATO",
+        "brand": "Scania",
+        "code": "2043",
+        "image": "img/products/Scania 111/guia-tacita-para-valvula-pedalera-bendix-quinelato-2043.jpg",
+        "description": "GUIA (TACITA) PARA VALVULA PEDALERA BENDIX QUINELATO 2043"
+    },
+    {
+        "id": "P3026",
+        "name": "REP. VALVULA PEDALERA E-4 BENDIX BEL-AR",
+        "brand": "Scania",
+        "code": "2044",
+        "image": "img/products/Scania 111/rep-valvula-pedalera-e-4-bendix-bel-ar-2044.jpg",
+        "description": "REP. VALVULA PEDALERA E-4 BENDIX BEL-AR 2044"
+    },
+    {
+        "id": "P3027",
+        "name": "PISTON VALVULA PEDALERA WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "2047",
+        "image": "img/products/Scania 111/piston-valvula-pedalera-wabco-bel-ar-2047.jpg",
+        "description": "PISTON VALVULA PEDALERA WABCO BEL-AR 2047"
+    },
+    {
+        "id": "P3028",
+        "name": "PISTON VALVULA PEDALERA WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "2048",
+        "image": "img/products/Scania 111/piston-valvula-pedalera-wabco-bel-ar-2048.jpg",
+        "description": "PISTON VALVULA PEDALERA WABCO BEL-AR 2048"
+    },
+    {
+        "id": "P3029",
+        "name": "REP. VALVULA FRENO DE MANO (TIC-TAC) BENDIX BEL-AR",
+        "brand": "Scania",
+        "code": "2050",
+        "image": "img/products/Scania 111/rep-valvula-freno-de-mano-tic-tac-bendix-bel-ar-2050.jpg",
+        "description": "REP. VALVULA FRENO DE MANO (TIC-TAC) BENDIX BEL-AR 2050"
+    },
+    {
+        "id": "P3030",
+        "name": "REP. VALVULA FRENO DE MANO TC-2 BENDIX QUINELATO",
+        "brand": "Scania",
+        "code": "2051",
+        "image": "img/products/Scania 111/rep-valvula-freno-de-mano-tc-2-bendix-quinelato-2051.jpg",
+        "description": "REP. VALVULA FRENO DE MANO TC-2 BENDIX QUINELATO 2051"
+    },
+    {
+        "id": "P3031",
+        "name": "CONJUNTO RESORTES VALVULA FRENO DE MANO WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "2055",
+        "image": "img/products/Scania 111/conjunto-resortes-valvula-freno-de-mano-wabco-quinelato-2055.jpg",
+        "description": "CONJUNTO RESORTES VALVULA FRENO DE MANO WABCO QUINELATO 2055"
+    },
+    {
+        "id": "P3032",
+        "name": "CRUCETA CARDAN DADO 44.04 / LARGO 149.00 ETMA",
+        "brand": "Scania",
+        "code": "1809",
+        "image": "img/products/Scania 111/cruceta-cardan-dado-44-04-largo-149-00-etma-1809.jpg",
+        "description": "CRUCETA CARDAN DADO 44.04 / LARGO 149.00 ETMA 1809"
+    },
+    {
+        "id": "P3033",
+        "name": "CRUCETA CARDAN DADO 50.0MM. / LARGO 164.0MM. ETMA",
+        "brand": "Scania",
+        "code": "1812",
+        "image": "img/products/Scania 111/cruceta-cardan-dado-50-0mm-largo-164-0mm-etma-1812.jpg",
+        "description": "CRUCETA CARDAN DADO 50.0MM. / LARGO 164.0MM. ETMA 1812"
+    },
+    {
+        "id": "P3034",
+        "name": "VALVULA GOBERNADORA DE COMPRESOR D-2 BENDIX F.S.S",
+        "brand": "Scania",
+        "code": "1767",
+        "image": "img/products/Scania 111/valvula-gobernadora-de-compresor-d-2-bendix-f-s-s-1767.jpg",
+        "description": "VALVULA GOBERNADORA DE COMPRESOR D-2 BENDIX F.S.S 1767"
+    },
+    {
+        "id": "P3035",
+        "name": "GUARDAPOLVO CILINDRO DE RUEDA / TRISTOP 1 AGUJERO BEL-AR",
+        "brand": "Scania",
+        "code": "1758",
+        "image": "img/products/Scania 111/guardapolvo-cilindro-de-rueda-tristop-1-agujero-bel-ar-1758.jpg",
+        "description": "GUARDAPOLVO CILINDRO DE RUEDA / TRISTOP 1 AGUJERO BEL-AR 1758"
+    },
+    {
+        "id": "P3036",
+        "name": "JGO. AROS. 0.20″ COMPRESOR KNORR 92MM. A-TECH",
+        "brand": "Scania",
+        "code": "1715",
+        "image": "img/products/Scania 111/jgo-aros-0-20-compresor-knorr-92mm-a-tech-1715.jpg",
+        "description": "JGO. AROS. 0.20″ COMPRESOR KNORR 92MM. A-TECH 1715"
+    },
+    {
+        "id": "P3037",
+        "name": "DIAFRAGMA 6 / TIPO 16 BENDIX BINS",
+        "brand": "Scania",
+        "code": "1660",
+        "image": "img/products/Scania 111/diafragma-6-tipo-16-bendix-bins-1660.jpg",
+        "description": "DIAFRAGMA 6 / TIPO 16 BENDIX BINS 1660"
+    },
+    {
+        "id": "P3038",
+        "name": "VARILLA DEPOSITO LIQUIDO DIRECCION HIDRAULICA IMP.",
+        "brand": "Scania",
+        "code": "1561",
+        "image": "img/products/Scania 111/varilla-deposito-liquido-direccion-hidraulica-imp-1561.jpg",
+        "description": "VARILLA DEPOSITO LIQUIDO DIRECCION HIDRAULICA IMP. 1561"
+    },
+    {
+        "id": "P3039",
+        "name": "TAPA DEPOSITO LIQUIDO DIRECCION HIDRAULICA IMP.",
+        "brand": "Scania",
+        "code": "1562",
+        "image": "img/products/Scania 111/tapa-deposito-liquido-direccion-hidraulica-imp-1562.jpg",
+        "description": "TAPA DEPOSITO LIQUIDO DIRECCION HIDRAULICA IMP. 1562"
+    },
+    {
+        "id": "P3040",
+        "name": "BOMBA LIMPIAPARABRISAS 24 V. VDO",
+        "brand": "Scania",
+        "code": "1558",
+        "image": "img/products/Scania 111/bomba-limpiaparabrisas-24-v-vdo-1558.jpg",
+        "description": "BOMBA LIMPIAPARABRISAS 24 V. VDO 1558"
+    },
+    {
+        "id": "P3041",
+        "name": "REP. SERVOEMBRAGUE KONSBERG 100MM. QUINELATO",
+        "brand": "Scania",
+        "code": "1525",
+        "image": "img/products/Scania 111/rep-servoembrague-konsberg-100mm-quinelato-1525.jpg",
+        "description": "REP. SERVOEMBRAGUE KONSBERG 100MM. QUINELATO 1525"
+    },
+    {
+        "id": "P3042",
+        "name": "REP. TAPA COMPRESOR VARGA 70MM. 1600 PARCIAL QUINELATO",
+        "brand": "Scania",
+        "code": "1504",
+        "image": "img/products/Scania 111/rep-tapa-compresor-varga-70mm-1600-parcial-quinelato-1504.jpg",
+        "description": "REP. TAPA COMPRESOR VARGA 70MM. 1600 PARCIAL QUINELATO 1504"
+    },
+    {
+        "id": "P3043",
+        "name": "REP. VALVULA PEDALERA DOBLE BENDIX QUINELATO",
+        "brand": "Scania",
+        "code": "1508",
+        "image": "img/products/Scania 111/rep-valvula-pedalera-doble-bendix-quinelato-1508.jpg",
+        "description": "REP. VALVULA PEDALERA DOBLE BENDIX QUINELATO 1508"
+    },
+    {
+        "id": "P3044",
+        "name": "REP. VALVULA RETENCION DOBLE BENDIX QUINELATO",
+        "brand": "Scania",
+        "code": "1515",
+        "image": "img/products/Scania 111/rep-valvula-retencion-doble-bendix-quinelato-1515.jpg",
+        "description": "REP. VALVULA RETENCION DOBLE BENDIX QUINELATO 1515"
+    },
+    {
+        "id": "P3045",
+        "name": "REP. VALVULA RETENCION SIMPLE KNORR TIPO AE 5125 QUINELATO",
+        "brand": "Scania",
+        "code": "1516",
+        "image": "img/products/Scania 111/rep-valvula-retencion-simple-knorr-tipo-ae-5125-quinelato-1516.jpg",
+        "description": "REP. VALVULA RETENCION SIMPLE KNORR TIPO AE 5125 QUINELATO 1516"
+    },
+    {
+        "id": "P3046",
+        "name": "COMPRESOR COMPLETO KNORR 92MM. / 360CM3 BEL-AR",
+        "brand": "Scania",
+        "code": "146",
+        "image": "img/products/Scania 111/compresor-completo-knorr-92mm-360cm3-bel-ar-146.jpg",
+        "description": "COMPRESOR COMPLETO KNORR 92MM. / 360CM3 BEL-AR 146"
+    },
+    {
+        "id": "P3047",
+        "name": "BOBINA VALVULA SELENOIDE 24V. / FRENO MOTOR PARKER",
+        "brand": "Scania",
+        "code": "14542",
+        "image": "img/products/Scania 111/bobina-valvula-selenoide-24v-freno-motor-parker-14542.jpg",
+        "description": "BOBINA VALVULA SELENOIDE 24V. / FRENO MOTOR PARKER 14542"
+    },
+    {
+        "id": "P3048",
+        "name": "ENGRANAJE MARCHA ATRÁS / 19 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "14468",
+        "image": "img/products/Scania 111/engranaje-marcha-atras-19-dientes-cinpal-14468.jpg",
+        "description": "ENGRANAJE MARCHA ATRÁS / 19 DIENTES CINPAL 14468"
+    },
+    {
+        "id": "P3049",
+        "name": "ENGRANAJE COMPRESOR DE AIRE CINPAL",
+        "brand": "Scania",
+        "code": "14470",
+        "image": "img/products/Scania 111/engranaje-compresor-de-aire-cinpal-14470.jpg",
+        "description": "ENGRANAJE COMPRESOR DE AIRE CINPAL 14470"
+    },
+    {
+        "id": "P3050",
+        "name": "ENGRANAJE CIGUEÑAL -0.10 MM CINPAL",
+        "brand": "Scania",
+        "code": "14472",
+        "image": "img/products/Scania 111/engranaje-ciguenal-0-10-mm-cinpal-14472.jpg",
+        "description": "ENGRANAJE CIGUEÑAL -0.10 MM CINPAL 14472"
+    },
+    {
+        "id": "P3051",
+        "name": "REP. VALVULA RELAY WABCO PARCIAL QUINELATO",
+        "brand": "Scania",
+        "code": "14350",
+        "image": "img/products/Scania 111/rep-valvula-relay-wabco-parcial-quinelato-14350.jpg",
+        "description": "REP. VALVULA RELAY WABCO PARCIAL QUINELATO 14350"
+    },
+    {
+        "id": "P3052",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. QUINELATO",
+        "brand": "Scania",
+        "code": "14313",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-knorr-92mm-quinelato-14313.jpg",
+        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. QUINELATO 14313"
+    },
+    {
+        "id": "P3053",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.10″ QUINELATO",
+        "brand": "Scania",
+        "code": "14314",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-knorr-92mm-0-10-quinelato-14314.jpg",
+        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.10″ QUINELATO 14314"
+    },
+    {
+        "id": "P3054",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.20″ QUINELATO",
+        "brand": "Scania",
+        "code": "14315",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-knorr-92mm-0-20-quinelato-14315.jpg",
+        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.20″ QUINELATO 14315"
+    },
+    {
+        "id": "P3055",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. STD QUINELATO",
+        "brand": "Scania",
+        "code": "14316",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-wabco-85mm-std-quinelato-14316.jpg",
+        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. STD QUINELATO 14316"
+    },
+    {
+        "id": "P3056",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.10″ QUINELATO",
+        "brand": "Scania",
+        "code": "14317",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-wabco-85mm-0-10-quinelato-14317.jpg",
+        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.10″ QUINELATO 14317"
+    },
+    {
+        "id": "P3057",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.20″ QUINELATO",
+        "brand": "Scania",
+        "code": "14318",
+        "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-wabco-85mm-0-20-quinelato-14318.jpg",
+        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.20″ QUINELATO 14318"
+    },
+    {
+        "id": "P3058",
+        "name": "CRUCETA CARDAN DADO 38.05 / LARGO 148.50 ETMA",
+        "brand": "Scania",
+        "code": "1423",
+        "image": "img/products/Scania 111/cruceta-cardan-dado-38-05-largo-148-50-etma-1423.jpg",
+        "description": "CRUCETA CARDAN DADO 38.05 / LARGO 148.50 ETMA 1423"
+    },
+    {
+        "id": "P3059",
+        "name": "VALVULA DISTRIBUIDORA WABCO F.S.S",
+        "brand": "Scania",
+        "code": "1408",
+        "image": "img/products/Scania 111/valvula-distribuidora-wabco-f-s-s-1408.jpg",
+        "description": "VALVULA DISTRIBUIDORA WABCO F.S.S 1408"
+    },
+    {
+        "id": "P3060",
+        "name": "JGO. JUNTAS RADIADOR / REFRIGERADOR ACEITE TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "14075",
+        "image": "img/products/Scania 111/jgo-juntas-radiador-refrigerador-aceite-tf-p-technology-14075.jpg",
+        "description": "JGO. JUNTAS RADIADOR / REFRIGERADOR ACEITE TF&P TECHNOLOGY 14075"
+    },
+    {
+        "id": "P3061",
+        "name": "REP. HORQUILLA SELECTORA CAJA CAMBIOS IMP.",
+        "brand": "Scania",
+        "code": "14000",
+        "image": "img/products/Scania 111/rep-horquilla-selectora-caja-cambios-imp-14000.jpg",
+        "description": "REP. HORQUILLA SELECTORA CAJA CAMBIOS IMP. 14000"
+    },
+    {
+        "id": "P3062",
+        "name": "HORQUILLA ELASTICO DELANTERO CON BUJE CIPEC",
+        "brand": "Scania",
+        "code": "14001",
+        "image": "img/products/Scania 111/horquilla-elastico-delantero-con-buje-cipec-14001.jpg",
+        "description": "HORQUILLA ELASTICO DELANTERO CON BUJE CIPEC 14001"
+    },
+    {
+        "id": "P3063",
+        "name": "REDUCTOR ANGULAR 1:1.000 IMP.",
+        "brand": "Scania",
+        "code": "1395",
+        "image": "img/products/Scania 111/reductor-angular-1-1-000-imp-1395.jpg",
+        "description": "REDUCTOR ANGULAR 1:1.000 IMP. 1395"
+    },
+    {
+        "id": "P3064",
+        "name": "EJE BOMBA DE ACEITE CIPEC",
+        "brand": "Scania",
+        "code": "13957",
+        "image": "img/products/Scania 111/eje-bomba-de-aceite-cipec-13957.jpg",
+        "description": "EJE BOMBA DE ACEITE CIPEC 13957"
+    },
+    {
+        "id": "P3065",
+        "name": "REGISTRO PATIN DE FRENO TRASERO CIPEC",
+        "brand": "Scania",
+        "code": "13959",
+        "image": "img/products/Scania 111/registro-patin-de-freno-trasero-cipec-13959.jpg",
+        "description": "REGISTRO PATIN DE FRENO TRASERO CIPEC 13959"
+    },
+    {
+        "id": "P3066",
+        "name": "SUPLEMENTO DE CAMISA DE MOTOR 0.40MM. CIPEC",
+        "brand": "Scania",
+        "code": "13960",
+        "image": "img/products/Scania 111/suplemento-de-camisa-de-motor-0-40mm-cipec-13960.jpg",
+        "description": "SUPLEMENTO DE CAMISA DE MOTOR 0.40MM. CIPEC 13960"
+    },
+    {
+        "id": "P3067",
+        "name": "JGO. REPARACION CUBO RUEDA TRASERA CIPEC",
+        "brand": "Scania",
+        "code": "13964",
+        "image": "img/products/Scania 111/jgo-reparacion-cubo-rueda-trasera-cipec-13964.jpg",
+        "description": "JGO. REPARACION CUBO RUEDA TRASERA CIPEC 13964"
+    },
+    {
+        "id": "P3068",
+        "name": "RETEN DE VALVULA / DIAM. INT. 7MM. / DIAM. EXT. 13MM. / ALTURA 16MM ELRING",
+        "brand": "Scania",
+        "code": "13936",
+        "image": "img/products/Scania 111/reten-de-valvula-diam-int-7mm-diam-ext-13mm-altura-16mm-elring-13936.jpg",
+        "description": "RETEN DE VALVULA / DIAM. INT. 7MM. / DIAM. EXT. 13MM. / ALTURA 16MM ELRING 13936"
+    },
+    {
+        "id": "P3069",
+        "name": "ESCOBILLA LIMPIAPARABRISAS 600MM. TRICO",
+        "brand": "Scania",
+        "code": "13890",
+        "image": "img/products/Scania 111/escobilla-limpiaparabrisas-600mm-trico-13890.jpg",
+        "description": "ESCOBILLA LIMPIAPARABRISAS 600MM. TRICO 13890"
+    },
+    {
+        "id": "P3070",
+        "name": "ESCOBILLA LIMPIAPARABRISAS 650MM TRICO",
+        "brand": "Scania",
+        "code": "13891",
+        "image": "img/products/Scania 111/escobilla-limpiaparabrisas-650mm-trico-13891.jpg",
+        "description": "ESCOBILLA LIMPIAPARABRISAS 650MM TRICO 13891"
+    },
+    {
+        "id": "P3071",
+        "name": "PERNO Y BUJE ELASTICO TRASERO INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "13900",
+        "image": "img/products/Scania 111/perno-y-buje-elastico-trasero-industria-argentina-13900.jpg",
+        "description": "PERNO Y BUJE ELASTICO TRASERO INDUSTRIA ARGENTINA 13900"
+    },
+    {
+        "id": "P3072",
+        "name": "REP. CILINDRO FRENO DE MOTOR WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "13877",
+        "image": "img/products/Scania 111/rep-cilindro-freno-de-motor-wabco-quinelato-13877.jpg",
+        "description": "REP. CILINDRO FRENO DE MOTOR WABCO QUINELATO 13877"
+    },
+    {
+        "id": "P3073",
+        "name": "REP. CILINDRO CONTROL CAJA DE CAMBIOS / 10 MARCHAS QUINELATO",
+        "brand": "Scania",
+        "code": "13881",
+        "image": "img/products/Scania 111/rep-cilindro-control-caja-de-cambios-10-marchas-quinelato-13881.jpg",
+        "description": "REP. CILINDRO CONTROL CAJA DE CAMBIOS / 10 MARCHAS QUINELATO 13881"
+    },
+    {
+        "id": "P3074",
+        "name": "PERNO Y RODILLO PATIN FRENO IMP.",
+        "brand": "Scania",
+        "code": "13823",
+        "image": "img/products/Scania 111/perno-y-rodillo-patin-freno-imp-13823.jpg",
+        "description": "PERNO Y RODILLO PATIN FRENO IMP. 13823"
+    },
+    {
+        "id": "P3075",
+        "name": "MANGUERA CODO LATERAL COMPRESOR DE AIRE IMP.",
+        "brand": "Scania",
+        "code": "13647",
+        "image": "img/products/Scania 111/manguera-codo-lateral-compresor-de-aire-imp-13647.jpg",
+        "description": "MANGUERA CODO LATERAL COMPRESOR DE AIRE IMP. 13647"
+    },
+    {
+        "id": "P3076",
+        "name": "MANGUERA RADIADOR DE ACEITE IMP.",
+        "brand": "Scania",
+        "code": "13653",
+        "image": "img/products/Scania 111/manguera-radiador-de-aceite-imp-13653.jpg",
+        "description": "MANGUERA RADIADOR DE ACEITE IMP. 13653"
+    },
+    {
+        "id": "P3077",
+        "name": "MANGUERA SUPERIOR DE RADIADOR / ACEITE IMP.",
+        "brand": "Scania",
+        "code": "13641",
+        "image": "img/products/Scania 111/manguera-superior-de-radiador-aceite-imp-13641.jpg",
+        "description": "MANGUERA SUPERIOR DE RADIADOR / ACEITE IMP. 13641"
+    },
+    {
+        "id": "P3078",
+        "name": "PERNO Y BUJE ELASTICO DELANTERO INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "13616",
+        "image": "img/products/Scania 111/perno-y-buje-elastico-delantero-industria-argentina-13616.jpg",
+        "description": "PERNO Y BUJE ELASTICO DELANTERO INDUSTRIA ARGENTINA 13616"
+    },
+    {
+        "id": "P3079",
+        "name": "TAPA PORTASATELITE CON GUIA CINPAL",
+        "brand": "Scania",
+        "code": "13606",
+        "image": "img/products/Scania 111/tapa-portasatelite-con-guia-cinpal-13606.jpg",
+        "description": "TAPA PORTASATELITE CON GUIA CINPAL 13606"
+    },
+    {
+        "id": "P3080",
+        "name": "SOPORTE MOTOR TRASERO BAYROS 2000",
+        "brand": "Scania",
+        "code": "1358",
+        "image": "img/products/Scania 111/soporte-motor-trasero-bayros-2000-1358.jpg",
+        "description": "SOPORTE MOTOR TRASERO BAYROS 2000 1358"
+    },
+    {
+        "id": "P3081",
+        "name": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRAS CINPAL",
+        "brand": "Scania",
+        "code": "13580",
+        "image": "img/products/Scania 111/conjunto-sincronizado-1-y-marcha-atras-cinpal-13580.jpg",
+        "description": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRAS CINPAL 13580"
+    },
+    {
+        "id": "P3082",
+        "name": "SATELITE DIFERENCIAL / 11 DIENTES / EL JGO. SON 4 SATELITES CINPAL",
+        "brand": "Scania",
+        "code": "13589",
+        "image": "img/products/Scania 111/satelite-diferencial-11-dientes-el-jgo-son-4-satelites-cinpal-13589.jpg",
+        "description": "SATELITE DIFERENCIAL / 11 DIENTES / EL JGO. SON 4 SATELITES CINPAL 13589"
+    },
+    {
+        "id": "P3083",
+        "name": "ENGRANAJE ARBOL DE LEVAS / CON DIENTES RECTIFICADOS CINPAL",
+        "brand": "Scania",
+        "code": "13549",
+        "image": "img/products/Scania 111/engranaje-arbol-de-levas-con-dientes-rectificados-cinpal-13549.jpg",
+        "description": "ENGRANAJE ARBOL DE LEVAS / CON DIENTES RECTIFICADOS CINPAL 13549"
+    },
+    {
+        "id": "P3084",
+        "name": "ENGRANAJE CIGUEÑAL -0.20 MMM. CINPAL",
+        "brand": "Scania",
+        "code": "13550",
+        "image": "img/products/Scania 111/engranaje-ciguenal-0-20-mmm-cinpal-13550.jpg",
+        "description": "ENGRANAJE CIGUEÑAL -0.20 MMM. CINPAL 13550"
+    },
+    {
+        "id": "P3085",
+        "name": "ENGRANAJE CIGUEÑAL -0.30 MM CINPAL",
+        "brand": "Scania",
+        "code": "13551",
+        "image": "img/products/Scania 111/engranaje-ciguenal-0-30-mm-cinpal-13551.jpg",
+        "description": "ENGRANAJE CIGUEÑAL -0.30 MM CINPAL 13551"
+    },
+    {
+        "id": "P3086",
+        "name": "ENGRANAJE DE DISTRIBUCION INTERMEDIO CINPAL",
+        "brand": "Scania",
+        "code": "13553",
+        "image": "img/products/Scania 111/engranaje-de-distribucion-intermedio-cinpal-13553.jpg",
+        "description": "ENGRANAJE DE DISTRIBUCION INTERMEDIO CINPAL 13553"
+    },
+    {
+        "id": "P3087",
+        "name": "CONO SINCRONIZADO / ACOPLE DE 1º Y 2º CINPAL",
+        "brand": "Scania",
+        "code": "13561",
+        "image": "img/products/Scania 111/cono-sincronizado-acople-de-1-y-2-cinpal-13561.jpg",
+        "description": "CONO SINCRONIZADO / ACOPLE DE 1º Y 2º CINPAL 13561"
+    },
+    {
+        "id": "P3088",
+        "name": "BOMBA LIMPIAPARABRISAS 24V. TRUCKTEC",
+        "brand": "Scania",
+        "code": "13542",
+        "image": "img/products/Scania 111/bomba-limpiaparabrisas-24v-trucktec-13542.jpg",
+        "description": "BOMBA LIMPIAPARABRISAS 24V. TRUCKTEC 13542"
+    },
+    {
+        "id": "P3089",
+        "name": "BUJE / SOPORTE DELANTERO SUPERIOR DE CABINA / CHICO SUPORTE REI",
+        "brand": "Scania",
+        "code": "1339",
+        "image": "img/products/Scania 111/buje-soporte-delantero-superior-de-cabina-chico-suporte-rei-1339.jpg",
+        "description": "BUJE / SOPORTE DELANTERO SUPERIOR DE CABINA / CHICO SUPORTE REI 1339"
+    },
+    {
+        "id": "P3090",
+        "name": "JUNTA TAPA CILINDROS JUNTAS ILLINOIS",
+        "brand": "Scania",
+        "code": "13333",
+        "image": "img/products/Scania 111/junta-tapa-cilindros-juntas-illinois-13333.jpg",
+        "description": "JUNTA TAPA CILINDROS JUNTAS ILLINOIS 13333"
+    },
+    {
+        "id": "P3091",
+        "name": "REP. VALVULA DESCARGA RAPIDA WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1328",
+        "image": "img/products/Scania 111/rep-valvula-descarga-rapida-wabco-quinelato-1328.jpg",
+        "description": "REP. VALVULA DESCARGA RAPIDA WABCO QUINELATO 1328"
+    },
+    {
+        "id": "P3092",
+        "name": "REP. VALVULA RELAY WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1326",
+        "image": "img/products/Scania 111/rep-valvula-relay-wabco-quinelato-1326.jpg",
+        "description": "REP. VALVULA RELAY WABCO QUINELATO 1326"
+    },
+    {
+        "id": "P3093",
+        "name": "FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE RACOR PARKER",
+        "brand": "Scania",
+        "code": "13206",
+        "image": "img/products/Scania 111/filtro-separador-de-agua-del-combustible-racor-parker-13206.jpg",
+        "description": "FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE RACOR PARKER 13206"
+    },
+    {
+        "id": "P3094",
+        "name": "INTERRUPTOR LUCES DE FRENO M12 X 1.5 INTERIOR 3-RHO",
+        "brand": "Scania",
+        "code": "13212",
+        "image": "img/products/Scania 111/interruptor-luces-de-freno-m12-x-1-5-interior-3-rho-13212.jpg",
+        "description": "INTERRUPTOR LUCES DE FRENO M12 X 1.5 INTERIOR 3-RHO 13212"
+    },
+    {
+        "id": "P3095",
+        "name": "JUNTA DE CARTER CIPEC",
+        "brand": "Scania",
+        "code": "13183",
+        "image": "img/products/Scania 111/junta-de-carter-cipec-13183.jpg",
+        "description": "JUNTA DE CARTER CIPEC 13183"
+    },
+    {
+        "id": "P3096",
+        "name": "JGO. JUNTAS CAJA DE CAMBIOS COMPLETA SIN RETENES CIPEC",
+        "brand": "Scania",
+        "code": "13184",
+        "image": "img/products/Scania 111/jgo-juntas-caja-de-cambios-completa-sin-retenes-cipec-13184.jpg",
+        "description": "JGO. JUNTAS CAJA DE CAMBIOS COMPLETA SIN RETENES CIPEC 13184"
+    },
+    {
+        "id": "P3097",
+        "name": "BUJE SUSPENSION TRASERA EJE TANDEM CIPEC",
+        "brand": "Scania",
+        "code": "13188",
+        "image": "img/products/Scania 111/buje-suspension-trasera-eje-tandem-cipec-13188.jpg",
+        "description": "BUJE SUSPENSION TRASERA EJE TANDEM CIPEC 13188"
+    },
+    {
+        "id": "P3098",
+        "name": "BULON TAPA DE CILINDRO 16 X 170MM. CIPEC",
+        "brand": "Scania",
+        "code": "13165",
+        "image": "img/products/Scania 111/bulon-tapa-de-cilindro-16-x-170mm-cipec-13165.jpg",
+        "description": "BULON TAPA DE CILINDRO 16 X 170MM. CIPEC 13165"
+    },
+    {
+        "id": "P3099",
+        "name": "ARANDELA SUPLEMENTO EJE TANDEM CIPEC",
+        "brand": "Scania",
+        "code": "13172",
+        "image": "img/products/Scania 111/arandela-suplemento-eje-tandem-cipec-13172.jpg",
+        "description": "ARANDELA SUPLEMENTO EJE TANDEM CIPEC 13172"
+    },
+    {
+        "id": "P3100",
+        "name": "SUPLEMENTO DE MONTAJE DE CAMISA 0.20MM. CIPEC",
+        "brand": "Scania",
+        "code": "13173",
+        "image": "img/products/Scania 111/suplemento-de-montaje-de-camisa-0-20mm-cipec-13173.jpg",
+        "description": "SUPLEMENTO DE MONTAJE DE CAMISA 0.20MM. CIPEC 13173"
+    },
+    {
+        "id": "P3101",
+        "name": "SUPLEMENTO DE MONTAJE DE CAMISA 0.30MM. CIPEC",
+        "brand": "Scania",
+        "code": "13174",
+        "image": "img/products/Scania 111/suplemento-de-montaje-de-camisa-0-30mm-cipec-13174.jpg",
+        "description": "SUPLEMENTO DE MONTAJE DE CAMISA 0.30MM. CIPEC 13174"
+    },
+    {
+        "id": "P3102",
+        "name": "SUPLEMENTO DE MONTAJE DE CAMISA 0.50MM. CIPEC",
+        "brand": "Scania",
+        "code": "13175",
+        "image": "img/products/Scania 111/suplemento-de-montaje-de-camisa-0-50mm-cipec-13175.jpg",
+        "description": "SUPLEMENTO DE MONTAJE DE CAMISA 0.50MM. CIPEC 13175"
+    },
+    {
+        "id": "P3103",
+        "name": "SUPLEMENTO DE MONTAJE DE CAMISA 0.15MM. CIPEC",
+        "brand": "Scania",
+        "code": "13176",
+        "image": "img/products/Scania 111/suplemento-de-montaje-de-camisa-0-15mm-cipec-13176.jpg",
+        "description": "SUPLEMENTO DE MONTAJE DE CAMISA 0.15MM. CIPEC 13176"
+    },
+    {
+        "id": "P3104",
+        "name": "VALVULA DRENAJE MACHO/HEMBRA 1/4″ CON ESFERA DE ACERO INOXIDABLE CIPEC",
+        "brand": "Scania",
+        "code": "13180",
+        "image": "img/products/Scania 111/valvula-drenaje-macho-hembra-1-4-con-esfera-de-acero-inoxidable-cipec-13180.jpg",
+        "description": "VALVULA DRENAJE MACHO/HEMBRA 1/4″ CON ESFERA DE ACERO INOXIDABLE CIPEC 13180"
+    },
+    {
+        "id": "P3105",
+        "name": "GUIA VALVULA ACCIONAMIENTO PARA VALVULA FRENO DE MANO WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "1315",
+        "image": "img/products/Scania 111/guia-valvula-accionamiento-para-valvula-freno-de-mano-wabco-bel-ar-1315.jpg",
+        "description": "GUIA VALVULA ACCIONAMIENTO PARA VALVULA FRENO DE MANO WABCO BEL-AR 1315"
+    },
+    {
+        "id": "P3106",
+        "name": "PISTON PARA VALVULA FRENO DE MANO WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1313",
+        "image": "img/products/Scania 111/piston-para-valvula-freno-de-mano-wabco-quinelato-1313.jpg",
+        "description": "PISTON PARA VALVULA FRENO DE MANO WABCO QUINELATO 1313"
+    },
+    {
+        "id": "P3107",
+        "name": "PISTON DE ACCIONAMIENTO PARA VALVULA FRENO DE MANO WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "1314",
+        "image": "img/products/Scania 111/piston-de-accionamiento-para-valvula-freno-de-mano-wabco-bel-ar-1314.jpg",
+        "description": "PISTON DE ACCIONAMIENTO PARA VALVULA FRENO DE MANO WABCO BEL-AR 1314"
+    },
+    {
+        "id": "P3108",
+        "name": "SOPORTE PARA VALVULA FRENO DE MANO WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "1312",
+        "image": "img/products/Scania 111/soporte-para-valvula-freno-de-mano-wabco-bel-ar-1312.jpg",
+        "description": "SOPORTE PARA VALVULA FRENO DE MANO WABCO BEL-AR 1312"
+    },
+    {
+        "id": "P3109",
+        "name": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "13127",
+        "image": "img/products/Scania 111/tuerca-reforma-cardan-pinon-salida-de-caja-industria-argentina-13127.jpg",
+        "description": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA INDUSTRIA ARGENTINA 13127"
+    },
+    {
+        "id": "P3110",
+        "name": "CARCAZA NEGRA PARA VALVULA FRENO DE MANO WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1310",
+        "image": "img/products/Scania 111/carcaza-negra-para-valvula-freno-de-mano-wabco-quinelato-1310.jpg",
+        "description": "CARCAZA NEGRA PARA VALVULA FRENO DE MANO WABCO QUINELATO 1310"
+    },
+    {
+        "id": "P3111",
+        "name": "TAPA RADIADOR CALORSTAT",
+        "brand": "Scania",
+        "code": "13000",
+        "image": "img/products/Scania 111/tapa-radiador-calorstat-13000.jpg",
+        "description": "TAPA RADIADOR CALORSTAT 13000"
+    },
+    {
+        "id": "P3112",
+        "name": "TAPA PALIER 10 AGUJEROS TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "12671",
+        "image": "img/products/Scania 111/tapa-palier-10-agujeros-tf-p-technology-12671.jpg",
+        "description": "TAPA PALIER 10 AGUJEROS TF&P TECHNOLOGY 12671"
+    },
+    {
+        "id": "P3113",
+        "name": "PISTON VALVULA PEDALERA WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "1261",
+        "image": "img/products/Scania 111/piston-valvula-pedalera-wabco-bel-ar-1261.jpg",
+        "description": "PISTON VALVULA PEDALERA WABCO BEL-AR 1261"
+    },
+    {
+        "id": "P3114",
+        "name": "REP. VALVULA RELAY KNORR MENOR QUINELATO",
+        "brand": "Scania",
+        "code": "12614",
+        "image": "img/products/Scania 111/rep-valvula-relay-knorr-menor-quinelato-12614.jpg",
+        "description": "REP. VALVULA RELAY KNORR MENOR QUINELATO 12614"
+    },
+    {
+        "id": "P3115",
+        "name": "REP. TAPA TRASERA COMPRESOR VARGA 70MM. QUINELATO",
+        "brand": "Scania",
+        "code": "12622",
+        "image": "img/products/Scania 111/rep-tapa-trasera-compresor-varga-70mm-quinelato-12622.jpg",
+        "description": "REP. TAPA TRASERA COMPRESOR VARGA 70MM. QUINELATO 12622"
+    },
+    {
+        "id": "P3116",
+        "name": "REP. VALVULA 2 VIAS WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1260",
+        "image": "img/products/Scania 111/rep-valvula-2-vias-wabco-quinelato-1260.jpg",
+        "description": "REP. VALVULA 2 VIAS WABCO QUINELATO 1260"
+    },
+    {
+        "id": "P3117",
+        "name": "BULON MEDIA BANCADA CIGUEÑAL CIPEC",
+        "brand": "Scania",
+        "code": "12578",
+        "image": "img/products/Scania 111/bulon-media-bancada-ciguenal-cipec-12578.jpg",
+        "description": "BULON MEDIA BANCADA CIGUEÑAL CIPEC 12578"
+    },
+    {
+        "id": "P3118",
+        "name": "PERNO ACCIONAMIENTO INTERRUPTOR MARCHA ATRÁS CIPEC",
+        "brand": "Scania",
+        "code": "12580",
+        "image": "img/products/Scania 111/perno-accionamiento-interruptor-marcha-atras-cipec-12580.jpg",
+        "description": "PERNO ACCIONAMIENTO INTERRUPTOR MARCHA ATRÁS CIPEC 12580"
+    },
+    {
+        "id": "P3119",
+        "name": "RETEN GUIA DE DIRECTA CIPEC",
+        "brand": "Scania",
+        "code": "12581",
+        "image": "img/products/Scania 111/reten-guia-de-directa-cipec-12581.jpg",
+        "description": "RETEN GUIA DE DIRECTA CIPEC 12581"
+    },
+    {
+        "id": "P3120",
+        "name": "ORING FILTRO ROTATIVO DE ACEITE / DEPOSITO DIRECCION HIDRAULICA CIPEC",
+        "brand": "Scania",
+        "code": "12582",
+        "image": "img/products/Scania 111/oring-filtro-rotativo-de-aceite-deposito-direccion-hidraulica-cipec-12582.jpg",
+        "description": "ORING FILTRO ROTATIVO DE ACEITE / DEPOSITO DIRECCION HIDRAULICA CIPEC 12582"
+    },
+    {
+        "id": "P3121",
+        "name": "ENGRANAJE CIGUEÑAL STD. CINPAL",
+        "brand": "Scania",
+        "code": "12586",
+        "image": "img/products/Scania 111/engranaje-ciguenal-std-cinpal-12586.jpg",
+        "description": "ENGRANAJE CIGUEÑAL STD. CINPAL 12586"
+    },
+    {
+        "id": "P3122",
+        "name": "PERNO GUIA TAPA DE VALVULAS CIPEC",
+        "brand": "Scania",
+        "code": "12559",
+        "image": "img/products/Scania 111/perno-guia-tapa-de-valvulas-cipec-12559.jpg",
+        "description": "PERNO GUIA TAPA DE VALVULAS CIPEC 12559"
+    },
+    {
+        "id": "P3123",
+        "name": "DEFLECTOR BRIDA PIÑON DIFERENCIAL / CARDAN Y SALIDA DE CAJA CIPEC",
+        "brand": "Scania",
+        "code": "12561",
+        "image": "img/products/Scania 111/deflector-brida-pinon-diferencial-cardan-y-salida-de-caja-cipec-12561.jpg",
+        "description": "DEFLECTOR BRIDA PIÑON DIFERENCIAL / CARDAN Y SALIDA DE CAJA CIPEC 12561"
+    },
+    {
+        "id": "P3124",
+        "name": "BULON DE BIELA DE MOTOR CIPEC",
+        "brand": "Scania",
+        "code": "12562",
+        "image": "img/products/Scania 111/bulon-de-biela-de-motor-cipec-12562.jpg",
+        "description": "BULON DE BIELA DE MOTOR CIPEC 12562"
+    },
+    {
+        "id": "P3125",
+        "name": "BUJE ELASTICO DELANTERO CIPEC",
+        "brand": "Scania",
+        "code": "12546",
+        "image": "img/products/Scania 111/buje-elastico-delantero-cipec-12546.jpg",
+        "description": "BUJE ELASTICO DELANTERO CIPEC 12546"
+    },
+    {
+        "id": "P3126",
+        "name": "CAPUCHON DE PROTECCION PARA VALVULA NIVELADORA KNORR BEL-AR",
+        "brand": "Scania",
+        "code": "1250",
+        "image": "img/products/Scania 111/capuchon-de-proteccion-para-valvula-niveladora-knorr-bel-ar-1250.jpg",
+        "description": "CAPUCHON DE PROTECCION PARA VALVULA NIVELADORA KNORR BEL-AR 1250"
+    },
+    {
+        "id": "P3127",
+        "name": "REP. VALVULA DESCARGA RAPIDA KNORR COMPLETA QUINELATO",
+        "brand": "Scania",
+        "code": "1249",
+        "image": "img/products/Scania 111/rep-valvula-descarga-rapida-knorr-completa-quinelato-1249.jpg",
+        "description": "REP. VALVULA DESCARGA RAPIDA KNORR COMPLETA QUINELATO 1249"
+    },
+    {
+        "id": "P3128",
+        "name": "EMBOLO DE ACCIONAMIENTO PARA VALVULA DRENAJE AUTOMATICO KNORR TIPO EE4116 BEL-AR",
+        "brand": "Scania",
+        "code": "1241",
+        "image": "img/products/Scania 111/embolo-de-accionamiento-para-valvula-drenaje-automatico-knorr-tipo-ee4116-bel-ar-1241.jpg",
+        "description": "EMBOLO DE ACCIONAMIENTO PARA VALVULA DRENAJE AUTOMATICO KNORR TIPO EE4116 BEL-AR 1241"
+    },
+    {
+        "id": "P3129",
+        "name": "EMBOLO PARA VALVULA DRENAJE AUTOMATICO KNORR TIPO EE4116 BEL-AR",
+        "brand": "Scania",
+        "code": "1240",
+        "image": "img/products/Scania 111/embolo-para-valvula-drenaje-automatico-knorr-tipo-ee4116-bel-ar-1240.jpg",
+        "description": "EMBOLO PARA VALVULA DRENAJE AUTOMATICO KNORR TIPO EE4116 BEL-AR 1240"
+    },
+    {
+        "id": "P3130",
+        "name": "BOMBA LIMPIAPARABRISAS 24V. IMP.",
+        "brand": "Scania",
+        "code": "12351",
+        "image": "img/products/Scania 111/bomba-limpiaparabrisas-24v-imp-12351.jpg",
+        "description": "BOMBA LIMPIAPARABRISAS 24V. IMP. 12351"
+    },
+    {
+        "id": "P3131",
+        "name": "REP. TAPA COMPRESOR BENDIX 63.50MM. BEL-AR",
+        "brand": "Scania",
+        "code": "1214",
+        "image": "img/products/Scania 111/rep-tapa-compresor-bendix-63-50mm-bel-ar-1214.jpg",
+        "description": "REP. TAPA COMPRESOR BENDIX 63.50MM. BEL-AR 1214"
+    },
+    {
+        "id": "P3132",
+        "name": "REJILLA PROTECTORA INFERIOR IMP.",
+        "brand": "Scania",
+        "code": "12050",
+        "image": "img/products/Scania 111/rejilla-protectora-inferior-imp-12050.jpg",
+        "description": "REJILLA PROTECTORA INFERIOR IMP. 12050"
+    },
+    {
+        "id": "P3133",
+        "name": "RETEN RUEDA TRASERA INTERIOR SABO",
+        "brand": "Scania",
+        "code": "11969",
+        "image": "img/products/Scania 111/reten-rueda-trasera-interior-sabo-11969.jpg",
+        "description": "RETEN RUEDA TRASERA INTERIOR SABO 11969"
+    },
+    {
+        "id": "P3134",
+        "name": "JUNTA RADIADOR ACEITE SABO",
+        "brand": "Scania",
+        "code": "11922",
+        "image": "img/products/Scania 111/junta-radiador-aceite-sabo-11922.jpg",
+        "description": "JUNTA RADIADOR ACEITE SABO 11922"
+    },
+    {
+        "id": "P3135",
+        "name": "DISCO LISO CON DENTADO INTERNO SINCRONIZADO CAJA DE CAMBIOS CINPAL",
+        "brand": "Scania",
+        "code": "11707",
+        "image": "img/products/Scania 111/disco-liso-con-dentado-interno-sincronizado-caja-de-cambios-cinpal-11707.jpg",
+        "description": "DISCO LISO CON DENTADO INTERNO SINCRONIZADO CAJA DE CAMBIOS CINPAL 11707"
+    },
+    {
+        "id": "P3136",
+        "name": "DISCO DENTADO EXTERNO SINCRONIZADO CAJA DE CAMBIOS CINPAL",
+        "brand": "Scania",
+        "code": "11708",
+        "image": "img/products/Scania 111/disco-dentado-externo-sincronizado-caja-de-cambios-cinpal-11708.jpg",
+        "description": "DISCO DENTADO EXTERNO SINCRONIZADO CAJA DE CAMBIOS CINPAL 11708"
+    },
+    {
+        "id": "P3137",
+        "name": "CUERPO INTERIOR SINCRONIZADO / 26MM. CINPAL",
+        "brand": "Scania",
+        "code": "11697",
+        "image": "img/products/Scania 111/cuerpo-interior-sincronizado-26mm-cinpal-11697.jpg",
+        "description": "CUERPO INTERIOR SINCRONIZADO / 26MM. CINPAL 11697"
+    },
+    {
+        "id": "P3138",
+        "name": "PUÑO REDONDO NEGRO PARA VALVULA FRENO DE MANO WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1166",
+        "image": "img/products/Scania 111/puno-redondo-negro-para-valvula-freno-de-mano-wabco-quinelato-1166.jpg",
+        "description": "PUÑO REDONDO NEGRO PARA VALVULA FRENO DE MANO WABCO QUINELATO 1166"
+    },
+    {
+        "id": "P3139",
+        "name": "TUBO DESCARGA PARA VALVULA FRENO DE MANO WABCO BEL-AR",
+        "brand": "Scania",
+        "code": "1163",
+        "image": "img/products/Scania 111/tubo-descarga-para-valvula-freno-de-mano-wabco-bel-ar-1163.jpg",
+        "description": "TUBO DESCARGA PARA VALVULA FRENO DE MANO WABCO BEL-AR 1163"
+    },
+    {
+        "id": "P3140",
+        "name": "ANILLO SINCRONIZADO DE 1º A 5º CINPAL",
+        "brand": "Scania",
+        "code": "11644",
+        "image": "img/products/Scania 111/anillo-sincronizado-de-1-a-5-cinpal-11644.jpg",
+        "description": "ANILLO SINCRONIZADO DE 1º A 5º CINPAL 11644"
+    },
+    {
+        "id": "P3141",
+        "name": "ENGRANAJE SOLAR / 17 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "11560",
+        "image": "img/products/Scania 111/engranaje-solar-17-dientes-cinpal-11560.jpg",
+        "description": "ENGRANAJE SOLAR / 17 DIENTES CINPAL 11560"
+    },
+    {
+        "id": "P3142",
+        "name": "ENGRANAJE 1º MOVIL / 34 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "11570",
+        "image": "img/products/Scania 111/engranaje-1-movil-34-dientes-cinpal-11570.jpg",
+        "description": "ENGRANAJE 1º MOVIL / 34 DIENTES CINPAL 11570"
+    },
+    {
+        "id": "P3143",
+        "name": "MINIRELAY AUXILIAR 24V. REVERSOR CON RESISTOR / 5 TERMINALES / 20/30 AMP TOP RELAY",
+        "brand": "Scania",
+        "code": "11509",
+        "image": "img/products/Scania 111/minirelay-auxiliar-24v-reversor-con-resistor-5-terminales-20-30-amp-top-relay-11509.jpg",
+        "description": "MINIRELAY AUXILIAR 24V. REVERSOR CON RESISTOR / 5 TERMINALES / 20/30 AMP TOP RELAY 11509"
+    },
+    {
+        "id": "P3144",
+        "name": "REP. VALVULA DISTRIBUIDORA WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "1145",
+        "image": "img/products/Scania 111/rep-valvula-distribuidora-wabco-quinelato-1145.jpg",
+        "description": "REP. VALVULA DISTRIBUIDORA WABCO QUINELATO 1145"
+    },
+    {
+        "id": "P3145",
+        "name": "TRABA FILTRO DIRECCION HIDRAULICA EN DEPOSITO RESERPLASTIC",
+        "brand": "Scania",
+        "code": "11431",
+        "image": "img/products/Scania 111/traba-filtro-direccion-hidraulica-en-deposito-reserplastic-11431.jpg",
+        "description": "TRABA FILTRO DIRECCION HIDRAULICA EN DEPOSITO RESERPLASTIC 11431"
+    },
+    {
+        "id": "P3146",
+        "name": "JGO. JUNTAS COMPRESOR VARGA 70MM. EL1300/1600 QUINELATO",
+        "brand": "Scania",
+        "code": "11352",
+        "image": "img/products/Scania 111/jgo-juntas-compresor-varga-70mm-el1300-1600-quinelato-11352.jpg",
+        "description": "JGO. JUNTAS COMPRESOR VARGA 70MM. EL1300/1600 QUINELATO 11352"
+    },
+    {
+        "id": "P3147",
+        "name": "PISTON VALVULA RELAY WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "11353",
+        "image": "img/products/Scania 111/piston-valvula-relay-wabco-quinelato-11353.jpg",
+        "description": "PISTON VALVULA RELAY WABCO QUINELATO 11353"
+    },
+    {
+        "id": "P3148",
+        "name": "REP. VALVULA GOBERNADORA DE COMPRESOR BENDIX QUINELATO",
+        "brand": "Scania",
+        "code": "1136",
+        "image": "img/products/Scania 111/rep-valvula-gobernadora-de-compresor-bendix-quinelato-1136.jpg",
+        "description": "REP. VALVULA GOBERNADORA DE COMPRESOR BENDIX QUINELATO 1136"
+    },
+    {
+        "id": "P3149",
+        "name": "REPARACION DEPOSITO LIQUIDO DIRECCION HIDRAULICA INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "1130",
+        "image": "img/products/Scania 111/reparacion-deposito-liquido-direccion-hidraulica-industria-argentina-1130.jpg",
+        "description": "REPARACION DEPOSITO LIQUIDO DIRECCION HIDRAULICA INDUSTRIA ARGENTINA 1130"
+    },
+    {
+        "id": "P3150",
+        "name": "GALON GUARDABARRO CIPEC",
+        "brand": "Scania",
+        "code": "11285",
+        "image": "img/products/Scania 111/galon-guardabarro-cipec-11285.jpg",
+        "description": "GALON GUARDABARRO CIPEC 11285"
+    },
+    {
+        "id": "P3151",
+        "name": "SOPORTE MOTOR DELANTERO / CAJA DE VELOCIDAD SUPORTE REI",
+        "brand": "Scania",
+        "code": "1126",
+        "image": "img/products/Scania 111/soporte-motor-delantero-caja-de-velocidad-suporte-rei-1126.jpg",
+        "description": "SOPORTE MOTOR DELANTERO / CAJA DE VELOCIDAD SUPORTE REI 1126"
+    },
+    {
+        "id": "P3152",
+        "name": "PISTA RODAMIENTO CAJA 3º Y 4º / DIAM. 46MM. CINPAL",
+        "brand": "Scania",
+        "code": "10806",
+        "image": "img/products/Scania 111/pista-rodamiento-caja-3-y-4-diam-46mm-cinpal-10806.jpg",
+        "description": "PISTA RODAMIENTO CAJA 3º Y 4º / DIAM. 46MM. CINPAL 10806"
+    },
+    {
+        "id": "P3153",
+        "name": "ACOPLE SINCRONIZADO ALTA Y BAJA 50 DIENTES / GRUPO PLANETARIO CINPAL",
+        "brand": "Scania",
+        "code": "10817",
+        "image": "img/products/Scania 111/acople-sincronizado-alta-y-baja-50-dientes-grupo-planetario-cinpal-10817.jpg",
+        "description": "ACOPLE SINCRONIZADO ALTA Y BAJA 50 DIENTES / GRUPO PLANETARIO CINPAL 10817"
+    },
+    {
+        "id": "P3154",
+        "name": "DISCO ACOPLE DE BAJA / GRUPO PLANETARIO CINPAL",
+        "brand": "Scania",
+        "code": "10818",
+        "image": "img/products/Scania 111/disco-acople-de-baja-grupo-planetario-cinpal-10818.jpg",
+        "description": "DISCO ACOPLE DE BAJA / GRUPO PLANETARIO CINPAL 10818"
+    },
+    {
+        "id": "P3155",
+        "name": "ACOPLE CORONA BAJA / GRUPO PLANETARIO CINPAL",
+        "brand": "Scania",
+        "code": "10782",
+        "image": "img/products/Scania 111/acople-corona-baja-grupo-planetario-cinpal-10782.jpg",
+        "description": "ACOPLE CORONA BAJA / GRUPO PLANETARIO CINPAL 10782"
+    },
+    {
+        "id": "P3156",
+        "name": "EJE SALIDA CAJA BAJA CINPAL",
+        "brand": "Scania",
+        "code": "10769",
+        "image": "img/products/Scania 111/eje-salida-caja-baja-cinpal-10769.jpg",
+        "description": "EJE SALIDA CAJA BAJA CINPAL 10769"
+    },
+    {
+        "id": "P3157",
+        "name": "ENGRANAJE INTERIOR 4º Y 5º CINPAL",
+        "brand": "Scania",
+        "code": "10770",
+        "image": "img/products/Scania 111/engranaje-interior-4-y-5-cinpal-10770.jpg",
+        "description": "ENGRANAJE INTERIOR 4º Y 5º CINPAL 10770"
+    },
+    {
+        "id": "P3158",
+        "name": "ENGRANAJE INTERIOR 2º, 3º Y MARCHA ATRAS CINPAL",
+        "brand": "Scania",
+        "code": "10771",
+        "image": "img/products/Scania 111/engranaje-interior-2-3-y-marcha-atras-cinpal-10771.jpg",
+        "description": "ENGRANAJE INTERIOR 2º, 3º Y MARCHA ATRAS CINPAL 10771"
+    },
+    {
+        "id": "P3159",
+        "name": "ACOPLE SOLAR / GRUPO PLANETARIO CINPAL",
+        "brand": "Scania",
+        "code": "10772",
+        "image": "img/products/Scania 111/acople-solar-grupo-planetario-cinpal-10772.jpg",
+        "description": "ACOPLE SOLAR / GRUPO PLANETARIO CINPAL 10772"
+    },
+    {
+        "id": "P3160",
+        "name": "ACOPLE SINCRONIZADO LISO 1º, 2º, 3º, 4º, 5º CINPAL",
+        "brand": "Scania",
+        "code": "10773",
+        "image": "img/products/Scania 111/acople-sincronizado-liso-1-2-3-4-5-cinpal-10773.jpg",
+        "description": "ACOPLE SINCRONIZADO LISO 1º, 2º, 3º, 4º, 5º CINPAL 10773"
+    },
+    {
+        "id": "P3161",
+        "name": "CARCAZA PORTA DISCOS / GRUPO PLANETARIO CINPAL",
+        "brand": "Scania",
+        "code": "10774",
+        "image": "img/products/Scania 111/carcaza-porta-discos-grupo-planetario-cinpal-10774.jpg",
+        "description": "CARCAZA PORTA DISCOS / GRUPO PLANETARIO CINPAL 10774"
+    },
+    {
+        "id": "P3162",
+        "name": "PLACA PRESION SINCRONIZADO ALTA Y BAJA CINPAL",
+        "brand": "Scania",
+        "code": "10775",
+        "image": "img/products/Scania 111/placa-presion-sincronizado-alta-y-baja-cinpal-10775.jpg",
+        "description": "PLACA PRESION SINCRONIZADO ALTA Y BAJA CINPAL 10775"
+    },
+    {
+        "id": "P3163",
+        "name": "ENGRANAJE IMPULSOR / GRUPO PLANETARIO CINPAL",
+        "brand": "Scania",
+        "code": "10781",
+        "image": "img/products/Scania 111/engranaje-impulsor-grupo-planetario-cinpal-10781.jpg",
+        "description": "ENGRANAJE IMPULSOR / GRUPO PLANETARIO CINPAL 10781"
+    },
+    {
+        "id": "P3164",
+        "name": "DIRECTA / 23 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10755",
+        "image": "img/products/Scania 111/directa-23-dientes-cinpal-10755.jpg",
+        "description": "DIRECTA / 23 DIENTES CINPAL 10755"
+    },
+    {
+        "id": "P3165",
+        "name": "DIRECTA / 23 DIENTES / BI-DISCO CINPAL",
+        "brand": "Scania",
+        "code": "10756",
+        "image": "img/products/Scania 111/directa-23-dientes-bi-disco-cinpal-10756.jpg",
+        "description": "DIRECTA / 23 DIENTES / BI-DISCO CINPAL 10756"
+    },
+    {
+        "id": "P3166",
+        "name": "EJE ACANALADO CINPAL",
+        "brand": "Scania",
+        "code": "10761",
+        "image": "img/products/Scania 111/eje-acanalado-cinpal-10761.jpg",
+        "description": "EJE ACANALADO CINPAL 10761"
+    },
+    {
+        "id": "P3167",
+        "name": "CUADRUPLE / 17 Y 19 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10762",
+        "image": "img/products/Scania 111/cuadruple-17-y-19-dientes-cinpal-10762.jpg",
+        "description": "CUADRUPLE / 17 Y 19 DIENTES CINPAL 10762"
+    },
+    {
+        "id": "P3168",
+        "name": "ENGRANAJE 3º FIJO / 30 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10710",
+        "image": "img/products/Scania 111/engranaje-3-fijo-30-dientes-cinpal-10710.jpg",
+        "description": "ENGRANAJE 3º FIJO / 30 DIENTES CINPAL 10710"
+    },
+    {
+        "id": "P3169",
+        "name": "ENGRANAJE 3º MOVIL / 30 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10711",
+        "image": "img/products/Scania 111/engranaje-3-movil-30-dientes-cinpal-10711.jpg",
+        "description": "ENGRANAJE 3º MOVIL / 30 DIENTES CINPAL 10711"
+    },
+    {
+        "id": "P3170",
+        "name": "ENGRANAJE 5º INFERIOR / 41 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10712",
+        "image": "img/products/Scania 111/engranaje-5-inferior-41-dientes-cinpal-10712.jpg",
+        "description": "ENGRANAJE 5º INFERIOR / 41 DIENTES CINPAL 10712"
+    },
+    {
+        "id": "P3171",
+        "name": "ENGRANAJE 2º FIJO / 24 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10713",
+        "image": "img/products/Scania 111/engranaje-2-fijo-24-dientes-cinpal-10713.jpg",
+        "description": "ENGRANAJE 2º FIJO / 24 DIENTES CINPAL 10713"
+    },
+    {
+        "id": "P3172",
+        "name": "ENGRANAJE 1º MOVIL / 24 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10715",
+        "image": "img/products/Scania 111/engranaje-1-movil-24-dientes-cinpal-10715.jpg",
+        "description": "ENGRANAJE 1º MOVIL / 24 DIENTES CINPAL 10715"
+    },
+    {
+        "id": "P3173",
+        "name": "ENGRANAJE MARCHA ATRAS / 25 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10716",
+        "image": "img/products/Scania 111/engranaje-marcha-atras-25-dientes-cinpal-10716.jpg",
+        "description": "ENGRANAJE MARCHA ATRAS / 25 DIENTES CINPAL 10716"
+    },
+    {
+        "id": "P3174",
+        "name": "ENGRANAJE 2º MOVIL / 32 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10718",
+        "image": "img/products/Scania 111/engranaje-2-movil-32-dientes-cinpal-10718.jpg",
+        "description": "ENGRANAJE 2º MOVIL / 32 DIENTES CINPAL 10718"
+    },
+    {
+        "id": "P3175",
+        "name": "ENGRANAJE PLANETARIO 19 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10706",
+        "image": "img/products/Scania 111/engranaje-planetario-19-dientes-cinpal-10706.jpg",
+        "description": "ENGRANAJE PLANETARIO 19 DIENTES CINPAL 10706"
+    },
+    {
+        "id": "P3176",
+        "name": "ENGRANAJE SOLAR / 17 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10707",
+        "image": "img/products/Scania 111/engranaje-solar-17-dientes-cinpal-10707.jpg",
+        "description": "ENGRANAJE SOLAR / 17 DIENTES CINPAL 10707"
+    },
+    {
+        "id": "P3177",
+        "name": "ENGRANAJE 4º FIJO / 36 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10708",
+        "image": "img/products/Scania 111/engranaje-4-fijo-36-dientes-cinpal-10708.jpg",
+        "description": "ENGRANAJE 4º FIJO / 36 DIENTES CINPAL 10708"
+    },
+    {
+        "id": "P3178",
+        "name": "ENGRANAJE 4º MOVIL / 27 DIENTES CINPAL",
+        "brand": "Scania",
+        "code": "10709",
+        "image": "img/products/Scania 111/engranaje-4-movil-27-dientes-cinpal-10709.jpg",
+        "description": "ENGRANAJE 4º MOVIL / 27 DIENTES CINPAL 10709"
+    },
+    {
+        "id": "P3179",
+        "name": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRÁS CINPAL",
+        "brand": "Scania",
+        "code": "10683",
+        "image": "img/products/Scania 111/conjunto-sincronizado-1-y-marcha-atras-cinpal-10683.jpg",
+        "description": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRÁS CINPAL 10683"
+    },
+    {
+        "id": "P3180",
+        "name": "CONJUNTO SINCRONIZADO 2º / 3º / 4º / 5º CINPAL",
+        "brand": "Scania",
+        "code": "10684",
+        "image": "img/products/Scania 111/conjunto-sincronizado-2-3-4-5-cinpal-10684.jpg",
+        "description": "CONJUNTO SINCRONIZADO 2º / 3º / 4º / 5º CINPAL 10684"
+    },
+    {
+        "id": "P3181",
+        "name": "CONJUNTO SINCRONIZADO ALTA Y BAJA CINPAL",
+        "brand": "Scania",
+        "code": "10685",
+        "image": "img/products/Scania 111/conjunto-sincronizado-alta-y-baja-cinpal-10685.jpg",
+        "description": "CONJUNTO SINCRONIZADO ALTA Y BAJA CINPAL 10685"
+    },
+    {
+        "id": "P3182",
+        "name": "TAPON TAPA CILINDRO CIPEC",
+        "brand": "Scania",
+        "code": "10639",
+        "image": "img/products/Scania 111/tapon-tapa-cilindro-cipec-10639.jpg",
+        "description": "TAPON TAPA CILINDRO CIPEC 10639"
+    },
+    {
+        "id": "P3183",
+        "name": "ORING CODO TAPA INFERIOR TANQUE COMBUSTIBLE / VALVULA SELENOIDE CIPEC",
+        "brand": "Scania",
+        "code": "10620",
+        "image": "img/products/Scania 111/oring-codo-tapa-inferior-tanque-combustible-valvula-selenoide-cipec-10620.jpg",
+        "description": "ORING CODO TAPA INFERIOR TANQUE COMBUSTIBLE / VALVULA SELENOIDE CIPEC 10620"
+    },
+    {
+        "id": "P3184",
+        "name": "JGO. ARANDELAS SATELITE Y PLANETARIO CIPEC",
+        "brand": "Scania",
+        "code": "10622",
+        "image": "img/products/Scania 111/jgo-arandelas-satelite-y-planetario-cipec-10622.jpg",
+        "description": "JGO. ARANDELAS SATELITE Y PLANETARIO CIPEC 10622"
+    },
+    {
+        "id": "P3185",
+        "name": "TUBO LUBRICACION DIRECTA CIPEC",
+        "brand": "Scania",
+        "code": "10623",
+        "image": "img/products/Scania 111/tubo-lubricacion-directa-cipec-10623.jpg",
+        "description": "TUBO LUBRICACION DIRECTA CIPEC 10623"
+    },
+    {
+        "id": "P3186",
+        "name": "ENGRANAJE COMPRESOR CIPEC",
+        "brand": "Scania",
+        "code": "10625",
+        "image": "img/products/Scania 111/engranaje-compresor-cipec-10625.jpg",
+        "description": "ENGRANAJE COMPRESOR CIPEC 10625"
+    },
+    {
+        "id": "P3187",
+        "name": "CHAVETA ARBOL DE LEVAS CIPEC",
+        "brand": "Scania",
+        "code": "10636",
+        "image": "img/products/Scania 111/chaveta-arbol-de-levas-cipec-10636.jpg",
+        "description": "CHAVETA ARBOL DE LEVAS CIPEC 10636"
+    },
+    {
+        "id": "P3188",
+        "name": "MANGUERA SUPERIOR DE RADIADOR 45 X 300MM. CIPEC",
+        "brand": "Scania",
+        "code": "10611",
+        "image": "img/products/Scania 111/manguera-superior-de-radiador-45-x-300mm-cipec-10611.jpg",
+        "description": "MANGUERA SUPERIOR DE RADIADOR 45 X 300MM. CIPEC 10611"
+    },
+    {
+        "id": "P3189",
+        "name": "MANGUERA FILTRO ACEITE CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "10612",
+        "image": "img/products/Scania 111/manguera-filtro-aceite-caja-de-cambios-cipec-10612.jpg",
+        "description": "MANGUERA FILTRO ACEITE CAJA DE CAMBIOS CIPEC 10612"
+    },
+    {
+        "id": "P3190",
+        "name": "RESORTE PERNO TRABA SINCRONIZADO DE BAJA CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "10614",
+        "image": "img/products/Scania 111/resorte-perno-traba-sincronizado-de-baja-caja-de-cambios-cipec-10614.jpg",
+        "description": "RESORTE PERNO TRABA SINCRONIZADO DE BAJA CAJA DE CAMBIOS CIPEC 10614"
+    },
+    {
+        "id": "P3191",
+        "name": "TUERCA CLIP ALFOMBRAS / USOS VARIOS CIPEC",
+        "brand": "Scania",
+        "code": "10615",
+        "image": "img/products/Scania 111/tuerca-clip-alfombras-usos-varios-cipec-10615.jpg",
+        "description": "TUERCA CLIP ALFOMBRAS / USOS VARIOS CIPEC 10615"
+    },
+    {
+        "id": "P3192",
+        "name": "PASADOR / CLIP BANCADA DIFERENCIAL CIPEC",
+        "brand": "Scania",
+        "code": "10617",
+        "image": "img/products/Scania 111/pasador-clip-bancada-diferencial-cipec-10617.jpg",
+        "description": "PASADOR / CLIP BANCADA DIFERENCIAL CIPEC 10617"
+    },
+    {
+        "id": "P3193",
+        "name": "PISTON BOMBA ACEITE CON RESORTE CIPEC",
+        "brand": "Scania",
+        "code": "10618",
+        "image": "img/products/Scania 111/piston-bomba-aceite-con-resorte-cipec-10618.jpg",
+        "description": "PISTON BOMBA ACEITE CON RESORTE CIPEC 10618"
+    },
+    {
+        "id": "P3194",
+        "name": "REP. VALVULA FRENO DE MANO WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "10528",
+        "image": "img/products/Scania 111/rep-valvula-freno-de-mano-wabco-quinelato-10528.jpg",
+        "description": "REP. VALVULA FRENO DE MANO WABCO QUINELATO 10528"
+    },
+    {
+        "id": "P3195",
+        "name": "REP. VALVULA FRENO DE MANO WABCO QUINELATO",
+        "brand": "Scania",
+        "code": "10529",
+        "image": "img/products/Scania 111/rep-valvula-freno-de-mano-wabco-quinelato-10529.jpg",
+        "description": "REP. VALVULA FRENO DE MANO WABCO QUINELATO 10529"
+    },
+    {
+        "id": "P3196",
+        "name": "RETEN RUEDA DELANTERA INTERIOR SABO",
+        "brand": "Scania",
+        "code": "10418",
+        "image": "img/products/Scania 111/reten-rueda-delantera-interior-sabo-10418.jpg",
+        "description": "RETEN RUEDA DELANTERA INTERIOR SABO 10418"
+    },
+    {
+        "id": "P3197",
+        "name": "RETEN PIÑON DIFERENCIAL SABO",
+        "brand": "Scania",
+        "code": "10424",
+        "image": "img/products/Scania 111/reten-pinon-diferencial-sabo-10424.jpg",
+        "description": "RETEN PIÑON DIFERENCIAL SABO 10424"
+    },
+    {
+        "id": "P3198",
+        "name": "RETEN RUEDA TRASERA EXTERIOR SABO",
+        "brand": "Scania",
+        "code": "10425",
+        "image": "img/products/Scania 111/reten-rueda-trasera-exterior-sabo-10425.jpg",
+        "description": "RETEN RUEDA TRASERA EXTERIOR SABO 10425"
+    },
+    {
+        "id": "P3199",
+        "name": "RETEN DE VALVULA SABO",
+        "brand": "Scania",
+        "code": "10367",
+        "image": "img/products/Scania 111/reten-de-valvula-sabo-10367.jpg",
+        "description": "RETEN DE VALVULA SABO 10367"
+    },
+    {
+        "id": "P3200",
+        "name": "RETEN SELECTORA CAJA DE CAMBIOS SABO",
+        "brand": "Scania",
+        "code": "10347",
+        "image": "img/products/Scania 111/reten-selectora-caja-de-cambios-sabo-10347.jpg",
+        "description": "RETEN SELECTORA CAJA DE CAMBIOS SABO 10347"
+    },
+    {
+        "id": "P3201",
+        "name": "RETEN CAJA DIRECCION HIDRAULICA ZF SABO",
+        "brand": "Scania",
+        "code": "10291",
+        "image": "img/products/Scania 111/reten-caja-direccion-hidraulica-zf-sabo-10291.jpg",
+        "description": "RETEN CAJA DIRECCION HIDRAULICA ZF SABO 10291"
+    },
+    {
+        "id": "P3202",
+        "name": "RETEN DISTRIBUCION SABO",
+        "brand": "Scania",
+        "code": "10300",
+        "image": "img/products/Scania 111/reten-distribucion-sabo-10300.jpg",
+        "description": "RETEN DISTRIBUCION SABO 10300"
+    },
+    {
+        "id": "P3203",
+        "name": "PERNO GUIA TRABA SINCRONIZADO ALTA Y BAJA / CILINDRO CAJA CAMBIOS OPTICRUISE CIPEC",
+        "brand": "Scania",
+        "code": "10253",
+        "image": "img/products/Scania 111/perno-guia-traba-sincronizado-alta-y-baja-cilindro-caja-cambios-opticruise-cipec-10253.jpg",
+        "description": "PERNO GUIA TRABA SINCRONIZADO ALTA Y BAJA / CILINDRO CAJA CAMBIOS OPTICRUISE CIPEC 10253"
+    },
+    {
+        "id": "P3204",
+        "name": "ORING LEVA DE FRENO / ROJO CIPEC",
+        "brand": "Scania",
+        "code": "10244",
+        "image": "img/products/Scania 111/oring-leva-de-freno-rojo-cipec-10244.jpg",
+        "description": "ORING LEVA DE FRENO / ROJO CIPEC 10244"
+    },
+    {
+        "id": "P3205",
+        "name": "BULON SINCRONIZADO CAJA DE CAMBIOS CIPEC",
+        "brand": "Scania",
+        "code": "10248",
+        "image": "img/products/Scania 111/bulon-sincronizado-caja-de-cambios-cipec-10248.jpg",
+        "description": "BULON SINCRONIZADO CAJA DE CAMBIOS CIPEC 10248"
+    },
+    {
+        "id": "P3206",
+        "name": "BULON LUBRICACION PICO REFRIGERACION PISTON MOTOR CIPEC",
+        "brand": "Scania",
+        "code": "10219",
+        "image": "img/products/Scania 111/bulon-lubricacion-pico-refrigeracion-piston-motor-cipec-10219.jpg",
+        "description": "BULON LUBRICACION PICO REFRIGERACION PISTON MOTOR CIPEC 10219"
+    },
+    {
+        "id": "P3207",
+        "name": "TAPON PURGADOR TANQUE DE AIRE R22 X 1.5MM. TKL",
+        "brand": "Scania",
+        "code": "1006",
+        "image": "img/products/Scania 111/tapon-purgador-tanque-de-aire-r22-x-1-5mm-tkl-1006.jpg",
+        "description": "TAPON PURGADOR TANQUE DE AIRE R22 X 1.5MM. TKL 1006"
+    },
+    {
+        "id": "P3208",
+        "name": "MACHO CARDAN / 16 ESTRIAS X 50.8MM. / DIAM. TUBO 81.2MM / LARGO 239MM. TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "0971",
+        "image": "img/products/Scania 111/macho-cardan-16-estrias-x-50-8mm-diam-tubo-81-2mm-largo-239mm-tf-p-technology-0971.jpg",
+        "description": "MACHO CARDAN / 16 ESTRIAS X 50.8MM. / DIAM. TUBO 81.2MM / LARGO 239MM. TF&P TECHNOLOGY 0971"
+    },
+    {
+        "id": "P3209",
+        "name": "MACHO CARDAN 12 ESTRIAS ACERO REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "0959",
+        "image": "img/products/Scania 111/macho-cardan-12-estrias-acero-rei-autoparts-0959.jpg",
+        "description": "MACHO CARDAN 12 ESTRIAS ACERO REI AUTOPARTS 0959"
+    },
+    {
+        "id": "P3210",
+        "name": "RETEN RUEDA TRASERA INTERIOR / ARTILLERA ELRING",
+        "brand": "Scania",
+        "code": "0933",
+        "image": "img/products/Scania 111/reten-rueda-trasera-interior-artillera-elring-0933.jpg",
+        "description": "RETEN RUEDA TRASERA INTERIOR / ARTILLERA ELRING 0933"
+    },
+    {
+        "id": "P3211",
+        "name": "JUNTA TAPA CILINDROS / ESPESOR 1.3MM. ELRING",
+        "brand": "Scania",
+        "code": "0923",
+        "image": "img/products/Scania 111/junta-tapa-cilindros-espesor-1-3mm-elring-0923.jpg",
+        "description": "JUNTA TAPA CILINDROS / ESPESOR 1.3MM. ELRING 0923"
+    },
+    {
+        "id": "P3212",
+        "name": "TERMOSTATO 75º WAHLER",
+        "brand": "Scania",
+        "code": "0870",
+        "image": "img/products/Scania 111/termostato-75-wahler-0870.jpg",
+        "description": "TERMOSTATO 75º WAHLER 0870"
+    },
+    {
+        "id": "P3213",
+        "name": "REDUCTOR ANGULAR 1:1.000 VDO",
+        "brand": "Scania",
+        "code": "0848",
+        "image": "img/products/Scania 111/reductor-angular-1-1-000-vdo-0848.jpg",
+        "description": "REDUCTOR ANGULAR 1:1.000 VDO 0848"
+    },
+    {
+        "id": "P3214",
+        "name": "HEMBRA CARDAN 12 ESTRIAS / ACERO REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "0771",
+        "image": "img/products/Scania 111/hembra-cardan-12-estrias-acero-rei-autoparts-0771.jpg",
+        "description": "HEMBRA CARDAN 12 ESTRIAS / ACERO REI AUTOPARTS 0771"
+    },
+    {
+        "id": "P3215",
+        "name": "HEMBRA CARDAN / 16 ESTRIAS / DIAM. 51MM / LARGO 240MM. / DADO 44MM. TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "0758",
+        "image": "img/products/Scania 111/hembra-cardan-16-estrias-diam-51mm-largo-240mm-dado-44mm-tf-p-technology-0758.jpg",
+        "description": "HEMBRA CARDAN / 16 ESTRIAS / DIAM. 51MM / LARGO 240MM. / DADO 44MM. TF&P TECHNOLOGY 0758"
+    },
+    {
+        "id": "P3216",
+        "name": "BULBO PRESION DE ACEITE / R14 X 1.5MM. 3-RHO",
+        "brand": "Scania",
+        "code": "0764",
+        "image": "img/products/Scania 111/bulbo-presion-de-aceite-r14-x-1-5mm-3-rho-0764.jpg",
+        "description": "BULBO PRESION DE ACEITE / R14 X 1.5MM. 3-RHO 0764"
+    },
+    {
+        "id": "P3217",
+        "name": "MOVIMIENTO EJE COLUMNA DIRECCION TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "0719",
+        "image": "img/products/Scania 111/movimiento-eje-columna-direccion-tf-p-technology-0719.jpg",
+        "description": "MOVIMIENTO EJE COLUMNA DIRECCION TF&P TECHNOLOGY 0719"
+    },
+    {
+        "id": "P3218",
+        "name": "HORQUILLA DE SOLDAR DEL CARDAN / DIAM. TUBO 85MM. / DADO 50MM. REI AUTOPARTS",
+        "brand": "Scania",
+        "code": "0690",
+        "image": "img/products/Scania 111/horquilla-de-soldar-del-cardan-diam-tubo-85mm-dado-50mm-rei-autoparts-0690.jpg",
+        "description": "HORQUILLA DE SOLDAR DEL CARDAN / DIAM. TUBO 85MM. / DADO 50MM. REI AUTOPARTS 0690"
+    },
+    {
+        "id": "P3219",
+        "name": "HORQUILLA DE SOLDAR DEL CARDAN / DIAM. TUBO 81.5MM. / DADO 44MM. TF&P TECHNOLOGY",
+        "brand": "Scania",
+        "code": "0672",
+        "image": "img/products/Scania 111/horquilla-de-soldar-del-cardan-diam-tubo-81-5mm-dado-44mm-tf-p-technology-0672.jpg",
+        "description": "HORQUILLA DE SOLDAR DEL CARDAN / DIAM. TUBO 81.5MM. / DADO 44MM. TF&P TECHNOLOGY 0672"
+    },
+    {
+        "id": "P3220",
+        "name": "REP. SERVOEMBRAGUE KONSBERG 95MM. / ANTIGUO BEL-AR",
+        "brand": "Scania",
+        "code": "0632",
+        "image": "img/products/Scania 111/rep-servoembrague-konsberg-95mm-antiguo-bel-ar-0632.jpg",
+        "description": "REP. SERVOEMBRAGUE KONSBERG 95MM. / ANTIGUO BEL-AR 0632"
+    },
+    {
+        "id": "P3221",
+        "name": "VALVULA GOBERNADORA DE COMPRESOR HALDEX F.S.S",
+        "brand": "Scania",
+        "code": "0583",
+        "image": "img/products/Scania 111/valvula-gobernadora-de-compresor-haldex-f-s-s-0583.jpg",
+        "description": "VALVULA GOBERNADORA DE COMPRESOR HALDEX F.S.S 0583"
+    },
+    {
+        "id": "P3222",
+        "name": "BOMBA DE AGUA RODA",
+        "brand": "Scania",
+        "code": "0549",
+        "image": "img/products/Scania 111/bomba-de-agua-roda-0549.jpg",
+        "description": "BOMBA DE AGUA RODA 0549"
+    },
+    {
+        "id": "P3223",
+        "name": "REP. VALVULA NIVELADORA KNORR BEL-AR",
+        "brand": "Scania",
+        "code": "0457",
+        "image": "img/products/Scania 111/rep-valvula-niveladora-knorr-bel-ar-0457.jpg",
+        "description": "REP. VALVULA NIVELADORA KNORR BEL-AR 0457"
+    },
+    {
+        "id": "P3224",
+        "name": "REP. VALVULA DRENAJE AUTOMATICO KNORR TIPO EE4116 QUINELATO",
+        "brand": "Scania",
+        "code": "0458",
+        "image": "img/products/Scania 111/rep-valvula-drenaje-automatico-knorr-tipo-ee4116-quinelato-0458.jpg",
+        "description": "REP. VALVULA DRENAJE AUTOMATICO KNORR TIPO EE4116 QUINELATO 0458"
+    },
+    {
+        "id": "P3225",
+        "name": "ORING DE CAMISA ELRING",
+        "brand": "Scania",
+        "code": "0370",
+        "image": "img/products/Scania 111/oring-de-camisa-elring-0370.jpg",
+        "description": "ORING DE CAMISA ELRING 0370"
+    },
+    {
+        "id": "P3226",
+        "name": "REP. TAPA COMPRESOR VARGA 70MM. COMPLETA QUINELATO",
+        "brand": "Scania",
+        "code": "0300",
+        "image": "img/products/Scania 111/rep-tapa-compresor-varga-70mm-completa-quinelato-0300.jpg",
+        "description": "REP. TAPA COMPRESOR VARGA 70MM. COMPLETA QUINELATO 0300"
+    },
+    {
+        "id": "P3227",
+        "name": "REP. TAPA COMPRESOR KNORR 92MM. LK3976 QUINELATO",
+        "brand": "Scania",
+        "code": "0309",
+        "image": "img/products/Scania 111/rep-tapa-compresor-knorr-92mm-lk3976-quinelato-0309.jpg",
+        "description": "REP. TAPA COMPRESOR KNORR 92MM. LK3976 QUINELATO 0309"
+    },
+    {
+        "id": "P3228",
+        "name": "MOVIMIENTO EJE COLUMNA DIRECCION STAHL",
+        "brand": "Scania",
+        "code": "0225",
+        "image": "img/products/Scania 111/movimiento-eje-columna-direccion-stahl-0225.jpg",
+        "description": "MOVIMIENTO EJE COLUMNA DIRECCION STAHL 0225"
+    },
+    {
+        "id": "P3229",
+        "name": "PERNO HORQUILLA ALTA Y BAJA / 24 X 1.5 X 34MM. IMP.",
+        "brand": "Scania",
+        "code": "0164",
+        "image": "img/products/Scania 111/perno-horquilla-alta-y-baja-24-x-1-5-x-34mm-imp-0164.jpg",
+        "description": "PERNO HORQUILLA ALTA Y BAJA / 24 X 1.5 X 34MM. IMP. 0164"
+    },
+    {
+        "id": "P3230",
+        "name": "CORONA REGISTRO FRENO AUTOMATICO 10 DIENTES ECKISIL",
+        "brand": "Scania",
+        "code": "0143",
+        "image": "img/products/Scania 111/corona-registro-freno-automatico-10-dientes-eckisil-0143.jpg",
+        "description": "CORONA REGISTRO FRENO AUTOMATICO 10 DIENTES ECKISIL 0143"
+    },
+    {
+        "id": "P3231",
+        "name": "PISTON CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 89MM. INDUSTRIA ARGENTINA",
+        "brand": "Scania",
+        "code": "3933",
+        "image": "img/products/Scania 111/piston-cilindro-control-caja-de-cambios-diam-89mm-industria-argentina-3933.jpg",
+        "description": "PISTON CILINDRO CONTROL CAJA DE CAMBIOS / DIAM. 89MM. INDUSTRIA ARGENTINA 3933"
+    },
+    {
+        "id": "P3232",
+        "name": "COMPRESOR COMPLETO KNORR 92MM. / 360CM3 BEL-AR",
+        "brand": "Scania",
+        "code": "0146",
+        "image": "img/products/Scania 111/compresor-completo-knorr-92mm-360cm3-bel-ar-0146.jpg",
+        "description": "COMPRESOR COMPLETO KNORR 92MM. / 360CM3 BEL-AR 0146"
     }
 ];
 
