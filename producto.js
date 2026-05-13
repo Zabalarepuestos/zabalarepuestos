@@ -48,6 +48,174 @@ const SERIES_PATTERNS = [
     ['6B', /\b6b\b|\bcummins\s*6b\b/i]
 ];
 
+const COMPATIBILITY_RULES = [
+    {
+        key: 'OM352',
+        patterns: [/\bom ?352\b/, /\b1114\b/, /\b1517\b/, /\b1518\b/, /\b1314\b/, /\b1317\b/, /\boh ?1314\b/],
+        defaultModels: ['Mercedes-Benz L 1114', 'Mercedes-Benz L 1517', 'Mercedes-Benz L 1518', 'Mercedes-Benz 1314', 'Mercedes-Benz 1317', 'Mercedes-Benz OH 1314'],
+        modelPatterns: [
+            ['Mercedes-Benz L 1114', [/\b1114\b/, /\bl ?1114\b/]],
+            ['Mercedes-Benz L 1517', [/\b1517\b/, /\bl ?1517\b/]],
+            ['Mercedes-Benz L 1518', [/\b1518\b/, /\bl ?1518\b/]],
+            ['Mercedes-Benz 1314', [/\b1314\b/]],
+            ['Mercedes-Benz 1317', [/\b1317\b/]],
+            ['Mercedes-Benz 1215', [/\b1215\b/]],
+            ['Mercedes-Benz 1620', [/\b1620\b/]],
+            ['Mercedes-Benz OH 1314', [/\boh ?1314\b/]],
+            ['Mercedes-Benz 710', [/\b710\b/]]
+        ]
+    },
+    {
+        key: 'OM366',
+        patterns: [/\bom ?366\b/, /\bom366a\b/, /\bom366la\b/, /\b1215\b/, /\b1418\b/, /\b1420\b/, /\b1620\b/],
+        defaultModels: ['Mercedes-Benz L 1215', 'Mercedes-Benz L 1418', 'Mercedes-Benz L 1420', 'Mercedes-Benz L 1517', 'Mercedes-Benz L 1620', 'Mercedes-Benz OHL 1420', 'Mercedes-Benz OHL 1620'],
+        modelPatterns: [
+            ['Mercedes-Benz L 1215', [/\b1215\b/]],
+            ['Mercedes-Benz L 1418', [/\b1418\b/]],
+            ['Mercedes-Benz L 1420', [/\b1420\b/]],
+            ['Mercedes-Benz L 1517', [/\b1517\b/]],
+            ['Mercedes-Benz L 1620', [/\b1620\b/]],
+            ['Mercedes-Benz OHL 1420', [/\bohl ?1420\b/]],
+            ['Mercedes-Benz OHL 1620', [/\bohl ?1620\b/]]
+        ]
+    },
+    {
+        key: 'OM904',
+        patterns: [/\bom ?904\b/, /\b712c\b/, /\b914c\b/, /\b1215c\b/, /\bof ?1417\b/, /\bof ?1418\b/, /\baccelo\b/],
+        defaultModels: ['Mercedes-Benz 712C', 'Mercedes-Benz 914C', 'Mercedes-Benz 1215C', 'Mercedes-Benz OF 1417', 'Mercedes-Benz OF 1418', 'Mercedes-Benz Accelo'],
+        modelPatterns: [
+            ['Mercedes-Benz 712C', [/\b712c\b/]],
+            ['Mercedes-Benz 914C', [/\b914c\b/]],
+            ['Mercedes-Benz 1215C', [/\b1215c\b/]],
+            ['Mercedes-Benz OF 1417', [/\bof ?1417\b/]],
+            ['Mercedes-Benz OF 1418', [/\bof ?1418\b/]],
+            ['Mercedes-Benz Accelo', [/\baccelo\b/, /\baccello\b/]]
+        ]
+    },
+    {
+        key: 'OM906',
+        patterns: [/\bom ?906\b/, /\batego\b/, /\b1725\b/, /\b2423\b/, /\bo ?500\b/, /\boh ?1618\b/],
+        defaultModels: ['Mercedes-Benz Atego 1725', 'Mercedes-Benz Atego 2423', 'Mercedes-Benz O 500', 'Mercedes-Benz OH 1618', 'Mercedes-Benz OHL 1618'],
+        modelPatterns: [
+            ['Mercedes-Benz Atego 1725', [/\b1725\b/]],
+            ['Mercedes-Benz Atego 2423', [/\b2423\b/]],
+            ['Mercedes-Benz O 500', [/\bo ?500\b/]],
+            ['Mercedes-Benz OH 1618', [/\boh ?1618\b/]],
+            ['Mercedes-Benz OHL 1618', [/\bohl ?1618\b/]]
+        ]
+    },
+    {
+        key: 'OM924',
+        patterns: [/\bom ?924\b/, /\b1721\b/, /\bo ?500u\b/, /\bohl ?1621\b/],
+        defaultModels: ['Mercedes-Benz Atego 1721', 'Mercedes-Benz O 500U', 'Mercedes-Benz OHL 1621'],
+        modelPatterns: [
+            ['Mercedes-Benz Atego 1721', [/\b1721\b/]],
+            ['Mercedes-Benz O 500U', [/\bo ?500u\b/]],
+            ['Mercedes-Benz OHL 1621', [/\bohl ?1621\b/]]
+        ]
+    },
+    {
+        key: 'OM926',
+        patterns: [/\bom ?926\b/, /\baxor\b/, /\b1933\b/, /\b1726\b/, /\bo ?500\b/],
+        defaultModels: ['Mercedes-Benz Axor 1933', 'Mercedes-Benz Atego 1726', 'Mercedes-Benz O 500', 'Mercedes-Benz O 500U'],
+        modelPatterns: [
+            ['Mercedes-Benz Axor 1933', [/\b1933\b/]],
+            ['Mercedes-Benz Atego 1726', [/\b1726\b/]],
+            ['Mercedes-Benz O 500', [/\bo ?500\b/]],
+            ['Mercedes-Benz O 500U', [/\bo ?500u\b/]]
+        ]
+    },
+    {
+        key: 'OM457',
+        patterns: [/\bom ?457\b/, /\b1634\b/, /\b1938\b/, /\bo ?400\b/, /\bo ?500\b/, /\baxor\b/, /\bactros\b/],
+        defaultModels: ['Mercedes-Benz L 1634', 'Mercedes-Benz LS 1938', 'Mercedes-Benz O 400', 'Mercedes-Benz O 500', 'Mercedes-Benz Axor 2035', 'Mercedes-Benz Axor 2040', 'Mercedes-Benz Axor 2045', 'Mercedes-Benz Actros'],
+        modelPatterns: [
+            ['Mercedes-Benz L 1634', [/\b1634\b/]],
+            ['Mercedes-Benz LS 1938', [/\b1938\b/]],
+            ['Mercedes-Benz O 400', [/\bo ?400\b/]],
+            ['Mercedes-Benz O 500', [/\bo ?500\b/]],
+            ['Mercedes-Benz Axor 2035', [/\b2035\b/]],
+            ['Mercedes-Benz Axor 2040', [/\b2040\b/]],
+            ['Mercedes-Benz Axor 2045', [/\b2045\b/]],
+            ['Mercedes-Benz Actros', [/\bactros\b/]]
+        ]
+    },
+    {
+        key: 'OM447/OM449',
+        patterns: [/\bom ?447\b/, /\bom ?449\b/, /\b1633\b/, /\b1634\b/, /\b1938\b/],
+        defaultModels: ['Mercedes-Benz L 1633', 'Mercedes-Benz L 1634', 'Mercedes-Benz LS 1938', 'Mercedes-Benz O 400'],
+        modelPatterns: [
+            ['Mercedes-Benz L 1633', [/\b1633\b/]],
+            ['Mercedes-Benz L 1634', [/\b1634\b/]],
+            ['Mercedes-Benz LS 1938', [/\b1938\b/]],
+            ['Mercedes-Benz O 400', [/\bo ?400\b/]]
+        ]
+    },
+    {
+        key: 'Sprinter',
+        patterns: [/\bsprinter\b/, /\bom ?611\b/, /\bom ?651\b/, /\bcdi\b/, /\b313\b/, /\b413\b/],
+        defaultModels: ['Mercedes-Benz Sprinter 313 CDI', 'Mercedes-Benz Sprinter 413 CDI'],
+        modelPatterns: [
+            ['Mercedes-Benz Sprinter 313 CDI', [/\b313\b/]],
+            ['Mercedes-Benz Sprinter 413 CDI', [/\b413\b/]],
+            ['Mercedes-Benz Sprinter CDI', [/\bsprinter\b/, /\bcdi\b/]]
+        ]
+    },
+    {
+        key: 'Iveco Stralis',
+        patterns: [/\bstralis\b/],
+        defaultModels: ['Iveco Stralis', 'Iveco Trakker'],
+        modelPatterns: [
+            ['Iveco Stralis', [/\bstralis\b/]],
+            ['Iveco Trakker', [/\btrakker\b/]]
+        ]
+    },
+    {
+        key: 'Iveco',
+        patterns: [/\bdaily\b/, /\btector\b/, /\beurocargo\b/],
+        defaultModels: ['Iveco Daily', 'Iveco Tector', 'Iveco Eurocargo'],
+        modelPatterns: [
+            ['Iveco Daily', [/\bdaily\b/]],
+            ['Iveco Tector', [/\btector\b/]],
+            ['Iveco Eurocargo', [/\beurocargo\b/]]
+        ]
+    },
+    {
+        key: 'Cummins',
+        patterns: [/\bcummins\b/, /\bisc\b/, /\bisb\b/, /\bisbe\b/, /\bisf\b/, /\b6c\b/, /\b6b\b/, /\bford cargo\b/, /\bconstellation\b/],
+        defaultModels: ['Ford Cargo', 'Volkswagen Constellation'],
+        modelPatterns: [
+            ['Ford Cargo', [/\bford\b/, /\bcargo\b/]],
+            ['Volkswagen Constellation', [/\bvolkswagen\b/, /\bvw\b/, /\bconstellation\b/]],
+            ['Cummins ISC', [/\bisc\b/]],
+            ['Cummins ISB', [/\bisb\b/, /\bisbe\b/]],
+            ['Cummins ISF', [/\bisf\b/]],
+            ['Cummins 6C', [/\b6c\b/]],
+            ['Cummins 6B', [/\b6b\b/]]
+        ]
+    },
+    {
+        key: 'Scania 111',
+        patterns: [/\bscania ?111\b/, /\bscania111\b/, /img products scania 111/],
+        defaultModels: ['Scania 111'],
+        modelPatterns: [
+            ['Scania 111', [/\b111\b/, /\bscania ?111\b/, /img products scania 111/]]
+        ]
+    },
+    {
+        key: 'Scania',
+        patterns: [/\b113\b/, /\b114\b/, /\b124\b/, /\bp94\b/, /\bpgr\b/],
+        defaultModels: ['Scania 113', 'Scania 114', 'Scania 124', 'Scania P94', 'Scania PGR'],
+        modelPatterns: [
+            ['Scania 113', [/\b113\b/]],
+            ['Scania 114', [/\b114\b/]],
+            ['Scania 124', [/\b124\b/]],
+            ['Scania P94', [/\bp94\b/]],
+            ['Scania PGR', [/\bpgr\b/]]
+        ]
+    }
+];
+
 function escapeHtml(value) {
     return String(value || '')
         .replace(/&/g, '&amp;')
@@ -77,6 +245,41 @@ function productText(product) {
         product.description,
         product.image
     ].join(' ');
+}
+
+function compatibleTrucks(product) {
+    const normalized = normalizeText(productText(product));
+    const trucks = [];
+
+    COMPATIBILITY_RULES.forEach(rule => {
+        const ruleMatches = rule.patterns.some(pattern => pattern.test(normalized));
+        if (!ruleMatches) return;
+
+        const specificTrucks = rule.modelPatterns
+            .filter(([, patterns]) => patterns.some(pattern => pattern.test(normalized)))
+            .map(([model]) => model);
+
+        trucks.push(...(specificTrucks.length > 0 ? specificTrucks : rule.defaultModels));
+    });
+
+    return [...new Set(trucks)].slice(0, 12);
+}
+
+function renderTruckCompatibility(product) {
+    const trucks = compatibleTrucks(product);
+
+    if (trucks.length === 0) {
+        return '';
+    }
+
+    return `
+        <div class="product-compatible-trucks">
+            <h2>Camiones</h2>
+            <ul>
+                ${trucks.map(truck => `<li>${escapeHtml(truck)}</li>`).join('')}
+            </ul>
+        </div>
+    `;
 }
 
 function productSeries(product) {
@@ -207,6 +410,8 @@ function renderProductDetail(product, container) {
                 <p class="product-detail-description">
                     ${escapeHtml(product.description || 'Sin descripcion disponible para este producto.')}
                 </p>
+
+                ${renderTruckCompatibility(product)}
                 
                 <a href="${whatsappLink}" class="btn-whatsapp-large" target="_blank" rel="noopener noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="24" height="24" fill="currentColor">
