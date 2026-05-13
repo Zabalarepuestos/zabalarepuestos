@@ -7,9 +7,18 @@ document.addEventListener('DOMContentLoaded', () => {
     const clearFiltersBtn = document.getElementById('clearFiltersBtn');
     const voiceSearchBtn = document.getElementById('voiceSearchBtn'); // Ensure this is selected if used
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
-    const INITIAL_RENDER_LIMIT = 120;
-    const SEARCH_DEBOUNCE_MS = 80;
+    const INITIAL_RENDER_LIMIT = 96;
+    const RESULT_RENDER_LIMIT = 240;
+    const SEARCH_DEBOUNCE_MS = 140;
     let searchTimer = null;
+    let productsStatus = document.getElementById('productsStatus');
+
+    if (!productsStatus && productGrid) {
+        productsStatus = document.createElement('p');
+        productsStatus.id = 'productsStatus';
+        productsStatus.className = 'products-status';
+        productGrid.parentNode.insertBefore(productsStatus, productGrid);
+    }
 
     // Defined lists for filters
     const engines = [
@@ -170,44 +179,79 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Function to render products
-    function renderProducts(filteredProducts) {
-        productGrid.innerHTML = '';
+    function escapeHtml(value) {
+        return String(value || '')
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#039;');
+    }
 
-        if (filteredProducts.length === 0) {
-            productGrid.innerHTML = '<div class="no-results"><h3>No se encontraron productos</h3><p>Intenta con otros términos de búsqueda o filtros.</p></div>';
+    function updateProductsStatus(visibleCount, totalCount, isLimited) {
+        if (!productsStatus) return;
+
+        if (totalCount === 0) {
+            productsStatus.textContent = '';
             return;
         }
 
+        productsStatus.textContent = isLimited
+            ? `Mostrando ${visibleCount} de ${totalCount} productos. Refina la busqueda para ver resultados mas precisos.`
+            : `Mostrando ${visibleCount} productos.`;
+    }
+
+    // Function to render products
+    function renderProducts(filteredProducts, renderLimit = RESULT_RENDER_LIMIT) {
+        productGrid.textContent = '';
+
+        if (filteredProducts.length === 0) {
+            productGrid.innerHTML = '<div class="no-results"><h3>No se encontraron productos</h3><p>Intenta con otros terminos de busqueda o filtros.</p></div>';
+            updateProductsStatus(0, 0, false);
+            return;
+        }
+
+        const productsToRender = filteredProducts.slice(0, renderLimit);
+        const isLimited = filteredProducts.length > productsToRender.length;
+        updateProductsStatus(productsToRender.length, filteredProducts.length, isLimited);
+
         const fragment = document.createDocumentFragment();
 
-        filteredProducts.forEach(product => {
+        productsToRender.forEach(product => {
             const productCard = document.createElement('div');
             productCard.className = 'product-item';
             productCard.title = product.name;
+            productCard.dataset.productId = product.id;
 
             // Handle missing image
             const imgPath = product.image || 'img/no-image.jpg';
+            const safeName = escapeHtml(product.name);
+            const safeBrand = escapeHtml(product.brand || '');
+            const safeCode = escapeHtml(product.code || '');
+            const safeRubro = escapeHtml(product.rubro || '');
 
             productCard.innerHTML = `
-                <img src="${imgPath}" alt="${product.name}" class="product-item-img" onerror="this.src='img/no-image.jpg'"> <!-- Fallback for broken image -->
+                <img src="${escapeHtml(imgPath)}" alt="${safeName}" class="product-item-img" loading="lazy" decoding="async" onerror="this.src='img/no-image.jpg'"> <!-- Fallback for broken image -->
                 <div class="product-item-info">
-                    <span class="product-item-brand">${product.brand || ''}</span>
-                    <h3 class="product-item-name">${product.name}</h3>
-                    <p class="product-item-code">Código: ${product.code}</p>
-                    ${product.rubro ? `<p class="product-item-category" style="font-size: 0.8rem; color: #94a3b8; margin-top: auto; margin-bottom: 10px;">${product.rubro}</p>` : ''}
+                    <span class="product-item-brand">${safeBrand}</span>
+                    <h3 class="product-item-name">${safeName}</h3>
+                    <p class="product-item-code">Codigo: ${safeCode}</p>
+                    ${product.rubro ? `<p class="product-item-category" style="font-size: 0.8rem; color: #94a3b8; margin-top: auto; margin-bottom: 10px;">${safeRubro}</p>` : ''}
                     <div class="btn-detail">Ver detalles</div>
                 </div>
             `;
-            // Redirect to detail page on click
-            productCard.addEventListener('click', () => {
-                window.location.href = `producto.html?id=${product.id}`;
-            });
             fragment.appendChild(productCard);
         });
 
         productGrid.appendChild(fragment);
     }
+
+    productGrid.addEventListener('click', (event) => {
+        const productCard = event.target.closest('.product-item');
+        if (!productCard || !productCard.dataset.productId) return;
+
+        window.location.href = `producto.html?id=${productCard.dataset.productId}`;
+    });
 
     // Main Filter Function
     function applyFilters() {
@@ -262,16 +306,22 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             return matchesSearch && matchesEngine && matchesCategory && matchesBrand;
-        }).map(indexedProduct => ({
-            product: indexedProduct.product,
-            score: searchScore(indexedProduct, scoreIndex)
-        })).sort((a, b) => a.score - b.score);
+        });
 
-        const productsToRender = shouldLimitInitialView
-            ? filteredProducts.slice(0, INITIAL_RENDER_LIMIT).map(item => item.product)
-            : filteredProducts.map(item => item.product);
+        const shouldSort = Boolean(searchIndex.text || engineIndex.text);
+        const rankedProducts = shouldSort
+            ? filteredProducts
+                .map(indexedProduct => ({
+                    product: indexedProduct.product,
+                    score: searchScore(indexedProduct, scoreIndex)
+                }))
+                .sort((a, b) => a.score - b.score)
+                .map(item => item.product)
+            : filteredProducts.map(indexedProduct => indexedProduct.product);
 
-        renderProducts(productsToRender);
+        const renderLimit = shouldLimitInitialView ? INITIAL_RENDER_LIMIT : RESULT_RENDER_LIMIT;
+
+        renderProducts(rankedProducts, renderLimit);
     }
 
     function scheduleFilters() {
