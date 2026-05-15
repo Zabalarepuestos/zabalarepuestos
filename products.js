@@ -29002,6 +29002,302 @@ const products = [
         "code": "0146",
         "image": "img/products/Scania 111/compresor-completo-knorr-92mm-360cm3-bel-ar-0146.jpg",
         "description": "COMPRESOR COMPLETO KNORR 92MM. / 360CM3 BEL-AR 0146"
+    },
+    {
+        "id": "P3233",
+        "name": "ACOPLE RAPIDO 4MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "10208",
+        "image": "img/products/Acoples/acople-rapido-4mm-plastico-con-cobre-tkl-10208.jpg",
+        "description": "ACOPLE RAPIDO 4MM. PLASTICO CON COBRE TKL 10208"
+    },
+    {
+        "id": "P3234",
+        "name": "CONECTOR ACOPLE RAPIDO IMP.",
+        "brand": "Importado",
+        "code": "12378",
+        "image": "img/products/Acoples/conector-acople-rapido-imp-12378.jpg",
+        "description": "CONECTOR ACOPLE RAPIDO IMP. 12378"
+    },
+    {
+        "id": "P3235",
+        "name": "ACOPLE RAPIDO 4MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5088",
+        "image": "img/products/Acoples/acople-rapido-4mm-plastico-tkl-5088.jpg",
+        "description": "ACOPLE RAPIDO 4MM. PLASTICO TKL 5088"
+    },
+    {
+        "id": "P3236",
+        "name": "ACOPLE RAPIDO 6MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5121",
+        "image": "img/products/Acoples/acople-rapido-6mm-plastico-tkl-5121.jpg",
+        "description": "ACOPLE RAPIDO 6MM. PLASTICO TKL 5121"
+    },
+    {
+        "id": "P3237",
+        "name": "ACOPLE RAPIDO 8MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5273",
+        "image": "img/products/Acoples/acople-rapido-8mm-plastico-tkl-5273.jpg",
+        "description": "ACOPLE RAPIDO 8MM. PLASTICO TKL 5273"
+    },
+    {
+        "id": "P3238",
+        "name": "ACOPLE RAPIDO 10MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5313",
+        "image": "img/products/Acoples/acople-rapido-10mm-plastico-tkl-5313.jpg",
+        "description": "ACOPLE RAPIDO 10MM. PLASTICO TKL 5313"
+    },
+    {
+        "id": "P3239",
+        "name": "ACOPLE RAPIDO 12MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5314",
+        "image": "img/products/Acoples/acople-rapido-12mm-plastico-tkl-5314.jpg",
+        "description": "ACOPLE RAPIDO 12MM. PLASTICO TKL 5314"
+    },
+    {
+        "id": "P3240",
+        "name": "ACOPLE RAPIDO 16MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "5315",
+        "image": "img/products/Acoples/acople-rapido-16mm-plastico-con-cobre-tkl-5315.jpg",
+        "description": "ACOPLE RAPIDO 16MM. PLASTICO CON COBRE TKL 5315"
+    },
+    {
+        "id": "P3241",
+        "name": "ACOPLE RAPIDO TEE 4MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5316",
+        "image": "img/products/Acoples/acople-rapido-tee-4mm-plastico-tkl-5316.jpg",
+        "description": "ACOPLE RAPIDO TEE 4MM. PLASTICO TKL 5316"
+    },
+    {
+        "id": "P3242",
+        "name": "ACOPLE RAPIDO TEE 6MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5317",
+        "image": "img/products/Acoples/acople-rapido-tee-6mm-plastico-tkl-5317.jpg",
+        "description": "ACOPLE RAPIDO TEE 6MM. PLASTICO TKL 5317"
+    },
+    {
+        "id": "P3243",
+        "name": "ACOPLE RAPIDO TEE 8MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5318",
+        "image": "img/products/Acoples/acople-rapido-tee-8mm-plastico-tkl-5318.jpg",
+        "description": "ACOPLE RAPIDO TEE 8MM. PLASTICO TKL 5318"
+    },
+    {
+        "id": "P3244",
+        "name": "ACOPLE RAPIDO TEE 10MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5319",
+        "image": "img/products/Acoples/acople-rapido-tee-10mm-plastico-tkl-5319.jpg",
+        "description": "ACOPLE RAPIDO TEE 10MM. PLASTICO TKL 5319"
+    },
+    {
+        "id": "P3245",
+        "name": "ACOPLE RAPIDO TEE 12MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5320",
+        "image": "img/products/Acoples/acople-rapido-tee-12mm-plastico-tkl-5320.jpg",
+        "description": "ACOPLE RAPIDO TEE 12MM. PLASTICO TKL 5320"
+    },
+    {
+        "id": "P3246",
+        "name": "ACOPLE RAPIDO 90 GRADOS 4MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5321",
+        "image": "img/products/Acoples/acople-rapido-90-grados-4mm-plastico-tkl-5321.jpg",
+        "description": "ACOPLE RAPIDO 90 GRADOS 4MM. PLASTICO TKL 5321"
+    },
+    {
+        "id": "P3247",
+        "name": "ACOPLE RAPIDO 90 GRADOS 6MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5326",
+        "image": "img/products/Acoples/acople-rapido-90-grados-6mm-plastico-tkl-5326.jpg",
+        "description": "ACOPLE RAPIDO 90 GRADOS 6MM. PLASTICO TKL 5326"
+    },
+    {
+        "id": "P3248",
+        "name": "ACOPLE RAPIDO 90 GRADOS 8MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5347",
+        "image": "img/products/Acoples/acople-rapido-90-grados-8mm-plastico-tkl-5347.jpg",
+        "description": "ACOPLE RAPIDO 90 GRADOS 8MM. PLASTICO TKL 5347"
+    },
+    {
+        "id": "P3249",
+        "name": "ACOPLE RAPIDO 90 GRADOS 12MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5816",
+        "image": "img/products/Acoples/acople-rapido-90-grados-12mm-plastico-tkl-5816.jpg",
+        "description": "ACOPLE RAPIDO 90 GRADOS 12MM. PLASTICO TKL 5816"
+    },
+    {
+        "id": "P3250",
+        "name": "ACOPLE RAPIDO 90 GRADOS 16MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "5820",
+        "image": "img/products/Acoples/acople-rapido-90-grados-16mm-plastico-tkl-5820.jpg",
+        "description": "ACOPLE RAPIDO 90 GRADOS 16MM. PLASTICO TKL 5820"
+    },
+    {
+        "id": "P3251",
+        "name": "ACOPLE RAPIDO 4MM. METALICO TKL",
+        "brand": "TKL",
+        "code": "6197",
+        "image": "img/products/Acoples/acople-rapido-4mm-metalico-tkl-6197.jpg",
+        "description": "ACOPLE RAPIDO 4MM. METALICO TKL 6197"
+    },
+    {
+        "id": "P3252",
+        "name": "ACOPLE RAPIDO 6MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "6312",
+        "image": "img/products/Acoples/acople-rapido-6mm-plastico-con-cobre-tkl-6312.jpg",
+        "description": "ACOPLE RAPIDO 6MM. PLASTICO CON COBRE TKL 6312"
+    },
+    {
+        "id": "P3253",
+        "name": "ACOPLE RAPIDO 90 GRADOS 10MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "6322",
+        "image": "img/products/Acoples/acople-rapido-90-grados-10mm-plastico-tkl-6322.jpg",
+        "description": "ACOPLE RAPIDO 90 GRADOS 10MM. PLASTICO TKL 6322"
+    },
+    {
+        "id": "P3254",
+        "name": "ACOPLE RAPIDO DE COMBUSTIBLE RECTO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "6420",
+        "image": "img/products/Acoples/acople-rapido-de-combustible-recto-rigiflex-6420.jpg",
+        "description": "ACOPLE RAPIDO DE COMBUSTIBLE RECTO RIGIFLEX 6420"
+    },
+    {
+        "id": "P3255",
+        "name": "ACOPLE RAPIDO 8MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "6509",
+        "image": "img/products/Acoples/acople-rapido-8mm-plastico-con-cobre-tkl-6509.jpg",
+        "description": "ACOPLE RAPIDO 8MM. PLASTICO CON COBRE TKL 6509"
+    },
+    {
+        "id": "P3256",
+        "name": "ACOPLE RAPIDO 10MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "6510",
+        "image": "img/products/Acoples/acople-rapido-10mm-plastico-con-cobre-tkl-6510.jpg",
+        "description": "ACOPLE RAPIDO 10MM. PLASTICO CON COBRE TKL 6510"
+    },
+    {
+        "id": "P3257",
+        "name": "ACOPLE RAPIDO 16MM. PLASTICO TKL",
+        "brand": "TKL",
+        "code": "6535",
+        "image": "img/products/Acoples/acople-rapido-16mm-plastico-tkl-6535.jpg",
+        "description": "ACOPLE RAPIDO 16MM. PLASTICO TKL 6535"
+    },
+    {
+        "id": "P3258",
+        "name": "ACOPLE RAPIDO 12MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "6682",
+        "image": "img/products/Acoples/acople-rapido-12mm-plastico-con-cobre-tkl-6682.jpg",
+        "description": "ACOPLE RAPIDO 12MM. PLASTICO CON COBRE TKL 6682"
+    },
+    {
+        "id": "P3259",
+        "name": "ACOPLE RAPIDO 14MM. PLASTICO CON COBRE TKL",
+        "brand": "TKL",
+        "code": "6842",
+        "image": "img/products/Acoples/acople-rapido-14mm-plastico-con-cobre-tkl-6842.jpg",
+        "description": "ACOPLE RAPIDO 14MM. PLASTICO CON COBRE TKL 6842"
+    },
+    {
+        "id": "P3260",
+        "name": "ACOPLE RAPIDO TEE 4MM. PLASTICO CON BRONCE TKL",
+        "brand": "TKL",
+        "code": "6843",
+        "image": "img/products/Acoples/acople-rapido-tee-4mm-plastico-con-bronce-tkl-6843.jpg",
+        "description": "ACOPLE RAPIDO TEE 4MM. PLASTICO CON BRONCE TKL 6843"
+    },
+    {
+        "id": "P3261",
+        "name": "ACOPLE RAPIDO TEE 6MM. PLASTICO CON BRONCE TKL",
+        "brand": "TKL",
+        "code": "6844",
+        "image": "img/products/Acoples/acople-rapido-tee-6mm-plastico-con-bronce-tkl-6844.jpg",
+        "description": "ACOPLE RAPIDO TEE 6MM. PLASTICO CON BRONCE TKL 6844"
+    },
+    {
+        "id": "P3262",
+        "name": "ACOPLE RAPIDO TEE 8MM. PLASTICO CON BRONCE TKL",
+        "brand": "TKL",
+        "code": "6927",
+        "image": "img/products/Acoples/acople-rapido-tee-8mm-plastico-con-bronce-tkl-6927.jpg",
+        "description": "ACOPLE RAPIDO TEE 8MM. PLASTICO CON BRONCE TKL 6927"
+    },
+    {
+        "id": "P3263",
+        "name": "ACOPLE RAPIDO TEE 10MM. PLASTICO CON BRONCE TKL",
+        "brand": "TKL",
+        "code": "6929",
+        "image": "img/products/Acoples/acople-rapido-tee-10mm-plastico-con-bronce-tkl-6929.jpg",
+        "description": "ACOPLE RAPIDO TEE 10MM. PLASTICO CON BRONCE TKL 6929"
+    },
+    {
+        "id": "P3264",
+        "name": "ACOPLE RAPIDO TEE 12MM. PLASTICO CON BRONCE TKL",
+        "brand": "TKL",
+        "code": "6931",
+        "image": "img/products/Acoples/acople-rapido-tee-12mm-plastico-con-bronce-tkl-6931.jpg",
+        "description": "ACOPLE RAPIDO TEE 12MM. PLASTICO CON BRONCE TKL 6931"
+    },
+    {
+        "id": "P3265",
+        "name": "ACOPLE RAPIDO TEE 14MM. PLASTICO CON BRONCE TKL",
+        "brand": "TKL",
+        "code": "6932",
+        "image": "img/products/Acoples/acople-rapido-tee-14mm-plastico-con-bronce-tkl-6932.jpg",
+        "description": "ACOPLE RAPIDO TEE 14MM. PLASTICO CON BRONCE TKL 6932"
+    },
+    {
+        "id": "P3266",
+        "name": "ACOPLE RAPIDO VALVULA 2 VIAS RACORD 3/8\" RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8761",
+        "image": "img/products/Acoples/acople-rapido-valvula-2-vias-racord-3-8-rigiflex-8761.jpg",
+        "description": "ACOPLE RAPIDO VALVULA 2 VIAS RACORD 3/8\" RIGIFLEX 8761"
+    },
+    {
+        "id": "P3267",
+        "name": "ACOPLE RAPIDO TANQUE DE COMBUSTIBLE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8986",
+        "image": "img/products/Acoples/acople-rapido-tanque-de-combustible-rigiflex-8986.jpg",
+        "description": "ACOPLE RAPIDO TANQUE DE COMBUSTIBLE RIGIFLEX 8986"
+    },
+    {
+        "id": "P3268",
+        "name": "ACOPLE RAPIDO FRENO RACORD PARA MANGUERA 3/8\" RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8988",
+        "image": "img/products/Acoples/acople-rapido-freno-racord-para-manguera-3-8-rigiflex-8988.jpg",
+        "description": "ACOPLE RAPIDO FRENO RACORD PARA MANGUERA 3/8\" RIGIFLEX 8988"
+    },
+    {
+        "id": "P3269",
+        "name": "ACOPLE RAPIDO FRENO DOBLE RACORD PARA MANGUERA 3/8\" RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8989",
+        "image": "img/products/Acoples/acople-rapido-freno-doble-racord-para-manguera-3-8-rigiflex-8989.jpg",
+        "description": "ACOPLE RAPIDO FRENO DOBLE RACORD PARA MANGUERA 3/8\" RIGIFLEX 8989"
     }
 ];
 
