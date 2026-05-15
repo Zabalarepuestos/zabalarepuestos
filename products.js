@@ -1,4 +1,4 @@
-const products = [
+﻿const products = [
     {
         "id": "P001",
         "name": "ELEMENTO F/ACEITE 1114/1517/1518 OM352",
@@ -337,11 +337,11 @@ const products = [
     },
     {
         "id": "P044",
-        "name": "CHAVETA CIGÃœEÃ‘AL 8x13x32mm. OM352/366",
+        "name": "CHAVETA CIGÃƒÅ“EÃƒâ€˜AL 8x13x32mm. OM352/366",
         "brand": "Mercedes Benz",
         "code": "006888008004",
         "image": "img/products/om352/chaveta-ciguenal-om352.png",
-        "description": "CHAVETA CIGÃœEÃ‘AL 8x13x32mm. OM352/366 006888008004"
+        "description": "CHAVETA CIGÃƒÅ“EÃƒâ€˜AL 8x13x32mm. OM352/366 006888008004"
     },
     {
         "id": "P045",
@@ -361,11 +361,11 @@ const products = [
     },
     {
         "id": "P047",
-        "name": "BULON CONTRAPESO CIGÃœEÃ‘AL LARGO OM352",
+        "name": "BULON CONTRAPESO CIGÃƒÅ“EÃƒâ€˜AL LARGO OM352",
         "brand": "Mercedes Benz",
         "code": "3520310071",
         "image": "img/products/om352/bulon-contrapeso-ciguenal-largo-om352.jpg",
-        "description": "BULON CONTRAPESO CIGÃœEÃ‘AL LARGO OM352 3520310071"
+        "description": "BULON CONTRAPESO CIGÃƒÅ“EÃƒâ€˜AL LARGO OM352 3520310071"
     },
     {
         "id": "P048",
@@ -385,11 +385,11 @@ const products = [
     },
     {
         "id": "P050",
-        "name": "ENGRANAJE CIGÃœEÃ‘AL (-0.03) STD OM352/366",
+        "name": "ENGRANAJE CIGÃƒÅ“EÃƒâ€˜AL (-0.03) STD OM352/366",
         "brand": "Mercedes Benz",
         "code": "3520520003",
         "image": "img/products/om352/engranaje-ciguenal-om352-std.jpg",
-        "description": "ENGRANAJE CIGÃœEÃ‘AL (-0.03) STD OM352/366 3520520003"
+        "description": "ENGRANAJE CIGÃƒÅ“EÃƒâ€˜AL (-0.03) STD OM352/366 3520520003"
     },
     {
         "id": "P051",
@@ -409,19 +409,19 @@ const products = [
     },
     {
         "id": "P053",
-        "name": "BULON PUNTA CIGÃœEÃ‘AL LARGO 24x55 OM352",
+        "name": "BULON PUNTA CIGÃƒÅ“EÃƒâ€˜AL LARGO 24x55 OM352",
         "brand": "Mercedes Benz",
         "code": "3149901001",
         "image": "img/products/om352/bulon-punta-ciguenal-om352.jpg",
-        "description": "BULON PUNTA CIGÃœEÃ‘AL LARGO 24x55 OM352 3149901001"
+        "description": "BULON PUNTA CIGÃƒÅ“EÃƒâ€˜AL LARGO 24x55 OM352 3149901001"
     },
     {
         "id": "P054",
-        "name": "ENGRANAJE CIGÃœEÃ‘AL (-0.05) STD OM352/366",
+        "name": "ENGRANAJE CIGÃƒÅ“EÃƒâ€˜AL (-0.05) STD OM352/366",
         "brand": "Mercedes Benz",
         "code": "3520520003",
         "image": "img/products/om352/engranaje-ciguenal-om352-005.jpg",
-        "description": "ENGRANAJE CIGÃœEÃ‘AL (-0.05) STD OM352/366 3520520003"
+        "description": "ENGRANAJE CIGÃƒÅ“EÃƒâ€˜AL (-0.05) STD OM352/366 3520520003"
     },
     {
         "id": "P055",
@@ -441,11 +441,11 @@ const products = [
     },
     {
         "id": "P057",
-        "name": "DEFLECTOR ACEITE CIGÃœEÃ‘AL OM352",
+        "name": "DEFLECTOR ACEITE CIGÃƒÅ“EÃƒâ€˜AL OM352",
         "brand": "Mercedes Benz",
         "code": "00324",
         "image": "img/products/om352/deflector-aceite-ciguenal-om352.jpg",
-        "description": "DEFLECTOR ACEITE CIGÃœEÃ‘AL OM352 00324"
+        "description": "DEFLECTOR ACEITE CIGÃƒÅ“EÃƒâ€˜AL OM352 00324"
     },
     {
         "id": "P058",
@@ -457,11 +457,11 @@ const products = [
     },
     {
         "id": "P059",
-        "name": "BULON CONTRAPESO CIGÃœEÃ‘AL CORTO 12x45 OM352",
+        "name": "BULON CONTRAPESO CIGÃƒÅ“EÃƒâ€˜AL CORTO 12x45 OM352",
         "brand": "Mercedes Benz",
         "code": "3520310071",
         "image": "img/products/om352/bulon-contrapeso-ciguenal-corto-om352.jpg",
-        "description": "BULON CONTRAPESO CIGÃœEÃ‘AL CORTO 12x45 OM352 3520310071"
+        "description": "BULON CONTRAPESO CIGÃƒÅ“EÃƒâ€˜AL CORTO 12x45 OM352 3520310071"
     },
     {
         "id": "P060",
@@ -481,11 +481,11 @@ const products = [
     },
     {
         "id": "P062",
-        "name": "PORTA RULEMAN CIGÃœEÃ‘AL OM352",
+        "name": "PORTA RULEMAN CIGÃƒÅ“EÃƒâ€˜AL OM352",
         "brand": "Mercedes Benz",
         "code": "3120310533",
         "image": "img/products/om352/porta-ruleman-ciguenal-om352.jpg",
-        "description": "PORTA RULEMAN CIGÃœEÃ‘AL OM352 3120310533"
+        "description": "PORTA RULEMAN CIGÃƒÅ“EÃƒâ€˜AL OM352 3120310533"
     },
     {
         "id": "P063",
@@ -673,11 +673,11 @@ const products = [
     },
     {
         "id": "P086",
-        "name": "CAÃ‘O SALIDA BOMBA D/H 1218/OM366/A/LA",
+        "name": "CAÃƒâ€˜O SALIDA BOMBA D/H 1218/OM366/A/LA",
         "brand": "Mercedes Benz",
         "code": "3884608188",
         "image": "img/products/om366/cano-salida-bomba-om366.jpg",
-        "description": "CAÃ‘O SALIDA BOMBA D/H 1218/OM366/A/LA 3884608188"
+        "description": "CAÃƒâ€˜O SALIDA BOMBA D/H 1218/OM366/A/LA 3884608188"
     },
     {
         "id": "P087",
@@ -810,11 +810,11 @@ const products = [
     },
     {
         "id": "P103",
-        "name": "CAÃ‘O SALIDA DE BOMBA HIDRAULICA 1215 OM366",
+        "name": "CAÃƒâ€˜O SALIDA DE BOMBA HIDRAULICA 1215 OM366",
         "brand": "Mercedes Benz",
         "code": "3444608624",
         "image": "img/products/om366/cano-salida-bomba-hidraulica-1215-om366.jpg",
-        "description": "CAÃ‘O SALIDA DE BOMBA HIDRAULICA 1215 OM366 3444608624"
+        "description": "CAÃƒâ€˜O SALIDA DE BOMBA HIDRAULICA 1215 OM366 3444608624"
     },
     {
         "id": "P104",
@@ -966,11 +966,11 @@ const products = [
     },
     {
         "id": "P122",
-        "name": "CIGUEÃ‘AL COMPRESOR KNORR 88 OM366",
+        "name": "CIGUEÃƒâ€˜AL COMPRESOR KNORR 88 OM366",
         "brand": "Mercedes Benz",
         "code": "0001314216",
         "image": "img/products/om366/ciguenal-compresor-knorr-om366.jpg",
-        "description": "CIGUEÃ‘AL COMPRESOR KNORR 88 OM366 0001314216"
+        "description": "CIGUEÃƒâ€˜AL COMPRESOR KNORR 88 OM366 0001314216"
     },
     {
         "id": "P123",
@@ -1079,11 +1079,11 @@ const products = [
     },
     {
         "id": "P136",
-        "name": "JGO.CAÃ‘OS INYECTOR OM366",
+        "name": "JGO.CAÃƒâ€˜OS INYECTOR OM366",
         "brand": "Mercedes Benz",
         "code": ">77020",
         "image": "img/products/om366/juego-canos-inyector-om366.jpg",
-        "description": "JGO.CAÃ‘OS INYECTOR OM366 >77020"
+        "description": "JGO.CAÃƒâ€˜OS INYECTOR OM366 >77020"
     },
     {
         "id": "P137",
@@ -1184,11 +1184,11 @@ const products = [
     },
     {
         "id": "P149",
-        "name": "BULON PUNTA CIGÃœEÃ‘AL CORTO 24x75 OM366",
+        "name": "BULON PUNTA CIGÃƒÅ“EÃƒâ€˜AL CORTO 24x75 OM366",
         "brand": "Mercedes Benz",
         "code": "3669901501",
         "image": "img/products/om366/bulon-punta-ciguenal-corto-om366.jpg",
-        "description": "BULON PUNTA CIGÃœEÃ‘AL CORTO 24x75 OM366 3669901501"
+        "description": "BULON PUNTA CIGÃƒÅ“EÃƒâ€˜AL CORTO 24x75 OM366 3669901501"
     },
     {
         "id": "P150",
@@ -1289,12 +1289,12 @@ const products = [
     },
     {
         "id": "P162",
-        "name": "CAÃ‘O GOMA LLENADO ACEITE OM366/366A",
+        "name": "CAÃƒâ€˜O GOMA LLENADO ACEITE OM366/366A",
         "brand": "Mercedes Benz",
         "code": "3760187282",
         "originalCode": "3660180382",
         "image": "img/products/om366/cano-goma-llenado-aceite-om366.jpg",
-        "description": "CAÃ‘O GOMA LLENADO ACEITE OM366/366A 3660180382"
+        "description": "CAÃƒâ€˜O GOMA LLENADO ACEITE OM366/366A 3660180382"
     },
     {
         "id": "P163",
@@ -1355,11 +1355,11 @@ const products = [
     },
     {
         "id": "P170",
-        "name": "INDICADOR PUESTA A PUNTO 19Âº OM366LA II",
+        "name": "INDICADOR PUESTA A PUNTO 19Ã‚Âº OM366LA II",
         "brand": "Mercedes Benz",
         "code": "3660323215",
         "image": "img/products/om366/indicador-puesta-a-punto-19-om366la-ii.jpg",
-        "description": "INDICADOR PUESTA A PUNTO 19Âº OM366LA II 3660323215"
+        "description": "INDICADOR PUESTA A PUNTO 19Ã‚Âº OM366LA II 3660323215"
     },
     {
         "id": "P171",
@@ -1531,11 +1531,11 @@ const products = [
     },
     {
         "id": "P192",
-        "name": "CIGUEÃ‘AL COMPRESOR KNORR 90 OM447/449",
+        "name": "CIGUEÃƒâ€˜AL COMPRESOR KNORR 90 OM447/449",
         "brand": "Mercedes Benz",
         "code": "4031300214",
         "image": "img/products/om447/ciguenal-compresor-om447.jpg",
-        "description": "CIGUEÃ‘AL COMPRESOR KNORR 90 OM447/449 4031300214"
+        "description": "CIGUEÃƒâ€˜AL COMPRESOR KNORR 90 OM447/449 4031300214"
     },
     {
         "id": "P193",
@@ -1547,19 +1547,19 @@ const products = [
     },
     {
         "id": "P194",
-        "name": "CAÃ‘O COMPRESOR 1634/1938 OM447/457 SALIDA 1ER TRAMO",
+        "name": "CAÃƒâ€˜O COMPRESOR 1634/1938 OM447/457 SALIDA 1ER TRAMO",
         "brand": "Mercedes Benz",
         "code": "6964201226",
         "image": "img/products/om447/cano-compresor-om447.jpg",
-        "description": "CAÃ‘O COMPRESOR 1634/1938 OM447/457 SALIDA 1ER TRAMO 6964201226"
+        "description": "CAÃƒâ€˜O COMPRESOR 1634/1938 OM447/457 SALIDA 1ER TRAMO 6964201226"
     },
     {
         "id": "P195",
-        "name": "CAÃ‘O COMPRESOR 1938/OM447 SALIDA A GOB. LARGO",
+        "name": "CAÃƒâ€˜O COMPRESOR 1938/OM447 SALIDA A GOB. LARGO",
         "brand": "Mercedes Benz",
         "code": "3884207026",
         "image": "img/products/om447/cano-compresor-largo-om447.jpg",
-        "description": "CAÃ‘O COMPRESOR 1938/OM447 SALIDA A GOB. LARGO 3884207026"
+        "description": "CAÃƒâ€˜O COMPRESOR 1938/OM447 SALIDA A GOB. LARGO 3884207026"
     },
     {
         "id": "P196",
@@ -1571,19 +1571,19 @@ const products = [
     },
     {
         "id": "P197",
-        "name": "CAÃ‘O COMPRESOR 1634/1938 OM447/457",
+        "name": "CAÃƒâ€˜O COMPRESOR 1634/1938 OM447/457",
         "brand": "Mercedes Benz",
         "code": "6954207436",
         "image": "img/products/om447/cano-compresor-1634-1938-om447.jpg",
-        "description": "CAÃ‘O COMPRESOR 1634/1938 OM447/457 6954207436"
+        "description": "CAÃƒâ€˜O COMPRESOR 1634/1938 OM447/457 6954207436"
     },
     {
         "id": "P198",
-        "name": "CAÃ‘O COMPRESOR 1938/OM447 GOB.A TANQUE AIRE CORTO",
+        "name": "CAÃƒâ€˜O COMPRESOR 1938/OM447 GOB.A TANQUE AIRE CORTO",
         "brand": "Mercedes Benz",
         "code": "3884209826",
         "image": "img/products/om447/cano-compresor-corto-om447.jpg",
-        "description": "CAÃ‘O COMPRESOR 1938/OM447 GOB.A TANQUE AIRE CORTO 3884209826"
+        "description": "CAÃƒâ€˜O COMPRESOR 1938/OM447 GOB.A TANQUE AIRE CORTO 3884209826"
     },
     {
         "id": "P199",
@@ -1763,11 +1763,11 @@ const products = [
     },
     {
         "id": "P221",
-        "name": "ENGRANAJE CIGÃœEÃ‘AL 43dtes. OM447/449",
+        "name": "ENGRANAJE CIGÃƒÅ“EÃƒâ€˜AL 43dtes. OM447/449",
         "brand": "Mercedes Benz",
         "code": "4030500303 4030520103",
         "image": "img/products/om447/engranaje-ciguenal-om447.jpg",
-        "description": "ENGRANAJE CIGÃœEÃ‘AL 43dtes. OM447/449 4030500303 4030520103"
+        "description": "ENGRANAJE CIGÃƒÅ“EÃƒâ€˜AL 43dtes. OM447/449 4030500303 4030520103"
     },
     {
         "id": "P222",
@@ -1787,11 +1787,11 @@ const products = [
     },
     {
         "id": "P224",
-        "name": "PISTA CIGÃœEÃ‘AL DELANTERA 105x100 OM447/449/457",
+        "name": "PISTA CIGÃƒÅ“EÃƒâ€˜AL DELANTERA 105x100 OM447/449/457",
         "brand": "Mercedes Benz",
         "code": "4420310027",
         "image": "img/products/om447/pista-ciguenal-delantera-om447.jpg",
-        "description": "PISTA CIGÃœEÃ‘AL DELANTERA 105x100 OM447/449/457 4420310027"
+        "description": "PISTA CIGÃƒÅ“EÃƒâ€˜AL DELANTERA 105x100 OM447/449/457 4420310027"
     },
     {
         "id": "P225",
@@ -1803,11 +1803,11 @@ const products = [
     },
     {
         "id": "P226",
-        "name": "POLEA CIGÃœEÃ‘AL CHAPA 2 CAN.OM447/9",
+        "name": "POLEA CIGÃƒÅ“EÃƒâ€˜AL CHAPA 2 CAN.OM447/9",
         "brand": "Mercedes Benz",
         "code": "4760350112 4750350112",
         "image": "img/products/om447/polea-ciguenal-chapa-2-can-om447.jpg",
-        "description": "POLEA CIGÃœEÃ‘AL CHAPA 2 CAN.OM447/9 4760350112 4750350112"
+        "description": "POLEA CIGÃƒÅ“EÃƒâ€˜AL CHAPA 2 CAN.OM447/9 4760350112 4750350112"
     },
     {
         "id": "P227",
@@ -1875,11 +1875,11 @@ const products = [
     },
     {
         "id": "P235",
-        "name": "CAÃ‘O GOMA LLENADO ACEITE OM457/O500",
+        "name": "CAÃƒâ€˜O GOMA LLENADO ACEITE OM457/O500",
         "brand": "Mercedes Benz",
         "code": "4570180082",
         "image": "img/products/om457/cano-goma-llenado-aceite-om457.jpg",
-        "description": "CAÃ‘O GOMA LLENADO ACEITE OM457/O500 4570180082"
+        "description": "CAÃƒâ€˜O GOMA LLENADO ACEITE OM457/O500 4570180082"
     },
     {
         "id": "P236",
@@ -1932,11 +1932,11 @@ const products = [
     },
     {
         "id": "P242",
-        "name": "CAÃ‘O RAD.AXOR 2044/OM457 SUPERIOR 22/22",
+        "name": "CAÃƒâ€˜O RAD.AXOR 2044/OM457 SUPERIOR 22/22",
         "brand": "Mercedes Benz",
         "code": "9405011282",
         "image": "img/products/om457/cano-radiador-axor-om457-superior.jpg",
-        "description": "CAÃ‘O RAD.AXOR 2044/OM457 SUPERIOR 22/22 9405011282"
+        "description": "CAÃƒâ€˜O RAD.AXOR 2044/OM457 SUPERIOR 22/22 9405011282"
     },
     {
         "id": "P243",
@@ -1948,11 +1948,11 @@ const products = [
     },
     {
         "id": "P244",
-        "name": "CAÃ‘O COMPRESOR (SERPENTINA) 5Â°TRAMO C/SALIDA RECTA O500/OM457 LA",
+        "name": "CAÃƒâ€˜O COMPRESOR (SERPENTINA) 5Ã‚Â°TRAMO C/SALIDA RECTA O500/OM457 LA",
         "brand": "Mercedes Benz",
         "code": "6344209029 / 3844204228",
         "image": "img/products/om457/cano-compresor-serpentina-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR (SERPENTINA) 5Â°TRAMO C/SALIDA RECTA O500/OM457 LA 6344209029 / 3844204228"
+        "description": "CAÃƒâ€˜O COMPRESOR (SERPENTINA) 5Ã‚Â°TRAMO C/SALIDA RECTA O500/OM457 LA 6344209029 / 3844204228"
     },
     {
         "id": "P245",
@@ -2004,19 +2004,19 @@ const products = [
     },
     {
         "id": "P251",
-        "name": "CAÃ‘O RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR",
+        "name": "CAÃƒâ€˜O RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR",
         "brand": "Mercedes Benz",
         "code": "6345010482",
         "image": "img/products/om457/cano-radiador-flexible-o500-om457.jpg",
-        "description": "CAÃ‘O RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR 6345010482"
+        "description": "CAÃƒâ€˜O RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR 6345010482"
     },
     {
         "id": "P252",
-        "name": "CAÃ‘O RAD.1635/1735 OM457 ATRON INFERIOR",
+        "name": "CAÃƒâ€˜O RAD.1635/1735 OM457 ATRON INFERIOR",
         "brand": "Mercedes Benz",
         "code": "6955012882",
         "image": "img/products/om457/cano-radiador-atron-inferior-om457.jpg",
-        "description": "CAÃ‘O RAD.1635/1735 OM457 ATRON INFERIOR 6955012882"
+        "description": "CAÃƒâ€˜O RAD.1635/1735 OM457 ATRON INFERIOR 6955012882"
     },
     {
         "id": "P253",
@@ -2028,11 +2028,11 @@ const products = [
     },
     {
         "id": "P254",
-        "name": "CAÃ‘O GUIA VARILLA NIVEL ACEITE 1634 OM457",
+        "name": "CAÃƒâ€˜O GUIA VARILLA NIVEL ACEITE 1634 OM457",
         "brand": "Mercedes Benz",
         "code": "4570100866",
         "image": "img/products/om457/cano-guia-varilla-nivel-aceite-1634-om457.jpg",
-        "description": "CAÃ‘O GUIA VARILLA NIVEL ACEITE 1634 OM457 4570100866"
+        "description": "CAÃƒâ€˜O GUIA VARILLA NIVEL ACEITE 1634 OM457 4570100866"
     },
     {
         "id": "P255",
@@ -2077,11 +2077,11 @@ const products = [
     },
     {
         "id": "P260",
-        "name": "CAÃ‘O LUBRICACION TURBO OM457 O500",
+        "name": "CAÃƒâ€˜O LUBRICACION TURBO OM457 O500",
         "brand": "Mercedes Benz",
         "code": "5411801422",
         "image": "img/products/om457/cano-lubricacion-turbo-om457-o500.jpg",
-        "description": "CAÃ‘O LUBRICACION TURBO OM457 O500 5411801422"
+        "description": "CAÃƒâ€˜O LUBRICACION TURBO OM457 O500 5411801422"
     },
     {
         "id": "P261",
@@ -2296,39 +2296,39 @@ const products = [
     },
     {
         "id": "P287",
-        "name": "CAÃ‘O COMPRESOR 1634/OM457 SALIDA 2DO TRAMO",
+        "name": "CAÃƒâ€˜O COMPRESOR 1634/OM457 SALIDA 2DO TRAMO",
         "brand": "Mercedes Benz",
         "code": "6954203528 / 6954207528",
         "originalCode": "6954203528 / 6954207528",
         "image": "img/products/om457/cano-compresor-salida-2do-tramo-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR 1634/OM457 SALIDA 2DO TRAMO 6954203528 / 6954207528"
+        "description": "CAÃƒâ€˜O COMPRESOR 1634/OM457 SALIDA 2DO TRAMO 6954203528 / 6954207528"
     },
     {
         "id": "P288",
-        "name": "CAÃ‘O RAD.O500/OM457 SUPERIOR",
+        "name": "CAÃƒâ€˜O RAD.O500/OM457 SUPERIOR",
         "brand": "Mercedes Benz",
         "code": "6345010382",
         "originalCode": "6345010382",
         "image": "img/products/om457/cano-radiador-superior-om457.jpg",
-        "description": "CAÃ‘O RAD.O500/OM457 SUPERIOR 6345010382"
+        "description": "CAÃƒâ€˜O RAD.O500/OM457 SUPERIOR 6345010382"
     },
     {
         "id": "P289",
-        "name": "SENSOR ELECT.GIRO CIGUEÃ‘AL/A.LEVA C/CABLE OM457",
+        "name": "SENSOR ELECT.GIRO CIGUEÃƒâ€˜AL/A.LEVA C/CABLE OM457",
         "brand": "Mercedes Benz",
         "code": "0001539520",
         "originalCode": "0001539520",
         "image": "img/products/om457/sensor-giro-ciguenal-om457.jpg",
-        "description": "SENSOR ELECT.GIRO CIGUEÃ‘AL/A.LEVA C/CABLE OM457 0001539520"
+        "description": "SENSOR ELECT.GIRO CIGUEÃƒâ€˜AL/A.LEVA C/CABLE OM457 0001539520"
     },
     {
         "id": "P290",
-        "name": "CAÃ‘O RAD.O500/OM457 SUPER. 20/90",
+        "name": "CAÃƒâ€˜O RAD.O500/OM457 SUPER. 20/90",
         "brand": "Mercedes Benz",
         "code": "6345010084 / 3825010384",
         "originalCode": "6345010084 / 3825010384",
         "image": "img/products/om457/cano-radiador-superior-20-90-om457.jpg",
-        "description": "CAÃ‘O RAD.O500/OM457 SUPER. 20/90 6345010084 / 3825010384"
+        "description": "CAÃƒâ€˜O RAD.O500/OM457 SUPER. 20/90 6345010084 / 3825010384"
     },
     {
         "id": "P291",
@@ -2341,21 +2341,21 @@ const products = [
     },
     {
         "id": "P292",
-        "name": "CAÃ‘O COMPRESOR 1938E/OM457",
+        "name": "CAÃƒâ€˜O COMPRESOR 1938E/OM457",
         "brand": "Mercedes Benz",
         "code": "6644200236",
         "originalCode": "6644200236",
         "image": "img/products/om457/cano-compresor-1938e-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR 1938E/OM457 6644200236"
+        "description": "CAÃƒâ€˜O COMPRESOR 1938E/OM457 6644200236"
     },
     {
         "id": "P293",
-        "name": "CAÃ‘O COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457",
+        "name": "CAÃƒâ€˜O COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457",
         "brand": "Mercedes Benz",
         "code": "6344209029",
         "originalCode": "6344209029",
         "image": "img/products/om457/cano-compresor-intermedio-o500-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457 6344209029"
+        "description": "CAÃƒâ€˜O COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457 6344209029"
     },
     {
         "id": "P294",
@@ -2683,12 +2683,12 @@ const products = [
     },
     {
         "id": "P330",
-        "name": "CAÃ‘O COMPRESOR O-400 OM457 SALIDA",
+        "name": "CAÃƒâ€˜O COMPRESOR O-400 OM457 SALIDA",
         "brand": "Mercedes Benz",
         "code": "6644200236",
         "originalCode": "6644200236",
         "image": "img/products/om457/cano-compresor-o400-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR O-400 OM457 SALIDA 6644200236"
+        "description": "CAÃƒâ€˜O COMPRESOR O-400 OM457 SALIDA 6644200236"
     },
     {
         "id": "P331",
@@ -2701,12 +2701,12 @@ const products = [
     },
     {
         "id": "P332",
-        "name": "CAÃ‘O REFRIGERACION COMPRESOR OM457",
+        "name": "CAÃƒâ€˜O REFRIGERACION COMPRESOR OM457",
         "brand": "Mercedes Benz",
         "code": "4572002052",
         "originalCode": "4572002052",
         "image": "img/products/om457/cano-refrigeracion-compresor-om457.jpg",
-        "description": "CAÃ‘O REFRIGERACION COMPRESOR OM457 4572002052"
+        "description": "CAÃƒâ€˜O REFRIGERACION COMPRESOR OM457 4572002052"
     },
     {
         "id": "P333",
@@ -2719,30 +2719,30 @@ const products = [
     },
     {
         "id": "P334",
-        "name": "CAÃ‘O COMPRESOR 1634/OM457",
+        "name": "CAÃƒâ€˜O COMPRESOR 1634/OM457",
         "brand": "Mercedes Benz",
         "code": "6964207436",
         "originalCode": "6964207436",
         "image": "img/products/om457/cano-compresor-1634-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR 1634/OM457 6964207436"
+        "description": "CAÃƒâ€˜O COMPRESOR 1634/OM457 6964207436"
     },
     {
         "id": "P335",
-        "name": "CAÃ‘O REFRIGERACION COMPRESOR 1938E/OM457",
+        "name": "CAÃƒâ€˜O REFRIGERACION COMPRESOR 1938E/OM457",
         "brand": "Mercedes Benz",
         "code": "4572000542",
         "originalCode": "4572000542",
         "image": "img/products/om457/cano-refrigeracion-compresor-1938e-om457.jpg",
-        "description": "CAÃ‘O REFRIGERACION COMPRESOR 1938E/OM457 4572000542"
+        "description": "CAÃƒâ€˜O REFRIGERACION COMPRESOR 1938E/OM457 4572000542"
     },
     {
         "id": "P336",
-        "name": "CAÃ‘O COMPRESOR 1938/OM457 A GOBERNADOR",
+        "name": "CAÃƒâ€˜O COMPRESOR 1938/OM457 A GOBERNADOR",
         "brand": "Mercedes Benz",
         "code": "6964207236 / 6964207336",
         "originalCode": "6964207236 / 6964207336",
         "image": "img/products/om457/cano-compresor-gobernador-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR 1938/OM457 A GOBERNADOR 6964207236 / 6964207336"
+        "description": "CAÃƒâ€˜O COMPRESOR 1938/OM457 A GOBERNADOR 6964207236 / 6964207336"
     },
     {
         "id": "P337",
@@ -2764,12 +2764,12 @@ const products = [
     },
     {
         "id": "P339",
-        "name": "CAÃ‘O REFRIGERACION COMPRESOR 1938/OM457",
+        "name": "CAÃƒâ€˜O REFRIGERACION COMPRESOR 1938/OM457",
         "brand": "Mercedes Benz",
         "code": "4572000452",
         "originalCode": "4572000452",
         "image": "img/products/om457/cano-refrigeracion-compresor-1938-om457.jpg",
-        "description": "CAÃ‘O REFRIGERACION COMPRESOR 1938/OM457 4572000452"
+        "description": "CAÃƒâ€˜O REFRIGERACION COMPRESOR 1938/OM457 4572000452"
     },
     {
         "id": "P340",
@@ -2782,39 +2782,39 @@ const products = [
     },
     {
         "id": "P341",
-        "name": "CAÃ‘O COMPRESOR ENTRADA APU 1938 OM457",
+        "name": "CAÃƒâ€˜O COMPRESOR ENTRADA APU 1938 OM457",
         "brand": "Mercedes Benz",
         "code": "6964207136",
         "originalCode": "6964207136",
         "image": "img/products/om457/cano-compresor-apu-1938-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR ENTRADA APU 1938 OM457 6964207136"
+        "description": "CAÃƒâ€˜O COMPRESOR ENTRADA APU 1938 OM457 6964207136"
     },
     {
         "id": "P342",
-        "name": "CAÃ‘O COMPRESOR 1634/OM457 SALIDA",
+        "name": "CAÃƒâ€˜O COMPRESOR 1634/OM457 SALIDA",
         "brand": "Mercedes Benz",
         "code": "6954200136",
         "originalCode": "6954200136",
         "image": "img/products/om457/cano-compresor-salida-1634-om457.jpg",
-        "description": "CAÃ‘O COMPRESOR 1634/OM457 SALIDA 6954200136"
+        "description": "CAÃƒâ€˜O COMPRESOR 1634/OM457 SALIDA 6954200136"
     },
     {
         "id": "P343",
-        "name": "CAÃ‘O COMPRESOR O-400 OM457E",
+        "name": "CAÃƒâ€˜O COMPRESOR O-400 OM457E",
         "brand": "Mercedes Benz",
         "code": "6644200136",
         "originalCode": "6644200136",
         "image": "img/products/om457/cano-compresor-o400-om457e.jpg",
-        "description": "CAÃ‘O COMPRESOR O-400 OM457E 6644200136"
+        "description": "CAÃƒâ€˜O COMPRESOR O-400 OM457E 6644200136"
     },
     {
         "id": "P344",
-        "name": "CAÃ‘O REFRIGERACION COMPRESOR 1938/OM457",
+        "name": "CAÃƒâ€˜O REFRIGERACION COMPRESOR 1938/OM457",
         "brand": "Mercedes Benz",
         "code": "4572001452 / 4602000152",
         "originalCode": "4572001452 / 4602000152",
         "image": "img/products/om457/cano-refrigeracion-compresor-1938-om457-v2.jpg",
-        "description": "CAÃ‘O REFRIGERACION COMPRESOR 1938/OM457 4572001452 / 4602000152"
+        "description": "CAÃƒâ€˜O REFRIGERACION COMPRESOR 1938/OM457 4572001452 / 4602000152"
     },
     {
         "id": "P345",
@@ -2935,12 +2935,12 @@ const products = [
     },
     {
         "id": "P358",
-        "name": "CAÃ‘O INYECTOR OM457 (ELECT.) 1634/1938",
+        "name": "CAÃƒâ€˜O INYECTOR OM457 (ELECT.) 1634/1938",
         "brand": "Mercedes Benz",
         "code": "4570701733 / 4570700933",
         "originalCode": "4570701733 / 4570700933",
         "image": "img/products/om457/cano-inyector-om457-elec.jpg",
-        "description": "CAÃ‘O INYECTOR OM457 (ELECT.) 1634/1938 4570701733 / 4570700933"
+        "description": "CAÃƒâ€˜O INYECTOR OM457 (ELECT.) 1634/1938 4570701733 / 4570700933"
     },
     {
         "id": "P359",
@@ -2962,12 +2962,12 @@ const products = [
     },
     {
         "id": "P361",
-        "name": "POLEA CIGÃœEÃ‘AL CHAPA 9PK OM457",
+        "name": "POLEA CIGÃƒÅ“EÃƒâ€˜AL CHAPA 9PK OM457",
         "brand": "Mercedes Benz",
         "code": "4570351212",
         "originalCode": "4570351212",
         "image": "img/products/om457/polea-ciguenal-chapa-om457.jpg",
-        "description": "POLEA CIGÃœEÃ‘AL CHAPA 9PK OM457 4570351212"
+        "description": "POLEA CIGÃƒÅ“EÃƒâ€˜AL CHAPA 9PK OM457 4570351212"
     },
     {
         "id": "P362",
@@ -2998,12 +2998,12 @@ const products = [
     },
     {
         "id": "P365",
-        "name": "CAÃ‘O GUIA VARILLA NIVEL ACEITE CORTO 1620/OM457",
+        "name": "CAÃƒâ€˜O GUIA VARILLA NIVEL ACEITE CORTO 1620/OM457",
         "brand": "Mercedes Benz",
         "code": "3760108566",
         "originalCode": "3760108566",
         "image": "img/products/om457/cano-guia-varilla-corto-om457.jpg",
-        "description": "CAÃ‘O GUIA VARILLA NIVEL ACEITE CORTO 1620/OM457 3760108566"
+        "description": "CAÃƒâ€˜O GUIA VARILLA NIVEL ACEITE CORTO 1620/OM457 3760108566"
     },
     {
         "id": "P366",
@@ -3043,12 +3043,12 @@ const products = [
     },
     {
         "id": "P370",
-        "name": "POLEA CIGÃœEÃ‘AL OM906/926",
+        "name": "POLEA CIGÃƒÅ“EÃƒâ€˜AL OM906/926",
         "brand": "Mercedes Benz",
         "code": "9060350800",
         "originalCode": "9060350800",
         "image": "img/products/om906/polea-ciguenal-om906.jpg",
-        "description": "POLEA CIGÃœEÃ‘AL OM906/926 9060350800"
+        "description": "POLEA CIGÃƒÅ“EÃƒâ€˜AL OM906/926 9060350800"
     },
     {
         "id": "P371",
@@ -3097,12 +3097,12 @@ const products = [
     },
     {
         "id": "P376",
-        "name": "CAÃ‘O TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926",
+        "name": "CAÃƒâ€˜O TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926",
         "brand": "Mercedes Benz",
         "code": "3685000094",
         "originalCode": "3685000094",
         "image": "img/products/om906/cano-tee-union-tubos-agua-om906.jpg",
-        "description": "CAÃ‘O TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926 3685000094"
+        "description": "CAÃƒâ€˜O TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926 3685000094"
     },
     {
         "id": "P377",
@@ -3115,12 +3115,12 @@ const products = [
     },
     {
         "id": "P378",
-        "name": "CAÃ‘O LLENADO ACEITE MOTOR OM906 O500",
+        "name": "CAÃƒâ€˜O LLENADO ACEITE MOTOR OM906 O500",
         "brand": "Mercedes Benz",
         "code": "9060100182",
         "originalCode": "9060100182",
         "image": "img/products/om906/cano-llenado-aceite-om906.jpg",
-        "description": "CAÃ‘O LLENADO ACEITE MOTOR OM906 O500 9060100182"
+        "description": "CAÃƒâ€˜O LLENADO ACEITE MOTOR OM906 O500 9060100182"
     },
     {
         "id": "P379",
@@ -3160,21 +3160,21 @@ const products = [
     },
     {
         "id": "P383",
-        "name": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM906/O500",
+        "name": "CAÃƒâ€˜O COMPRESOR (SERPENTINA) APU OM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824201828 / 3824208531",
         "originalCode": "3824201828 / 3824208531",
         "image": "img/products/om906/cano-compresor-serpentina-om906.jpg",
-        "description": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM906/O500 3824201828 / 3824208531"
+        "description": "CAÃƒâ€˜O COMPRESOR (SERPENTINA) APU OM906/O500 3824201828 / 3824208531"
     },
     {
         "id": "P384",
-        "name": "CAÃ‘O COMPRESOR O500/ OM906",
+        "name": "CAÃƒâ€˜O COMPRESOR O500/ OM906",
         "brand": "Mercedes Benz",
         "code": "3824200128 / 3824205732 / 3824208934",
         "originalCode": "3824200128 / 3824205732 / 3824208934",
         "image": "img/products/om906/cano-compresor-o500-om906.jpg",
-        "description": "CAÃ‘O COMPRESOR O500/ OM906 3824200128 / 3824205732 / 3824208934"
+        "description": "CAÃƒâ€˜O COMPRESOR O500/ OM906 3824200128 / 3824205732 / 3824208934"
     },
     {
         "id": "P385",
@@ -3187,12 +3187,12 @@ const products = [
     },
     {
         "id": "P386",
-        "name": "CAÑO RAD.O500 OM906/926 REFR. CAJA A MOTOR",
+        "name": "CAÃ‘O RAD.O500 OM906/926 REFR. CAJA A MOTOR",
         "brand": "Mercedes Benz",
         "code": "3825015682 / 6645018882",
         "originalCode": "3825015682 / 6645018882",
         "image": "img/products/om906/cano-radiador-o500-om906-caja-a-motor.jpg",
-        "description": "CAÑO RAD.O500 OM906/926 REFR. CAJA A MOTOR 3825015682 / 6645018882"
+        "description": "CAÃ‘O RAD.O500 OM906/926 REFR. CAJA A MOTOR 3825015682 / 6645018882"
     },
     {
         "id": "P387",
@@ -3223,21 +3223,21 @@ const products = [
     },
     {
         "id": "P390",
-        "name": "CAÑO ASPIRACION COMPRESOR ATEGO OM906",
+        "name": "CAÃ‘O ASPIRACION COMPRESOR ATEGO OM906",
         "brand": "Mercedes Benz",
         "code": "9061301357",
         "originalCode": "9061301357",
         "image": "img/products/om906/cano-aspiracion-compresor-atego-om906.jpg",
-        "description": "CAÑO ASPIRACION COMPRESOR ATEGO OM906 9061301357"
+        "description": "CAÃ‘O ASPIRACION COMPRESOR ATEGO OM906 9061301357"
     },
     {
         "id": "P391",
-        "name": "CAÑO COMPRESOR (SERPENTINA) A APU OM906/O500",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) A APU OM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824201036 / 3824200736",
         "originalCode": "3824201036 / 3824200736",
         "image": "img/products/om906/cano-compresor-serpentina-2-om906.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) A APU OM906/O500 3824201036 / 3824200736"
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) A APU OM906/O500 3824201036 / 3824200736"
     },
     {
         "id": "P392",
@@ -3250,12 +3250,12 @@ const products = [
     },
     {
         "id": "P393",
-        "name": "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824204828 / 3824207429",
         "originalCode": "3824204828 / 3824207429",
         "image": "img/products/om906/cano-compresor-serpentina-3-om906.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500 3824204828 / 3824207429"
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM906/O500 3824204828 / 3824207429"
     },
     {
         "id": "P394",
@@ -3277,21 +3277,21 @@ const products = [
     },
     {
         "id": "P396",
-        "name": "CAÑO RAD.OM906 2423 A BOMBA AGUA INFERIOR",
+        "name": "CAÃ‘O RAD.OM906 2423 A BOMBA AGUA INFERIOR",
         "brand": "Mercedes Benz",
         "code": "6935019282",
         "originalCode": "6935019282",
         "image": "img/products/om906/cano-radiador-om906-2423-bomba-agua.jpg",
-        "description": "CAÑO RAD.OM906 2423 A BOMBA AGUA INFERIOR 6935019282"
+        "description": "CAÃ‘O RAD.OM906 2423 A BOMBA AGUA INFERIOR 6935019282"
     },
     {
         "id": "P397",
-        "name": "CAÑO COMPRESOR 1624 OM906 SALIDA COMPRESOR",
+        "name": "CAÃ‘O COMPRESOR 1624 OM906 SALIDA COMPRESOR",
         "brand": "Mercedes Benz",
         "code": "6944204426 / 6944200326",
         "originalCode": "6944204426 / 6944200326",
         "image": "img/products/om906/cano-compresor-1624-om906-salida.jpg",
-        "description": "CAÑO COMPRESOR 1624 OM906 SALIDA COMPRESOR 6944204426 / 6944200326"
+        "description": "CAÃ‘O COMPRESOR 1624 OM906 SALIDA COMPRESOR 6944204426 / 6944200326"
     },
     {
         "id": "P398",
@@ -3313,12 +3313,12 @@ const products = [
     },
     {
         "id": "P400",
-        "name": "CAÑO RETORNO ACEITE OM906",
+        "name": "CAÃ‘O RETORNO ACEITE OM906",
         "brand": "Mercedes Benz",
         "code": "9061871801",
         "originalCode": "9061871801",
         "image": "img/products/om906/cano-retorno-aceite-om906.jpg",
-        "description": "CAÑO RETORNO ACEITE OM906 9061871801"
+        "description": "CAÃ‘O RETORNO ACEITE OM906 9061871801"
     },
     {
         "id": "P401",
@@ -3331,30 +3331,30 @@ const products = [
     },
     {
         "id": "P402",
-        "name": "CAÑO RAD.1624 COMPLEMENTO DE (19440) OM906",
+        "name": "CAÃ‘O RAD.1624 COMPLEMENTO DE (19440) OM906",
         "brand": "Mercedes Benz",
         "code": "6955011882",
         "originalCode": "6955011882",
         "image": "img/products/om906/cano-radiador-1624-complemento-om906.jpg",
-        "description": "CAÑO RAD.1624 COMPLEMENTO DE (19440) OM906 6955011882"
+        "description": "CAÃ‘O RAD.1624 COMPLEMENTO DE (19440) OM906 6955011882"
     },
     {
         "id": "P403",
-        "name": "CAÑO D/H CORTO 1722 OM906/924",
+        "name": "CAÃ‘O D/H CORTO 1722 OM906/924",
         "brand": "Mercedes Benz",
         "code": "3844600924",
         "originalCode": "3844600924",
         "image": "img/products/om906/cano-dh-corto-1722-om906-924.jpg",
-        "description": "CAÑO D/H CORTO 1722 OM906/924 3844600924"
+        "description": "CAÃ‘O D/H CORTO 1722 OM906/924 3844600924"
     },
     {
         "id": "P404",
-        "name": "CAÑO RAD.O500/OM906 INFERIOR",
+        "name": "CAÃ‘O RAD.O500/OM906 INFERIOR",
         "brand": "Mercedes Benz",
         "code": "3825011582",
         "originalCode": "3825011582",
         "image": "img/products/om906/cano-radiador-o500-om906-inferior.jpg",
-        "description": "CAÑO RAD.O500/OM906 INFERIOR 3825011582"
+        "description": "CAÃ‘O RAD.O500/OM906 INFERIOR 3825011582"
     },
     {
         "id": "P405",
@@ -3394,12 +3394,12 @@ const products = [
     },
     {
         "id": "P409",
-        "name": "CAÑO RAD.1624 COMPLEMENTO DE (19440) OM906",
+        "name": "CAÃ‘O RAD.1624 COMPLEMENTO DE (19440) OM906",
         "brand": "Mercedes Benz",
         "code": "6955012082",
         "originalCode": "6955012082",
         "image": "img/products/om906/cano-radiador-1624-complemento-om906-6955012082.jpg",
-        "description": "CAÑO RAD.1624 COMPLEMENTO DE (19440) OM906 6955012082"
+        "description": "CAÃ‘O RAD.1624 COMPLEMENTO DE (19440) OM906 6955012082"
     },
     {
         "id": "P410",
@@ -3457,21 +3457,21 @@ const products = [
     },
     {
         "id": "P416",
-        "name": "CAÑO RAD.1624 INFERIOR OM906",
+        "name": "CAÃ‘O RAD.1624 INFERIOR OM906",
         "brand": "Mercedes Benz",
         "code": "6955011982 6955010282 6955012782",
         "originalCode": "6955011982 6955010282 6955012782",
         "image": "img/products/om906/cano-radiador-1624-inferior-om906.jpg",
-        "description": "CAÑO RAD.1624 INFERIOR OM906 6955011982 6955010282 6955012782"
+        "description": "CAÃ‘O RAD.1624 INFERIOR OM906 6955011982 6955010282 6955012782"
     },
     {
         "id": "P417",
-        "name": "CAÑO RAD.1624 SUPERIOR OM906",
+        "name": "CAÃ‘O RAD.1624 SUPERIOR OM906",
         "brand": "Mercedes Benz",
         "code": "6955011782 6955010082",
         "originalCode": "6955011782 6955010082",
         "image": "img/products/om906/cano-radiador-1624-superior-om906.jpg",
-        "description": "CAÑO RAD.1624 SUPERIOR OM906 6955011782 6955010082"
+        "description": "CAÃ‘O RAD.1624 SUPERIOR OM906 6955011782 6955010082"
     },
     {
         "id": "P418",
@@ -3556,21 +3556,21 @@ const products = [
     },
     {
         "id": "P427",
-        "name": "CAÑO COMPRESOR (SERPENTINA) AL APUOM906/O500",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) AL APUOM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824204728",
         "originalCode": "3824204728",
         "image": "img/products/om906/cano-compresor-serpentina-om906-v4.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) AL APUOM906/O500 3824204728"
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) AL APUOM906/O500 3824204728"
     },
     {
         "id": "P428",
-        "name": "CAÑO LUBRICACION TURBO 1624/1725 OM906",
+        "name": "CAÃ‘O LUBRICACION TURBO 1624/1725 OM906",
         "brand": "Mercedes Benz",
         "code": "9061800720",
         "originalCode": "9061800720",
         "image": "img/products/om906/cano-lubricacion-turbo-om906.jpg",
-        "description": "CAÑO LUBRICACION TURBO 1624/1725 OM906 9061800720"
+        "description": "CAÃ‘O LUBRICACION TURBO 1624/1725 OM906 9061800720"
     },
     {
         "id": "P429",
@@ -3592,12 +3592,12 @@ const products = [
     },
     {
         "id": "P431",
-        "name": "CAÑO GASOIL BLOCK A TAPA CILINDRO Y AL FILTRO OM906/926LA",
+        "name": "CAÃ‘O GASOIL BLOCK A TAPA CILINDRO Y AL FILTRO OM906/926LA",
         "brand": "Mercedes Benz",
         "code": "9060901276 9060903376",
         "originalCode": "9060901276 9060903376",
         "image": "img/products/om906/cano-gasoil-block-tapa-cilindro-om906.jpg",
-        "description": "CAÑO GASOIL BLOCK A TAPA CILINDRO Y AL FILTRO OM906/926LA 9060901276 9060903376"
+        "description": "CAÃ‘O GASOIL BLOCK A TAPA CILINDRO Y AL FILTRO OM906/926LA 9060901276 9060903376"
     },
     {
         "id": "P432",
@@ -3634,7 +3634,7 @@ const products = [
         "originalCode": "3845010184 3845011682 3845014084",
         "image": "img/products/om924/manguera-superior-radiador-om904.jpg",
         "description": "MANGUERA SUPERIOR RADIADOR OF1722/1418/1519/OM924/OM904 3845010184 3845011682 3845014084",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P436",
@@ -3654,46 +3654,46 @@ const products = [
         "originalCode": "9240500001 9240500201",
         "image": "img/products/om924/arbol-levas-om924-euro-v.jpg",
         "description": "ARBOL LEVAS OM924 EURO V C/ENGRANAJE 2013... 9240500001 9240500201",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P438",
-        "name": "CAÑO RIGIDO SALIDA COMPRESOR 5 TRAMO OF1721/1722 OM924 EURO 5",
+        "name": "CAÃ‘O RIGIDO SALIDA COMPRESOR 5 TRAMO OF1721/1722 OM924 EURO 5",
         "brand": "Mercedes Benz",
         "code": "3844201831",
         "originalCode": "3844201831",
         "image": "img/products/om924/cano-rigido-salida-compresor-om924.jpg",
-        "description": "CAÑO RIGIDO SALIDA COMPRESOR 5 TRAMO OF1721/1722 OM924 EURO 5 3844201831",
+        "description": "CAÃ‘O RIGIDO SALIDA COMPRESOR 5 TRAMO OF1721/1722 OM924 EURO 5 3844201831",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P439",
-        "name": "CAÑO RIGIDO SALIDA COMPRESOR 3 TRAMO OF1721/1722 OM924 EURO 5",
+        "name": "CAÃ‘O RIGIDO SALIDA COMPRESOR 3 TRAMO OF1721/1722 OM924 EURO 5",
         "brand": "Mercedes Benz",
         "code": "3844201931",
         "originalCode": "3844201931",
         "image": "img/products/om924/cano-rigido-salida-compresor-3-tramo-om924.jpg",
-        "description": "CAÑO RIGIDO SALIDA COMPRESOR 3 TRAMO OF1721/1722 OM924 EURO 5 3844201931",
+        "description": "CAÃ‘O RIGIDO SALIDA COMPRESOR 3 TRAMO OF1721/1722 OM924 EURO 5 3844201931",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P440",
-        "name": "CAÑO COMPRESOR (SERPENTINA) 2° TRAMO OF1721/1722/ OM924/ LA EURO 5",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) 2Â° TRAMO OF1721/1722/ OM924/ LA EURO 5",
         "brand": "Mercedes Benz",
         "code": "3844200331",
         "originalCode": "3844200331",
         "image": "img/products/om924/cano-compresor-serpentina-2-tramo-om924.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) 2° TRAMO OF1721/1722/ OM924/ LA EURO 5 3844200331",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) 2Â° TRAMO OF1721/1722/ OM924/ LA EURO 5 3844200331",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P441",
-        "name": "CAÑO SALIDA COMPRESOR 1 TRAMO OF1721/1722 OM924 EURO 5",
+        "name": "CAÃ‘O SALIDA COMPRESOR 1 TRAMO OF1721/1722 OM924 EURO 5",
         "brand": "Mercedes Benz",
         "code": "3844200197",
         "originalCode": "3844200197",
         "image": "img/products/om924/cano-salida-compresor-1-tramo-om924.jpg",
-        "description": "CAÑO SALIDA COMPRESOR 1 TRAMO OF1721/1722 OM924 EURO 5 3844200197",
+        "description": "CAÃ‘O SALIDA COMPRESOR 1 TRAMO OF1721/1722 OM924 EURO 5 3844200197",
         "rubro": "COMPRESOR"
     },
     {
@@ -3714,7 +3714,7 @@ const products = [
         "originalCode": "6342410013 3822410113 3822410213",
         "image": "img/products/om924/soporte-motor-trasero-om924.jpg",
         "description": "SOPORTE MOTOR TRASERO OM924LA/926LA/O500/ ATEGO 1725/1732 6342410013 3822410113 3822410213",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P444",
@@ -3738,22 +3738,22 @@ const products = [
     },
     {
         "id": "P446",
-        "name": "CAÑO RAD. \"T\" A DEPOSITO OF1721/1722 OM924",
+        "name": "CAÃ‘O RAD. \"T\" A DEPOSITO OF1721/1722 OM924",
         "brand": "Mercedes Benz",
         "code": "3845011184 3845014984",
         "originalCode": "3845011184 3845014984",
         "image": "img/products/om924/cano-radiador-t-deposito-om924.jpg",
-        "description": "CAÑO RAD. \"T\" A DEPOSITO OF1721/1722 OM924 3845011184 3845014984",
+        "description": "CAÃ‘O RAD. \"T\" A DEPOSITO OF1721/1722 OM924 3845011184 3845014984",
         "rubro": "RADIADOR"
     },
     {
         "id": "P447",
-        "name": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH",
+        "name": "CAÃ‘O RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH",
         "brand": "Mercedes Benz",
         "code": "3685013882",
         "originalCode": "3685013882",
         "image": "img/products/om924/cano-radiador-termostato-om924.jpg",
-        "description": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH 3685013882",
+        "description": "CAÃ‘O RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH 3685013882",
         "rubro": "RADIADOR"
     },
     {
@@ -3764,7 +3764,7 @@ const products = [
         "originalCode": "9582402118",
         "image": "img/products/om924/soporte-motor-trasero-om924-1726.jpg",
         "description": "SOPORTE MOTOR TRASERO OM924/926 ATEGO 1726/2426 9582402118",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P449",
@@ -3778,22 +3778,22 @@ const products = [
     },
     {
         "id": "P450",
-        "name": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
+        "name": "CAÃ‘O RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
         "brand": "Mercedes Benz",
         "code": "3685013982",
         "originalCode": "3685013982",
         "image": "img/products/om924/cano-radiador-liquido-refrigerante-om924.jpg",
-        "description": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
+        "description": "CAÃ‘O RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
         "rubro": "RADIADOR"
     },
     {
         "id": "P451",
-        "name": "CAÑO RADIADOR DEL TERMOSTATO AL RADIADOR. OHL1621 - 1721 OM924",
+        "name": "CAÃ‘O RADIADOR DEL TERMOSTATO AL RADIADOR. OHL1621 - 1721 OM924",
         "brand": "Mercedes Benz",
         "code": "3685014682 3685014082",
         "originalCode": "3685014682 3685014082",
         "image": "img/products/om924/cano-radiador-termostato-radiador-om924.jpg",
-        "description": "CAÑO RADIADOR DEL TERMOSTATO AL RADIADOR. OHL1621 - 1721 OM924 3685014682 3685014082",
+        "description": "CAÃ‘O RADIADOR DEL TERMOSTATO AL RADIADOR. OHL1621 - 1721 OM924 3685014682 3685014082",
         "rubro": "RADIADOR"
     },
     {
@@ -3808,12 +3808,12 @@ const products = [
     },
     {
         "id": "P453",
-        "name": "CAÑO RIGIDO SALIDA APU L1622/L1624 OM924LA",
+        "name": "CAÃ‘O RIGIDO SALIDA APU L1622/L1624 OM924LA",
         "brand": "Mercedes Benz",
         "code": "6934202526 6954207828 6944200426",
         "originalCode": "6934202526 6954207828 6944200426",
         "image": "img/products/om924/cano-rigido-salida-apu-om924.jpg",
-        "description": "CAÑO RIGIDO SALIDA APU L1622/L1624 OM924LA 6934202526 6954207828 6944200426",
+        "description": "CAÃ‘O RIGIDO SALIDA APU L1622/L1624 OM924LA 6934202526 6954207828 6944200426",
         "rubro": "COMPRESOR"
     },
     {
@@ -3834,7 +3834,7 @@ const products = [
         "originalCode": "9240101072",
         "image": "img/products/om924/varilla-nivel-aceite-472mm-om924.jpg",
         "description": "VARILLA NIVEL ACEITE 472MM OM924LA EURO 5 OF1417 OF1519 OF1721 OF1722 9240101072",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P456",
@@ -3844,7 +3844,7 @@ const products = [
         "originalCode": "0001400030",
         "image": "img/products/om924/inyector-urea-om924.jpg",
         "description": "INYECTOR UREA OM924/926 ATEGO/AXOR 0001400030",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P457",
@@ -3868,13 +3868,13 @@ const products = [
     },
     {
         "id": "P459",
-        "name": "CAÑO D/H CORTO 1622/1624 OM924",
+        "name": "CAÃ‘O D/H CORTO 1622/1624 OM924",
         "brand": "Mercedes Benz",
         "code": "6952600095",
         "originalCode": "6952600095",
         "image": "img/products/om924/cano-dh-corto-om924.jpg",
-        "description": "CAÑO D/H CORTO 1622/1624 OM924 6952600095",
-        "rubro": "DIRECCIÓN"
+        "description": "CAÃ‘O D/H CORTO 1622/1624 OM924 6952600095",
+        "rubro": "DIRECCIÃ“N"
     },
     {
         "id": "P460",
@@ -3894,7 +3894,7 @@ const products = [
         "originalCode": "9062001323",
         "image": "img/products/om924/paleta-plastico-om924la.jpg",
         "description": "PALETA PLASTICO OM924LA OF1722 C/ARO 8 PALAS.654mm.C/VISCOSO 9062001323",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P462",
@@ -3904,7 +3904,7 @@ const products = [
         "originalCode": "6019970430",
         "image": "img/products/om924/tapon-desague-purgador-block-om924.jpg",
         "description": "TAPON DESAGUE PURGADOR BLOCK OM924/906/904/926 SPRINTER 611 6019970430",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P463",
@@ -3918,13 +3918,13 @@ const products = [
     },
     {
         "id": "P464",
-        "name": "CAÑO SALIDA DE BOMBA A CAJA D/HIDR.1624 OM924",
+        "name": "CAÃ‘O SALIDA DE BOMBA A CAJA D/HIDR.1624 OM924",
         "brand": "Mercedes Benz",
         "code": "6952600085",
         "originalCode": "6952600085",
         "image": "img/products/om924/cano-salida-bomba-direccion-om924.jpg",
-        "description": "CAÑO SALIDA DE BOMBA A CAJA D/HIDR.1624 OM924 6952600085",
-        "rubro": "DIRECCIÓN"
+        "description": "CAÃ‘O SALIDA DE BOMBA A CAJA D/HIDR.1624 OM924 6952600085",
+        "rubro": "DIRECCIÃ“N"
     },
     {
         "id": "P465",
@@ -3934,7 +3934,7 @@ const products = [
         "originalCode": "9062004801 9062005701 9062006101 9062004201",
         "image": "img/products/om924/bomba-agua-om924.jpg",
         "description": "BOMBA AGUA OM924/926 9062004801 9062005701 9062006101 9062004201",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P466",
@@ -3944,7 +3944,7 @@ const products = [
         "originalCode": "9062050106 0032051306 9062001323 6C458600CA",
         "image": "img/products/om924/paleta-plastico-om924-1624.jpg",
         "description": "PALETA PLASTICO OM924/L1624/1725 C/ARO 8 PALAS.654mm. 9062050106 0032051306 9062001323 6C458600CA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P467",
@@ -3964,7 +3964,7 @@ const products = [
         "originalCode": "9062001522 9062001723",
         "image": "img/products/om924/viscoso-om924.jpg",
         "description": "VISCOSO SOLA OF1722E/OM924LA/1624/1725 9062001522 9062001723",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P469",
@@ -3978,12 +3978,12 @@ const products = [
     },
     {
         "id": "P470",
-        "name": "CAÑO SERPENTINA 2 TRAMO COMPRESOR OF1519 OM926 EURO V",
+        "name": "CAÃ‘O SERPENTINA 2 TRAMO COMPRESOR OF1519 OM926 EURO V",
         "brand": "Mercedes Benz",
         "code": "3844208629",
         "originalCode": "3844208629",
         "image": "img/products/om926/cano-serpentina-2-tramo-compresor-om926.jpg",
-        "description": "CAÑO SERPENTINA 2 TRAMO COMPRESOR OF1519 OM926 EURO V 3844208629",
+        "description": "CAÃ‘O SERPENTINA 2 TRAMO COMPRESOR OF1519 OM926 EURO V 3844208629",
         "rubro": "COMPRESOR"
     },
     {
@@ -3998,12 +3998,12 @@ const products = [
     },
     {
         "id": "P472",
-        "name": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V",
+        "name": "CAÃ‘O RIGIDO COMPRESOR 5Âº TRAMO O500 OM926 EURO V",
         "brand": "Mercedes Benz",
         "code": "3824208833",
         "originalCode": "3824208833",
         "image": "img/products/om926/cano-rigido-compresor-5-tramo-o500-om926.jpg",
-        "description": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V 3824208833",
+        "description": "CAÃ‘O RIGIDO COMPRESOR 5Âº TRAMO O500 OM926 EURO V 3824208833",
         "rubro": "COMPRESOR"
     },
     {
@@ -4024,26 +4024,26 @@ const products = [
         "originalCode": "9060101074",
         "image": "img/products/om926/varilla-nivel-aceite-o500-om926.jpg",
         "description": "VARILLA NIVEL ACEITE O500/OM926 9060101074",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P475",
-        "name": "CAÑO COMPRESOR (SERPENTINA) 3° TRAMO OM500M/OM926",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) 3Â° TRAMO OM500M/OM926",
         "brand": "Mercedes Benz",
         "code": "3824204134 3824204828 3824200736",
         "originalCode": "3824204134 3824204828 3824200736",
         "image": "img/products/om926/cano-compresor-serpentina-3-tramo-om926.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) 3° TRAMO OM500M/OM926 3824204134 3824204828 3824200736",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) 3Â° TRAMO OM500M/OM926 3824204134 3824204828 3824200736",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P476",
-        "name": "CAÑO RIGIDO COMPRESOR 3 TRAMO OF1519/OM926/ EURO 5",
+        "name": "CAÃ‘O RIGIDO COMPRESOR 3 TRAMO OF1519/OM926/ EURO 5",
         "brand": "Mercedes Benz",
         "code": "3844208529",
         "originalCode": "3844208529",
         "image": "img/products/om926/cano-rigido-compresor-3-tramo-om926-euro-5.jpg",
-        "description": "CAÑO RIGIDO COMPRESOR 3 TRAMO OF1519/OM926/ EURO 5 3844208529",
+        "description": "CAÃ‘O RIGIDO COMPRESOR 3 TRAMO OF1519/OM926/ EURO 5 3844208529",
         "rubro": "COMPRESOR"
     },
     {
@@ -4054,16 +4054,16 @@ const products = [
         "originalCode": "0000908550 0000909250 0440011021",
         "image": "img/products/om926/cebador-con-soporte-om926.jpg",
         "description": "CEBADOR CON SOP 457/OM906 LA/OM926/O500 0000908550 0000909250 0440011021",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P478",
-        "name": "CAÑO RIGIDO DE SALIDA COMPRESOR 4 TRAMO OF1519/OM926/ EURO 5",
+        "name": "CAÃ‘O RIGIDO DE SALIDA COMPRESOR 4 TRAMO OF1519/OM926/ EURO 5",
         "brand": "Mercedes Benz",
         "code": "3844208729",
         "originalCode": "3844208729",
         "image": "img/products/om926/cano-rigido-salida-compresor-4-tramo-om926.jpg",
-        "description": "CAÑO RIGIDO DE SALIDA COMPRESOR 4 TRAMO OF1519/OM926/ EURO 5 3844208729",
+        "description": "CAÃ‘O RIGIDO DE SALIDA COMPRESOR 4 TRAMO OF1519/OM926/ EURO 5 3844208729",
         "rubro": "COMPRESOR"
     },
     {
@@ -4098,22 +4098,22 @@ const products = [
     },
     {
         "id": "P482",
-        "name": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
+        "name": "CAÃ‘O RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
         "brand": "Mercedes Benz",
         "code": "3685013982",
         "originalCode": "3685013982",
         "image": "img/products/om926/cano-radiador-tuberria-om926.png",
-        "description": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
+        "description": "CAÃ‘O RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
         "rubro": "RADIADOR"
     },
     {
         "id": "P483",
-        "name": "CAÑO COMPRESOR (SERPENTINA) APU OM926/AXOR 1933",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM926/AXOR 1933",
         "brand": "Mercedes Benz",
         "code": "9584201133",
         "originalCode": "9584201133",
         "image": "img/products/om926/cano-compresor-serpentina-apu-om926.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) APU OM926/AXOR 1933 9584201133",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM926/AXOR 1933 9584201133",
         "rubro": "COMPRESOR"
     },
     {
@@ -4124,7 +4124,7 @@ const products = [
         "originalCode": "3685014482 900271050024",
         "image": "img/products/om926/manguera-refrigeracion-caja-om926.jpg",
         "description": "MANGUERA REFRIGERACION CAJA OM904/906/O500/OM926 3685014482 900271050024",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P485",
@@ -4144,7 +4144,7 @@ const products = [
         "originalCode": "9260100320 9260103520",
         "image": "img/products/om926/juego-junta-descarbonizacion-om926.jpg",
         "description": "JUEGO JUNTA DESCARBONIZACION 106MM.OM926 ORIGINAL 9260100320 9260103520",
-        "rubro": "TAPA CILINDRO Y VÁLVULA"
+        "rubro": "TAPA CILINDRO Y VÃLVULA"
     },
     {
         "id": "P487",
@@ -4154,7 +4154,7 @@ const products = [
         "originalCode": "9262000223",
         "image": "img/products/om926/viscoso-electromagnetico-om926.jpg",
         "description": "VISCOSO SOLO C/CABLE ELECTROMAGNETICO OM926LA ATEGO/AXOR 1726/1729/2426 9262000223",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P488",
@@ -4164,7 +4164,7 @@ const products = [
         "originalCode": "9262000223",
         "image": "img/products/om926/paleta-con-viscoso-electromagnetico-om926.jpg",
         "description": "PALETA CON VISCOSO C/CABLE ELECTROMAGNETICO OM926LA ATEGO/AXOR 1726/1729/2426 9262000223",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P489",
@@ -4178,32 +4178,32 @@ const products = [
     },
     {
         "id": "P490",
-        "name": "CAÑO COMPRESOR 1624L/1933/2035/AXOR OM926 3ER TRAMO",
+        "name": "CAÃ‘O COMPRESOR 1624L/1933/2035/AXOR OM926 3ER TRAMO",
         "brand": "Mercedes Benz",
         "code": "9584209326 6944204626",
         "originalCode": "9584209326 6944204626",
         "image": "img/products/om926/cano-compresor-3-tramo-axor-om926.jpg",
-        "description": "CAÑO COMPRESOR 1624L/1933/2035/AXOR OM926 3ER TRAMO 9584209326 6944204626",
+        "description": "CAÃ‘O COMPRESOR 1624L/1933/2035/AXOR OM926 3ER TRAMO 9584209326 6944204626",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P491",
-        "name": "CAÑO COMPRESOR 1933 OM926 SALIDA COMPRESOR AXOR",
+        "name": "CAÃ‘O COMPRESOR 1933 OM926 SALIDA COMPRESOR AXOR",
         "brand": "Mercedes Benz",
         "code": "9584209033",
         "originalCode": "9584209033",
         "image": "img/products/om926/cano-salida-compresor-axor-om926.jpg",
-        "description": "CAÑO COMPRESOR 1933 OM926 SALIDA COMPRESOR AXOR 9584209033",
+        "description": "CAÃ‘O COMPRESOR 1933 OM926 SALIDA COMPRESOR AXOR 9584209033",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P492",
-        "name": "CAÑO COMPRESOR 1933/2035/AXOR OM926 2DO TRAMO",
+        "name": "CAÃ‘O COMPRESOR 1933/2035/AXOR OM926 2DO TRAMO",
         "brand": "Mercedes Benz",
         "code": "9584204129",
         "originalCode": "9584204129",
         "image": "img/products/om926/cano-compresor-2-tramo-axor-om926.jpg",
-        "description": "CAÑO COMPRESOR 1933/2035/AXOR OM926 2DO TRAMO 9584204129",
+        "description": "CAÃ‘O COMPRESOR 1933/2035/AXOR OM926 2DO TRAMO 9584204129",
         "rubro": "COMPRESOR"
     },
     {
@@ -4218,12 +4218,12 @@ const products = [
     },
     {
         "id": "P494",
-        "name": "CAÑO COMPRESOR 1634/1933/2533/AXOR OM926 4TO TRAMO A VALVULA",
+        "name": "CAÃ‘O COMPRESOR 1634/1933/2533/AXOR OM926 4TO TRAMO A VALVULA",
         "brand": "Mercedes Benz",
         "code": "9584209426",
         "originalCode": "9584209426",
         "image": "img/products/om926/cano-compresor-4-tramo-axor-om926.jpg",
-        "description": "CAÑO COMPRESOR 1634/1933/2533/AXOR OM926 4TO TRAMO A VALVULA 9584209426",
+        "description": "CAÃ‘O COMPRESOR 1634/1933/2533/AXOR OM926 4TO TRAMO A VALVULA 9584209426",
         "rubro": "COMPRESOR"
     },
     {
@@ -4234,7 +4234,7 @@ const products = [
         "originalCode": "9062001923 9062001222 9062002022 9062001922 9262000022",
         "image": "img/products/om926/viscoso-solo-axor-om926.jpg",
         "description": "VISCOSO SOLO AXOR 1933/2831/OM926LA 9062001923 9062001222 9062002022 9062001922 9262000022",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P496",
@@ -4254,7 +4254,7 @@ const products = [
         "originalCode": "9062000370 9062004670",
         "image": "img/products/om926/tensor-correa-om926.jpg",
         "description": "TENSOR DE CORREA O500/OM926/OF1115 9062000370 9062004670",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P498",
@@ -4274,7 +4274,7 @@ const products = [
         "originalCode": "9260100320 9260103520",
         "image": "img/products/om926/juego-junta-descarbonizacion-elring-om926.jpg",
         "description": "JUEGO JUNTA DESCARBONIZACION 106MM.OM926 ELRING 9260100320 9260103520",
-        "rubro": "TAPA CILINDRO Y VÁLVULA"
+        "rubro": "TAPA CILINDRO Y VÃLVULA"
     },
     {
         "id": "P500",
@@ -4288,12 +4288,12 @@ const products = [
     },
     {
         "id": "P501",
-        "name": "CAÑO RIGIDO DOBLE ACEITE TURBO OM651 415/515",
+        "name": "CAÃ‘O RIGIDO DOBLE ACEITE TURBO OM651 415/515",
         "brand": "Mercedes Benz",
         "code": "6511800722",
         "originalCode": "6511800722",
         "image": "img/products/om651/cano_rigido_doble_aceite_turbo_om651.jpg",
-        "description": "CAÑO RIGIDO DOBLE ACEITE TURBO OM651 415/515 6511800722",
+        "description": "CAÃ‘O RIGIDO DOBLE ACEITE TURBO OM651 415/515 6511800722",
         "rubro": "SPRINTER"
     },
     {
@@ -4368,12 +4368,12 @@ const products = [
     },
     {
         "id": "P509",
-        "name": "POLEA CIGUEÑAL SPRINTER 415/515 OM651",
+        "name": "POLEA CIGUEÃ‘AL SPRINTER 415/515 OM651",
         "brand": "Mercedes Benz",
         "code": "6510300803 6510300703",
         "originalCode": "6510300803 6510300703",
         "image": "img/products/om651/polea_ciguenal_sprinter_om651.jpg",
-        "description": "POLEA CIGUEÑAL SPRINTER 415/515 OM651 6510300803 6510300703",
+        "description": "POLEA CIGUEÃ‘AL SPRINTER 415/515 OM651 6510300803 6510300703",
         "rubro": "SPRINTER"
     },
     {
@@ -4468,12 +4468,12 @@ const products = [
     },
     {
         "id": "P519",
-        "name": "CIGUEÑAL SPRINTER CDI OM651 (4 CONTRAPESOS)",
+        "name": "CIGUEÃ‘AL SPRINTER CDI OM651 (4 CONTRAPESOS)",
         "brand": "Mercedes Benz",
         "code": "6510302501",
         "originalCode": "6510302501",
         "image": "img/products/om651/ciguenal_sprinter_om651_4_contrapesos.jpg",
-        "description": "CIGUEÑAL SPRINTER CDI OM651 (4 CONTRAPESOS) 6510302501",
+        "description": "CIGUEÃ‘AL SPRINTER CDI OM651 (4 CONTRAPESOS) 6510302501",
         "rubro": "SPRINTER"
     },
     {
@@ -4708,12 +4708,12 @@ const products = [
     },
     {
         "id": "P543",
-        "name": "CAÑO PLASTICO BOMBA AGUA 415/515 OM651",
+        "name": "CAÃ‘O PLASTICO BOMBA AGUA 415/515 OM651",
         "brand": "Mercedes Benz",
         "code": "6512000151",
         "originalCode": "6512000151",
         "image": "img/products/om651/cano_plastico_bomba_agua_om651.jpg",
-        "description": "CAÑO PLASTICO BOMBA AGUA 415/515 OM651 6512000151",
+        "description": "CAÃ‘O PLASTICO BOMBA AGUA 415/515 OM651 6512000151",
         "rubro": "SPRINTER"
     },
     {
@@ -4728,12 +4728,12 @@ const products = [
     },
     {
         "id": "P545",
-        "name": "CAÑO LUBRICACION TURBO 515/OM651",
+        "name": "CAÃ‘O LUBRICACION TURBO 515/OM651",
         "brand": "Mercedes Benz",
         "code": "6511801820 6511800620 6511800320 6511801220",
         "originalCode": "6511801820 6511800620 6511800320 6511801220",
         "image": "img/products/om651/cano_lubricacion_turbo_om651.jpg",
-        "description": "CAÑO LUBRICACION TURBO 515/OM651 6511801820 6511800620 6511800320 6511801220",
+        "description": "CAÃ‘O LUBRICACION TURBO 515/OM651 6511801820 6511800620 6511800320 6511801220",
         "rubro": "SPRINTER"
     },
     {
@@ -4898,12 +4898,12 @@ const products = [
     },
     {
         "id": "P562",
-        "name": "SENSOR CIGUEÑAL/ARBOL LEVA SPRINTER OM651 515 NCV3",
+        "name": "SENSOR CIGUEÃ‘AL/ARBOL LEVA SPRINTER OM651 515 NCV3",
         "brand": "Mercedes Benz",
         "code": "0061537728 6519050100",
         "originalCode": "0061537728 6519050100",
         "image": "img/products/om651/sensor_ciguenal_arbol_leva_sprinter_om651.jpg",
-        "description": "SENSOR CIGUEÑAL/ARBOL LEVA SPRINTER OM651 515 NCV3 0061537728 6519050100",
+        "description": "SENSOR CIGUEÃ‘AL/ARBOL LEVA SPRINTER OM651 515 NCV3 0061537728 6519050100",
         "rubro": "SPRINTER"
     },
     {
@@ -4968,32 +4968,32 @@ const products = [
     },
     {
         "id": "P569",
-        "name": "CAÑO INYECTOR N1y2 SPRINTER 515/415/411 OM651",
+        "name": "CAÃ‘O INYECTOR N1y2 SPRINTER 515/415/411 OM651",
         "brand": "Mercedes Benz",
         "code": "6510702433 6510703133",
         "originalCode": "6510702433 6510703133",
         "image": "img/products/om651/cano_inyector_n1y2_sprinter_om651.jpg",
-        "description": "CAÑO INYECTOR N1y2 SPRINTER 515/415/411 OM651 6510702433 6510703133",
+        "description": "CAÃ‘O INYECTOR N1y2 SPRINTER 515/415/411 OM651 6510702433 6510703133",
         "rubro": "SPRINTER"
     },
     {
         "id": "P570",
-        "name": "CAÑO ALIMENT. DIST. COMB.SPR 515/415/411 OM651",
+        "name": "CAÃ‘O ALIMENT. DIST. COMB.SPR 515/415/411 OM651",
         "brand": "Mercedes Benz",
         "code": "6510703033",
         "originalCode": "6510703033",
         "image": "img/products/om651/cano_alimentacion_distribucion_combustible_sprinter_om651.jpg",
-        "description": "CAÑO ALIMENT. DIST. COMB.SPR 515/415/411 OM651 6510703033",
+        "description": "CAÃ‘O ALIMENT. DIST. COMB.SPR 515/415/411 OM651 6510703033",
         "rubro": "SPRINTER"
     },
     {
         "id": "P571",
-        "name": "CAÑO INYECTOR N3y4 SPRINTER 515/415/411 OM651",
+        "name": "CAÃ‘O INYECTOR N3y4 SPRINTER 515/415/411 OM651",
         "brand": "Mercedes Benz",
         "code": "6510702533 6510703233",
         "originalCode": "6510702533 6510703233",
         "image": "img/products/om651/cano_inyector_n3y4_sprinter_om651.jpg",
-        "description": "CAÑO INYECTOR N3y4 SPRINTER 515/415/411 OM651 6510702533 6510703233",
+        "description": "CAÃ‘O INYECTOR N3y4 SPRINTER 515/415/411 OM651 6510702533 6510703233",
         "rubro": "SPRINTER"
     },
     {
@@ -5158,12 +5158,12 @@ const products = [
     },
     {
         "id": "P588",
-        "name": "UNION GOMA CAÑO ACEITE SPRINTER 313/413 OM611",
+        "name": "UNION GOMA CAÃ‘O ACEITE SPRINTER 313/413 OM611",
         "brand": "Mercedes Benz",
         "code": "6111870580",
         "originalCode": "6111870580",
         "image": "img/products/om611/union_goma_cano_aceite_om611.jpg",
-        "description": "UNION GOMA CAÑO ACEITE SPRINTER 313/413 OM611 6111870580",
+        "description": "UNION GOMA CAÃ‘O ACEITE SPRINTER 313/413 OM611 6111870580",
         "rubro": "SPRINTER"
     },
     {
@@ -5218,12 +5218,12 @@ const products = [
     },
     {
         "id": "P594",
-        "name": "CIGUEÑAL SPRINTER CDI OM611",
+        "name": "CIGUEÃ‘AL SPRINTER CDI OM611",
         "brand": "Mercedes Benz",
         "code": "6110310201 6110310501 6460310701 6460310401",
         "originalCode": "6110310201 6110310501 6460310701 6460310401",
         "image": "img/products/om611/ciguenal_om611.jpg",
-        "description": "CIGUEÑAL SPRINTER CDI OM611 6110310201 6110310501 6460310701 6460310401",
+        "description": "CIGUEÃ‘AL SPRINTER CDI OM611 6110310201 6110310501 6460310701 6460310401",
         "rubro": "SPRINTER"
     },
     {
@@ -5308,22 +5308,22 @@ const products = [
     },
     {
         "id": "P603",
-        "name": "CAÑO LUBRICACION TURBO SPRINTER OM611 313/413",
+        "name": "CAÃ‘O LUBRICACION TURBO SPRINTER OM611 313/413",
         "brand": "Mercedes Benz",
         "code": "6111800620 6111800120",
         "originalCode": "6111800620 6111800120",
         "image": "img/products/om611/cano_lubricacion_turbo_om611.jpg",
-        "description": "CAÑO LUBRICACION TURBO SPRINTER OM611 313/413 6111800620 6111800120",
+        "description": "CAÃ‘O LUBRICACION TURBO SPRINTER OM611 313/413 6111800620 6111800120",
         "rubro": "SPRINTER"
     },
     {
         "id": "P604",
-        "name": "CAÑO RIGIDO CALEFACCION SPR CDI 413 OM611",
+        "name": "CAÃ‘O RIGIDO CALEFACCION SPR CDI 413 OM611",
         "brand": "Mercedes Benz",
         "code": "9018302715",
         "originalCode": "9018302715",
         "image": "img/products/om611/cano_rigido_calefaccion_om611.jpg",
-        "description": "CAÑO RIGIDO CALEFACCION SPR CDI 413 OM611 9018302715",
+        "description": "CAÃ‘O RIGIDO CALEFACCION SPR CDI 413 OM611 9018302715",
         "rubro": "SPRINTER"
     },
     {
@@ -5418,12 +5418,12 @@ const products = [
     },
     {
         "id": "P614",
-        "name": "CAÑO TERMOSTATO OM611 CDI311/313",
+        "name": "CAÃ‘O TERMOSTATO OM611 CDI311/313",
         "brand": "Mercedes Benz",
         "code": "6112030582",
         "originalCode": "6112030582",
         "image": "img/products/om611/cano_termostato_om611_cdi.jpg",
-        "description": "CAÑO TERMOSTATO OM611 CDI311/313 6112030582",
+        "description": "CAÃ‘O TERMOSTATO OM611 CDI311/313 6112030582",
         "rubro": "SPRINTER"
     },
     {
@@ -5468,12 +5468,12 @@ const products = [
     },
     {
         "id": "P619",
-        "name": "CAÑO RETORNO ACEITE TURBO AL BLOCK SPR CDI OM611 313/413",
+        "name": "CAÃ‘O RETORNO ACEITE TURBO AL BLOCK SPR CDI OM611 313/413",
         "brand": "Mercedes Benz",
         "code": "6461800322 6111800122",
         "originalCode": "6461800322 6111800122",
         "image": "img/products/om611/cano_retorno_aceite_turbo_block_spr_cdi_om611.jpg",
-        "description": "CAÑO RETORNO ACEITE TURBO AL BLOCK SPR CDI OM611 313/413 6461800322 6111800122",
+        "description": "CAÃ‘O RETORNO ACEITE TURBO AL BLOCK SPR CDI OM611 313/413 6461800322 6111800122",
         "rubro": "SPRINTER"
     },
     {
@@ -5518,12 +5518,12 @@ const products = [
     },
     {
         "id": "P624",
-        "name": "RETEN BANCADA CIGUEÑAL TRASERO OM611",
+        "name": "RETEN BANCADA CIGUEÃ‘AL TRASERO OM611",
         "brand": "Mercedes Benz",
         "code": "6110100114",
         "originalCode": "6110100114",
         "image": "img/products/om611/reten_bancada_ciguenal_trasero_om611.jpg",
-        "description": "RETEN BANCADA CIGUEÑAL TRASERO OM611 6110100114",
+        "description": "RETEN BANCADA CIGUEÃ‘AL TRASERO OM611 6110100114",
         "rubro": "SPRINTER"
     },
     {
@@ -5568,12 +5568,12 @@ const products = [
     },
     {
         "id": "P629",
-        "name": "SENSOR CIGUEÑAL SPRINTER CDI OM611",
+        "name": "SENSOR CIGUEÃ‘AL SPRINTER CDI OM611",
         "brand": "Mercedes Benz",
         "code": "0031532728 0031532828",
         "originalCode": "0031532728 0031532828",
         "image": "img/products/om611/sensor_ciguenal_sprinter_om611.jpg",
-        "description": "SENSOR CIGUEÑAL SPRINTER CDI OM611 0031532728 0031532828",
+        "description": "SENSOR CIGUEÃ‘AL SPRINTER CDI OM611 0031532728 0031532828",
         "rubro": "SPRINTER"
     },
     {
@@ -5728,12 +5728,12 @@ const products = [
     },
     {
         "id": "P645",
-        "name": "CAÑO BOMBA AGUA AL RETORNO CALEFACCION CDI OM611",
+        "name": "CAÃ‘O BOMBA AGUA AL RETORNO CALEFACCION CDI OM611",
         "brand": "Mercedes Benz",
         "code": "6112030482",
         "originalCode": "6112030482",
         "image": "img/products/om611/cano_bomba_agua_al_retorno_calefaccion_om611.jpg",
-        "description": "CAÑO BOMBA AGUA AL RETORNO CALEFACCION CDI OM611 6112030482",
+        "description": "CAÃ‘O BOMBA AGUA AL RETORNO CALEFACCION CDI OM611 6112030482",
         "rubro": "SPRINTER"
     },
     {
@@ -5758,12 +5758,12 @@ const products = [
     },
     {
         "id": "P648",
-        "name": "POLEA CIGUEÑAL CDI OM611/613",
+        "name": "POLEA CIGUEÃ‘AL CDI OM611/613",
         "brand": "Mercedes Benz",
         "code": "6460300903 6110300503",
         "originalCode": "6460300903 6110300503",
         "image": "img/products/om611/polea_ciguenal_cdi_om611_613.jpg",
-        "description": "POLEA CIGUEÑAL CDI OM611/613 6460300903 6110300503",
+        "description": "POLEA CIGUEÃ‘AL CDI OM611/613 6460300903 6110300503",
         "rubro": "SPRINTER"
     },
     {
@@ -5808,12 +5808,12 @@ const products = [
     },
     {
         "id": "P653",
-        "name": "CAÑO INYECTOR OM611 313/412",
+        "name": "CAÃ‘O INYECTOR OM611 313/412",
         "brand": "Mercedes Benz",
         "code": "6110700033 T10700033",
         "originalCode": "6110700033 T10700033",
         "image": "img/products/om611/cano_inyector_om611.jpg",
-        "description": "CAÑO INYECTOR OM611 313/412 6110700033 T10700033",
+        "description": "CAÃ‘O INYECTOR OM611 313/412 6110700033 T10700033",
         "rubro": "SPRINTER"
     },
     {
@@ -5868,13 +5868,13 @@ const products = [
     },
     {
         "id": "P659",
-        "name": "CAÑO GOMA LLENADO ACEITE OM457/O500",
+        "name": "CAÃ‘O GOMA LLENADO ACEITE OM457/O500",
         "brand": "Mercedes Benz",
         "code": "4570180082",
         "originalCode": "4570180082",
         "image": "img/products/o500/cano_goma_llenado_aceite_o500.jpg",
-        "description": "CAÑO GOMA LLENADO ACEITE OM457/O500 4570180082",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "description": "CAÃ‘O GOMA LLENADO ACEITE OM457/O500 4570180082",
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P660",
@@ -5884,7 +5884,7 @@ const products = [
         "originalCode": "4752057510",
         "image": "img/products/o500/polea_accionamiento_ventilador_o500.jpg",
         "description": "POLEA ACCIONAMIENTO EJE VENTILADOR DOBLE CANAL (ESTRIADA) O500 4752057510",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P661",
@@ -5894,7 +5894,7 @@ const products = [
         "originalCode": "6344600509",
         "image": "img/products/o500/barra_columna_direccion_o500.jpg",
         "description": "BARRA COLUMNA DIRECCION O500 6344600509",
-        "rubro": "DIRECCIÓN"
+        "rubro": "DIRECCIÃ“N"
     },
     {
         "id": "P662",
@@ -5938,12 +5938,12 @@ const products = [
     },
     {
         "id": "P666",
-        "name": "CAÑO INF RADIADOR OH1618/O500 OM904/926 EURO V",
+        "name": "CAÃ‘O INF RADIADOR OH1618/O500 OM904/926 EURO V",
         "brand": "Mercedes Benz",
         "code": "3685011082 3685010282",
         "originalCode": "3685011082 3685010282",
         "image": "img/products/o500/cano_inf_radiador_o500.jpg",
-        "description": "CAÑO INF RADIADOR OH1618/O500 OM904/926 EURO V 3685011082 3685010282",
+        "description": "CAÃ‘O INF RADIADOR OH1618/O500 OM904/926 EURO V 3685011082 3685010282",
         "rubro": "RADIADOR"
     },
     {
@@ -5968,12 +5968,12 @@ const products = [
     },
     {
         "id": "P669",
-        "name": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V",
+        "name": "CAÃ‘O RIGIDO COMPRESOR 5Âº TRAMO O500 OM926 EURO V",
         "brand": "Mercedes Benz",
         "code": "3824208833",
         "originalCode": "3824208833",
         "image": "img/products/o500/cano_rigido_compresor_5to_tramo_o500.jpg",
-        "description": "CAÑO RIGIDO COMPRESOR 5º TRAMO O500 OM926 EURO V 3824208833",
+        "description": "CAÃ‘O RIGIDO COMPRESOR 5Âº TRAMO O500 OM926 EURO V 3824208833",
         "rubro": "COMPRESOR"
     },
     {
@@ -5984,7 +5984,7 @@ const products = [
         "originalCode": "9060101074",
         "image": "img/products/o500/varilla_nivel_aceite_o500.jpg",
         "description": "VARILLA NIVEL ACEITE O500/OM926 9060101074",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P671",
@@ -5994,16 +5994,16 @@ const products = [
         "originalCode": "0000908550 0000909250 0440011021",
         "image": "img/products/o500/cebador_con_sop_o500.jpg",
         "description": "CEBADOR CON SOP 457/OM906 LA/OM926/O500 0000908550 0000909250 0440011021",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P672",
-        "name": "CAÑO COMPRESOR (SERPENTINA)5°TRAMO C/SALIDA RECTA O500/OM457 LA",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA)5Â°TRAMO C/SALIDA RECTA O500/OM457 LA",
         "brand": "Mercedes Benz",
         "code": "6344209029 3844204228",
         "originalCode": "6344209029 3844204228",
         "image": "img/products/o500/cano_compresor_serpentina_o500.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA)5°TRAMO C/SALIDA RECTA O500/OM457 LA 6344209029 3844204228",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA)5Â°TRAMO C/SALIDA RECTA O500/OM457 LA 6344209029 3844204228",
         "rubro": "COMPRESOR"
     },
     {
@@ -6014,7 +6014,7 @@ const products = [
         "originalCode": "3685000000",
         "image": "img/products/o500/radiador_intercooler_o500.jpg",
         "description": "RADIADOR INTERCOOLER M.BENZ OH1618 OMNIBUS O500 3685000000",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P674",
@@ -6028,12 +6028,12 @@ const products = [
     },
     {
         "id": "P675",
-        "name": "CAÑO RIGIDO COMPRESOR 2° TRAMO RECTO 2.510mm O500 EURO 5 OM 926",
+        "name": "CAÃ‘O RIGIDO COMPRESOR 2Â° TRAMO RECTO 2.510mm O500 EURO 5 OM 926",
         "brand": "Mercedes Benz",
         "code": "3824208931",
         "originalCode": "3824208931",
         "image": "img/products/o500/cano_rigido_compresor_2do_tramo_o500.jpg",
-        "description": "CAÑO RIGIDO COMPRESOR 2° TRAMO RECTO 2.510mm O500 EURO 5 OM 926 3824208931",
+        "description": "CAÃ‘O RIGIDO COMPRESOR 2Â° TRAMO RECTO 2.510mm O500 EURO 5 OM 926 3824208931",
         "rubro": "COMPRESOR"
     },
     {
@@ -6044,7 +6044,7 @@ const products = [
         "originalCode": "3823230100 6283230100 6283230400",
         "image": "img/products/o500/amortiguador_delantero_o500.jpg",
         "description": "AMORTIGUADOR DELANTERO OM906/926 O500 3823230100 6283230100 6283230400",
-        "rubro": "ELÁSTICO-SUSPENSIÓN-AMORT."
+        "rubro": "ELÃSTICO-SUSPENSIÃ“N-AMORT."
     },
     {
         "id": "P677",
@@ -6054,7 +6054,7 @@ const products = [
         "originalCode": "6342410013 3822410113 3822410213",
         "image": "img/products/o500/soporte_motor_trasero_o500.jpg",
         "description": "SOPORTE MOTOR TRASERO OM924LA/926LA/O500/ ATEGO 1725/1732 6342410013 3822410113 3822410213",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P678",
@@ -6064,7 +6064,7 @@ const products = [
         "originalCode": "4752057604",
         "image": "img/products/o500/cubo_acople_ventilador_o500.jpg",
         "description": "CUBO ACOPLE VENTILADOR OHL1618 OM904 OM906 O500 4752057604",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P679",
@@ -6074,27 +6074,27 @@ const products = [
         "originalCode": "6349970276",
         "image": "img/products/o500/rigido_curvo_direccion_hidraulica_o500.jpg",
         "description": "RIGIDO CURVO DIRECCION HIDRAULICA OF1417/O500 OM904 6349970276",
-        "rubro": "DIRECCIÓN"
+        "rubro": "DIRECCIÃ“N"
     },
     {
         "id": "P680",
-        "name": "CAÑO TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926",
+        "name": "CAÃ‘O TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926",
         "brand": "Mercedes Benz",
         "code": "3685000094",
         "originalCode": "3685000094",
         "image": "img/products/o500/cano_tee_union_agua_o500.jpg",
-        "description": "CAÑO TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926 3685000094",
+        "description": "CAÃ‘O TEE UNION DE TUBOS DE AGUA O500/OM904/924/OM906/926 3685000094",
         "rubro": "RADIADOR"
     },
     {
         "id": "P681",
-        "name": "CAÑO LLENADO ACEITE MOTOR OM906 O500",
+        "name": "CAÃ‘O LLENADO ACEITE MOTOR OM906 O500",
         "brand": "Mercedes Benz",
         "code": "9060100182",
         "originalCode": "9060100182",
         "image": "img/products/o500/cano_llenado_aceite_om906_o500.jpg",
-        "description": "CAÑO LLENADO ACEITE MOTOR OM906 O500 9060100182",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "description": "CAÃ‘O LLENADO ACEITE MOTOR OM906 O500 9060100182",
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P682",
@@ -6114,36 +6114,36 @@ const products = [
         "originalCode": "3762057210",
         "image": "img/products/o500/polea_doble_estriada_o500.jpg",
         "description": "POLEA DOBLE ESTRIADA AC.VENTILADOR OH1518/1618 O500 OM904/906 3762057210",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P684",
-        "name": "CAÑO RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR",
+        "name": "CAÃ‘O RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR",
         "brand": "Mercedes Benz",
         "code": "6345010482",
         "originalCode": "6345010482",
         "image": "img/products/o500/cano_agua_flexible_o500.jpg",
-        "description": "CAÑO RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR 6345010482",
+        "description": "CAÃ‘O RAD.O500/OM457 FLEXIBLE DE AGUA AL RADIADOR 6345010482",
         "rubro": "RADIADOR"
     },
     {
         "id": "P685",
-        "name": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH",
+        "name": "CAÃ‘O RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH",
         "brand": "Mercedes Benz",
         "code": "3685013882",
         "originalCode": "3685013882",
         "image": "img/products/o500/cano_termostato_radiador_o500.jpg",
-        "description": "CAÑO RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH 3685013882",
+        "description": "CAÃ‘O RAD.O500 OM924/926 REFR. TERMOSTATO A RADIADOR OH 3685013882",
         "rubro": "RADIADOR"
     },
     {
         "id": "P686",
-        "name": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
+        "name": "CAÃ‘O RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926",
         "brand": "Mercedes Benz",
         "code": "3685013982",
         "originalCode": "3685013982",
         "image": "img/products/o500/cano_radiador_liquido_refrigerante_o500.png",
-        "description": "CAÑO RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
+        "description": "CAÃ‘O RADIADOR TUBERIA LIQUIDO REFRIGERANTE AL RADIADOR. OHL1621 - 1721 OM924 / O500U OM926 3685013982",
         "rubro": "RADIADOR"
     },
     {
@@ -6204,46 +6204,46 @@ const products = [
         "originalCode": "6934707064",
         "image": "img/products/o500/flexible_combustible_o500.jpg",
         "description": "FLEXIBLE COMBUSTIBLE OF1417/O500/OM906/LA-924 6934707064",
-        "rubro": "FLEXIBLES Y RÍGIDOS"
+        "rubro": "FLEXIBLES Y RÃGIDOS"
     },
     {
         "id": "P693",
-        "name": "CAÑO LUBRICACION TURBO O500/0M906",
+        "name": "CAÃ‘O LUBRICACION TURBO O500/0M906",
         "brand": "Mercedes Benz",
         "code": "4571802820",
         "originalCode": "4571802820",
         "image": "img/products/o500/cano_lubricacion_turbo_o500.jpg",
-        "description": "CAÑO LUBRICACION TURBO O500/0M906 4571802820",
+        "description": "CAÃ‘O LUBRICACION TURBO O500/0M906 4571802820",
         "rubro": "TURBO"
     },
     {
         "id": "P694",
-        "name": "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824201828 3824208531",
         "originalCode": "3824201828 3824208531",
         "image": "img/products/o500/cano_compresor_serpentina_apu_o500.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) APU OM906/O500 3824201828 3824208531",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) APU OM906/O500 3824201828 3824208531",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P695",
-        "name": "CAÑO COMPRESOR O500/ OM906",
+        "name": "CAÃ‘O COMPRESOR O500/ OM906",
         "brand": "Mercedes Benz",
         "code": "3824200128 3824205732 3824208934",
         "originalCode": "3824200128 3824205732 3824208934",
         "image": "img/products/o500/cano_compresor_om906_o500.jpg",
-        "description": "CAÑO COMPRESOR O500/ OM906 3824200128 3824205732 3824208934",
+        "description": "CAÃ‘O COMPRESOR O500/ OM906 3824200128 3824205732 3824208934",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P696",
-        "name": "CAÑO RAD.O500 OM906/926 REFR. CAJA A MOTOR",
+        "name": "CAÃ‘O RAD.O500 OM906/926 REFR. CAJA A MOTOR",
         "brand": "Mercedes Benz",
         "code": "3825015682 6645018882",
         "originalCode": "3825015682 6645018882",
         "image": "img/products/o500/cano_refr_caja_motor_o500.jpg",
-        "description": "CAÑO RAD.O500 OM906/926 REFR. CAJA A MOTOR 3825015682 6645018882",
+        "description": "CAÃ‘O RAD.O500 OM906/926 REFR. CAJA A MOTOR 3825015682 6645018882",
         "rubro": "RADIADOR"
     },
     {
@@ -6254,26 +6254,26 @@ const products = [
         "originalCode": "3685014482 900271050024",
         "image": "img/products/o500/manguera_refr_caja_o500.jpg",
         "description": "MANGUERA REFRIGERACION CAJA OM904/906/O500/OM926 3685014482 900271050024",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P698",
-        "name": "CONEXION 16X14 CAÑO LUBRICACION TURBO O500/0M906 A TURBO",
+        "name": "CONEXION 16X14 CAÃ‘O LUBRICACION TURBO O500/0M906 A TURBO",
         "brand": "Mercedes Benz",
         "code": "",
         "originalCode": "",
         "image": "img/products/o500/conexion_lubricacion_turbo_o500.jpg",
-        "description": "CONEXION 16X14 CAÑO LUBRICACION TURBO O500/0M906 A TURBO",
+        "description": "CONEXION 16X14 CAÃ‘O LUBRICACION TURBO O500/0M906 A TURBO",
         "rubro": "TURBO"
     },
     {
         "id": "P699",
-        "name": "CAÑO LUBRICACION TURBO OM457 O500",
+        "name": "CAÃ‘O LUBRICACION TURBO OM457 O500",
         "brand": "Mercedes Benz",
         "code": "5411801422",
         "originalCode": "5411801422",
         "image": "img/products/o500/cano_lubricacion_turbo_om457_o500.jpg",
-        "description": "CAÑO LUBRICACION TURBO OM457 O500 5411801422",
+        "description": "CAÃ‘O LUBRICACION TURBO OM457 O500 5411801422",
         "rubro": "TURBO"
     },
     {
@@ -6304,7 +6304,7 @@ const products = [
         "originalCode": "9060105172 9060100674",
         "image": "img/products/o500/varilla_nivel_aceite_o500.jpg",
         "description": "VARILLA NIVEL ACEITE 1127MM 906/926 O500 / 1622 9060105172 9060100674",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P703",
@@ -6324,7 +6324,7 @@ const products = [
         "originalCode": "3023301503 3643307603 6343300203 6343300403",
         "image": "img/products/o500/barra_larga_o500.jpg",
         "description": "BARRA LARGA 1642mm. O500 3023301503 3643307603 6343300203 6343300403",
-        "rubro": "DIRECCIÓN"
+        "rubro": "DIRECCIÃ“N"
     },
     {
         "id": "P705",
@@ -6378,12 +6378,12 @@ const products = [
     },
     {
         "id": "P710",
-        "name": "CAÑO COMPRESOR (SERPENTINA) A APUOM906/O500",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) A APUOM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824201036 3824200736",
         "originalCode": "3824201036 3824200736",
         "image": "img/products/o500/cano_compresor_serpentina_apu_alt_o500.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) A APUOM906/O500 3824201036 3824200736",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) A APUOM906/O500 3824201036 3824200736",
         "rubro": "COMPRESOR"
     },
     {
@@ -6394,16 +6394,16 @@ const products = [
         "originalCode": "6645527253",
         "image": "img/products/o500/buje_tubo_distanciador_o500.jpg",
         "description": "BUJE (TUBO DISTANCIADOR)PALANCA ROD.TENSOR O500/OH1618/OM906 6645527253",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P712",
-        "name": "CAÑO COMPRESOR (SERPENTINA) APUOM906/O500",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) APUOM906/O500",
         "brand": "Mercedes Benz",
         "code": "3824204828 // 3824207429",
         "originalCode": "3824204828 // 3824207429",
         "image": "img/products/o500/cano_compresor_serpentina_apu_v3_o500.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) APUOM906/O500 3824204828 // 3824207429",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) APUOM906/O500 3824204828 // 3824207429",
         "rubro": "COMPRESOR"
     },
     {
@@ -6418,12 +6418,12 @@ const products = [
     },
     {
         "id": "P714",
-        "name": "RIGIDO COMPRESOR 1° TRAMO O500/906",
+        "name": "RIGIDO COMPRESOR 1Â° TRAMO O500/906",
         "brand": "Mercedes Benz",
         "code": "3824200933",
         "originalCode": "3824200933",
         "image": "img/products/o500/rigido_compresor_1er_tramo_o500.jpg",
-        "description": "RIGIDO COMPRESOR 1° TRAMO O500/906 3824200933",
+        "description": "RIGIDO COMPRESOR 1Â° TRAMO O500/906 3824200933",
         "rubro": "COMPRESOR"
     },
     {
@@ -6484,7 +6484,7 @@ const products = [
         "originalCode": "4572004770",
         "image": "img/products/o500/tensor_correa_om457_o500.jpg",
         "description": "TENSOR DE CORREA O500 OM457 4572004770",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P721",
@@ -6494,7 +6494,7 @@ const products = [
         "originalCode": "6344600005 6344600405",
         "image": "img/products/o500/barra_corta_o500.jpg",
         "description": "BARRA CORTA 935mm.O500 6344600005 6344600405",
-        "rubro": "DIRECCIÓN"
+        "rubro": "DIRECCIÃ“N"
     },
     {
         "id": "P722",
@@ -6508,13 +6508,13 @@ const products = [
     },
     {
         "id": "P723",
-        "name": "CAÑO RAD.O500/OM457 SUPERIOR",
+        "name": "CAÃ‘O RAD.O500/OM457 SUPERIOR",
         "brand": "Mercedes Benz",
         "code": "6345010382",
         "originalCode": "6345010382",
         "image": "img/products/o500/cano_rad_superior_o500_om457.jpg",
-        "description": "CAÑO RAD.O500/OM457 SUPERIOR 6345010382",
-        "rubro": "REFRIGERACIÓN"
+        "description": "CAÃ‘O RAD.O500/OM457 SUPERIOR 6345010382",
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P724",
@@ -6524,16 +6524,16 @@ const products = [
         "originalCode": "3682400217",
         "image": "img/products/o500/soporte_motor_delantero_o500.jpg",
         "description": "SOPORTE MOTOR DEL.1620 ELECT./ATEGO1418/1725/BUS O500 I.A. 3682400217",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P725",
-        "name": "CAÑO RAD.O500/OM457 SUPER. 20/90",
+        "name": "CAÃ‘O RAD.O500/OM457 SUPER. 20/90",
         "brand": "Mercedes Benz",
         "code": "6345010084 3825010384",
         "originalCode": "6345010084 3825010384",
         "image": "img/products/o500/cano_rad_superior_o500_om457_v2.jpg",
-        "description": "CAÑO RAD.O500/OM457 SUPER. 20/90 6345010084 3825010384",
+        "description": "CAÃ‘O RAD.O500/OM457 SUPER. 20/90 6345010084 3825010384",
         "rubro": "RADIADOR"
     },
     {
@@ -6544,36 +6544,36 @@ const products = [
         "originalCode": "6939930110",
         "image": "img/products/o500/resorte_acelerador_o500.jpg",
         "description": "RESORTE ACELERADOR O500 6939930110",
-        "rubro": "ACELERACIÓN"
+        "rubro": "ACELERACIÃ“N"
     },
     {
         "id": "P727",
-        "name": "CAÑO COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457",
+        "name": "CAÃ‘O COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457",
         "brand": "Mercedes Benz",
         "code": "6344209029",
         "originalCode": "6344209029",
         "image": "img/products/o500/cano_compresor_serpentina_intermedio_o500.jpg",
-        "description": "CAÑO COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457 6344209029",
+        "description": "CAÃ‘O COMPRESOR (SERPENTINA) INTERMEDIO O500/OM457 6344209029",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P728",
-        "name": "CAÑO CAMARA COMPRESOR O500/904/906/457",
+        "name": "CAÃ‘O CAMARA COMPRESOR O500/904/906/457",
         "brand": "Mercedes Benz",
         "code": "6284300270",
         "originalCode": "6284300270",
         "image": "img/products/o500/cano_camara_compresor_o500.jpg",
-        "description": "CAÑO CAMARA COMPRESOR O500/904/906/457 6284300270",
+        "description": "CAÃ‘O CAMARA COMPRESOR O500/904/906/457 6284300270",
         "rubro": "COMPRESOR"
     },
     {
         "id": "P729",
-        "name": "CAÑO RAD.O500/OM906 INFERIOR",
+        "name": "CAÃ‘O RAD.O500/OM906 INFERIOR",
         "brand": "Mercedes Benz",
         "code": "3825011582",
         "originalCode": "3825011582",
         "image": "img/products/o500/cano_rad_inferior_o500_om906.jpg",
-        "description": "CAÑO RAD.O500/OM906 INFERIOR 3825011582",
+        "description": "CAÃ‘O RAD.O500/OM906 INFERIOR 3825011582",
         "rubro": "RADIADOR"
     },
     {
@@ -6584,7 +6584,7 @@ const products = [
         "originalCode": "3762057002 3642057002 3642057102",
         "image": "img/products/o500/eje_polea_ventilador_o500.jpg",
         "description": "EJE POLEA VENT. 1621/O500 3762057002 3642057002 3642057102",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P731",
@@ -6594,7 +6594,7 @@ const products = [
         "originalCode": "4572020310 5412020110",
         "image": "img/products/o500/polea_bomba_agua_o500.jpg",
         "description": "POLEA BOMBA AGUA AXOR 1938/2044/O500 4572020310 5412020110",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P732",
@@ -6614,7 +6614,7 @@ const products = [
         "originalCode": "0003302011",
         "image": "img/products/o500/buje_tensor_o500.jpg",
         "description": "BUJE TENSOR 75 X 130 AGUJ. 18mm O500 0003302011",
-        "rubro": "ELÁSTICO-SUSPENSIÓN-AMORT."
+        "rubro": "ELÃSTICO-SUSPENSIÃ“N-AMORT."
     },
     {
         "id": "P734",
@@ -6628,12 +6628,12 @@ const products = [
     },
     {
         "id": "P735",
-        "name": "LLAVE T/CAÑONERA ATEGO/O500",
+        "name": "LLAVE T/CAÃ‘ONERA ATEGO/O500",
         "brand": "Mercedes Benz",
         "code": "",
         "originalCode": "",
         "image": "img/products/o500/llave_t_canonera_atego_o500.jpg",
-        "description": "LLAVE T/CAÑONERA ATEGO/O500",
+        "description": "LLAVE T/CAÃ‘ONERA ATEGO/O500",
         "rubro": "HERRAMIENTAS"
     },
     {
@@ -6688,12 +6688,12 @@ const products = [
     },
     {
         "id": "P741",
-        "name": "MEDIA MANGA CAÑONERA 80MM O500/ATEGO",
+        "name": "MEDIA MANGA CAÃ‘ONERA 80MM O500/ATEGO",
         "brand": "Mercedes Benz",
         "code": "",
         "originalCode": "",
         "image": "img/products/o500/media_manga_canonera_80mm_o500.jpg",
-        "description": "MEDIA MANGA CAÑONERA 80MM O500/ATEGO",
+        "description": "MEDIA MANGA CAÃ‘ONERA 80MM O500/ATEGO",
         "rubro": "EJE TRASERO"
     },
     {
@@ -6708,12 +6708,12 @@ const products = [
     },
     {
         "id": "P743",
-        "name": "TUERCA CAÑONERA O500/1622/1725 80MM ATEGO STD",
+        "name": "TUERCA CAÃ‘ONERA O500/1622/1725 80MM ATEGO STD",
         "brand": "Mercedes Benz",
         "code": "9763560026",
         "originalCode": "9763560026",
         "image": "img/products/o500/tuerca_canonera_80mm_o500.jpg",
-        "description": "TUERCA CAÑONERA O500/1622/1725 80MM ATEGO STD 9763560026",
+        "description": "TUERCA CAÃ‘ONERA O500/1622/1725 80MM ATEGO STD 9763560026",
         "rubro": "EJE TRASERO"
     },
     {
@@ -6784,7 +6784,7 @@ const products = [
         "originalCode": "4572003270 4572003870",
         "image": "img/products/o500/tensor_correa_o500_om457_74x39.jpg",
         "description": "TENSOR DE CORREA O500/OM457/OM457LA (74X39) 4572003270 4572003870",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P751",
@@ -6794,7 +6794,7 @@ const products = [
         "originalCode": "6349900001",
         "image": "img/products/o500/tornillo_registro_palanca_tensor_o500.jpg",
         "description": "TORNILLO REGISTRO PALANCA TENSOR VENT. 12x272 O500/1621 6349900001",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P752",
@@ -6804,7 +6804,7 @@ const products = [
         "originalCode": "3954099 4896421 4896420 3979506 BG5X/6250/BA",
         "image": "img/products/isb/arbol_leva_ford_vw_isbe.jpg",
         "description": "Arbol leva Ford 1722e/Nuevo C1722/1723/1729/3129/CUMMINS ISBe6 5.9 / ISBe6 6.7/VW17250 E/Constellation 3954099 4896421 4896420 3979506 BG5X/6250/BA",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P753",
@@ -6814,7 +6814,7 @@ const products = [
         "originalCode": "3940059 BF9T/6287/AA BF8T/6287/A",
         "image": "img/products/isb/buje_arbol_leva_ford_vw_isbe.jpg",
         "description": "Buje arbol leva 1722e/Nuevo C1722/1723/1729/3129/CUMMINS ISBe6 5.9 / ISBe6 6.7 3940059 BF9T/6287/AA BF8T/6287/A",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P754",
@@ -6824,7 +6824,7 @@ const products = [
         "originalCode": "DC458C617AA BH5X8C617AA",
         "image": "img/products/isb/paleta_ventilador_ford_isbe.jpg",
         "description": "Paleta vent.(**)9 palas 6ag.(645mm) c/aro ford electronico 1723/1729/3129 (Todos +2014)CUMMINS ISBe6 DC458C617AA BH5X8C617AA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P755",
@@ -6834,7 +6834,7 @@ const products = [
         "originalCode": "0928400774 BH2X9F350AA",
         "image": "img/products/isb/valvula_reguladora_presion_combustible_isb.jpg",
         "description": "Valvula reguladora de presion combustible common rail isb/isl 4.5/6.7 0928400774 BH2X9F350AA",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P756",
@@ -6858,12 +6858,12 @@ const products = [
     },
     {
         "id": "P758",
-        "name": "Polea cigueñal chapa isbe4/isbe6",
+        "name": "Polea cigueÃ±al chapa isbe4/isbe6",
         "brand": "Ford/VW",
         "code": "5256270 4896773 BG5X/6312/AA BH0X/6312/AA 2R0/105253/B",
         "originalCode": "5256270 4896773 BG5X/6312/AA BH0X/6312/AA 2R0/105253/B",
         "image": "img/products/isb/polea_ciguenal_chapa_isbe.jpg",
-        "description": "Polea cigueñal chapa isbe4/isbe6 5256270 4896773 BG5X/6312/AA BH0X/6312/AA 2R0/105253/B",
+        "description": "Polea cigueÃ±al chapa isbe4/isbe6 5256270 4896773 BG5X/6312/AA BH0X/6312/AA 2R0/105253/B",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -6874,7 +6874,7 @@ const products = [
         "originalCode": "3941928 3937219 3942737 4995603 2R0109443A",
         "image": "img/products/isb/balancin_escape_largo_isbe.jpg",
         "description": "balancin escape largo ELECT.ISBE 5.9 1722E 3941928 3937219 3942737 4995603 2R0109443A",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P760",
@@ -6884,7 +6884,7 @@ const products = [
         "originalCode": "",
         "image": "img/products/isb/ficha_4_vias_inyector_isb.jpg",
         "description": "Ficha 4 vias inyector cummins isb",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P761",
@@ -6894,16 +6894,16 @@ const products = [
         "originalCode": "AC456038BB",
         "image": "img/products/isb/soporte_motor_delantero_ford_cargo_isb.jpg",
         "description": "Soporte motor del.ford Cargo ISB 1722 2012 AC456038BB",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P762",
-        "name": "Flexible aire compresor (tubo comando neumático)Cummins Isb 5.9",
+        "name": "Flexible aire compresor (tubo comando neumÃ¡tico)Cummins Isb 5.9",
         "brand": "Ford/VW",
         "code": "503101184",
         "originalCode": "503101184",
         "image": "img/products/isb/flexible_aire_compresor_isb.jpg",
-        "description": "Flexible aire compresor (tubo comando neumático)Cummins Isb 5.9 503101184",
+        "description": "Flexible aire compresor (tubo comando neumÃ¡tico)Cummins Isb 5.9 503101184",
         "rubro": "COMPRESOR"
     },
     {
@@ -6928,12 +6928,12 @@ const products = [
     },
     {
         "id": "P765",
-        "name": "Caño entrada agua refrigeracion compresor isbe ford/vw conector 3/8",
+        "name": "CaÃ±o entrada agua refrigeracion compresor isbe ford/vw conector 3/8",
         "brand": "Ford/VW",
         "code": "BH0X2910EA 5258823",
         "originalCode": "BH0X2910EA 5258823",
         "image": "img/products/isb/cano_entrada_agua_compresor_isb.jpg",
-        "description": "Caño entrada agua refrigeracion compresor isbe ford/vw conector 3/8 BH0X2910EA 5258823",
+        "description": "CaÃ±o entrada agua refrigeracion compresor isbe ford/vw conector 3/8 BH0X2910EA 5258823",
         "rubro": "COMPRESOR"
     },
     {
@@ -6944,7 +6944,7 @@ const products = [
         "originalCode": "BG5X9430BA 2S0253033 4897889",
         "image": "img/products/isb/multiple_escape_largo_isb.jpg",
         "description": "Multiple escape largo cummins isb 5.9L/6.7L ford/vw 1722e/17250e BG5X9430BA 2S0253033 4897889",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P767",
@@ -6954,7 +6954,7 @@ const products = [
         "originalCode": "2S0253033A 4897890 BG5X9430CA",
         "image": "img/products/isb/multiple_escape_corto_isb.jpg",
         "description": "Multiple escape corto cummins isb 5.9L/6.7L ford/vw 1722e/17250e 2S0253033A 4897890 BG5X9430CA",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P768",
@@ -7084,16 +7084,16 @@ const products = [
         "originalCode": "2s0121302",
         "image": "img/products/isb/viscoso_vw_cummins_isb.jpg",
         "description": "Viscoso vw motor cummins isb constellation 13180/15180 motor mwm 4.12 2s0121302",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P781",
-        "name": "Sensor de giro de cigueñal/arbol de levas cummins ISBE / MWM",
+        "name": "Sensor de giro de cigueÃ±al/arbol de levas cummins ISBE / MWM",
         "brand": "Ford/VW",
         "code": "4890190 bg5x6c315ba 2r0906433a 961200670024",
         "originalCode": "4890190 bg5x6c315ba 2r0906433a 961200670024",
         "image": "img/products/isb/sensor_giro_ciguenal_arbol_levas_isb.jpg",
-        "description": "Sensor de giro de cigueñal/arbol de levas cummins ISBE / MWM 4890190 bg5x6c315ba 2r0906433a 961200670024",
+        "description": "Sensor de giro de cigueÃ±al/arbol de levas cummins ISBE / MWM 4890190 bg5x6c315ba 2r0906433a 961200670024",
         "rubro": "ELECTRICIDAD DE MOTOR"
     },
     {
@@ -7104,7 +7104,7 @@ const products = [
         "originalCode": "5258751 BH1X6W059DA",
         "image": "img/products/isb/tapa_caja_engranaje_distribucion_isbe.jpg",
         "description": "Tapa caja engranaje distribucion cummins isbe 5258751 BH1X6W059DA",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P783",
@@ -7114,7 +7114,7 @@ const products = [
         "originalCode": "4936431 5311273 bg7x6w059ca 2r0109211d",
         "image": "img/products/isb/caja_engranaje_distribucion_delantera_isb.jpg",
         "description": "Caja engranaje distribucion delantera isbe ford/vw 4936431 5311273 bg7x6w059ca 2r0109211d",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P784",
@@ -7124,7 +7124,7 @@ const products = [
         "originalCode": "BH1X6W059CA 4936423 4936429",
         "image": "img/products/isb/caja_engranaje_distribucion_trasera_isb.jpg",
         "description": "Caja engranaje distribucion trasera isbe ford/vw BH1X6W059CA 4936423 4936429",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P785",
@@ -7144,7 +7144,7 @@ const products = [
         "originalCode": "3357475 bg5x9w430aa 2s0145877",
         "image": "img/products/isb/bajada_salida_escape_turbo_isb.jpg",
         "description": "Bajada salida escape a turbo ford/vw isbe 3357475 bg5x9w430aa 2s0145877",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P787",
@@ -7154,7 +7154,7 @@ const products = [
         "originalCode": "4983355 4983358 bh0x6715aa 4899566",
         "image": "img/products/isb/cabezal_filtro_aceite_isb.jpg",
         "description": "Cabezal p/filtro aceite isbe m/n cummins 4983355 4983358 bh0x6715aa 4899566",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P788",
@@ -7164,7 +7164,7 @@ const products = [
         "originalCode": "3971371 BG6T6758BA",
         "image": "img/products/isb/tubo_respiradero_aceite_carter_isb.jpg",
         "description": "Tubo respiradero aceite carter cummins isbe 3971371 BG6T6758BA",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P789",
@@ -7174,7 +7174,7 @@ const products = [
         "originalCode": "4983354 BH1X6715AA",
         "image": "img/products/isb/cabezal_filtro_aceite_isbe_mv.jpg",
         "description": "Cabezal p/filtro aceite isbe m/v cummins 4983354 BH1X6715AA",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P790",
@@ -7184,7 +7184,7 @@ const products = [
         "originalCode": "3282266 bg5x6730fa",
         "image": "img/products/isb/tapon_carter_iman_isb.jpg",
         "description": "Tapon carter c/iman 22x1.5 cummins ISBE 3282266 bg5x6730fa",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P791",
@@ -7194,16 +7194,16 @@ const products = [
         "originalCode": "5258931 BH1X6269AA 4897457 2r0109242a",
         "image": "img/products/isb/soportes_arbol_leva_isb.jpg",
         "description": "Soportes arbol de leva cummins isbe ford/vw 5258931 BH1X6269AA 4897457 2r0109242a",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P792",
-        "name": "Brida cigueñal cummins isbe 6 ford/vw",
+        "name": "Brida cigueÃ±al cummins isbe 6 ford/vw",
         "brand": "Ford/VW",
         "code": "3978478 bh0x6a303aa",
         "originalCode": "3978478 bh0x6a303aa",
         "image": "img/products/isb/brida_ciguenal_isb.jpg",
-        "description": "Brida cigueñal cummins isbe 6 ford/vw 3978478 bh0x6a303aa",
+        "description": "Brida cigueÃ±al cummins isbe 6 ford/vw 3978478 bh0x6a303aa",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -7224,7 +7224,7 @@ const products = [
         "originalCode": "3944655 2rd199120an bg5x1055ga",
         "image": "img/products/isb/bulon_esparrago_multiple_escape_isb.jpg",
         "description": "Bulon esparrago 10 x 1.5 x 65 multiple escape ford/vw cummins serie isbe 4/6 cil (x3/x4) 3944655 2rd199120an bg5x1055ga",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P795",
@@ -7264,7 +7264,7 @@ const products = [
         "originalCode": "4897114 bg5x9b279aa 2r0130349",
         "image": "img/products/isb/canula_inyector_isb.jpg",
         "description": "Canula inyector cummins isb ford/vw 4897114 bg5x9b279aa 2r0130349",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P799",
@@ -7274,7 +7274,7 @@ const products = [
         "originalCode": "4937308 3968877 bg5x6012ba bg5x6012aa 2t2105379a 2r0103157 2s0105379a",
         "image": "img/products/isb/inyector_aceite_isb.jpg",
         "description": "Inyector aceite cummins isb ford/vw 4937308 3968877 bg5x6012ba bg5x6012aa 2t2105379a 2r0103157 2s0105379a",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P800",
@@ -7284,7 +7284,7 @@ const products = [
         "originalCode": "5255448 BG5X6T582AA 2R0103485A 4895459",
         "image": "img/products/isb/tapa_aceite_isbe.jpg",
         "description": "Tapa aceite cummins isbe 5255448 BG5X6T582AA 2R0103485A 4895459",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P801",
@@ -7294,7 +7294,7 @@ const products = [
         "originalCode": "0440020095 0440020096 0440020121 BG8X9350AA 5253089",
         "image": "img/products/isb/bomba_baja_presion_isb.jpg",
         "description": "Bomba baja presion cummins isbe 4/6 ford/vw 0440020095 0440020096 0440020121 BG8X9350AA 5253089",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P802",
@@ -7304,7 +7304,7 @@ const products = [
         "originalCode": "0445020175 0445020007 2R0130105 4897040 4898921",
         "image": "img/products/isb/bomba_alta_presion_isb.jpg",
         "description": "Bomba alta presion cummins isbe 4/6 ford/vw 0445020175 0445020007 2R0130105 4897040 4898921",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P803",
@@ -7334,26 +7334,26 @@ const products = [
         "originalCode": "3287130 bg5x9430aa 2r0129589b",
         "image": "img/products/isb/multiple_escape_isbe4.jpg",
         "description": "Multiple Escape Cummins isbe4 ford 915e/1317e/1517e/f100 vw 9.150e/10.150e 3287130 bg5x9430aa 2r0129589b",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P806",
-        "name": "Caño tubo descarga aceite turbo isb6 ford 1722e",
+        "name": "CaÃ±o tubo descarga aceite turbo isb6 ford 1722e",
         "brand": "Ford/VW",
         "code": "3287573 BG5X6415DA 4992206",
         "originalCode": "3287573 BG5X6415DA 4992206",
         "image": "img/products/isb/cano_descarga_aceite_turbo_isb.jpg",
-        "description": "Caño tubo descarga aceite turbo isb6 ford 1722e 3287573 BG5X6415DA 4992206",
+        "description": "CaÃ±o tubo descarga aceite turbo isb6 ford 1722e 3287573 BG5X6415DA 4992206",
         "rubro": "TURBO"
     },
     {
         "id": "P807",
-        "name": "Caño tubo descarga aceite turbo isb4 ford 915e/vw 9-150e",
+        "name": "CaÃ±o tubo descarga aceite turbo isb4 ford 915e/vw 9-150e",
         "brand": "Ford/VW",
         "code": "3287818 BG6T6415AA",
         "originalCode": "3287818 BG6T6415AA",
         "image": "img/products/isb/cano_descarga_aceite_turbo_isb4.jpg",
-        "description": "Caño tubo descarga aceite turbo isb4 ford 915e/vw 9-150e 3287818 BG6T6415AA",
+        "description": "CaÃ±o tubo descarga aceite turbo isb4 ford 915e/vw 9-150e 3287818 BG6T6415AA",
         "rubro": "TURBO"
     },
     {
@@ -7364,7 +7364,7 @@ const products = [
         "originalCode": "3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
         "image": "img/products/isb/radiador_aceite_isb_7f.jpg",
         "description": "Radiador aceite cummins isbe 6cil 7 filas Ford Cargo 1722 vw17250 iveco 3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P809",
@@ -7408,33 +7408,33 @@ const products = [
     },
     {
         "id": "P813",
-        "name": "Caños inyector cummins isb 5.9 elec. suministro 1722e/C1722",
+        "name": "CaÃ±os inyector cummins isb 5.9 elec. suministro 1722e/C1722",
         "brand": "Ford/VW",
         "code": "3287880 BG5X9C520GA 2s0130303e 2s0130309",
         "originalCode": "3287880 BG5X9C520GA 2s0130303e 2s0130309",
         "image": "img/products/isb/canos_inyector_isb_suministro.jpg",
-        "description": "Caños inyector cummins isb 5.9 elec. suministro 1722e/C1722 3287880 BG5X9C520GA 2s0130303e 2s0130309",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isb 5.9 elec. suministro 1722e/C1722 3287880 BG5X9C520GA 2s0130303e 2s0130309",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P814",
-        "name": "Caños inyector cummins isb 5.9 elec.N2/4",
+        "name": "CaÃ±os inyector cummins isb 5.9 elec.N2/4",
         "brand": "Ford/VW",
         "code": "2831356 BG5X9A556BA 2s0130302c",
         "originalCode": "2831356 BG5X9A556BA 2s0130302c",
         "image": "img/products/isb/canos_inyector_isb_n2_4.jpg",
-        "description": "Caños inyector cummins isb 5.9 elec.N2/4 2831356 BG5X9A556BA 2s0130302c",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isb 5.9 elec.N2/4 2831356 BG5X9A556BA 2s0130302c",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P815",
-        "name": "Caños inyector cummins isb 5.9 elec.N6",
+        "name": "CaÃ±os inyector cummins isb 5.9 elec.N6",
         "brand": "Ford/VW",
         "code": "3968346 BG5X9A558AA 2s0130306b",
         "originalCode": "3968346 BG5X9A558AA 2s0130306b",
         "image": "img/products/isb/canos_inyector_isb_n6.jpg",
-        "description": "Caños inyector cummins isb 5.9 elec.N6 3968346 BG5X9A558AA 2s0130306b",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isb 5.9 elec.N6 3968346 BG5X9A558AA 2s0130306b",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P816",
@@ -7448,33 +7448,33 @@ const products = [
     },
     {
         "id": "P817",
-        "name": "Caños inyector cummins isb 5.9 elec.N3/5",
+        "name": "CaÃ±os inyector cummins isb 5.9 elec.N3/5",
         "brand": "Ford/VW",
         "code": "2830621 BG5X9A557AA 2s0130303c",
         "originalCode": "2830621 BG5X9A557AA 2s0130303c",
         "image": "img/products/isb/canos_inyector_isb_n3_5.jpg",
-        "description": "Caños inyector cummins isb 5.9 elec.N3/5 2830621 BG5X9A557AA 2s0130303c",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isb 5.9 elec.N3/5 2830621 BG5X9A557AA 2s0130303c",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P818",
-        "name": "Caños inyector cummins isb 5.9 elec.N3/5 del 2011 en adelante",
+        "name": "CaÃ±os inyector cummins isb 5.9 elec.N3/5 del 2011 en adelante",
         "brand": "Ford/VW",
         "code": "2830621 BG5X9A557AA",
         "originalCode": "2830621 BG5X9A557AA",
         "image": "img/products/isb/canos_inyector_isb_n3_5_2011.jpg",
-        "description": "Caños inyector cummins isb 5.9 elec.N3/5 del 2011 en adelante 2830621 BG5X9A557AA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isb 5.9 elec.N3/5 del 2011 en adelante 2830621 BG5X9A557AA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P819",
-        "name": "Caños inyector cummins isb 5.9 elec.N1",
+        "name": "CaÃ±os inyector cummins isb 5.9 elec.N1",
         "brand": "Ford/VW",
         "code": "3965964 BG5X9A555BA 2s0130301e",
         "originalCode": "3965964 BG5X9A555BA 2s0130301e",
         "image": "img/products/isb/canos_inyector_isb_n1.jpg",
-        "description": "Caños inyector cummins isb 5.9 elec.N1 3965964 BG5X9A555BA 2s0130301e",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isb 5.9 elec.N1 3965964 BG5X9A555BA 2s0130301e",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P820",
@@ -7484,7 +7484,7 @@ const products = [
         "originalCode": "BG9X9K526BA 5255184 2830957 0445120212 2R0198133 0445120007",
         "image": "img/products/isb/inyector_common_rail_isb.jpg",
         "description": "Inyector Common Rail cummins isb ford/vw BG9X9K526BA 5255184 2830957 0445120212 2R0198133 0445120007",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P821",
@@ -7504,7 +7504,7 @@ const products = [
         "originalCode": "3973062 4981883 bg6x63944aa bg7x6k3944aa bg5x63944aa 2ro103203d 2t2103203a 2ro103203a 2R0103203E",
         "image": "img/products/isb/carcaza_volante_motor_isbe.jpg",
         "description": "Carcaza volante motor cummins ISBe4/ISBe6/ cargo 915e/1317e/1517e/1722e/Vw9150e13180e15180e/constell 3973062 4981883 bg6x63944aa bg7x6k3944aa bg5x63944aa 2ro103203d 2t2103203a 2ro103203a 2R0103203E",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P823",
@@ -7524,7 +7524,7 @@ const products = [
         "originalCode": "BG5X8501AA 2R0121004 2S0121004B 3800984 4891252 504213078",
         "image": "img/products/isb/bomba_agua_isbe.jpg",
         "description": "Bomba agua cummins ISBE 4/6 cil. BG5X8501AA 2R0121004 2S0121004B 3800984 4891252 504213078",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P825",
@@ -7558,12 +7558,12 @@ const products = [
     },
     {
         "id": "P828",
-        "name": "Caño suministro combustible ford cargo 915e/1517e/vw9150e/10150e cummins ISBe4",
+        "name": "CaÃ±o suministro combustible ford cargo 915e/1517e/vw9150e/10150e cummins ISBe4",
         "brand": "Ford/VW",
         "code": "3288358 3978970 BG5X9C520AA BG6T9R272B 2R0130309A",
         "originalCode": "3288358 3978970 BG5X9C520AA BG6T9R272B 2R0130309A",
         "image": "img/products/isb/cano_suministro_combustible_isb4.jpg",
-        "description": "Caño suministro combustible ford cargo 915e/1517e/vw9150e/10150e cummins ISBe4 3288358 3978970 BG5X9C520AA BG6T9R272B 2R0130309A",
+        "description": "CaÃ±o suministro combustible ford cargo 915e/1517e/vw9150e/10150e cummins ISBe4 3288358 3978970 BG5X9C520AA BG6T9R272B 2R0130309A",
         "rubro": "COMBUSTIBLE"
     },
     {
@@ -7584,7 +7584,7 @@ const products = [
         "originalCode": "3960067 BG5X/6B856/AA",
         "image": "img/products/isb/radiador_aceite_isb_5f.jpg",
         "description": "Radiador aceite cummins isbe 4cil 5 filas Ford Cargo 915e/1317e/1517e 3960067 BG5X/6B856/AA",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P831",
@@ -7594,7 +7594,7 @@ const products = [
         "originalCode": "4897480 4939586 BG5X6600AA 2R0115105B",
         "image": "img/products/isb/bomba_aceite_isbe4.jpg",
         "description": "Bombas aceite cummins ISBE 3.9 4cil (elctronico) 4897480 4939586 BG5X6600AA 2R0115105B",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P832",
@@ -7604,7 +7604,7 @@ const products = [
         "originalCode": "BG5X6565AA 3941253",
         "image": "img/products/isb/varilla_levanta_valvula_isbe.jpg",
         "description": "Varilla levanta valvula ELECT.ISBe 5.9 1722E BG5X6565AA 3941253",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P833",
@@ -7638,12 +7638,12 @@ const products = [
     },
     {
         "id": "P836",
-        "name": "Caño entrada agua refrigeracion compresor isbe ford/vw conector 1/2",
+        "name": "CaÃ±o entrada agua refrigeracion compresor isbe ford/vw conector 1/2",
         "brand": "Ford/VW",
         "code": "3970735 BH0X2910JA 5258822",
         "originalCode": "3970735 BH0X2910JA 5258822",
         "image": "img/products/isb/cano_entrada_agua_compresor_isbe.jpg",
-        "description": "Caño entrada agua refrigeracion compresor isbe ford/vw conector 1/2 3970735 BH0X2910JA 5258822",
+        "description": "CaÃ±o entrada agua refrigeracion compresor isbe ford/vw conector 1/2 3970735 BH0X2910JA 5258822",
         "rubro": "COMPRESOR"
     },
     {
@@ -7668,23 +7668,23 @@ const products = [
     },
     {
         "id": "P839",
-        "name": "Caños inyector cummins isbe6 elec.N6",
+        "name": "CaÃ±os inyector cummins isbe6 elec.N6",
         "brand": "Ford/VW",
         "code": "",
         "originalCode": "",
         "image": "img/products/isb/canos_inyector_isbe6_n6.jpg",
-        "description": "Caños inyector cummins isbe6 elec.N6",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isbe6 elec.N6",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P840",
-        "name": "Caños inyector cummins isbe6 elec.N5",
+        "name": "CaÃ±os inyector cummins isbe6 elec.N5",
         "brand": "Ford/VW",
         "code": "",
         "originalCode": "",
         "image": "img/products/isb/canos_inyector_isbe6_n5.jpg",
-        "description": "Caños inyector cummins isbe6 elec.N5",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isbe6 elec.N5",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P841",
@@ -7694,7 +7694,7 @@ const products = [
         "originalCode": "4899804 4899831 3963808 3963812 bg5x9f479ba 2r0201136b",
         "image": "img/products/isb/valvula_combustible_common_rail_isb.jpg",
         "description": "Valvula combustible common rail ford/vw electronico isb i.a. 4899804 4899831 3963808 3963812 bg5x9f479ba 2r0201136b",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P842",
@@ -7704,7 +7704,7 @@ const products = [
         "originalCode": "BH0X6529DA",
         "image": "img/products/isb/rampas_balancines_isbe.jpg",
         "description": "Rampas de balancines armadas ELECT.ISBE 5.9 1722E BH0X6529DA",
-        "rubro": "050-DISTRIBUCIÓN"
+        "rubro": "050-DISTRIBUCIÃ“N"
     },
     {
         "id": "P843",
@@ -7748,12 +7748,12 @@ const products = [
     },
     {
         "id": "P847",
-        "name": "CAÑO GUIA VARILLA N/ACEITE OM904",
+        "name": "CAÃ‘O GUIA VARILLA N/ACEITE OM904",
         "brand": "Mercedes Benz",
         "code": "9040101466",
         "originalCode": "9040101466",
         "image": "img/products/om904/cano_guia_varilla_aceite_om904_9040101466.png",
-        "description": "CAÑO GUIA VARILLA N/ACEITE OM904 9040101466 Modelo: OM906",
+        "description": "CAÃ‘O GUIA VARILLA N/ACEITE OM904 9040101466 Modelo: OM906",
         "rubro": "BLOCK MOTOR, CARTER, T/CILINDRO"
     },
     {
@@ -7818,12 +7818,12 @@ const products = [
     },
     {
         "id": "P854",
-        "name": "CIGUEÑAL OM904 SUSIN",
+        "name": "CIGUEÃ‘AL OM904 SUSIN",
         "brand": "Mercedes Benz",
         "code": "9040300801",
         "originalCode": "9040300801",
         "image": "img/products/om904/ciguenal_om904_surin_9040300801.png",
-        "description": "CIGUEÑAL OM904 SUSIN 9040300801 Modelo: ACCELO-ATEGO",
+        "description": "CIGUEÃ‘AL OM904 SUSIN 9040300801 Modelo: ACCELO-ATEGO",
         "rubro": "PIEZAS MOTRICES DE MOTOR"
     },
     {
@@ -7838,12 +7838,12 @@ const products = [
     },
     {
         "id": "P856",
-        "name": "CONO SEGURO D/VALVULA #Jgo=2 1/2 cañas# OM904/6",
+        "name": "CONO SEGURO D/VALVULA #Jgo=2 1/2 caÃ±as# OM904/6",
         "brand": "Mercedes Benz",
         "code": "1020530026",
         "originalCode": "1020530026",
         "image": "img/products/om904/cono_seguro_valvula_om904_1020530026.png",
-        "description": "CONO SEGURO D/VALVULA #Jgo=2 1/2 cañas# OM904/6 1020530026 Modelo: OM904/6",
+        "description": "CONO SEGURO D/VALVULA #Jgo=2 1/2 caÃ±as# OM904/6 1020530026 Modelo: OM904/6",
         "rubro": "DISTRIBUCION DEL MOTOR"
     },
     {
@@ -7868,12 +7868,12 @@ const products = [
     },
     {
         "id": "P859",
-        "name": "CONO SEGURO D/VALVULA #1/2 caña# TOP BRAKE OM904",
+        "name": "CONO SEGURO D/VALVULA #1/2 caÃ±a# TOP BRAKE OM904",
         "brand": "Mercedes Benz",
         "code": "9060530026",
         "originalCode": "9060530026",
         "image": "img/products/om904/cono_seguro_valvula_top_brake_om904_9060530026.png",
-        "description": "CONO SEGURO D/VALVULA #1/2 caña# TOP BRAKE OM904 9060530026 Modelo: OM904",
+        "description": "CONO SEGURO D/VALVULA #1/2 caÃ±a# TOP BRAKE OM904 9060530026 Modelo: OM904",
         "rubro": "DISTRIBUCION DEL MOTOR"
     },
     {
@@ -8008,12 +8008,12 @@ const products = [
     },
     {
         "id": "P873",
-        "name": "TRANSMISOR DE IMPULSOS CIGUEÑAL OM904/24-906/26-457LA",
+        "name": "TRANSMISOR DE IMPULSOS CIGUEÃ‘AL OM904/24-906/26-457LA",
         "brand": "Mercedes Benz",
         "code": "0011533120",
         "originalCode": "0011533120",
         "image": "img/products/om904/transmisor_impulsos_ciguenal_om904_0011533120.png",
-        "description": "TRANSMISOR DE IMPULSOS CIGUEÑAL OM904/24-906/26-457LA 0011533120 Modelo: OM904/26-457",
+        "description": "TRANSMISOR DE IMPULSOS CIGUEÃ‘AL OM904/24-906/26-457LA 0011533120 Modelo: OM904/26-457",
         "rubro": "ALTERNADOR, ARRANQUE, DINAMO"
     },
     {
@@ -8058,22 +8058,22 @@ const products = [
     },
     {
         "id": "P878",
-        "name": "CAÑO CODO TAPA VALVULA OF1417/8-OM904/6",
+        "name": "CAÃ‘O CODO TAPA VALVULA OF1417/8-OM904/6",
         "brand": "Mercedes Benz",
         "code": "9060180082",
         "originalCode": "9060180082",
         "image": "img/products/om904/codo_tapa_valvula_om904_9060180082.png",
-        "description": "CAÑO CODO TAPA VALVULA OF1417/8-OM904/6 9060180082 Modelo: OF1417/8",
+        "description": "CAÃ‘O CODO TAPA VALVULA OF1417/8-OM904/6 9060180082 Modelo: OF1417/8",
         "rubro": "BOMBA DE ACEITE, TAPA REFRIGERACION"
     },
     {
         "id": "P879",
-        "name": "CAÑO D/GOMA DESCARGA ACEITE DE TURBO OM904/924",
+        "name": "CAÃ‘O D/GOMA DESCARGA ACEITE DE TURBO OM904/924",
         "brand": "Mercedes Benz",
         "code": "9049970282",
         "originalCode": "9049970282",
         "image": "img/products/om904/cano_goma_descarga_aceite_turbo_om904_9049970282.png",
-        "description": "CAÑO D/GOMA DESCARGA ACEITE DE TURBO OM904/924 9049970282 Modelo: 712C",
+        "description": "CAÃ‘O D/GOMA DESCARGA ACEITE DE TURBO OM904/924 9049970282 Modelo: 712C",
         "rubro": "FILTRO D/AIRE, GAS-OIL Y TURBO"
     },
     {
@@ -8208,12 +8208,12 @@ const products = [
     },
     {
         "id": "P893",
-        "name": "CAÑO RIG.SAL.BBA.AGUA OM904",
+        "name": "CAÃ‘O RIG.SAL.BBA.AGUA OM904",
         "brand": "Mercedes Benz",
         "code": "9062030015",
         "originalCode": "9062030015",
         "image": "img/products/om904/cano_rig_sal_bomba_agua_om904_9062030015.png",
-        "description": "CAÑO RIG.SAL.BBA.AGUA OM904 9062030015 Modelo: OM904",
+        "description": "CAÃ‘O RIG.SAL.BBA.AGUA OM904 9062030015 Modelo: OM904",
         "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
     },
     {
@@ -8238,42 +8238,42 @@ const products = [
     },
     {
         "id": "P896",
-        "name": "CAÑO GOMA RADIADOR INFERIOR A BOMBA DE AGUA OF1417 (OM904)",
+        "name": "CAÃ‘O GOMA RADIADOR INFERIOR A BOMBA DE AGUA OF1417 (OM904)",
         "brand": "Mercedes Benz",
         "code": "3845012982",
         "originalCode": "3845012982",
         "image": "img/products/om904/cano_radiador_inferior_of1417_3845012982.png",
-        "description": "CAÑO GOMA RADIADOR INFERIOR A BOMBA DE AGUA OF1417 (OM904) 3845012982 Modelo: OF1417(OM904)",
+        "description": "CAÃ‘O GOMA RADIADOR INFERIOR A BOMBA DE AGUA OF1417 (OM904) 3845012982 Modelo: OF1417(OM904)",
         "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
     },
     {
         "id": "P897",
-        "name": "CAÑO GOMA RADIADOR SUPERIOR ATEGO 1418 OM904",
+        "name": "CAÃ‘O GOMA RADIADOR SUPERIOR ATEGO 1418 OM904",
         "brand": "Mercedes Benz",
         "code": "9585011982",
         "originalCode": "9585011982",
         "image": "img/products/om904/cano_radiador_superior_atego_1418_9585011982.png",
-        "description": "CAÑO GOMA RADIADOR SUPERIOR ATEGO 1418 OM904 9585011982 Modelo: ATEGO 1418",
+        "description": "CAÃ‘O GOMA RADIADOR SUPERIOR ATEGO 1418 OM904 9585011982 Modelo: ATEGO 1418",
         "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
     },
     {
         "id": "P898",
-        "name": "CAÑO GOMA RADIADOR INFERIOR ATRON 1720 OM904",
+        "name": "CAÃ‘O GOMA RADIADOR INFERIOR ATRON 1720 OM904",
         "brand": "Mercedes Benz",
         "code": "6935010382",
         "originalCode": "6935010382",
         "image": "img/products/om904/cano_radiador_inferior_atron_1720_6935010382.png",
-        "description": "CAÑO GOMA RADIADOR INFERIOR ATRON 1720 OM904 6935010382 Modelo: ATRON 1720",
+        "description": "CAÃ‘O GOMA RADIADOR INFERIOR ATRON 1720 OM904 6935010382 Modelo: ATRON 1720",
         "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
     },
     {
         "id": "P899",
-        "name": "CAÑO GOMA RADIADOR SUPERIOR ATRON 1720 OM904",
+        "name": "CAÃ‘O GOMA RADIADOR SUPERIOR ATRON 1720 OM904",
         "brand": "Mercedes Benz",
         "code": "6935019082",
         "originalCode": "6935019082",
         "image": "img/products/om904/cano_radiador_superior_atron_1720_6935019082.png",
-        "description": "CAÑO GOMA RADIADOR SUPERIOR ATRON 1720 OM904 6935019082 Modelo: ATRON 1720",
+        "description": "CAÃ‘O GOMA RADIADOR SUPERIOR ATRON 1720 OM904 6935019082 Modelo: ATRON 1720",
         "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
     },
     {
@@ -8288,12 +8288,12 @@ const products = [
     },
     {
         "id": "P901",
-        "name": "CAÑO GOMA RADIADOR INFERIOR ATEGO 1418 OM904",
+        "name": "CAÃ‘O GOMA RADIADOR INFERIOR ATEGO 1418 OM904",
         "brand": "Mercedes Benz",
         "code": "3845011982/0284",
         "originalCode": "3845011982/0284",
         "image": "img/products/om904/cano_radiador_inferior_atego_1418_3845011982.png",
-        "description": "CAÑO GOMA RADIADOR INFERIOR ATEGO 1418 OM904 3845011982/0284 Modelo: ATEGO 1418",
+        "description": "CAÃ‘O GOMA RADIADOR INFERIOR ATEGO 1418 OM904 3845011982/0284 Modelo: ATEGO 1418",
         "rubro": "REFRIGERACION MOTOR, BOMBA AGUA"
     },
     {
@@ -8348,12 +8348,12 @@ const products = [
     },
     {
         "id": "P907",
-        "name": "CAÑO GOMA ASPIRACION F/AIRE AL TURBO L1218 OM904",
+        "name": "CAÃ‘O GOMA ASPIRACION F/AIRE AL TURBO L1218 OM904",
         "brand": "Mercedes Benz",
         "code": "S/N",
         "originalCode": "S/N",
         "image": "img/products/om904/cano_aspiracion_aire_turbo_l1218_om904.png",
-        "description": "CAÑO GOMA ASPIRACION F/AIRE AL TURBO L1218 OM904 Modelo: L1218",
+        "description": "CAÃ‘O GOMA ASPIRACION F/AIRE AL TURBO L1218 OM904 Modelo: L1218",
         "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
     },
     {
@@ -8378,12 +8378,12 @@ const products = [
     },
     {
         "id": "P910",
-        "name": "JTA.CAÑO LUBRICACION PIPETA DE TURBO OM904/6",
+        "name": "JTA.CAÃ‘O LUBRICACION PIPETA DE TURBO OM904/6",
         "brand": "Mercedes Benz",
         "code": "5411870080",
         "originalCode": "5411870080",
         "image": "img/products/om904/jta_cano_lubricacion_pipeta_turbo_om904_5411870080.png",
-        "description": "JTA.CAÑO LUBRICACION PIPETA DE TURBO OM904/6 5411870080 Modelo: OM904/6",
+        "description": "JTA.CAÃ‘O LUBRICACION PIPETA DE TURBO OM904/6 5411870080 Modelo: OM904/6",
         "rubro": "FILTRO DE AIRE, GAS-OIL Y TURBO"
     },
     {
@@ -8408,42 +8408,42 @@ const products = [
     },
     {
         "id": "P913",
-        "name": "CAÑO RIG.D/HIDR.AL FLEXIBLE OF1722 OM904",
+        "name": "CAÃ‘O RIG.D/HIDR.AL FLEXIBLE OF1722 OM904",
         "brand": "Mercedes Benz",
         "code": "3844600824",
         "originalCode": "3844600824",
         "image": "img/products/om904/cano_rig_dh_flexible_of1722_3844600824.png",
-        "description": "CAÑO RIG.D/HIDR.AL FLEXIBLE OF1722 OM904 3844600824 Modelo: OF1722 OM904",
+        "description": "CAÃ‘O RIG.D/HIDR.AL FLEXIBLE OF1722 OM904 3844600824 Modelo: OF1722 OM904",
         "rubro": "CAJA DE DIRECCION Y SUS PARTES"
     },
     {
         "id": "P914",
-        "name": "CAÑO RETORNO INYECTOR TOP-BRAKE OM904/924",
+        "name": "CAÃ‘O RETORNO INYECTOR TOP-BRAKE OM904/924",
         "brand": "Mercedes Benz",
         "code": "9040700433",
         "originalCode": "9040700433",
         "image": "img/products/om904/cano_retorno_inyector_top_brake_om904_9040700433.png",
-        "description": "CAÑO RETORNO INYECTOR TOP-BRAKE OM904/924 9040700433 Modelo: OM904/924",
+        "description": "CAÃ‘O RETORNO INYECTOR TOP-BRAKE OM904/924 9040700433 Modelo: OM904/924",
         "rubro": "INYECCION DEL MOTOR"
     },
     {
         "id": "P915",
-        "name": "CAÑO RIGIDO D/COMPRESOR OM904 712C",
+        "name": "CAÃ‘O RIGIDO D/COMPRESOR OM904 712C",
         "brand": "Mercedes Benz",
         "code": "6884204036",
         "originalCode": "6884204036",
         "image": "img/products/om904/cano_rigido_compresor_712c_6884204036.png",
-        "description": "CAÑO RIGIDO D/COMPRESOR OM904 712C 6884204036 Modelo: 712C",
+        "description": "CAÃ‘O RIGIDO D/COMPRESOR OM904 712C 6884204036 Modelo: 712C",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
         "id": "P916",
-        "name": "CAÑO RIGIDO SALIDA COMPRESOR OF1417/8-OM904LA",
+        "name": "CAÃ‘O RIGIDO SALIDA COMPRESOR OF1417/8-OM904LA",
         "brand": "Mercedes Benz",
         "code": "3844203636",
         "originalCode": "3844203636",
         "image": "img/products/om904/cano_rigido_salida_compresor_of1417_3844203636.png",
-        "description": "CAÑO RIGIDO SALIDA COMPRESOR OF1417/8-OM904LA 3844203636 Modelo: 1417/8-OM904L",
+        "description": "CAÃ‘O RIGIDO SALIDA COMPRESOR OF1417/8-OM904LA 3844203636 Modelo: 1417/8-OM904L",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
@@ -8458,32 +8458,32 @@ const products = [
     },
     {
         "id": "P918",
-        "name": "CAÑO RIG.SAL.COMPR.1er.TRAMO (1 RULO) OM904",
+        "name": "CAÃ‘O RIG.SAL.COMPR.1er.TRAMO (1 RULO) OM904",
         "brand": "Mercedes Benz",
         "code": "3904200849",
         "originalCode": "3904200849",
         "image": "img/products/om904/cano_rig_sal_compr_1er_tramo_3904200849.png",
-        "description": "CAÑO RIG.SAL.COMPR.1er.TRAMO (1 RULO) OM904 3904200849 Modelo: 814",
+        "description": "CAÃ‘O RIG.SAL.COMPR.1er.TRAMO (1 RULO) OM904 3904200849 Modelo: 814",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
         "id": "P919",
-        "name": "CAÑO RIG.COMPR.2do.TRAMO OM904",
+        "name": "CAÃ‘O RIG.COMPR.2do.TRAMO OM904",
         "brand": "Mercedes Benz",
         "code": "3904200949",
         "originalCode": "3904200949",
         "image": "img/products/om904/cano_rig_compr_2do_tramo_3904200949.png",
-        "description": "CAÑO RIG.COMPR.2do.TRAMO OM904 3904200949 Modelo: 814",
+        "description": "CAÃ‘O RIG.COMPR.2do.TRAMO OM904 3904200949 Modelo: 814",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
         "id": "P920",
-        "name": "CAÑO RIG.COMPR.3er.TRAMO (TIPO \"Z\") OM904",
+        "name": "CAÃ‘O RIG.COMPR.3er.TRAMO (TIPO \"Z\") OM904",
         "brand": "Mercedes Benz",
         "code": "3904201049",
         "originalCode": "3904201049",
         "image": "img/products/om904/cano_rig_compr_3er_tramo_tipo_z_3904201049.png",
-        "description": "CAÑO RIG.COMPR.3er.TRAMO (TIPO \"Z\") OM904 3904201049 Modelo: 814",
+        "description": "CAÃ‘O RIG.COMPR.3er.TRAMO (TIPO \"Z\") OM904 3904201049 Modelo: 814",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
@@ -8508,12 +8508,12 @@ const products = [
     },
     {
         "id": "P923",
-        "name": "CAÑO LUBRICACION TURBO (RIGIDO) OF1417-712C-1218E-OM904",
+        "name": "CAÃ‘O LUBRICACION TURBO (RIGIDO) OF1417-712C-1218E-OM904",
         "brand": "Mercedes Benz",
         "code": "9041800420",
         "originalCode": "9041800420",
         "image": "img/products/om904/cano_lubricacion_turbo_rigido_om904_9041800420.png",
-        "description": "CAÑO LUBRICACION TURBO (RIGIDO) OF1417-712C-1218E-OM904 9041800420 Modelo: OF1417-712C",
+        "description": "CAÃ‘O LUBRICACION TURBO (RIGIDO) OF1417-712C-1218E-OM904 9041800420 Modelo: OF1417-712C",
         "rubro": "BOMBA DE ACEITE Y TAPA DE REFRIGERACION"
     },
     {
@@ -8528,32 +8528,32 @@ const products = [
     },
     {
         "id": "P925",
-        "name": "CAÑO RIGIDO COMPRESOR 1ER.TRAMO ATEGO 1725 OM904LA",
+        "name": "CAÃ‘O RIGIDO COMPRESOR 1ER.TRAMO ATEGO 1725 OM904LA",
         "brand": "Mercedes Benz",
         "code": "9584200231",
         "originalCode": "9584200231",
         "image": "img/products/om904/cano_rigido_compr_1er_tramo_atego_1725_9584200231.png",
-        "description": "CAÑO RIGIDO COMPRESOR 1ER.TRAMO ATEGO 1725 OM904LA 9584200231 Modelo: ATEGO 1725",
+        "description": "CAÃ‘O RIGIDO COMPRESOR 1ER.TRAMO ATEGO 1725 OM904LA 9584200231 Modelo: ATEGO 1725",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
         "id": "P926",
-        "name": "CAÑO RIGIDO COMPRESOR 2DO.TRAMO SERPENTINA ATEGO 1725 OM904LA",
+        "name": "CAÃ‘O RIGIDO COMPRESOR 2DO.TRAMO SERPENTINA ATEGO 1725 OM904LA",
         "brand": "Mercedes Benz",
         "code": "9584200131",
         "originalCode": "9584200131",
         "image": "img/products/om904/cano_rigido_compr_2do_tramo_serpentina_atego_1725_9584200131.png",
-        "description": "CAÑO RIGIDO COMPRESOR 2DO.TRAMO SERPENTINA ATEGO 1725 OM904LA 9584200131 Modelo: ATEGO 1725",
+        "description": "CAÃ‘O RIGIDO COMPRESOR 2DO.TRAMO SERPENTINA ATEGO 1725 OM904LA 9584200131 Modelo: ATEGO 1725",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
         "id": "P927",
-        "name": "CAÑO RIGIDO SALIDA BBA.D/HIDRAULICA ATEGO 1725 OM904",
+        "name": "CAÃ‘O RIGIDO SALIDA BBA.D/HIDRAULICA ATEGO 1725 OM904",
         "brand": "Mercedes Benz",
         "code": "S/CODIGO",
         "originalCode": "S/CODIGO",
         "image": "img/products/om904/cano_rig_sal_bba_dh_atego_1725.png",
-        "description": "CAÑO RIGIDO SALIDA BBA.D/HIDRAULICA ATEGO 1725 OM904 S/CODIGO Modelo: ATEGO 1725",
+        "description": "CAÃ‘O RIGIDO SALIDA BBA.D/HIDRAULICA ATEGO 1725 OM904 S/CODIGO Modelo: ATEGO 1725",
         "rubro": "CAJA DE DIRECCION Y SUS PARTES"
     },
     {
@@ -8638,12 +8638,12 @@ const products = [
     },
     {
         "id": "P936",
-        "name": "ENGRANAJE CIGUEÑAL COMPRESOR WABCO 85mm.OM904/6",
+        "name": "ENGRANAJE CIGUEÃ‘AL COMPRESOR WABCO 85mm.OM904/6",
         "brand": "Mercedes Benz",
         "code": "9061320405",
         "originalCode": "9061320405",
         "image": "img/products/om904/engranaje_ciguenal_compresor_wabco_85mm_om904_9061320405.png",
-        "description": "ENGRANAJE CIGUEÑAL COMPRESOR WABCO 85mm.OM904/6 9061320405 Modelo: OM904/6",
+        "description": "ENGRANAJE CIGUEÃ‘AL COMPRESOR WABCO 85mm.OM904/6 9061320405 Modelo: OM904/6",
         "rubro": "COMPRESOR DE AIRE Y SUS PARTES"
     },
     {
@@ -8768,12 +8768,12 @@ const products = [
     },
     {
         "id": "P949",
-        "name": "CAÑO INYECTOR OM904/906 C/ABRAZADERA",
+        "name": "CAÃ‘O INYECTOR OM904/906 C/ABRAZADERA",
         "brand": "Mercedes Benz",
         "code": "9060701433",
         "originalCode": "9060701433",
         "image": "img/products/om904/cano_inyector_om904_906_9060701433.png",
-        "description": "CAÑO INYECTOR OM904/906 C/ABRAZADERA 9060701433 Modelo: 712C-1114",
+        "description": "CAÃ‘O INYECTOR OM904/906 C/ABRAZADERA 9060701433 Modelo: 712C-1114",
         "rubro": "INYECCION DEL MOTOR"
     },
     {
@@ -8878,12 +8878,12 @@ const products = [
     },
     {
         "id": "P960",
-        "name": "RETEN CIGUEÑAL DELANTERO OM904/6/924/6",
+        "name": "RETEN CIGUEÃ‘AL DELANTERO OM904/6/924/6",
         "brand": "Mercedes Benz",
         "code": "0229977647",
         "originalCode": "0229977647",
         "image": "img/products/om904/reten_ciguenal_delantero_om904_6_924_6_0229977647.png",
-        "description": "RETEN CIGUEÑAL DELANTERO OM904/6/924/6 0229977647 Modelo: 712C ELECTR.",
+        "description": "RETEN CIGUEÃ‘AL DELANTERO OM904/6/924/6 0229977647 Modelo: 712C ELECTR.",
         "rubro": "BLOCK MOTOR, CARTER Y TAPA DE CILINDRO"
     },
     {
@@ -8964,7 +8964,7 @@ const products = [
         "originalCode": "5318533 23B117021",
         "image": "img/products/isf/radiador_aceite_cummins_isf28_5318533.jpg",
         "description": "RADIADOR ACEITE MOT. CUMMINS ISF 2.8 VW DELIVERY 5318533 / 23B117021",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P969",
@@ -9038,12 +9038,12 @@ const products = [
     },
     {
         "id": "P976",
-        "name": "Sensor de giro de cigueñal/arbol de levas cummins ISBE / MWM",
+        "name": "Sensor de giro de cigueÃ±al/arbol de levas cummins ISBE / MWM",
         "brand": "Ford/VW",
         "code": "4890190 / BG5X6C315BA / 2R0906433A / 961200670024",
         "originalCode": "4890190 BG5X6C315BA 2R0906433A 961200670024",
         "image": "img/products/6c/sensor-giro-ciguenal-cummins-isbe-mwm.jpg",
-        "description": "Sensor de giro de cigueñal/arbol de levas cummins ISBE / MWM 4890190 BG5X6C315BA 2R0906433A 961200670024",
+        "description": "Sensor de giro de cigueÃ±al/arbol de levas cummins ISBE / MWM 4890190 BG5X6C315BA 2R0906433A 961200670024",
         "rubro": "ELECTRICIDAD DE MOTOR"
     },
     {
@@ -9064,16 +9064,16 @@ const products = [
         "originalCode": "6C459G883AA",
         "image": "img/products/6c/pedal-acelerador-completo-electrico-ford.jpg",
         "description": "Pedal acelerador completo electrico ford 815e/915e/1317e/1517e/1722e 2009/2011 m/v 6C459G883AA",
-        "rubro": "ACELERACIÓN"
+        "rubro": "ACELERACIÃ“N"
     },
     {
         "id": "P979",
-        "name": "Empuñadura palanca ford C2632 (15 marchas) completa",
+        "name": "EmpuÃ±adura palanca ford C2632 (15 marchas) completa",
         "brand": "Ford/VW",
         "code": "A6915 / 3003913 / BC457213BA / S2581 / 6C457213AA / 2RR711259",
         "originalCode": "A6915 3003913 BC457213BA S2581 6C457213AA 2RR711259",
         "image": "img/products/6c/empunadura-palanca-ford-c2632-15-marchas.jpg",
-        "description": "Empuñadura palanca ford C2632 (15 marchas) completa A6915 3003913 BC457213BA S2581 6C457213AA 2RR711259",
+        "description": "EmpuÃ±adura palanca ford C2632 (15 marchas) completa A6915 3003913 BC457213BA S2581 6C457213AA 2RR711259",
         "rubro": "CAJA CAMBIO"
     },
     {
@@ -9094,7 +9094,7 @@ const products = [
         "originalCode": "TAL117269 BF8T5A272AA XC456F081AA 6C456F081AA",
         "image": "img/products/6c/abrazadera-multiple-admision-intercooler-104x115.jpg",
         "description": "Abrazadera multiple admision e intercooler 104x115 TAL117269 BF8T5A272AA XC456F081AA 6C456F081AA",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P982",
@@ -9114,7 +9114,7 @@ const products = [
         "originalCode": "0445120161 4988835 BH1X9K526CA",
         "image": "img/products/6c/inyector-common-rail-cummins-qsb-ford-vw.jpg",
         "description": "Inyector Common Rail cummins qsb ford/vw 0445120161 4988835 BH1X9K526CA",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P984",
@@ -9254,7 +9254,7 @@ const products = [
         "originalCode": "XC456C061AA 2RR199383A",
         "image": "img/products/6c/barra-tensor-motor-ford-cargo-vw.jpg",
         "description": "Barra tensor motor ford cargo 1831/2626/2631 VW 18310/24220/26310 bus 17240 XC456C061AA 2RR199383A",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P998",
@@ -9288,12 +9288,12 @@ const products = [
     },
     {
         "id": "P1001",
-        "name": "Polea cigueñal ford 14000 96/99 vw 9150/13180 mwm 6.10tca",
+        "name": "Polea cigueÃ±al ford 14000 96/99 vw 9150/13180 mwm 6.10tca",
         "brand": "Ford/VW",
         "code": "BF5X6316A / 961007030034 / 2RD105259 / 941003810174 / BF5X6316C / 941007030014",
         "originalCode": "BF5X6316A 961007030034 2RD105259 941003810174 BF5X6316C 941007030014",
         "image": "img/products/6c/polea-ciguenal-ford-14000-vw-9150.jpg",
-        "description": "Polea cigueñal ford 14000 96/99 vw 9150/13180 mwm 6.10tca BF5X6316A 961007030034 2RD105259 941003810174 BF5X6316C 941007030014",
+        "description": "Polea cigueÃ±al ford 14000 96/99 vw 9150/13180 mwm 6.10tca BF5X6316A 961007030034 2RD105259 941003810174 BF5X6316C 941007030014",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -9394,7 +9394,7 @@ const products = [
         "originalCode": "6C458A616CA BH5X8A616AA DC458C617AA",
         "image": "img/products/6c/viscoso-ford-cargo-1722e-cummins.jpg",
         "description": "Viscoso(**)ford cargo 1722e cummins 220-275 6 aguj. 6C458A616CA BH5X8A616AA DC458C617AA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1012",
@@ -9404,7 +9404,7 @@ const products = [
         "originalCode": "4C458A616CA",
         "image": "img/products/6c/viscoso-ford-cum6ct-1722-1730-2631.jpg",
         "description": "Viscoso (**)ford cum6ct 1722/1730/2631 6 aguj. Vastago largo rosca hem (185mm) ant.2003 4C458A616CA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1013",
@@ -9414,16 +9414,16 @@ const products = [
         "originalCode": "9062050106 0032051306 9062001323 6C458600CA",
         "image": "img/products/6c/paleta-plastico-om924-l1624-1725.jpg",
         "description": "PALETA PLASTICO OM924/L1624/1725 C/ARO 8 PALAS.654mm. 9062050106 0032051306 9062001323 6C458600CA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1014",
-        "name": "Compresor armado completo ford cargo motor cummins hasta año 2000 qe296c T/HOLSET",
+        "name": "Compresor armado completo ford cargo motor cummins hasta aÃ±o 2000 qe296c T/HOLSET",
         "brand": "Ford/VW",
         "code": "BF0X2W152AA / 3976310 / QE296C",
         "originalCode": "BF0X2W152AA 3976310 QE296C",
         "image": "img/products/6c/compresor-armado-completo-ford-cargo-cummins-qe296c.jpg",
-        "description": "Compresor armado completo ford cargo motor cummins hasta año 2000 qe296c T/HOLSET BF0X2W152AA 3976310 QE296C",
+        "description": "Compresor armado completo ford cargo motor cummins hasta aÃ±o 2000 qe296c T/HOLSET BF0X2W152AA 3976310 QE296C",
         "rubro": "COMPRESOR"
     },
     {
@@ -9434,7 +9434,7 @@ const products = [
         "originalCode": "3924726 TRA130799",
         "image": "img/products/6c/valvula-retencion-combustible-8mm-cummins.jpg",
         "description": "Valvula retencion combustible 8mm cummins 6b/6c ford/vw (2 ag.) 3924726 TRA130799",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1016",
@@ -9454,17 +9454,17 @@ const products = [
         "originalCode": "2RL103157 2RK103157 TE3103157 3933384",
         "image": "img/products/6c/tapa-trasera-porta-reten-carcaza-volante-ford-cargo.jpg",
         "description": "Tapa trasera porta reten carcaza volante Ford Cargo 1722/1730/1831/2626/2631/CUMMINS 6CT - 6CTA - 6C 2RL103157 2RK103157 TE3103157 3933384",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1018",
-        "name": "CAÑO RIGIDO AGUA 6CIL. AXOR",
+        "name": "CAÃ‘O RIGIDO AGUA 6CIL. AXOR",
         "brand": "Mercedes Benz",
         "code": "4570100455",
         "originalCode": "4570100455",
         "image": "img/products/om457/cano-rigido-agua-6cil-axor.jpg",
-        "description": "CAÑO RIGIDO AGUA 6CIL. AXOR 4570100455",
-        "rubro": "REFRIGERACIÓN"
+        "description": "CAÃ‘O RIGIDO AGUA 6CIL. AXOR 4570100455",
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1019",
@@ -9524,7 +9524,7 @@ const products = [
         "originalCode": "3936365 BG2X6674AA BF8T6674B 2RL115419 2TE115419",
         "image": "img/products/6c/valvula-presion-aceite-ford-vw-cummins.jpg",
         "description": "VALVULA PRESION ACEITE FORD/VW CUMMINS 4B/4C/6B/6C 3936365 BG2X6674AA BF8T6674B 2RL115419 2TE115419",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1025",
@@ -9548,22 +9548,22 @@ const products = [
     },
     {
         "id": "P1027",
-        "name": "Caño tubo descarga aceite turbo 6cta 8.3",
+        "name": "CaÃ±o tubo descarga aceite turbo 6cta 8.3",
         "brand": "Ford/VW",
         "code": "3926842 / 3908114 / BG2X6418AA / BF8T6418A / TE3145465 / 2T0145735",
         "originalCode": "3926842 3908114 BG2X6418AA BF8T6418A TE3145465 2T0145735",
         "image": "img/products/6c/cano-tubo-descarga-aceite-turbo-6cta-8-3.jpg",
-        "description": "Caño tubo descarga aceite turbo 6cta 8.3 3926842 3908114 BG2X6418AA BF8T6418A TE3145465 2T0145735",
+        "description": "CaÃ±o tubo descarga aceite turbo 6cta 8.3 3926842 3908114 BG2X6418AA BF8T6418A TE3145465 2T0145735",
         "rubro": "TURBO"
     },
     {
         "id": "P1028",
-        "name": "Adaptador cigueñal corto 6ct 8.3 cummins Vw 17220/18310",
+        "name": "Adaptador cigueÃ±al corto 6ct 8.3 cummins Vw 17220/18310",
         "brand": "Ford/VW",
         "code": "2T0105253 / 3357101",
         "originalCode": "2T0105253 3357101",
         "image": "img/products/6c/adaptador-ciguenal-corto-6ct.jpg",
-        "description": "Adaptador cigueñal corto 6ct 8.3 cummins Vw 17220/18310 2T0105253 3357101",
+        "description": "Adaptador cigueÃ±al corto 6ct 8.3 cummins Vw 17220/18310 2T0105253 3357101",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -9714,17 +9714,17 @@ const products = [
         "originalCode": "3937438 3900706 3934086 BF0T6549AA BF8T6549A 2S0109451W",
         "image": "img/products/6c/tornillo-registro-valvulas-cummins.jpg",
         "description": "tornillo registro de valvulas 3/8 x 24mm cummins 4b/6b/6c",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1044",
-        "name": "CAÑO RIGIDO PURGADOR 6CIL.447A/LA 1938",
+        "name": "CAÃ‘O RIGIDO PURGADOR 6CIL.447A/LA 1938",
         "brand": "Mercedes Benz",
         "code": "4760100070",
         "originalCode": "4760100070",
         "image": "img/products/om447/cano-rigido-purgador-447.jpg",
-        "description": "CAÑO RIGIDO PURGADOR 6CIL.447A/LA 1938 4760100070",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "description": "CAÃ‘O RIGIDO PURGADOR 6CIL.447A/LA 1938 4760100070",
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1045",
@@ -9774,7 +9774,7 @@ const products = [
         "originalCode": "3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
         "image": "img/products/6c/radiador-aceite-cummins-isbe-6cil-7filas.jpg",
         "description": "Radiador aceite cummins isbe 6cil 7 filas Ford Cargo 1722 vw17250 iveco 3959031 BG5X6B856BA 2S0117021B 4896407 504047629 504387924",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1050",
@@ -9784,17 +9784,17 @@ const products = [
         "originalCode": "3902112",
         "image": "img/products/6c/bulon-soporte-inyector-cummins-6c-3902112.jpg",
         "description": "Bulon soporte inyector cummins 6c 3902112",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1051",
-        "name": "Manguera continuacion caño entrada aceite 6ct ford/vw",
+        "name": "Manguera continuacion caÃ±o entrada aceite 6ct ford/vw",
         "brand": "Ford/VW",
         "code": "TJG115617 / TJG115617B / XC456A787CA",
         "originalCode": "TJG115617 TJG115617B XC456A787CA",
         "image": "img/products/6c/manguera-entrada-aceite-cummins-6ct.jpg",
-        "description": "Manguera continuacion caño entrada aceite 6ct ford/vw TJG115617 TJG115617B XC456A787CA",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "description": "Manguera continuacion caÃ±o entrada aceite 6ct ford/vw TJG115617 TJG115617B XC456A787CA",
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1052",
@@ -9824,7 +9824,7 @@ const products = [
         "originalCode": "3922639 bg2x6064aa 2rk103591",
         "image": "img/products/6c/esparrago-tapa-valvula-cummins-6ct.jpg",
         "description": "Esparrago tapa de valvula cummins 6ct ford/vw 3922639 bg2x6064aa 2rk103591",
-        "rubro": "TAPA CILINDRO Y VÁLVULA"
+        "rubro": "TAPA CILINDRO Y VÃLVULA"
     },
     {
         "id": "P1055",
@@ -9854,7 +9854,7 @@ const products = [
         "originalCode": "3905401",
         "image": "img/products/6c/tapon-sello-block-cummins-6ct-35mm.jpg",
         "description": "Tapon sello block cummins 6ct 35 mm. (ENVIAR 00193) 3905401",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1058",
@@ -9864,7 +9864,7 @@ const products = [
         "originalCode": "143066",
         "image": "img/products/6c/tapon-sello-block-cummins-6ct-29mm.jpg",
         "description": "Tapon sello block cummins 6ct 29 mm. 143066",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1059",
@@ -9894,7 +9894,7 @@ const products = [
         "originalCode": "TEG115629 2C456784BC",
         "image": "img/products/6c/guia-varilla-aceite-cummins-6ct-1250mm.jpg",
         "description": "Guia varilla n/aceite 1250 mm. Cummins 6ct Ford Cargo/VW 26260e TEG115629 2C456784BC",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1062",
@@ -9914,17 +9914,17 @@ const products = [
         "originalCode": "TE3103475 2RK103475 3907734 3930903 3903791 3927907",
         "image": "img/products/6c/tapa-valvulas-cummins-6ct.jpg",
         "description": "Tapa de valvulas cummins 6ct ford/vw TE3103475 2RK103475 3907734 3930903 3903791 3927907",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1064",
-        "name": "Abrazadera caño inyector cummins 6c",
+        "name": "Abrazadera caÃ±o inyector cummins 6c",
         "brand": "Ford/VW",
         "code": "3910279 / TE3130221",
         "originalCode": "3910279 TE3130221",
         "image": "img/products/6c/abrazadera-cano-inyector-cummins-6c.jpg",
-        "description": "Abrazadera caño inyector cummins 6c 3910279 TE3130221",
-        "rubro": "INYECCIÓN"
+        "description": "Abrazadera caÃ±o inyector cummins 6c 3910279 TE3130221",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1065",
@@ -9934,17 +9934,17 @@ const products = [
         "originalCode": "3920762 2RK121079 BF9X8266AA",
         "image": "img/products/6c/codo-entrada-agua-motor-cummins-6ct.jpg",
         "description": "Codo de entrada agua al motor Cummins 6CT 3920762 2RK121079 BF9X8266AA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1066",
-        "name": "Caño venteo cummins 6ct isc 8.3 ford 1722/1730 vw 17220/17300/18310",
+        "name": "CaÃ±o venteo cummins 6ct isc 8.3 ford 1722/1730 vw 17220/17300/18310",
         "brand": "Ford/VW",
         "code": "3924589 / TJG127699 / 2RK127699",
         "originalCode": "3924589 TJG127699 2RK127699",
         "image": "img/products/6c/cano-venteo-cummins-6ct.jpg",
-        "description": "Caño venteo cummins 6ct isc 8.3 ford 1722/1730 vw 17220/17300/18310 3924589 TJG127699 2RK127699",
-        "rubro": "LUBRICACIÓN"
+        "description": "CaÃ±o venteo cummins 6ct isc 8.3 ford 1722/1730 vw 17220/17300/18310 3924589 TJG127699 2RK127699",
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1067",
@@ -9964,7 +9964,7 @@ const products = [
         "originalCode": "2U0109283 3922530 3925230 3926847 3926840 BG1X6019AA TN4109283",
         "image": "img/products/6c/tapa-caja-engranaje-distribucion-cummins-6ct.jpg",
         "description": "Tapa caja engranaje distribucion serie 6ct 8.3 ford/vw 2U0109283 3922530 3925230 3926847 3926840 BG1X6019AA TN4109283",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1069",
@@ -9974,16 +9974,16 @@ const products = [
         "originalCode": "tjg121121 3354394",
         "image": "img/products/6c/codo-salida-agua-cummins-6cta-8-3.jpg",
         "description": "Codo salida agua cummins 6cta 8.3 tjg121121 3354394",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1070",
-        "name": "Adaptador cigueñal 6ct 8.3 cummins ford/Vw",
+        "name": "Adaptador cigueÃ±al 6ct 8.3 cummins ford/Vw",
         "brand": "Ford/VW",
         "code": "2RK105251 / BF5X6312A / 3355380",
         "originalCode": "2RK105251 BF5X6312A 3355380",
-        "image": "img/products/6c/adaptador-cigueñal-cummins-6ct-8-3.jpg",
-        "description": "Adaptador cigueñal 6ct 8.3 cummins ford/Vw 2RK105251 BF5X6312A 3355380",
+        "image": "img/products/6c/adaptador-cigueÃ±al-cummins-6ct-8-3.jpg",
+        "description": "Adaptador cigueÃ±al 6ct 8.3 cummins ford/Vw 2RK105251 BF5X6312A 3355380",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -9994,7 +9994,7 @@ const products = [
         "originalCode": "TJG199375",
         "image": "img/products/6c/soporte-hierro-motor-tras-cummins-6ct-isc.jpg",
         "description": "Soporte hierro motor tras.cummins 6ct ISC TJG199375",
-        "rubro": "SUSPENSIÓN DE MOTOR"
+        "rubro": "SUSPENSIÃ“N DE MOTOR"
     },
     {
         "id": "P1072",
@@ -10004,7 +10004,7 @@ const products = [
         "originalCode": "bf9x9k478aa 2rk121117",
         "image": "img/products/6c/carcaza-inf-termostato-cummins-6ct-8-3.jpg",
         "description": "Carcaza inf.termostato cummins 6ct 8.3 ford/vw bf9x9k478aa 2rk121117",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1073",
@@ -10014,7 +10014,7 @@ const products = [
         "originalCode": "4897481 4939588 BG5X6600BA 2S0115105C",
         "image": "img/products/isb/bomba-aceite-cummins-isbe-5-9-6cil-electronico.jpg",
         "description": "Bomba aceite cummins ISBE 5.9 6cil (electronico) 4897481 4939588 BG5X6600BA 2S0115105C",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1074",
@@ -10074,7 +10074,7 @@ const products = [
         "originalCode": "4C458A616AA 2T0121302",
         "image": "img/products/6c/viscoso-cummins-6cta-6aguj-rosca-hembra.jpg",
         "description": "Viscoso(**) ford cum 6cta 1831/2631 vw 17310 6 aguj.vastago corto rosca hem(200mm.) 4C458A616AA 2T0121302",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1080",
@@ -10084,7 +10084,7 @@ const products = [
         "originalCode": "2S0121004E BG1X8501AA TF3121005 3802973 3806180 3913430 3802081",
         "image": "img/products/6c/bomba-agua-cummins-6ct-3-agujeros.jpg",
         "description": "Bomba agua cummins 6CT (3 agujeros) 2S0121004E BG1X8501AA TF3121005 3802973 3806180 3913430 3802081",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1081",
@@ -10094,7 +10094,7 @@ const products = [
         "originalCode": "2T0121302 4C458A616AA",
         "image": "img/products/6c/viscoso-vw-cummins-6ct-pesados.jpg",
         "description": "Viscoso(**) v.w.cummins-6ct: 17310/18310/23310/26310 pesados - 6 aguj.vastago corto(200mm.) 2T0121302 4C458A616AA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1082",
@@ -10104,7 +10104,7 @@ const products = [
         "originalCode": "TMG121431X",
         "image": "img/products/6c/viscoso-cummins-6ct-ford-1722-1730-2625-diam-185mm.jpg",
         "description": "Viscoso cummins 6ct ford 1722/1730/2625 97/02 6 tornillos (diam.185mm.)c/adap. TMG121431X",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1083",
@@ -10114,7 +10114,7 @@ const products = [
         "originalCode": "2VP121431",
         "image": "img/products/6c/viscoso-vw-mwm-cummins-6c-185mm.jpg",
         "description": "Viscoso(**) v.w./mwm:15180e cum13170e/15180e/24250e cumm-6c:17300 6aguj.vtago cto 185mm. 2VP121431",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1084",
@@ -10124,7 +10124,7 @@ const products = [
         "originalCode": "2tc121303a 97HU8600AA",
         "image": "img/products/6c/paleta-ventilador-9-palas-cummins-6ct.jpg",
         "description": "Paleta vent.(**)9 palas 6ag.(635mm)cumm.btvw17210/17220 cum.6ct24250 ford 1722/30/2625 2tc121303a 97HU8600AA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1085",
@@ -10134,17 +10134,17 @@ const products = [
         "originalCode": "3973114 BH2X8501BA BG7X8501AA 2T2121004A",
         "image": "img/products/6c/bomba-agua-cummins-isce-8-3-elect.jpg",
         "description": "Bomba agua cummins elect.6ct 8.3 isce (3 agujeros) ford 2632/4032 vw CONSTELLATION 3973114 BH2X8501BA BG7X8501AA 2T2121004A",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1086",
-        "name": "CAÑO RIGIDO AGUA 6CIL. 447A/LA C/TOP BRAKE 1634/1938E",
+        "name": "CAÃ‘O RIGIDO AGUA 6CIL. 447A/LA C/TOP BRAKE 1634/1938E",
         "brand": "Mercedes Benz",
         "code": "4762000158",
         "originalCode": "4762000158",
         "image": "img/products/om447/cano-rigido-agua-6cil-447a-la-c-top-brake.jpg",
-        "description": "CAÑO RIGIDO AGUA 6CIL. 447A/LA C/TOP BRAKE 1634/1938E 4762000158",
-        "rubro": "REFRIGERACIÓN"
+        "description": "CAÃ‘O RIGIDO AGUA 6CIL. 447A/LA C/TOP BRAKE 1634/1938E 4762000158",
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1087",
@@ -10154,7 +10154,7 @@ const products = [
         "originalCode": "3931077 TJG115309 BG2X6N786AA tjg115417 BG2X6718AA 3934159 3919014 3974324",
         "image": "img/products/6c/cabezal-filtro-aceite-6ct-cummins.jpg",
         "description": "Cabezal p/filtro aceite 6CT cummins 3931077 TJG115309 BG2X6N786AA tjg115417 BG2X6718AA 3934159 3919014 3974324",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1088",
@@ -10164,7 +10164,7 @@ const products = [
         "originalCode": "BG1X6600AA BG3X6600AA 2T0115105A 3800828 3415365 3921067",
         "image": "img/products/6c/bomba-aceite-cummins-6c-ct-cta.jpg",
         "description": "Bombas aceite cummins 6c / ct / cta BG1X6600AA BG3X6600AA 2T0115105A 3800828 3415365 3921067",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1089",
@@ -10174,7 +10174,7 @@ const products = [
         "originalCode": "TE3129591 BG3X9430AA 2T0129591",
         "image": "img/products/6c/multiple-escape-cummins-6ct-salida-lateral.jpg",
         "description": "Multiple escape cummins 6ct salida lateral TE3129591 BG3X9430AA 2T0129591",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P1090",
@@ -10204,16 +10204,16 @@ const products = [
         "originalCode": "3929537 BG2X9K424AA 2td129593",
         "image": "img/products/6c/bulon-multiple-escape-cummins-serie-6ct.jpg",
         "description": "Bulon multiple escape cummins serie 6ct 3929537 BG2X9K424AA 2td129593",
-        "rubro": "MÚLTIPLES(ADMIS. Y ESCAPE)"
+        "rubro": "MÃšLTIPLES(ADMIS. Y ESCAPE)"
     },
     {
         "id": "P1093",
-        "name": "Cigüeñal compresor wabco 85 cummins vw 6b/6c ford 6b",
+        "name": "CigÃ¼eÃ±al compresor wabco 85 cummins vw 6b/6c ford 6b",
         "brand": "Ford/VW",
         "code": "9111556912",
         "originalCode": "9111556912",
         "image": "img/products/6c/ciguenal-compresor-wabco-85-cummins.jpg",
-        "description": "Cigüeñal compresor wabco 85 cummins vw 6b/6c ford 6b 9111556912",
+        "description": "CigÃ¼eÃ±al compresor wabco 85 cummins vw 6b/6c ford 6b 9111556912",
         "rubro": "COMPRESOR"
     },
     {
@@ -10288,12 +10288,12 @@ const products = [
     },
     {
         "id": "P1101",
-        "name": "Cigüeñal compresor wabco 85 ford cummins 6ct 8.3",
+        "name": "CigÃ¼eÃ±al compresor wabco 85 ford cummins 6ct 8.3",
         "brand": "Ford/VW",
         "code": "9111556902",
         "originalCode": "9111556902",
         "image": "img/products/6c/ciguenal-compresor-wabco-85-ford-cummins-6ct.jpg",
-        "description": "Cigüeñal compresor wabco 85 ford cummins 6ct 8.3 9111556902",
+        "description": "CigÃ¼eÃ±al compresor wabco 85 ford cummins 6ct 8.3 9111556902",
         "rubro": "COMPRESOR"
     },
     {
@@ -10358,13 +10358,13 @@ const products = [
     },
     {
         "id": "P1108",
-        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n5",
+        "name": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n5",
         "brand": "Ford/VW",
         "code": "3354594 / TRG130305",
         "originalCode": "3354594 TRG130305",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n5.jpg",
-        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n5 3354594 TRG130305",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n5 3354594 TRG130305",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1109",
@@ -10374,157 +10374,157 @@ const products = [
         "originalCode": "3931380 TRG130111 2TC130111",
         "image": "img/products/6c/engranaje-bomba-inyectora-84-dtes-cummins-6ctaa.jpg",
         "description": "Engranaje b/inyectora 84dtes. Cummins 6ctaa ford/vw 3931380 TRG130111 2TC130111",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1110",
-        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1",
+        "name": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1",
         "brand": "Ford/VW",
         "code": "3354590 / TRG130301",
         "originalCode": "3354590 TRG130301",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n1.jpg",
-        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1 3354590 TRG130301",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n1 3354590 TRG130301",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1111",
-        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n3",
+        "name": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n3",
         "brand": "Ford/VW",
         "code": "3354592 / TRG130303",
         "originalCode": "3354592 TRG130303",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n3.jpg",
-        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n3 3354592 TRG130303",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n3 3354592 TRG130303",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1112",
-        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n2",
+        "name": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n2",
         "brand": "Ford/VW",
         "code": "3354591 / TRG130302",
         "originalCode": "3354591 TRG130302",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n2.jpg",
-        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n2 3354591 TRG130302",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n2 3354591 TRG130302",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1113",
-        "name": "Caño inyector cummins 6ct n3 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "name": "CaÃ±o inyector cummins 6ct n3 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
         "brand": "Ford/VW",
         "code": "3356192 / TJG130303 / 2RK130303",
         "originalCode": "3356192 TJG130303 2RK130303",
         "image": "img/products/6c/cano-inyector-cummins-6ct-n3.jpg",
-        "description": "Caño inyector cummins 6ct n3 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356192 TJG130303 2RK130303",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ct n3 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356192 TJG130303 2RK130303",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1114",
-        "name": "Caño inyector cummins 6ctaa n 1 tca bb 1730/1831 vw17220/26310 euroi",
+        "name": "CaÃ±o inyector cummins 6ctaa n 1 tca bb 1730/1831 vw17220/26310 euroi",
         "brand": "Ford/VW",
         "code": "3355325 / 2U0130304 / 3925325 / BG2X9A558BA",
         "originalCode": "3355325 2U0130304 3925325 BG2X9A558BA",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n1-euroi.jpg",
-        "description": "Caño inyector cummins 6ctaa n 1 tca bb 1730/1831 vw17220/26310 euroi 3355325 2U0130304 3925325 BG2X9A558BA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa n 1 tca bb 1730/1831 vw17220/26310 euroi 3355325 2U0130304 3925325 BG2X9A558BA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1115",
-        "name": "Caño inyector cummins 6ctaa n 5 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "name": "CaÃ±o inyector cummins 6ctaa n 5 tca.bb 1730/1831 vw 17220/26310 euroi",
         "brand": "Ford/VW",
         "code": "3924629 / 2U0130302 / 3924629 / BG2X9A556BA",
         "originalCode": "3924629 2U0130302 3924629 BG2X9A556BA",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n5-euroi.jpg",
-        "description": "Caño inyector cummins 6ctaa n 5 tca.bb 1730/1831 vw 17220/26310 euroi 3924629 2U0130302 3924629 BG2X9A556BA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa n 5 tca.bb 1730/1831 vw 17220/26310 euroi 3924629 2U0130302 3924629 BG2X9A556BA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1116",
-        "name": "Caño inyector cummins 6ct n4 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "name": "CaÃ±o inyector cummins 6ct n4 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
         "brand": "Ford/VW",
         "code": "3356193 / TJG130304 / 2RK130304",
         "originalCode": "3356193 TJG130304 2RK130304",
         "image": "img/products/6c/cano-inyector-cummins-6ct-n4.jpg",
-        "description": "Caño inyector cummins 6ct n4 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356193 TJG130304 2RK130304",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ct n4 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356193 TJG130304 2RK130304",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1117",
-        "name": "Caño inyector cummins 6ct n6 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "name": "CaÃ±o inyector cummins 6ct n6 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
         "brand": "Ford/VW",
         "code": "3356195 / TJG130306 / 2RK130306",
         "originalCode": "3356195 TJG130306 2RK130306",
         "image": "img/products/6c/cano-inyector-cummins-6ct-n6.jpg",
-        "description": "Caño inyector cummins 6ct n6 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356195 TJG130306 2RK130306",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ct n6 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356195 TJG130306 2RK130306",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1118",
-        "name": "Caño inyector cummins 6ctaa n 4 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "name": "CaÃ±o inyector cummins 6ctaa n 4 tca.bb 1730/1831 vw 17220/26310 euroi",
         "brand": "Ford/VW",
         "code": "3924628 / 2U0130301 / 3924628 / BG2X9A555BA",
         "originalCode": "3924628 2U0130301 3924628 BG2X9A555BA",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n4-euroi.jpg",
-        "description": "Caño inyector cummins 6ctaa n 4 tca.bb 1730/1831 vw 17220/26310 euroi 3924628 2U0130301 3924628 BG2X9A555BA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa n 4 tca.bb 1730/1831 vw 17220/26310 euroi 3924628 2U0130301 3924628 BG2X9A555BA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1119",
-        "name": "Caño inyector cummins 6ctaa n 6 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "name": "CaÃ±o inyector cummins 6ctaa n 6 tca.bb 1730/1831 vw 17220/26310 euroi",
         "brand": "Ford/VW",
         "code": "3924630 / 2U0130303 / 3924630 / BG2X9A557BA",
         "originalCode": "3924630 2U0130303 3924630 BG2X9A557BA",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n6-euroi.jpg",
-        "description": "Caño inyector cummins 6ctaa n 6 tca.bb 1730/1831 vw 17220/26310 euroi 3924630 2U0130303 3924630 BG2X9A557BA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa n 6 tca.bb 1730/1831 vw 17220/26310 euroi 3924630 2U0130303 3924630 BG2X9A557BA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1120",
-        "name": "Caño inyector cummins 6ctaa n 2 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "name": "CaÃ±o inyector cummins 6ctaa n 2 tca.bb 1730/1831 vw 17220/26310 euroi",
         "brand": "Ford/VW",
         "code": "3355327 / 2U0130305 / 3925327 / BG2X9A559BA",
         "originalCode": "3355327 2U0130305 3925327 BG2X9A559BA",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n2-euroi.jpg",
-        "description": "Caño inyector cummins 6ctaa n 2 tca.bb 1730/1831 vw 17220/26310 euroi 3355327 2U0130305 3925327 BG2X9A559BA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa n 2 tca.bb 1730/1831 vw 17220/26310 euroi 3355327 2U0130305 3925327 BG2X9A559BA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1121",
-        "name": "Caño inyector cummins 6ct n5 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "name": "CaÃ±o inyector cummins 6ct n5 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
         "brand": "Ford/VW",
         "code": "3356194 / TJG130305 / 2RK130305",
         "originalCode": "3356194 TJG130305 2RK130305",
         "image": "img/products/6c/cano-inyector-cummins-6ct-n5.jpg",
-        "description": "Caño inyector cummins 6ct n5 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356194 TJG130305 2RK130305",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ct n5 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356194 TJG130305 2RK130305",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1122",
-        "name": "Caño inyector cummins 6ct n1 tca.aa ford 1722 vw 17220/24220 bba.lineal 91/93",
+        "name": "CaÃ±o inyector cummins 6ct n1 tca.aa ford 1722 vw 17220/24220 bba.lineal 91/93",
         "brand": "Ford/VW",
         "code": "3356190 / TJG130301 / 2RK130301",
         "originalCode": "3356190 TJG130301 2RK130301",
         "image": "img/products/6c/cano-inyector-cummins-6ct-n1.jpg",
-        "description": "Caño inyector cummins 6ct n1 tca.aa ford 1722 vw 17220/24220 bba.lineal 91/93 3356190 TJG130301 2RK130301",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ct n1 tca.aa ford 1722 vw 17220/24220 bba.lineal 91/93 3356190 TJG130301 2RK130301",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1123",
-        "name": "Caño inyector cummins 6ct n2 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
+        "name": "CaÃ±o inyector cummins 6ct n2 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal",
         "brand": "Ford/VW",
         "code": "3356191 / TJG130302 / 2RK130302",
         "originalCode": "3356191 TJG130302 2RK130302",
         "image": "img/products/6c/cano-inyector-cummins-6ct-n2.jpg",
-        "description": "Caño inyector cummins 6ct n2 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356191 TJG130302 2RK130302",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ct n2 tca.aa ford 1722 vw 17220/24220 91/95 bba.lineal 3356191 TJG130302 2RK130302",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1124",
-        "name": "Caño inyector cummins 6ctaa n 3 tca.bb 1730/1831 vw 17220/26310 euroi",
+        "name": "CaÃ±o inyector cummins 6ctaa n 3 tca.bb 1730/1831 vw 17220/26310 euroi",
         "brand": "Ford/VW",
         "code": "3355329 / 2U0130306 / 3925329 / BG2X9A560BA",
         "originalCode": "3355329 2U0130306 3925329 BG2X9A560BA",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n3-euroi.jpg",
-        "description": "Caño inyector cummins 6ctaa n 3 tca.bb 1730/1831 vw 17220/26310 euroi 3355329 2U0130306 3925329 BG2X9A560BA",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa n 3 tca.bb 1730/1831 vw 17220/26310 euroi 3355329 2U0130306 3925329 BG2X9A560BA",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1125",
@@ -10533,17 +10533,17 @@ const products = [
         "code": "",
         "image": "img/products/6c/arbol-levas-6ct.jpg",
         "description": "Arbol levas 6ct",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1126",
-        "name": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n6",
+        "name": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n6",
         "brand": "Ford/VW",
         "code": "3354595 / TRG130306",
         "originalCode": "3354595 TRG130306",
         "image": "img/products/6c/cano-inyector-cummins-6ctaa-n6.jpg",
-        "description": "Caño inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n6 3354595 TRG130306",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±o inyector cummins 6ctaa tca bb ford 1730/1831 vw 17220/24250 c/turbo n6 3354595 TRG130306",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1127",
@@ -10553,15 +10553,15 @@ const products = [
         "originalCode": "TRG109111 TJG109111 3918777",
         "image": "img/products/6c/engranaje-arbol-levas-84d-6ct.jpg",
         "description": "Engranaje arbol leva 84d. 6ct ford/vw 3918777 TRG109111 TJG109111 3918777",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1128",
-        "name": "Cigueñal 6ct ford 1722/1730 cummins",
+        "name": "CigueÃ±al 6ct ford 1722/1730 cummins",
         "brand": "Ford/VW",
         "code": "",
         "image": "img/products/6c/ciguenal-6ct-ford-cummins.jpg",
-        "description": "Cigueñal 6ct ford 1722/1730 cummins",
+        "description": "CigueÃ±al 6ct ford 1722/1730 cummins",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -10605,12 +10605,12 @@ const products = [
     },
     {
         "id": "P1133",
-        "name": "Eng. Cigüeñal 6ct bajo medida 3918776",
+        "name": "Eng. CigÃ¼eÃ±al 6ct bajo medida 3918776",
         "brand": "Ford/VW",
         "code": "TRG105209",
         "originalCode": "TRG105209",
         "image": "img/products/6c/engranaje-ciguenal-6ct-bajo-medida.jpg",
-        "description": "Eng. Cigüeñal 6ct bajo medida 3918776 TRG105209",
+        "description": "Eng. CigÃ¼eÃ±al 6ct bajo medida 3918776 TRG105209",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -10625,12 +10625,12 @@ const products = [
     },
     {
         "id": "P1135",
-        "name": "Eng. Cigüeñal cummins 6ct std 42d.3918776",
+        "name": "Eng. CigÃ¼eÃ±al cummins 6ct std 42d.3918776",
         "brand": "Ford/VW",
         "code": "TRG105209",
         "originalCode": "TRG105209",
         "image": "img/products/6c/engranaje-ciguenal-cummins-6ct-std.jpg",
-        "description": "Eng. Cigüeñal cummins 6ct std 42d.3918776 TRG105209",
+        "description": "Eng. CigÃ¼eÃ±al cummins 6ct std 42d.3918776 TRG105209",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -10659,7 +10659,7 @@ const products = [
         "originalCode": "TJG115253 2so115253b 3287755",
         "image": "img/products/6c/tubo-carter-6ct.jpg",
         "description": "Tubo carter 6ct TJG115253 2so115253b 3287755",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1139",
@@ -10669,7 +10669,7 @@ const products = [
         "originalCode": "TJG115611",
         "image": "img/products/6c/varilla-nivel-aceite-cummins-6ct.jpg",
         "description": "Varilla n/aceite cummins 6ct vw 17220-17300-17310-18310-26310 (1248mm) TJG115611",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1140",
@@ -10679,7 +10679,7 @@ const products = [
         "originalCode": "TJG103601",
         "image": "img/products/6c/carter-aceite-6ct-1722.jpg",
         "description": "Carter aceite 6ct 1722 TJG103601",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1141",
@@ -10689,27 +10689,27 @@ const products = [
         "originalCode": "TJG103113",
         "image": "img/products/6c/tapon-sello-block-cummins-6ctaa.jpg",
         "description": "Tapon sello block cummins 6ctaa 8.3 69.5mm TJG103113",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1142",
-        "name": "Adaptador cigueñal cummins ISC ford/vw",
+        "name": "Adaptador cigueÃ±al cummins ISC ford/vw",
         "brand": "Ford/VW",
         "code": "BG6X6312AA / 3975103",
         "originalCode": "BG6X6312AA 3975103",
         "image": "img/products/isc/adaptador-ciguenal-cummins-isc.jpg",
-        "description": "Adaptador cigueñal cummins ISC ford/vw BG6X6312AA 3975103",
+        "description": "Adaptador cigueÃ±al cummins ISC ford/vw BG6X6312AA 3975103",
         "rubro": "PIEZAS MOTRICES"
     },
     {
         "id": "P1143",
-        "name": "Termostato cummins-mwm 9.3L 6 Cil /19-320E Constellation 07 Cummins ISCe L6 320E 8,2lts 82°",
+        "name": "Termostato cummins-mwm 9.3L 6 Cil /19-320E Constellation 07 Cummins ISCe L6 320E 8,2lts 82Â°",
         "brand": "Ford/VW",
         "code": "1872219C1 / 2U2121113",
         "originalCode": "1872219C1 2U2121113",
         "image": "img/products/isc/termostato-cummins-mwm-isce.jpg",
-        "description": "Termostato cummins-mwm 9.3L 6 Cil /19-320E Constellation 07 Cummins ISCe L6 320E 8,2lts 82° 1872219C1 2U2121113",
-        "rubro": "REFRIGERACIÓN"
+        "description": "Termostato cummins-mwm 9.3L 6 Cil /19-320E Constellation 07 Cummins ISCe L6 320E 8,2lts 82Â° 1872219C1 2U2121113",
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1144",
@@ -10769,7 +10769,7 @@ const products = [
         "originalCode": "2u2121303",
         "image": "img/products/isc/paleta-ventilador-vw-constellation-man.jpg",
         "description": "Paleta vent.(**)11 palas 6ag.(716mm) vw constellation 17280 motor man C/VISCOSO 2u2121303",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1150",
@@ -10829,7 +10829,7 @@ const products = [
         "originalCode": "3958112 BG5X6019BA",
         "image": "img/products/isc/tapa-caja-engranaje-distribucion-cummins-isce.jpg",
         "description": "Tapa caja engranaje distribucion cummins isce 3958112 BG5X6019BA",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1156",
@@ -10839,7 +10839,7 @@ const products = [
         "originalCode": "BG5X6W059CA 4938693 4991695",
         "image": "img/products/isc/caja-engranaje-distribucion-isce.jpg",
         "description": "Caja engranaje distribucion isce ford/vw BG5X6W059CA 4938693 4991695",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1157",
@@ -10849,7 +10849,7 @@ const products = [
         "originalCode": "3965966 BG5X6500AA",
         "image": "img/products/isc/botador-valvulas-cummins-isce.jpg",
         "description": "Botador valvulas cummins isce 3965966 BG5X6500AA",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1158",
@@ -10859,7 +10859,7 @@ const products = [
         "originalCode": "0928400473 4088518 4903523 BG7X9F350CA 2T2927353A",
         "image": "img/products/isc/valvula-reguladora-presion-cummins-isce.jpg",
         "description": "Valvula reguladora presion combustible cummins isce 6 (actuador) 0928400473 4088518 4903523 BG7X9F350CA 2T2927353A",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1159",
@@ -10869,7 +10869,7 @@ const products = [
         "originalCode": "3974326 BG6X/6715/AA",
         "image": "img/products/isc/cabezal-filtro-aceite-cummins-isce.jpg",
         "description": "Cabezal p/filtro aceite isce cummins 3974326 BG6X/6715/AA",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1160",
@@ -10889,7 +10889,7 @@ const products = [
         "originalCode": "5260634 3968190 3970198 3968189 4947999 BH0X9350BA 2T2130744A",
         "image": "img/products/isc/bomba-transferencia-combustible-cummins-isce.jpg",
         "description": "Bomba transferencia combustible cummins isce 5260634 3968190 3970198 3968189 4947999 BH0X9350BA 2T2130744A",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1162",
@@ -10919,7 +10919,7 @@ const products = [
         "originalCode": "3944452 BG5X6517AA 2T2109375",
         "image": "img/products/isc/platillo-asiento-valvula-cummins-isc.jpg",
         "description": "Platillo asiento valvula cummins isc ford/vw 3944452 BG5X6517AA 2T2109375",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1165",
@@ -10929,7 +10929,7 @@ const products = [
         "originalCode": "4945807 0445120120 BG7X9K526AA 2T2130201D 0445120140",
         "image": "img/products/isc/inyector-common-rail-cummins-isc.jpg",
         "description": "Inyector Common Rail cummins isc ford/vw 4945807 0445120120 BG7X9K526AA 2T2130201D 0445120140",
-        "rubro": "INYECCIÓN"
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1166",
@@ -10939,7 +10939,7 @@ const products = [
         "originalCode": "157.020005344 2u2121302a",
         "image": "img/products/isc/viscoso-cable-vw-constellation.jpg",
         "description": "Viscoso con cable vw motor man constellation 17280 157.020005344 2u2121302a",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1167",
@@ -10949,7 +10949,7 @@ const products = [
         "originalCode": "4936076 5316172 bg5x6513ca 2z0109623",
         "image": "img/products/isc/resorte-valvula-cummins-isce.jpg",
         "description": "Resorte Valvula adm/esc Cummins ISCE Ford 1832/1932-2632 Vw Constellation 4936076 5316172 bg5x6513ca 2z0109623",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1168",
@@ -10959,7 +10959,7 @@ const products = [
         "originalCode": "4936026 bg8x8575ba 2t2121113c",
         "image": "img/products/isc/termostato-chico-cummins-isce.jpg",
         "description": "Termostato chico cummins cargo 1832e/2632e constellation 19320e/25320e isce6 4936026 bg8x8575ba 2t2121113c",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1169",
@@ -10983,63 +10983,63 @@ const products = [
     },
     {
         "id": "P1171",
-        "name": "Termostato cummins cargo 1832e/2632e constellation 19320e/25320e isce6/isl (82º)",
+        "name": "Termostato cummins cargo 1832e/2632e constellation 19320e/25320e isce6/isl (82Âº)",
         "brand": "Ford/VW",
         "code": "3940632 / 4930594 / bg5x8575ba / 2t2121113c / BH1X8575AA / BH5X8575AA",
         "originalCode": "3940632 4930594 bg5x8575ba 2t2121113c BH1X8575AA BH5X8575AA",
         "image": "img/products/isc/termostato-cummins-isc-82.jpg",
-        "description": "Termostato cummins cargo 1832e/2632e constellation 19320e/25320e isce6/isl (82º) 3940632 4930594 bg5x8575ba 2t2121113c BH1X8575AA BH5X8575AA",
-        "rubro": "REFRIGERACIÓN"
+        "description": "Termostato cummins cargo 1832e/2632e constellation 19320e/25320e isce6/isl (82Âº) 3940632 4930594 bg5x8575ba 2t2121113c BH1X8575AA BH5X8575AA",
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1172",
-        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 suministro",
+        "name": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 suministro",
         "brand": "Ford/VW",
         "code": "4955367 / bg6x9k500aa / 2t2130305c / 2t2130305e",
         "originalCode": "4955367 bg6x9k500aa 2t2130305c 2t2130305e",
         "image": "img/products/isc/canos-inyector-cummins-isce.jpg",
-        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 suministro 4955367 bg6x9k500aa 2t2130305c 2t2130305e",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 suministro 4955367 bg6x9k500aa 2t2130305c 2t2130305e",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1173",
-        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N6",
+        "name": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N6",
         "brand": "Ford/VW",
         "code": "3964143 / bg6x9c520ja / 2t2130305b",
         "originalCode": "3964143 bg6x9c520ja 2t2130305b",
         "image": "img/products/isc/canos-inyector-cummins-isce-n6.jpg",
-        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N6 3964143 bg6x9c520ja 2t2130305b",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N6 3964143 bg6x9c520ja 2t2130305b",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1174",
-        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N3",
+        "name": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N3",
         "brand": "Ford/VW",
         "code": "3975042 / bg6x9c520la / 2t2130305d",
         "originalCode": "3975042 bg6x9c520la 2t2130305d",
         "image": "img/products/isc/canos-inyector-cummins-isce-n3.jpg",
-        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N3 3975042 bg6x9c520la 2t2130305d",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N3 3975042 bg6x9c520la 2t2130305d",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1175",
-        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N2/4/5",
+        "name": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N2/4/5",
         "brand": "Ford/VW",
         "code": "3964142 / bg6x9c520ha / 2t2130305a",
         "originalCode": "3964142 bg6x9c520ha 2t2130305a",
         "image": "img/products/isc/canos-inyector-cummins-isce-n2-4-5.jpg",
-        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N2/4/5 3964142 bg6x9c520ha 2t2130305a",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N2/4/5 3964142 bg6x9c520ha 2t2130305a",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1176",
-        "name": "Caños inyector cummins isce 8.3 ford 1832/1932 N1",
+        "name": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N1",
         "brand": "Ford/VW",
         "code": "3964141 / bg6x9c520ga / 2t2130305",
         "originalCode": "3964141 bg6x9c520ga 2t2130305",
         "image": "img/products/isc/canos-inyector-cummins-isce-n1.jpg",
-        "description": "Caños inyector cummins isce 8.3 ford 1832/1932 N1 3964141 bg6x9c520ga 2t2130305",
-        "rubro": "INYECCIÓN"
+        "description": "CaÃ±os inyector cummins isce 8.3 ford 1832/1932 N1 3964141 bg6x9c520ga 2t2130305",
+        "rubro": "INYECCIÃ“N"
     },
     {
         "id": "P1177",
@@ -11053,12 +11053,12 @@ const products = [
     },
     {
         "id": "P1178",
-        "name": "Polea cigueñal motor cummins isce6 ford/vw 3925567",
+        "name": "Polea cigueÃ±al motor cummins isce6 ford/vw 3925567",
         "brand": "Ford/VW",
         "code": "3925567 / 2t2105243 / bg5x6316da",
         "originalCode": "3925567 2t2105243 bg5x6316da",
         "image": "img/products/isc/polea-ciguenal-cummins-isce.jpg",
-        "description": "Polea cigueñal motor cummins isce6 ford/vw 3925567 3925567 2t2105243 bg5x6316da",
+        "description": "Polea cigueÃ±al motor cummins isce6 ford/vw 3925567 3925567 2t2105243 bg5x6316da",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -11109,7 +11109,7 @@ const products = [
         "originalCode": "BG5X6565BA 3964715",
         "image": "img/products/isc/varilla-levanta-valvulas-cummins-isce.jpg",
         "description": "Varilla levanta valvulas ELECT.ISCe 8.3 2632/4032 E BG5X6565BA 3964715",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1184",
@@ -11119,7 +11119,7 @@ const products = [
         "originalCode": "3354392 2RL103203 3974770",
         "image": "img/products/isc/carcaza-volante-cummins-isc.jpg",
         "description": "Carcaza volante motor.cummins C/ISC 8.3 FORD/VW 3354392 2RL103203 3974770",
-        "rubro": "BLOCK DE MOTOR Y CÁRTER"
+        "rubro": "BLOCK DE MOTOR Y CÃRTER"
     },
     {
         "id": "P1185",
@@ -11129,7 +11129,7 @@ const products = [
         "originalCode": "4C458A616BA",
         "image": "img/products/isc/viscoso-ford-cummins-1317e.jpg",
         "description": "Viscoso (**)ford cumelect.1317e/1517e 6 aguj.vastago corto-rosca hem(185mm.) Ant._2005 4C458A616BA",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1186",
@@ -11139,7 +11139,7 @@ const products = [
         "originalCode": "tau121431x",
         "image": "img/products/isc/adaptador-viscoso-ford-1722.jpg",
         "description": "Adaptador viscoso 1722/1730 vw24250 tau121431x",
-        "rubro": "REFRIGERACIÓN"
+        "rubro": "REFRIGERACIÃ“N"
     },
     {
         "id": "P1187",
@@ -11149,7 +11149,7 @@ const products = [
         "originalCode": "3966365 3943460 BG6X6B856AA BH2X6B856AA 2T2117021",
         "image": "img/products/isc/radiador-aceite-cummins-isc.jpg",
         "description": "Radiador aceite cummins isc 8.3 1832/1932/2632 Vw 19320/26320 constellation 3966365 3943460 BG6X6B856AA BH2X6B856AA 2T2117021",
-        "rubro": "LUBRICACIÓN"
+        "rubro": "LUBRICACIÃ“N"
     },
     {
         "id": "P1188",
@@ -11169,7 +11169,7 @@ const products = [
         "originalCode": "BH0X6529AA 3972540 2t2109447c 5253887",
         "image": "img/products/isc/rampas-balancines-cummins-isce.jpg",
         "description": "Rampas de balancines armadas ELECT.ISCE 8.3 2632/4032 E BH0X6529AA 3972540 2t2109447c 5253887",
-        "rubro": "DISTRIBUCIÓN"
+        "rubro": "DISTRIBUCIÃ“N"
     },
     {
         "id": "P1190",
@@ -11663,32 +11663,32 @@ const products = [
     },
     {
         "id": "P1239",
-        "name": "CAÑO LUBRICACION TURBO OM 352 A 1518",
+        "name": "CAÃ‘O LUBRICACION TURBO OM 352 A 1518",
         "brand": "Mercedes Benz",
         "code": "MV1705B",
         "originalCode": "MV1705B",
         "image": "img/products/om352/cano-lubricacion-turbo-om352a-mv1705b.jpg",
-        "description": "CAÑO LUBRICACION TURBO OM 352 A 1518.",
+        "description": "CAÃ‘O LUBRICACION TURBO OM 352 A 1518.",
         "rubro": "TURBO"
     },
     {
         "id": "P1240",
-        "name": "JUNTA CAÑERIA AGUA OM 352 1114 1518 JGO",
+        "name": "JUNTA CAÃ‘ERIA AGUA OM 352 1114 1518 JGO",
         "brand": "Mercedes Benz",
         "code": "15038",
         "originalCode": "15038",
         "image": "img/products/om352/junta-caneria-agua-om352-15038.jpg",
-        "description": "JUNTA CAÑERIA AGUA OM 352 1114 1518 JGO.",
+        "description": "JUNTA CAÃ‘ERIA AGUA OM 352 1114 1518 JGO.",
         "rubro": "JUNTAS"
     },
     {
         "id": "P1241",
-        "name": "JUNTA CAÑO SALIDA ESCAPE OM 352 1114",
+        "name": "JUNTA CAÃ‘O SALIDA ESCAPE OM 352 1114",
         "brand": "Mercedes Benz",
         "code": "15006",
         "originalCode": "15006",
         "image": "img/products/om352/junta-cano-salida-escape-om352-15006.jpg",
-        "description": "JUNTA CAÑO SALIDA ESCAPE OM 352 1114.",
+        "description": "JUNTA CAÃ‘O SALIDA ESCAPE OM 352 1114.",
         "rubro": "JUNTAS"
     },
     {
@@ -11743,52 +11743,52 @@ const products = [
     },
     {
         "id": "P1247",
-        "name": "CAÑO INYECTOR 1114",
+        "name": "CAÃ‘O INYECTOR 1114",
         "brand": "Mercedes Benz",
         "code": "M4/1",
         "originalCode": "M4/1",
         "image": "img/products/om352/cano-inyector-1114-m4-1.jpg",
-        "description": "CAÑO INYECTOR 1114.",
+        "description": "CAÃ‘O INYECTOR 1114.",
         "rubro": "INYECCION"
     },
     {
         "id": "P1248",
-        "name": "CAÑO INYECTOR 1114",
+        "name": "CAÃ‘O INYECTOR 1114",
         "brand": "Mercedes Benz",
         "code": "M4/2",
         "originalCode": "M4/2",
         "image": "img/products/om352/cano-inyector-1114-m4-2.jpg",
-        "description": "CAÑO INYECTOR 1114.",
+        "description": "CAÃ‘O INYECTOR 1114.",
         "rubro": "INYECCION"
     },
     {
         "id": "P1249",
-        "name": "CAÑO INYECTOR 1114",
+        "name": "CAÃ‘O INYECTOR 1114",
         "brand": "Mercedes Benz",
         "code": "M4/3",
         "originalCode": "M4/3",
         "image": "img/products/om352/cano-inyector-1114-m4-3.jpg",
-        "description": "CAÑO INYECTOR 1114.",
+        "description": "CAÃ‘O INYECTOR 1114.",
         "rubro": "INYECCION"
     },
     {
         "id": "P1250",
-        "name": "CAÑO INYECTOR 1114",
+        "name": "CAÃ‘O INYECTOR 1114",
         "brand": "Mercedes Benz",
         "code": "M4/4",
         "originalCode": "M4/4",
         "image": "img/products/om352/cano-inyector-1114-m4-4.jpg",
-        "description": "CAÑO INYECTOR 1114.",
+        "description": "CAÃ‘O INYECTOR 1114.",
         "rubro": "INYECCION"
     },
     {
         "id": "P1251",
-        "name": "CAÑO INYECTOR 1114",
+        "name": "CAÃ‘O INYECTOR 1114",
         "brand": "Mercedes Benz",
         "code": "M4/5",
         "originalCode": "M4/5",
         "image": "img/products/om352/cano-inyector-1114-m4-5.jpg",
-        "description": "CAÑO INYECTOR 1114.",
+        "description": "CAÃ‘O INYECTOR 1114.",
         "rubro": "INYECCION"
     },
     {
@@ -11903,12 +11903,12 @@ const products = [
     },
     {
         "id": "P1263",
-        "name": "CAÑO DESCARGA TURBO 1518",
+        "name": "CAÃ‘O DESCARGA TURBO 1518",
         "brand": "Mercedes Benz",
         "code": "MV1777",
         "originalCode": "MV1777",
         "image": "img/products/om352/cano-descarga-turbo-1518-mv1777.jpg",
-        "description": "CAÑO DESCARGA TURBO 1518.",
+        "description": "CAÃ‘O DESCARGA TURBO 1518.",
         "rubro": "TURBO"
     },
     {
@@ -12083,12 +12083,12 @@ const products = [
     },
     {
         "id": "P1281",
-        "name": "JGO JUNTA CAÑO AGUA OM 352",
+        "name": "JGO JUNTA CAÃ‘O AGUA OM 352",
         "brand": "Mercedes Benz",
         "code": "00015308",
         "originalCode": "00015308",
         "image": "img/products/om352/jgo-junta-cano-agua-om352-00015308.jpg",
-        "description": "JGO JUNTA CAÑO AGUA OM 352.",
+        "description": "JGO JUNTA CAÃ‘O AGUA OM 352.",
         "rubro": "JUNTAS"
     },
     {
@@ -12203,32 +12203,32 @@ const products = [
     },
     {
         "id": "P1293",
-        "name": "TRAVESAÑO DELANTERO MOTOR 1114",
+        "name": "TRAVESAÃ‘O DELANTERO MOTOR 1114",
         "brand": "Mercedes Benz",
         "code": "977",
         "originalCode": "977",
         "image": "img/products/om352/travesano-delantero-motor-1114-977.jpg",
-        "description": "TRAVESAÑO DELANTERO MOTOR 1114.",
+        "description": "TRAVESAÃ‘O DELANTERO MOTOR 1114.",
         "rubro": "MOTOR"
     },
     {
         "id": "P1294",
-        "name": "TRAVESAÑO DELANTERO MOTOR 1518",
+        "name": "TRAVESAÃ‘O DELANTERO MOTOR 1518",
         "brand": "Mercedes Benz",
         "code": "978",
         "originalCode": "978",
         "image": "img/products/om352/travesano-delantero-motor-1518-978.jpg",
-        "description": "TRAVESAÑO DELANTERO MOTOR 1518.",
+        "description": "TRAVESAÃ‘O DELANTERO MOTOR 1518.",
         "rubro": "MOTOR"
     },
     {
         "id": "P1295",
-        "name": "TRAVESAÑO TRASERO MOTOR 1518",
+        "name": "TRAVESAÃ‘O TRASERO MOTOR 1518",
         "brand": "Mercedes Benz",
         "code": "980",
         "originalCode": "980",
         "image": "img/products/om352/travesano-trasero-motor-1518-980.jpg",
-        "description": "TRAVESAÑO TRASERO MOTOR 1518.",
+        "description": "TRAVESAÃ‘O TRASERO MOTOR 1518.",
         "rubro": "MOTOR"
     },
     {
@@ -12313,12 +12313,12 @@ const products = [
     },
     {
         "id": "P1304",
-        "name": "JUNTA CAÑO SALIDA ESCAPE OM 352A 1518",
+        "name": "JUNTA CAÃ‘O SALIDA ESCAPE OM 352A 1518",
         "brand": "Mercedes Benz",
         "code": "15007",
         "originalCode": "15007",
         "image": "img/products/om352/junta-cano-salida-escape-om352a-15007.jpg",
-        "description": "JUNTA CAÑO SALIDA ESCAPE OM 352A 1518.",
+        "description": "JUNTA CAÃ‘O SALIDA ESCAPE OM 352A 1518.",
         "rubro": "JUNTAS"
     },
     {
@@ -12413,12 +12413,12 @@ const products = [
     },
     {
         "id": "P1314",
-        "name": "CAÑO RIGIDO OM 352",
+        "name": "CAÃ‘O RIGIDO OM 352",
         "brand": "Mercedes Benz",
         "code": "MV0206",
         "originalCode": "MV0206",
         "image": "img/products/om352/cano-rigido-om352-mv0206.jpg",
-        "description": "CAÑO RIGIDO OM 352.",
+        "description": "CAÃ‘O RIGIDO OM 352.",
         "rubro": "MOTOR"
     },
     {
@@ -12443,12 +12443,12 @@ const products = [
     },
     {
         "id": "P1317",
-        "name": "TRAVESAÑO TRASERO MOTOR 1114",
+        "name": "TRAVESAÃ‘O TRASERO MOTOR 1114",
         "brand": "Mercedes Benz",
         "code": "665",
         "originalCode": "665",
         "image": "img/products/om352/travesano-trasero-motor-1114-665.jpg",
-        "description": "TRAVESAÑO TRASERO MOTOR 1114.",
+        "description": "TRAVESAÃ‘O TRASERO MOTOR 1114.",
         "rubro": "MOTOR"
     },
     {
@@ -12483,12 +12483,12 @@ const products = [
     },
     {
         "id": "P1321",
-        "name": "COJINETE BANCADA OM 352 PESTAÑA SUPERMEDIDA",
+        "name": "COJINETE BANCADA OM 352 PESTAÃ‘A SUPERMEDIDA",
         "brand": "Mercedes Benz",
         "code": "M48135",
         "originalCode": "M48135",
         "image": "img/products/om352/cojinete-bancada-om352-pestana-supermedida-m48135.jpg",
-        "description": "COJINETE BANCADA OM 352 PESTAÑA SUPERMEDIDA.",
+        "description": "COJINETE BANCADA OM 352 PESTAÃ‘A SUPERMEDIDA.",
         "rubro": "PIEZAS MOTRICES"
     },
     {
@@ -12513,12 +12513,12 @@ const products = [
     },
     {
         "id": "P1324",
-        "name": "TUERCA CAÑONERA 1517 STD 73.5MM",
+        "name": "TUERCA CAÃ‘ONERA 1517 STD 73.5MM",
         "brand": "Mercedes Benz",
         "code": "215",
         "originalCode": "215",
         "image": "img/products/om352/tuerca-canonera-1517-std-215.jpg",
-        "description": "TUERCA CAÑONERA 1517 STD 73.5MM.",
+        "description": "TUERCA CAÃ‘ONERA 1517 STD 73.5MM.",
         "rubro": "TRANSMISION"
     },
     {
@@ -12833,12 +12833,12 @@ const products = [
     },
     {
         "id": "P1356",
-        "name": "CORONA Y PIÑON 39/6 1114",
+        "name": "CORONA Y PIÃ‘ON 39/6 1114",
         "brand": "Mercedes Benz",
         "code": "98743",
         "originalCode": "98743",
         "image": "img/products/om352/corona-pinon-1114-39-6-98743.jpg",
-        "description": "CORONA Y PIÑON 39/6 1114.",
+        "description": "CORONA Y PIÃ‘ON 39/6 1114.",
         "rubro": "TRANSMISION"
     },
     {
@@ -13573,12 +13573,12 @@ const products = [
     },
     {
         "id": "P1430",
-        "name": "JUNTA CAÑO SALIDA ESCAPE OM 366 1215",
+        "name": "JUNTA CAÃ‘O SALIDA ESCAPE OM 366 1215",
         "brand": "Mercedes Benz",
         "code": "15206",
         "originalCode": "15206",
         "image": "img/products/om366/junta-cano-salida-escape-om366-15206.jpg",
-        "description": "JUNTA CAÑO SALIDA ESCAPE OM 366 1215 15206",
+        "description": "JUNTA CAÃ‘O SALIDA ESCAPE OM 366 1215 15206",
         "rubro": "JUNTAS"
     },
     {
@@ -14143,12 +14143,12 @@ const products = [
     },
     {
         "id": "P1487",
-        "name": "CORONA Y PIÑON 39/8 1620",
+        "name": "CORONA Y PIÃ‘ON 39/8 1620",
         "brand": "Mercedes Benz",
         "code": "06350040",
         "originalCode": "06350040",
         "image": "img/products/om366/corona-pinon-39-8-1620-06350040.jpg",
-        "description": "CORONA Y PIÑON 39/8 1620 06350040",
+        "description": "CORONA Y PIÃ‘ON 39/8 1620 06350040",
         "rubro": "TRANSMISION"
     },
     {
@@ -14293,12 +14293,12 @@ const products = [
     },
     {
         "id": "P1502",
-        "name": "BRIDA PIÑON 1620 L 1620 P/CRUCETA 5-438",
+        "name": "BRIDA PIÃ‘ON 1620 L 1620 P/CRUCETA 5-438",
         "brand": "Mercedes Benz",
         "code": "04856-1",
         "originalCode": "04856-1",
         "image": "img/products/om366/brida-pinon-1620-cruceta-04856-1.jpg",
-        "description": "BRIDA PIÑON 1620 L 1620 P/CRUCETA 5-438 04856-1",
+        "description": "BRIDA PIÃ‘ON 1620 L 1620 P/CRUCETA 5-438 04856-1",
         "rubro": "TRANSMISION"
     },
     {
@@ -14313,12 +14313,12 @@ const products = [
     },
     {
         "id": "P1504",
-        "name": "TUERCA PIÑON 1620",
+        "name": "TUERCA PIÃ‘ON 1620",
         "brand": "Mercedes Benz",
         "code": "60170081",
         "originalCode": "60170081",
         "image": "img/products/om366/tuerca-pinon-1620-60170081.jpg",
-        "description": "TUERCA PIÑON 1620 60170081",
+        "description": "TUERCA PIÃ‘ON 1620 60170081",
         "rubro": "TRANSMISION"
     },
     {
@@ -14443,12 +14443,12 @@ const products = [
     },
     {
         "id": "P1517",
-        "name": "ARANDELA PIÑON 1620",
+        "name": "ARANDELA PIÃ‘ON 1620",
         "brand": "Mercedes Benz",
         "code": "MIC0172",
         "originalCode": "MIC0172",
         "image": "img/products/om366/arandela-pinon-1620-mic0172.jpg",
-        "description": "ARANDELA PIÑON 1620 MIC0172",
+        "description": "ARANDELA PIÃ‘ON 1620 MIC0172",
         "rubro": "TRANSMISION"
     },
     {
@@ -14553,32 +14553,32 @@ const products = [
     },
     {
         "id": "P1528",
-        "name": "CORONA Y PIÑON 8/39 1215 19050",
+        "name": "CORONA Y PIÃ‘ON 8/39 1215 19050",
         "brand": "Mercedes Benz",
         "code": "121546",
         "originalCode": "121546",
         "image": "img/products/om366/corona-pinon-8-39-1215-121546.jpg",
-        "description": "CORONA Y PIÑON 8/39 1215 19050 121546",
+        "description": "CORONA Y PIÃ‘ON 8/39 1215 19050 121546",
         "rubro": "TRANSMISION"
     },
     {
         "id": "P1529",
-        "name": "CORONA Y PIÑON 7/39 1215 19050",
+        "name": "CORONA Y PIÃ‘ON 7/39 1215 19050",
         "brand": "Mercedes Benz",
         "code": "121548",
         "originalCode": "121548",
         "image": "img/products/om366/corona-pinon-7-39-1215-121548.jpg",
-        "description": "CORONA Y PIÑON 7/39 1215 19050 121548",
+        "description": "CORONA Y PIÃ‘ON 7/39 1215 19050 121548",
         "rubro": "TRANSMISION"
     },
     {
         "id": "P1530",
-        "name": "CORONA Y PIÑON 7/46 1215 19050",
+        "name": "CORONA Y PIÃ‘ON 7/46 1215 19050",
         "brand": "Mercedes Benz",
         "code": "121550",
         "originalCode": "121550",
         "image": "img/products/om366/corona-pinon-7-46-1215-121550.jpg",
-        "description": "CORONA Y PIÑON 7/46 1215 19050 121550",
+        "description": "CORONA Y PIÃ‘ON 7/46 1215 19050 121550",
         "rubro": "TRANSMISION"
     },
     {
@@ -14593,12 +14593,12 @@ const products = [
     },
     {
         "id": "P1532",
-        "name": "CORONA Y PIÑON 7/43 1215 19050",
+        "name": "CORONA Y PIÃ‘ON 7/43 1215 19050",
         "brand": "Mercedes Benz",
         "code": "24170695",
         "originalCode": "24170695",
         "image": "img/products/om366/corona-pinon-7-43-1215-24170695.jpg",
-        "description": "CORONA Y PIÑON 7/43 1215 19050 24170695",
+        "description": "CORONA Y PIÃ‘ON 7/43 1215 19050 24170695",
         "rubro": "TRANSMISION"
     },
     {
@@ -14913,12 +14913,12 @@ const products = [
     },
     {
         "id": "P1564",
-        "name": "TRAVESAÑO FIJACION CAPOT L1620",
+        "name": "TRAVESAÃ‘O FIJACION CAPOT L1620",
         "brand": "Mercedes Benz",
         "code": "1513",
         "originalCode": "1513",
         "image": "img/products/om366/travesano-fijacion-capot-l1620-1513.jpg",
-        "description": "TRAVESAÑO FIJACION CAPOT L1620 1513",
+        "description": "TRAVESAÃ‘O FIJACION CAPOT L1620 1513",
         "rubro": "CARROCERIA"
     },
     {
@@ -14983,12 +14983,12 @@ const products = [
     },
     {
         "id": "P1571",
-        "name": "TRAVESAÑO CAPOT COMPLETO 1620",
+        "name": "TRAVESAÃ‘O CAPOT COMPLETO 1620",
         "brand": "Mercedes Benz",
         "code": "1170",
         "originalCode": "1170",
         "image": "img/products/om366/travesano-capot-completo-1620-1170.jpg",
-        "description": "TRAVESAÑO CAPOT COMPLETO 1620 1170",
+        "description": "TRAVESAÃ‘O CAPOT COMPLETO 1620 1170",
         "rubro": "CARROCERIA"
     },
     {
@@ -15263,12 +15263,12 @@ const products = [
     },
     {
         "id": "P1599",
-        "name": "CORONA Y PIÑON 7/43 HL 5 1620",
+        "name": "CORONA Y PIÃ‘ON 7/43 HL 5 1620",
         "brand": "Mercedes Benz",
         "code": "60170131",
         "originalCode": "60170131",
         "image": "img/products/om366/corona-y-pinon-7-43-hl-5-1620-60170131.jpg",
-        "description": "CORONA Y PIÑON 7/43 HL 5 1620 60170131",
+        "description": "CORONA Y PIÃ‘ON 7/43 HL 5 1620 60170131",
         "rubro": "TRANSMISION"
     },
     {
@@ -15503,12 +15503,12 @@ const products = [
     },
     {
         "id": "P1623",
-        "name": "BRIDA PIÑON 1620 BULON 12MM",
+        "name": "BRIDA PIÃ‘ON 1620 BULON 12MM",
         "brand": "Mercedes Benz",
         "code": "24330047",
         "originalCode": "24330047",
         "image": "img/products/om366/brida-pinon-1620-bulon-12mm-24330047.jpg",
-        "description": "BRIDA PIÑON 1620 BULON 12MM 24330047",
+        "description": "BRIDA PIÃ‘ON 1620 BULON 12MM 24330047",
         "rubro": "TRANSMISION"
     },
     {
@@ -15593,12 +15593,12 @@ const products = [
     },
     {
         "id": "P1632",
-        "name": "CAÑO LUBRICACION TURBO OM 366 LA CON TURBO LATERAL",
+        "name": "CAÃ‘O LUBRICACION TURBO OM 366 LA CON TURBO LATERAL",
         "brand": "Mercedes Benz",
         "code": "MV1721",
         "originalCode": "MV1721",
         "image": "img/products/om366/cano-lubricacion-turbo-om-366-la-con-turbo-lateral-mv1721.jpg",
-        "description": "CAÑO LUBRICACION TURBO OM 366 LA CON TURBO LATERAL MV1721",
+        "description": "CAÃ‘O LUBRICACION TURBO OM 366 LA CON TURBO LATERAL MV1721",
         "rubro": "MOTOR"
     },
     {
@@ -15663,22 +15663,22 @@ const products = [
     },
     {
         "id": "P1639",
-        "name": "CAÑO COMPRESOR L 1620 2 TRAMO",
+        "name": "CAÃ‘O COMPRESOR L 1620 2 TRAMO",
         "brand": "Mercedes Benz",
         "code": "W4428",
         "originalCode": "W4428",
         "image": "img/products/om366/cano-compresor-l-1620-2-tramo-w4428.jpg",
-        "description": "CAÑO COMPRESOR L 1620 2 TRAMO W4428",
+        "description": "CAÃ‘O COMPRESOR L 1620 2 TRAMO W4428",
         "rubro": "MOTOR"
     },
     {
         "id": "P1640",
-        "name": "CAÑO EMBRAGUE 1620 FORMA S",
+        "name": "CAÃ‘O EMBRAGUE 1620 FORMA S",
         "brand": "Mercedes Benz",
         "code": "W4448",
         "originalCode": "W4448",
         "image": "img/products/om366/cano-embrague-1620-forma-s-w4448.jpg",
-        "description": "CAÑO EMBRAGUE 1620 FORMA S W4448",
+        "description": "CAÃ‘O EMBRAGUE 1620 FORMA S W4448",
         "rubro": "EMBRAGUE"
     },
     {
@@ -15813,12 +15813,12 @@ const products = [
     },
     {
         "id": "P1654",
-        "name": "BRIDA PIÑON OF 1721 1417 LK 1620",
+        "name": "BRIDA PIÃ‘ON OF 1721 1417 LK 1620",
         "brand": "Mercedes Benz",
         "code": "04857-1",
         "originalCode": "04857-1",
         "image": "img/products/om366/brida-pinon-of-1721-1417-lk-1620-04857-1.jpg",
-        "description": "BRIDA PIÑON OF 1721 1417 LK 1620 04857-1",
+        "description": "BRIDA PIÃ‘ON OF 1721 1417 LK 1620 04857-1",
         "rubro": "TRANSMISION"
     },
     {
@@ -16033,12 +16033,12 @@ const products = [
     },
     {
         "id": "P1676",
-        "name": "TUERCA PORTA PIÑON L 1620 HL 5",
+        "name": "TUERCA PORTA PIÃ‘ON L 1620 HL 5",
         "brand": "Mercedes Benz",
         "code": "MIC1315",
         "originalCode": "MIC1315",
         "image": "img/products/om366/tuerca-porta-pinon-l-1620-hl-5-mic1315.jpg",
-        "description": "TUERCA PORTA PIÑON L 1620 HL 5 MIC1315",
+        "description": "TUERCA PORTA PIÃ‘ON L 1620 HL 5 MIC1315",
         "rubro": "TRANSMISION"
     },
     {
@@ -16243,12 +16243,12 @@ const products = [
     },
     {
         "id": "P1697",
-        "name": "BRIDA PIÑON L 1620 SPL 90 OF 1721",
+        "name": "BRIDA PIÃ‘ON L 1620 SPL 90 OF 1721",
         "brand": "Mercedes Benz",
         "code": "801703",
         "originalCode": "801703",
         "image": "img/products/om366/brida-pinon-l-1620-spl-90-of-1721-801703.jpg",
-        "description": "BRIDA PIÑON L 1620 SPL 90 OF 1721 801703",
+        "description": "BRIDA PIÃ‘ON L 1620 SPL 90 OF 1721 801703",
         "rubro": "TRANSMISION"
     },
     {
@@ -16373,12 +16373,12 @@ const products = [
     },
     {
         "id": "P1710",
-        "name": "CAÑO RETORNO GAS OIL P ENCHUFAR MANGUERA OM 366",
+        "name": "CAÃ‘O RETORNO GAS OIL P ENCHUFAR MANGUERA OM 366",
         "brand": "Mercedes Benz",
         "code": "MV0213A",
         "originalCode": "MV0213A",
         "image": "img/products/om366/cano-retorno-gas-oil-p-enchufar-manguera-om-366-mv0213a.jpg",
-        "description": "CAÑO RETORNO GAS OIL P ENCHUFAR MANGUERA OM 366 MV0213A",
+        "description": "CAÃ‘O RETORNO GAS OIL P ENCHUFAR MANGUERA OM 366 MV0213A",
         "rubro": "REFRIGERACION"
     },
     {
@@ -16553,12 +16553,12 @@ const products = [
     },
     {
         "id": "P1728",
-        "name": "RETEN PIÑON M BENZ L 1620 BUS ATEGO EXTERIOR",
+        "name": "RETEN PIÃ‘ON M BENZ L 1620 BUS ATEGO EXTERIOR",
         "brand": "Mercedes Benz",
         "code": "10270",
         "originalCode": "10270",
         "image": "img/products/om366/reten-pinon-m-benz-l-1620-bus-atego-exterior-10270.jpg",
-        "description": "RETEN PIÑON M BENZ L 1620 BUS ATEGO EXTERIOR 10270",
+        "description": "RETEN PIÃ‘ON M BENZ L 1620 BUS ATEGO EXTERIOR 10270",
         "rubro": "TRANSMISION"
     },
     {
@@ -17243,12 +17243,12 @@ const products = [
     },
     {
         "id": "P1797",
-        "name": "CAÑO INYECTOR OM 366 LA",
+        "name": "CAÃ‘O INYECTOR OM 366 LA",
         "brand": "Mercedes Benz",
         "code": "M20/2",
         "originalCode": "M20/2",
         "image": "img/products/om366/cano-inyector-om-366-la-m20-2.jpg",
-        "description": "CAÑO INYECTOR OM 366 LA M20/2",
+        "description": "CAÃ‘O INYECTOR OM 366 LA M20/2",
         "rubro": "MOTOR"
     },
     {
@@ -17263,12 +17263,12 @@ const products = [
     },
     {
         "id": "P1799",
-        "name": "CAÑO COMPRESOR 1620",
+        "name": "CAÃ‘O COMPRESOR 1620",
         "brand": "Mercedes Benz",
         "code": "W4392",
         "originalCode": "W4392",
         "image": "img/products/om366/cano-compresor-1620-w4392.jpg",
-        "description": "CAÑO COMPRESOR 1620 W4392",
+        "description": "CAÃ‘O COMPRESOR 1620 W4392",
         "rubro": "MOTOR"
     },
     {
@@ -17303,12 +17303,12 @@ const products = [
     },
     {
         "id": "P1803",
-        "name": "TRAVESAÑO MOTOR L 1620",
+        "name": "TRAVESAÃ‘O MOTOR L 1620",
         "brand": "Mercedes Benz",
         "code": "1217",
         "originalCode": "1217",
         "image": "img/products/om366/travesano-motor-l-1620-1217.jpg",
-        "description": "TRAVESAÑO MOTOR L 1620 1217",
+        "description": "TRAVESAÃ‘O MOTOR L 1620 1217",
         "rubro": "MOTOR"
     },
     {
@@ -17383,22 +17383,22 @@ const products = [
     },
     {
         "id": "P1811",
-        "name": "CAÑO INYECTOR OM 366 JGO",
+        "name": "CAÃ‘O INYECTOR OM 366 JGO",
         "brand": "Mercedes Benz",
         "code": "M12",
         "originalCode": "M12",
         "image": "img/products/om366/cano-inyector-om-366-jgo-m12.jpg",
-        "description": "CAÑO INYECTOR OM 366 JGO M12",
+        "description": "CAÃ‘O INYECTOR OM 366 JGO M12",
         "rubro": "MOTOR"
     },
     {
         "id": "P1812",
-        "name": "CAÑO INYECTOR OM 366 LA JGO",
+        "name": "CAÃ‘O INYECTOR OM 366 LA JGO",
         "brand": "Mercedes Benz",
         "code": "M20",
         "originalCode": "M20",
         "image": "img/products/om366/cano-inyector-om-366-la-jgo-m20.jpg",
-        "description": "CAÑO INYECTOR OM 366 LA JGO M20",
+        "description": "CAÃ‘O INYECTOR OM 366 LA JGO M20",
         "rubro": "MOTOR"
     },
     {
@@ -17413,22 +17413,22 @@ const products = [
     },
     {
         "id": "P1814",
-        "name": "CAÑO LUBRICACION TURBO 1620",
+        "name": "CAÃ‘O LUBRICACION TURBO 1620",
         "brand": "Mercedes Benz",
         "code": "MV1720",
         "originalCode": "MV1720",
         "image": "img/products/om366/cano-lubricacion-turbo-1620-mv1720.jpg",
-        "description": "CAÑO LUBRICACION TURBO 1620 MV1720",
+        "description": "CAÃ‘O LUBRICACION TURBO 1620 MV1720",
         "rubro": "MOTOR"
     },
     {
         "id": "P1815",
-        "name": "CAÑO DESCARGA TURBO 1620",
+        "name": "CAÃ‘O DESCARGA TURBO 1620",
         "brand": "Mercedes Benz",
         "code": "MV1728A",
         "originalCode": "MV1728A",
         "image": "img/products/om366/cano-descarga-turbo-1620-mv1728a.jpg",
-        "description": "CAÑO DESCARGA TURBO 1620 MV1728A",
+        "description": "CAÃ‘O DESCARGA TURBO 1620 MV1728A",
         "rubro": "MOTOR"
     },
     {
@@ -17673,12 +17673,12 @@ const products = [
     },
     {
         "id": "P1840",
-        "name": "BRIDA PIÑON L 1620 OF",
+        "name": "BRIDA PIÃ‘ON L 1620 OF",
         "brand": "Mercedes Benz",
         "code": "S317GT",
         "originalCode": "S317GT",
         "image": "img/products/om366/brida-pinon-l-1620-of-s317gt.jpg",
-        "description": "BRIDA PIÑON L 1620 OF S317GT",
+        "description": "BRIDA PIÃ‘ON L 1620 OF S317GT",
         "rubro": "TRANSMISION"
     },
     {
@@ -17733,22 +17733,22 @@ const products = [
     },
     {
         "id": "P1846",
-        "name": "CORONA Y PIÑON 8/39 HL5 1620",
+        "name": "CORONA Y PIÃ‘ON 8/39 HL5 1620",
         "brand": "Mercedes Benz",
         "code": "60170137",
         "originalCode": "60170137",
         "image": "img/products/om366/corona-y-pinon-8-39-hl5-1620-60170137.jpg",
-        "description": "CORONA Y PIÑON 8/39 HL5 1620 60170137",
+        "description": "CORONA Y PIÃ‘ON 8/39 HL5 1620 60170137",
         "rubro": "TRANSMISION"
     },
     {
         "id": "P1847",
-        "name": "BRIDA PIÑON 1620 AUG 12MM",
+        "name": "BRIDA PIÃ‘ON 1620 AUG 12MM",
         "brand": "Mercedes Benz",
         "code": "60170935",
         "originalCode": "60170935",
         "image": "img/products/om366/brida-pinon-1620-aug-12mm-60170935.jpg",
-        "description": "BRIDA PIÑON 1620 AUG 12MM 60170935",
+        "description": "BRIDA PIÃ‘ON 1620 AUG 12MM 60170935",
         "rubro": "TRANSMISION"
     },
     {
@@ -17883,12 +17883,12 @@ const products = [
     },
     {
         "id": "P1861",
-        "name": "CORONA Y PIÑON 1218 9/39 RAPIDA",
+        "name": "CORONA Y PIÃ‘ON 1218 9/39 RAPIDA",
         "brand": "Mercedes Benz",
         "code": "121810",
         "originalCode": "121810",
         "image": "img/products/om366/corona-y-pinon-1218-9-39-rapida-121810.jpg",
-        "description": "CORONA Y PIÑON 1218 9/39 RAPIDA 121810",
+        "description": "CORONA Y PIÃ‘ON 1218 9/39 RAPIDA 121810",
         "rubro": "TRANSMISION"
     },
     {
@@ -17923,22 +17923,22 @@ const products = [
     },
     {
         "id": "P1865",
-        "name": "CORONA Y PIÑON 8/39 1215 19050",
+        "name": "CORONA Y PIÃ‘ON 8/39 1215 19050",
         "brand": "Mercedes Benz",
         "code": "24170689",
         "originalCode": "24170689",
         "image": "img/products/om366/corona-y-pinon-8-39-1215-19050-24170689.jpg",
-        "description": "CORONA Y PIÑON 8/39 1215 19050 24170689",
+        "description": "CORONA Y PIÃ‘ON 8/39 1215 19050 24170689",
         "rubro": "TRANSMISION"
     },
     {
         "id": "P1866",
-        "name": "CORONA Y PIÑON 7/46 1215 19050",
+        "name": "CORONA Y PIÃ‘ON 7/46 1215 19050",
         "brand": "Mercedes Benz",
         "code": "24170698",
         "originalCode": "24170698",
         "image": "img/products/om366/corona-y-pinon-7-46-1215-19050-24170698.jpg",
-        "description": "CORONA Y PIÑON 7/46 1215 19050 24170698",
+        "description": "CORONA Y PIÃ‘ON 7/46 1215 19050 24170698",
         "rubro": "TRANSMISION"
     },
     {
@@ -17993,42 +17993,42 @@ const products = [
     },
     {
         "id": "P1872",
-        "name": "COJINETE BANCADA OM 366 PESTAÑA SUPERMEDIDA",
+        "name": "COJINETE BANCADA OM 366 PESTAÃ‘A SUPERMEDIDA",
         "brand": "Mercedes Benz",
         "code": "M48375",
         "originalCode": "M48375",
         "image": "img/products/om366/cojinete-bancada-om-366-pestana-supermedida-m48375.jpg",
-        "description": "COJINETE BANCADA OM 366 PESTAÑA SUPERMEDIDA M48375",
+        "description": "COJINETE BANCADA OM 366 PESTAÃ‘A SUPERMEDIDA M48375",
         "rubro": "CARROCERIA"
     },
     {
         "id": "P1873",
-        "name": "CAÑO RETORNO GAS OIL OM 366",
+        "name": "CAÃ‘O RETORNO GAS OIL OM 366",
         "brand": "Mercedes Benz",
         "code": "MV0213B",
         "originalCode": "MV0213B",
         "image": "img/products/om366/cano-retorno-gas-oil-om-366-mv0213b.jpg",
-        "description": "CAÑO RETORNO GAS OIL OM 366 MV0213B",
+        "description": "CAÃ‘O RETORNO GAS OIL OM 366 MV0213B",
         "rubro": "CARROCERIA"
     },
     {
         "id": "P1874",
-        "name": "CAÑO ALIMENTACION BOMBA INY 1620",
+        "name": "CAÃ‘O ALIMENTACION BOMBA INY 1620",
         "brand": "Mercedes Benz",
         "code": "MV1727",
         "originalCode": "MV1727",
         "image": "img/products/om366/cano-alimentacion-bomba-iny-1620-mv1727.jpg",
-        "description": "CAÑO ALIMENTACION BOMBA INY 1620 MV1727",
+        "description": "CAÃ‘O ALIMENTACION BOMBA INY 1620 MV1727",
         "rubro": "MOTOR"
     },
     {
         "id": "P1875",
-        "name": "CAÑO CORTO FINO HIDRAULICA 1620",
+        "name": "CAÃ‘O CORTO FINO HIDRAULICA 1620",
         "brand": "Mercedes Benz",
         "code": "MV1733",
         "originalCode": "MV1733",
         "image": "img/products/om366/cano-corto-fino-hidraulica-1620-mv1733.jpg",
-        "description": "CAÑO CORTO FINO HIDRAULICA 1620 MV1733",
+        "description": "CAÃ‘O CORTO FINO HIDRAULICA 1620 MV1733",
         "rubro": "CARROCERIA"
     },
     {
@@ -18163,12 +18163,12 @@ const products = [
     },
     {
         "id": "P1889",
-        "name": "CAÑO COMPRESOR L 1620 1 TRAMO",
+        "name": "CAÃ‘O COMPRESOR L 1620 1 TRAMO",
         "brand": "Mercedes Benz",
         "code": "MV3568",
         "originalCode": "MV3568",
         "image": "img/products/om366/cano-compresor-l-1620-1-tramo-mv3568.jpg",
-        "description": "CAÑO COMPRESOR L 1620 1 TRAMO MV3568",
+        "description": "CAÃ‘O COMPRESOR L 1620 1 TRAMO MV3568",
         "rubro": "MOTOR"
     },
     {
@@ -18443,22 +18443,22 @@ const products = [
     },
     {
         "id": "P1917",
-        "name": "CAÑO AGUA REFRIGERACION COMP L 1620 ENTRADA",
+        "name": "CAÃ‘O AGUA REFRIGERACION COMP L 1620 ENTRADA",
         "brand": "Mercedes Benz",
         "code": "MV1774",
         "originalCode": "MV1774",
         "image": "img/products/om366/cano-agua-refrigeracion-comp-l-1620-entrada-mv1774.jpg",
-        "description": "CAÑO AGUA REFRIGERACION COMP L 1620 ENTRADA MV1774",
+        "description": "CAÃ‘O AGUA REFRIGERACION COMP L 1620 ENTRADA MV1774",
         "rubro": "REFRIGERACION"
     },
     {
         "id": "P1918",
-        "name": "CAÑO AGUA REFRIGERACION COMP L 1620 SALIDA",
+        "name": "CAÃ‘O AGUA REFRIGERACION COMP L 1620 SALIDA",
         "brand": "Mercedes Benz",
         "code": "MV1775",
         "originalCode": "MV1775",
         "image": "img/products/om366/cano-agua-refrigeracion-comp-l-1620-salida-mv1775.jpg",
-        "description": "CAÑO AGUA REFRIGERACION COMP L 1620 SALIDA MV1775",
+        "description": "CAÃ‘O AGUA REFRIGERACION COMP L 1620 SALIDA MV1775",
         "rubro": "REFRIGERACION"
     },
     {
@@ -18573,12 +18573,12 @@ const products = [
     },
     {
         "id": "P1930",
-        "name": "BRIDA PIÑON ROCKWELL 240 5-438 MB",
+        "name": "BRIDA PIÃ‘ON ROCKWELL 240 5-438 MB",
         "brand": "Mercedes Benz",
         "code": "S385",
         "originalCode": "S385",
         "image": "img/products/om366/brida-pinon-rockwell-240-5-438-mb-s385.jpg",
-        "description": "BRIDA PIÑON ROCKWELL 240 5-438 MB S385",
+        "description": "BRIDA PIÃ‘ON ROCKWELL 240 5-438 MB S385",
         "rubro": "TRANSMISION"
     },
     {
@@ -18593,12 +18593,12 @@ const products = [
     },
     {
         "id": "P1932",
-        "name": "BRIDA PIÑON 26 ESTRIAS SPL 90-1X",
+        "name": "BRIDA PIÃ‘ON 26 ESTRIAS SPL 90-1X",
         "brand": "Mercedes Benz",
         "code": "S317",
         "originalCode": "S317",
         "image": "img/products/om366/brida-pinon-26-estrias-spl-90-1x-s317.jpg",
-        "description": "BRIDA PIÑON 26 ESTRIAS SPL 90-1X S317",
+        "description": "BRIDA PIÃ‘ON 26 ESTRIAS SPL 90-1X S317",
         "rubro": "TRANSMISION"
     },
     {
@@ -20597,11 +20597,11 @@ const products = [
     },
     {
         "id": "P2182",
-        "name": "CAÑO INYECTOR OM 457",
+        "name": "CAÃ‘O INYECTOR OM 457",
         "brand": "Mercedes Benz",
         "code": "M22",
         "image": "img/products/om457/cano-inyector-om457-m22.jpg",
-        "description": "CAÑO INYECTOR OM 457 M22"
+        "description": "CAÃ‘O INYECTOR OM 457 M22"
     },
     {
         "id": "P2183",
@@ -20645,11 +20645,11 @@ const products = [
     },
     {
         "id": "P2188",
-        "name": "CAÑO RETORNO OM 457",
+        "name": "CAÃ‘O RETORNO OM 457",
         "brand": "Mercedes Benz",
         "code": "W4394",
         "image": "img/products/om457/cano-retorno-om457-w4394.jpg",
-        "description": "CAÑO RETORNO OM 457 W4394"
+        "description": "CAÃ‘O RETORNO OM 457 W4394"
     },
     {
         "id": "P2189",
@@ -20861,11 +20861,11 @@ const products = [
     },
     {
         "id": "P2215",
-        "name": "CAÑO COMPRESOR O 500 OM 457",
+        "name": "CAÃ‘O COMPRESOR O 500 OM 457",
         "brand": "Mercedes Benz",
         "code": "W4343",
         "image": "img/products/om457/cano-compresor-o-500-om457-w4343.jpg",
-        "description": "CAÑO COMPRESOR O 500 OM 457 W4343"
+        "description": "CAÃ‘O COMPRESOR O 500 OM 457 W4343"
     },
     {
         "id": "P2216",
@@ -20877,11 +20877,11 @@ const products = [
     },
     {
         "id": "P2217",
-        "name": "CAÑERIA REFRIGERACION TAPA OM 457",
+        "name": "CAÃ‘ERIA REFRIGERACION TAPA OM 457",
         "brand": "Mercedes Benz",
         "code": "W4631",
         "image": "img/products/om457/caneria-refrigeracion-tapa-om457-w4631.jpg",
-        "description": "CAÑERIA REFRIGERACION TAPA OM 457 W4631"
+        "description": "CAÃ‘ERIA REFRIGERACION TAPA OM 457 W4631"
     },
     {
         "id": "P2218",
@@ -20997,11 +20997,11 @@ const products = [
     },
     {
         "id": "P2232",
-        "name": "CAÑO SALIDA COMPRESOR O 400 OM 457",
+        "name": "CAÃ‘O SALIDA COMPRESOR O 400 OM 457",
         "brand": "Mercedes Benz",
         "code": "MV3626",
         "image": "img/products/om457/cano-salida-compresor-o-400-om457-mv3626.jpg",
-        "description": "CAÑO SALIDA COMPRESOR O 400 OM 457 MV3626"
+        "description": "CAÃ‘O SALIDA COMPRESOR O 400 OM 457 MV3626"
     },
     {
         "id": "P2233",
@@ -21149,11 +21149,11 @@ const products = [
     },
     {
         "id": "P2251",
-        "name": "CAÑO VIVORA AGUA RECTO OM 457",
+        "name": "CAÃ‘O VIVORA AGUA RECTO OM 457",
         "brand": "Mercedes Benz",
         "code": "W4405",
         "image": "img/products/om457/cano-vivora-agua-recto-om457-w4405.jpg",
-        "description": "CAÑO VIVORA AGUA RECTO OM 457 W4405"
+        "description": "CAÃ‘O VIVORA AGUA RECTO OM 457 W4405"
     },
     {
         "id": "P2252",
@@ -21237,11 +21237,11 @@ const products = [
     },
     {
         "id": "P2262",
-        "name": "CAÑERIA REFRIGERACION TAPA CILINDRO OM 457",
+        "name": "CAÃ‘ERIA REFRIGERACION TAPA CILINDRO OM 457",
         "brand": "Mercedes Benz",
         "code": "W4403",
         "image": "img/products/om457/caneria-refrigeracion-tapa-cilindro-om457-w4403.jpg",
-        "description": "CAÑERIA REFRIGERACION TAPA CILINDRO OM 457 W4403"
+        "description": "CAÃ‘ERIA REFRIGERACION TAPA CILINDRO OM 457 W4403"
     },
     {
         "id": "P2263",
@@ -21429,11 +21429,11 @@ const products = [
     },
     {
         "id": "P2286",
-        "name": "CAÑO SERPENTINA COMPRESOR O 500 OM457",
+        "name": "CAÃ‘O SERPENTINA COMPRESOR O 500 OM457",
         "brand": "Mercedes Benz",
         "code": "MV3654",
         "image": "img/products/om457/cano-serpentina-compresor-o-500-om457-mv3654.jpg",
-        "description": "CAÑO SERPENTINA COMPRESOR O 500 OM457 MV3654"
+        "description": "CAÃ‘O SERPENTINA COMPRESOR O 500 OM457 MV3654"
     },
     {
         "id": "P2287",
@@ -21461,11 +21461,11 @@ const products = [
     },
     {
         "id": "P2290",
-        "name": "CAÑO VIVORA OM 457",
+        "name": "CAÃ‘O VIVORA OM 457",
         "brand": "Mercedes Benz",
         "code": "MV2220A",
         "image": "img/products/om457/cano-vivora-om457-mv2220a.jpg",
-        "description": "CAÑO VIVORA OM 457 MV2220A"
+        "description": "CAÃ‘O VIVORA OM 457 MV2220A"
     },
     {
         "id": "P2291",
@@ -21517,11 +21517,11 @@ const products = [
     },
     {
         "id": "P2297",
-        "name": "CAÑO GAS OIL OM 457",
+        "name": "CAÃ‘O GAS OIL OM 457",
         "brand": "Mercedes Benz",
         "code": "MV2238A",
         "image": "img/products/om457/cano-gas-oil-om457-mv2238a.jpg",
-        "description": "CAÑO GAS OIL OM 457 MV2238A"
+        "description": "CAÃ‘O GAS OIL OM 457 MV2238A"
     },
     {
         "id": "P2298",
@@ -21581,11 +21581,11 @@ const products = [
     },
     {
         "id": "P2305",
-        "name": "CAÑO VIVORA OM 457 RECTO PARA MANGUERA",
+        "name": "CAÃ‘O VIVORA OM 457 RECTO PARA MANGUERA",
         "brand": "Mercedes Benz",
         "code": "W4326",
         "image": "img/products/om457/cano-vivora-om457-recto-para-manguera-w4326.jpg",
-        "description": "CAÑO VIVORA OM 457 RECTO PARA MANGUERA W4326"
+        "description": "CAÃ‘O VIVORA OM 457 RECTO PARA MANGUERA W4326"
     },
     {
         "id": "P2306",
@@ -21653,11 +21653,11 @@ const products = [
     },
     {
         "id": "P2314",
-        "name": "CAÑO BOMBIN DE GAS OIL A FILTRO OM 457",
+        "name": "CAÃ‘O BOMBIN DE GAS OIL A FILTRO OM 457",
         "brand": "Mercedes Benz",
         "code": "MV2236A",
         "image": "img/products/om457/cano-bombin-de-gas-oil-a-filtro-om457-mv2236a.jpg",
-        "description": "CAÑO BOMBIN DE GAS OIL A FILTRO OM 457 MV2236A"
+        "description": "CAÃ‘O BOMBIN DE GAS OIL A FILTRO OM 457 MV2236A"
     },
     {
         "id": "P2315",
@@ -21853,11 +21853,11 @@ const products = [
     },
     {
         "id": "P2339",
-        "name": "CAÑO INYECTOR OM 904",
+        "name": "CAÃ‘O INYECTOR OM 904",
         "brand": "Mercedes Benz",
         "code": "M23",
         "image": "img/products/om904/cano-inyector-om904-m23.jpg",
-        "description": "CAÑO INYECTOR OM 904 M23"
+        "description": "CAÃ‘O INYECTOR OM 904 M23"
     },
     {
         "id": "P2340",
@@ -21869,11 +21869,11 @@ const products = [
     },
     {
         "id": "P2341",
-        "name": "CAÑO RETORNO OM 904",
+        "name": "CAÃ‘O RETORNO OM 904",
         "brand": "Mercedes Benz",
         "code": "W4410",
         "image": "img/products/om904/cano-retorno-om904-w4410.jpg",
-        "description": "CAÑO RETORNO OM 904 W4410"
+        "description": "CAÃ‘O RETORNO OM 904 W4410"
     },
     {
         "id": "P2342",
@@ -21957,11 +21957,11 @@ const products = [
     },
     {
         "id": "P2352",
-        "name": "CAÑO LUBRICACION TURBO OM 904",
+        "name": "CAÃ‘O LUBRICACION TURBO OM 904",
         "brand": "Mercedes Benz",
         "code": "MV2227",
         "image": "img/products/om904/cano-lubricacion-turbo-om904-mv2227.jpg",
-        "description": "CAÑO LUBRICACION TURBO OM 904 MV2227"
+        "description": "CAÃ‘O LUBRICACION TURBO OM 904 MV2227"
     },
     {
         "id": "P2353",
@@ -21997,11 +21997,11 @@ const products = [
     },
     {
         "id": "P2357",
-        "name": "CAÑO LUBRICACION TURBO OM 904",
+        "name": "CAÃ‘O LUBRICACION TURBO OM 904",
         "brand": "Mercedes Benz",
         "code": "W4447",
         "image": "img/products/om904/cano-lubricacion-turbo-om904-w4447.jpg",
-        "description": "CAÑO LUBRICACION TURBO OM 904 W4447"
+        "description": "CAÃ‘O LUBRICACION TURBO OM 904 W4447"
     },
     {
         "id": "P2358",
@@ -22133,11 +22133,11 @@ const products = [
     },
     {
         "id": "P2374",
-        "name": "CAÑO AGUA COMPRESOR OM 904",
+        "name": "CAÃ‘O AGUA COMPRESOR OM 904",
         "brand": "Mercedes Benz",
         "code": "W4407",
         "image": "img/products/om904/cano-agua-compresor-om904-w4407.jpg",
-        "description": "CAÑO AGUA COMPRESOR OM 904 W4407"
+        "description": "CAÃ‘O AGUA COMPRESOR OM 904 W4407"
     },
     {
         "id": "P2375",
@@ -22677,19 +22677,19 @@ const products = [
     },
     {
         "id": "P2442",
-        "name": "BRIDA PIÑON IVECO STRALIS",
+        "name": "BRIDA PIÃ‘ON IVECO STRALIS",
         "brand": "Iveco",
         "code": "A43260M1079",
         "image": "img/products/Stralis/brida-pinon-iveco-stralis-a43260m1079.jpg",
-        "description": "BRIDA PIÑON IVECO STRALIS A43260M1079"
+        "description": "BRIDA PIÃ‘ON IVECO STRALIS A43260M1079"
     },
     {
         "id": "P2443",
-        "name": "BRIDA PIÑON IVECO STRALIS",
+        "name": "BRIDA PIÃ‘ON IVECO STRALIS",
         "brand": "Iveco",
         "code": "S686",
         "image": "img/products/Stralis/brida-pinon-iveco-stralis-s686.jpg",
-        "description": "BRIDA PIÑON IVECO STRALIS S686"
+        "description": "BRIDA PIÃ‘ON IVECO STRALIS S686"
     },
     {
         "id": "P2444",
@@ -22725,11 +22725,11 @@ const products = [
     },
     {
         "id": "P2448",
-        "name": "BRIDA PIÑON IVECO STRALIS 46 ESTRIAS",
+        "name": "BRIDA PIÃ‘ON IVECO STRALIS 46 ESTRIAS",
         "brand": "Iveco",
         "code": "S345",
         "image": "img/products/Stralis/brida-pinon-iveco-stralis-46-estrias-s345.jpg",
-        "description": "BRIDA PIÑON IVECO STRALIS 46 ESTRIAS S345"
+        "description": "BRIDA PIÃ‘ON IVECO STRALIS 46 ESTRIAS S345"
     },
     {
         "id": "P2449",
@@ -23445,11 +23445,11 @@ const products = [
     },
     {
         "id": "P2538",
-        "name": "CORONA Y PIÑON 34X10 STRALIS U 180",
+        "name": "CORONA Y PIÃ‘ON 34X10 STRALIS U 180",
         "brand": "Iveco",
         "code": "B43166.1.340",
         "image": "img/products/Stralis/corona-y-pinon-34x10-stralis-u-180-b43166-1-340.jpg",
-        "description": "CORONA Y PIÑON 34X10 STRALIS U 180 B43166.1.340"
+        "description": "CORONA Y PIÃ‘ON 34X10 STRALIS U 180 B43166.1.340"
     },
     {
         "id": "P2539",
@@ -23469,11 +23469,11 @@ const products = [
     },
     {
         "id": "P2541",
-        "name": "JGO PIÑONES A Y B CAJA 16S2280 STRALIS",
+        "name": "JGO PIÃ‘ONES A Y B CAJA 16S2280 STRALIS",
         "brand": "Iveco",
         "code": "95531506",
         "image": "img/products/Stralis/jgo-pinones-a-y-b-caja-16s2280-stralis-95531506.jpg",
-        "description": "JGO PIÑONES A Y B CAJA 16S2280 STRALIS 95531506"
+        "description": "JGO PIÃ‘ONES A Y B CAJA 16S2280 STRALIS 95531506"
     },
     {
         "id": "P2542",
@@ -23565,11 +23565,11 @@ const products = [
     },
     {
         "id": "P2553",
-        "name": "CORONA Y PIÑON 41/12 U 180 IVECO STRALIS",
+        "name": "CORONA Y PIÃ‘ON 41/12 U 180 IVECO STRALIS",
         "brand": "Iveco",
         "code": "81171233",
         "image": "img/products/Stralis/corona-y-pinon-41-12-u-180-iveco-stralis-81171233.jpg",
-        "description": "CORONA Y PIÑON 41/12 U 180 IVECO STRALIS 81171233"
+        "description": "CORONA Y PIÃ‘ON 41/12 U 180 IVECO STRALIS 81171233"
     },
     {
         "id": "P2554",
@@ -23861,11 +23861,11 @@ const products = [
     },
     {
         "id": "P2590",
-        "name": "SENSOR CIGUEÑAL IVECO",
+        "name": "SENSOR CIGUEÃ‘AL IVECO",
         "brand": "Iveco",
         "code": "0281002165/1",
         "image": "img/products/Stralis/sensor-ciguenal-iveco-0281002165-1.jpg",
-        "description": "SENSOR CIGUEÑAL IVECO 0281002165/1"
+        "description": "SENSOR CIGUEÃ‘AL IVECO 0281002165/1"
     },
     {
         "id": "P2591",
@@ -24181,11 +24181,11 @@ const products = [
     },
     {
         "id": "P2630",
-        "name": "CORONA Y PIÑON 43/10 U 180 IVECO STRALIS",
+        "name": "CORONA Y PIÃ‘ON 43/10 U 180 IVECO STRALIS",
         "brand": "Iveco",
         "code": "81171204",
         "image": "img/products/Stralis/corona-y-pinon-43-10-u-180-iveco-stralis-81171204.jpg",
-        "description": "CORONA Y PIÑON 43/10 U 180 IVECO STRALIS 81171204"
+        "description": "CORONA Y PIÃ‘ON 43/10 U 180 IVECO STRALIS 81171204"
     },
     {
         "id": "P2631",
@@ -24221,11 +24221,11 @@ const products = [
     },
     {
         "id": "P2635",
-        "name": "LETRERO CROMADO «SCANIA» CIPEC",
+        "name": "LETRERO CROMADO Â«SCANIAÂ» CIPEC",
         "brand": "Scania",
         "code": "3459",
         "image": "img/products/Scania 111/letrero-cromado-scania-cipec-3459.jpg",
-        "description": "LETRERO CROMADO «SCANIA» CIPEC 3459"
+        "description": "LETRERO CROMADO Â«SCANIAÂ» CIPEC 3459"
     },
     {
         "id": "P2636",
@@ -24365,27 +24365,27 @@ const products = [
     },
     {
         "id": "P2653",
-        "name": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS",
+        "name": "BRIDA PIÃ‘ON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS",
         "brand": "Scania",
         "code": "9665",
         "image": "img/products/Scania 111/brida-pinon-diferencial-y-salida-de-caja-22-estrias-nodular-rei-autoparts-9665.jpg",
-        "description": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS 9665"
+        "description": "BRIDA PIÃ‘ON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS 9665"
     },
     {
         "id": "P2654",
-        "name": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS",
+        "name": "BRIDA PIÃ‘ON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS",
         "brand": "Scania",
         "code": "9666",
         "image": "img/products/Scania 111/brida-pinon-diferencial-y-salida-de-caja-22-estrias-nodular-rei-autoparts-9666.jpg",
-        "description": "BRIDA PIÑON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS 9666"
+        "description": "BRIDA PIÃ‘ON DIFERENCIAL Y SALIDA DE CAJA 22 ESTRIAS / NODULAR REI AUTOPARTS 9666"
     },
     {
         "id": "P2655",
-        "name": "BRIDA PIÑON DIFERENCIAL Y ACOPLE CARDAN 22 ESTRIAS / ACERO REI AUTOPARTS",
+        "name": "BRIDA PIÃ‘ON DIFERENCIAL Y ACOPLE CARDAN 22 ESTRIAS / ACERO REI AUTOPARTS",
         "brand": "Scania",
         "code": "9662",
         "image": "img/products/Scania 111/brida-pinon-diferencial-y-acople-cardan-22-estrias-acero-rei-autoparts-9662.jpg",
-        "description": "BRIDA PIÑON DIFERENCIAL Y ACOPLE CARDAN 22 ESTRIAS / ACERO REI AUTOPARTS 9662"
+        "description": "BRIDA PIÃ‘ON DIFERENCIAL Y ACOPLE CARDAN 22 ESTRIAS / ACERO REI AUTOPARTS 9662"
     },
     {
         "id": "P2656",
@@ -24429,11 +24429,11 @@ const products = [
     },
     {
         "id": "P2661",
-        "name": "REP. CAMARA TRISTOP WABCO TIPO 30″ QUINELATO",
+        "name": "REP. CAMARA TRISTOP WABCO TIPO 30â€³ QUINELATO",
         "brand": "Scania",
         "code": "9495",
         "image": "img/products/Scania 111/rep-camara-tristop-wabco-tipo-30-8243-quinelato-9495.jpg",
-        "description": "REP. CAMARA TRISTOP WABCO TIPO 30″ QUINELATO 9495"
+        "description": "REP. CAMARA TRISTOP WABCO TIPO 30â€³ QUINELATO 9495"
     },
     {
         "id": "P2662",
@@ -24461,11 +24461,11 @@ const products = [
     },
     {
         "id": "P2665",
-        "name": "INTERRUPTOR LUCES MARCHA ATRÁS MA2Ó",
+        "name": "INTERRUPTOR LUCES MARCHA ATRÃS MA2Ã“",
         "brand": "Scania",
         "code": "9126",
         "image": "img/products/Scania 111/interruptor-luces-marcha-atras-ma2o-9126.jpg",
-        "description": "INTERRUPTOR LUCES MARCHA ATRÁS MA2Ó 9126"
+        "description": "INTERRUPTOR LUCES MARCHA ATRÃS MA2Ã“ 9126"
     },
     {
         "id": "P2666",
@@ -24637,27 +24637,27 @@ const products = [
     },
     {
         "id": "P2687",
-        "name": "PIÑON VELOCIMETRO 9 DIENTES CIPEC",
+        "name": "PIÃ‘ON VELOCIMETRO 9 DIENTES CIPEC",
         "brand": "Scania",
         "code": "8707",
         "image": "img/products/Scania 111/pinon-velocimetro-9-dientes-cipec-8707.jpg",
-        "description": "PIÑON VELOCIMETRO 9 DIENTES CIPEC 8707"
+        "description": "PIÃ‘ON VELOCIMETRO 9 DIENTES CIPEC 8707"
     },
     {
         "id": "P2688",
-        "name": "PIÑON VELOCIMETRO 10 DIENTES CIPEC",
+        "name": "PIÃ‘ON VELOCIMETRO 10 DIENTES CIPEC",
         "brand": "Scania",
         "code": "8708",
         "image": "img/products/Scania 111/pinon-velocimetro-10-dientes-cipec-8708.jpg",
-        "description": "PIÑON VELOCIMETRO 10 DIENTES CIPEC 8708"
+        "description": "PIÃ‘ON VELOCIMETRO 10 DIENTES CIPEC 8708"
     },
     {
         "id": "P2689",
-        "name": "PIÑON VELOCIMETRO 11 DIENTES CIPEC",
+        "name": "PIÃ‘ON VELOCIMETRO 11 DIENTES CIPEC",
         "brand": "Scania",
         "code": "8709",
         "image": "img/products/Scania 111/pinon-velocimetro-11-dientes-cipec-8709.jpg",
-        "description": "PIÑON VELOCIMETRO 11 DIENTES CIPEC 8709"
+        "description": "PIÃ‘ON VELOCIMETRO 11 DIENTES CIPEC 8709"
     },
     {
         "id": "P2690",
@@ -24701,11 +24701,11 @@ const products = [
     },
     {
         "id": "P2695",
-        "name": "DIAFRAGMA 6 1/2″ / TIPO 20 X 24 KNORR 168 X 37MM. BINS",
+        "name": "DIAFRAGMA 6 1/2â€³ / TIPO 20 X 24 KNORR 168 X 37MM. BINS",
         "brand": "Scania",
         "code": "8594",
         "image": "img/products/Scania 111/diafragma-6-1-2-8243-tipo-20-x-24-knorr-168-x-37mm-bins-8594.jpg",
-        "description": "DIAFRAGMA 6 1/2″ / TIPO 20 X 24 KNORR 168 X 37MM. BINS 8594"
+        "description": "DIAFRAGMA 6 1/2â€³ / TIPO 20 X 24 KNORR 168 X 37MM. BINS 8594"
     },
     {
         "id": "P2696",
@@ -24725,11 +24725,11 @@ const products = [
     },
     {
         "id": "P2698",
-        "name": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA / NO USA TRABA 184.055 CIPEC",
+        "name": "TUERCA REFORMA CARDAN / PIÃ‘ON / SALIDA DE CAJA / NO USA TRABA 184.055 CIPEC",
         "brand": "Scania",
         "code": "8561",
         "image": "img/products/Scania 111/tuerca-reforma-cardan-pinon-salida-de-caja-no-usa-traba-184-055-cipec-8561.jpg",
-        "description": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA / NO USA TRABA 184.055 CIPEC 8561"
+        "description": "TUERCA REFORMA CARDAN / PIÃ‘ON / SALIDA DE CAJA / NO USA TRABA 184.055 CIPEC 8561"
     },
     {
         "id": "P2699",
@@ -24789,11 +24789,11 @@ const products = [
     },
     {
         "id": "P2706",
-        "name": "TAPA CILINDROS / INYECTOR CON BRIDA MARINGÁ",
+        "name": "TAPA CILINDROS / INYECTOR CON BRIDA MARINGÃ",
         "brand": "Scania",
         "code": "8361",
         "image": "img/products/Scania 111/tapa-cilindros-inyector-con-brida-maringa-8361.jpg",
-        "description": "TAPA CILINDROS / INYECTOR CON BRIDA MARINGÁ 8361"
+        "description": "TAPA CILINDROS / INYECTOR CON BRIDA MARINGÃ 8361"
     },
     {
         "id": "P2707",
@@ -24957,11 +24957,11 @@ const products = [
     },
     {
         "id": "P2727",
-        "name": "CUBO POLEA CIGUEÑAL / FORJADO / TEMPLADO POR INDUCCION / PARA CHAVETA CIPEC",
+        "name": "CUBO POLEA CIGUEÃ‘AL / FORJADO / TEMPLADO POR INDUCCION / PARA CHAVETA CIPEC",
         "brand": "Scania",
         "code": "8201",
         "image": "img/products/Scania 111/cubo-polea-ciguenal-forjado-templado-por-induccion-para-chaveta-cipec-8201.jpg",
-        "description": "CUBO POLEA CIGUEÑAL / FORJADO / TEMPLADO POR INDUCCION / PARA CHAVETA CIPEC 8201"
+        "description": "CUBO POLEA CIGUEÃ‘AL / FORJADO / TEMPLADO POR INDUCCION / PARA CHAVETA CIPEC 8201"
     },
     {
         "id": "P2728",
@@ -25101,11 +25101,11 @@ const products = [
     },
     {
         "id": "P2745",
-        "name": "MAZA POLEA CIGUEÑAL / FORJADO CIPEC",
+        "name": "MAZA POLEA CIGUEÃ‘AL / FORJADO CIPEC",
         "brand": "Scania",
         "code": "7981",
         "image": "img/products/Scania 111/maza-polea-ciguenal-forjado-cipec-7981.jpg",
-        "description": "MAZA POLEA CIGUEÑAL / FORJADO CIPEC 7981"
+        "description": "MAZA POLEA CIGUEÃ‘AL / FORJADO CIPEC 7981"
     },
     {
         "id": "P2746",
@@ -25165,19 +25165,19 @@ const products = [
     },
     {
         "id": "P2753",
-        "name": "ABRAZADERA CAÑO INYECTOR / 2 CAÑOS CIPEC",
+        "name": "ABRAZADERA CAÃ‘O INYECTOR / 2 CAÃ‘OS CIPEC",
         "brand": "Scania",
         "code": "7973",
         "image": "img/products/Scania 111/abrazadera-cano-inyector-2-canos-cipec-7973.jpg",
-        "description": "ABRAZADERA CAÑO INYECTOR / 2 CAÑOS CIPEC 7973"
+        "description": "ABRAZADERA CAÃ‘O INYECTOR / 2 CAÃ‘OS CIPEC 7973"
     },
     {
         "id": "P2754",
-        "name": "ABRAZADERA CAÑO INYECTOR / 3 CAÑOS CIPEC",
+        "name": "ABRAZADERA CAÃ‘O INYECTOR / 3 CAÃ‘OS CIPEC",
         "brand": "Scania",
         "code": "7974",
         "image": "img/products/Scania 111/abrazadera-cano-inyector-3-canos-cipec-7974.jpg",
-        "description": "ABRAZADERA CAÑO INYECTOR / 3 CAÑOS CIPEC 7974"
+        "description": "ABRAZADERA CAÃ‘O INYECTOR / 3 CAÃ‘OS CIPEC 7974"
     },
     {
         "id": "P2755",
@@ -25341,11 +25341,11 @@ const products = [
     },
     {
         "id": "P2775",
-        "name": "PERNO GUIA CIGUEÑAL / VOLANTE 14 X 33MM. CIPEC",
+        "name": "PERNO GUIA CIGUEÃ‘AL / VOLANTE 14 X 33MM. CIPEC",
         "brand": "Scania",
         "code": "7925",
         "image": "img/products/Scania 111/perno-guia-ciguenal-volante-14-x-33mm-cipec-7925.jpg",
-        "description": "PERNO GUIA CIGUEÑAL / VOLANTE 14 X 33MM. CIPEC 7925"
+        "description": "PERNO GUIA CIGUEÃ‘AL / VOLANTE 14 X 33MM. CIPEC 7925"
     },
     {
         "id": "P2776",
@@ -25413,19 +25413,19 @@ const products = [
     },
     {
         "id": "P2784",
-        "name": "BUJE PIÑON VELOCIMETRO 9/10 DIENTES CIPEC",
+        "name": "BUJE PIÃ‘ON VELOCIMETRO 9/10 DIENTES CIPEC",
         "brand": "Scania",
         "code": "7935",
         "image": "img/products/Scania 111/buje-pinon-velocimetro-9-10-dientes-cipec-7935.jpg",
-        "description": "BUJE PIÑON VELOCIMETRO 9/10 DIENTES CIPEC 7935"
+        "description": "BUJE PIÃ‘ON VELOCIMETRO 9/10 DIENTES CIPEC 7935"
     },
     {
         "id": "P2785",
-        "name": "BUJE PIÑON VELOCIMETRO 13/14 DIENTES CIPEC",
+        "name": "BUJE PIÃ‘ON VELOCIMETRO 13/14 DIENTES CIPEC",
         "brand": "Scania",
         "code": "7936",
         "image": "img/products/Scania 111/buje-pinon-velocimetro-13-14-dientes-cipec-7936.jpg",
-        "description": "BUJE PIÑON VELOCIMETRO 13/14 DIENTES CIPEC 7936"
+        "description": "BUJE PIÃ‘ON VELOCIMETRO 13/14 DIENTES CIPEC 7936"
     },
     {
         "id": "P2786",
@@ -25437,11 +25437,11 @@ const products = [
     },
     {
         "id": "P2787",
-        "name": "ANILLO SUPLEMENTO PIÑON DIFERENCIAL CIPEC",
+        "name": "ANILLO SUPLEMENTO PIÃ‘ON DIFERENCIAL CIPEC",
         "brand": "Scania",
         "code": "7938",
         "image": "img/products/Scania 111/anillo-suplemento-pinon-diferencial-cipec-7938.jpg",
-        "description": "ANILLO SUPLEMENTO PIÑON DIFERENCIAL CIPEC 7938"
+        "description": "ANILLO SUPLEMENTO PIÃ‘ON DIFERENCIAL CIPEC 7938"
     },
     {
         "id": "P2788",
@@ -25581,19 +25581,19 @@ const products = [
     },
     {
         "id": "P2805",
-        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.10” TF&P TECHNOLOGY",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.10â€ TF&P TECHNOLOGY",
         "brand": "Scania",
         "code": "7721",
         "image": "img/products/Scania 111/piston-con-perno-y-seguro-compresor-varga-70mm-0-10-tf-p-technology-7721.jpg",
-        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.10” TF&P TECHNOLOGY 7721"
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.10â€ TF&P TECHNOLOGY 7721"
     },
     {
         "id": "P2806",
-        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.20” TF&P TECHNOLOGY",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.20â€ TF&P TECHNOLOGY",
         "brand": "Scania",
         "code": "7722",
         "image": "img/products/Scania 111/piston-con-perno-y-seguro-compresor-varga-70mm-0-20-tf-p-technology-7722.jpg",
-        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.20” TF&P TECHNOLOGY 7722"
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR VARGA 70MM. 0.20â€ TF&P TECHNOLOGY 7722"
     },
     {
         "id": "P2807",
@@ -25725,11 +25725,11 @@ const products = [
     },
     {
         "id": "P2823",
-        "name": "RETEN PIÑON DIFERENCIAL / CAJA ELRING",
+        "name": "RETEN PIÃ‘ON DIFERENCIAL / CAJA ELRING",
         "brand": "Scania",
         "code": "7631",
         "image": "img/products/Scania 111/reten-pinon-diferencial-caja-elring-7631.jpg",
-        "description": "RETEN PIÑON DIFERENCIAL / CAJA ELRING 7631"
+        "description": "RETEN PIÃ‘ON DIFERENCIAL / CAJA ELRING 7631"
     },
     {
         "id": "P2824",
@@ -25821,11 +25821,11 @@ const products = [
     },
     {
         "id": "P2835",
-        "name": "ARANDELA CONICA CIGUEÑAL CIPEC",
+        "name": "ARANDELA CONICA CIGUEÃ‘AL CIPEC",
         "brand": "Scania",
         "code": "7503",
         "image": "img/products/Scania 111/arandela-conica-ciguenal-cipec-7503.jpg",
-        "description": "ARANDELA CONICA CIGUEÑAL CIPEC 7503"
+        "description": "ARANDELA CONICA CIGUEÃ‘AL CIPEC 7503"
     },
     {
         "id": "P2836",
@@ -25965,11 +25965,11 @@ const products = [
     },
     {
         "id": "P2853",
-        "name": "PESTAÑA VIDRIO DE PUERTA CIPEC",
+        "name": "PESTAÃ‘A VIDRIO DE PUERTA CIPEC",
         "brand": "Scania",
         "code": "7449",
         "image": "img/products/Scania 111/pestana-vidrio-de-puerta-cipec-7449.jpg",
-        "description": "PESTAÑA VIDRIO DE PUERTA CIPEC 7449"
+        "description": "PESTAÃ‘A VIDRIO DE PUERTA CIPEC 7449"
     },
     {
         "id": "P2854",
@@ -26029,11 +26029,11 @@ const products = [
     },
     {
         "id": "P2861",
-        "name": "DEFLECTOR DE ACEITE DEL CIGUEÑAL CIPEC",
+        "name": "DEFLECTOR DE ACEITE DEL CIGUEÃ‘AL CIPEC",
         "brand": "Scania",
         "code": "7420",
         "image": "img/products/Scania 111/deflector-de-aceite-del-ciguenal-cipec-7420.jpg",
-        "description": "DEFLECTOR DE ACEITE DEL CIGUEÑAL CIPEC 7420"
+        "description": "DEFLECTOR DE ACEITE DEL CIGUEÃ‘AL CIPEC 7420"
     },
     {
         "id": "P2862",
@@ -26093,11 +26093,11 @@ const products = [
     },
     {
         "id": "P2869",
-        "name": "COJINETE PIÑON DE VELOCIMETRO 11 / 12 DIENTES CIPEC",
+        "name": "COJINETE PIÃ‘ON DE VELOCIMETRO 11 / 12 DIENTES CIPEC",
         "brand": "Scania",
         "code": "7429",
         "image": "img/products/Scania 111/cojinete-pinon-de-velocimetro-11-12-dientes-cipec-7429.jpg",
-        "description": "COJINETE PIÑON DE VELOCIMETRO 11 / 12 DIENTES CIPEC 7429"
+        "description": "COJINETE PIÃ‘ON DE VELOCIMETRO 11 / 12 DIENTES CIPEC 7429"
     },
     {
         "id": "P2870",
@@ -26117,19 +26117,19 @@ const products = [
     },
     {
         "id": "P2872",
-        "name": "TRABA ARAÑA BRIDA CARDAN CIPEC",
+        "name": "TRABA ARAÃ‘A BRIDA CARDAN CIPEC",
         "brand": "Scania",
         "code": "7432",
         "image": "img/products/Scania 111/traba-arana-brida-cardan-cipec-7432.jpg",
-        "description": "TRABA ARAÑA BRIDA CARDAN CIPEC 7432"
+        "description": "TRABA ARAÃ‘A BRIDA CARDAN CIPEC 7432"
     },
     {
         "id": "P2873",
-        "name": "ARANDELA SUPLEMENTO PIÑON DIFERENCIAL 0.30MM. CIPEC",
+        "name": "ARANDELA SUPLEMENTO PIÃ‘ON DIFERENCIAL 0.30MM. CIPEC",
         "brand": "Scania",
         "code": "7433",
         "image": "img/products/Scania 111/arandela-suplemento-pinon-diferencial-0-30mm-cipec-7433.jpg",
-        "description": "ARANDELA SUPLEMENTO PIÑON DIFERENCIAL 0.30MM. CIPEC 7433"
+        "description": "ARANDELA SUPLEMENTO PIÃ‘ON DIFERENCIAL 0.30MM. CIPEC 7433"
     },
     {
         "id": "P2874",
@@ -26205,11 +26205,11 @@ const products = [
     },
     {
         "id": "P2883",
-        "name": "CONEXIÓN FLEXIBLE CAJA DIRECCION / 5/8” X 1/2” CIPEC",
+        "name": "CONEXIÃ“N FLEXIBLE CAJA DIRECCION / 5/8â€ X 1/2â€ CIPEC",
         "brand": "Scania",
         "code": "7417",
         "image": "img/products/Scania 111/conexion-flexible-caja-direccion-5-8-x-1-2-cipec-7417.jpg",
-        "description": "CONEXIÓN FLEXIBLE CAJA DIRECCION / 5/8” X 1/2” CIPEC 7417"
+        "description": "CONEXIÃ“N FLEXIBLE CAJA DIRECCION / 5/8â€ X 1/2â€ CIPEC 7417"
     },
     {
         "id": "P2884",
@@ -26301,11 +26301,11 @@ const products = [
     },
     {
         "id": "P2895",
-        "name": "PISTA RODAMIENTO CAJA 3º Y 4º IMP.",
+        "name": "PISTA RODAMIENTO CAJA 3Âº Y 4Âº IMP.",
         "brand": "Scania",
         "code": "6839",
         "image": "img/products/Scania 111/pista-rodamiento-caja-3-y-4-imp-6839.jpg",
-        "description": "PISTA RODAMIENTO CAJA 3º Y 4º IMP. 6839"
+        "description": "PISTA RODAMIENTO CAJA 3Âº Y 4Âº IMP. 6839"
     },
     {
         "id": "P2896",
@@ -26381,19 +26381,19 @@ const products = [
     },
     {
         "id": "P2905",
-        "name": "PISTON CON PERNO Y AROS 0.10” COMPRESOR KNORR 92MM. A-TECH",
+        "name": "PISTON CON PERNO Y AROS 0.10â€ COMPRESOR KNORR 92MM. A-TECH",
         "brand": "Scania",
         "code": "6054",
         "image": "img/products/Scania 111/piston-con-perno-y-aros-0-10-compresor-knorr-92mm-a-tech-6054.jpg",
-        "description": "PISTON CON PERNO Y AROS 0.10” COMPRESOR KNORR 92MM. A-TECH 6054"
+        "description": "PISTON CON PERNO Y AROS 0.10â€ COMPRESOR KNORR 92MM. A-TECH 6054"
     },
     {
         "id": "P2906",
-        "name": "PISTON CON PERNO Y AROS 0.20” COMPRESOR KNORR 92MM. A-TECH",
+        "name": "PISTON CON PERNO Y AROS 0.20â€ COMPRESOR KNORR 92MM. A-TECH",
         "brand": "Scania",
         "code": "6055",
         "image": "img/products/Scania 111/piston-con-perno-y-aros-0-20-compresor-knorr-92mm-a-tech-6055.jpg",
-        "description": "PISTON CON PERNO Y AROS 0.20” COMPRESOR KNORR 92MM. A-TECH 6055"
+        "description": "PISTON CON PERNO Y AROS 0.20â€ COMPRESOR KNORR 92MM. A-TECH 6055"
     },
     {
         "id": "P2907",
@@ -26461,11 +26461,11 @@ const products = [
     },
     {
         "id": "P2915",
-        "name": "CAÑO RIGIDO LUBRICACION DEL FILTRO AL CARTER DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O RIGIDO LUBRICACION DEL FILTRO AL CARTER DEL COMPRESOR INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "5417",
         "image": "img/products/Scania 111/cano-rigido-lubricacion-del-filtro-al-carter-del-compresor-industria-argentina-5417.jpg",
-        "description": "CAÑO RIGIDO LUBRICACION DEL FILTRO AL CARTER DEL COMPRESOR INDUSTRIA ARGENTINA 5417"
+        "description": "CAÃ‘O RIGIDO LUBRICACION DEL FILTRO AL CARTER DEL COMPRESOR INDUSTRIA ARGENTINA 5417"
     },
     {
         "id": "P2916",
@@ -26605,99 +26605,99 @@ const products = [
     },
     {
         "id": "P2933",
-        "name": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 1 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4805",
         "image": "img/products/Scania 111/cano-inyector-n-1-industria-argentina-4805.jpg",
-        "description": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA 4805"
+        "description": "CAÃ‘O INYECTOR NÂº 1 INDUSTRIA ARGENTINA 4805"
     },
     {
         "id": "P2934",
-        "name": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 2 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4806",
         "image": "img/products/Scania 111/cano-inyector-n-2-industria-argentina-4806.jpg",
-        "description": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA 4806"
+        "description": "CAÃ‘O INYECTOR NÂº 2 INDUSTRIA ARGENTINA 4806"
     },
     {
         "id": "P2935",
-        "name": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 3 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4807",
         "image": "img/products/Scania 111/cano-inyector-n-3-industria-argentina-4807.jpg",
-        "description": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA 4807"
+        "description": "CAÃ‘O INYECTOR NÂº 3 INDUSTRIA ARGENTINA 4807"
     },
     {
         "id": "P2936",
-        "name": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 4 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4808",
         "image": "img/products/Scania 111/cano-inyector-n-4-industria-argentina-4808.jpg",
-        "description": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA 4808"
+        "description": "CAÃ‘O INYECTOR NÂº 4 INDUSTRIA ARGENTINA 4808"
     },
     {
         "id": "P2937",
-        "name": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 5 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4809",
         "image": "img/products/Scania 111/cano-inyector-n-5-industria-argentina-4809.jpg",
-        "description": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA 4809"
+        "description": "CAÃ‘O INYECTOR NÂº 5 INDUSTRIA ARGENTINA 4809"
     },
     {
         "id": "P2938",
-        "name": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 6 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4810",
         "image": "img/products/Scania 111/cano-inyector-n-6-industria-argentina-4810.jpg",
-        "description": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA 4810"
+        "description": "CAÃ‘O INYECTOR NÂº 6 INDUSTRIA ARGENTINA 4810"
     },
     {
         "id": "P2939",
-        "name": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 1 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4799",
         "image": "img/products/Scania 111/cano-inyector-n-1-industria-argentina-4799.jpg",
-        "description": "CAÑO INYECTOR Nº 1 INDUSTRIA ARGENTINA 4799"
+        "description": "CAÃ‘O INYECTOR NÂº 1 INDUSTRIA ARGENTINA 4799"
     },
     {
         "id": "P2940",
-        "name": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 2 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4800",
         "image": "img/products/Scania 111/cano-inyector-n-2-industria-argentina-4800.jpg",
-        "description": "CAÑO INYECTOR Nº 2 INDUSTRIA ARGENTINA 4800"
+        "description": "CAÃ‘O INYECTOR NÂº 2 INDUSTRIA ARGENTINA 4800"
     },
     {
         "id": "P2941",
-        "name": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 3 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4801",
         "image": "img/products/Scania 111/cano-inyector-n-3-industria-argentina-4801.jpg",
-        "description": "CAÑO INYECTOR Nº 3 INDUSTRIA ARGENTINA 4801"
+        "description": "CAÃ‘O INYECTOR NÂº 3 INDUSTRIA ARGENTINA 4801"
     },
     {
         "id": "P2942",
-        "name": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 4 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4802",
         "image": "img/products/Scania 111/cano-inyector-n-4-industria-argentina-4802.jpg",
-        "description": "CAÑO INYECTOR Nº 4 INDUSTRIA ARGENTINA 4802"
+        "description": "CAÃ‘O INYECTOR NÂº 4 INDUSTRIA ARGENTINA 4802"
     },
     {
         "id": "P2943",
-        "name": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 5 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4803",
         "image": "img/products/Scania 111/cano-inyector-n-5-industria-argentina-4803.jpg",
-        "description": "CAÑO INYECTOR Nº 5 INDUSTRIA ARGENTINA 4803"
+        "description": "CAÃ‘O INYECTOR NÂº 5 INDUSTRIA ARGENTINA 4803"
     },
     {
         "id": "P2944",
-        "name": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA",
+        "name": "CAÃ‘O INYECTOR NÂº 6 INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4804",
         "image": "img/products/Scania 111/cano-inyector-n-6-industria-argentina-4804.jpg",
-        "description": "CAÑO INYECTOR Nº 6 INDUSTRIA ARGENTINA 4804"
+        "description": "CAÃ‘O INYECTOR NÂº 6 INDUSTRIA ARGENTINA 4804"
     },
     {
         "id": "P2945",
@@ -26749,11 +26749,11 @@ const products = [
     },
     {
         "id": "P2951",
-        "name": "POLEA CIGUEÑAL 2 CANALES INDUSTRIA ARGENTINA",
+        "name": "POLEA CIGUEÃ‘AL 2 CANALES INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "4489",
         "image": "img/products/Scania 111/polea-ciguenal-2-canales-industria-argentina-4489.jpg",
-        "description": "POLEA CIGUEÑAL 2 CANALES INDUSTRIA ARGENTINA 4489"
+        "description": "POLEA CIGUEÃ‘AL 2 CANALES INDUSTRIA ARGENTINA 4489"
     },
     {
         "id": "P2952",
@@ -26781,11 +26781,11 @@ const products = [
     },
     {
         "id": "P2955",
-        "name": "TERMOSTATO 71º WAHLER",
+        "name": "TERMOSTATO 71Âº WAHLER",
         "brand": "Scania",
         "code": "4124",
         "image": "img/products/Scania 111/termostato-71-wahler-4124.jpg",
-        "description": "TERMOSTATO 71º WAHLER 4124"
+        "description": "TERMOSTATO 71Âº WAHLER 4124"
     },
     {
         "id": "P2956",
@@ -26797,11 +26797,11 @@ const products = [
     },
     {
         "id": "P2957",
-        "name": "CIGUEÑAL COMPRESOR VARGA 70MM. EL1600 BEL-AR",
+        "name": "CIGUEÃ‘AL COMPRESOR VARGA 70MM. EL1600 BEL-AR",
         "brand": "Scania",
         "code": "4104",
         "image": "img/products/Scania 111/ciguenal-compresor-varga-70mm-el1600-bel-ar-4104.jpg",
-        "description": "CIGUEÑAL COMPRESOR VARGA 70MM. EL1600 BEL-AR 4104"
+        "description": "CIGUEÃ‘AL COMPRESOR VARGA 70MM. EL1600 BEL-AR 4104"
     },
     {
         "id": "P2958",
@@ -26821,11 +26821,11 @@ const products = [
     },
     {
         "id": "P2960",
-        "name": "CHAVETA CIGUEÑAL CIPEC",
+        "name": "CHAVETA CIGUEÃ‘AL CIPEC",
         "brand": "Scania",
         "code": "3953",
         "image": "img/products/Scania 111/chaveta-ciguenal-cipec-3953.jpg",
-        "description": "CHAVETA CIGUEÑAL CIPEC 3953"
+        "description": "CHAVETA CIGUEÃ‘AL CIPEC 3953"
     },
     {
         "id": "P2961",
@@ -26853,11 +26853,11 @@ const products = [
     },
     {
         "id": "P2964",
-        "name": "INTERRUPTOR MARCHA ATRÁS CAJA DE CAMBIOS 3-RHO",
+        "name": "INTERRUPTOR MARCHA ATRÃS CAJA DE CAMBIOS 3-RHO",
         "brand": "Scania",
         "code": "3514",
         "image": "img/products/Scania 111/interruptor-marcha-atras-caja-de-cambios-3-rho-3514.jpg",
-        "description": "INTERRUPTOR MARCHA ATRÁS CAJA DE CAMBIOS 3-RHO 3514"
+        "description": "INTERRUPTOR MARCHA ATRÃS CAJA DE CAMBIOS 3-RHO 3514"
     },
     {
         "id": "P2965",
@@ -26893,11 +26893,11 @@ const products = [
     },
     {
         "id": "P2969",
-        "name": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2”) 90 X 70 MM. TF&P TECHNOLOGY",
+        "name": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2â€) 90 X 70 MM. TF&P TECHNOLOGY",
         "brand": "Scania",
         "code": "3286",
         "image": "img/products/Scania 111/manguera-turbo-a-filtro-de-aire-silicona-roja-3-1-2-90-x-70-mm-tf-p-technology-3286.jpg",
-        "description": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2”) 90 X 70 MM. TF&P TECHNOLOGY 3286"
+        "description": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2â€) 90 X 70 MM. TF&P TECHNOLOGY 3286"
     },
     {
         "id": "P2970",
@@ -26909,11 +26909,11 @@ const products = [
     },
     {
         "id": "P2971",
-        "name": "EMPUÑADURA PALANCA DE CAMBIOS 10 MARCHAS IMP.",
+        "name": "EMPUÃ‘ADURA PALANCA DE CAMBIOS 10 MARCHAS IMP.",
         "brand": "Scania",
         "code": "3175",
         "image": "img/products/Scania 111/empunadura-palanca-de-cambios-10-marchas-imp-3175.jpg",
-        "description": "EMPUÑADURA PALANCA DE CAMBIOS 10 MARCHAS IMP. 3175"
+        "description": "EMPUÃ‘ADURA PALANCA DE CAMBIOS 10 MARCHAS IMP. 3175"
     },
     {
         "id": "P2972",
@@ -26941,11 +26941,11 @@ const products = [
     },
     {
         "id": "P2975",
-        "name": "ASIENTO RESORTE CAMARA TRISTOP WABCO TIPO G 24/24” QUINELATO",
+        "name": "ASIENTO RESORTE CAMARA TRISTOP WABCO TIPO G 24/24â€ QUINELATO",
         "brand": "Scania",
         "code": "2910",
         "image": "img/products/Scania 111/asiento-resorte-camara-tristop-wabco-tipo-g-24-24-quinelato-2910.jpg",
-        "description": "ASIENTO RESORTE CAMARA TRISTOP WABCO TIPO G 24/24” QUINELATO 2910"
+        "description": "ASIENTO RESORTE CAMARA TRISTOP WABCO TIPO G 24/24â€ QUINELATO 2910"
     },
     {
         "id": "P2976",
@@ -27077,19 +27077,19 @@ const products = [
     },
     {
         "id": "P2992",
-        "name": "TERMOSTATO 75º / CHICO WAHLER",
+        "name": "TERMOSTATO 75Âº / CHICO WAHLER",
         "brand": "Scania",
         "code": "2661",
         "image": "img/products/Scania 111/termostato-75-chico-wahler-2661.jpg",
-        "description": "TERMOSTATO 75º / CHICO WAHLER 2661"
+        "description": "TERMOSTATO 75Âº / CHICO WAHLER 2661"
     },
     {
         "id": "P2993",
-        "name": "TERMOSTATO 79º / CHICO BORG WARNER",
+        "name": "TERMOSTATO 79Âº / CHICO BORG WARNER",
         "brand": "Scania",
         "code": "2662",
         "image": "img/products/Scania 111/termostato-79-chico-borg-warner-2662.jpg",
-        "description": "TERMOSTATO 79º / CHICO BORG WARNER 2662"
+        "description": "TERMOSTATO 79Âº / CHICO BORG WARNER 2662"
     },
     {
         "id": "P2994",
@@ -27117,19 +27117,19 @@ const products = [
     },
     {
         "id": "P2997",
-        "name": "JGO. AROS. 0.10” COMPRESOR KNORR 92MM. BEL-AR",
+        "name": "JGO. AROS. 0.10â€ COMPRESOR KNORR 92MM. BEL-AR",
         "brand": "Scania",
         "code": "2619",
         "image": "img/products/Scania 111/jgo-aros-0-10-compresor-knorr-92mm-bel-ar-2619.jpg",
-        "description": "JGO. AROS. 0.10” COMPRESOR KNORR 92MM. BEL-AR 2619"
+        "description": "JGO. AROS. 0.10â€ COMPRESOR KNORR 92MM. BEL-AR 2619"
     },
     {
         "id": "P2998",
-        "name": "REP. CIGUEÑAL COMPRESOR KNORR 92MM. LK3976 BEL-AR",
+        "name": "REP. CIGUEÃ‘AL COMPRESOR KNORR 92MM. LK3976 BEL-AR",
         "brand": "Scania",
         "code": "2620",
         "image": "img/products/Scania 111/rep-ciguenal-compresor-knorr-92mm-lk3976-bel-ar-2620.jpg",
-        "description": "REP. CIGUEÑAL COMPRESOR KNORR 92MM. LK3976 BEL-AR 2620"
+        "description": "REP. CIGUEÃ‘AL COMPRESOR KNORR 92MM. LK3976 BEL-AR 2620"
     },
     {
         "id": "P2999",
@@ -27149,11 +27149,11 @@ const products = [
     },
     {
         "id": "P3001",
-        "name": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE METALICO R. 1/2” BEL-AR",
+        "name": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE METALICO R. 1/2â€ BEL-AR",
         "brand": "Scania",
         "code": "2588",
         "image": "img/products/Scania 111/valvula-retencion-simple-bendix-con-cierre-metalico-r-1-2-bel-ar-2588.jpg",
-        "description": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE METALICO R. 1/2” BEL-AR 2588"
+        "description": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE METALICO R. 1/2â€ BEL-AR 2588"
     },
     {
         "id": "P3002",
@@ -27237,11 +27237,11 @@ const products = [
     },
     {
         "id": "P3012",
-        "name": "REP. CILINDRO TRISTOP TIPO G 24/24” QUINELATO",
+        "name": "REP. CILINDRO TRISTOP TIPO G 24/24â€ QUINELATO",
         "brand": "Scania",
         "code": "2215",
         "image": "img/products/Scania 111/rep-cilindro-tristop-tipo-g-24-24-quinelato-2215.jpg",
-        "description": "REP. CILINDRO TRISTOP TIPO G 24/24” QUINELATO 2215"
+        "description": "REP. CILINDRO TRISTOP TIPO G 24/24â€ QUINELATO 2215"
     },
     {
         "id": "P3013",
@@ -27293,11 +27293,11 @@ const products = [
     },
     {
         "id": "P3019",
-        "name": "GUIA VÁLVULA ATMOSFERICA PARA SERVOEMBRAGUE WABCO QUINELATO",
+        "name": "GUIA VÃLVULA ATMOSFERICA PARA SERVOEMBRAGUE WABCO QUINELATO",
         "brand": "Scania",
         "code": "2088",
         "image": "img/products/Scania 111/guia-valvula-atmosferica-para-servoembrague-wabco-quinelato-2088.jpg",
-        "description": "GUIA VÁLVULA ATMOSFERICA PARA SERVOEMBRAGUE WABCO QUINELATO 2088"
+        "description": "GUIA VÃLVULA ATMOSFERICA PARA SERVOEMBRAGUE WABCO QUINELATO 2088"
     },
     {
         "id": "P3020",
@@ -27325,11 +27325,11 @@ const products = [
     },
     {
         "id": "P3023",
-        "name": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE DE GOMA R. 1/2” QUINELATO",
+        "name": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE DE GOMA R. 1/2â€ QUINELATO",
         "brand": "Scania",
         "code": "2065",
         "image": "img/products/Scania 111/valvula-retencion-simple-bendix-con-cierre-de-goma-r-1-2-quinelato-2065.jpg",
-        "description": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE DE GOMA R. 1/2” QUINELATO 2065"
+        "description": "VALVULA RETENCION SIMPLE BENDIX CON CIERRE DE GOMA R. 1/2â€ QUINELATO 2065"
     },
     {
         "id": "P3024",
@@ -27429,11 +27429,11 @@ const products = [
     },
     {
         "id": "P3036",
-        "name": "JGO. AROS. 0.20″ COMPRESOR KNORR 92MM. A-TECH",
+        "name": "JGO. AROS. 0.20â€³ COMPRESOR KNORR 92MM. A-TECH",
         "brand": "Scania",
         "code": "1715",
         "image": "img/products/Scania 111/jgo-aros-0-20-compresor-knorr-92mm-a-tech-1715.jpg",
-        "description": "JGO. AROS. 0.20″ COMPRESOR KNORR 92MM. A-TECH 1715"
+        "description": "JGO. AROS. 0.20â€³ COMPRESOR KNORR 92MM. A-TECH 1715"
     },
     {
         "id": "P3037",
@@ -27525,11 +27525,11 @@ const products = [
     },
     {
         "id": "P3048",
-        "name": "ENGRANAJE MARCHA ATRÁS / 19 DIENTES CINPAL",
+        "name": "ENGRANAJE MARCHA ATRÃS / 19 DIENTES CINPAL",
         "brand": "Scania",
         "code": "14468",
         "image": "img/products/Scania 111/engranaje-marcha-atras-19-dientes-cinpal-14468.jpg",
-        "description": "ENGRANAJE MARCHA ATRÁS / 19 DIENTES CINPAL 14468"
+        "description": "ENGRANAJE MARCHA ATRÃS / 19 DIENTES CINPAL 14468"
     },
     {
         "id": "P3049",
@@ -27541,11 +27541,11 @@ const products = [
     },
     {
         "id": "P3050",
-        "name": "ENGRANAJE CIGUEÑAL -0.10 MM CINPAL",
+        "name": "ENGRANAJE CIGUEÃ‘AL -0.10 MM CINPAL",
         "brand": "Scania",
         "code": "14472",
         "image": "img/products/Scania 111/engranaje-ciguenal-0-10-mm-cinpal-14472.jpg",
-        "description": "ENGRANAJE CIGUEÑAL -0.10 MM CINPAL 14472"
+        "description": "ENGRANAJE CIGUEÃ‘AL -0.10 MM CINPAL 14472"
     },
     {
         "id": "P3051",
@@ -27565,19 +27565,19 @@ const products = [
     },
     {
         "id": "P3053",
-        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.10″ QUINELATO",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.10â€³ QUINELATO",
         "brand": "Scania",
         "code": "14314",
         "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-knorr-92mm-0-10-quinelato-14314.jpg",
-        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.10″ QUINELATO 14314"
+        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.10â€³ QUINELATO 14314"
     },
     {
         "id": "P3054",
-        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.20″ QUINELATO",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.20â€³ QUINELATO",
         "brand": "Scania",
         "code": "14315",
         "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-knorr-92mm-0-20-quinelato-14315.jpg",
-        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.20″ QUINELATO 14315"
+        "description": "PISTON CON PERNO Y AROS COMPRESOR KNORR 92MM. 0.20â€³ QUINELATO 14315"
     },
     {
         "id": "P3055",
@@ -27589,19 +27589,19 @@ const products = [
     },
     {
         "id": "P3056",
-        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.10″ QUINELATO",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.10â€³ QUINELATO",
         "brand": "Scania",
         "code": "14317",
         "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-wabco-85mm-0-10-quinelato-14317.jpg",
-        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.10″ QUINELATO 14317"
+        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.10â€³ QUINELATO 14317"
     },
     {
         "id": "P3057",
-        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.20″ QUINELATO",
+        "name": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.20â€³ QUINELATO",
         "brand": "Scania",
         "code": "14318",
         "image": "img/products/Scania 111/piston-con-perno-y-aros-compresor-wabco-85mm-0-20-quinelato-14318.jpg",
-        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.20″ QUINELATO 14318"
+        "description": "PISTON CON PERNO Y AROS COMPRESOR WABCO 85MM. 0.20â€³ QUINELATO 14318"
     },
     {
         "id": "P3058",
@@ -27789,11 +27789,11 @@ const products = [
     },
     {
         "id": "P3081",
-        "name": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRAS CINPAL",
+        "name": "CONJUNTO SINCRONIZADO 1Âº Y MARCHA ATRAS CINPAL",
         "brand": "Scania",
         "code": "13580",
         "image": "img/products/Scania 111/conjunto-sincronizado-1-y-marcha-atras-cinpal-13580.jpg",
-        "description": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRAS CINPAL 13580"
+        "description": "CONJUNTO SINCRONIZADO 1Âº Y MARCHA ATRAS CINPAL 13580"
     },
     {
         "id": "P3082",
@@ -27813,19 +27813,19 @@ const products = [
     },
     {
         "id": "P3084",
-        "name": "ENGRANAJE CIGUEÑAL -0.20 MMM. CINPAL",
+        "name": "ENGRANAJE CIGUEÃ‘AL -0.20 MMM. CINPAL",
         "brand": "Scania",
         "code": "13550",
         "image": "img/products/Scania 111/engranaje-ciguenal-0-20-mmm-cinpal-13550.jpg",
-        "description": "ENGRANAJE CIGUEÑAL -0.20 MMM. CINPAL 13550"
+        "description": "ENGRANAJE CIGUEÃ‘AL -0.20 MMM. CINPAL 13550"
     },
     {
         "id": "P3085",
-        "name": "ENGRANAJE CIGUEÑAL -0.30 MM CINPAL",
+        "name": "ENGRANAJE CIGUEÃ‘AL -0.30 MM CINPAL",
         "brand": "Scania",
         "code": "13551",
         "image": "img/products/Scania 111/engranaje-ciguenal-0-30-mm-cinpal-13551.jpg",
-        "description": "ENGRANAJE CIGUEÑAL -0.30 MM CINPAL 13551"
+        "description": "ENGRANAJE CIGUEÃ‘AL -0.30 MM CINPAL 13551"
     },
     {
         "id": "P3086",
@@ -27837,11 +27837,11 @@ const products = [
     },
     {
         "id": "P3087",
-        "name": "CONO SINCRONIZADO / ACOPLE DE 1º Y 2º CINPAL",
+        "name": "CONO SINCRONIZADO / ACOPLE DE 1Âº Y 2Âº CINPAL",
         "brand": "Scania",
         "code": "13561",
         "image": "img/products/Scania 111/cono-sincronizado-acople-de-1-y-2-cinpal-13561.jpg",
-        "description": "CONO SINCRONIZADO / ACOPLE DE 1º Y 2º CINPAL 13561"
+        "description": "CONO SINCRONIZADO / ACOPLE DE 1Âº Y 2Âº CINPAL 13561"
     },
     {
         "id": "P3088",
@@ -27973,11 +27973,11 @@ const products = [
     },
     {
         "id": "P3104",
-        "name": "VALVULA DRENAJE MACHO/HEMBRA 1/4″ CON ESFERA DE ACERO INOXIDABLE CIPEC",
+        "name": "VALVULA DRENAJE MACHO/HEMBRA 1/4â€³ CON ESFERA DE ACERO INOXIDABLE CIPEC",
         "brand": "Scania",
         "code": "13180",
         "image": "img/products/Scania 111/valvula-drenaje-macho-hembra-1-4-con-esfera-de-acero-inoxidable-cipec-13180.jpg",
-        "description": "VALVULA DRENAJE MACHO/HEMBRA 1/4″ CON ESFERA DE ACERO INOXIDABLE CIPEC 13180"
+        "description": "VALVULA DRENAJE MACHO/HEMBRA 1/4â€³ CON ESFERA DE ACERO INOXIDABLE CIPEC 13180"
     },
     {
         "id": "P3105",
@@ -28013,11 +28013,11 @@ const products = [
     },
     {
         "id": "P3109",
-        "name": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA INDUSTRIA ARGENTINA",
+        "name": "TUERCA REFORMA CARDAN / PIÃ‘ON / SALIDA DE CAJA INDUSTRIA ARGENTINA",
         "brand": "Scania",
         "code": "13127",
         "image": "img/products/Scania 111/tuerca-reforma-cardan-pinon-salida-de-caja-industria-argentina-13127.jpg",
-        "description": "TUERCA REFORMA CARDAN / PIÑON / SALIDA DE CAJA INDUSTRIA ARGENTINA 13127"
+        "description": "TUERCA REFORMA CARDAN / PIÃ‘ON / SALIDA DE CAJA INDUSTRIA ARGENTINA 13127"
     },
     {
         "id": "P3110",
@@ -28077,19 +28077,19 @@ const products = [
     },
     {
         "id": "P3117",
-        "name": "BULON MEDIA BANCADA CIGUEÑAL CIPEC",
+        "name": "BULON MEDIA BANCADA CIGUEÃ‘AL CIPEC",
         "brand": "Scania",
         "code": "12578",
         "image": "img/products/Scania 111/bulon-media-bancada-ciguenal-cipec-12578.jpg",
-        "description": "BULON MEDIA BANCADA CIGUEÑAL CIPEC 12578"
+        "description": "BULON MEDIA BANCADA CIGUEÃ‘AL CIPEC 12578"
     },
     {
         "id": "P3118",
-        "name": "PERNO ACCIONAMIENTO INTERRUPTOR MARCHA ATRÁS CIPEC",
+        "name": "PERNO ACCIONAMIENTO INTERRUPTOR MARCHA ATRÃS CIPEC",
         "brand": "Scania",
         "code": "12580",
         "image": "img/products/Scania 111/perno-accionamiento-interruptor-marcha-atras-cipec-12580.jpg",
-        "description": "PERNO ACCIONAMIENTO INTERRUPTOR MARCHA ATRÁS CIPEC 12580"
+        "description": "PERNO ACCIONAMIENTO INTERRUPTOR MARCHA ATRÃS CIPEC 12580"
     },
     {
         "id": "P3119",
@@ -28109,11 +28109,11 @@ const products = [
     },
     {
         "id": "P3121",
-        "name": "ENGRANAJE CIGUEÑAL STD. CINPAL",
+        "name": "ENGRANAJE CIGUEÃ‘AL STD. CINPAL",
         "brand": "Scania",
         "code": "12586",
         "image": "img/products/Scania 111/engranaje-ciguenal-std-cinpal-12586.jpg",
-        "description": "ENGRANAJE CIGUEÑAL STD. CINPAL 12586"
+        "description": "ENGRANAJE CIGUEÃ‘AL STD. CINPAL 12586"
     },
     {
         "id": "P3122",
@@ -28125,11 +28125,11 @@ const products = [
     },
     {
         "id": "P3123",
-        "name": "DEFLECTOR BRIDA PIÑON DIFERENCIAL / CARDAN Y SALIDA DE CAJA CIPEC",
+        "name": "DEFLECTOR BRIDA PIÃ‘ON DIFERENCIAL / CARDAN Y SALIDA DE CAJA CIPEC",
         "brand": "Scania",
         "code": "12561",
         "image": "img/products/Scania 111/deflector-brida-pinon-diferencial-cardan-y-salida-de-caja-cipec-12561.jpg",
-        "description": "DEFLECTOR BRIDA PIÑON DIFERENCIAL / CARDAN Y SALIDA DE CAJA CIPEC 12561"
+        "description": "DEFLECTOR BRIDA PIÃ‘ON DIFERENCIAL / CARDAN Y SALIDA DE CAJA CIPEC 12561"
     },
     {
         "id": "P3124",
@@ -28245,11 +28245,11 @@ const products = [
     },
     {
         "id": "P3138",
-        "name": "PUÑO REDONDO NEGRO PARA VALVULA FRENO DE MANO WABCO QUINELATO",
+        "name": "PUÃ‘O REDONDO NEGRO PARA VALVULA FRENO DE MANO WABCO QUINELATO",
         "brand": "Scania",
         "code": "1166",
         "image": "img/products/Scania 111/puno-redondo-negro-para-valvula-freno-de-mano-wabco-quinelato-1166.jpg",
-        "description": "PUÑO REDONDO NEGRO PARA VALVULA FRENO DE MANO WABCO QUINELATO 1166"
+        "description": "PUÃ‘O REDONDO NEGRO PARA VALVULA FRENO DE MANO WABCO QUINELATO 1166"
     },
     {
         "id": "P3139",
@@ -28261,11 +28261,11 @@ const products = [
     },
     {
         "id": "P3140",
-        "name": "ANILLO SINCRONIZADO DE 1º A 5º CINPAL",
+        "name": "ANILLO SINCRONIZADO DE 1Âº A 5Âº CINPAL",
         "brand": "Scania",
         "code": "11644",
         "image": "img/products/Scania 111/anillo-sincronizado-de-1-a-5-cinpal-11644.jpg",
-        "description": "ANILLO SINCRONIZADO DE 1º A 5º CINPAL 11644"
+        "description": "ANILLO SINCRONIZADO DE 1Âº A 5Âº CINPAL 11644"
     },
     {
         "id": "P3141",
@@ -28277,11 +28277,11 @@ const products = [
     },
     {
         "id": "P3142",
-        "name": "ENGRANAJE 1º MOVIL / 34 DIENTES CINPAL",
+        "name": "ENGRANAJE 1Âº MOVIL / 34 DIENTES CINPAL",
         "brand": "Scania",
         "code": "11570",
         "image": "img/products/Scania 111/engranaje-1-movil-34-dientes-cinpal-11570.jpg",
-        "description": "ENGRANAJE 1º MOVIL / 34 DIENTES CINPAL 11570"
+        "description": "ENGRANAJE 1Âº MOVIL / 34 DIENTES CINPAL 11570"
     },
     {
         "id": "P3143",
@@ -28357,11 +28357,11 @@ const products = [
     },
     {
         "id": "P3152",
-        "name": "PISTA RODAMIENTO CAJA 3º Y 4º / DIAM. 46MM. CINPAL",
+        "name": "PISTA RODAMIENTO CAJA 3Âº Y 4Âº / DIAM. 46MM. CINPAL",
         "brand": "Scania",
         "code": "10806",
         "image": "img/products/Scania 111/pista-rodamiento-caja-3-y-4-diam-46mm-cinpal-10806.jpg",
-        "description": "PISTA RODAMIENTO CAJA 3º Y 4º / DIAM. 46MM. CINPAL 10806"
+        "description": "PISTA RODAMIENTO CAJA 3Âº Y 4Âº / DIAM. 46MM. CINPAL 10806"
     },
     {
         "id": "P3153",
@@ -28397,19 +28397,19 @@ const products = [
     },
     {
         "id": "P3157",
-        "name": "ENGRANAJE INTERIOR 4º Y 5º CINPAL",
+        "name": "ENGRANAJE INTERIOR 4Âº Y 5Âº CINPAL",
         "brand": "Scania",
         "code": "10770",
         "image": "img/products/Scania 111/engranaje-interior-4-y-5-cinpal-10770.jpg",
-        "description": "ENGRANAJE INTERIOR 4º Y 5º CINPAL 10770"
+        "description": "ENGRANAJE INTERIOR 4Âº Y 5Âº CINPAL 10770"
     },
     {
         "id": "P3158",
-        "name": "ENGRANAJE INTERIOR 2º, 3º Y MARCHA ATRAS CINPAL",
+        "name": "ENGRANAJE INTERIOR 2Âº, 3Âº Y MARCHA ATRAS CINPAL",
         "brand": "Scania",
         "code": "10771",
         "image": "img/products/Scania 111/engranaje-interior-2-3-y-marcha-atras-cinpal-10771.jpg",
-        "description": "ENGRANAJE INTERIOR 2º, 3º Y MARCHA ATRAS CINPAL 10771"
+        "description": "ENGRANAJE INTERIOR 2Âº, 3Âº Y MARCHA ATRAS CINPAL 10771"
     },
     {
         "id": "P3159",
@@ -28421,11 +28421,11 @@ const products = [
     },
     {
         "id": "P3160",
-        "name": "ACOPLE SINCRONIZADO LISO 1º, 2º, 3º, 4º, 5º CINPAL",
+        "name": "ACOPLE SINCRONIZADO LISO 1Âº, 2Âº, 3Âº, 4Âº, 5Âº CINPAL",
         "brand": "Scania",
         "code": "10773",
         "image": "img/products/Scania 111/acople-sincronizado-liso-1-2-3-4-5-cinpal-10773.jpg",
-        "description": "ACOPLE SINCRONIZADO LISO 1º, 2º, 3º, 4º, 5º CINPAL 10773"
+        "description": "ACOPLE SINCRONIZADO LISO 1Âº, 2Âº, 3Âº, 4Âº, 5Âº CINPAL 10773"
     },
     {
         "id": "P3161",
@@ -28485,43 +28485,43 @@ const products = [
     },
     {
         "id": "P3168",
-        "name": "ENGRANAJE 3º FIJO / 30 DIENTES CINPAL",
+        "name": "ENGRANAJE 3Âº FIJO / 30 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10710",
         "image": "img/products/Scania 111/engranaje-3-fijo-30-dientes-cinpal-10710.jpg",
-        "description": "ENGRANAJE 3º FIJO / 30 DIENTES CINPAL 10710"
+        "description": "ENGRANAJE 3Âº FIJO / 30 DIENTES CINPAL 10710"
     },
     {
         "id": "P3169",
-        "name": "ENGRANAJE 3º MOVIL / 30 DIENTES CINPAL",
+        "name": "ENGRANAJE 3Âº MOVIL / 30 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10711",
         "image": "img/products/Scania 111/engranaje-3-movil-30-dientes-cinpal-10711.jpg",
-        "description": "ENGRANAJE 3º MOVIL / 30 DIENTES CINPAL 10711"
+        "description": "ENGRANAJE 3Âº MOVIL / 30 DIENTES CINPAL 10711"
     },
     {
         "id": "P3170",
-        "name": "ENGRANAJE 5º INFERIOR / 41 DIENTES CINPAL",
+        "name": "ENGRANAJE 5Âº INFERIOR / 41 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10712",
         "image": "img/products/Scania 111/engranaje-5-inferior-41-dientes-cinpal-10712.jpg",
-        "description": "ENGRANAJE 5º INFERIOR / 41 DIENTES CINPAL 10712"
+        "description": "ENGRANAJE 5Âº INFERIOR / 41 DIENTES CINPAL 10712"
     },
     {
         "id": "P3171",
-        "name": "ENGRANAJE 2º FIJO / 24 DIENTES CINPAL",
+        "name": "ENGRANAJE 2Âº FIJO / 24 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10713",
         "image": "img/products/Scania 111/engranaje-2-fijo-24-dientes-cinpal-10713.jpg",
-        "description": "ENGRANAJE 2º FIJO / 24 DIENTES CINPAL 10713"
+        "description": "ENGRANAJE 2Âº FIJO / 24 DIENTES CINPAL 10713"
     },
     {
         "id": "P3172",
-        "name": "ENGRANAJE 1º MOVIL / 24 DIENTES CINPAL",
+        "name": "ENGRANAJE 1Âº MOVIL / 24 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10715",
         "image": "img/products/Scania 111/engranaje-1-movil-24-dientes-cinpal-10715.jpg",
-        "description": "ENGRANAJE 1º MOVIL / 24 DIENTES CINPAL 10715"
+        "description": "ENGRANAJE 1Âº MOVIL / 24 DIENTES CINPAL 10715"
     },
     {
         "id": "P3173",
@@ -28533,11 +28533,11 @@ const products = [
     },
     {
         "id": "P3174",
-        "name": "ENGRANAJE 2º MOVIL / 32 DIENTES CINPAL",
+        "name": "ENGRANAJE 2Âº MOVIL / 32 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10718",
         "image": "img/products/Scania 111/engranaje-2-movil-32-dientes-cinpal-10718.jpg",
-        "description": "ENGRANAJE 2º MOVIL / 32 DIENTES CINPAL 10718"
+        "description": "ENGRANAJE 2Âº MOVIL / 32 DIENTES CINPAL 10718"
     },
     {
         "id": "P3175",
@@ -28557,35 +28557,35 @@ const products = [
     },
     {
         "id": "P3177",
-        "name": "ENGRANAJE 4º FIJO / 36 DIENTES CINPAL",
+        "name": "ENGRANAJE 4Âº FIJO / 36 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10708",
         "image": "img/products/Scania 111/engranaje-4-fijo-36-dientes-cinpal-10708.jpg",
-        "description": "ENGRANAJE 4º FIJO / 36 DIENTES CINPAL 10708"
+        "description": "ENGRANAJE 4Âº FIJO / 36 DIENTES CINPAL 10708"
     },
     {
         "id": "P3178",
-        "name": "ENGRANAJE 4º MOVIL / 27 DIENTES CINPAL",
+        "name": "ENGRANAJE 4Âº MOVIL / 27 DIENTES CINPAL",
         "brand": "Scania",
         "code": "10709",
         "image": "img/products/Scania 111/engranaje-4-movil-27-dientes-cinpal-10709.jpg",
-        "description": "ENGRANAJE 4º MOVIL / 27 DIENTES CINPAL 10709"
+        "description": "ENGRANAJE 4Âº MOVIL / 27 DIENTES CINPAL 10709"
     },
     {
         "id": "P3179",
-        "name": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRÁS CINPAL",
+        "name": "CONJUNTO SINCRONIZADO 1Âº Y MARCHA ATRÃS CINPAL",
         "brand": "Scania",
         "code": "10683",
         "image": "img/products/Scania 111/conjunto-sincronizado-1-y-marcha-atras-cinpal-10683.jpg",
-        "description": "CONJUNTO SINCRONIZADO 1º Y MARCHA ATRÁS CINPAL 10683"
+        "description": "CONJUNTO SINCRONIZADO 1Âº Y MARCHA ATRÃS CINPAL 10683"
     },
     {
         "id": "P3180",
-        "name": "CONJUNTO SINCRONIZADO 2º / 3º / 4º / 5º CINPAL",
+        "name": "CONJUNTO SINCRONIZADO 2Âº / 3Âº / 4Âº / 5Âº CINPAL",
         "brand": "Scania",
         "code": "10684",
         "image": "img/products/Scania 111/conjunto-sincronizado-2-3-4-5-cinpal-10684.jpg",
-        "description": "CONJUNTO SINCRONIZADO 2º / 3º / 4º / 5º CINPAL 10684"
+        "description": "CONJUNTO SINCRONIZADO 2Âº / 3Âº / 4Âº / 5Âº CINPAL 10684"
     },
     {
         "id": "P3181",
@@ -28717,11 +28717,11 @@ const products = [
     },
     {
         "id": "P3197",
-        "name": "RETEN PIÑON DIFERENCIAL SABO",
+        "name": "RETEN PIÃ‘ON DIFERENCIAL SABO",
         "brand": "Scania",
         "code": "10424",
         "image": "img/products/Scania 111/reten-pinon-diferencial-sabo-10424.jpg",
-        "description": "RETEN PIÑON DIFERENCIAL SABO 10424"
+        "description": "RETEN PIÃ‘ON DIFERENCIAL SABO 10424"
     },
     {
         "id": "P3198",
@@ -28837,11 +28837,11 @@ const products = [
     },
     {
         "id": "P3212",
-        "name": "TERMOSTATO 75º WAHLER",
+        "name": "TERMOSTATO 75Âº WAHLER",
         "brand": "Scania",
         "code": "0870",
         "image": "img/products/Scania 111/termostato-75-wahler-0870.jpg",
-        "description": "TERMOSTATO 75º WAHLER 0870"
+        "description": "TERMOSTATO 75Âº WAHLER 0870"
     },
     {
         "id": "P3213",
@@ -29008,7 +29008,7 @@ const products = [
         "name": "ACOPLE RAPIDO 4MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "10208",
-        "image": "img/products/Acoples/acople-rapido-4mm-plastico-con-cobre-tkl-10208.jpg",
+        "image": "img/products/Acople/acople-rapido-4mm-plastico-con-cobre-tkl-10208.jpg",
         "description": "ACOPLE RAPIDO 4MM. PLASTICO CON COBRE TKL 10208"
     },
     {
@@ -29016,7 +29016,7 @@ const products = [
         "name": "CONECTOR ACOPLE RAPIDO IMP.",
         "brand": "Importado",
         "code": "12378",
-        "image": "img/products/Acoples/conector-acople-rapido-imp-12378.jpg",
+        "image": "img/products/Acople/conector-acople-rapido-imp-12378.jpg",
         "description": "CONECTOR ACOPLE RAPIDO IMP. 12378"
     },
     {
@@ -29024,7 +29024,7 @@ const products = [
         "name": "ACOPLE RAPIDO 4MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5088",
-        "image": "img/products/Acoples/acople-rapido-4mm-plastico-tkl-5088.jpg",
+        "image": "img/products/Acople/acople-rapido-4mm-plastico-tkl-5088.jpg",
         "description": "ACOPLE RAPIDO 4MM. PLASTICO TKL 5088"
     },
     {
@@ -29032,7 +29032,7 @@ const products = [
         "name": "ACOPLE RAPIDO 6MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5121",
-        "image": "img/products/Acoples/acople-rapido-6mm-plastico-tkl-5121.jpg",
+        "image": "img/products/Acople/acople-rapido-6mm-plastico-tkl-5121.jpg",
         "description": "ACOPLE RAPIDO 6MM. PLASTICO TKL 5121"
     },
     {
@@ -29040,7 +29040,7 @@ const products = [
         "name": "ACOPLE RAPIDO 8MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5273",
-        "image": "img/products/Acoples/acople-rapido-8mm-plastico-tkl-5273.jpg",
+        "image": "img/products/Acople/acople-rapido-8mm-plastico-tkl-5273.jpg",
         "description": "ACOPLE RAPIDO 8MM. PLASTICO TKL 5273"
     },
     {
@@ -29048,7 +29048,7 @@ const products = [
         "name": "ACOPLE RAPIDO 10MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5313",
-        "image": "img/products/Acoples/acople-rapido-10mm-plastico-tkl-5313.jpg",
+        "image": "img/products/Acople/acople-rapido-10mm-plastico-tkl-5313.jpg",
         "description": "ACOPLE RAPIDO 10MM. PLASTICO TKL 5313"
     },
     {
@@ -29056,7 +29056,7 @@ const products = [
         "name": "ACOPLE RAPIDO 12MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5314",
-        "image": "img/products/Acoples/acople-rapido-12mm-plastico-tkl-5314.jpg",
+        "image": "img/products/Acople/acople-rapido-12mm-plastico-tkl-5314.jpg",
         "description": "ACOPLE RAPIDO 12MM. PLASTICO TKL 5314"
     },
     {
@@ -29064,7 +29064,7 @@ const products = [
         "name": "ACOPLE RAPIDO 16MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "5315",
-        "image": "img/products/Acoples/acople-rapido-16mm-plastico-con-cobre-tkl-5315.jpg",
+        "image": "img/products/Acople/acople-rapido-16mm-plastico-con-cobre-tkl-5315.jpg",
         "description": "ACOPLE RAPIDO 16MM. PLASTICO CON COBRE TKL 5315"
     },
     {
@@ -29072,7 +29072,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 4MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5316",
-        "image": "img/products/Acoples/acople-rapido-tee-4mm-plastico-tkl-5316.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-4mm-plastico-tkl-5316.jpg",
         "description": "ACOPLE RAPIDO TEE 4MM. PLASTICO TKL 5316"
     },
     {
@@ -29080,7 +29080,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 6MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5317",
-        "image": "img/products/Acoples/acople-rapido-tee-6mm-plastico-tkl-5317.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-6mm-plastico-tkl-5317.jpg",
         "description": "ACOPLE RAPIDO TEE 6MM. PLASTICO TKL 5317"
     },
     {
@@ -29088,7 +29088,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 8MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5318",
-        "image": "img/products/Acoples/acople-rapido-tee-8mm-plastico-tkl-5318.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-8mm-plastico-tkl-5318.jpg",
         "description": "ACOPLE RAPIDO TEE 8MM. PLASTICO TKL 5318"
     },
     {
@@ -29096,7 +29096,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 10MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5319",
-        "image": "img/products/Acoples/acople-rapido-tee-10mm-plastico-tkl-5319.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-10mm-plastico-tkl-5319.jpg",
         "description": "ACOPLE RAPIDO TEE 10MM. PLASTICO TKL 5319"
     },
     {
@@ -29104,7 +29104,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 12MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5320",
-        "image": "img/products/Acoples/acople-rapido-tee-12mm-plastico-tkl-5320.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-12mm-plastico-tkl-5320.jpg",
         "description": "ACOPLE RAPIDO TEE 12MM. PLASTICO TKL 5320"
     },
     {
@@ -29112,7 +29112,7 @@ const products = [
         "name": "ACOPLE RAPIDO 90 GRADOS 4MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5321",
-        "image": "img/products/Acoples/acople-rapido-90-grados-4mm-plastico-tkl-5321.jpg",
+        "image": "img/products/Acople/acople-rapido-90-grados-4mm-plastico-tkl-5321.jpg",
         "description": "ACOPLE RAPIDO 90 GRADOS 4MM. PLASTICO TKL 5321"
     },
     {
@@ -29120,7 +29120,7 @@ const products = [
         "name": "ACOPLE RAPIDO 90 GRADOS 6MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5326",
-        "image": "img/products/Acoples/acople-rapido-90-grados-6mm-plastico-tkl-5326.jpg",
+        "image": "img/products/Acople/acople-rapido-90-grados-6mm-plastico-tkl-5326.jpg",
         "description": "ACOPLE RAPIDO 90 GRADOS 6MM. PLASTICO TKL 5326"
     },
     {
@@ -29128,7 +29128,7 @@ const products = [
         "name": "ACOPLE RAPIDO 90 GRADOS 8MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5347",
-        "image": "img/products/Acoples/acople-rapido-90-grados-8mm-plastico-tkl-5347.jpg",
+        "image": "img/products/Acople/acople-rapido-90-grados-8mm-plastico-tkl-5347.jpg",
         "description": "ACOPLE RAPIDO 90 GRADOS 8MM. PLASTICO TKL 5347"
     },
     {
@@ -29136,7 +29136,7 @@ const products = [
         "name": "ACOPLE RAPIDO 90 GRADOS 12MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5816",
-        "image": "img/products/Acoples/acople-rapido-90-grados-12mm-plastico-tkl-5816.jpg",
+        "image": "img/products/Acople/acople-rapido-90-grados-12mm-plastico-tkl-5816.jpg",
         "description": "ACOPLE RAPIDO 90 GRADOS 12MM. PLASTICO TKL 5816"
     },
     {
@@ -29144,7 +29144,7 @@ const products = [
         "name": "ACOPLE RAPIDO 90 GRADOS 16MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "5820",
-        "image": "img/products/Acoples/acople-rapido-90-grados-16mm-plastico-tkl-5820.jpg",
+        "image": "img/products/Acople/acople-rapido-90-grados-16mm-plastico-tkl-5820.jpg",
         "description": "ACOPLE RAPIDO 90 GRADOS 16MM. PLASTICO TKL 5820"
     },
     {
@@ -29152,7 +29152,7 @@ const products = [
         "name": "ACOPLE RAPIDO 4MM. METALICO TKL",
         "brand": "TKL",
         "code": "6197",
-        "image": "img/products/Acoples/acople-rapido-4mm-metalico-tkl-6197.jpg",
+        "image": "img/products/Acople/acople-rapido-4mm-metalico-tkl-6197.jpg",
         "description": "ACOPLE RAPIDO 4MM. METALICO TKL 6197"
     },
     {
@@ -29160,7 +29160,7 @@ const products = [
         "name": "ACOPLE RAPIDO 6MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "6312",
-        "image": "img/products/Acoples/acople-rapido-6mm-plastico-con-cobre-tkl-6312.jpg",
+        "image": "img/products/Acople/acople-rapido-6mm-plastico-con-cobre-tkl-6312.jpg",
         "description": "ACOPLE RAPIDO 6MM. PLASTICO CON COBRE TKL 6312"
     },
     {
@@ -29168,7 +29168,7 @@ const products = [
         "name": "ACOPLE RAPIDO 90 GRADOS 10MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "6322",
-        "image": "img/products/Acoples/acople-rapido-90-grados-10mm-plastico-tkl-6322.jpg",
+        "image": "img/products/Acople/acople-rapido-90-grados-10mm-plastico-tkl-6322.jpg",
         "description": "ACOPLE RAPIDO 90 GRADOS 10MM. PLASTICO TKL 6322"
     },
     {
@@ -29176,7 +29176,7 @@ const products = [
         "name": "ACOPLE RAPIDO DE COMBUSTIBLE RECTO RIGIFLEX",
         "brand": "Rigiflex",
         "code": "6420",
-        "image": "img/products/Acoples/acople-rapido-de-combustible-recto-rigiflex-6420.jpg",
+        "image": "img/products/Acople/acople-rapido-de-combustible-recto-rigiflex-6420.jpg",
         "description": "ACOPLE RAPIDO DE COMBUSTIBLE RECTO RIGIFLEX 6420"
     },
     {
@@ -29184,7 +29184,7 @@ const products = [
         "name": "ACOPLE RAPIDO 8MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "6509",
-        "image": "img/products/Acoples/acople-rapido-8mm-plastico-con-cobre-tkl-6509.jpg",
+        "image": "img/products/Acople/acople-rapido-8mm-plastico-con-cobre-tkl-6509.jpg",
         "description": "ACOPLE RAPIDO 8MM. PLASTICO CON COBRE TKL 6509"
     },
     {
@@ -29192,7 +29192,7 @@ const products = [
         "name": "ACOPLE RAPIDO 10MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "6510",
-        "image": "img/products/Acoples/acople-rapido-10mm-plastico-con-cobre-tkl-6510.jpg",
+        "image": "img/products/Acople/acople-rapido-10mm-plastico-con-cobre-tkl-6510.jpg",
         "description": "ACOPLE RAPIDO 10MM. PLASTICO CON COBRE TKL 6510"
     },
     {
@@ -29200,7 +29200,7 @@ const products = [
         "name": "ACOPLE RAPIDO 16MM. PLASTICO TKL",
         "brand": "TKL",
         "code": "6535",
-        "image": "img/products/Acoples/acople-rapido-16mm-plastico-tkl-6535.jpg",
+        "image": "img/products/Acople/acople-rapido-16mm-plastico-tkl-6535.jpg",
         "description": "ACOPLE RAPIDO 16MM. PLASTICO TKL 6535"
     },
     {
@@ -29208,7 +29208,7 @@ const products = [
         "name": "ACOPLE RAPIDO 12MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "6682",
-        "image": "img/products/Acoples/acople-rapido-12mm-plastico-con-cobre-tkl-6682.jpg",
+        "image": "img/products/Acople/acople-rapido-12mm-plastico-con-cobre-tkl-6682.jpg",
         "description": "ACOPLE RAPIDO 12MM. PLASTICO CON COBRE TKL 6682"
     },
     {
@@ -29216,7 +29216,7 @@ const products = [
         "name": "ACOPLE RAPIDO 14MM. PLASTICO CON COBRE TKL",
         "brand": "TKL",
         "code": "6842",
-        "image": "img/products/Acoples/acople-rapido-14mm-plastico-con-cobre-tkl-6842.jpg",
+        "image": "img/products/Acople/acople-rapido-14mm-plastico-con-cobre-tkl-6842.jpg",
         "description": "ACOPLE RAPIDO 14MM. PLASTICO CON COBRE TKL 6842"
     },
     {
@@ -29224,7 +29224,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 4MM. PLASTICO CON BRONCE TKL",
         "brand": "TKL",
         "code": "6843",
-        "image": "img/products/Acoples/acople-rapido-tee-4mm-plastico-con-bronce-tkl-6843.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-4mm-plastico-con-bronce-tkl-6843.jpg",
         "description": "ACOPLE RAPIDO TEE 4MM. PLASTICO CON BRONCE TKL 6843"
     },
     {
@@ -29232,7 +29232,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 6MM. PLASTICO CON BRONCE TKL",
         "brand": "TKL",
         "code": "6844",
-        "image": "img/products/Acoples/acople-rapido-tee-6mm-plastico-con-bronce-tkl-6844.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-6mm-plastico-con-bronce-tkl-6844.jpg",
         "description": "ACOPLE RAPIDO TEE 6MM. PLASTICO CON BRONCE TKL 6844"
     },
     {
@@ -29240,7 +29240,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 8MM. PLASTICO CON BRONCE TKL",
         "brand": "TKL",
         "code": "6927",
-        "image": "img/products/Acoples/acople-rapido-tee-8mm-plastico-con-bronce-tkl-6927.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-8mm-plastico-con-bronce-tkl-6927.jpg",
         "description": "ACOPLE RAPIDO TEE 8MM. PLASTICO CON BRONCE TKL 6927"
     },
     {
@@ -29248,7 +29248,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 10MM. PLASTICO CON BRONCE TKL",
         "brand": "TKL",
         "code": "6929",
-        "image": "img/products/Acoples/acople-rapido-tee-10mm-plastico-con-bronce-tkl-6929.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-10mm-plastico-con-bronce-tkl-6929.jpg",
         "description": "ACOPLE RAPIDO TEE 10MM. PLASTICO CON BRONCE TKL 6929"
     },
     {
@@ -29256,7 +29256,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 12MM. PLASTICO CON BRONCE TKL",
         "brand": "TKL",
         "code": "6931",
-        "image": "img/products/Acoples/acople-rapido-tee-12mm-plastico-con-bronce-tkl-6931.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-12mm-plastico-con-bronce-tkl-6931.jpg",
         "description": "ACOPLE RAPIDO TEE 12MM. PLASTICO CON BRONCE TKL 6931"
     },
     {
@@ -29264,7 +29264,7 @@ const products = [
         "name": "ACOPLE RAPIDO TEE 14MM. PLASTICO CON BRONCE TKL",
         "brand": "TKL",
         "code": "6932",
-        "image": "img/products/Acoples/acople-rapido-tee-14mm-plastico-con-bronce-tkl-6932.jpg",
+        "image": "img/products/Acople/acople-rapido-tee-14mm-plastico-con-bronce-tkl-6932.jpg",
         "description": "ACOPLE RAPIDO TEE 14MM. PLASTICO CON BRONCE TKL 6932"
     },
     {
@@ -29272,7 +29272,7 @@ const products = [
         "name": "ACOPLE RAPIDO VALVULA 2 VIAS RACORD 3/8\" RIGIFLEX",
         "brand": "Rigiflex",
         "code": "8761",
-        "image": "img/products/Acoples/acople-rapido-valvula-2-vias-racord-3-8-rigiflex-8761.jpg",
+        "image": "img/products/Acople/acople-rapido-valvula-2-vias-racord-3-8-rigiflex-8761.jpg",
         "description": "ACOPLE RAPIDO VALVULA 2 VIAS RACORD 3/8\" RIGIFLEX 8761"
     },
     {
@@ -29280,7 +29280,7 @@ const products = [
         "name": "ACOPLE RAPIDO TANQUE DE COMBUSTIBLE RIGIFLEX",
         "brand": "Rigiflex",
         "code": "8986",
-        "image": "img/products/Acoples/acople-rapido-tanque-de-combustible-rigiflex-8986.jpg",
+        "image": "img/products/Acople/acople-rapido-tanque-de-combustible-rigiflex-8986.jpg",
         "description": "ACOPLE RAPIDO TANQUE DE COMBUSTIBLE RIGIFLEX 8986"
     },
     {
@@ -29288,7 +29288,7 @@ const products = [
         "name": "ACOPLE RAPIDO FRENO RACORD PARA MANGUERA 3/8\" RIGIFLEX",
         "brand": "Rigiflex",
         "code": "8988",
-        "image": "img/products/Acoples/acople-rapido-freno-racord-para-manguera-3-8-rigiflex-8988.jpg",
+        "image": "img/products/Acople/acople-rapido-freno-racord-para-manguera-3-8-rigiflex-8988.jpg",
         "description": "ACOPLE RAPIDO FRENO RACORD PARA MANGUERA 3/8\" RIGIFLEX 8988"
     },
     {
@@ -29296,7 +29296,7 @@ const products = [
         "name": "ACOPLE RAPIDO FRENO DOBLE RACORD PARA MANGUERA 3/8\" RIGIFLEX",
         "brand": "Rigiflex",
         "code": "8989",
-        "image": "img/products/Acoples/acople-rapido-freno-doble-racord-para-manguera-3-8-rigiflex-8989.jpg",
+        "image": "img/products/Acople/acople-rapido-freno-doble-racord-para-manguera-3-8-rigiflex-8989.jpg",
         "description": "ACOPLE RAPIDO FRENO DOBLE RACORD PARA MANGUERA 3/8\" RIGIFLEX 8989"
     }
 ];
@@ -29304,3 +29304,4 @@ const products = [
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = products;
 }
+
