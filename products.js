@@ -29298,10 +29298,297 @@
         "code": "8989",
         "image": "img/products/Acople/acople-rapido-freno-doble-racord-para-manguera-3-8-rigiflex-8989.jpg",
         "description": "ACOPLE RAPIDO FRENO DOBLE RACORD PARA MANGUERA 3/8\" RIGIFLEX 8989"
+    },
+    {
+        "id": "P3270",
+        "name": "CONEXION REDUCTORA / HEMBRA M22 X 1.5 / MACHO M16 X 1.5 / BRONCE TKL",
+        "brand": "TKL",
+        "code": "9876",
+        "image": "img/products/Conexion/conexion-reductora-hembra-m22-x-1-5-macho-m16-x-1-5-bronce-tkl-9876.jpg",
+        "description": "CONEXION REDUCTORA / HEMBRA M22 X 1.5 / MACHO M16 X 1.5 / BRONCE TKL 9876"
+    },
+    {
+        "id": "P3271",
+        "name": "CONEXION REDUCTORA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8984",
+        "image": "img/products/Conexion/conexion-reductora-rigiflex-8984.jpg",
+        "description": "CONEXION REDUCTORA RIGIFLEX 8984"
+    },
+    {
+        "id": "P3272",
+        "name": "CONEXION SALIDA TANQUE COMBUSTIBLE A 90º RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8985",
+        "image": "img/products/Conexion/conexion-salida-tanque-combustible-a-90-rigiflex-8985.jpg",
+        "description": "CONEXION SALIDA TANQUE COMBUSTIBLE A 90º RIGIFLEX 8985"
+    },
+    {
+        "id": "P3273",
+        "name": "TAPON CONEXION SALIDA AGUA DE MOTOR BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "6530",
+        "image": "img/products/Conexion/tapon-conexion-salida-agua-de-motor-blk-diesel-6530.jpg",
+        "description": "TAPON CONEXION SALIDA AGUA DE MOTOR BLK DIESEL 6530"
+    },
+    {
+        "id": "P3274",
+        "name": "BUJE ROSCADO CONEXION SALIDA DE AGUA BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "6324",
+        "image": "img/products/Conexion/buje-roscado-conexion-salida-de-agua-blk-diesel-6324.jpg",
+        "description": "BUJE ROSCADO CONEXION SALIDA DE AGUA BLK DIESEL 6324"
+    },
+    {
+        "id": "P3275",
+        "name": "CONEXION MANGUERA AGUA TAPA DE CILINDROS BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "5699",
+        "image": "img/products/Conexion/conexion-manguera-agua-tapa-de-cilindros-blk-diesel-5699.jpg",
+        "description": "CONEXION MANGUERA AGUA TAPA DE CILINDROS BLK DIESEL 5699"
+    },
+    {
+        "id": "P3276",
+        "name": "CONEXION TUBULACION COMPRESOR AIRE HOLSET / WABCO / KNORR BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "5671",
+        "image": "img/products/Conexion/conexion-tubulacion-compresor-aire-holset-wabco-knorr-blk-diesel-5671.jpg",
+        "description": "CONEXION TUBULACION COMPRESOR AIRE HOLSET / WABCO / KNORR BLK DIESEL 5671"
+    },
+    {
+        "id": "P3277",
+        "name": "CONEXION SALIDA AGUA DE MOTOR VANNUCCI",
+        "brand": "Vannucci",
+        "code": "4227",
+        "image": "img/products/Conexion/conexion-salida-agua-de-motor-vannucci-4227.jpg",
+        "description": "CONEXION SALIDA AGUA DE MOTOR VANNUCCI 4227"
+    },
+    {
+        "id": "P3278",
+        "name": "CONEXION / ADAPTADOR CABEZAL FILTRO DE COMBUSTIBLE NG12 (M14 X 1.5) IMP.",
+        "brand": "Importado",
+        "code": "14575",
+        "image": "img/products/Conexion/conexion-adaptador-cabezal-filtro-de-combustible-ng12-m14-x-1-5-imp-14575.jpg",
+        "description": "CONEXION / ADAPTADOR CABEZAL FILTRO DE COMBUSTIBLE NG12 (M14 X 1.5) IMP. 14575"
+    },
+    {
+        "id": "P3279",
+        "name": "RESISTENCIA / REGULADOR VENTILADOR HABITACULO / 4 CONEXIONES TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11848",
+        "image": "img/products/Conexion/resistencia-regulador-ventilador-habitaculo-4-conexiones-trucktec-11848.jpg",
+        "description": "RESISTENCIA / REGULADOR VENTILADOR HABITACULO / 4 CONEXIONES TRUCKTEC 11848"
+    },
+    {
+        "id": "P3280",
+        "name": "BOMBA LIMPIAPARABRISAS 24V. / 2 CONEXIONES TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11825",
+        "image": "img/products/Conexion/bomba-limpiaparabrisas-24v-2-conexiones-trucktec-11825.jpg",
+        "description": "BOMBA LIMPIAPARABRISAS 24V. / 2 CONEXIONES TRUCKTEC 11825"
+    },
+    {
+        "id": "P3281",
+        "name": "VALVULA CONTROL DE ASIENTO NEUMATICO TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9997",
+        "image": "img/products/Conexion/valvula-control-de-asiento-neumatico-tf-y-p-technology-9997.jpg",
+        "description": "VALVULA CONTROL DE ASIENTO NEUMATICO TF&P TECHNOLOGY 9997"
+    },
+    {
+        "id": "P3282",
+        "name": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9953",
+        "image": "img/products/Conexion/llave-limpiaparabrisas-tf-y-p-technology-9953.jpg",
+        "description": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY 9953"
+    },
+    {
+        "id": "P3283",
+        "name": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9954",
+        "image": "img/products/Conexion/llave-limpiaparabrisas-tf-y-p-technology-9954.jpg",
+        "description": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY 9954"
+    },
+    {
+        "id": "P3284",
+        "name": "LLAVE LUCES Y GIRO / CON COMPUTADORA DE ABORDO TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9955",
+        "image": "img/products/Conexion/llave-luces-y-giro-con-computadora-de-abordo-tf-y-p-technology-9955.jpg",
+        "description": "LLAVE LUCES Y GIRO / CON COMPUTADORA DE ABORDO TF&P TECHNOLOGY 9955"
+    },
+    {
+        "id": "P3285",
+        "name": "LLAVE LUCES Y GIRO TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9956",
+        "image": "img/products/Conexion/llave-luces-y-giro-tf-y-p-technology-9956.jpg",
+        "description": "LLAVE LUCES Y GIRO TF&P TECHNOLOGY 9956"
+    },
+    {
+        "id": "P3286",
+        "name": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9959",
+        "image": "img/products/Conexion/llave-limpiaparabrisas-tf-y-p-technology-9959.jpg",
+        "description": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY 9959"
+    },
+    {
+        "id": "P3287",
+        "name": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "9960",
+        "image": "img/products/Conexion/llave-limpiaparabrisas-tf-y-p-technology-9960.jpg",
+        "description": "LLAVE LIMPIAPARABRISAS TF&P TECHNOLOGY 9960"
+    },
+    {
+        "id": "P3288",
+        "name": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9765",
+        "image": "img/products/Conexion/flexible-salida-de-agua-compresor-wabco-85mm-industria-argentina-9765.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9765"
+    },
+    {
+        "id": "P3289",
+        "name": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9761",
+        "image": "img/products/Conexion/flexible-salida-de-agua-compresor-wabco-85mm-industria-argentina-9761.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9761"
+    },
+    {
+        "id": "P3290",
+        "name": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9762",
+        "image": "img/products/Conexion/flexible-entrada-de-agua-compresor-wabco-85mm-industria-argentina-9762.jpg",
+        "description": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9762"
+    },
+    {
+        "id": "P3291",
+        "name": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9764",
+        "image": "img/products/Conexion/flexible-salida-de-agua-compresor-wabco-85mm-industria-argentina-9764.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9764"
+    },
+    {
+        "id": "P3292",
+        "name": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9763",
+        "image": "img/products/Conexion/flexible-entrada-de-agua-compresor-wabco-85mm-industria-argentina-9763.jpg",
+        "description": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9763"
+    },
+    {
+        "id": "P3293",
+        "name": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9768",
+        "image": "img/products/Conexion/flexible-salida-de-agua-compresor-wabco-85mm-industria-argentina-9768.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9768"
+    },
+    {
+        "id": "P3294",
+        "name": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9767",
+        "image": "img/products/Conexion/flexible-entrada-de-agua-compresor-wabco-85mm-industria-argentina-9767.jpg",
+        "description": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9767"
+    },
+    {
+        "id": "P3295",
+        "name": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9766",
+        "image": "img/products/Conexion/flexible-entrada-de-agua-compresor-wabco-85mm-industria-argentina-9766.jpg",
+        "description": "FLEXIBLE ENTRADA DE AGUA COMPRESOR WABCO 85MM. INDUSTRIA ARGENTINA 9766"
+    },
+    {
+        "id": "P3296",
+        "name": "FLEXIBLE SALIDA DE AGUA DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9332",
+        "image": "img/products/Conexion/flexible-salida-de-agua-del-compresor-industria-argentina-9332.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA DEL COMPRESOR INDUSTRIA ARGENTINA 9332"
+    },
+    {
+        "id": "P3297",
+        "name": "FLEXIBLE SALIDA DE AGUA DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9333",
+        "image": "img/products/Conexion/flexible-salida-de-agua-del-compresor-industria-argentina-9333.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA DEL COMPRESOR INDUSTRIA ARGENTINA 9333"
+    },
+    {
+        "id": "P3298",
+        "name": "FLEXIBLE ENTRADA DE AGUA DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9334",
+        "image": "img/products/Conexion/flexible-entrada-de-agua-del-compresor-industria-argentina-9334.jpg",
+        "description": "FLEXIBLE ENTRADA DE AGUA DEL COMPRESOR INDUSTRIA ARGENTINA 9334"
+    },
+    {
+        "id": "P3299",
+        "name": "VALVULA PEDALERA WABCO / PARA ADAPTACIONES TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "2901",
+        "image": "img/products/Conexion/valvula-pedalera-wabco-para-adaptaciones-tf-y-p-technology-2901.jpg",
+        "description": "VALVULA PEDALERA WABCO / PARA ADAPTACIONES TF&P TECHNOLOGY 2901"
+    },
+    {
+        "id": "P3300",
+        "name": "CILINDRO ALTA Y BAJA WABCO IMP.",
+        "brand": "Importado",
+        "code": "2380",
+        "image": "img/products/Conexion/cilindro-alta-y-baja-wabco-imp-2380.png",
+        "description": "CILINDRO ALTA Y BAJA WABCO IMP. 2380"
+    },
+    {
+        "id": "P3301",
+        "name": "CILINDRO ALTA Y BAJA WABCO IGH",
+        "brand": "IGH",
+        "code": "2381",
+        "image": "img/products/Conexion/cilindro-alta-y-baja-wabco-igh-2381.jpg",
+        "description": "CILINDRO ALTA Y BAJA WABCO IGH 2381"
+    },
+    {
+        "id": "P3302",
+        "name": "EMBRAGUE VISCOSO ELECTROMAGNETICO CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14806",
+        "image": "img/products/Conexion/embrague-viscoso-electromagnetico-chezhou-14806.jpg",
+        "description": "EMBRAGUE VISCOSO ELECTROMAGNETICO CHEZHOU 14806"
+    },
+    {
+        "id": "P3303",
+        "name": "EMBRAGUE VISCOSO ELECTROMAGNETICO / DIAM. EXT. 260MM. / 6 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14805",
+        "image": "img/products/Conexion/embrague-viscoso-electromagnetico-diam-ext-260mm-6-agujeros-chezhou-14805.jpg",
+        "description": "EMBRAGUE VISCOSO ELECTROMAGNETICO / DIAM. EXT. 260MM. / 6 AGUJEROS CHEZHOU 14805"
+    },
+    {
+        "id": "P3304",
+        "name": "FUELLE AMORTIGUADOR DE CABINA TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "10936",
+        "image": "img/products/Conexion/fuelle-amortiguador-de-cabina-tf-y-p-technology-10936.jpg",
+        "description": "FUELLE AMORTIGUADOR DE CABINA TF&P TECHNOLOGY 10936"
+    },
+    {
+        "id": "P3305",
+        "name": "FUELLE AMORTIGUADOR DE CABINA TF&P TECHNOLOGY",
+        "brand": "TF&P Technology",
+        "code": "10937",
+        "image": "img/products/Conexion/fuelle-amortiguador-de-cabina-tf-y-p-technology-10937.jpg",
+        "description": "FUELLE AMORTIGUADOR DE CABINA TF&P TECHNOLOGY 10937"
     }
 ];
 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = products;
 }
-
