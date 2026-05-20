@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -519,6 +519,185 @@
                 transform: translateX(-50%);
             }
         }
+
+        .catalog-hero {
+            padding: 112px 0 48px;
+            background: linear-gradient(135deg, rgba(11, 18, 32, 0.96) 0%, rgba(18, 55, 101, 0.92) 58%, rgba(11, 111, 189, 0.88) 100%);
+        }
+
+        .catalog-hero .section-title {
+            margin-bottom: 0.75rem;
+            letter-spacing: 0;
+        }
+
+        .catalog-hero p {
+            color: #d6e3f5;
+            font-size: 1.08rem;
+        }
+
+        .search-container {
+            max-width: 1040px;
+            margin: -24px auto 32px;
+        }
+
+        .search-input {
+            border-radius: 8px;
+            background: #111c2d;
+            border-color: rgba(255, 255, 255, 0.14);
+        }
+
+        .filter-select,
+        .clear-filters-btn,
+        .product-item {
+            border-radius: 8px !important;
+        }
+
+        .filter-wrapper {
+            min-width: 210px;
+        }
+
+        .product-grid {
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1.25rem;
+            padding-top: 1.25rem;
+        }
+
+        .product-item {
+            background: #172233;
+            box-shadow: 0 16px 34px rgba(0, 0, 0, 0.22);
+        }
+
+        .product-item:hover {
+            transform: translateY(-5px);
+            border-color: rgba(33, 198, 168, 0.52);
+        }
+
+        .product-item-img {
+            height: 178px;
+            background: #f8fafc;
+            object-fit: contain;
+            padding: 0.8rem;
+        }
+
+        .product-item-info {
+            padding: 1.1rem;
+        }
+
+        .product-item-name {
+            font-size: 1rem;
+            min-height: 3.9em;
+        }
+
+        @media (max-width: 768px) {
+            .catalog-hero {
+                padding-top: 96px;
+            }
+
+            .search-container {
+                margin-top: -18px;
+            }
+
+            .product-grid {
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+                gap: 0.85rem;
+            }
+
+            .product-item-img {
+                height: 142px;
+            }
+
+            .product-item-name {
+                font-size: 0.92rem;
+            }
+        }
+
+        .catalog-hero {
+            padding: 110px 0 92px;
+            background: linear-gradient(135deg, #0b1b33 0%, #0b4f8f 55%, #0877bd 100%);
+        }
+
+        .catalog-hero .container {
+            position: relative;
+            z-index: 2;
+        }
+
+        .catalog-hero .section-title {
+            margin-bottom: 0.6rem;
+            color: #ffffff;
+            text-shadow: none;
+        }
+
+        .catalog-hero .section-title::after {
+            background: #38bdf8;
+        }
+
+        .catalog-hero p {
+            margin-bottom: 1.75rem;
+            color: #e6f4ff;
+        }
+
+        .brand-scroller-container {
+            position: relative;
+            top: auto;
+            left: auto;
+            width: min(1120px, calc(100% - 2rem));
+            height: 74px;
+            margin: 0 auto;
+            padding: 0.9rem 0;
+            border-radius: 8px;
+            background: rgba(5, 22, 43, 0.28);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            opacity: 1;
+            transform: none;
+            pointer-events: auto;
+            overflow: hidden;
+            mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+            -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+        }
+
+        .catalog-hero:hover .brand-scroller-container {
+            transform: none;
+        }
+
+        .brand-track {
+            gap: 3rem;
+        }
+
+        .brand-track img {
+            height: 44px;
+            max-width: 140px;
+            opacity: 0.82;
+            filter: grayscale(1) brightness(0) invert(1);
+            mix-blend-mode: normal;
+        }
+
+        .brand-track img:hover {
+            filter: grayscale(0) brightness(0) invert(1);
+        }
+
+        .search-container {
+            margin-top: -44px;
+        }
+
+        @media (max-width: 768px) {
+            .catalog-hero {
+                padding: 94px 0 74px;
+            }
+
+            .brand-scroller-container {
+                height: 58px;
+                width: calc(100% - 1rem);
+            }
+
+            .brand-track img {
+                height: 34px;
+                max-width: 112px;
+            }
+
+            .search-container {
+                margin-top: -34px;
+            }
+        }
     </style>
 </head>
 
@@ -773,3 +952,4 @@
 </body>
 
 </html>
+
