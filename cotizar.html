@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Solicitá una cotización de repuestos para camiones por WhatsApp en Zabala Repuestos.">
+    <title>Cotizar Repuestos | Zabala Repuestos</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="main-header">
+        <div class="container header-content">
+            <div class="logo">
+                <img src="img/camion_animado.png" id="truck-anim" class="truck-icon-header" alt="Camión de reparto">
+                <h1>Zabala<span class="highlight">Repuestos</span></h1>
+            </div>
+            <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="main-nav" id="mainNav">
+                <ul>
+                    <li><a href="index.html#inicio">Inicio</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="catalogo.html">Catálogo</a></li>
+                    <li><a href="index.html#marcas">Marcas</a></li>
+                    <li><a href="cotizar.html">Cotizar</a></li>
+                    <li><a href="index.html#faq">FAQ</a></li>
+                    <li><a href="index.html#ubicacion">Ubicación</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="cotizar" class="contact-section quote-page-section">
+            <div class="container">
+                <div class="quote-page-intro">
+                    <span class="quote-eyebrow">Cotización por WhatsApp</span>
+                    <h2 class="section-title quote-title">Cotizá tus Repuestos</h2>
+                    <p class="quote-lead">Completá los datos del camión y contanos qué pieza necesitás. Te respondemos con disponibilidad, precio y alternativas compatibles cuando correspondan.</p>
+                    <div class="quote-actions">
+                        <a href="catalogo.html" class="quote-inline-link">Buscar en catálogo</a>
+                        <a href="https://wa.me/5492645859764" class="quote-inline-link" target="_blank" rel="noopener noreferrer">WhatsApp directo</a>
+                    </div>
+                </div>
+
+                <div class="quote-layout">
+                    <div class="contact-box quote-form-panel">
+                    <form id="quoteForm">
+                        <div class="form-group">
+                            <label for="marca">Marca del Camión</label>
+                            <input type="text" id="marca" required placeholder="Ej: Mercedes Benz, Scania, Ford...">
+                        </div>
+                        <div class="form-group">
+                            <label for="modelo">Modelo y Año</label>
+                            <input type="text" id="modelo" required placeholder="Ej: 1114 año 1980, Axor 2035 año 2012...">
+                        </div>
+                        <div class="form-group">
+                            <label for="repuestos">Repuestos Necesarios</label>
+                            <textarea id="repuestos" rows="5" required placeholder="Detallá los repuestos que estás buscando. Si tenés número de pieza, mejor."></textarea>
+                        </div>
+                        <button type="submit" class="btn-whatsapp-large btn-block" style="width: 100%; font-family: inherit;">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="24" height="24" fill="currentColor">
+                                <path d="M248 8C111 8 0 119 0 256c0 58.8 22.1 114.5 62.1 158.4L8.7 512.6c-1.3 5.4 2.8 9.6 8.3 8.3l108.8-57.9c43.6 28.1 94.9 43 147.2 43 137 0 248-111 248-248S385 8 248 8zm120.3 365.1c-6.8 19.1-39.7 34.9-54.3 37.1-12.7 1.9-28.5 3.3-80.9-17-48.4-18.7-79.6-66.3-81.8-69.3-2.2-3-19.4-25.8-19.4-49.2 0-23.4 12.1-35 16.4-39.7 3.5-3.8 7.7-4.4 10.3-4.4 2.6 0 5.2 0 7.4.1 2.4.1 5.7.5 8.7 7.7 3.3 7.9 11.2 27.4 12.2 29.4s1.7 4.3.3 6.9-2.2 4-4.4 6.6c-2.4 2.8-5.1 6.3-7.2 8.5-2.6 2.6-5.3 5.5-2.2 10.8 3.1 5.3 13.9 22.8 29.8 37 20.3 18.1 37.4 24.2 42.7 26.9 5.3 2.7 8.5 2.2 11.6-1.4 3.1-3.6 13.5-15.7 17.1-21 3.6-5.3 7.3-4.4 12.3-2.6 5.1 1.8 32.2 15.2 37.7 17.9 5.5 2.7 9.2 4 10.5 6.3 1.3 2.3 1.3 13.2-5.5 32.3z" />
+                            </svg>
+                            Solicitar Presupuesto por WhatsApp
+                        </button>
+                        <p class="quote-form-note">También podés adjuntar fotos cuando se abra la conversación de WhatsApp.</p>
+                    </form>
+                    </div>
+
+                    <aside class="quote-info-panel" aria-label="Información para cotizar">
+                        <div class="quote-info-block">
+                            <h3>Para responderte mejor</h3>
+                            <ul class="quote-info-list">
+                                <li>
+                                    <span>01</span>
+                                    <p>Indicá marca, modelo, año y motor si lo sabés.</p>
+                                </li>
+                                <li>
+                                    <span>02</span>
+                                    <p>Sumá número de pieza, medidas o lado de montaje.</p>
+                                </li>
+                                <li>
+                                    <span>03</span>
+                                    <p>Si tenés foto, la podés enviar en el chat de WhatsApp.</p>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="quote-contact-card">
+                            <h3>Atención en el local</h3>
+                            <p>Av Rioja 931 Sur, San Juan</p>
+                            <p>Lunes a viernes de 8:30 a 13:00 y de 16:00 a 19:30</p>
+                            <p>Sábados de 9:00 a 13:00</p>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </section>
+
+        <section class="quote-support-section">
+            <div class="container">
+                <div class="quote-section-heading">
+                    <h2>Cómo seguimos</h2>
+                    <p>Un proceso simple para confirmar la pieza correcta antes de avanzar.</p>
+                </div>
+                <div class="quote-support-grid">
+                    <article class="quote-support-card">
+                        <span class="quote-support-icon">
+                            <svg viewBox="0 0 24 24"><path d="M21 15a4 4 0 0 1-4 4H8l-5 3V7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v8Z"></path><path d="M8 9h8"></path><path d="M8 13h5"></path></svg>
+                        </span>
+                        <h3>Atención directa</h3>
+                        <p>Respondemos por WhatsApp con disponibilidad, precio y opciones equivalentes cuando corresponde.</p>
+                    </article>
+                    <article class="quote-support-card">
+                        <span class="quote-support-icon">
+                            <svg viewBox="0 0 24 24"><path d="M4 19V5a2 2 0 0 1 2-2h11l3 3v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z"></path><path d="M8 9h8"></path><path d="M8 13h8"></path><path d="M8 17h5"></path></svg>
+                        </span>
+                        <h3>Catálogo online</h3>
+                        <p>Podés buscar por motor, código o descripción y pedir cotización desde cualquier producto.</p>
+                        <a href="catalogo.html" class="quote-card-link">Ver catálogo</a>
+                    </article>
+                    <article class="quote-support-card">
+                        <span class="quote-support-icon">
+                            <svg viewBox="0 0 24 24"><path d="M12 21s7-5.2 7-12a7 7 0 0 0-14 0c0 6.8 7 12 7 12Z"></path><path d="M12 11.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path></svg>
+                        </span>
+                        <h3>Retiro en local</h3>
+                        <p>Estamos en Av Rioja 931 Sur, San Juan. Lunes a viernes de 8:30 a 13:00 y de 16:00 a 19:30.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="logo">
+                        <h3>Zabala<span class="highlight">Repuestos</span></h3>
+                    </div>
+                    <p class="footer-desc">Tu aliado de confianza en repuestos para camiones. Calidad, garantía y trayectoria desde 1955 en San Juan.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Enlaces Rápidos</h4>
+                    <ul>
+                        <li><a href="index.html#inicio">Inicio</a></li>
+                        <li><a href="nosotros.html">Nosotros</a></li>
+                        <li><a href="catalogo.html">Catálogo</a></li>
+                        <li><a href="cotizar.html">Cotizar</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contacto</h4>
+                    <ul>
+                        <li>📍 Av Rioja 931 Sur, San Juan</li>
+                        <li>📞 Tel: 4220004</li>
+                        <li>📱 WhatsApp: +54 9 264 585-9764</li>
+                        <li>✉️ zabalarepuestos@gmail.com</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Horarios</h4>
+                    <ul>
+                        <li>Lunes a Viernes:</li>
+                        <li>8:30 - 13:00 / 16:00 - 19:30</li>
+                        <li>Sábados:</li>
+                        <li>9:00 - 13:00</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Zabala Repuestos. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <a href="https://wa.me/5492645859764" class="whatsapp-float" target="_blank" rel="noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3s19.9 53.7 22.6 57.4c2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z" />
+        </svg>
+    </a>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
