@@ -31186,10 +31186,4569 @@
         "code": "0231",
         "image": "img/products/Correas/correa-poly-v-6pk2264-contitech-0231.jpg",
         "description": "CORREA POLY V 6PK2264 CONTITECH 0231"
+    },
+    {
+        "id": "P3506",
+        "name": "ANILLO SINCRONIZADO DE CAJA SIN TRABA FKC-FURCON",
+        "brand": "Mercedes Benz",
+        "code": "0003",
+        "image": "img/products/OM352 2/anillo-sincronizado-de-caja-sin-traba-fkc-furcon-0003.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA SIN TRABA FKC-FURCON 0003 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3507",
+        "name": "ANILLO SINCRONIZADO DE CAJA CON TRABA FKC-FURCON",
+        "brand": "Mercedes Benz",
+        "code": "0006",
+        "image": "img/products/OM352 2/anillo-sincronizado-de-caja-con-traba-fkc-furcon-0006.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA CON TRABA FKC-FURCON 0006 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3508",
+        "name": "APOYA BRAZOS PLASTICO DERECHA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0007",
+        "image": "img/products/OM352 2/apoya-brazos-plastico-derecha-imp-0007.jpg",
+        "description": "APOYA BRAZOS PLASTICO DERECHA IMP. 0007 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3509",
+        "name": "APOYA BRAZOS PLASTICO IZQUIERDO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0008",
+        "image": "img/products/OM352 2/apoya-brazos-plastico-izquierdo-imp-0008.jpg",
+        "description": "APOYA BRAZOS PLASTICO IZQUIERDO IMP. 0008 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3510",
+        "name": "ARANDELA CONICA DE RUEDA 20MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0009",
+        "image": "img/products/OM352 2/arandela-conica-de-rueda-20mm-s-3-0009.jpg",
+        "description": "ARANDELA CONICA DE RUEDA 20MM. S-3 0009 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3511",
+        "name": "ARANDELA GROWER DE RUEDA 20MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0011",
+        "image": "img/products/OM352 2/arandela-grower-de-rueda-20mm-s-3-0011.jpg",
+        "description": "ARANDELA GROWER DE RUEDA 20MM. S-3 0011 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3512",
+        "name": "JGO. AROS COMPRESOR 77MM. STD. SUPER CIRCLE",
+        "brand": "Mercedes Benz",
+        "code": "0013",
+        "image": "img/products/OM352 2/jgo-aros-compresor-77mm-std-super-circle-0013.jpg",
+        "description": "JGO. AROS COMPRESOR 77MM. STD. SUPER CIRCLE 0013 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3513",
+        "name": "JGO. AROS COMPRESOR 94MM. STD QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "0014",
+        "image": "img/products/OM352 2/jgo-aros-compresor-94mm-std-quinelato-0014.jpg",
+        "description": "JGO. AROS COMPRESOR 94MM. STD QUINELATO 0014 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3514",
+        "name": "BISAGRA DE CAPOT DERECHA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0016",
+        "image": "img/products/OM352 2/bisagra-de-capot-derecha-universal-0016.jpg",
+        "description": "BISAGRA DE CAPOT DERECHA UNIVERSAL 0016 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3515",
+        "name": "BISAGRA DE CAPOT IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0017",
+        "image": "img/products/OM352 2/bisagra-de-capot-izquierda-universal-0017.jpg",
+        "description": "BISAGRA DE CAPOT IZQUIERDA UNIVERSAL 0017 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3516",
+        "name": "BOMBIN CEBADOR CORTO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0020",
+        "image": "img/products/OM352 2/bombin-cebador-corto-imp-0020.jpg",
+        "description": "BOMBIN CEBADOR CORTO IMP. 0020 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3517",
+        "name": "BOTON ARRANQUE 12V. TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "0023",
+        "image": "img/products/OM352 2/boton-arranque-12v-trucktec-0023.jpg",
+        "description": "BOTON ARRANQUE 12V. TRUCKTEC 0023 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3518",
+        "name": "BRAZO PITMAN DIRECCION MECANICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0027",
+        "image": "img/products/OM352 2/brazo-pitman-direccion-mecanica-imp-0027.jpg",
+        "description": "BRAZO PITMAN DIRECCION MECANICA IMP. 0027 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3519",
+        "name": "TAPA TERMOSTATO ALUMINIO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0031",
+        "image": "img/products/OM352 2/tapa-termostato-aluminio-industria-argentina-0031.jpg",
+        "description": "TAPA TERMOSTATO ALUMINIO INDUSTRIA ARGENTINA 0031 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3520",
+        "name": "BASE PORTATERMOSTATO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0032",
+        "image": "img/products/OM352 2/base-portatermostato-industria-argentina-0032.jpg",
+        "description": "BASE PORTATERMOSTATO INDUSTRIA ARGENTINA 0032 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3521",
+        "name": "BULBO PRESION ACEITE 1 ENCHUFE R14 X 1.5 MM. VDO",
+        "brand": "Mercedes Benz",
+        "code": "0033",
+        "image": "img/products/OM352 2/bulbo-presion-aceite-1-enchufe-r14-x-1-5-mm-vdo-0033.jpg",
+        "description": "BULBO PRESION ACEITE 1 ENCHUFE R14 X 1.5 MM. VDO 0033 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3522",
+        "name": "TAPA TERMOSTATO FUNDICION INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0035",
+        "image": "img/products/OM352 2/tapa-termostato-fundicion-industria-argentina-0035.jpg",
+        "description": "TAPA TERMOSTATO FUNDICION INDUSTRIA ARGENTINA 0035 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3523",
+        "name": "INTERRUPTOR FRENO AIRE COMPRIMIDO HEMBRA 3-RHO",
+        "brand": "Mercedes Benz",
+        "code": "0037",
+        "image": "img/products/OM352 2/interruptor-freno-aire-comprimido-hembra-3-rho-0037.jpg",
+        "description": "INTERRUPTOR FRENO AIRE COMPRIMIDO HEMBRA 3-RHO 0037 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3524",
+        "name": "INTERRUPTOR FRENO AIRE COMPRIMIDO HEMBRA R12 X 1.5 MM. / CARGA MAX. 120W 3-RHO",
+        "brand": "Mercedes Benz",
+        "code": "0038",
+        "image": "img/products/OM352 2/interruptor-freno-aire-comprimido-hembra-r12-x-1-5-mm-carga-max-120w-3-rho-0038.jpg",
+        "description": "INTERRUPTOR FRENO AIRE COMPRIMIDO HEMBRA R12 X 1.5 MM. / CARGA MAX. 120W 3-RHO 0038 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3525",
+        "name": "INTERRUPTOR STOP FRENO HIDRAULICO Y EMBRAGUE VDO",
+        "brand": "Mercedes Benz",
+        "code": "0039",
+        "image": "img/products/OM352 2/interruptor-stop-freno-hidraulico-y-embrague-vdo-0039.jpg",
+        "description": "INTERRUPTOR STOP FRENO HIDRAULICO Y EMBRAGUE VDO 0039 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3526",
+        "name": "CABEZAL VARILLA ACELERADOR CORTO 33 MM. R 6 MM. DER. / ROT. 6 MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0050",
+        "image": "img/products/OM352 2/cabezal-varilla-acelerador-corto-33-mm-r-6-mm-der-rot-6-mm-imp-0050.jpg",
+        "description": "CABEZAL VARILLA ACELERADOR CORTO 33 MM. R 6 MM. DER. / ROT. 6 MM. IMP. 0050 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3527",
+        "name": "JGO. GOMAS SUNCHOS TANQUE COMBUSTIBLE BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0051",
+        "image": "img/products/OM352 2/jgo-gomas-sunchos-tanque-combustible-bayros-2000-0051.jpg",
+        "description": "JGO. GOMAS SUNCHOS TANQUE COMBUSTIBLE BAYROS 2000 0051 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3528",
+        "name": "SELECTOR ALTA Y BAJA NEUMATICO CON VALVULA IGH",
+        "brand": "Mercedes Benz",
+        "code": "0053",
+        "image": "img/products/OM352 2/selector-alta-y-baja-neumatico-con-valvula-igh-0053.jpg",
+        "description": "SELECTOR ALTA Y BAJA NEUMATICO CON VALVULA IGH 0053 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3529",
+        "name": "SELECTOR ALTA Y BAJA ELECTRONEUMATICO CON VALVULA 12V. IGH",
+        "brand": "Mercedes Benz",
+        "code": "0054",
+        "image": "img/products/OM352 2/selector-alta-y-baja-electroneumatico-con-valvula-12v-igh-0054.jpg",
+        "description": "SELECTOR ALTA Y BAJA ELECTRONEUMATICO CON VALVULA 12V. IGH 0054 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3530",
+        "name": "CANO CIRCULACION DE AGUA ALUMINIO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0055",
+        "image": "img/products/OM352 2/cano-circulacion-de-agua-aluminio-industria-argentina-0055.jpg",
+        "description": "CANO CIRCULACION DE AGUA ALUMINIO INDUSTRIA ARGENTINA 0055 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3531",
+        "name": "CANO CIRCULACION DE AGUA FUNDICION INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0057",
+        "image": "img/products/OM352 2/cano-circulacion-de-agua-fundicion-industria-argentina-0057.jpg",
+        "description": "CANO CIRCULACION DE AGUA FUNDICION INDUSTRIA ARGENTINA 0057 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3532",
+        "name": "MANGUERA FILTRO DE AIRE 410 X 80 X 100 MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0061",
+        "image": "img/products/OM352 2/manguera-filtro-de-aire-410-x-80-x-100-mm-imp-0061.jpg",
+        "description": "MANGUERA FILTRO DE AIRE 410 X 80 X 100 MM. IMP. 0061 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3533",
+        "name": "MARCADOR TEMPERATURA MECANICO CON CABLE 1.40 MTRS. / 40-100 ÂºC WILLTEC",
+        "brand": "Mercedes Benz",
+        "code": "0070",
+        "image": "img/products/OM352 2/marcador-temperatura-mecanico-con-cable-1-40-mtrs-40-100-a-c-willtec-0070.jpg",
+        "description": "MARCADOR TEMPERATURA MECANICO CON CABLE 1.40 MTRS. / 40-100 ÂºC WILLTEC 0070 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3534",
+        "name": "REPARACION BOMBA DIRECCION HIDRAULICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0071",
+        "image": "img/products/OM352 2/reparacion-bomba-direccion-hidraulica-imp-0071.jpg",
+        "description": "REPARACION BOMBA DIRECCION HIDRAULICA IMP. 0071 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3535",
+        "name": "MARCADOR TEMPERATURA 12 V. / ESCALA 40-100 ÂºC VDO",
+        "brand": "Mercedes Benz",
+        "code": "0073",
+        "image": "img/products/OM352 2/marcador-temperatura-12-v-escala-40-100-a-c-vdo-0073.jpg",
+        "description": "MARCADOR TEMPERATURA 12 V. / ESCALA 40-100 ÂºC VDO 0073 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3536",
+        "name": "TUERCA DE PINON 40MM. X 1.5 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0074",
+        "image": "img/products/OM352 2/tuerca-de-pinon-40mm-x-1-5-mm-industria-argentina-0074.jpg",
+        "description": "TUERCA DE PINON 40MM. X 1.5 MM. INDUSTRIA ARGENTINA 0074 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3537",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE BAJO BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0076",
+        "image": "img/products/OM352 2/cubre-pedal-freno-y-embrague-bajo-bayros-2000-0076.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE BAJO BAYROS 2000 0076 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3538",
+        "name": "TUERCA CENTRO DE CARDAN / SALIDA DE CAJA 28MM. X 1.5 MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0077",
+        "image": "img/products/OM352 2/tuerca-centro-de-cardan-salida-de-caja-28mm-x-1-5-mm-imp-0077.jpg",
+        "description": "TUERCA CENTRO DE CARDAN / SALIDA DE CAJA 28MM. X 1.5 MM. IMP. 0077 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3539",
+        "name": "MANOMETRO TURBO MECANICO 0-2 / KG/CM2 / DIAM. 52MM. WILLTEC",
+        "brand": "Mercedes Benz",
+        "code": "0084",
+        "image": "img/products/OM352 2/manometro-turbo-mecanico-0-2-kg-cm2-diam-52mm-willtec-0084.jpg",
+        "description": "MANOMETRO TURBO MECANICO 0-2 / KG/CM2 / DIAM. 52MM. WILLTEC 0084 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3540",
+        "name": "CABLE NYLON PARA MANOMETRO TURBO MECANICO / LARGO 4 MTRS. / ROSCA Q WILLTEC",
+        "brand": "Mercedes Benz",
+        "code": "0085",
+        "image": "img/products/OM352 2/cable-nylon-para-manometro-turbo-mecanico-largo-4-mtrs-rosca-q-willtec-0085.jpg",
+        "description": "CABLE NYLON PARA MANOMETRO TURBO MECANICO / LARGO 4 MTRS. / ROSCA Q WILLTEC 0085 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3541",
+        "name": "CHAPON CUBREVOLANTE DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0086",
+        "image": "img/products/OM352 2/chapon-cubrevolante-de-embrague-industria-argentina-0086.jpg",
+        "description": "CHAPON CUBREVOLANTE DE EMBRAGUE INDUSTRIA ARGENTINA 0086 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3542",
+        "name": "CIERRE DE CAPOT INFERIOR UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0088",
+        "image": "img/products/OM352 2/cierre-de-capot-inferior-universal-0088.jpg",
+        "description": "CIERRE DE CAPOT INFERIOR UNIVERSAL 0088 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3543",
+        "name": "CIERRE DE CAPOT SUPERIOR UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0089",
+        "image": "img/products/OM352 2/cierre-de-capot-superior-universal-0089.jpg",
+        "description": "CIERRE DE CAPOT SUPERIOR UNIVERSAL 0089 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3544",
+        "name": "CILINDRO COMPRESOR 77MM. 4 AGUJEROS CORTO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0091",
+        "image": "img/products/OM352 2/cilindro-compresor-77mm-4-agujeros-corto-industria-argentina-0091.jpg",
+        "description": "CILINDRO COMPRESOR 77MM. 4 AGUJEROS CORTO INDUSTRIA ARGENTINA 0091 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3545",
+        "name": "CILINDRO COMPRESOR 77MM. 3 AGUJEROS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0092",
+        "image": "img/products/OM352 2/cilindro-compresor-77mm-3-agujeros-industria-argentina-0092.jpg",
+        "description": "CILINDRO COMPRESOR 77MM. 3 AGUJEROS INDUSTRIA ARGENTINA 0092 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3546",
+        "name": "CILINDRO COMPRESOR 77MM. 4 AGUJEROS LARGO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0093",
+        "image": "img/products/OM352 2/cilindro-compresor-77mm-4-agujeros-largo-industria-argentina-0093.jpg",
+        "description": "CILINDRO COMPRESOR 77MM. 4 AGUJEROS LARGO INDUSTRIA ARGENTINA 0093 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3547",
+        "name": "CILINDRO COMPRESOR 94MM. BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "0094",
+        "image": "img/products/OM352 2/cilindro-compresor-94mm-bel-ar-0094.jpg",
+        "description": "CILINDRO COMPRESOR 94MM. BEL-AR 0094 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3548",
+        "name": "JUNTA BASE FILTRO EN BANO DE ACEITE BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0095",
+        "image": "img/products/OM352 2/junta-base-filtro-en-bano-de-aceite-bayros-2000-0095.jpg",
+        "description": "JUNTA BASE FILTRO EN BANO DE ACEITE BAYROS 2000 0095 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3549",
+        "name": "GUARDAPOLVO COLUMNA DIRECCION REFORMA BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0097",
+        "image": "img/products/OM352 2/guardapolvo-columna-direccion-reforma-bayros-2000-0097.jpg",
+        "description": "GUARDAPOLVO COLUMNA DIRECCION REFORMA BAYROS 2000 0097 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3550",
+        "name": "TAPA TANQUE DE COMBUSTIBLE CON LLAVE UNICK",
+        "brand": "Mercedes Benz",
+        "code": "0113",
+        "image": "img/products/OM352 2/tapa-tanque-de-combustible-con-llave-unick-0113.jpg",
+        "description": "TAPA TANQUE DE COMBUSTIBLE CON LLAVE UNICK 0113 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3551",
+        "name": "POLEA SUPLEMENTO CIGUENAL 2 CANALES INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0122",
+        "image": "img/products/OM352 2/polea-suplemento-ciguenal-2-canales-industria-argentina-0122.jpg",
+        "description": "POLEA SUPLEMENTO CIGUENAL 2 CANALES INDUSTRIA ARGENTINA 0122 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3552",
+        "name": "TAPA FILTRO COMBUSTIBLE 1/2 LITRO DOBLE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0131",
+        "image": "img/products/OM352 2/tapa-filtro-combustible-1-2-litro-doble-industria-argentina-0131.jpg",
+        "description": "TAPA FILTRO COMBUSTIBLE 1/2 LITRO DOBLE INDUSTRIA ARGENTINA 0131 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3553",
+        "name": "EJE HORQUILLA DE CAJA 4Âº Y 5Âº IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0134",
+        "image": "img/products/OM352 2/eje-horquilla-de-caja-4a-y-5a-imp-0134.jpg",
+        "description": "EJE HORQUILLA DE CAJA 4Âº Y 5Âº IMP. 0134 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3554",
+        "name": "EJE HORQUILLA DE CAJA 2Âº Y 3Âº IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0136",
+        "image": "img/products/OM352 2/eje-horquilla-de-caja-2a-y-3a-imp-0136.jpg",
+        "description": "EJE HORQUILLA DE CAJA 2Âº Y 3Âº IMP. 0136 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3555",
+        "name": "ESPARRAGO DE PALIER 12MM. X 12MM. X 53MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0141",
+        "image": "img/products/OM352 2/esparrago-de-palier-12mm-x-12mm-x-53mm-industria-argentina-0141.jpg",
+        "description": "ESPARRAGO DE PALIER 12MM. X 12MM. X 53MM. INDUSTRIA ARGENTINA 0141 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3556",
+        "name": "FILTRO EN BANO DE ACEITE FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "0148",
+        "image": "img/products/OM352 2/filtro-en-bano-de-aceite-filtros-serrano-0148.jpg",
+        "description": "FILTRO EN BANO DE ACEITE FILTROS SERRANO 0148 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3557",
+        "name": "FUELLE INTERIOR PALANCA DE CAMBIOS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0152",
+        "image": "img/products/OM352 2/fuelle-interior-palanca-de-cambios-industria-argentina-0152.jpg",
+        "description": "FUELLE INTERIOR PALANCA DE CAMBIOS INDUSTRIA ARGENTINA 0152 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3558",
+        "name": "FUELLE PALANCA DE CAMBIOS TIPO ORIGINAL BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0153",
+        "image": "img/products/OM352 2/fuelle-palanca-de-cambios-tipo-original-bayros-2000-0153.jpg",
+        "description": "FUELLE PALANCA DE CAMBIOS TIPO ORIGINAL BAYROS 2000 0153 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3559",
+        "name": "CUBRE RODAMIENTO DE CARDAN PLATINUM",
+        "brand": "Mercedes Benz",
+        "code": "0154",
+        "image": "img/products/OM352 2/cubre-rodamiento-de-cardan-platinum-0154.jpg",
+        "description": "CUBRE RODAMIENTO DE CARDAN PLATINUM 0154 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3560",
+        "name": "GUIA GUARDABARRO PLASTICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0155",
+        "image": "img/products/OM352 2/guia-guardabarro-plastica-imp-0155.jpg",
+        "description": "GUIA GUARDABARRO PLASTICA IMP. 0155 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3561",
+        "name": "HORQUILLA DE CAJA 2Âº Y 3Âº IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0159",
+        "image": "img/products/OM352 2/horquilla-de-caja-2a-y-3a-imp-0159.jpg",
+        "description": "HORQUILLA DE CAJA 2Âº Y 3Âº IMP. 0159 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3562",
+        "name": "HORQUILLA DE CAJA 4Âº Y 5Âº IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0161",
+        "image": "img/products/OM352 2/horquilla-de-caja-4a-y-5a-imp-0161.jpg",
+        "description": "HORQUILLA DE CAJA 4Âº Y 5Âº IMP. 0161 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3563",
+        "name": "HORQUILLA EMBRAGUE ORIGINAL / FORJADA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0163",
+        "image": "img/products/OM352 2/horquilla-embrague-original-forjada-industria-argentina-0163.jpg",
+        "description": "HORQUILLA EMBRAGUE ORIGINAL / FORJADA INDUSTRIA ARGENTINA 0163 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3564",
+        "name": "JUNTA TAPA CILINDROS METALOPLASTICA / ESPESOR 1.20 MM. ELRING",
+        "brand": "Mercedes Benz",
+        "code": "0168",
+        "image": "img/products/OM352 2/junta-tapa-cilindros-metaloplastica-espesor-1-20-mm-elring-0168.jpg",
+        "description": "JUNTA TAPA CILINDROS METALOPLASTICA / ESPESOR 1.20 MM. ELRING 0168 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3565",
+        "name": "CABLE PARE MOTOR 1200 MM. TUBA",
+        "brand": "Mercedes Benz",
+        "code": "0169",
+        "image": "img/products/OM352 2/cable-pare-motor-1200-mm-tuba-0169.jpg",
+        "description": "CABLE PARE MOTOR 1200 MM. TUBA 0169 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3566",
+        "name": "KIT PREFILTRO BOMBA ALIMENTADORA COMPLETO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0173",
+        "image": "img/products/OM352 2/kit-prefiltro-bomba-alimentadora-completo-imp-0173.jpg",
+        "description": "KIT PREFILTRO BOMBA ALIMENTADORA COMPLETO IMP. 0173 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3567",
+        "name": "ROTULA HORQUILLA EMBRAGUE ACERO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0179",
+        "image": "img/products/OM352 2/rotula-horquilla-embrague-acero-imp-0179.jpg",
+        "description": "ROTULA HORQUILLA EMBRAGUE ACERO IMP. 0179 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3568",
+        "name": "CABEZAL FILTRO DE ACEITE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0180",
+        "image": "img/products/OM352 2/cabezal-filtro-de-aceite-industria-argentina-0180.jpg",
+        "description": "CABEZAL FILTRO DE ACEITE INDUSTRIA ARGENTINA 0180 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3569",
+        "name": "JUNTA REFRIGERADOR DE ACEITE / MODELO VIEJO CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "0183",
+        "image": "img/products/OM352 2/junta-refrigerador-de-aceite-modelo-viejo-ciccarelli-0183.jpg",
+        "description": "JUNTA REFRIGERADOR DE ACEITE / MODELO VIEJO CICCARELLI 0183 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3570",
+        "name": "MANIJA EXTERIOR DE PUERTA CURVA CROMADA CON LLAVE UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0184",
+        "image": "img/products/OM352 2/manija-exterior-de-puerta-curva-cromada-con-llave-universal-0184.jpg",
+        "description": "MANIJA EXTERIOR DE PUERTA CURVA CROMADA CON LLAVE UNIVERSAL 0184 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3571",
+        "name": "SELECTOR ALTA Y BAJA ELECTRONEUMATICO CON VALVULA 24V. IGH",
+        "brand": "Mercedes Benz",
+        "code": "0186",
+        "image": "img/products/OM352 2/selector-alta-y-baja-electroneumatico-con-valvula-24v-igh-0186.jpg",
+        "description": "SELECTOR ALTA Y BAJA ELECTRONEUMATICO CON VALVULA 24V. IGH 0186 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3572",
+        "name": "PEDAL ACELERADOR CHAPA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0190",
+        "image": "img/products/OM352 2/pedal-acelerador-chapa-industria-argentina-0190.jpg",
+        "description": "PEDAL ACELERADOR CHAPA INDUSTRIA ARGENTINA 0190 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3573",
+        "name": "PISTA RUEDA TRASERA / 110MM. X 86MM. X 18.50MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0191",
+        "image": "img/products/OM352 2/pista-rueda-trasera-110mm-x-86mm-x-18-50mm-imp-0191.jpg",
+        "description": "PISTA RUEDA TRASERA / 110MM. X 86MM. X 18.50MM. IMP. 0191 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3574",
+        "name": "MANOMETRO DOBLE MECANICO / DIAM. 52 MM. / ESCALA 0-10 BAR ALARMA EN 3 BAR VDO",
+        "brand": "Mercedes Benz",
+        "code": "0194",
+        "image": "img/products/OM352 2/manometro-doble-mecanico-diam-52-mm-escala-0-10-bar-alarma-en-3-bar-vdo-0194.jpg",
+        "description": "MANOMETRO DOBLE MECANICO / DIAM. 52 MM. / ESCALA 0-10 BAR ALARMA EN 3 BAR VDO 0194 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3575",
+        "name": "REGISTRO DE EMBRAGUE REFORMA / ROTULA 12 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0197",
+        "image": "img/products/OM352 2/registro-de-embrague-reforma-rotula-12-mm-industria-argentina-0197.jpg",
+        "description": "REGISTRO DE EMBRAGUE REFORMA / ROTULA 12 MM. INDUSTRIA ARGENTINA 0197 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3576",
+        "name": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 40MM. SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "0199",
+        "image": "img/products/OM352 2/rodamiento-de-cardan-con-goma-diam-int-40mm-suporte-rei-0199.gif",
+        "description": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 40MM. SUPORTE REI 0199 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3577",
+        "name": "SECTOR DIRECCION MECANICA AMPRI",
+        "brand": "Mercedes Benz",
+        "code": "0211",
+        "image": "img/products/OM352 2/sector-direccion-mecanica-ampri-0211.gif",
+        "description": "SECTOR DIRECCION MECANICA AMPRI 0211 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3578",
+        "name": "SIN FIN DIRECCION MECANICA / SIN AGUJERO AMPRI",
+        "brand": "Mercedes Benz",
+        "code": "0213",
+        "image": "img/products/OM352 2/sin-fin-direccion-mecanica-sin-agujero-ampri-0213.gif",
+        "description": "SIN FIN DIRECCION MECANICA / SIN AGUJERO AMPRI 0213 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3579",
+        "name": "SOPORTE CARDAN TIPO REFORMA FLOTANTE CON GOMA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0216",
+        "image": "img/products/OM352 2/soporte-cardan-tipo-reforma-flotante-con-goma-industria-argentina-0216.jpg",
+        "description": "SOPORTE CARDAN TIPO REFORMA FLOTANTE CON GOMA INDUSTRIA ARGENTINA 0216 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3580",
+        "name": "SOPORTE MOTOR DELANTERO Y TRASERO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0218",
+        "image": "img/products/OM352 2/soporte-motor-delantero-y-trasero-industria-argentina-0218.gif",
+        "description": "SOPORTE MOTOR DELANTERO Y TRASERO INDUSTRIA ARGENTINA 0218 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3581",
+        "name": "SOPORTE RADIADOR SUPERIOR E INFERIOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0224",
+        "image": "img/products/OM352 2/soporte-radiador-superior-e-inferior-industria-argentina-0224.jpg",
+        "description": "SOPORTE RADIADOR SUPERIOR E INFERIOR INDUSTRIA ARGENTINA 0224 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3582",
+        "name": "TUERCA BULON DE RUEDA 20MM. / PARA LLAVE 27MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0226",
+        "image": "img/products/OM352 2/tuerca-bulon-de-rueda-20mm-para-llave-27mm-s-3-0226.jpg",
+        "description": "TUERCA BULON DE RUEDA 20MM. / PARA LLAVE 27MM. S-3 0226 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3583",
+        "name": "TUERCA DIRECTA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0228",
+        "image": "img/products/OM352 2/tuerca-directa-imp-0228.jpg",
+        "description": "TUERCA DIRECTA IMP. 0228 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3584",
+        "name": "UNION TOMA DE AIRE 80 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0229",
+        "image": "img/products/OM352 2/union-toma-de-aire-80-mm-industria-argentina-0229.jpg",
+        "description": "UNION TOMA DE AIRE 80 MM. INDUSTRIA ARGENTINA 0229 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3585",
+        "name": "BULON RUEDA DELANTERA / TRASERA COMPLETO 20MM. X 75MM. / TUERCA 27MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0233",
+        "image": "img/products/OM352 2/bulon-rueda-delantera-trasera-completo-20mm-x-75mm-tuerca-27mm-s-3-0233.jpg",
+        "description": "BULON RUEDA DELANTERA / TRASERA COMPLETO 20MM. X 75MM. / TUERCA 27MM. S-3 0233 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3586",
+        "name": "PISTA DISTRIBUCION O CIGUENAL CON CHAVETERO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0236",
+        "image": "img/products/OM352 2/pista-distribucion-o-ciguenal-con-chavetero-imp-0236.jpg",
+        "description": "PISTA DISTRIBUCION O CIGUENAL CON CHAVETERO IMP. 0236 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3587",
+        "name": "REGISTRO FRENO HIDRAULICO DELANTERO Y TRASERO REFORMA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0240",
+        "image": "img/products/OM352 2/registro-freno-hidraulico-delantero-y-trasero-reforma-industria-argentina-0240.jpg",
+        "description": "REGISTRO FRENO HIDRAULICO DELANTERO Y TRASERO REFORMA INDUSTRIA ARGENTINA 0240 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3588",
+        "name": "SOPORTE MULTIPLE DE ESCAPE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0247",
+        "image": "img/products/OM352 2/soporte-multiple-de-escape-industria-argentina-0247.jpg",
+        "description": "SOPORTE MULTIPLE DE ESCAPE INDUSTRIA ARGENTINA 0247 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3589",
+        "name": "LLAVE DE LUCES ,GIRO Y BOCINA CON RETORNO AUTOMATICO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0248",
+        "image": "img/products/OM352 2/llave-de-luces-giro-y-bocina-con-retorno-automatico-imp-0248.jpg",
+        "description": "LLAVE DE LUCES ,GIRO Y BOCINA CON RETORNO AUTOMATICO IMP. 0248 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3590",
+        "name": "LLAVE DE LUCES ,GIRO Y BOCINA CON RETORNO AUTOMATICO Y GUINADA TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "0249",
+        "image": "img/products/OM352 2/llave-de-luces-giro-y-bocina-con-retorno-automatico-y-guinada-trucktec-0249.jpg",
+        "description": "LLAVE DE LUCES ,GIRO Y BOCINA CON RETORNO AUTOMATICO Y GUINADA TRUCKTEC 0249 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3591",
+        "name": "LLAVE CONTACTO Y LUCES CON LLAVIN TAMATEL",
+        "brand": "Mercedes Benz",
+        "code": "0250",
+        "image": "img/products/OM352 2/llave-contacto-y-luces-con-llavin-tamatel-0250.jpg",
+        "description": "LLAVE CONTACTO Y LUCES CON LLAVIN TAMATEL 0250 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3592",
+        "name": "JGO. RETENES DE BANCADA (SOGUITAS) ELRING",
+        "brand": "Mercedes Benz",
+        "code": "0254",
+        "image": "img/products/OM352 2/jgo-retenes-de-bancada-soguitas-elring-0254.jpg",
+        "description": "JGO. RETENES DE BANCADA (SOGUITAS) ELRING 0254 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3593",
+        "name": "JUNTA TAPA LATERAL BOTADORES / CORCHO Y GOMA BANCO",
+        "brand": "Mercedes Benz",
+        "code": "0257",
+        "image": "img/products/OM352 2/junta-tapa-lateral-botadores-corcho-y-goma-banco-0257.jpg",
+        "description": "JUNTA TAPA LATERAL BOTADORES / CORCHO Y GOMA BANCO 0257 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3594",
+        "name": "MOVIMIENTO COLUMNA DIRECCION STAHL",
+        "brand": "Mercedes Benz",
+        "code": "0261",
+        "image": "img/products/OM352 2/movimiento-columna-direccion-stahl-0261.jpg",
+        "description": "MOVIMIENTO COLUMNA DIRECCION STAHL 0261 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3595",
+        "name": "MOVIMIENTO EJE COLUMNA DIRECCION MECANICA / GRANDE STAHL",
+        "brand": "Mercedes Benz",
+        "code": "0262",
+        "image": "img/products/OM352 2/movimiento-eje-columna-direccion-mecanica-grande-stahl-0262.jpg",
+        "description": "MOVIMIENTO EJE COLUMNA DIRECCION MECANICA / GRANDE STAHL 0262 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3596",
+        "name": "VELOCIMETRO MECANICO 0-130 KM. / CON ODOMETRO VDO",
+        "brand": "Mercedes Benz",
+        "code": "0263",
+        "image": "img/products/OM352 2/velocimetro-mecanico-0-130-km-con-odometro-vdo-0263.jpg",
+        "description": "VELOCIMETRO MECANICO 0-130 KM. / CON ODOMETRO VDO 0263 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3597",
+        "name": "BULON RUEDA DELANTERA / TRASERA COMPLETO 20MM. X 85MM. / TUERCA 27MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0266",
+        "image": "img/products/OM352 2/bulon-rueda-delantera-trasera-completo-20mm-x-85mm-tuerca-27mm-s-3-0266.jpg",
+        "description": "BULON RUEDA DELANTERA / TRASERA COMPLETO 20MM. X 85MM. / TUERCA 27MM. S-3 0266 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3598",
+        "name": "POLEA BOMBA DE AGUA 3 CANALES ALUMINIO DIAM EXT. CANALES 195.5 MM. Y 150 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0283",
+        "image": "img/products/OM352 2/polea-bomba-de-agua-3-canales-aluminio-diam-ext-canales-195-5-mm-y-150-mm-industria-argentina-0283.gif",
+        "description": "POLEA BOMBA DE AGUA 3 CANALES ALUMINIO DIAM EXT. CANALES 195.5 MM. Y 150 MM. INDUSTRIA ARGENTINA 0283 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3599",
+        "name": "TERMOSTATO 71ÂºC WAHLER",
+        "brand": "Mercedes Benz",
+        "code": "0284",
+        "image": "img/products/OM352 2/termostato-71a-c-wahler-0284.jpg",
+        "description": "TERMOSTATO 71ÂºC WAHLER 0284 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3600",
+        "name": "TERMOSTATO 79ÂºC WAHLER",
+        "brand": "Mercedes Benz",
+        "code": "0285",
+        "image": "img/products/OM352 2/termostato-79a-c-wahler-0285.jpg",
+        "description": "TERMOSTATO 79ÂºC WAHLER 0285 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3601",
+        "name": "TERMOSTATO 83ÂºC WAHLER",
+        "brand": "Mercedes Benz",
+        "code": "0286",
+        "image": "img/products/OM352 2/termostato-83a-c-wahler-0286.jpg",
+        "description": "TERMOSTATO 83ÂºC WAHLER 0286 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3602",
+        "name": "TAPON ARBOL DE LEVAS 60MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0307",
+        "image": "img/products/OM352 2/tapon-arbol-de-levas-60mm-industria-argentina-0307.jpg",
+        "description": "TAPON ARBOL DE LEVAS 60MM. INDUSTRIA ARGENTINA 0307 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3603",
+        "name": "INTERRUPTOR LUCES DE STOP EN PEDALERA Y FRENO DE MOTOR 3-RHO",
+        "brand": "Mercedes Benz",
+        "code": "0316",
+        "image": "img/products/OM352 2/interruptor-luces-de-stop-en-pedalera-y-freno-de-motor-3-rho-0316.jpg",
+        "description": "INTERRUPTOR LUCES DE STOP EN PEDALERA Y FRENO DE MOTOR 3-RHO 0316 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3604",
+        "name": "VALVULA RELAY WABCO 10 BAR / M16 X 1.5MM. F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "0320",
+        "image": "img/products/OM352 2/valvula-relay-wabco-10-bar-m16-x-1-5mm-f-s-s-0320.jpg",
+        "description": "VALVULA RELAY WABCO 10 BAR / M16 X 1.5MM. F.S.S 0320 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3605",
+        "name": "CODO TURBO 70MM. CHICO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0328",
+        "image": "img/products/OM352 2/codo-turbo-70mm-chico-imp-0328.jpg",
+        "description": "CODO TURBO 70MM. CHICO IMP. 0328 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3606",
+        "name": "CODO TURBO 80MM. GRANDE A LA TAPA DE VALVULAS IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0329",
+        "image": "img/products/OM352 2/codo-turbo-80mm-grande-a-la-tapa-de-valvulas-imp-0329.jpg",
+        "description": "CODO TURBO 80MM. GRANDE A LA TAPA DE VALVULAS IMP. 0329 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3607",
+        "name": "GUARDAPOLVO COLUMNA DIRECCION BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0330",
+        "image": "img/products/OM352 2/guardapolvo-columna-direccion-bayros-2000-0330.jpg",
+        "description": "GUARDAPOLVO COLUMNA DIRECCION BAYROS 2000 0330 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3608",
+        "name": "MANIJA CABLE TIRA CAPOT / LADO IZQUIERDO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0338",
+        "image": "img/products/OM352 2/manija-cable-tira-capot-lado-izquierdo-universal-0338.jpg",
+        "description": "MANIJA CABLE TIRA CAPOT / LADO IZQUIERDO UNIVERSAL 0338 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3609",
+        "name": "JGO. GOMAS SOPORTE DE CABINA SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "0354",
+        "image": "img/products/OM352 2/jgo-gomas-soporte-de-cabina-suporte-rei-0354.jpg",
+        "description": "JGO. GOMAS SOPORTE DE CABINA SUPORTE REI 0354 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3610",
+        "name": "ARANDELA ASIENTO RESORTE DE VALVULAS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0359",
+        "image": "img/products/OM352 2/arandela-asiento-resorte-de-valvulas-industria-argentina-0359.jpg",
+        "description": "ARANDELA ASIENTO RESORTE DE VALVULAS INDUSTRIA ARGENTINA 0359 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3611",
+        "name": "BULON CUBRE VOLANTE 12 X 35 X 1.75 MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0372",
+        "image": "img/products/OM352 2/bulon-cubre-volante-12-x-35-x-1-75-mm-s-3-0372.jpg",
+        "description": "BULON CUBRE VOLANTE 12 X 35 X 1.75 MM. S-3 0372 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3612",
+        "name": "POLEA CIGUENAL 2 CANALES (COLOR VERDE) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0375",
+        "image": "img/products/OM352 2/polea-ciguenal-2-canales-color-verde-industria-argentina-0375.jpg",
+        "description": "POLEA CIGUENAL 2 CANALES (COLOR VERDE) INDUSTRIA ARGENTINA 0375 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3613",
+        "name": "POLEA CIGUENAL 1 CANAL INDUSTRIA ARGENTINA / SC",
+        "brand": "Mercedes Benz",
+        "code": "0377",
+        "image": "img/products/OM352 2/polea-ciguenal-1-canal-industria-argentina-sc-0377.gif",
+        "description": "POLEA CIGUENAL 1 CANAL INDUSTRIA ARGENTINA / SC 0377 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3614",
+        "name": "REP. SINCRONIZADO 1Âº Y MARCHA ATRAS IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0378",
+        "image": "img/products/OM352 2/rep-sincronizado-1a-y-marcha-atras-imp-0378.jpg",
+        "description": "REP. SINCRONIZADO 1Âº Y MARCHA ATRAS IMP. 0378 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3615",
+        "name": "REP. SINCRONIZADO 2Âº A 5Âº IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0380",
+        "image": "img/products/OM352 2/rep-sincronizado-2a-a-5a-imp-0380.jpg",
+        "description": "REP. SINCRONIZADO 2Âº A 5Âº IMP. 0380 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3616",
+        "name": "VALVULA COMPRESOR 94MM. BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "0407",
+        "image": "img/products/OM352 2/valvula-compresor-94mm-bel-ar-0407.jpg",
+        "description": "VALVULA COMPRESOR 94MM. BEL-AR 0407 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3617",
+        "name": "SOPORTE COLUMNA DIRECCION IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0419",
+        "image": "img/products/OM352 2/soporte-columna-direccion-imp-0419.jpg",
+        "description": "SOPORTE COLUMNA DIRECCION IMP. 0419 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3618",
+        "name": "JGO. GOMAS SOPORTE DE CABINA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0426",
+        "image": "img/products/OM352 2/jgo-gomas-soporte-de-cabina-industria-argentina-0426.jpg",
+        "description": "JGO. GOMAS SOPORTE DE CABINA INDUSTRIA ARGENTINA 0426 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3619",
+        "name": "CONMUTADOR ELECTRICO DE ENCENDIDO Y ARRANQUE UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "0440",
+        "image": "img/products/OM352 2/conmutador-electrico-de-encendido-y-arranque-universal-0440.jpg",
+        "description": "CONMUTADOR ELECTRICO DE ENCENDIDO Y ARRANQUE UNIVERSAL 0440 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3620",
+        "name": "TAPON FILTRO TANQUE DE COMBUSTIBLE IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0446",
+        "image": "img/products/OM352 2/tapon-filtro-tanque-de-combustible-imp-0446.jpg",
+        "description": "TAPON FILTRO TANQUE DE COMBUSTIBLE IMP. 0446 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3621",
+        "name": "REP. VALVULA GOBERNADORA KNORR COMPLETA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "0452",
+        "image": "img/products/OM352 2/rep-valvula-gobernadora-knorr-completa-bel-ar-0452.jpg",
+        "description": "REP. VALVULA GOBERNADORA KNORR COMPLETA BEL-AR 0452 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3622",
+        "name": "CANO ASPIRACION DE AIRE DEL TURBO SIN BRAZO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0453",
+        "image": "img/products/OM352 2/cano-aspiracion-de-aire-del-turbo-sin-brazo-industria-argentina-0453.jpg",
+        "description": "CANO ASPIRACION DE AIRE DEL TURBO SIN BRAZO INDUSTRIA ARGENTINA 0453 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3623",
+        "name": "REP. VALVULA PEDALERA COMPLETA QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "0460",
+        "image": "img/products/OM352 2/rep-valvula-pedalera-completa-quinelato-0460.jpg",
+        "description": "REP. VALVULA PEDALERA COMPLETA QUINELATO 0460 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3624",
+        "name": "CRAPODINA EMBRAGUE SOLA HCS",
+        "brand": "Mercedes Benz",
+        "code": "0479",
+        "image": "img/products/OM352 2/crapodina-embrague-sola-hcs-0479.jpg",
+        "description": "CRAPODINA EMBRAGUE SOLA HCS 0479 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3625",
+        "name": "CRAPODINA EMBRAGUE CON PORTA CRAPODINA MJB",
+        "brand": "Mercedes Benz",
+        "code": "0480",
+        "image": "img/products/OM352 2/crapodina-embrague-con-porta-crapodina-mjb-0480.jpg",
+        "description": "CRAPODINA EMBRAGUE CON PORTA CRAPODINA MJB 0480 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3626",
+        "name": "EJE ACELERADOR PASANTE CON LEVA CURVA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0481",
+        "image": "img/products/OM352 2/eje-acelerador-pasante-con-leva-curva-industria-argentina-0481.jpg",
+        "description": "EJE ACELERADOR PASANTE CON LEVA CURVA INDUSTRIA ARGENTINA 0481 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3627",
+        "name": "BUJE BARRA ESTABILIZADORA TRASERA BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0489",
+        "image": "img/products/OM352 2/buje-barra-estabilizadora-trasera-bayros-2000-0489.jpg",
+        "description": "BUJE BARRA ESTABILIZADORA TRASERA BAYROS 2000 0489 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3628",
+        "name": "BUJE BRONCE COLUMNA DIRECCION CON GOMA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0490",
+        "image": "img/products/OM352 2/buje-bronce-columna-direccion-con-goma-industria-argentina-0490.jpg",
+        "description": "BUJE BRONCE COLUMNA DIRECCION CON GOMA INDUSTRIA ARGENTINA 0490 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3629",
+        "name": "FUELLE CARDAN DIAM. INT. 72MM. / 68MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0502",
+        "image": "img/products/OM352 2/fuelle-cardan-diam-int-72mm-68mm-industria-argentina-0502.jpg",
+        "description": "FUELLE CARDAN DIAM. INT. 72MM. / 68MM. INDUSTRIA ARGENTINA 0502 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3630",
+        "name": "FUELLE PALANCA DE CAMBIOS REFORMA BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0503",
+        "image": "img/products/OM352 2/fuelle-palanca-de-cambios-reforma-bayros-2000-0503.jpg",
+        "description": "FUELLE PALANCA DE CAMBIOS REFORMA BAYROS 2000 0503 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3631",
+        "name": "CANO CURVO DESCARGA DE ACEITE AL CARTER INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0506",
+        "image": "img/products/OM352 2/cano-curvo-descarga-de-aceite-al-carter-industria-argentina-0506.jpg",
+        "description": "CANO CURVO DESCARGA DE ACEITE AL CARTER INDUSTRIA ARGENTINA 0506 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3632",
+        "name": "CARTER DE ACEITE DE MOTOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0512",
+        "image": "img/products/OM352 2/carter-de-aceite-de-motor-industria-argentina-0512.jpg",
+        "description": "CARTER DE ACEITE DE MOTOR INDUSTRIA ARGENTINA 0512 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3633",
+        "name": "SOPORTE FILTRO AIRE CHICO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0514",
+        "image": "img/products/OM352 2/soporte-filtro-aire-chico-industria-argentina-0514.jpg",
+        "description": "SOPORTE FILTRO AIRE CHICO INDUSTRIA ARGENTINA 0514 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3634",
+        "name": "SOPORTE FILTRO AIRE GRANDE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0515",
+        "image": "img/products/OM352 2/soporte-filtro-aire-grande-industria-argentina-0515.jpg",
+        "description": "SOPORTE FILTRO AIRE GRANDE INDUSTRIA ARGENTINA 0515 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3635",
+        "name": "BULON TAPA DE CILINDROS / M12 x 1.75 x 110 JUNTAS ILLINOIS",
+        "brand": "Mercedes Benz",
+        "code": "0518",
+        "image": "img/products/OM352 2/bulon-tapa-de-cilindros-m12-x-1-75-x-110-juntas-illinois-0518.jpg",
+        "description": "BULON TAPA DE CILINDROS / M12 x 1.75 x 110 JUNTAS ILLINOIS 0518 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3636",
+        "name": "JUNTA TAPA VALVULAS / ESPESOR 2.8MM. BANCO",
+        "brand": "Mercedes Benz",
+        "code": "0521",
+        "image": "img/products/OM352 2/junta-tapa-valvulas-espesor-2-8mm-banco-0521.jpg",
+        "description": "JUNTA TAPA VALVULAS / ESPESOR 2.8MM. BANCO 0521 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3637",
+        "name": "CHAPA DEFLECTORA DE CALOR DEL TURBO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0522",
+        "image": "img/products/OM352 2/chapa-deflectora-de-calor-del-turbo-industria-argentina-0522.jpg",
+        "description": "CHAPA DEFLECTORA DE CALOR DEL TURBO INDUSTRIA ARGENTINA 0522 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3638",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE ALTO BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "0532",
+        "image": "img/products/OM352 2/cubre-pedal-freno-y-embrague-alto-bayros-2000-0532.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE ALTO BAYROS 2000 0532 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3639",
+        "name": "SOPORTE DE CABINA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0552",
+        "image": "img/products/OM352 2/soporte-de-cabina-industria-argentina-0552.jpg",
+        "description": "SOPORTE DE CABINA INDUSTRIA ARGENTINA 0552 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3640",
+        "name": "BOTADOR DE VALVULAS TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "0566",
+        "image": "img/products/OM352 2/botador-de-valvulas-trucktec-0566.jpg",
+        "description": "BOTADOR DE VALVULAS TRUCKTEC 0566 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3641",
+        "name": "VALVULA GOBERNADORA WABCO 8.1 BAR F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "0581",
+        "image": "img/products/OM352 2/valvula-gobernadora-wabco-8-1-bar-f-s-s-0581.jpg",
+        "description": "VALVULA GOBERNADORA WABCO 8.1 BAR F.S.S 0581 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3642",
+        "name": "COJINETE EJE PEDAL ACELERADOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0586",
+        "image": "img/products/OM352 2/cojinete-eje-pedal-acelerador-industria-argentina-0586.jpg",
+        "description": "COJINETE EJE PEDAL ACELERADOR INDUSTRIA ARGENTINA 0586 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3643",
+        "name": "BULBO TEMPERATURA R14 X 1.5 MM. CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "0598",
+        "image": "img/products/OM352 2/bulbo-temperatura-r14-x-1-5-mm-calorstat-0598.webp",
+        "description": "BULBO TEMPERATURA R14 X 1.5 MM. CALORSTAT 0598 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3644",
+        "name": "BULON DE CARDAN COMPLETO 10MM. X 30MM. X 1MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0601",
+        "image": "img/products/OM352 2/bulon-de-cardan-completo-10mm-x-30mm-x-1mm-s-3-0601.jpg",
+        "description": "BULON DE CARDAN COMPLETO 10MM. X 30MM. X 1MM. S-3 0601 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3645",
+        "name": "BARRA SUPERIOR COLUMNA DIRECCION HIDRAULICA 318MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0604",
+        "image": "img/products/OM352 2/barra-superior-columna-direccion-hidraulica-318mm-imp-0604.jpg",
+        "description": "BARRA SUPERIOR COLUMNA DIRECCION HIDRAULICA 318MM. IMP. 0604 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3646",
+        "name": "VARILLA ACELERADOR CORTA 220 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0614",
+        "image": "img/products/OM352 2/varilla-acelerador-corta-220-mm-industria-argentina-0614.jpg",
+        "description": "VARILLA ACELERADOR CORTA 220 MM. INDUSTRIA ARGENTINA 0614 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3647",
+        "name": "VARILLA ACELERADOR LARGA 340 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0615",
+        "image": "img/products/OM352 2/varilla-acelerador-larga-340-mm-industria-argentina-0615.jpg",
+        "description": "VARILLA ACELERADOR LARGA 340 MM. INDUSTRIA ARGENTINA 0615 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3648",
+        "name": "LLAVE TUERCA DE PALIER TIPO CRUZ INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0627",
+        "image": "img/products/OM352 2/llave-tuerca-de-palier-tipo-cruz-industria-argentina-0627.jpg",
+        "description": "LLAVE TUERCA DE PALIER TIPO CRUZ INDUSTRIA ARGENTINA 0627 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3649",
+        "name": "LLAVE TUERCA DE PALIER TIPO \"L\" INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0629",
+        "image": "img/products/OM352 2/llave-tuerca-de-palier-tipo-l-industria-argentina-0629.jpg",
+        "description": "LLAVE TUERCA DE PALIER TIPO \"L\" INDUSTRIA ARGENTINA 0629 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3650",
+        "name": "BULON PLACA DE EMBRAGUE 8 X 28 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0638",
+        "image": "img/products/OM352 2/bulon-placa-de-embrague-8-x-28-mm-industria-argentina-0638.jpg",
+        "description": "BULON PLACA DE EMBRAGUE 8 X 28 MM. INDUSTRIA ARGENTINA 0638 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3651",
+        "name": "BRIDA CARDAN / 14 ESTRIAS / 8 AG. REI AUTOPARTS",
+        "brand": "Mercedes Benz",
+        "code": "0644",
+        "image": "img/products/OM352 2/brida-cardan-14-estrias-8-ag-rei-autoparts-0644.jpg",
+        "description": "BRIDA CARDAN / 14 ESTRIAS / 8 AG. REI AUTOPARTS 0644 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3652",
+        "name": "ARANA CANONERA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0660",
+        "image": "img/products/OM352 2/arana-canonera-industria-argentina-0660.jpg",
+        "description": "ARANA CANONERA INDUSTRIA ARGENTINA 0660 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3653",
+        "name": "PLATO PORTACRUCETA / 8 AGUJEROS / NODULAR REI AUTOPARTS",
+        "brand": "Mercedes Benz",
+        "code": "0663",
+        "image": "img/products/OM352 2/plato-portacruceta-8-agujeros-nodular-rei-autoparts-0663.jpg",
+        "description": "PLATO PORTACRUCETA / 8 AGUJEROS / NODULAR REI AUTOPARTS 0663 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3654",
+        "name": "RODAMIENTO DE CARDAN SIN GOMA DIAM. INT. 40MM. PLATINUM",
+        "brand": "Mercedes Benz",
+        "code": "0665",
+        "image": "img/products/OM352 2/rodamiento-de-cardan-sin-goma-diam-int-40mm-platinum-0665.jpg",
+        "description": "RODAMIENTO DE CARDAN SIN GOMA DIAM. INT. 40MM. PLATINUM 0665 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3655",
+        "name": "HORQUILLA CARDAN PARA SOLDAR / DIAM. A 64.00 / DIAM. B 68.00 / DIAM. C 90.00 REI AUTOPARTS",
+        "brand": "Mercedes Benz",
+        "code": "0671",
+        "image": "img/products/OM352 2/horquilla-cardan-para-soldar-diam-a-64-00-diam-b-68-00-diam-c-90-00-rei-autoparts-0671.jpg",
+        "description": "HORQUILLA CARDAN PARA SOLDAR / DIAM. A 64.00 / DIAM. B 68.00 / DIAM. C 90.00 REI AUTOPARTS 0671 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3656",
+        "name": "SOPORTE ALTERNADOR CON BUJES FUNDICION INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0673",
+        "image": "img/products/OM352 2/soporte-alternador-con-bujes-fundicion-industria-argentina-0673.jpg",
+        "description": "SOPORTE ALTERNADOR CON BUJES FUNDICION INDUSTRIA ARGENTINA 0673 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3657",
+        "name": "TUERCA ESPARRAGO TAPA DE CILINDROS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0676",
+        "image": "img/products/OM352 2/tuerca-esparrago-tapa-de-cilindros-industria-argentina-0676.jpg",
+        "description": "TUERCA ESPARRAGO TAPA DE CILINDROS INDUSTRIA ARGENTINA 0676 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3658",
+        "name": "TUERCA ESPARRAGO PALIER (BARRILITO) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0677",
+        "image": "img/products/OM352 2/tuerca-esparrago-palier-barrilito-industria-argentina-0677.jpg",
+        "description": "TUERCA ESPARRAGO PALIER (BARRILITO) INDUSTRIA ARGENTINA 0677 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3659",
+        "name": "ARANDELA LISA CANONERA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0692",
+        "image": "img/products/OM352 2/arandela-lisa-canonera-industria-argentina-0692.jpg",
+        "description": "ARANDELA LISA CANONERA INDUSTRIA ARGENTINA 0692 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3660",
+        "name": "FLOTANTE TANQUE COMBUSTIBLE ALTURA 403 MM. VDO",
+        "brand": "Mercedes Benz",
+        "code": "0694",
+        "image": "img/products/OM352 2/flotante-tanque-combustible-altura-403-mm-vdo-0694.jpg",
+        "description": "FLOTANTE TANQUE COMBUSTIBLE ALTURA 403 MM. VDO 0694 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3661",
+        "name": "SOPORTE TANQUE COMBUSTIBLE REDONDO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0705",
+        "image": "img/products/OM352 2/soporte-tanque-combustible-redondo-industria-argentina-0705.jpg",
+        "description": "SOPORTE TANQUE COMBUSTIBLE REDONDO INDUSTRIA ARGENTINA 0705 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3662",
+        "name": "TAPA REFRIGERADORA DE ACEITE / HIERRO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0706",
+        "image": "img/products/OM352 2/tapa-refrigeradora-de-aceite-hierro-industria-argentina-0706.jpg",
+        "description": "TAPA REFRIGERADORA DE ACEITE / HIERRO INDUSTRIA ARGENTINA 0706 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3663",
+        "name": "MOVIMIENTO COLUMNA DIRECCION TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "0715",
+        "image": "img/products/OM352 2/movimiento-columna-direccion-tf-p-technology-0715.jpg",
+        "description": "MOVIMIENTO COLUMNA DIRECCION TF&P TECHNOLOGY 0715 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3664",
+        "name": "MOVIMIENTO EJE COLUMNA DIRECCION MECANICA / GRANDE TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "0722",
+        "image": "img/products/OM352 2/movimiento-eje-columna-direccion-mecanica-grande-tf-p-technology-0722.jpg",
+        "description": "MOVIMIENTO EJE COLUMNA DIRECCION MECANICA / GRANDE TF&P TECHNOLOGY 0722 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3665",
+        "name": "HEMBRA CARDAN / 16 ESTRIAS / DIAM. 50.8MM / LARGO 220MM. / DADO 38MM. REI AUTOPARTS",
+        "brand": "Mercedes Benz",
+        "code": "0724",
+        "image": "img/products/OM352 2/hembra-cardan-16-estrias-diam-50-8mm-largo-220mm-dado-38mm-rei-autoparts-0724.jpg",
+        "description": "HEMBRA CARDAN / 16 ESTRIAS / DIAM. 50.8MM / LARGO 220MM. / DADO 38MM. REI AUTOPARTS 0724 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3666",
+        "name": "RETEN DISTRIBUCION / DIAM. INT. 65MM. / DIAM. EXT. 90MM. / ANCHO 15MM. / MATERIAL MVQ ELRING",
+        "brand": "Mercedes Benz",
+        "code": "0738",
+        "image": "img/products/OM352 2/reten-distribucion-diam-int-65mm-diam-ext-90mm-ancho-15mm-material-mvq-elring-0738.jpg",
+        "description": "RETEN DISTRIBUCION / DIAM. INT. 65MM. / DIAM. EXT. 90MM. / ANCHO 15MM. / MATERIAL MVQ ELRING 0738 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3667",
+        "name": "SUNCHO TANQUE DE COMBUSTIBLE REDONDO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0753",
+        "image": "img/products/OM352 2/suncho-tanque-de-combustible-redondo-industria-argentina-0753.jpg",
+        "description": "SUNCHO TANQUE DE COMBUSTIBLE REDONDO INDUSTRIA ARGENTINA 0753 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3668",
+        "name": "VENTILETE PUERTA DERECHA CON VIDRIO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0755",
+        "image": "img/products/OM352 2/ventilete-puerta-derecha-con-vidrio-industria-argentina-0755.jpg",
+        "description": "VENTILETE PUERTA DERECHA CON VIDRIO INDUSTRIA ARGENTINA 0755 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3669",
+        "name": "VENTILETE PUERTA IZQUIERDA CON VIDRIO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0756",
+        "image": "img/products/OM352 2/ventilete-puerta-izquierda-con-vidrio-industria-argentina-0756.jpg",
+        "description": "VENTILETE PUERTA IZQUIERDA CON VIDRIO INDUSTRIA ARGENTINA 0756 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3670",
+        "name": "PLACA SELECTORA DE CAMBIOS IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0761",
+        "image": "img/products/OM352 2/placa-selectora-de-cambios-imp-0761.jpg",
+        "description": "PLACA SELECTORA DE CAMBIOS IMP. 0761 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3671",
+        "name": "TAZA GRASERA RUEDA DELANTERA FUNDICION INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0770",
+        "image": "img/products/OM352 2/taza-grasera-rueda-delantera-fundicion-industria-argentina-0770.jpg",
+        "description": "TAZA GRASERA RUEDA DELANTERA FUNDICION INDUSTRIA ARGENTINA 0770 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3672",
+        "name": "ELEMENTO COMPENSADOR (FUELLE) PILOTO",
+        "brand": "Mercedes Benz",
+        "code": "0777",
+        "image": "img/products/OM352 2/elemento-compensador-fuelle-piloto-0777.jpg",
+        "description": "ELEMENTO COMPENSADOR (FUELLE) PILOTO 0777 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3673",
+        "name": "MACHO CARDAN / 16 ESTRIAS / DIAM. TUBO 64MM / LARGO 227MM. TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "0787",
+        "image": "img/products/OM352 2/macho-cardan-16-estrias-diam-tubo-64mm-largo-227mm-tf-p-technology-0787.jpg",
+        "description": "MACHO CARDAN / 16 ESTRIAS / DIAM. TUBO 64MM / LARGO 227MM. TF&P TECHNOLOGY 0787 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3674",
+        "name": "VALVULA SOBREPRESION BOMBA DE ACEITE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0800",
+        "image": "img/products/OM352 2/valvula-sobrepresion-bomba-de-aceite-industria-argentina-0800.jpg",
+        "description": "VALVULA SOBREPRESION BOMBA DE ACEITE INDUSTRIA ARGENTINA 0800 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3675",
+        "name": "GUIA DE DIRECTA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0801",
+        "image": "img/products/OM352 2/guia-de-directa-industria-argentina-0801.jpg",
+        "description": "GUIA DE DIRECTA INDUSTRIA ARGENTINA 0801 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3676",
+        "name": "TORRE PALANCA DE CAMBIOS FUNDICION TIPO ORIGINAL PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "0802",
+        "image": "img/products/OM352 2/torre-palanca-de-cambios-fundicion-tipo-original-palazzolo-0802.jpg",
+        "description": "TORRE PALANCA DE CAMBIOS FUNDICION TIPO ORIGINAL PALAZZOLO 0802 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3677",
+        "name": "KIT ADAPTACION DE TURBO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0808",
+        "image": "img/products/OM352 2/kit-adaptacion-de-turbo-industria-argentina-0808.jpg",
+        "description": "KIT ADAPTACION DE TURBO INDUSTRIA ARGENTINA 0808 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3678",
+        "name": "RETEN DE VALVULA / MATERIAL ACM / DIAM. 9 X 14.6 X 19MM. / ALTURA 15MM. ELRING",
+        "brand": "Mercedes Benz",
+        "code": "0856",
+        "image": "img/products/OM352 2/reten-de-valvula-material-acm-diam-9-x-14-6-x-19mm-altura-15mm-elring-0856.jpg",
+        "description": "RETEN DE VALVULA / MATERIAL ACM / DIAM. 9 X 14.6 X 19MM. / ALTURA 15MM. ELRING 0856 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3679",
+        "name": "TAPA COMPRESOR 94MM. CON VALVULAS Y JUNTA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "0868",
+        "image": "img/products/OM352 2/tapa-compresor-94mm-con-valvulas-y-junta-bel-ar-0868.jpg",
+        "description": "TAPA COMPRESOR 94MM. CON VALVULAS Y JUNTA BEL-AR 0868 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3680",
+        "name": "CANO RIGIDO LUBRICACION DE TURBO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0869",
+        "image": "img/products/OM352 2/cano-rigido-lubricacion-de-turbo-industria-argentina-0869.jpg",
+        "description": "CANO RIGIDO LUBRICACION DE TURBO INDUSTRIA ARGENTINA 0869 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3681",
+        "name": "BULON RUEDA TRASERA COMPLETO 20MM. X 95MM. / TUERCA 27MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "0871",
+        "image": "img/products/OM352 2/bulon-rueda-trasera-completo-20mm-x-95mm-tuerca-27mm-s-3-0871.jpg",
+        "description": "BULON RUEDA TRASERA COMPLETO 20MM. X 95MM. / TUERCA 27MM. S-3 0871 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3682",
+        "name": "ESPARRAGO TAPA DE CILINDROS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0894",
+        "image": "img/products/OM352 2/esparrago-tapa-de-cilindros-industria-argentina-0894.jpg",
+        "description": "ESPARRAGO TAPA DE CILINDROS INDUSTRIA ARGENTINA 0894 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3683",
+        "name": "VALVULA DE FLUJO WABCO SIN RETORNO 5.5 BAR / M22 X 1.5MM. F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "0900",
+        "image": "img/products/OM352 2/valvula-de-flujo-wabco-sin-retorno-5-5-bar-m22-x-1-5mm-f-s-s-0900.jpg",
+        "description": "VALVULA DE FLUJO WABCO SIN RETORNO 5.5 BAR / M22 X 1.5MM. F.S.S 0900 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3684",
+        "name": "BRAZO PITMAN DIRECCION HIDRAULICA CON FRENO VOLTEO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0916",
+        "image": "img/products/OM352 2/brazo-pitman-direccion-hidraulica-con-freno-volteo-imp-0916.jpg",
+        "description": "BRAZO PITMAN DIRECCION HIDRAULICA CON FRENO VOLTEO IMP. 0916 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3685",
+        "name": "LEVA ESTRIADA ACELERADOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0935",
+        "image": "img/products/OM352 2/leva-estriada-acelerador-industria-argentina-0935.jpg",
+        "description": "LEVA ESTRIADA ACELERADOR INDUSTRIA ARGENTINA 0935 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3686",
+        "name": "MULTIPLE DE ESCAPE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0936",
+        "image": "img/products/OM352 2/multiple-de-escape-industria-argentina-0936.jpg",
+        "description": "MULTIPLE DE ESCAPE INDUSTRIA ARGENTINA 0936 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3687",
+        "name": "HORQUILLA EMBRAGUE REFORMA / NODULAR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0942",
+        "image": "img/products/OM352 2/horquilla-embrague-reforma-nodular-industria-argentina-0942.jpg",
+        "description": "HORQUILLA EMBRAGUE REFORMA / NODULAR INDUSTRIA ARGENTINA 0942 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3688",
+        "name": "PERNO PATIN DE FRENO STD / DIAM. 30MM. / LARGO 102MM. TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "0946",
+        "image": "img/products/OM352 2/perno-patin-de-freno-std-diam-30mm-largo-102mm-tf-p-technology-0946.jpg",
+        "description": "PERNO PATIN DE FRENO STD / DIAM. 30MM. / LARGO 102MM. TF&P TECHNOLOGY 0946 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3689",
+        "name": "CAMISA PORTA INYECTOR IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0947",
+        "image": "img/products/OM352 2/camisa-porta-inyector-imp-0947.jpg",
+        "description": "CAMISA PORTA INYECTOR IMP. 0947 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3690",
+        "name": "ABRAZADERA CANO INYECTOR CON GOMA (2 CANOS) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0948",
+        "image": "img/products/OM352 2/abrazadera-cano-inyector-con-goma-2-canos-industria-argentina-0948.jpg",
+        "description": "ABRAZADERA CANO INYECTOR CON GOMA (2 CANOS) INDUSTRIA ARGENTINA 0948 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3691",
+        "name": "ABRAZADERA CANO INYECTOR CON GOMA (3 CANOS) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0949",
+        "image": "img/products/OM352 2/abrazadera-cano-inyector-con-goma-3-canos-industria-argentina-0949.jpg",
+        "description": "ABRAZADERA CANO INYECTOR CON GOMA (3 CANOS) INDUSTRIA ARGENTINA 0949 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3692",
+        "name": "VALVULA PEDALERA WABCO 10 BAR F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "0972",
+        "image": "img/products/OM352 2/valvula-pedalera-wabco-10-bar-f-s-s-0972.jpg",
+        "description": "VALVULA PEDALERA WABCO 10 BAR F.S.S 0972 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3693",
+        "name": "TRABA CABLE PARE MOTOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0979",
+        "image": "img/products/OM352 2/traba-cable-pare-motor-industria-argentina-0979.jpg",
+        "description": "TRABA CABLE PARE MOTOR INDUSTRIA ARGENTINA 0979 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3694",
+        "name": "CONJUNTO COMPRESOR 77MM. 4 AGUJEROS CORTO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0981",
+        "image": "img/products/OM352 2/conjunto-compresor-77mm-4-agujeros-corto-industria-argentina-0981.jpg",
+        "description": "CONJUNTO COMPRESOR 77MM. 4 AGUJEROS CORTO INDUSTRIA ARGENTINA 0981 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3695",
+        "name": "CONJUNTO COMPRESOR 77MM. 4 AGUJEROS LARGO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0982",
+        "image": "img/products/OM352 2/conjunto-compresor-77mm-4-agujeros-largo-industria-argentina-0982.jpg",
+        "description": "CONJUNTO COMPRESOR 77MM. 4 AGUJEROS LARGO INDUSTRIA ARGENTINA 0982 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3696",
+        "name": "BULBO PRESION ACEITE R10 X 1MM. MA2O",
+        "brand": "Mercedes Benz",
+        "code": "0986",
+        "image": "img/products/OM352 2/bulbo-presion-aceite-r10-x-1mm-ma2o-0986.jpg",
+        "description": "BULBO PRESION ACEITE R10 X 1MM. MA2O 0986 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3697",
+        "name": "CONJUNTO COMPRESOR 77MM. 3 AGUJEROS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0987",
+        "image": "img/products/OM352 2/conjunto-compresor-77mm-3-agujeros-industria-argentina-0987.jpg",
+        "description": "CONJUNTO COMPRESOR 77MM. 3 AGUJEROS INDUSTRIA ARGENTINA 0987 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3698",
+        "name": "CODO ADMISION TURBO (ALUMIMIO) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "0988",
+        "image": "img/products/OM352 2/codo-admision-turbo-alumimio-industria-argentina-0988.jpg",
+        "description": "CODO ADMISION TURBO (ALUMIMIO) INDUSTRIA ARGENTINA 0988 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3699",
+        "name": "CONJUNTO COMPRESOR 94MM. BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "0989",
+        "image": "img/products/OM352 2/conjunto-compresor-94mm-bel-ar-0989.jpg",
+        "description": "CONJUNTO COMPRESOR 94MM. BEL-AR 0989 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3700",
+        "name": "MANGUERA RADIADOR SUPERIOR IMP.",
+        "brand": "Mercedes Benz",
+        "code": "0997",
+        "image": "img/products/OM352 2/manguera-radiador-superior-imp-0997.jpg",
+        "description": "MANGUERA RADIADOR SUPERIOR IMP. 0997 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3701",
+        "name": "TENSOR DE ALTERNADOR CURVO CON BUJE IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1001",
+        "image": "img/products/OM352 2/tensor-de-alternador-curvo-con-buje-imp-1001.jpg",
+        "description": "TENSOR DE ALTERNADOR CURVO CON BUJE IMP. 1001 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3702",
+        "name": "SEEGUER MAZA RUEDA TRASERA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1007",
+        "image": "img/products/OM352 2/seeguer-maza-rueda-trasera-industria-argentina-1007.jpg",
+        "description": "SEEGUER MAZA RUEDA TRASERA INDUSTRIA ARGENTINA 1007 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3703",
+        "name": "PERNO HORQUILLA MARCHA ATRAS IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1009",
+        "image": "img/products/OM352 2/perno-horquilla-marcha-atras-imp-1009.jpg",
+        "description": "PERNO HORQUILLA MARCHA ATRAS IMP. 1009 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3704",
+        "name": "BOMBA DE AGUA / ROTOR 95MM. / SIN TAPA RODA",
+        "brand": "Mercedes Benz",
+        "code": "10169",
+        "image": "img/products/OM352 2/bomba-de-agua-rotor-95mm-sin-tapa-roda-10169.png",
+        "description": "BOMBA DE AGUA / ROTOR 95MM. / SIN TAPA RODA 10169 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3705",
+        "name": "SEPARADOR HELICE VENTILADOR / ESTRELLA MONTECRISTO",
+        "brand": "Mercedes Benz",
+        "code": "1017",
+        "image": "img/products/OM352 2/separador-helice-ventilador-estrella-montecristo-1017.jpg",
+        "description": "SEPARADOR HELICE VENTILADOR / ESTRELLA MONTECRISTO 1017 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3706",
+        "name": "TUBO GUIA VARILLA NIVEL ACEITE MONTECRISTO",
+        "brand": "Mercedes Benz",
+        "code": "1018",
+        "image": "img/products/OM352 2/tubo-guia-varilla-nivel-aceite-montecristo-1018.jpg",
+        "description": "TUBO GUIA VARILLA NIVEL ACEITE MONTECRISTO 1018 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3707",
+        "name": "CILINDRO FRENO RUEDA DELANTERA CORTO TRW-VARGA",
+        "brand": "Mercedes Benz",
+        "code": "10204",
+        "image": "img/products/OM352 2/cilindro-freno-rueda-delantera-corto-trw-varga-10204.jpg",
+        "description": "CILINDRO FRENO RUEDA DELANTERA CORTO TRW-VARGA 10204 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3708",
+        "name": "CILINDRO FRENO RUEDA TRASERA CORTO TRW-VARGA",
+        "brand": "Mercedes Benz",
+        "code": "10205",
+        "image": "img/products/OM352 2/cilindro-freno-rueda-trasera-corto-trw-varga-10205.jpg",
+        "description": "CILINDRO FRENO RUEDA TRASERA CORTO TRW-VARGA 10205 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3709",
+        "name": "VALVULA SOBREPRESION COMBUSTIBLE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1025",
+        "image": "img/products/OM352 2/valvula-sobrepresion-combustible-industria-argentina-1025.jpg",
+        "description": "VALVULA SOBREPRESION COMBUSTIBLE INDUSTRIA ARGENTINA 1025 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3710",
+        "name": "JGO. JUNTAS REFRIGERADOR DE ACEITE CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "10279",
+        "image": "img/products/OM352 2/jgo-juntas-refrigerador-de-aceite-ciccarelli-10279.jpg",
+        "description": "JGO. JUNTAS REFRIGERADOR DE ACEITE CICCARELLI 10279 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3711",
+        "name": "GUIA LEVANTA VIDRIO DE PUERTA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1028",
+        "image": "img/products/OM352 2/guia-levanta-vidrio-de-puerta-universal-1028.jpg",
+        "description": "GUIA LEVANTA VIDRIO DE PUERTA UNIVERSAL 1028 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3712",
+        "name": "RETEN BOMBA DE AGUA SABO",
+        "brand": "Mercedes Benz",
+        "code": "10288",
+        "image": "img/products/OM352 2/reten-bomba-de-agua-sabo-10288.jpg",
+        "description": "RETEN BOMBA DE AGUA SABO 10288 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3713",
+        "name": "RETEN DE VALVULA DE ESCAPE SABO",
+        "brand": "Mercedes Benz",
+        "code": "10297",
+        "image": "img/products/OM352 2/reten-de-valvula-de-escape-sabo-10297.jpg",
+        "description": "RETEN DE VALVULA DE ESCAPE SABO 10297 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3714",
+        "name": "RETEN GUIA DIRECTA SABO",
+        "brand": "Mercedes Benz",
+        "code": "10298",
+        "image": "img/products/OM352 2/reten-guia-directa-sabo-10298.jpg",
+        "description": "RETEN GUIA DIRECTA SABO 10298 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3715",
+        "name": "LIMITADOR DE PUERTA DERECHA LARGO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1030",
+        "image": "img/products/OM352 2/limitador-de-puerta-derecha-largo-universal-1030.jpg",
+        "description": "LIMITADOR DE PUERTA DERECHA LARGO UNIVERSAL 1030 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3716",
+        "name": "JGO. CONOS UNION EJE BALANCIN IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1031",
+        "image": "img/products/OM352 2/jgo-conos-union-eje-balancin-imp-1031.jpg",
+        "description": "JGO. CONOS UNION EJE BALANCIN IMP. 1031 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3717",
+        "name": "LIMITADOR DE PUERTA DERECHA E IZQUIERDA CORTO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1033",
+        "image": "img/products/OM352 2/limitador-de-puerta-derecha-e-izquierda-corto-universal-1033.jpg",
+        "description": "LIMITADOR DE PUERTA DERECHA E IZQUIERDA CORTO UNIVERSAL 1033 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3718",
+        "name": "REGISTRO VALVULAS CON TUERCA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1036",
+        "image": "img/products/OM352 2/registro-valvulas-con-tuerca-imp-1036.jpg",
+        "description": "REGISTRO VALVULAS CON TUERCA IMP. 1036 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3719",
+        "name": "RETEN RUEDA TRASERA SABO",
+        "brand": "Mercedes Benz",
+        "code": "10366",
+        "image": "img/products/OM352 2/reten-rueda-trasera-sabo-10366.jpg",
+        "description": "RETEN RUEDA TRASERA SABO 10366 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3720",
+        "name": "RETEN DE VALVULA DE ADMISION SABO",
+        "brand": "Mercedes Benz",
+        "code": "10368",
+        "image": "img/products/OM352 2/reten-de-valvula-de-admision-sabo-10368.jpg",
+        "description": "RETEN DE VALVULA DE ADMISION SABO 10368 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3721",
+        "name": "RETEN PINON DIFERENCIAL / BAJA TEMPERATURA SABO",
+        "brand": "Mercedes Benz",
+        "code": "10378",
+        "image": "img/products/OM352 2/reten-pinon-diferencial-baja-temperatura-sabo-10378.jpg",
+        "description": "RETEN PINON DIFERENCIAL / BAJA TEMPERATURA SABO 10378 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3722",
+        "name": "BULON TRABA BALANCINES MONTECRISTO",
+        "brand": "Mercedes Benz",
+        "code": "1039",
+        "image": "img/products/OM352 2/bulon-traba-balancines-montecristo-1039.jpg",
+        "description": "BULON TRABA BALANCINES MONTECRISTO 1039 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3723",
+        "name": "RETEN LEVA FRENO DELANTERO / TRASERO SABO",
+        "brand": "Mercedes Benz",
+        "code": "10396",
+        "image": "img/products/OM352 2/reten-leva-freno-delantero-trasero-sabo-10396.jpg",
+        "description": "RETEN LEVA FRENO DELANTERO / TRASERO SABO 10396 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3724",
+        "name": "RETEN RUEDA DELANTERA SABO",
+        "brand": "Mercedes Benz",
+        "code": "10402",
+        "image": "img/products/OM352 2/reten-rueda-delantera-sabo-10402.jpg",
+        "description": "RETEN RUEDA DELANTERA SABO 10402 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3725",
+        "name": "MANIJA EXTERIOR DE PUERTA CURVA NEGRA CON LLAVE UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1046",
+        "image": "img/products/OM352 2/manija-exterior-de-puerta-curva-negra-con-llave-universal-1046.jpg",
+        "description": "MANIJA EXTERIOR DE PUERTA CURVA NEGRA CON LLAVE UNIVERSAL 1046 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3726",
+        "name": "VOLANTE DE MOTOR CON CORONA 280MM. RMOSS",
+        "brand": "Mercedes Benz",
+        "code": "10483",
+        "image": "img/products/OM352 2/volante-de-motor-con-corona-280mm-rmoss-10483.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 280MM. RMOSS 10483 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3727",
+        "name": "JGO. SOPORTES ALTO Y BAJO HORQUILLA EMBRAGUE C/BUJE IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1052",
+        "image": "img/products/OM352 2/jgo-soportes-alto-y-bajo-horquilla-embrague-c-buje-imp-1052.jpg",
+        "description": "JGO. SOPORTES ALTO Y BAJO HORQUILLA EMBRAGUE C/BUJE IMP. 1052 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3728",
+        "name": "VALVULA PEDALERA WABCO TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "10588",
+        "image": "img/products/OM352 2/valvula-pedalera-wabco-tf-p-technology-10588.jpg",
+        "description": "VALVULA PEDALERA WABCO TF&P TECHNOLOGY 10588 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3729",
+        "name": "CHUPADOR BOMBA DE ACEITE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1064",
+        "image": "img/products/OM352 2/chupador-bomba-de-aceite-industria-argentina-1064.jpg",
+        "description": "CHUPADOR BOMBA DE ACEITE INDUSTRIA ARGENTINA 1064 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3730",
+        "name": "COLLAR DESPLAZABLE ALTA Y BAJA / GRUPO PLANETARIO CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "10802",
+        "image": "img/products/OM352 2/collar-desplazable-alta-y-baja-grupo-planetario-cinpal-10802.jpg",
+        "description": "COLLAR DESPLAZABLE ALTA Y BAJA / GRUPO PLANETARIO CINPAL 10802 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3731",
+        "name": "ENGRANAJE 4Âº MOVIL / 35 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "10819",
+        "image": "img/products/OM352 2/engranaje-4a-movil-35-dientes-cinpal-10819.jpg",
+        "description": "ENGRANAJE 4Âº MOVIL / 35 DIENTES CINPAL 10819 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3732",
+        "name": "POLEA BOMBA DE AGUA REFORMA 3 CANALES ALUMINIO DIAM. EXT. CANALES 150 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1087",
+        "image": "img/products/OM352 2/polea-bomba-de-agua-reforma-3-canales-aluminio-diam-ext-canales-150-mm-industria-argentina-1087.jpg",
+        "description": "POLEA BOMBA DE AGUA REFORMA 3 CANALES ALUMINIO DIAM. EXT. CANALES 150 MM. INDUSTRIA ARGENTINA 1087 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3733",
+        "name": "JGO. RETENES DE BANCADA (SOGUITAS) SABO",
+        "brand": "Mercedes Benz",
+        "code": "10890",
+        "image": "img/products/OM352 2/jgo-retenes-de-bancada-soguitas-sabo-10890.jpg",
+        "description": "JGO. RETENES DE BANCADA (SOGUITAS) SABO 10890 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3734",
+        "name": "VALVULA PEDALERA WABCO / ROSCAS 8 X M16X1.5 TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "11004",
+        "image": "img/products/OM352 2/valvula-pedalera-wabco-roscas-8-x-m16x1-5-tf-p-technology-11004.jpg",
+        "description": "VALVULA PEDALERA WABCO / ROSCAS 8 X M16X1.5 TF&P TECHNOLOGY 11004 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3735",
+        "name": "SOPORTE CARDAN TIPO REFORMA FLOTANTE SIN GOMA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "11009",
+        "image": "img/products/OM352 2/soporte-cardan-tipo-reforma-flotante-sin-goma-imp-11009.jpg",
+        "description": "SOPORTE CARDAN TIPO REFORMA FLOTANTE SIN GOMA IMP. 11009 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3736",
+        "name": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 40MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "11018",
+        "image": "img/products/OM352 2/rodamiento-de-cardan-con-goma-diam-int-40mm-imp-11018.jpg",
+        "description": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 40MM. IMP. 11018 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3737",
+        "name": "INTERRUPTOR LUCES FRENO EN PEDAL TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "11114",
+        "image": "img/products/OM352 2/interruptor-luces-freno-en-pedal-trucktec-11114.jpg",
+        "description": "INTERRUPTOR LUCES FRENO EN PEDAL TRUCKTEC 11114 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3738",
+        "name": "REGISTRO DE VALVULAS CON TUERCA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1114",
+        "image": "img/products/OM352 2/registro-de-valvulas-con-tuerca-imp-1114.jpg",
+        "description": "REGISTRO DE VALVULAS CON TUERCA IMP. 1114 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3739",
+        "name": "SOPORTE MOTOR DELANTERO Y TRASERO / 3 AGUJEROS SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "1120",
+        "image": "img/products/OM352 2/soporte-motor-delantero-y-trasero-3-agujeros-suporte-rei-1120.jpg",
+        "description": "SOPORTE MOTOR DELANTERO Y TRASERO / 3 AGUJEROS SUPORTE REI 1120 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3740",
+        "name": "REPARACION BOMBIN CEBADOR (VALVULAS BAKELITA Y RESORTES) TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "1123",
+        "image": "img/products/OM352 2/reparacion-bombin-cebador-valvulas-bakelita-y-resortes-trucktec-1123.jpg",
+        "description": "REPARACION BOMBIN CEBADOR (VALVULAS BAKELITA Y RESORTES) TRUCKTEC 1123 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3741",
+        "name": "SEGURO LATERAL DOBLE PORTA CORONA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1127",
+        "image": "img/products/OM352 2/seguro-lateral-doble-porta-corona-industria-argentina-1127.jpg",
+        "description": "SEGURO LATERAL DOBLE PORTA CORONA INDUSTRIA ARGENTINA 1127 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3742",
+        "name": "SEGURO BULON PORTA CORONA (ESTRELLA) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1133",
+        "image": "img/products/OM352 2/seguro-bulon-porta-corona-estrella-industria-argentina-1133.jpg",
+        "description": "SEGURO BULON PORTA CORONA (ESTRELLA) INDUSTRIA ARGENTINA 1133 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3743",
+        "name": "REP. VALVULA PEDALERA KNORR QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "11331",
+        "image": "img/products/OM352 2/rep-valvula-pedalera-knorr-quinelato-11331.jpg",
+        "description": "REP. VALVULA PEDALERA KNORR QUINELATO 11331 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3744",
+        "name": "FILTRO AIRE VACIO FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "1135",
+        "image": "img/products/OM352 2/filtro-aire-vacio-filtros-serrano-1135.jpg",
+        "description": "FILTRO AIRE VACIO FILTROS SERRANO 1135 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3745",
+        "name": "BURLETE VENTILETE DERECHO UNIFLEX",
+        "brand": "Mercedes Benz",
+        "code": "11377",
+        "image": "img/products/OM352 2/burlete-ventilete-derecho-uniflex-11377.jpg",
+        "description": "BURLETE VENTILETE DERECHO UNIFLEX 11377 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3746",
+        "name": "PORTALAMPARAS TABLERO SIN LENTE TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "11405",
+        "image": "img/products/OM352 2/portalamparas-tablero-sin-lente-trucktec-11405.jpg",
+        "description": "PORTALAMPARAS TABLERO SIN LENTE TRUCKTEC 11405 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3747",
+        "name": "REP. ACCIONAMIENTO FRENO DE MOTOR WABCO PARCIAL QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1144",
+        "image": "img/products/OM352 2/rep-accionamiento-freno-de-motor-wabco-parcial-quinelato-1144.jpg",
+        "description": "REP. ACCIONAMIENTO FRENO DE MOTOR WABCO PARCIAL QUINELATO 1144 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3748",
+        "name": "BUJE AMORTIGUADOR 39.5X40X20 MM. UGR",
+        "brand": "Mercedes Benz",
+        "code": "11452",
+        "image": "img/products/OM352 2/buje-amortiguador-39-5x40x20-mm-ugr-11452.jpg",
+        "description": "BUJE AMORTIGUADOR 39.5X40X20 MM. UGR 11452 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3749",
+        "name": "BULON TAPA DE VALVULAS CON ARANDELA M8 X 1.25 X 45 S-3",
+        "brand": "Mercedes Benz",
+        "code": "11462",
+        "image": "img/products/OM352 2/bulon-tapa-de-valvulas-con-arandela-m8-x-1-25-x-45-s-3-11462.jpg",
+        "description": "BULON TAPA DE VALVULAS CON ARANDELA M8 X 1.25 X 45 S-3 11462 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3750",
+        "name": "REP. VALVULA GOBERNADORA WABCO QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1147",
+        "image": "img/products/OM352 2/rep-valvula-gobernadora-wabco-quinelato-1147.jpg",
+        "description": "REP. VALVULA GOBERNADORA WABCO QUINELATO 1147 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3751",
+        "name": "INTERRUPTOR STOP FRENO HIDRAULICO Y EMBRAGUE MA2O",
+        "brand": "Mercedes Benz",
+        "code": "11498",
+        "image": "img/products/OM352 2/interruptor-stop-freno-hidraulico-y-embrague-ma2o-11498.jpg",
+        "description": "INTERRUPTOR STOP FRENO HIDRAULICO Y EMBRAGUE MA2O 11498 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3752",
+        "name": "JGO. REPARACION TENSOR DE RADIADOR 2 LADOS IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1153",
+        "image": "img/products/OM352 2/jgo-reparacion-tensor-de-radiador-2-lados-imp-1153.jpg",
+        "description": "JGO. REPARACION TENSOR DE RADIADOR 2 LADOS IMP. 1153 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3753",
+        "name": "ENGRANAJE 5 FIJA / 38 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11555",
+        "image": "img/products/OM352 2/engranaje-5-fija-38-dientes-cinpal-11555.jpg",
+        "description": "ENGRANAJE 5 FIJA / 38 DIENTES CINPAL 11555 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3754",
+        "name": "ENGRANAJE 4Âº INFERIOR FIJA / 29 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11556",
+        "image": "img/products/OM352 2/engranaje-4a-inferior-fija-29-dientes-cinpal-11556.jpg",
+        "description": "ENGRANAJE 4Âº INFERIOR FIJA / 29 DIENTES CINPAL 11556 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3755",
+        "name": "ENGRANAJE 2Âº LIBRE / 32 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11557",
+        "image": "img/products/OM352 2/engranaje-2a-libre-32-dientes-cinpal-11557.jpg",
+        "description": "ENGRANAJE 2Âº LIBRE / 32 DIENTES CINPAL 11557 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3756",
+        "name": "ENGRANAJE 1Âº INFERIOR / LIBRE / 39 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11558",
+        "image": "img/products/OM352 2/engranaje-1a-inferior-libre-39-dientes-cinpal-11558.jpg",
+        "description": "ENGRANAJE 1Âº INFERIOR / LIBRE / 39 DIENTES CINPAL 11558 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3757",
+        "name": "ENGRANAJE MARCHA ATRAS / 36 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11559",
+        "image": "img/products/OM352 2/engranaje-marcha-atras-36-dientes-cinpal-11559.jpg",
+        "description": "ENGRANAJE MARCHA ATRAS / 36 DIENTES CINPAL 11559 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3758",
+        "name": "ENGRANAJE 5Âº FIJA / 36 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11568",
+        "image": "img/products/OM352 2/engranaje-5a-fija-36-dientes-cinpal-11568.jpg",
+        "description": "ENGRANAJE 5Âº FIJA / 36 DIENTES CINPAL 11568 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3759",
+        "name": "REP. VALVULA PEDALERA WABCO QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1158",
+        "image": "img/products/OM352 2/rep-valvula-pedalera-wabco-quinelato-1158.jpg",
+        "description": "REP. VALVULA PEDALERA WABCO QUINELATO 1158 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3760",
+        "name": "ENGRANAJE MARCHA ATRAS / 20 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11603",
+        "image": "img/products/OM352 2/engranaje-marcha-atras-20-dientes-cinpal-11603.jpg",
+        "description": "ENGRANAJE MARCHA ATRAS / 20 DIENTES CINPAL 11603 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3761",
+        "name": "ENGRANAJE 4Âº LIBRE / SUPERIOR / 19 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11604",
+        "image": "img/products/OM352 2/engranaje-4a-libre-superior-19-dientes-cinpal-11604.jpg",
+        "description": "ENGRANAJE 4Âº LIBRE / SUPERIOR / 19 DIENTES CINPAL 11604 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3762",
+        "name": "ENGRANAJE 3Âº LIBRE / 25 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11605",
+        "image": "img/products/OM352 2/engranaje-3a-libre-25-dientes-cinpal-11605.jpg",
+        "description": "ENGRANAJE 3Âº LIBRE / 25 DIENTES CINPAL 11605 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3763",
+        "name": "ENGRANAJE DOBLE 2Âº Y 3Âº / 17 Y 23 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11606",
+        "image": "img/products/OM352 2/engranaje-doble-2a-y-3a-17-y-23-dientes-cinpal-11606.jpg",
+        "description": "ENGRANAJE DOBLE 2Âº Y 3Âº / 17 Y 23 DIENTES CINPAL 11606 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3764",
+        "name": "ACCIONAMIENTO CORTO COMPLETO PARA VALVULA FRENO DE MANO WABCO NTI",
+        "brand": "Mercedes Benz",
+        "code": "1161",
+        "image": "img/products/OM352 2/accionamiento-corto-completo-para-valvula-freno-de-mano-wabco-nti-1161.jpg",
+        "description": "ACCIONAMIENTO CORTO COMPLETO PARA VALVULA FRENO DE MANO WABCO NTI 1161 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3765",
+        "name": "DIRECTA / 15 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11610",
+        "image": "img/products/OM352 2/directa-15-dientes-cinpal-11610.jpg",
+        "description": "DIRECTA / 15 DIENTES CINPAL 11610 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3766",
+        "name": "DIRECTA / 17 DIENTES / LARGO 310MM. / 2 RULEMANES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11613",
+        "image": "img/products/OM352 2/directa-17-dientes-largo-310mm-2-rulemanes-cinpal-11613.jpg",
+        "description": "DIRECTA / 17 DIENTES / LARGO 310MM. / 2 RULEMANES CINPAL 11613 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3767",
+        "name": "EJE ACANALADO / 8 Y 16 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11621",
+        "image": "img/products/OM352 2/eje-acanalado-8-y-16-dientes-cinpal-11621.jpg",
+        "description": "EJE ACANALADO / 8 Y 16 DIENTES CINPAL 11621 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3768",
+        "name": "EJE SECUNDARIO / CUADRUPLE / 11 DIENTES / 17 ESTRIAS CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11622",
+        "image": "img/products/OM352 2/eje-secundario-cuadruple-11-dientes-17-estrias-cinpal-11622.jpg",
+        "description": "EJE SECUNDARIO / CUADRUPLE / 11 DIENTES / 17 ESTRIAS CINPAL 11622 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3769",
+        "name": "CAMISA SINCRONIZADO DE 1Âº / COLLAR CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11633",
+        "image": "img/products/OM352 2/camisa-sincronizado-de-1a-collar-cinpal-11633.jpg",
+        "description": "CAMISA SINCRONIZADO DE 1Âº / COLLAR CINPAL 11633 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3770",
+        "name": "ARRASTRADOR DE DIRECTA / ACOPLE DE 5Âº / 15 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11634",
+        "image": "img/products/OM352 2/arrastrador-de-directa-acople-de-5a-15-dientes-cinpal-11634.jpg",
+        "description": "ARRASTRADOR DE DIRECTA / ACOPLE DE 5Âº / 15 DIENTES CINPAL 11634 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3771",
+        "name": "MAZA SINCRONIZADO DE 4Âº Y 5Âº CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11635",
+        "image": "img/products/OM352 2/maza-sincronizado-de-4a-y-5a-cinpal-11635.jpg",
+        "description": "MAZA SINCRONIZADO DE 4Âº Y 5Âº CINPAL 11635 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3772",
+        "name": "MAZA SINCRONIZADO DE 2Âº Y 3Âº CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11636",
+        "image": "img/products/OM352 2/maza-sincronizado-de-2a-y-3a-cinpal-11636.jpg",
+        "description": "MAZA SINCRONIZADO DE 2Âº Y 3Âº CINPAL 11636 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3773",
+        "name": "CAMISA SINCRONIZADO DE 2Âº A 5Âº / COLLAR CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11637",
+        "image": "img/products/OM352 2/camisa-sincronizado-de-2a-a-5a-collar-cinpal-11637.jpg",
+        "description": "CAMISA SINCRONIZADO DE 2Âº A 5Âº / COLLAR CINPAL 11637 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3774",
+        "name": "ARRASTRADOR DE DIRECTA / ACOPLE DE 5Âº / 17 DIENTES CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11643",
+        "image": "img/products/OM352 2/arrastrador-de-directa-acople-de-5a-17-dientes-cinpal-11643.jpg",
+        "description": "ARRASTRADOR DE DIRECTA / ACOPLE DE 5Âº / 17 DIENTES CINPAL 11643 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3775",
+        "name": "ANTIVIBRADOR CANO INYECTOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1172",
+        "image": "img/products/OM352 2/antivibrador-cano-inyector-industria-argentina-1172.jpg",
+        "description": "ANTIVIBRADOR CANO INYECTOR INDUSTRIA ARGENTINA 1172 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3776",
+        "name": "BUJE 3Âº / 44.50MM. CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11728",
+        "image": "img/products/OM352 2/buje-3a-44-50mm-cinpal-11728.jpg",
+        "description": "BUJE 3Âº / 44.50MM. CINPAL 11728 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3777",
+        "name": "BUJE 1Âº / 44.20MM. CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "11729",
+        "image": "img/products/OM352 2/buje-1a-44-20mm-cinpal-11729.jpg",
+        "description": "BUJE 1Âº / 44.20MM. CINPAL 11729 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3778",
+        "name": "FLEXIBLE LUBRICACION BOMBA INYECTORA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "11741",
+        "image": "img/products/OM352 2/flexible-lubricacion-bomba-inyectora-industria-argentina-11741.jpg",
+        "description": "FLEXIBLE LUBRICACION BOMBA INYECTORA INDUSTRIA ARGENTINA 11741 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3779",
+        "name": "VALVULA SELECTOR NEUMATICO ALTA Y BAJA IGH",
+        "brand": "Mercedes Benz",
+        "code": "1175",
+        "image": "img/products/OM352 2/valvula-selector-neumatico-alta-y-baja-igh-1175.jpg",
+        "description": "VALVULA SELECTOR NEUMATICO ALTA Y BAJA IGH 1175 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3780",
+        "name": "VALVULA 12V. SELECTOR ELECTRONEUMATICO ALTA Y BAJA IGH",
+        "brand": "Mercedes Benz",
+        "code": "1176",
+        "image": "img/products/OM352 2/valvula-12v-selector-electroneumatico-alta-y-baja-igh-1176.jpg",
+        "description": "VALVULA 12V. SELECTOR ELECTRONEUMATICO ALTA Y BAJA IGH 1176 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3781",
+        "name": "VALVULA 24V. SELECTOR ELECTRONEUMATICO ALTA Y BAJA IGH",
+        "brand": "Mercedes Benz",
+        "code": "1177",
+        "image": "img/products/OM352 2/valvula-24v-selector-electroneumatico-alta-y-baja-igh-1177.jpg",
+        "description": "VALVULA 24V. SELECTOR ELECTRONEUMATICO ALTA Y BAJA IGH 1177 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3782",
+        "name": "JUNTA REFRIGERADOR DE ACEITE / MODELO NUEVO CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "11912",
+        "image": "img/products/OM352 2/junta-refrigerador-de-aceite-modelo-nuevo-ciccarelli-11912.jpeg",
+        "description": "JUNTA REFRIGERADOR DE ACEITE / MODELO NUEVO CICCARELLI 11912 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3783",
+        "name": "BURLETE VENTILETE PUERTA IZQUIERDA UNIFLEX",
+        "brand": "Mercedes Benz",
+        "code": "11929",
+        "image": "img/products/OM352 2/burlete-ventilete-puerta-izquierda-uniflex-11929.jpg",
+        "description": "BURLETE VENTILETE PUERTA IZQUIERDA UNIFLEX 11929 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3784",
+        "name": "LIMITADOR DE PUERTA IZQUIERDA LARGO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1196",
+        "image": "img/products/OM352 2/limitador-de-puerta-izquierda-largo-universal-1196.jpg",
+        "description": "LIMITADOR DE PUERTA IZQUIERDA LARGO UNIVERSAL 1196 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3785",
+        "name": "BULON SOPORTE MOTOR TRASERO 14 X 55 X 1.5 MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "1201",
+        "image": "img/products/OM352 2/bulon-soporte-motor-trasero-14-x-55-x-1-5-mm-s-3-1201.jpg",
+        "description": "BULON SOPORTE MOTOR TRASERO 14 X 55 X 1.5 MM. S-3 1201 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3786",
+        "name": "BULON BRAZO / SOPORTE MOTOR TRASERO 14 X 120 X 1.5 MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "1203",
+        "image": "img/products/OM352 2/bulon-brazo-soporte-motor-trasero-14-x-120-x-1-5-mm-s-3-1203.jpg",
+        "description": "BULON BRAZO / SOPORTE MOTOR TRASERO 14 X 120 X 1.5 MM. S-3 1203 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3787",
+        "name": "ARANDELA PLANETARIO STD INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1206",
+        "image": "img/products/OM352 2/arandela-planetario-std-industria-argentina-1206.jpg",
+        "description": "ARANDELA PLANETARIO STD INDUSTRIA ARGENTINA 1206 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3788",
+        "name": "BARRA DIRECCION CORTA 680MM. MECANICA / TIPO REFORMA CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1209",
+        "image": "img/products/OM352 2/barra-direccion-corta-680mm-mecanica-tipo-reforma-cesca-1209.jpg",
+        "description": "BARRA DIRECCION CORTA 680MM. MECANICA / TIPO REFORMA CESCA 1209 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3789",
+        "name": "BARRA DIRECCION CORTA 620MM. HIDRAULICA / TIPO ORIGINAL CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1210",
+        "image": "img/products/OM352 2/barra-direccion-corta-620mm-hidraulica-tipo-original-cesca-1210.jpg",
+        "description": "BARRA DIRECCION CORTA 620MM. HIDRAULICA / TIPO ORIGINAL CESCA 1210 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3790",
+        "name": "BARRA DIRECCION CORTA 620MM. HIDRAULICA / TIPO REFORMA CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1211",
+        "image": "img/products/OM352 2/barra-direccion-corta-620mm-hidraulica-tipo-reforma-cesca-1211.jpg",
+        "description": "BARRA DIRECCION CORTA 620MM. HIDRAULICA / TIPO REFORMA CESCA 1211 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3791",
+        "name": "BARRA DIRECCION CORTA 672MM. CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1215",
+        "image": "img/products/OM352 2/barra-direccion-corta-672mm-cesca-1215.jpg",
+        "description": "BARRA DIRECCION CORTA 672MM. CESCA 1215 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3792",
+        "name": "BOMBA LIMPIAPARABRISAS 12V. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "12252",
+        "image": "img/products/OM352 2/bomba-limpiaparabrisas-12v-imp-12252.jpg",
+        "description": "BOMBA LIMPIAPARABRISAS 12V. IMP. 12252 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3793",
+        "name": "BARRA DIRECCION LARGA 1648MM. CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1231",
+        "image": "img/products/OM352 2/barra-direccion-larga-1648mm-cesca-1231.jpg",
+        "description": "BARRA DIRECCION LARGA 1648MM. CESCA 1231 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3794",
+        "name": "REP. VALVULA PEDALERA COMPLETA (P/VALV. CON PEDAL) QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1242",
+        "image": "img/products/OM352 2/rep-valvula-pedalera-completa-p-valv-con-pedal-quinelato-1242.jpg",
+        "description": "REP. VALVULA PEDALERA COMPLETA (P/VALV. CON PEDAL) QUINELATO 1242 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3795",
+        "name": "ARBOL DE LEVAS CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "12525",
+        "image": "img/products/OM352 2/arbol-de-levas-cinpal-12525.jpg",
+        "description": "ARBOL DE LEVAS CINPAL 12525 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3796",
+        "name": "REP. ACCIONAMIENTO FRENO DE MOTOR WABCO COMPLETA QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1255",
+        "image": "img/products/OM352 2/rep-accionamiento-freno-de-motor-wabco-completa-quinelato-1255.jpg",
+        "description": "REP. ACCIONAMIENTO FRENO DE MOTOR WABCO COMPLETA QUINELATO 1255 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3797",
+        "name": "REP. CILINDRO FRENO DE MOTOR WABCO BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1256",
+        "image": "img/products/OM352 2/rep-cilindro-freno-de-motor-wabco-bel-ar-1256.jpg",
+        "description": "REP. CILINDRO FRENO DE MOTOR WABCO BEL-AR 1256 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3798",
+        "name": "TERMOSTATO 87Âº CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12598",
+        "image": "img/products/OM352 2/termostato-87a-calorstat-12598.jpg",
+        "description": "TERMOSTATO 87Âº CALORSTAT 12598 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3799",
+        "name": "TERMOSTATO 75Âº CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12602",
+        "image": "img/products/OM352 2/termostato-75a-calorstat-12602.jpg",
+        "description": "TERMOSTATO 75Âº CALORSTAT 12602 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3800",
+        "name": "TERMOSTATO 71Âº CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12603",
+        "image": "img/products/OM352 2/termostato-71a-calorstat-12603.jpg",
+        "description": "TERMOSTATO 71Âº CALORSTAT 12603 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3801",
+        "name": "PORTA CRAPODINA DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1262",
+        "image": "img/products/OM352 2/porta-crapodina-de-embrague-industria-argentina-1262.jpg",
+        "description": "PORTA CRAPODINA DE EMBRAGUE INDUSTRIA ARGENTINA 1262 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3802",
+        "name": "TORRE PALANCA DE CAMBIOS FUNDICION TIPO REFORMA PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "1263",
+        "image": "img/products/OM352 2/torre-palanca-de-cambios-fundicion-tipo-reforma-palazzolo-1263.jpg",
+        "description": "TORRE PALANCA DE CAMBIOS FUNDICION TIPO REFORMA PALAZZOLO 1263 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3803",
+        "name": "OPTICA SIN ARO VIC",
+        "brand": "Mercedes Benz",
+        "code": "12699",
+        "image": "img/products/OM352 2/optica-sin-aro-vic-12699.jpg",
+        "description": "OPTICA SIN ARO VIC 12699 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3804",
+        "name": "ARO PLASTICO OPTICA DERECHA VIC",
+        "brand": "Mercedes Benz",
+        "code": "12700",
+        "image": "img/products/OM352 2/aro-plastico-optica-derecha-vic-12700.jpg",
+        "description": "ARO PLASTICO OPTICA DERECHA VIC 12700 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3805",
+        "name": "ARO PLASTICO OPTICA IZQUIERDA VIC",
+        "brand": "Mercedes Benz",
+        "code": "12701",
+        "image": "img/products/OM352 2/aro-plastico-optica-izquierda-vic-12701.jpg",
+        "description": "ARO PLASTICO OPTICA IZQUIERDA VIC 12701 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3806",
+        "name": "OPTICA CON ARO PLASTICO IZQUIERDA VIC",
+        "brand": "Mercedes Benz",
+        "code": "12702",
+        "image": "img/products/OM352 2/optica-con-aro-plastico-izquierda-vic-12702.jpg",
+        "description": "OPTICA CON ARO PLASTICO IZQUIERDA VIC 12702 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3807",
+        "name": "TAPA TRASERA DE CAJA PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "1272",
+        "image": "img/products/OM352 2/tapa-trasera-de-caja-palazzolo-1272.jpg",
+        "description": "TAPA TRASERA DE CAJA PALAZZOLO 1272 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3808",
+        "name": "OPTICA CON ARO PLASTICO DERECHA VIC",
+        "brand": "Mercedes Benz",
+        "code": "12780",
+        "image": "img/products/OM352 2/optica-con-aro-plastico-derecha-vic-12780.jpg",
+        "description": "OPTICA CON ARO PLASTICO DERECHA VIC 12780 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3809",
+        "name": "RETEN CAJA DE CAMBIOS SABO",
+        "brand": "Mercedes Benz",
+        "code": "12806",
+        "image": "img/products/OM352 2/reten-caja-de-cambios-sabo-12806.jpg",
+        "description": "RETEN CAJA DE CAMBIOS SABO 12806 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3810",
+        "name": "JGO. JUNTAS DE CARTER / MATERIAL GOMA Y TELA SABO",
+        "brand": "Mercedes Benz",
+        "code": "12814",
+        "image": "img/products/OM352 2/jgo-juntas-de-carter-material-goma-y-tela-sabo-12814.jpg",
+        "description": "JGO. JUNTAS DE CARTER / MATERIAL GOMA Y TELA SABO 12814 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3811",
+        "name": "JUNTA TAPA VALVULAS / CORCHO Y GOMA SABO",
+        "brand": "Mercedes Benz",
+        "code": "12818",
+        "image": "img/products/OM352 2/junta-tapa-valvulas-corcho-y-goma-sabo-12818.jpg",
+        "description": "JUNTA TAPA VALVULAS / CORCHO Y GOMA SABO 12818 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3812",
+        "name": "JUNTA BASE PORTATERMOSTATO AL CANO DE AGUA SABO",
+        "brand": "Mercedes Benz",
+        "code": "12823",
+        "image": "img/products/OM352 2/junta-base-portatermostato-al-cano-de-agua-sabo-12823.jpg",
+        "description": "JUNTA BASE PORTATERMOSTATO AL CANO DE AGUA SABO 12823 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3813",
+        "name": "EXTREMO DIRECCION BARRA INTERMEDIA R24 X 1.5 / PERNO 20 LADO DERECHO CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1284",
+        "image": "img/products/OM352 2/extremo-direccion-barra-intermedia-r24-x-1-5-perno-20-lado-derecho-cesca-1284.jpg",
+        "description": "EXTREMO DIRECCION BARRA INTERMEDIA R24 X 1.5 / PERNO 20 LADO DERECHO CESCA 1284 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3814",
+        "name": "TERMOSTATO 79Âº CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12845",
+        "image": "img/products/OM352 2/termostato-79a-calorstat-12845.jpg",
+        "description": "TERMOSTATO 79Âº CALORSTAT 12845 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3815",
+        "name": "TERMOSTATO 80Âº CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12846",
+        "image": "img/products/OM352 2/termostato-80a-calorstat-12846.jpg",
+        "description": "TERMOSTATO 80Âº CALORSTAT 12846 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3816",
+        "name": "TERMOSTATO 83Âº CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12847",
+        "image": "img/products/OM352 2/termostato-83a-calorstat-12847.jpg",
+        "description": "TERMOSTATO 83Âº CALORSTAT 12847 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3817",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO IZQUIERDO R24 X 1.5 / PERNO 20 CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1285",
+        "image": "img/products/OM352 2/extremo-direccion-barra-corta-larga-lado-izquierdo-r24-x-1-5-perno-20-cesca-1285.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO IZQUIERDO R24 X 1.5 / PERNO 20 CESCA 1285 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3818",
+        "name": "TUERCA REGISTRO / LATERAL CORONA EJE TRASERO STD / ALTA Y BAJA PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "12859",
+        "image": "img/products/OM352 2/tuerca-registro-lateral-corona-eje-trasero-std-alta-y-baja-palazzolo-12859.jpg",
+        "description": "TUERCA REGISTRO / LATERAL CORONA EJE TRASERO STD / ALTA Y BAJA PALAZZOLO 12859 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3819",
+        "name": "TAZA GRASERA RUEDA DELANTERA / CHAPA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "12876",
+        "image": "img/products/OM352 2/taza-grasera-rueda-delantera-chapa-industria-argentina-12876.jpg",
+        "description": "TAZA GRASERA RUEDA DELANTERA / CHAPA INDUSTRIA ARGENTINA 12876 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3820",
+        "name": "VASO PREFILTRO BOMBA ALIMENTADORA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "12884",
+        "image": "img/products/OM352 2/vaso-prefiltro-bomba-alimentadora-industria-argentina-12884.jpg",
+        "description": "VASO PREFILTRO BOMBA ALIMENTADORA INDUSTRIA ARGENTINA 12884 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3821",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO DERECHO R30 X 1.5 / PERNO 24 CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1289",
+        "image": "img/products/OM352 2/extremo-direccion-barra-corta-larga-lado-derecho-r30-x-1-5-perno-24-cesca-1289.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO DERECHO R30 X 1.5 / PERNO 24 CESCA 1289 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3822",
+        "name": "JGO. BUJE TENSOR RADIADOR COMPLETO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "12893",
+        "image": "img/products/OM352 2/jgo-buje-tensor-radiador-completo-industria-argentina-12893.jpg",
+        "description": "JGO. BUJE TENSOR RADIADOR COMPLETO INDUSTRIA ARGENTINA 12893 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3823",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO IZQUIERDO R30 X 1.5 / PERNO 24 CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1290",
+        "image": "img/products/OM352 2/extremo-direccion-barra-corta-larga-lado-izquierdo-r30-x-1-5-perno-24-cesca-1290.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO IZQUIERDO R30 X 1.5 / PERNO 24 CESCA 1290 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3824",
+        "name": "FARO GIRO DELANTERO / EN GUARDABARRO / DERECHO E IZQUIERDO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "12923",
+        "image": "img/products/OM352 2/faro-giro-delantero-en-guardabarro-derecho-e-izquierdo-industria-argentina-12923.jpg",
+        "description": "FARO GIRO DELANTERO / EN GUARDABARRO / DERECHO E IZQUIERDO INDUSTRIA ARGENTINA 12923 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3825",
+        "name": "TAPA RADIADOR CHICA CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12993",
+        "image": "img/products/OM352 2/tapa-radiador-chica-calorstat-12993.jpg",
+        "description": "TAPA RADIADOR CHICA CALORSTAT 12993 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3826",
+        "name": "TAPA DEPOSITO DE AGUA / RADIADOR CALORSTAT",
+        "brand": "Mercedes Benz",
+        "code": "12998",
+        "image": "img/products/OM352 2/tapa-deposito-de-agua-radiador-calorstat-12998.jpg",
+        "description": "TAPA DEPOSITO DE AGUA / RADIADOR CALORSTAT 12998 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3827",
+        "name": "REP. VALVULA FRENO DE MANO WABCO COMPLETA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1305",
+        "image": "img/products/OM352 2/rep-valvula-freno-de-mano-wabco-completa-bel-ar-1305.jpg",
+        "description": "REP. VALVULA FRENO DE MANO WABCO COMPLETA BEL-AR 1305 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3828",
+        "name": "JGO. JUNTAS CAJA DE CAMBIOS SIN RETEN CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "13079",
+        "image": "img/products/OM352 2/jgo-juntas-caja-de-cambios-sin-reten-ciccarelli-13079.jpg",
+        "description": "JGO. JUNTAS CAJA DE CAMBIOS SIN RETEN CICCARELLI 13079 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3829",
+        "name": "CRAPODINA EMBRAGUE / INCLUYE KIT DE TRABAS MJB",
+        "brand": "Mercedes Benz",
+        "code": "13080",
+        "image": "img/products/OM352 2/crapodina-embrague-incluye-kit-de-trabas-mjb-13080.jpeg",
+        "description": "CRAPODINA EMBRAGUE / INCLUYE KIT DE TRABAS MJB 13080 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3830",
+        "name": "JUNTA PALIER ALUMINIO / 16 AGUJEROS CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "13116",
+        "image": "img/products/OM352 2/junta-palier-aluminio-16-agujeros-ciccarelli-13116.jpg",
+        "description": "JUNTA PALIER ALUMINIO / 16 AGUJEROS CICCARELLI 13116 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3831",
+        "name": "SOPORTE CANO INYECTOR TEFLON PARA 3 CANOS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "13121",
+        "image": "img/products/OM352 2/soporte-cano-inyector-teflon-para-3-canos-industria-argentina-13121.jpg",
+        "description": "SOPORTE CANO INYECTOR TEFLON PARA 3 CANOS INDUSTRIA ARGENTINA 13121 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3832",
+        "name": "JGO. GOMAS ZOCALO DE PUERTA / PARA LOS 2 LADOS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "13128",
+        "image": "img/products/OM352 2/jgo-gomas-zocalo-de-puerta-para-los-2-lados-industria-argentina-13128.jpg",
+        "description": "JGO. GOMAS ZOCALO DE PUERTA / PARA LOS 2 LADOS INDUSTRIA ARGENTINA 13128 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3833",
+        "name": "JGO. GOMAS BISAGRA PUERTA CON TAPONES INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "13129",
+        "image": "img/products/OM352 2/jgo-gomas-bisagra-puerta-con-tapones-industria-argentina-13129.jpg",
+        "description": "JGO. GOMAS BISAGRA PUERTA CON TAPONES INDUSTRIA ARGENTINA 13129 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3834",
+        "name": "JGO. REJILLA Y MANIJAS DE CALEFACCION INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "13131",
+        "image": "img/products/OM352 2/jgo-rejilla-y-manijas-de-calefaccion-industria-argentina-13131.jpg",
+        "description": "JGO. REJILLA Y MANIJAS DE CALEFACCION INDUSTRIA ARGENTINA 13131 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3835",
+        "name": "REP. VALVULA RETENCION WABCO QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1318",
+        "image": "img/products/OM352 2/rep-valvula-retencion-wabco-quinelato-1318.jpg",
+        "description": "REP. VALVULA RETENCION WABCO QUINELATO 1318 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3836",
+        "name": "SOPORTE CARDAN TIPO REFORMA FLOTANTE CON RODAMIENTO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "13210",
+        "image": "img/products/OM352 2/soporte-cardan-tipo-reforma-flotante-con-rodamiento-industria-argentina-13210.jpg",
+        "description": "SOPORTE CARDAN TIPO REFORMA FLOTANTE CON RODAMIENTO INDUSTRIA ARGENTINA 13210 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3837",
+        "name": "REP. CILINDRO AMPLIFICADOR DE FRENO WABCO BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1327",
+        "image": "img/products/OM352 2/rep-cilindro-amplificador-de-freno-wabco-bel-ar-1327.jpg",
+        "description": "REP. CILINDRO AMPLIFICADOR DE FRENO WABCO BEL-AR 1327 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3838",
+        "name": "SEGURO TAPA PORTA SATELITE INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1329",
+        "image": "img/products/OM352 2/seguro-tapa-porta-satelite-industria-argentina-1329.jpg",
+        "description": "SEGURO TAPA PORTA SATELITE INDUSTRIA ARGENTINA 1329 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3839",
+        "name": "EMBOLO VALVULA GOBERNADORA KNORR BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1330",
+        "image": "img/products/OM352 2/embolo-valvula-gobernadora-knorr-bel-ar-1330.jpg",
+        "description": "EMBOLO VALVULA GOBERNADORA KNORR BEL-AR 1330 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3840",
+        "name": "JGO. DE CASQUETES Y RESORTE DE PALANCA DE CAMBIOS / BAJO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1342",
+        "image": "img/products/OM352 2/jgo-de-casquetes-y-resorte-de-palanca-de-cambios-bajo-industria-argentina-1342.jpg",
+        "description": "JGO. DE CASQUETES Y RESORTE DE PALANCA DE CAMBIOS / BAJO INDUSTRIA ARGENTINA 1342 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3841",
+        "name": "TENSOR DE ALTERNADOR CURVO CON BUJE 240MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "13505",
+        "image": "img/products/OM352 2/tensor-de-alternador-curvo-con-buje-240mm-industria-argentina-13505.jpg",
+        "description": "TENSOR DE ALTERNADOR CURVO CON BUJE 240MM. INDUSTRIA ARGENTINA 13505 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3842",
+        "name": "ARANDELA SATELITE STD INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1353",
+        "image": "img/products/OM352 2/arandela-satelite-std-industria-argentina-1353.jpg",
+        "description": "ARANDELA SATELITE STD INDUSTRIA ARGENTINA 1353 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3843",
+        "name": "SEGURO BANCADA PORTA CORONA EATON INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1361",
+        "image": "img/products/OM352 2/seguro-bancada-porta-corona-eaton-industria-argentina-1361.jpg",
+        "description": "SEGURO BANCADA PORTA CORONA EATON INDUSTRIA ARGENTINA 1361 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3844",
+        "name": "ARANDELA FRICCION PLATO DE ALTA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1367",
+        "image": "img/products/OM352 2/arandela-friccion-plato-de-alta-industria-argentina-1367.jpg",
+        "description": "ARANDELA FRICCION PLATO DE ALTA INDUSTRIA ARGENTINA 1367 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3845",
+        "name": "JGO. PEDAL ACELERADOR TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "13763",
+        "image": "img/products/OM352 2/jgo-pedal-acelerador-trucktec-13763.jpg",
+        "description": "JGO. PEDAL ACELERADOR TRUCKTEC 13763 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3846",
+        "name": "ROTULA LEVA FRENO TRASERA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13805",
+        "image": "img/products/OM352 2/rotula-leva-freno-trasera-imp-13805.jpg",
+        "description": "ROTULA LEVA FRENO TRASERA IMP. 13805 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3847",
+        "name": "JGO. REPARACION GATILLO FRENO DE MANO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13807",
+        "image": "img/products/OM352 2/jgo-reparacion-gatillo-freno-de-mano-imp-13807.jpg",
+        "description": "JGO. REPARACION GATILLO FRENO DE MANO IMP. 13807 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3848",
+        "name": "EJE VELOCIMETRO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13809",
+        "image": "img/products/OM352 2/eje-velocimetro-imp-13809.jpg",
+        "description": "EJE VELOCIMETRO IMP. 13809 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3849",
+        "name": "REP. EJE VELOCIMETRO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13811",
+        "image": "img/products/OM352 2/rep-eje-velocimetro-imp-13811.jpg",
+        "description": "REP. EJE VELOCIMETRO IMP. 13811 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3850",
+        "name": "PINON VELOCIMETRO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13812",
+        "image": "img/products/OM352 2/pinon-velocimetro-imp-13812.jpg",
+        "description": "PINON VELOCIMETRO IMP. 13812 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3851",
+        "name": "TUBO EJE PEDALES IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13817",
+        "image": "img/products/OM352 2/tubo-eje-pedales-imp-13817.jpg",
+        "description": "TUBO EJE PEDALES IMP. 13817 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3852",
+        "name": "BUJE EJE PEDALES / LLEVA 2 UNIDADES IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13818",
+        "image": "img/products/OM352 2/buje-eje-pedales-lleva-2-unidades-imp-13818.jpg",
+        "description": "BUJE EJE PEDALES / LLEVA 2 UNIDADES IMP. 13818 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3853",
+        "name": "RODILLO PATIN DE FRENO COMPLETO CON BUJE DE CHAPA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "13820",
+        "image": "img/products/OM352 2/rodillo-patin-de-freno-completo-con-buje-de-chapa-imp-13820.jpg",
+        "description": "RODILLO PATIN DE FRENO COMPLETO CON BUJE DE CHAPA IMP. 13820 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3854",
+        "name": "ESCOBILLA LIMPIAPARABRISAS 500MM. TRICO",
+        "brand": "Mercedes Benz",
+        "code": "13893",
+        "image": "img/products/OM352 2/escobilla-limpiaparabrisas-500mm-trico-13893.jpg",
+        "description": "ESCOBILLA LIMPIAPARABRISAS 500MM. TRICO 13893 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3855",
+        "name": "RETEN DE VALVULA DE ADMISION ELRING",
+        "brand": "Mercedes Benz",
+        "code": "13938",
+        "image": "img/products/OM352 2/reten-de-valvula-de-admision-elring-13938.jpg",
+        "description": "RETEN DE VALVULA DE ADMISION ELRING 13938 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3856",
+        "name": "RETEN DE VALVULA DE ESCAPE ELRING",
+        "brand": "Mercedes Benz",
+        "code": "13939",
+        "image": "img/products/OM352 2/reten-de-valvula-de-escape-elring-13939.jpg",
+        "description": "RETEN DE VALVULA DE ESCAPE ELRING 13939 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3857",
+        "name": "BULON VOLANTE DE MOTOR AL CIGUENAL S-3",
+        "brand": "Mercedes Benz",
+        "code": "1403",
+        "image": "img/products/OM352 2/bulon-volante-de-motor-al-ciguenal-s-3-1403.jpg",
+        "description": "BULON VOLANTE DE MOTOR AL CIGUENAL S-3 1403 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3858",
+        "name": "BOMBA DIRECCION HIDRAULICA / ROTACION DERECHA TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "14086",
+        "image": "img/products/OM352 2/bomba-direccion-hidraulica-rotacion-derecha-tf-p-technology-14086.jpg",
+        "description": "BOMBA DIRECCION HIDRAULICA / ROTACION DERECHA TF&P TECHNOLOGY 14086 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3859",
+        "name": "TUERCA LATERAL CORONA STD IMP.",
+        "brand": "Mercedes Benz",
+        "code": "14154",
+        "image": "img/products/OM352 2/tuerca-lateral-corona-std-imp-14154.jpg",
+        "description": "TUERCA LATERAL CORONA STD IMP. 14154 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3860",
+        "name": "KIT ESPARRAGO Y TUERCA (BARRILITO) PALIER IMP.",
+        "brand": "Mercedes Benz",
+        "code": "14164",
+        "image": "img/products/OM352 2/kit-esparrago-y-tuerca-barrilito-palier-imp-14164.jpg",
+        "description": "KIT ESPARRAGO Y TUERCA (BARRILITO) PALIER IMP. 14164 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3861",
+        "name": "CHAVETA ARBOL DE LEVAS 6 X 4 X 0.25 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1425",
+        "image": "img/products/OM352 2/chaveta-arbol-de-levas-6-x-4-x-0-25-mm-industria-argentina-1425.jpg",
+        "description": "CHAVETA ARBOL DE LEVAS 6 X 4 X 0.25 MM. INDUSTRIA ARGENTINA 1425 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3862",
+        "name": "CHAVETA ARBOL DE LEVAS 6 X 10 X 0.25 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1426",
+        "image": "img/products/OM352 2/chaveta-arbol-de-levas-6-x-10-x-0-25-mm-industria-argentina-1426.jpg",
+        "description": "CHAVETA ARBOL DE LEVAS 6 X 10 X 0.25 MM. INDUSTRIA ARGENTINA 1426 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3863",
+        "name": "CHAVETA CIGUENAL 8MM. X 13MM. X 32MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1427",
+        "image": "img/products/OM352 2/chaveta-ciguenal-8mm-x-13mm-x-32mm-industria-argentina-1427.jpg",
+        "description": "CHAVETA CIGUENAL 8MM. X 13MM. X 32MM. INDUSTRIA ARGENTINA 1427 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3864",
+        "name": "VALVULA COMPRESOR 94MM. QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "14326",
+        "image": "img/products/OM352 2/valvula-compresor-94mm-quinelato-14326.jpg",
+        "description": "VALVULA COMPRESOR 94MM. QUINELATO 14326 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3865",
+        "name": "REP. VALVULA GOBERNADORA WABCO COMPLETA QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "14333",
+        "image": "img/products/OM352 2/rep-valvula-gobernadora-wabco-completa-quinelato-14333.jpg",
+        "description": "REP. VALVULA GOBERNADORA WABCO COMPLETA QUINELATO 14333 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3866",
+        "name": "REP. VALVULA GOBERNADORA KNORR COMPLETA QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "14334",
+        "image": "img/products/OM352 2/rep-valvula-gobernadora-knorr-completa-quinelato-14334.jpg",
+        "description": "REP. VALVULA GOBERNADORA KNORR COMPLETA QUINELATO 14334 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3867",
+        "name": "CORONA Y PINON 7 X 43 ALTA CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "14453",
+        "image": "img/products/OM352 2/corona-y-pinon-7-x-43-alta-cinpal-14453.jpg",
+        "description": "CORONA Y PINON 7 X 43 ALTA CINPAL 14453 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3868",
+        "name": "CORONA Y PINON 7 X 40 ALTA CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "14454",
+        "image": "img/products/OM352 2/corona-y-pinon-7-x-40-alta-cinpal-14454.jpg",
+        "description": "CORONA Y PINON 7 X 40 ALTA CINPAL 14454 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3869",
+        "name": "CORONA Y PINON 8 X 39 ALTA CINPAL",
+        "brand": "Mercedes Benz",
+        "code": "14455",
+        "image": "img/products/OM352 2/corona-y-pinon-8-x-39-alta-cinpal-14455.jpg",
+        "description": "CORONA Y PINON 8 X 39 ALTA CINPAL 14455 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3870",
+        "name": "CIGUENAL FORJADO / PARA SOGUITA MARINGA",
+        "brand": "Mercedes Benz",
+        "code": "14497",
+        "image": "img/products/OM352 2/ciguenal-forjado-para-soguita-maringa-14497.jpg",
+        "description": "CIGUENAL FORJADO / PARA SOGUITA MARINGA 14497 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3871",
+        "name": "SOPORTE BOMBA DIRECCION HIDRAULICA PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "1471",
+        "image": "img/products/OM352 2/soporte-bomba-direccion-hidraulica-palazzolo-1471.jpg",
+        "description": "SOPORTE BOMBA DIRECCION HIDRAULICA PALAZZOLO 1471 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3872",
+        "name": "CONTRA TUERCA 26MM. PARA CANO CURVO DESCARGA DE ACEITE AL CARTER INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1475",
+        "image": "img/products/OM352 2/contra-tuerca-26mm-para-cano-curvo-descarga-de-aceite-al-carter-industria-argentina-1475.jpg",
+        "description": "CONTRA TUERCA 26MM. PARA CANO CURVO DESCARGA DE ACEITE AL CARTER INDUSTRIA ARGENTINA 1475 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3873",
+        "name": "UNION DOBLE 26MM X 26MM. PARA CANO CURVO DESCARGA DE ACEITE AL CARTER INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1476",
+        "image": "img/products/OM352 2/union-doble-26mm-x-26mm-para-cano-curvo-descarga-de-aceite-al-carter-industria-argentina-1476.jpg",
+        "description": "UNION DOBLE 26MM X 26MM. PARA CANO CURVO DESCARGA DE ACEITE AL CARTER INDUSTRIA ARGENTINA 1476 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3874",
+        "name": "TAPA COMPRESOR 94MM. CON VALVULAS Y JUNTA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "14811",
+        "image": "img/products/OM352 2/tapa-compresor-94mm-con-valvulas-y-junta-imp-14811.jpg",
+        "description": "TAPA COMPRESOR 94MM. CON VALVULAS Y JUNTA IMP. 14811 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3875",
+        "name": "CILINDRO COMPRESOR 94MM IMP.",
+        "brand": "Mercedes Benz",
+        "code": "14812",
+        "image": "img/products/OM352 2/cilindro-compresor-94mm-imp-14812.jpg",
+        "description": "CILINDRO COMPRESOR 94MM IMP. 14812 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3876",
+        "name": "POLEA BOMBA DIRECCION HIDRAULICA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1483",
+        "image": "img/products/OM352 2/polea-bomba-direccion-hidraulica-industria-argentina-1483.jpg",
+        "description": "POLEA BOMBA DIRECCION HIDRAULICA INDUSTRIA ARGENTINA 1483 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3877",
+        "name": "CIGUENAL FORJADO / PARA SOGUITA ENGINE PARTS",
+        "brand": "Mercedes Benz",
+        "code": "14959",
+        "image": "img/products/OM352 2/ciguenal-forjado-para-soguita-engine-parts-14959.jpg",
+        "description": "CIGUENAL FORJADO / PARA SOGUITA ENGINE PARTS 14959 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3878",
+        "name": "BUJE AMORTIGUADOR 21MM. / ALTURA 44MM. BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "1498",
+        "image": "img/products/OM352 2/buje-amortiguador-21mm-altura-44mm-bayros-2000-1498.jpg",
+        "description": "BUJE AMORTIGUADOR 21MM. / ALTURA 44MM. BAYROS 2000 1498 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3879",
+        "name": "CRAPODINA EMBRAGUE CON PORTA CRAPODINA HCS",
+        "brand": "Mercedes Benz",
+        "code": "1502",
+        "image": "img/products/OM352 2/crapodina-embrague-con-porta-crapodina-hcs-1502.jpg",
+        "description": "CRAPODINA EMBRAGUE CON PORTA CRAPODINA HCS 1502 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3880",
+        "name": "EMBOLO VALVULA RELAY TIPO RE1115 BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1506",
+        "image": "img/products/OM352 2/embolo-valvula-relay-tipo-re1115-bel-ar-1506.jpg",
+        "description": "EMBOLO VALVULA RELAY TIPO RE1115 BEL-AR 1506 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3881",
+        "name": "REP. VALVULA PEDALERA PARCIAL QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1510",
+        "image": "img/products/OM352 2/rep-valvula-pedalera-parcial-quinelato-1510.jpg",
+        "description": "REP. VALVULA PEDALERA PARCIAL QUINELATO 1510 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3882",
+        "name": "VALVULA RETENCION SIMPLE KNORR ROSCA 22 MM. TIPO AE 5115 QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1519",
+        "image": "img/products/OM352 2/valvula-retencion-simple-knorr-rosca-22-mm-tipo-ae-5115-quinelato-1519.jpg",
+        "description": "VALVULA RETENCION SIMPLE KNORR ROSCA 22 MM. TIPO AE 5115 QUINELATO 1519 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3883",
+        "name": "REP. MECANISMO ALTA Y BAJA QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "1523",
+        "image": "img/products/OM352 2/rep-mecanismo-alta-y-baja-quinelato-1523.jpg",
+        "description": "REP. MECANISMO ALTA Y BAJA QUINELATO 1523 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3884",
+        "name": "BUJE CHAPA MECANISMO ALTA Y BAJA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1524",
+        "image": "img/products/OM352 2/buje-chapa-mecanismo-alta-y-baja-bel-ar-1524.jpg",
+        "description": "BUJE CHAPA MECANISMO ALTA Y BAJA BEL-AR 1524 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3885",
+        "name": "JGO. SOPORTE DE CABINA COMPLETO BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "1531",
+        "image": "img/products/OM352 2/jgo-soporte-de-cabina-completo-bayros-2000-1531.jpg",
+        "description": "JGO. SOPORTE DE CABINA COMPLETO BAYROS 2000 1531 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3886",
+        "name": "BUJE BRAZO SOPORTE DE CARDAN FLOTANTE REFORMA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1539",
+        "image": "img/products/OM352 2/buje-brazo-soporte-de-cardan-flotante-reforma-industria-argentina-1539.jpg",
+        "description": "BUJE BRAZO SOPORTE DE CARDAN FLOTANTE REFORMA INDUSTRIA ARGENTINA 1539 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3887",
+        "name": "VALVULA COMPRESOR 77MM. BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1540",
+        "image": "img/products/OM352 2/valvula-compresor-77mm-bel-ar-1540.jpg",
+        "description": "VALVULA COMPRESOR 77MM. BEL-AR 1540 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3888",
+        "name": "BUJE TEFLON TORRE PALANCA DE CAMBIOS INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1541",
+        "image": "img/products/OM352 2/buje-teflon-torre-palanca-de-cambios-industria-argentina-1541.jpg",
+        "description": "BUJE TEFLON TORRE PALANCA DE CAMBIOS INDUSTRIA ARGENTINA 1541 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3889",
+        "name": "BOMBA LIMPIAPARABRISAS 12V. VDO",
+        "brand": "Mercedes Benz",
+        "code": "1557",
+        "image": "img/products/OM352 2/bomba-limpiaparabrisas-12v-vdo-1557.jpg",
+        "description": "BOMBA LIMPIAPARABRISAS 12V. VDO 1557 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3890",
+        "name": "CUBRE PEDAL FRENO DE AIRE BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "1571",
+        "image": "img/products/OM352 2/cubre-pedal-freno-de-aire-bayros-2000-1571.jpg",
+        "description": "CUBRE PEDAL FRENO DE AIRE BAYROS 2000 1571 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3891",
+        "name": "CUBRE PEDAL ACELERADOR BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "1572",
+        "image": "img/products/OM352 2/cubre-pedal-acelerador-bayros-2000-1572.jpg",
+        "description": "CUBRE PEDAL ACELERADOR BAYROS 2000 1572 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3892",
+        "name": "JUNTA CAJA DIRECCION MECANICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1580",
+        "image": "img/products/OM352 2/junta-caja-direccion-mecanica-imp-1580.jpg",
+        "description": "JUNTA CAJA DIRECCION MECANICA IMP. 1580 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3893",
+        "name": "CANO RETORNO CALEFACCION CON TUERCA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1656",
+        "image": "img/products/OM352 2/cano-retorno-calefaccion-con-tuerca-industria-argentina-1656.jpg",
+        "description": "CANO RETORNO CALEFACCION CON TUERCA INDUSTRIA ARGENTINA 1656 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3894",
+        "name": "DIAFRAGMA 5 1/2\" / TIPO 12 WABCO BINS",
+        "brand": "Mercedes Benz",
+        "code": "1657",
+        "image": "img/products/OM352 2/diafragma-5-1-2-tipo-12-wabco-bins-1657.jpg",
+        "description": "DIAFRAGMA 5 1/2\" / TIPO 12 WABCO BINS 1657 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3895",
+        "name": "DIAFRAGMA 5 1/2\" / TIPO 12 KNORR SIMPLE 139 X 32 MM. BINS",
+        "brand": "Mercedes Benz",
+        "code": "1669",
+        "image": "img/products/OM352 2/diafragma-5-1-2-tipo-12-knorr-simple-139-x-32-mm-bins-1669.jpg",
+        "description": "DIAFRAGMA 5 1/2\" / TIPO 12 KNORR SIMPLE 139 X 32 MM. BINS 1669 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3896",
+        "name": "POLEA ALTERNADOR 2 CANALES FUNDICION DIAM. 100 MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1681",
+        "image": "img/products/OM352 2/polea-alternador-2-canales-fundicion-diam-100-mm-industria-argentina-1681.jpg",
+        "description": "POLEA ALTERNADOR 2 CANALES FUNDICION DIAM. 100 MM. INDUSTRIA ARGENTINA 1681 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3897",
+        "name": "FUELLE CARDAN DIAM. INT. 70MM. / 3 ANILLOS SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "1701",
+        "image": "img/products/OM352 2/fuelle-cardan-diam-int-70mm-3-anillos-suporte-rei-1701.jpg",
+        "description": "FUELLE CARDAN DIAM. INT. 70MM. / 3 ANILLOS SUPORTE REI 1701 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3898",
+        "name": "JGO. JUNTAS COMPRESOR 94MM. CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "1711",
+        "image": "img/products/OM352 2/jgo-juntas-compresor-94mm-ciccarelli-1711.jpg",
+        "description": "JGO. JUNTAS COMPRESOR 94MM. CICCARELLI 1711 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3899",
+        "name": "REGISTRO FRENO HIDRAULICO DELANTERO Y TRASERO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1716",
+        "image": "img/products/OM352 2/registro-freno-hidraulico-delantero-y-trasero-industria-argentina-1716.jpg",
+        "description": "REGISTRO FRENO HIDRAULICO DELANTERO Y TRASERO INDUSTRIA ARGENTINA 1716 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3900",
+        "name": "BUJE AMORTIGUADOR DELANTERO Y TRASERO 18MM. / ALTURA 31MM. BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "1717",
+        "image": "img/products/OM352 2/buje-amortiguador-delantero-y-trasero-18mm-altura-31mm-bayros-2000-1717.jpg",
+        "description": "BUJE AMORTIGUADOR DELANTERO Y TRASERO 18MM. / ALTURA 31MM. BAYROS 2000 1717 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3901",
+        "name": "CANO DESCARGA DE ACEITE AL CARTER (RETORNO) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1720",
+        "image": "img/products/OM352 2/cano-descarga-de-aceite-al-carter-retorno-industria-argentina-1720.jpg",
+        "description": "CANO DESCARGA DE ACEITE AL CARTER (RETORNO) INDUSTRIA ARGENTINA 1720 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3902",
+        "name": "JUNTA VASO PREFILTRO BOMBA ALIMENTADORA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1721",
+        "image": "img/products/OM352 2/junta-vaso-prefiltro-bomba-alimentadora-industria-argentina-1721.jpg",
+        "description": "JUNTA VASO PREFILTRO BOMBA ALIMENTADORA INDUSTRIA ARGENTINA 1721 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3903",
+        "name": "JGO. JUNTAS MULTIPLE DE ESCAPE CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "1722",
+        "image": "img/products/OM352 2/jgo-juntas-multiple-de-escape-ciccarelli-1722.jpg",
+        "description": "JGO. JUNTAS MULTIPLE DE ESCAPE CICCARELLI 1722 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3904",
+        "name": "JUNTA SALIDA CANO ESCAPE CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "1723",
+        "image": "img/products/OM352 2/junta-salida-cano-escape-ciccarelli-1723.jpg",
+        "description": "JUNTA SALIDA CANO ESCAPE CICCARELLI 1723 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3905",
+        "name": "JGO. DE JUNTAS DE TURBO CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "1724",
+        "image": "img/products/OM352 2/jgo-de-juntas-de-turbo-ciccarelli-1724.jpg",
+        "description": "JGO. DE JUNTAS DE TURBO CICCARELLI 1724 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3906",
+        "name": "REP. VALVULA TAPA REFRIGERADOR DE ACEITE CON ESFERA 17MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1728",
+        "image": "img/products/OM352 2/rep-valvula-tapa-refrigerador-de-aceite-con-esfera-17mm-imp-1728.jpg",
+        "description": "REP. VALVULA TAPA REFRIGERADOR DE ACEITE CON ESFERA 17MM. IMP. 1728 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3907",
+        "name": "SEGURO HORQUILLA DE EMBRAGUE (GENIOL) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1730",
+        "image": "img/products/OM352 2/seguro-horquilla-de-embrague-geniol-industria-argentina-1730.jpg",
+        "description": "SEGURO HORQUILLA DE EMBRAGUE (GENIOL) INDUSTRIA ARGENTINA 1730 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3908",
+        "name": "CLAVO PATIN FRENO HIDRAULICO COMPLETO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1736",
+        "image": "img/products/OM352 2/clavo-patin-freno-hidraulico-completo-industria-argentina-1736.jpg",
+        "description": "CLAVO PATIN FRENO HIDRAULICO COMPLETO INDUSTRIA ARGENTINA 1736 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3909",
+        "name": "RETEN PUERTA DERECHA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1738",
+        "image": "img/products/OM352 2/reten-puerta-derecha-universal-1738.jpg",
+        "description": "RETEN PUERTA DERECHA UNIVERSAL 1738 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3910",
+        "name": "RETEN PUERTA IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "1739",
+        "image": "img/products/OM352 2/reten-puerta-izquierda-universal-1739.jpg",
+        "description": "RETEN PUERTA IZQUIERDA UNIVERSAL 1739 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3911",
+        "name": "GUARDAPOLVO CILINDRO DE RUEDA / TRISTOP 2 AGUJEROS BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "1759",
+        "image": "img/products/OM352 2/guardapolvo-cilindro-de-rueda-tristop-2-agujeros-bel-ar-1759.jpg",
+        "description": "GUARDAPOLVO CILINDRO DE RUEDA / TRISTOP 2 AGUJEROS BEL-AR 1759 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3912",
+        "name": "ESTRELLA PARRILLA / DIAM. EXTERIOR 255MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1760",
+        "image": "img/products/OM352 2/estrella-parrilla-diam-exterior-255mm-imp-1760.jpg",
+        "description": "ESTRELLA PARRILLA / DIAM. EXTERIOR 255MM. IMP. 1760 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3913",
+        "name": "CARTER DE ACEITE DE MOTOR CON ROSCA PARA DESCARGA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "1798",
+        "image": "img/products/OM352 2/carter-de-aceite-de-motor-con-rosca-para-descarga-industria-argentina-1798.jpg",
+        "description": "CARTER DE ACEITE DE MOTOR CON ROSCA PARA DESCARGA INDUSTRIA ARGENTINA 1798 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3914",
+        "name": "BARRA DIRECCION LARGA 1611MM. CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1806",
+        "image": "img/products/OM352 2/barra-direccion-larga-1611mm-cesca-1806.jpg",
+        "description": "BARRA DIRECCION LARGA 1611MM. CESCA 1806 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3915",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R24 X 1.5 / PERNO 20 CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1826",
+        "image": "img/products/OM352 2/extremo-direccion-barra-corta-lado-derecho-r24-x-1-5-perno-20-cesca-1826.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R24 X 1.5 / PERNO 20 CESCA 1826 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3916",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R24 X 1.5 / PERNO 20 CESCA",
+        "brand": "Mercedes Benz",
+        "code": "1827",
+        "image": "img/products/OM352 2/extremo-direccion-barra-corta-lado-izquierdo-r24-x-1-5-perno-20-cesca-1827.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R24 X 1.5 / PERNO 20 CESCA 1827 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3917",
+        "name": "PALANCA DE EMBRAGUE CON EJE ESTRIADO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1969",
+        "image": "img/products/OM352 2/palanca-de-embrague-con-eje-estriado-imp-1969.jpg",
+        "description": "PALANCA DE EMBRAGUE CON EJE ESTRIADO IMP. 1969 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3918",
+        "name": "TORNILLO REGISTRO SIN FIN DIRECCION MECANICA COMPLETO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "1970",
+        "image": "img/products/OM352 2/tornillo-registro-sin-fin-direccion-mecanica-completo-imp-1970.jpg",
+        "description": "TORNILLO REGISTRO SIN FIN DIRECCION MECANICA COMPLETO IMP. 1970 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3919",
+        "name": "REP. PERNO PUNTA DE EJE PARCIAL / 35MM. / PARA LOS 2 LADOS PLATINUM",
+        "brand": "Mercedes Benz",
+        "code": "1971",
+        "image": "img/products/OM352 2/rep-perno-punta-de-eje-parcial-35mm-para-los-2-lados-platinum-1971.jpg",
+        "description": "REP. PERNO PUNTA DE EJE PARCIAL / 35MM. / PARA LOS 2 LADOS PLATINUM 1971 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3920",
+        "name": "INTERRUPTOR LUZ DE FRENO A AIRE MACHO R10 X 1.0 MM. / CARGA MAX. 120W VDO",
+        "brand": "Mercedes Benz",
+        "code": "1994",
+        "image": "img/products/OM352 2/interruptor-luz-de-freno-a-aire-macho-r10-x-1-0-mm-carga-max-120w-vdo-1994.jpg",
+        "description": "INTERRUPTOR LUZ DE FRENO A AIRE MACHO R10 X 1.0 MM. / CARGA MAX. 120W VDO 1994 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3921",
+        "name": "BIELA COMPRESOR 77MM. CORTA FINA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "2020",
+        "image": "img/products/OM352 2/biela-compresor-77mm-corta-fina-bel-ar-2020.jpg",
+        "description": "BIELA COMPRESOR 77MM. CORTA FINA BEL-AR 2020 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3922",
+        "name": "BIELA COMPRESOR 94MM. ANCHA LARGA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "2021",
+        "image": "img/products/OM352 2/biela-compresor-94mm-ancha-larga-bel-ar-2021.jpg",
+        "description": "BIELA COMPRESOR 94MM. ANCHA LARGA BEL-AR 2021 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3923",
+        "name": "REP. SERVO FRENO COMPLETA KNORR PILOTO",
+        "brand": "Mercedes Benz",
+        "code": "2092",
+        "image": "img/products/OM352 2/rep-servo-freno-completa-knorr-piloto-2092.jpg",
+        "description": "REP. SERVO FRENO COMPLETA KNORR PILOTO 2092 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3924",
+        "name": "CODO BAJADA ESCAPE TURBO (HIERRO) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "2094",
+        "image": "img/products/OM352 2/codo-bajada-escape-turbo-hierro-industria-argentina-2094.jpg",
+        "description": "CODO BAJADA ESCAPE TURBO (HIERRO) INDUSTRIA ARGENTINA 2094 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3925",
+        "name": "CILINDRO MAESTRO DE FRENO DELANTERO FRENO:SILENT",
+        "brand": "Mercedes Benz",
+        "code": "2113",
+        "image": "img/products/OM352 2/cilindro-maestro-de-freno-delantero-freno-silent-2113.jpg",
+        "description": "CILINDRO MAESTRO DE FRENO DELANTERO FRENO:SILENT 2113 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3926",
+        "name": "VALVULA SOBREPRESION COMBUSTIBLE / CON BOLITA TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "2166",
+        "image": "img/products/OM352 2/valvula-sobrepresion-combustible-con-bolita-trucktec-2166.jpg",
+        "description": "VALVULA SOBREPRESION COMBUSTIBLE / CON BOLITA TRUCKTEC 2166 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3927",
+        "name": "GOMA SUNCHO TANQUE COMBUSTIBLE DE 140 A 210 LTRS. SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "2183",
+        "image": "img/products/OM352 2/goma-suncho-tanque-combustible-de-140-a-210-ltrs-suporte-rei-2183.jpg",
+        "description": "GOMA SUNCHO TANQUE COMBUSTIBLE DE 140 A 210 LTRS. SUPORTE REI 2183 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3928",
+        "name": "TAPA TRASERA BOMBA DE AGUA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "2191",
+        "image": "img/products/OM352 2/tapa-trasera-bomba-de-agua-industria-argentina-2191.jpg",
+        "description": "TAPA TRASERA BOMBA DE AGUA INDUSTRIA ARGENTINA 2191 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3929",
+        "name": "REP. MECANISMO ALTA Y BAJA COMPLETO QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "2222",
+        "image": "img/products/OM352 2/rep-mecanismo-alta-y-baja-completo-quinelato-2222.jpg",
+        "description": "REP. MECANISMO ALTA Y BAJA COMPLETO QUINELATO 2222 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3930",
+        "name": "MANIJA INTERIOR DE PUERTA DERECHA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2241",
+        "image": "img/products/OM352 2/manija-interior-de-puerta-derecha-universal-2241.jpg",
+        "description": "MANIJA INTERIOR DE PUERTA DERECHA UNIVERSAL 2241 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3931",
+        "name": "MANIJA INTERIOR DE PUERTA IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2242",
+        "image": "img/products/OM352 2/manija-interior-de-puerta-izquierda-universal-2242.jpg",
+        "description": "MANIJA INTERIOR DE PUERTA IZQUIERDA UNIVERSAL 2242 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3932",
+        "name": "MANIJA LEVANTA CRISTAL PLASTICA NEGRA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2253",
+        "image": "img/products/OM352 2/manija-levanta-cristal-plastica-negra-universal-2253.jpg",
+        "description": "MANIJA LEVANTA CRISTAL PLASTICA NEGRA UNIVERSAL 2253 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3933",
+        "name": "MANIJA LEVANTA CRISTAL CROMADA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2254",
+        "image": "img/products/OM352 2/manija-levanta-cristal-cromada-universal-2254.jpg",
+        "description": "MANIJA LEVANTA CRISTAL CROMADA UNIVERSAL 2254 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3934",
+        "name": "MANGUERA RADIADOR INFERIOR IMP.",
+        "brand": "Mercedes Benz",
+        "code": "2302",
+        "image": "img/products/OM352 2/manguera-radiador-inferior-imp-2302.jpg",
+        "description": "MANGUERA RADIADOR INFERIOR IMP. 2302 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3935",
+        "name": "BOMBA ALIMENTADORA DE COMBUSTIBLE (HIERRO) TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "2345",
+        "image": "img/products/OM352 2/bomba-alimentadora-de-combustible-hierro-trucktec-2345.jpg",
+        "description": "BOMBA ALIMENTADORA DE COMBUSTIBLE (HIERRO) TRUCKTEC 2345 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3936",
+        "name": "VALVULA FRENO DE MANO CIRCUITO SIMPLE WABCO (3 SALIDAS) F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "2352",
+        "image": "img/products/OM352 2/valvula-freno-de-mano-circuito-simple-wabco-3-salidas-f-s-s-2352.jpg",
+        "description": "VALVULA FRENO DE MANO CIRCUITO SIMPLE WABCO (3 SALIDAS) F.S.S 2352 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3937",
+        "name": "JUNTA TAPA DISTRIBUCION CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "2374",
+        "image": "img/products/OM352 2/junta-tapa-distribucion-ciccarelli-2374.jpg",
+        "description": "JUNTA TAPA DISTRIBUCION CICCARELLI 2374 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3938",
+        "name": "ELEMENTO FILTRO DE AIRE EN SECO FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "2413",
+        "image": "img/products/OM352 2/elemento-filtro-de-aire-en-seco-filtros-serrano-2413.jpg",
+        "description": "ELEMENTO FILTRO DE AIRE EN SECO FILTROS SERRANO 2413 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3939",
+        "name": "CHUPADOR BOMBA DE ACEITE MEDIANO (ALUMINIO) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "2425",
+        "image": "img/products/OM352 2/chupador-bomba-de-aceite-mediano-aluminio-industria-argentina-2425.jpg",
+        "description": "CHUPADOR BOMBA DE ACEITE MEDIANO (ALUMINIO) INDUSTRIA ARGENTINA 2425 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3940",
+        "name": "SOPORTE MANIJA INTERIOR DE PUERTA / CHAPA MICRO",
+        "brand": "Mercedes Benz",
+        "code": "2443",
+        "image": "img/products/OM352 2/soporte-manija-interior-de-puerta-chapa-micro-2443.jpg",
+        "description": "SOPORTE MANIJA INTERIOR DE PUERTA / CHAPA MICRO 2443 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3941",
+        "name": "REPARACION CAJA DIRECCION MECANICA COMPLETA BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "2457",
+        "image": "img/products/OM352 2/reparacion-caja-direccion-mecanica-completa-bayros-2000-2457.jpg",
+        "description": "REPARACION CAJA DIRECCION MECANICA COMPLETA BAYROS 2000 2457 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3942",
+        "name": "CILINDRO FRENO MOTOR R12MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "2463",
+        "image": "img/products/OM352 2/cilindro-freno-motor-r12mm-imp-2463.jpg",
+        "description": "CILINDRO FRENO MOTOR R12MM. IMP. 2463 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3943",
+        "name": "JGO. JUNTAS DE CARTER CON COGOTERAS DE CORCHO SABO",
+        "brand": "Mercedes Benz",
+        "code": "2481",
+        "image": "img/products/OM352 2/jgo-juntas-de-carter-con-cogoteras-de-corcho-sabo-2481.jpg",
+        "description": "JGO. JUNTAS DE CARTER CON COGOTERAS DE CORCHO SABO 2481 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3944",
+        "name": "MANIJA VENTILETE PUERTA DERECHA / NEGRA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2519",
+        "image": "img/products/OM352 2/manija-ventilete-puerta-derecha-negra-universal-2519.jpg",
+        "description": "MANIJA VENTILETE PUERTA DERECHA / NEGRA UNIVERSAL 2519 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3945",
+        "name": "MANIJA VENTILETE PUERTA IZQUIERDA / NEGRA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2520",
+        "image": "img/products/OM352 2/manija-ventilete-puerta-izquierda-negra-universal-2520.jpg",
+        "description": "MANIJA VENTILETE PUERTA IZQUIERDA / NEGRA UNIVERSAL 2520 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3946",
+        "name": "MANIJA VENTILETE PUERTA DERECHA / CROMADA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2521",
+        "image": "img/products/OM352 2/manija-ventilete-puerta-derecha-cromada-universal-2521.jpg",
+        "description": "MANIJA VENTILETE PUERTA DERECHA / CROMADA UNIVERSAL 2521 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3947",
+        "name": "MANIJA VENTILETE PUERTA IZQUIERDA / CROMADA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2522",
+        "image": "img/products/OM352 2/manija-ventilete-puerta-izquierda-cromada-universal-2522.jpg",
+        "description": "MANIJA VENTILETE PUERTA IZQUIERDA / CROMADA UNIVERSAL 2522 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3948",
+        "name": "GANCHO SEGURO DE CAPOT UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2527",
+        "image": "img/products/OM352 2/gancho-seguro-de-capot-universal-2527.jpg",
+        "description": "GANCHO SEGURO DE CAPOT UNIVERSAL 2527 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3949",
+        "name": "CANO BAJADA DE MOTOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "2564",
+        "image": "img/products/OM352 2/cano-bajada-de-motor-industria-argentina-2564.jpg",
+        "description": "CANO BAJADA DE MOTOR INDUSTRIA ARGENTINA 2564 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3950",
+        "name": "TAPA TANQUE DE COMBUSTIBLE SIN LLAVE UNICK",
+        "brand": "Mercedes Benz",
+        "code": "2669",
+        "image": "img/products/OM352 2/tapa-tanque-de-combustible-sin-llave-unick-2669.jpg",
+        "description": "TAPA TANQUE DE COMBUSTIBLE SIN LLAVE UNICK 2669 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3951",
+        "name": "TAPA TANQUE DE COMBUSTIBLE SIN LLAVE CON CADENA / RECTANGULAR CHAPA UNICK",
+        "brand": "Mercedes Benz",
+        "code": "2673",
+        "image": "img/products/OM352 2/tapa-tanque-de-combustible-sin-llave-con-cadena-rectangular-chapa-unick-2673.jpg",
+        "description": "TAPA TANQUE DE COMBUSTIBLE SIN LLAVE CON CADENA / RECTANGULAR CHAPA UNICK 2673 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3952",
+        "name": "VALVULA VENTEO O SEPARADOR DE ACEITE BAJA A ROSCA TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "2737",
+        "image": "img/products/OM352 2/valvula-venteo-o-separador-de-aceite-baja-a-rosca-trucktec-2737.jpg",
+        "description": "VALVULA VENTEO O SEPARADOR DE ACEITE BAJA A ROSCA TRUCKTEC 2737 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3953",
+        "name": "VARILLA NIVEL ACEITE DE MOTOR / LARGO 650MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "2748",
+        "image": "img/products/OM352 2/varilla-nivel-aceite-de-motor-largo-650mm-imp-2748.jpg",
+        "description": "VARILLA NIVEL ACEITE DE MOTOR / LARGO 650MM. IMP. 2748 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3954",
+        "name": "INTERRUPTOR MARCHA ATRAS M 12 X 1 / M 27 X 1 3-RHO",
+        "brand": "Mercedes Benz",
+        "code": "2767",
+        "image": "img/products/OM352 2/interruptor-marcha-atras-m-12-x-1-m-27-x-1-3-rho-2767.jpg",
+        "description": "INTERRUPTOR MARCHA ATRAS M 12 X 1 / M 27 X 1 3-RHO 2767 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3955",
+        "name": "MOLDURA PLASTICA MANIJA INTERIOR PUERTA DERECHA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2829",
+        "image": "img/products/OM352 2/moldura-plastica-manija-interior-puerta-derecha-universal-2829.jpg",
+        "description": "MOLDURA PLASTICA MANIJA INTERIOR PUERTA DERECHA UNIVERSAL 2829 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3956",
+        "name": "MOLDURA PLASTICA MANIJA INTERIOR PUERTA IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2830",
+        "image": "img/products/OM352 2/moldura-plastica-manija-interior-puerta-izquierda-universal-2830.jpg",
+        "description": "MOLDURA PLASTICA MANIJA INTERIOR PUERTA IZQUIERDA UNIVERSAL 2830 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3957",
+        "name": "SOPORTE INFERIOR VENTILETE DE PUERTA DERECHA E IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2832",
+        "image": "img/products/OM352 2/soporte-inferior-ventilete-de-puerta-derecha-e-izquierda-universal-2832.jpg",
+        "description": "SOPORTE INFERIOR VENTILETE DE PUERTA DERECHA E IZQUIERDA UNIVERSAL 2832 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3958",
+        "name": "PLACA FIJACION RETEN PUERTA / ALUMINIO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2833",
+        "image": "img/products/OM352 2/placa-fijacion-reten-puerta-aluminio-universal-2833.jpg",
+        "description": "PLACA FIJACION RETEN PUERTA / ALUMINIO UNIVERSAL 2833 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3959",
+        "name": "VALVULA GOBERNADORA WABCO TKL",
+        "brand": "Mercedes Benz",
+        "code": "2900",
+        "image": "img/products/OM352 2/valvula-gobernadora-wabco-tkl-2900.jpg",
+        "description": "VALVULA GOBERNADORA WABCO TKL 2900 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3960",
+        "name": "REP. VALVULA FRENO DE MANO WABCO PARCIAL BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "2909",
+        "image": "img/products/OM352 2/rep-valvula-freno-de-mano-wabco-parcial-bel-ar-2909.jpg",
+        "description": "REP. VALVULA FRENO DE MANO WABCO PARCIAL BEL-AR 2909 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3961",
+        "name": "REP. VALVULA GOBERNADORA BOSCH COMPLETA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "2926",
+        "image": "img/products/OM352 2/rep-valvula-gobernadora-bosch-completa-industria-argentina-2926.jpg",
+        "description": "REP. VALVULA GOBERNADORA BOSCH COMPLETA INDUSTRIA ARGENTINA 2926 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3962",
+        "name": "TAPA COMPRESOR 77MM. CON VALVULAS Y JUNTA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "2939",
+        "image": "img/products/OM352 2/tapa-compresor-77mm-con-valvulas-y-junta-bel-ar-2939.jpg",
+        "description": "TAPA COMPRESOR 77MM. CON VALVULAS Y JUNTA BEL-AR 2939 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3963",
+        "name": "MOLDURA MANIJA INTERIOR DE PUERTA CROMADA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "2940",
+        "image": "img/products/OM352 2/moldura-manija-interior-de-puerta-cromada-universal-2940.jpg",
+        "description": "MOLDURA MANIJA INTERIOR DE PUERTA CROMADA UNIVERSAL 2940 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3964",
+        "name": "CAJA BUJE BARRA DE ESTABILIZADORA TRASERA GRANDE IMP.",
+        "brand": "Mercedes Benz",
+        "code": "2968",
+        "image": "img/products/OM352 2/caja-buje-barra-de-estabilizadora-trasera-grande-imp-2968.jpg",
+        "description": "CAJA BUJE BARRA DE ESTABILIZADORA TRASERA GRANDE IMP. 2968 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3965",
+        "name": "CRUCETA CARDAN DADO 38.05 / LARGO 102.00 ETMA",
+        "brand": "Mercedes Benz",
+        "code": "2980",
+        "image": "img/products/OM352 2/cruceta-cardan-dado-38-05-largo-102-00-etma-2980.jpg",
+        "description": "CRUCETA CARDAN DADO 38.05 / LARGO 102.00 ETMA 2980 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3966",
+        "name": "EJE PEDAL ACELERADOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "3042",
+        "image": "img/products/OM352 2/eje-pedal-acelerador-industria-argentina-3042.jpg",
+        "description": "EJE PEDAL ACELERADOR INDUSTRIA ARGENTINA 3042 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3967",
+        "name": "EJE ACELERADOR PASANTE CON LEVA RECTA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "3043",
+        "image": "img/products/OM352 2/eje-acelerador-pasante-con-leva-recta-industria-argentina-3043.jpg",
+        "description": "EJE ACELERADOR PASANTE CON LEVA RECTA INDUSTRIA ARGENTINA 3043 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3968",
+        "name": "ROTULA SECTOR DE DIRECCION IMP.",
+        "brand": "Mercedes Benz",
+        "code": "3162",
+        "image": "img/products/OM352 2/rotula-sector-de-direccion-imp-3162.jpg",
+        "description": "ROTULA SECTOR DE DIRECCION IMP. 3162 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3969",
+        "name": "TAPON CARTER DE MOTOR SIN IMAN P/LLAVE ALLEN 26X1.5MM. IMP.",
+        "brand": "Mercedes Benz",
+        "code": "3165",
+        "image": "img/products/OM352 2/tapon-carter-de-motor-sin-iman-p-llave-allen-26x1-5mm-imp-3165.jpg",
+        "description": "TAPON CARTER DE MOTOR SIN IMAN P/LLAVE ALLEN 26X1.5MM. IMP. 3165 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3970",
+        "name": "BISAGRA PUERTA SUPERIOR IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "3209",
+        "image": "img/products/OM352 2/bisagra-puerta-superior-izquierda-universal-3209.jpg",
+        "description": "BISAGRA PUERTA SUPERIOR IZQUIERDA UNIVERSAL 3209 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3971",
+        "name": "BISAGRA PUERTA SUPERIOR DERECHA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "3210",
+        "image": "img/products/OM352 2/bisagra-puerta-superior-derecha-universal-3210.jpg",
+        "description": "BISAGRA PUERTA SUPERIOR DERECHA UNIVERSAL 3210 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3972",
+        "name": "BISAGRA PUERTA INFERIOR IZQUIERDA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "3211",
+        "image": "img/products/OM352 2/bisagra-puerta-inferior-izquierda-universal-3211.jpg",
+        "description": "BISAGRA PUERTA INFERIOR IZQUIERDA UNIVERSAL 3211 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3973",
+        "name": "BISAGRA PUERTA INFERIOR DERECHA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "3212",
+        "image": "img/products/OM352 2/bisagra-puerta-inferior-derecha-universal-3212.jpg",
+        "description": "BISAGRA PUERTA INFERIOR DERECHA UNIVERSAL 3212 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3974",
+        "name": "TAPON CARTER DE MOTOR CON IMAN P/LLAVE ALLEN 26X1.5MM. CON ORING TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "3224",
+        "image": "img/products/OM352 2/tapon-carter-de-motor-con-iman-p-llave-allen-26x1-5mm-con-oring-trucktec-3224.jpg",
+        "description": "TAPON CARTER DE MOTOR CON IMAN P/LLAVE ALLEN 26X1.5MM. CON ORING TRUCKTEC 3224 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3975",
+        "name": "INTERRUPTOR LUCES DE STOP EN PEDALERA Y FRENO DE MOTOR / M16 X 1.5 / M27 X 1MM. 3-RHO",
+        "brand": "Mercedes Benz",
+        "code": "3399",
+        "image": "img/products/OM352 2/interruptor-luces-de-stop-en-pedalera-y-freno-de-motor-m16-x-1-5-m27-x-1mm-3-rho-3399.jpg",
+        "description": "INTERRUPTOR LUCES DE STOP EN PEDALERA Y FRENO DE MOTOR / M16 X 1.5 / M27 X 1MM. 3-RHO 3399 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3976",
+        "name": "VALVULA SOBREPRESION COMBUSTIBLE / CON RESORTE TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "3400",
+        "image": "img/products/OM352 2/valvula-sobrepresion-combustible-con-resorte-trucktec-3400.jpg",
+        "description": "VALVULA SOBREPRESION COMBUSTIBLE / CON RESORTE TRUCKTEC 3400 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3977",
+        "name": "VALVULA VENTEO O SEPARADOR DE ACEITE ALTA A ROSCA TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "3412",
+        "image": "img/products/OM352 2/valvula-venteo-o-separador-de-aceite-alta-a-rosca-trucktec-3412.jpg",
+        "description": "VALVULA VENTEO O SEPARADOR DE ACEITE ALTA A ROSCA TRUCKTEC 3412 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3978",
+        "name": "ARANA TRABA CAJA DIRECCION MECANICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "3447",
+        "image": "img/products/OM352 2/arana-traba-caja-direccion-mecanica-imp-3447.jpg",
+        "description": "ARANA TRABA CAJA DIRECCION MECANICA IMP. 3447 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3979",
+        "name": "TURBO TO4B27 / 3LKS / H1E BIAGIO",
+        "brand": "Mercedes Benz",
+        "code": "3453",
+        "image": "img/products/OM352 2/turbo-to4b27-3lks-h1e-biagio-3453.jpg",
+        "description": "TURBO TO4B27 / 3LKS / H1E BIAGIO 3453 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3980",
+        "name": "POLEA CIGUENAL 2 CANALES (COLOR NEGRA) SC",
+        "brand": "Mercedes Benz",
+        "code": "3458",
+        "image": "img/products/OM352 2/polea-ciguenal-2-canales-color-negra-sc-3458.gif",
+        "description": "POLEA CIGUENAL 2 CANALES (COLOR NEGRA) SC 3458 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3981",
+        "name": "EMPUNADURA FRENO DE MANO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "3562",
+        "image": "img/products/OM352 2/empunadura-freno-de-mano-imp-3562.jpg",
+        "description": "EMPUNADURA FRENO DE MANO IMP. 3562 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3982",
+        "name": "VALVULA CABEZAL FILTRO DE ACEITE PLASTICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "3566",
+        "image": "img/products/OM352 2/valvula-cabezal-filtro-de-aceite-plastica-imp-3566.jpg",
+        "description": "VALVULA CABEZAL FILTRO DE ACEITE PLASTICA IMP. 3566 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3983",
+        "name": "CANO INYECTOR NÂº 1 TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "3741",
+        "image": "img/products/OM352 2/cano-inyector-na-1-trucktec-3741.jpg",
+        "description": "CANO INYECTOR NÂº 1 TRUCKTEC 3741 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3984",
+        "name": "CANO INYECTOR NÂº 6 TRUCKTEC",
+        "brand": "Mercedes Benz",
+        "code": "3746",
+        "image": "img/products/OM352 2/cano-inyector-na-6-trucktec-3746.jpg",
+        "description": "CANO INYECTOR NÂº 6 TRUCKTEC 3746 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3985",
+        "name": "BULBO PRESION ACEITE / R1/8\" NPTF VDO",
+        "brand": "Mercedes Benz",
+        "code": "3750",
+        "image": "img/products/OM352 2/bulbo-presion-aceite-r1-8-nptf-vdo-3750.jpg",
+        "description": "BULBO PRESION ACEITE / R1/8\" NPTF VDO 3750 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3986",
+        "name": "MANOMETRO DOBLE MECANICO / ESCALA 0-10 BAR VDO",
+        "brand": "Mercedes Benz",
+        "code": "3751",
+        "image": "img/products/OM352 2/manometro-doble-mecanico-escala-0-10-bar-vdo-3751.jpg",
+        "description": "MANOMETRO DOBLE MECANICO / ESCALA 0-10 BAR VDO 3751 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3987",
+        "name": "PISTA RUEDA DELANTERA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "3756",
+        "image": "img/products/OM352 2/pista-rueda-delantera-imp-3756.jpg",
+        "description": "PISTA RUEDA DELANTERA IMP. 3756 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3988",
+        "name": "MEDIA BANCADA DIFERENCIAL ALTA Y BAJA GRUESA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "3768",
+        "image": "img/products/OM352 2/media-bancada-diferencial-alta-y-baja-gruesa-industria-argentina-3768.jpg",
+        "description": "MEDIA BANCADA DIFERENCIAL ALTA Y BAJA GRUESA INDUSTRIA ARGENTINA 3768 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3989",
+        "name": "MEDIA BANCADA DIFERENCIAL ALTA Y BAJA FINA INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "3769",
+        "image": "img/products/OM352 2/media-bancada-diferencial-alta-y-baja-fina-industria-argentina-3769.jpg",
+        "description": "MEDIA BANCADA DIFERENCIAL ALTA Y BAJA FINA INDUSTRIA ARGENTINA 3769 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3990",
+        "name": "VALVULA PEDALERA KNORR TIPO MB4629 / 8.5 BAR F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "3813",
+        "image": "img/products/OM352 2/valvula-pedalera-knorr-tipo-mb4629-8-5-bar-f-s-s-3813.jpg",
+        "description": "VALVULA PEDALERA KNORR TIPO MB4629 / 8.5 BAR F.S.S 3813 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3991",
+        "name": "VALVULA PEDALERA KNORR TIPO MB4630 F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "3814",
+        "image": "img/products/OM352 2/valvula-pedalera-knorr-tipo-mb4630-f-s-s-3814.jpg",
+        "description": "VALVULA PEDALERA KNORR TIPO MB4630 F.S.S 3814 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3992",
+        "name": "REP. VALVULA RELAY WABCO F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "3829",
+        "image": "img/products/OM352 2/rep-valvula-relay-wabco-f-s-s-3829.jpg",
+        "description": "REP. VALVULA RELAY WABCO F.S.S 3829 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3993",
+        "name": "EXPULSOR DE POLVO PARA FILTRO DE AIRE FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "3851",
+        "image": "img/products/OM352 2/expulsor-de-polvo-para-filtro-de-aire-filtros-serrano-3851.jpg",
+        "description": "EXPULSOR DE POLVO PARA FILTRO DE AIRE FILTROS SERRANO 3851 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3994",
+        "name": "CONJUNTO DE VARILLAS, TRABAS Y PERNO PARA CERRADURA UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "3877",
+        "image": "img/products/OM352 2/conjunto-de-varillas-trabas-y-perno-para-cerradura-universal-3877.jpg",
+        "description": "CONJUNTO DE VARILLAS, TRABAS Y PERNO PARA CERRADURA UNIVERSAL 3877 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3995",
+        "name": "CONMUTADOR ELECTRICO DE ENCENDIDO Y ARRANQUE SIN CILINDRO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "3882",
+        "image": "img/products/OM352 2/conmutador-electrico-de-encendido-y-arranque-sin-cilindro-universal-3882.jpg",
+        "description": "CONMUTADOR ELECTRICO DE ENCENDIDO Y ARRANQUE SIN CILINDRO UNIVERSAL 3882 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3996",
+        "name": "BRAZO SOPORTE DE MOTOR (PATITA) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "3919",
+        "image": "img/products/OM352 2/brazo-soporte-de-motor-patita-industria-argentina-3919.jpg",
+        "description": "BRAZO SOPORTE DE MOTOR (PATITA) INDUSTRIA ARGENTINA 3919 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3997",
+        "name": "CAJON DE BATERIA (180 AMPERES) INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "3922",
+        "image": "img/products/OM352 2/cajon-de-bateria-180-amperes-industria-argentina-3922.jpg",
+        "description": "CAJON DE BATERIA (180 AMPERES) INDUSTRIA ARGENTINA 3922 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3998",
+        "name": "CIERRE GUANTERA A BOTON / NEGRO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "4066",
+        "image": "img/products/OM352 2/cierre-guantera-a-boton-negro-universal-4066.jpg",
+        "description": "CIERRE GUANTERA A BOTON / NEGRO UNIVERSAL 4066 Mercedes Benz 1114"
+    },
+    {
+        "id": "P3999",
+        "name": "CIERRE GUANTERA SIN LLAVE UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "4067",
+        "image": "img/products/OM352 2/cierre-guantera-sin-llave-universal-4067.jpg",
+        "description": "CIERRE GUANTERA SIN LLAVE UNIVERSAL 4067 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4000",
+        "name": "BARRA DIRECCION CORTA 780MM. / FRENO HIDRAULICO CESCA",
+        "brand": "Mercedes Benz",
+        "code": "4148",
+        "image": "img/products/OM352 2/barra-direccion-corta-780mm-freno-hidraulico-cesca-4148.jpg",
+        "description": "BARRA DIRECCION CORTA 780MM. / FRENO HIDRAULICO CESCA 4148 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4001",
+        "name": "TOPE DE GOMA DE CAPOT / 2 PICOS BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "4157",
+        "image": "img/products/OM352 2/tope-de-goma-de-capot-2-picos-bayros-2000-4157.jpg",
+        "description": "TOPE DE GOMA DE CAPOT / 2 PICOS BAYROS 2000 4157 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4002",
+        "name": "SOPAPA DOBLE PISTON DE PUERTA BAYROS 2000",
+        "brand": "Mercedes Benz",
+        "code": "4158",
+        "image": "img/products/OM352 2/sopapa-doble-piston-de-puerta-bayros-2000-4158.jpg",
+        "description": "SOPAPA DOBLE PISTON DE PUERTA BAYROS 2000 4158 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4003",
+        "name": "MARCO DE PUERTA DERECHO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "4307",
+        "image": "img/products/OM352 2/marco-de-puerta-derecho-universal-4307.jpg",
+        "description": "MARCO DE PUERTA DERECHO UNIVERSAL 4307 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4004",
+        "name": "MARCO DE PUERTA IZQUIERDO UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "4308",
+        "image": "img/products/OM352 2/marco-de-puerta-izquierdo-universal-4308.jpg",
+        "description": "MARCO DE PUERTA IZQUIERDO UNIVERSAL 4308 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4005",
+        "name": "ROSETA MANIJA LEVANTA CRISTAL UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "4313",
+        "image": "img/products/OM352 2/roseta-manija-levanta-cristal-universal-4313.jpg",
+        "description": "ROSETA MANIJA LEVANTA CRISTAL UNIVERSAL 4313 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4006",
+        "name": "TAPA FILTRO DE AIRE FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "4473",
+        "image": "img/products/OM352 2/tapa-filtro-de-aire-filtros-serrano-4473.jpg",
+        "description": "TAPA FILTRO DE AIRE FILTROS SERRANO 4473 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4007",
+        "name": "SOPORTE DE CARDAN CON REGULACION Y ALEMITE DIAM. INT. 40 MM. SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "4508",
+        "image": "img/products/OM352 2/soporte-de-cardan-con-regulacion-y-alemite-diam-int-40-mm-suporte-rei-4508.jpg",
+        "description": "SOPORTE DE CARDAN CON REGULACION Y ALEMITE DIAM. INT. 40 MM. SUPORTE REI 4508 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4008",
+        "name": "REPARACION SOPORTE DE CARDAN R-3057 / R-3004 / R- 3060 / R-3060A / R-3021 / R- 3021A / DIAM. INT. 40MM. SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "4517",
+        "image": "img/products/OM352 2/reparacion-soporte-de-cardan-r-3057-r-3004-r-3060-r-3060a-r-3021-r-3021a-diam-int-40mm-suporte-rei-4517.jpg",
+        "description": "REPARACION SOPORTE DE CARDAN R-3057 / R-3004 / R- 3060 / R-3060A / R-3021 / R- 3021A / DIAM. INT. 40MM. SUPORTE REI 4517 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4009",
+        "name": "ABRAZADERA FILTRO DE AIRE OBLICUA FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "4540",
+        "image": "img/products/OM352 2/abrazadera-filtro-de-aire-oblicua-filtros-serrano-4540.jpg",
+        "description": "ABRAZADERA FILTRO DE AIRE OBLICUA FILTROS SERRANO 4540 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4010",
+        "name": "TAPA PENTAGONAL DE LA CAJA / TOMA DE FUERZA PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "4598",
+        "image": "img/products/OM352 2/tapa-pentagonal-de-la-caja-toma-de-fuerza-palazzolo-4598.jpg",
+        "description": "TAPA PENTAGONAL DE LA CAJA / TOMA DE FUERZA PALAZZOLO 4598 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4011",
+        "name": "SOPORTE ESCAPE BAJADA DE TURBO INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "4614",
+        "image": "img/products/OM352 2/soporte-escape-bajada-de-turbo-industria-argentina-4614.jpg",
+        "description": "SOPORTE ESCAPE BAJADA DE TURBO INDUSTRIA ARGENTINA 4614 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4012",
+        "name": "TAPON CARCAZA DISTRIBUCION PLASTICO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "4640",
+        "image": "img/products/OM352 2/tapon-carcaza-distribucion-plastico-imp-4640.jpg",
+        "description": "TAPON CARCAZA DISTRIBUCION PLASTICO IMP. 4640 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4013",
+        "name": "PISTON VALVULA PEDALERA BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "4651",
+        "image": "img/products/OM352 2/piston-valvula-pedalera-bel-ar-4651.jpg",
+        "description": "PISTON VALVULA PEDALERA BEL-AR 4651 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4014",
+        "name": "KIT RETENES CON FUELLE PARA SERVO FRENO KNORR BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "4654",
+        "image": "img/products/OM352 2/kit-retenes-con-fuelle-para-servo-freno-knorr-bel-ar-4654.jpg",
+        "description": "KIT RETENES CON FUELLE PARA SERVO FRENO KNORR BEL-AR 4654 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4015",
+        "name": "KIT DE REPOTENCIAMIENTO PARA VALVULA DISTRIBUIDORA WABCO BEL-AR",
+        "brand": "Mercedes Benz",
+        "code": "4657",
+        "image": "img/products/OM352 2/kit-de-repotenciamiento-para-valvula-distribuidora-wabco-bel-ar-4657.jpg",
+        "description": "KIT DE REPOTENCIAMIENTO PARA VALVULA DISTRIBUIDORA WABCO BEL-AR 4657 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4016",
+        "name": "POLEA ADICIONAL POLEA CIGUENAL INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "4697",
+        "image": "img/products/OM352 2/polea-adicional-polea-ciguenal-industria-argentina-4697.jpg",
+        "description": "POLEA ADICIONAL POLEA CIGUENAL INDUSTRIA ARGENTINA 4697 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4017",
+        "name": "HELICE VENTILADOR 6 PALAS ANGOSTAS DIAM. EXT. 515 MM. / AGUJERO CENTRAL 34 MM. OMER",
+        "brand": "Mercedes Benz",
+        "code": "4878",
+        "image": "img/products/OM352 2/helice-ventilador-6-palas-angostas-diam-ext-515-mm-agujero-central-34-mm-omer-4878.jpg",
+        "description": "HELICE VENTILADOR 6 PALAS ANGOSTAS DIAM. EXT. 515 MM. / AGUJERO CENTRAL 34 MM. OMER 4878 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4018",
+        "name": "HELICE VENTILADOR 6 PALAS ANCHAS DIAM. EXT. 515 MM. AGUJERO CENTRAL 34 MM. OMER",
+        "brand": "Mercedes Benz",
+        "code": "4879",
+        "image": "img/products/OM352 2/helice-ventilador-6-palas-anchas-diam-ext-515-mm-agujero-central-34-mm-omer-4879.jpg",
+        "description": "HELICE VENTILADOR 6 PALAS ANCHAS DIAM. EXT. 515 MM. AGUJERO CENTRAL 34 MM. OMER 4879 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4019",
+        "name": "HELICE VENTILADOR 6 PALAS ANGOSTAS DIAM. EXT. 515 MM. AGUJERO CENTRAL 28 MM. OMER",
+        "brand": "Mercedes Benz",
+        "code": "4881",
+        "image": "img/products/OM352 2/helice-ventilador-6-palas-angostas-diam-ext-515-mm-agujero-central-28-mm-omer-4881.jpg",
+        "description": "HELICE VENTILADOR 6 PALAS ANGOSTAS DIAM. EXT. 515 MM. AGUJERO CENTRAL 28 MM. OMER 4881 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4020",
+        "name": "HELICE VENTILADOR 6 PALAS ANCHAS DIAM. EXT. 515 MM. AGUJERO CENTRAL 28 MM. OMER",
+        "brand": "Mercedes Benz",
+        "code": "4882",
+        "image": "img/products/OM352 2/helice-ventilador-6-palas-anchas-diam-ext-515-mm-agujero-central-28-mm-omer-4882.jpg",
+        "description": "HELICE VENTILADOR 6 PALAS ANCHAS DIAM. EXT. 515 MM. AGUJERO CENTRAL 28 MM. OMER 4882 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4021",
+        "name": "VALVULA RELAY WABCO 10 BAR / M16 X 1.5MM. TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "5037",
+        "image": "img/products/OM352 2/valvula-relay-wabco-10-bar-m16-x-1-5mm-tf-p-technology-5037.jpg",
+        "description": "VALVULA RELAY WABCO 10 BAR / M16 X 1.5MM. TF&P TECHNOLOGY 5037 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4022",
+        "name": "JGO. SOPORTE DE CABINA COMPLETO SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "5056",
+        "image": "img/products/OM352 2/jgo-soporte-de-cabina-completo-suporte-rei-5056.jpg",
+        "description": "JGO. SOPORTE DE CABINA COMPLETO SUPORTE REI 5056 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4023",
+        "name": "BULBO TEMPERATURA CORTO / MTE 3022 MA2O",
+        "brand": "Mercedes Benz",
+        "code": "5124",
+        "image": "img/products/OM352 2/bulbo-temperatura-corto-mte-3022-ma2o-5124.jpg",
+        "description": "BULBO TEMPERATURA CORTO / MTE 3022 MA2O 5124 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4024",
+        "name": "SOPORTE RADIADOR SUPERIOR E INFERIOR SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "5194",
+        "image": "img/products/OM352 2/soporte-radiador-superior-e-inferior-suporte-rei-5194.jpg",
+        "description": "SOPORTE RADIADOR SUPERIOR E INFERIOR SUPORTE REI 5194 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4025",
+        "name": "FILTRO DE AIRE COMPLETO / EN SECO FILTROS SERRANO",
+        "brand": "Mercedes Benz",
+        "code": "5296",
+        "image": "img/products/OM352 2/filtro-de-aire-completo-en-seco-filtros-serrano-5296.jpg",
+        "description": "FILTRO DE AIRE COMPLETO / EN SECO FILTROS SERRANO 5296 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4026",
+        "name": "VALVULA FRENO DE MANO CIRCUITO SIMPLE WABCO (3 SALIDAS) TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "5372",
+        "image": "img/products/OM352 2/valvula-freno-de-mano-circuito-simple-wabco-3-salidas-tf-p-technology-5372.jpg",
+        "description": "VALVULA FRENO DE MANO CIRCUITO SIMPLE WABCO (3 SALIDAS) TF&P TECHNOLOGY 5372 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4027",
+        "name": "MANOMETRO TURBO MECANICO 0-3 / KG/CM2 / DIAM. 52MM. WILLTEC",
+        "brand": "Mercedes Benz",
+        "code": "5395",
+        "image": "img/products/OM352 2/manometro-turbo-mecanico-0-3-kg-cm2-diam-52mm-willtec-5395.jpg",
+        "description": "MANOMETRO TURBO MECANICO 0-3 / KG/CM2 / DIAM. 52MM. WILLTEC 5395 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4028",
+        "name": "VALVULA PEDALERA WABCO F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "5439",
+        "image": "img/products/OM352 2/valvula-pedalera-wabco-f-s-s-5439.jpg",
+        "description": "VALVULA PEDALERA WABCO F.S.S 5439 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4029",
+        "name": "VALVULA 2 VIAS WABCO F.S.S",
+        "brand": "Mercedes Benz",
+        "code": "5454",
+        "image": "img/products/OM352 2/valvula-2-vias-wabco-f-s-s-5454.jpg",
+        "description": "VALVULA 2 VIAS WABCO F.S.S 5454 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4030",
+        "name": "REP. VALVULA DE FLUJO CON RETORNO TOTAL WABCO QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "5507",
+        "image": "img/products/OM352 2/rep-valvula-de-flujo-con-retorno-total-wabco-quinelato-5507.jpg",
+        "description": "REP. VALVULA DE FLUJO CON RETORNO TOTAL WABCO QUINELATO 5507 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4031",
+        "name": "CORONA VOLANTE MOTOR / 125 DIENTES RMOSS",
+        "brand": "Mercedes Benz",
+        "code": "5518",
+        "image": "img/products/OM352 2/corona-volante-motor-125-dientes-rmoss-5518.jpg",
+        "description": "CORONA VOLANTE MOTOR / 125 DIENTES RMOSS 5518 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4032",
+        "name": "RETEN SALIDA CAJA DE CAMBIOS SABO",
+        "brand": "Mercedes Benz",
+        "code": "5548",
+        "image": "img/products/OM352 2/reten-salida-caja-de-cambios-sabo-5548.jpg",
+        "description": "RETEN SALIDA CAJA DE CAMBIOS SABO 5548 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4033",
+        "name": "PERNO SOPORTE BOMBA DIRECCION HIDRAULICA PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "5948",
+        "image": "img/products/OM352 2/perno-soporte-bomba-direccion-hidraulica-palazzolo-5948.jpg",
+        "description": "PERNO SOPORTE BOMBA DIRECCION HIDRAULICA PALAZZOLO 5948 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4034",
+        "name": "JGO. JUNTAS COMPRESOR 77MM. 3 AGUJEROS CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "5952",
+        "image": "img/products/OM352 2/jgo-juntas-compresor-77mm-3-agujeros-ciccarelli-5952.jpg",
+        "description": "JGO. JUNTAS COMPRESOR 77MM. 3 AGUJEROS CICCARELLI 5952 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4035",
+        "name": "JUNTA BASE TURBO / CHAPA CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "5954",
+        "image": "img/products/OM352 2/junta-base-turbo-chapa-ciccarelli-5954.jpg",
+        "description": "JUNTA BASE TURBO / CHAPA CICCARELLI 5954 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4036",
+        "name": "TAPA COMPRESOR 94MM. REFORMA CON VALVULAS DE 77MM. PALAZZOLO",
+        "brand": "Mercedes Benz",
+        "code": "5955",
+        "image": "img/products/OM352 2/tapa-compresor-94mm-reforma-con-valvulas-de-77mm-palazzolo-5955.jpg",
+        "description": "TAPA COMPRESOR 94MM. REFORMA CON VALVULAS DE 77MM. PALAZZOLO 5955 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4037",
+        "name": "TRABA TUERCA REGISTRO CARRIER INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "5972",
+        "image": "img/products/OM352 2/traba-tuerca-registro-carrier-industria-argentina-5972.jpg",
+        "description": "TRABA TUERCA REGISTRO CARRIER INDUSTRIA ARGENTINA 5972 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4038",
+        "name": "BULON PUNTA CIGUENAL 24 X 1.5 X 56MM. / TUERCA 45MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "5978",
+        "image": "img/products/OM352 2/bulon-punta-ciguenal-24-x-1-5-x-56mm-tuerca-45mm-s-3-5978.jpg",
+        "description": "BULON PUNTA CIGUENAL 24 X 1.5 X 56MM. / TUERCA 45MM. S-3 5978 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4039",
+        "name": "BULON SOPORTE ALTERNADOR 10 X 140MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "5981",
+        "image": "img/products/OM352 2/bulon-soporte-alternador-10-x-140mm-s-3-5981.jpg",
+        "description": "BULON SOPORTE ALTERNADOR 10 X 140MM. S-3 5981 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4040",
+        "name": "BULON CARTER MOTOR 6 X 1 X 15MM. S-3",
+        "brand": "Mercedes Benz",
+        "code": "5982",
+        "image": "img/products/OM352 2/bulon-carter-motor-6-x-1-x-15mm-s-3-5982.jpg",
+        "description": "BULON CARTER MOTOR 6 X 1 X 15MM. S-3 5982 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4041",
+        "name": "REGISTRO FRENO MANUAL DELANTERO DERECHO E IZQUIERDO 26 DIENTES TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "5992",
+        "image": "img/products/OM352 2/registro-freno-manual-delantero-derecho-e-izquierdo-26-dientes-tf-p-technology-5992.jpg",
+        "description": "REGISTRO FRENO MANUAL DELANTERO DERECHO E IZQUIERDO 26 DIENTES TF&P TECHNOLOGY 5992 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4042",
+        "name": "REGISTRO FRENO MANUAL TRASERO DERECHO 26 DIENTES TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "5993",
+        "image": "img/products/OM352 2/registro-freno-manual-trasero-derecho-26-dientes-tf-p-technology-5993.jpg",
+        "description": "REGISTRO FRENO MANUAL TRASERO DERECHO 26 DIENTES TF&P TECHNOLOGY 5993 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4043",
+        "name": "REGISTRO FRENO MANUAL TRASERO IZQUIERDO 26 DIENTES TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "5994",
+        "image": "img/products/OM352 2/registro-freno-manual-trasero-izquierdo-26-dientes-tf-p-technology-5994.jpg",
+        "description": "REGISTRO FRENO MANUAL TRASERO IZQUIERDO 26 DIENTES TF&P TECHNOLOGY 5994 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4044",
+        "name": "BUJE TENSOR RADIADOR INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "6352",
+        "image": "img/products/OM352 2/buje-tensor-radiador-industria-argentina-6352.jpg",
+        "description": "BUJE TENSOR RADIADOR INDUSTRIA ARGENTINA 6352 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4045",
+        "name": "FUELLE CARDAN / DIAM. INT. 72MM. Y 68MM. SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "6373",
+        "image": "img/products/OM352 2/fuelle-cardan-diam-int-72mm-y-68mm-suporte-rei-6373.jpg",
+        "description": "FUELLE CARDAN / DIAM. INT. 72MM. Y 68MM. SUPORTE REI 6373 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4046",
+        "name": "CILINDRO FRENO RUEDA DELANTERA DERECHA E IZQUIERDA / 41.27MM. INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "6450",
+        "image": "img/products/OM352 2/cilindro-freno-rueda-delantera-derecha-e-izquierda-41-27mm-industria-argentina-6450.jpg",
+        "description": "CILINDRO FRENO RUEDA DELANTERA DERECHA E IZQUIERDA / 41.27MM. INDUSTRIA ARGENTINA 6450 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4047",
+        "name": "CERRADURA PUERTA DERECHA CHEZHOU",
+        "brand": "Mercedes Benz",
+        "code": "6507",
+        "image": "img/products/OM352 2/cerradura-puerta-derecha-chezhou-6507.png",
+        "description": "CERRADURA PUERTA DERECHA CHEZHOU 6507 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4048",
+        "name": "CERRADURA PUERTA IZQUIERDA CHEZHOU",
+        "brand": "Mercedes Benz",
+        "code": "6508",
+        "image": "img/products/OM352 2/cerradura-puerta-izquierda-chezhou-6508.jpg",
+        "description": "CERRADURA PUERTA IZQUIERDA CHEZHOU 6508 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4049",
+        "name": "LLAVE DE LUCES ,GIRO Y BOCINA CON RETORNO AUTOMATICO Y GUINADA CHEZHOU",
+        "brand": "Mercedes Benz",
+        "code": "6518",
+        "image": "img/products/OM352 2/llave-de-luces-giro-y-bocina-con-retorno-automatico-y-guinada-chezhou-6518.png",
+        "description": "LLAVE DE LUCES ,GIRO Y BOCINA CON RETORNO AUTOMATICO Y GUINADA CHEZHOU 6518 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4050",
+        "name": "MANIJA INTERIOR PUERTA IZQUIERDA / 2 ANCLAJES UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "6720",
+        "image": "img/products/OM352 2/manija-interior-puerta-izquierda-2-anclajes-universal-6720.jpg",
+        "description": "MANIJA INTERIOR PUERTA IZQUIERDA / 2 ANCLAJES UNIVERSAL 6720 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4051",
+        "name": "MANIJA INTERIOR PUERTA DERECHA / 2 ANCLAJES UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "6721",
+        "image": "img/products/OM352 2/manija-interior-puerta-derecha-2-anclajes-universal-6721.jpg",
+        "description": "MANIJA INTERIOR PUERTA DERECHA / 2 ANCLAJES UNIVERSAL 6721 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4052",
+        "name": "CIERRE DE CAPOT INFERIOR ORI",
+        "brand": "Mercedes Benz",
+        "code": "6986",
+        "image": "img/products/OM352 2/cierre-de-capot-inferior-ori-6986.png",
+        "description": "CIERRE DE CAPOT INFERIOR ORI 6986 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4053",
+        "name": "ABRAZADERA ESCAPE 5/16\" PARA CANO ESCAPE 3 1/2\" PERFECTO",
+        "brand": "Mercedes Benz",
+        "code": "6993",
+        "image": "img/products/OM352 2/abrazadera-escape-5-16-para-cano-escape-3-1-2-perfecto-6993.jpg",
+        "description": "ABRAZADERA ESCAPE 5/16\" PARA CANO ESCAPE 3 1/2\" PERFECTO 6993 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4054",
+        "name": "JGO. JUNTAS DE CARTER CON COGOTERAS DE GOMA BANCO",
+        "brand": "Mercedes Benz",
+        "code": "6998",
+        "image": "img/products/OM352 2/jgo-juntas-de-carter-con-cogoteras-de-goma-banco-6998.jpg",
+        "description": "JGO. JUNTAS DE CARTER CON COGOTERAS DE GOMA BANCO 6998 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4055",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE BAJO SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "7113",
+        "image": "img/products/OM352 2/cubre-pedal-freno-y-embrague-bajo-suporte-rei-7113.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE BAJO SUPORTE REI 7113 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4056",
+        "name": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 40MM. SABO",
+        "brand": "Mercedes Benz",
+        "code": "7242",
+        "image": "img/products/OM352 2/rodamiento-de-cardan-con-goma-diam-int-40mm-sabo-7242.jpg",
+        "description": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 40MM. SABO 7242 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4057",
+        "name": "HORQUILLA DE CAJA 2Âº Y 3Âº CON PASTILLAS CAMBIABLES IMP.",
+        "brand": "Mercedes Benz",
+        "code": "7243",
+        "image": "img/products/OM352 2/horquilla-de-caja-2a-y-3a-con-pastillas-cambiables-imp-7243.jpg",
+        "description": "HORQUILLA DE CAJA 2Âº Y 3Âº CON PASTILLAS CAMBIABLES IMP. 7243 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4058",
+        "name": "HORQUILLA DE CAJA 4Âº Y 5Âº CON PASTILLAS CAMBIABLES IMP.",
+        "brand": "Mercedes Benz",
+        "code": "7244",
+        "image": "img/products/OM352 2/horquilla-de-caja-4a-y-5a-con-pastillas-cambiables-imp-7244.jpg",
+        "description": "HORQUILLA DE CAJA 4Âº Y 5Âº CON PASTILLAS CAMBIABLES IMP. 7244 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4059",
+        "name": "ABRAZADERA ESCAPE 5/16\" PARA CANO ESCAPE 3\" PERFECTO",
+        "brand": "Mercedes Benz",
+        "code": "7672",
+        "image": "img/products/OM352 2/abrazadera-escape-5-16-para-cano-escape-3-perfecto-7672.jpg",
+        "description": "ABRAZADERA ESCAPE 5/16\" PARA CANO ESCAPE 3\" PERFECTO 7672 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4060",
+        "name": "PISTON COMPRESOR 77MM. STD TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "7710",
+        "image": "img/products/OM352 2/piston-compresor-77mm-std-tf-p-technology-7710.jpg",
+        "description": "PISTON COMPRESOR 77MM. STD TF&P TECHNOLOGY 7710 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4061",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR 94MM. STD TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "7719",
+        "image": "img/products/OM352 2/piston-con-perno-y-seguro-compresor-94mm-std-tf-p-technology-7719.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR 94MM. STD TF&P TECHNOLOGY 7719 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4062",
+        "name": "VALVULA COMPRESOR 94MM. A-TECH",
+        "brand": "Mercedes Benz",
+        "code": "7853",
+        "image": "img/products/OM352 2/valvula-compresor-94mm-a-tech-7853.jpg",
+        "description": "VALVULA COMPRESOR 94MM. A-TECH 7853 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4063",
+        "name": "GOMA BUJE BRONCE COLUMNA DIRECCION INDUSTRIA ARGENTINA",
+        "brand": "Mercedes Benz",
+        "code": "7887",
+        "image": "img/products/OM352 2/goma-buje-bronce-columna-direccion-industria-argentina-7887.jpg",
+        "description": "GOMA BUJE BRONCE COLUMNA DIRECCION INDUSTRIA ARGENTINA 7887 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4064",
+        "name": "VALVULA SOBREPRESION COMBUSTIBLE / CON RESORTE UGR",
+        "brand": "Mercedes Benz",
+        "code": "8052",
+        "image": "img/products/OM352 2/valvula-sobrepresion-combustible-con-resorte-ugr-8052.jpg",
+        "description": "VALVULA SOBREPRESION COMBUSTIBLE / CON RESORTE UGR 8052 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4065",
+        "name": "JGO. JUNTAS MOTOR SIN TAPA DE CILINDROS CON RETEN DE BANCADA CICCARELLI",
+        "brand": "Mercedes Benz",
+        "code": "8378",
+        "image": "img/products/OM352 2/jgo-juntas-motor-sin-tapa-de-cilindros-con-reten-de-bancada-ciccarelli-8378.jpg",
+        "description": "JGO. JUNTAS MOTOR SIN TAPA DE CILINDROS CON RETEN DE BANCADA CICCARELLI 8378 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4066",
+        "name": "JGO. JUNTAS MOTOR CON JUNTA DE TAPA DE CILINDROS ELRING Y RETEN DE BANCADA CICCARELLI / ELRING",
+        "brand": "Mercedes Benz",
+        "code": "8391",
+        "image": "img/products/OM352 2/jgo-juntas-motor-con-junta-de-tapa-de-cilindros-elring-y-reten-de-bancada-ciccarelli-elring-8391.jpg",
+        "description": "JGO. JUNTAS MOTOR CON JUNTA DE TAPA DE CILINDROS ELRING Y RETEN DE BANCADA CICCARELLI / ELRING 8391 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4067",
+        "name": "BOMBIN CEBADOR TF&P TECHNOLOGY",
+        "brand": "Mercedes Benz",
+        "code": "8959",
+        "image": "img/products/OM352 2/bombin-cebador-tf-p-technology-8959.jpg",
+        "description": "BOMBIN CEBADOR TF&P TECHNOLOGY 8959 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4068",
+        "name": "VALVULA GOBERNADORA KNORR METALICA IMP.",
+        "brand": "Mercedes Benz",
+        "code": "8991",
+        "image": "img/products/OM352 2/valvula-gobernadora-knorr-metalica-imp-8991.jpg",
+        "description": "VALVULA GOBERNADORA KNORR METALICA IMP. 8991 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4069",
+        "name": "PICO DESEMPANADOR PARABRISAS UNIVERSAL",
+        "brand": "Mercedes Benz",
+        "code": "9044",
+        "image": "img/products/OM352 2/pico-desempanador-parabrisas-universal-9044.jpg",
+        "description": "PICO DESEMPANADOR PARABRISAS UNIVERSAL 9044 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4070",
+        "name": "TAPA LATERAL DE BOTADORES / ALUMINIO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "9169",
+        "image": "img/products/OM352 2/tapa-lateral-de-botadores-aluminio-imp-9169.jpg",
+        "description": "TAPA LATERAL DE BOTADORES / ALUMINIO IMP. 9169 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4071",
+        "name": "TAPON FILTRO TANQUE DE COMBUSTIBLE CON AGUJERO IMP.",
+        "brand": "Mercedes Benz",
+        "code": "9188",
+        "image": "img/products/OM352 2/tapon-filtro-tanque-de-combustible-con-agujero-imp-9188.jpg",
+        "description": "TAPON FILTRO TANQUE DE COMBUSTIBLE CON AGUJERO IMP. 9188 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4072",
+        "name": "EMBOLO VALVULA RELAY WABCO QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "9484",
+        "image": "img/products/OM352 2/embolo-valvula-relay-wabco-quinelato-9484.jpg",
+        "description": "EMBOLO VALVULA RELAY WABCO QUINELATO 9484 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4073",
+        "name": "REP. CAMARA TRISTOP WABCO TIPO G 16\" QUINELATO",
+        "brand": "Mercedes Benz",
+        "code": "9493",
+        "image": "img/products/OM352 2/rep-camara-tristop-wabco-tipo-g-16-quinelato-9493.jpg",
+        "description": "REP. CAMARA TRISTOP WABCO TIPO G 16\" QUINELATO 9493 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4074",
+        "name": "BUJE AMORTIGUADOR SUPERIOR TRASERO CON TUBO Y 2 ESPACIADORES SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "9586",
+        "image": "img/products/OM352 2/buje-amortiguador-superior-trasero-con-tubo-y-2-espaciadores-suporte-rei-9586.jpg",
+        "description": "BUJE AMORTIGUADOR SUPERIOR TRASERO CON TUBO Y 2 ESPACIADORES SUPORTE REI 9586 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4075",
+        "name": "FUELLE INTERIOR PALANCA DE CAMBIOS SUPORTE REI",
+        "brand": "Mercedes Benz",
+        "code": "9680",
+        "image": "img/products/OM352 2/fuelle-interior-palanca-de-cambios-suporte-rei-9680.jpg",
+        "description": "FUELLE INTERIOR PALANCA DE CAMBIOS SUPORTE REI 9680 Mercedes Benz 1114"
     }
 ];
 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = products;
 }
-
