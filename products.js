@@ -35746,6 +35746,3262 @@
         "code": "9680",
         "image": "img/products/OM352 2/fuelle-interior-palanca-de-cambios-suporte-rei-9680.jpg",
         "description": "FUELLE INTERIOR PALANCA DE CAMBIOS SUPORTE REI 9680 Mercedes Benz 1114"
+    },
+    {
+        "id": "P4076",
+        "name": "TENSOR CORREA ALTERNADOR POLEA ESTRIADA TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "0080",
+        "image": "img/products/6c 2/tensor-correa-alternador-polea-estriada-tf-p-technology-0080.jpg",
+        "description": "TENSOR CORREA ALTERNADOR POLEA ESTRIADA TF&P TECHNOLOGY 0080 Cummins 6C"
+    },
+    {
+        "id": "P4077",
+        "name": "GRAMPA DE FIJACION / 6.22MM ALTURA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "0120",
+        "image": "img/products/6c 2/grampa-de-fijacion-6-22mm-altura-engine-parts-0120.jpg",
+        "description": "GRAMPA DE FIJACION / 6.22MM ALTURA ENGINE PARTS 0120 Cummins 6C"
+    },
+    {
+        "id": "P4078",
+        "name": "CODO ADAPTADOR MACHO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "0121",
+        "image": "img/products/6c 2/codo-adaptador-macho-blk-diesel-0121.jpg",
+        "description": "CODO ADAPTADOR MACHO BLK DIESEL 0121 Cummins 6C"
+    },
+    {
+        "id": "P4079",
+        "name": "REP. TAPA COMPRESOR HOLSET 92MM. QE 296 QUINELATO",
+        "brand": "Cummins",
+        "code": "0157",
+        "image": "img/products/6c 2/rep-tapa-compresor-holset-92mm-qe-296-quinelato-0157.jpg",
+        "description": "REP. TAPA COMPRESOR HOLSET 92MM. QE 296 QUINELATO 0157 Cummins 6C"
+    },
+    {
+        "id": "P4080",
+        "name": "REP. TAPA COMPRESOR HOLSET 92MM. SS 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "0158",
+        "image": "img/products/6c 2/rep-tapa-compresor-holset-92mm-ss-296-bel-ar-0158.jpg",
+        "description": "REP. TAPA COMPRESOR HOLSET 92MM. SS 296 BEL-AR 0158 Cummins 6C"
+    },
+    {
+        "id": "P4081",
+        "name": "VALVULA COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "0166",
+        "image": "img/products/6c 2/valvula-compresor-wabco-85mm-quinelato-0166.jpg",
+        "description": "VALVULA COMPRESOR WABCO 85MM. QUINELATO 0166 Cummins 6C"
+    },
+    {
+        "id": "P4082",
+        "name": "JUNTA TAPA DE CILINDROS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "0296",
+        "image": "img/products/6c 2/junta-tapa-de-cilindros-engine-parts-0296.jpg",
+        "description": "JUNTA TAPA DE CILINDROS ENGINE PARTS 0296 Cummins 6C"
+    },
+    {
+        "id": "P4083",
+        "name": "JGO. JUNTAS MOTOR PARTE INFERIOR 8.3 LTS. BLK DIESEL",
+        "brand": "Cummins",
+        "code": "0297",
+        "image": "img/products/6c 2/jgo-juntas-motor-parte-inferior-8-3-lts-blk-diesel-0297.jpg",
+        "description": "JGO. JUNTAS MOTOR PARTE INFERIOR 8.3 LTS. BLK DIESEL 0297 Cummins 6C"
+    },
+    {
+        "id": "P4084",
+        "name": "CARCAZA CUBREVOLANTE LADO MOTOR BIAGIO",
+        "brand": "Cummins",
+        "code": "0620",
+        "image": "img/products/6c 2/carcaza-cubrevolante-lado-motor-biagio-0620.jpg",
+        "description": "CARCAZA CUBREVOLANTE LADO MOTOR BIAGIO 0620 Cummins 6C"
+    },
+    {
+        "id": "P4085",
+        "name": "POLEA CIGUENAL INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "0647",
+        "image": "img/products/6c 2/polea-ciguenal-industria-argentina-0647.jpg",
+        "description": "POLEA CIGUENAL INDUSTRIA ARGENTINA 0647 Cummins 6C"
+    },
+    {
+        "id": "P4086",
+        "name": "FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE COMPLETO RACOR PARKER",
+        "brand": "Cummins",
+        "code": "0815",
+        "image": "img/products/6c 2/filtro-separador-de-agua-del-combustible-completo-racor-parker-0815.jpg",
+        "description": "FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE COMPLETO RACOR PARKER 0815 Cummins 6C"
+    },
+    {
+        "id": "P4087",
+        "name": "MANGUERA UNION RADIADOR INTERCOOLER A MULTIPLE DE ADMISION IMP.",
+        "brand": "Cummins",
+        "code": "0938",
+        "image": "img/products/6c 2/manguera-union-radiador-intercooler-a-multiple-de-admision-imp-0938.jpg",
+        "description": "MANGUERA UNION RADIADOR INTERCOOLER A MULTIPLE DE ADMISION IMP. 0938 Cummins 6C"
+    },
+    {
+        "id": "P4088",
+        "name": "ENTRETAPA COMPRESOR HOLSET 92MM. QE 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "0967",
+        "image": "img/products/6c 2/entretapa-compresor-holset-92mm-qe-296-bel-ar-0967.jpg",
+        "description": "ENTRETAPA COMPRESOR HOLSET 92MM. QE 296 BEL-AR 0967 Cummins 6C"
+    },
+    {
+        "id": "P4089",
+        "name": "POLEA TENSORA CORREA LISA / METALICA TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "10033",
+        "image": "img/products/6c 2/polea-tensora-correa-lisa-metalica-tf-p-technology-10033.jpg",
+        "description": "POLEA TENSORA CORREA LISA / METALICA TF&P TECHNOLOGY 10033 Cummins 6C"
+    },
+    {
+        "id": "P4090",
+        "name": "CABEZAL FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE IMP.",
+        "brand": "Cummins",
+        "code": "10135",
+        "image": "img/products/6c 2/cabezal-filtro-separador-de-agua-del-combustible-imp-10135.jpg",
+        "description": "CABEZAL FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE IMP. 10135 Cummins 6C"
+    },
+    {
+        "id": "P4091",
+        "name": "BOMBA DE AGUA / 3 AGUJEROS RODA",
+        "brand": "Cummins",
+        "code": "10166",
+        "image": "img/products/6c 2/bomba-de-agua-3-agujeros-roda-10166.jpg",
+        "description": "BOMBA DE AGUA / 3 AGUJEROS RODA 10166 Cummins 6C"
+    },
+    {
+        "id": "P4092",
+        "name": "BULON POLEA CIGUENAL / M14 X 35 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "10190",
+        "image": "img/products/6c 2/bulon-polea-ciguenal-m14-x-35-engine-parts-10190.jpg",
+        "description": "BULON POLEA CIGUENAL / M14 X 35 ENGINE PARTS 10190 Cummins 6C"
+    },
+    {
+        "id": "P4093",
+        "name": "SOPORTE SELENOIDE PARE VERTICAL ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "10191",
+        "image": "img/products/6c 2/soporte-selenoide-pare-vertical-engine-parts-10191.jpg",
+        "description": "SOPORTE SELENOIDE PARE VERTICAL ENGINE PARTS 10191 Cummins 6C"
+    },
+    {
+        "id": "P4094",
+        "name": "BULON SOPORTE EJE DE BALANCIN ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "10196",
+        "image": "img/products/6c 2/bulon-soporte-eje-de-balancin-engine-parts-10196.jpg",
+        "description": "BULON SOPORTE EJE DE BALANCIN ENGINE PARTS 10196 Cummins 6C"
+    },
+    {
+        "id": "P4095",
+        "name": "BULON SOPORTE DE ALTERNADOR / CARCAZA TERMOSTATO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "10197",
+        "image": "img/products/6c 2/bulon-soporte-de-alternador-carcaza-termostato-blk-diesel-10197.jpg",
+        "description": "BULON SOPORTE DE ALTERNADOR / CARCAZA TERMOSTATO BLK DIESEL 10197 Cummins 6C"
+    },
+    {
+        "id": "P4096",
+        "name": "ESPARRAGO COMPRESOR M12 X 1.75 BLK DIESEL",
+        "brand": "Cummins",
+        "code": "10199",
+        "image": "img/products/6c 2/esparrago-compresor-m12-x-1-75-blk-diesel-10199.jpg",
+        "description": "ESPARRAGO COMPRESOR M12 X 1.75 BLK DIESEL 10199 Cummins 6C"
+    },
+    {
+        "id": "P4097",
+        "name": "BULON CONECTOR PERFORADO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "10201",
+        "image": "img/products/6c 2/bulon-conector-perforado-blk-diesel-10201.jpg",
+        "description": "BULON CONECTOR PERFORADO BLK DIESEL 10201 Cummins 6C"
+    },
+    {
+        "id": "P4098",
+        "name": "RETEN VOLANTE DE MOTOR SABO",
+        "brand": "Cummins",
+        "code": "10351",
+        "image": "img/products/6c 2/reten-volante-de-motor-sabo-10351.jpg",
+        "description": "RETEN VOLANTE DE MOTOR SABO 10351 Cummins 6C"
+    },
+    {
+        "id": "P4099",
+        "name": "RETEN TAPA DE DISTRIBUCION SABO",
+        "brand": "Cummins",
+        "code": "10353",
+        "image": "img/products/6c 2/reten-tapa-de-distribucion-sabo-10353.jpg",
+        "description": "RETEN TAPA DE DISTRIBUCION SABO 10353 Cummins 6C"
+    },
+    {
+        "id": "P4100",
+        "name": "RETEN TAPA DE DISTRIBUCION CON PISTA SABO",
+        "brand": "Cummins",
+        "code": "10356",
+        "image": "img/products/6c 2/reten-tapa-de-distribucion-con-pista-sabo-10356.jpg",
+        "description": "RETEN TAPA DE DISTRIBUCION CON PISTA SABO 10356 Cummins 6C"
+    },
+    {
+        "id": "P4101",
+        "name": "RETEN VOLANTE DE MOTOR CON PISTA / SOBREMEDIDA SABO",
+        "brand": "Cummins",
+        "code": "10357",
+        "image": "img/products/6c 2/reten-volante-de-motor-con-pista-sobremedida-sabo-10357.jpg",
+        "description": "RETEN VOLANTE DE MOTOR CON PISTA / SOBREMEDIDA SABO 10357 Cummins 6C"
+    },
+    {
+        "id": "P4102",
+        "name": "RETEN VOLANTE DE MOTOR CON DISPOSITIVO DE MONTAJE SABO",
+        "brand": "Cummins",
+        "code": "10358",
+        "image": "img/products/6c 2/reten-volante-de-motor-con-dispositivo-de-montaje-sabo-10358.jpg",
+        "description": "RETEN VOLANTE DE MOTOR CON DISPOSITIVO DE MONTAJE SABO 10358 Cummins 6C"
+    },
+    {
+        "id": "P4103",
+        "name": "TAPON CARTER COMPRESOR WABCO 85/100MM. A-TECH",
+        "brand": "Cummins",
+        "code": "10459",
+        "image": "img/products/6c 2/tapon-carter-compresor-wabco-85-100mm-a-tech-10459.jpg",
+        "description": "TAPON CARTER COMPRESOR WABCO 85/100MM. A-TECH 10459 Cummins 6C"
+    },
+    {
+        "id": "P4104",
+        "name": "JGO. JUNTAS TURBO SABO",
+        "brand": "Cummins",
+        "code": "10500",
+        "image": "img/products/6c 2/jgo-juntas-turbo-sabo-10500.jpg",
+        "description": "JGO. JUNTAS TURBO SABO 10500 Cummins 6C"
+    },
+    {
+        "id": "P4105",
+        "name": "BOTON BALIZA 24V. / 7 TERMINALES KOSTAL",
+        "brand": "Cummins",
+        "code": "10670",
+        "image": "img/products/6c 2/boton-baliza-24v-7-terminales-kostal-10670.jpg",
+        "description": "BOTON BALIZA 24V. / 7 TERMINALES KOSTAL 10670 Cummins 6C"
+    },
+    {
+        "id": "P4106",
+        "name": "JGO. JUNTAS MOTOR PARTE SUPERIOR SABO",
+        "brand": "Cummins",
+        "code": "10796",
+        "image": "img/products/6c 2/jgo-juntas-motor-parte-superior-sabo-10796.jpg",
+        "description": "JGO. JUNTAS MOTOR PARTE SUPERIOR SABO 10796 Cummins 6C"
+    },
+    {
+        "id": "P4107",
+        "name": "ARBOL DE LEVAS / ACERO CINPAL",
+        "brand": "Cummins",
+        "code": "10816",
+        "image": "img/products/6c 2/arbol-de-levas-acero-cinpal-10816.jpg",
+        "description": "ARBOL DE LEVAS / ACERO CINPAL 10816 Cummins 6C"
+    },
+    {
+        "id": "P4108",
+        "name": "CIGUENAL FORJADO SIN ENGRANAJE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "11028",
+        "image": "img/products/6c 2/ciguenal-forjado-sin-engranaje-blk-diesel-11028.jpg",
+        "description": "CIGUENAL FORJADO SIN ENGRANAJE BLK DIESEL 11028 Cummins 6C"
+    },
+    {
+        "id": "P4109",
+        "name": "ESPARRAGO TAPA DE VALVULAS / M8 X 1.25 X 67 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11034",
+        "image": "img/products/6c 2/esparrago-tapa-de-valvulas-m8-x-1-25-x-67-engine-parts-11034.jpg",
+        "description": "ESPARRAGO TAPA DE VALVULAS / M8 X 1.25 X 67 ENGINE PARTS 11034 Cummins 6C"
+    },
+    {
+        "id": "P4110",
+        "name": "RESORTE DE VALVULA DE ESCAPE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11037",
+        "image": "img/products/6c 2/resorte-de-valvula-de-escape-engine-parts-11037.jpg",
+        "description": "RESORTE DE VALVULA DE ESCAPE ENGINE PARTS 11037 Cummins 6C"
+    },
+    {
+        "id": "P4111",
+        "name": "BASE ROSCADA FILTRO DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11040",
+        "image": "img/products/6c 2/base-roscada-filtro-de-aceite-engine-parts-11040.jpg",
+        "description": "BASE ROSCADA FILTRO DE ACEITE ENGINE PARTS 11040 Cummins 6C"
+    },
+    {
+        "id": "P4112",
+        "name": "CHAVETA DE VALVULA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "11043",
+        "image": "img/products/6c 2/chaveta-de-valvula-blk-diesel-11043.jpg",
+        "description": "CHAVETA DE VALVULA BLK DIESEL 11043 Cummins 6C"
+    },
+    {
+        "id": "P4113",
+        "name": "BULON BOMBA DE ACEITE / M8 X 1.25 X 30 BLK DIESEL",
+        "brand": "Cummins",
+        "code": "11045",
+        "image": "img/products/6c 2/bulon-bomba-de-aceite-m8-x-1-25-x-30-blk-diesel-11045.jpg",
+        "description": "BULON BOMBA DE ACEITE / M8 X 1.25 X 30 BLK DIESEL 11045 Cummins 6C"
+    },
+    {
+        "id": "P4114",
+        "name": "BULON CARTER ACEITE DE MOTOR / CABEZAL FILTRO ACEITE / M8 X 1.25 X 25 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11046",
+        "image": "img/products/6c 2/bulon-carter-aceite-de-motor-cabezal-filtro-aceite-m8-x-1-25-x-25-engine-parts-11046.jpg",
+        "description": "BULON CARTER ACEITE DE MOTOR / CABEZAL FILTRO ACEITE / M8 X 1.25 X 25 ENGINE PARTS 11046 Cummins 6C"
+    },
+    {
+        "id": "P4115",
+        "name": "CODO TURBO ESCAPE 4\" BLK DIESEL",
+        "brand": "Cummins",
+        "code": "11049",
+        "image": "img/products/6c 2/codo-turbo-escape-4-blk-diesel-11049.jpg",
+        "description": "CODO TURBO ESCAPE 4\" BLK DIESEL 11049 Cummins 6C"
+    },
+    {
+        "id": "P4116",
+        "name": "COJINETE DE BIELA INFERIOR STD BLK DIESEL",
+        "brand": "Cummins",
+        "code": "11051",
+        "image": "img/products/6c 2/cojinete-de-biela-inferior-std-blk-diesel-11051.jpg",
+        "description": "COJINETE DE BIELA INFERIOR STD BLK DIESEL 11051 Cummins 6C"
+    },
+    {
+        "id": "P4117",
+        "name": "ACOPLE COMPRESOR ESTRIADO A-TECH",
+        "brand": "Cummins",
+        "code": "11053",
+        "image": "img/products/6c 2/acople-compresor-estriado-a-tech-11053.jpg",
+        "description": "ACOPLE COMPRESOR ESTRIADO A-TECH 11053 Cummins 6C"
+    },
+    {
+        "id": "P4118",
+        "name": "ARBOL DE LEVAS / ACERO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11055",
+        "image": "img/products/6c 2/arbol-de-levas-acero-engine-parts-11055.jpg",
+        "description": "ARBOL DE LEVAS / ACERO ENGINE PARTS 11055 Cummins 6C"
+    },
+    {
+        "id": "P4119",
+        "name": "BOTADOR VALVULAS / ACERO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11061",
+        "image": "img/products/6c 2/botador-valvulas-acero-engine-parts-11061.jpg",
+        "description": "BOTADOR VALVULAS / ACERO ENGINE PARTS 11061 Cummins 6C"
+    },
+    {
+        "id": "P4120",
+        "name": "CANO DESCARGA ACEITE AL TURBO REFORMA / LARGO 560MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11063",
+        "image": "img/products/6c 2/cano-descarga-aceite-al-turbo-reforma-largo-560mm-engine-parts-11063.jpg",
+        "description": "CANO DESCARGA ACEITE AL TURBO REFORMA / LARGO 560MM. ENGINE PARTS 11063 Cummins 6C"
+    },
+    {
+        "id": "P4121",
+        "name": "ESPARRAGO TURBO M10 X 1.5 X 42 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11067",
+        "image": "img/products/6c 2/esparrago-turbo-m10-x-1-5-x-42-engine-parts-11067.jpg",
+        "description": "ESPARRAGO TURBO M10 X 1.5 X 42 ENGINE PARTS 11067 Cummins 6C"
+    },
+    {
+        "id": "P4122",
+        "name": "TAPA CILINDROS ARMADA CON AGUJEROS DE PASO DE AGUA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11073",
+        "image": "img/products/6c 2/tapa-cilindros-armada-con-agujeros-de-paso-de-agua-engine-parts-11073.jpg",
+        "description": "TAPA CILINDROS ARMADA CON AGUJEROS DE PASO DE AGUA ENGINE PARTS 11073 Cummins 6C"
+    },
+    {
+        "id": "P4123",
+        "name": "TAPA LLENADO ACEITE A ROSCA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11077",
+        "image": "img/products/6c 2/tapa-llenado-aceite-a-rosca-engine-parts-11077.jpg",
+        "description": "TAPA LLENADO ACEITE A ROSCA ENGINE PARTS 11077 Cummins 6C"
+    },
+    {
+        "id": "P4124",
+        "name": "TAPA CILINDROS ARMADA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11078",
+        "image": "img/products/6c 2/tapa-cilindros-armada-engine-parts-11078.jpg",
+        "description": "TAPA CILINDROS ARMADA ENGINE PARTS 11078 Cummins 6C"
+    },
+    {
+        "id": "P4125",
+        "name": "BULON BANCADA DE CIGUENAL / M14 X 2 X 128 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11081",
+        "image": "img/products/6c 2/bulon-bancada-de-ciguenal-m14-x-2-x-128-engine-parts-11081.jpg",
+        "description": "BULON BANCADA DE CIGUENAL / M14 X 2 X 128 ENGINE PARTS 11081 Cummins 6C"
+    },
+    {
+        "id": "P4126",
+        "name": "JGO. COJINETES CIGUENAL STD ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11087",
+        "image": "img/products/6c 2/jgo-cojinetes-ciguenal-std-engine-parts-11087.jpg",
+        "description": "JGO. COJINETES CIGUENAL STD ENGINE PARTS 11087 Cummins 6C"
+    },
+    {
+        "id": "P4127",
+        "name": "BUJE BIELA MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11090",
+        "image": "img/products/6c 2/buje-biela-motor-engine-parts-11090.jpg",
+        "description": "BUJE BIELA MOTOR ENGINE PARTS 11090 Cummins 6C"
+    },
+    {
+        "id": "P4128",
+        "name": "JGO. COJINETES CIGUENAL 0.10\" / 0.25 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "11091",
+        "image": "img/products/6c 2/jgo-cojinetes-ciguenal-0-10-0-25-engine-parts-11091.jpg",
+        "description": "JGO. COJINETES CIGUENAL 0.10\" / 0.25 ENGINE PARTS 11091 Cummins 6C"
+    },
+    {
+        "id": "P4129",
+        "name": "EJE Y LEVA HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Cummins",
+        "code": "1119",
+        "image": "img/products/6c 2/eje-y-leva-horquilla-de-embrague-imp-1119.jpg",
+        "description": "EJE Y LEVA HORQUILLA DE EMBRAGUE IMP. 1119 Cummins 6C"
+    },
+    {
+        "id": "P4130",
+        "name": "CARCAZA DE RADIADOR SUPERIOR RESERPLASTIC",
+        "brand": "Cummins",
+        "code": "11222",
+        "image": "img/products/6c 2/carcaza-de-radiador-superior-reserplastic-11222.jpg",
+        "description": "CARCAZA DE RADIADOR SUPERIOR RESERPLASTIC 11222 Cummins 6C"
+    },
+    {
+        "id": "P4131",
+        "name": "CARCAZA DE RADIADOR INFERIOR RESERPLASTIC",
+        "brand": "Cummins",
+        "code": "11223",
+        "image": "img/products/6c 2/carcaza-de-radiador-inferior-reserplastic-11223.jpg",
+        "description": "CARCAZA DE RADIADOR INFERIOR RESERPLASTIC 11223 Cummins 6C"
+    },
+    {
+        "id": "P4132",
+        "name": "CILINDRO SERVO-SHIFT CAJA DE CAMBIOS CIPEC",
+        "brand": "Cummins",
+        "code": "11322",
+        "image": "img/products/6c 2/cilindro-servo-shift-caja-de-cambios-cipec-11322.jpg",
+        "description": "CILINDRO SERVO-SHIFT CAJA DE CAMBIOS CIPEC 11322 Cummins 6C"
+    },
+    {
+        "id": "P4133",
+        "name": "REP. VALVULA DESCARGA COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "11327",
+        "image": "img/products/6c 2/rep-valvula-descarga-compresor-wabco-85mm-quinelato-11327.jpg",
+        "description": "REP. VALVULA DESCARGA COMPRESOR WABCO 85MM. QUINELATO 11327 Cummins 6C"
+    },
+    {
+        "id": "P4134",
+        "name": "TAPA CILINDROS CON AGUJEROS DE PASO DE AGUA MARINGA",
+        "brand": "Cummins",
+        "code": "11820",
+        "image": "img/products/6c 2/tapa-cilindros-con-agujeros-de-paso-de-agua-maringa-11820.jpg",
+        "description": "TAPA CILINDROS CON AGUJEROS DE PASO DE AGUA MARINGA 11820 Cummins 6C"
+    },
+    {
+        "id": "P4135",
+        "name": "SENSOR NIVEL DE AGUA / MODULO CCM IMP.",
+        "brand": "Cummins",
+        "code": "12271",
+        "image": "img/products/6c 2/sensor-nivel-de-agua-modulo-ccm-imp-12271.jpg",
+        "description": "SENSOR NIVEL DE AGUA / MODULO CCM IMP. 12271 Cummins 6C"
+    },
+    {
+        "id": "P4136",
+        "name": "PEDAL ACELERADOR ELECTRONICO IMP.",
+        "brand": "Cummins",
+        "code": "12303",
+        "image": "img/products/6c 2/pedal-acelerador-electronico-imp-12303.jpg",
+        "description": "PEDAL ACELERADOR ELECTRONICO IMP. 12303 Cummins 6C"
+    },
+    {
+        "id": "P4137",
+        "name": "EJE INTERMEDIO POLEA TENSORA DE CORREA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "12348",
+        "image": "img/products/6c 2/eje-intermedio-polea-tensora-de-correa-blk-diesel-12348.jpg",
+        "description": "EJE INTERMEDIO POLEA TENSORA DE CORREA BLK DIESEL 12348 Cummins 6C"
+    },
+    {
+        "id": "P4138",
+        "name": "BISAGRA DE CAPOT DERECHA IMP.",
+        "brand": "Cummins",
+        "code": "12349",
+        "image": "img/products/6c 2/bisagra-de-capot-derecha-imp-12349.jpg",
+        "description": "BISAGRA DE CAPOT DERECHA IMP. 12349 Cummins 6C"
+    },
+    {
+        "id": "P4139",
+        "name": "BISAGRA DE CAPOT IZQUIERDA IMP.",
+        "brand": "Cummins",
+        "code": "12350",
+        "image": "img/products/6c 2/bisagra-de-capot-izquierda-imp-12350.jpg",
+        "description": "BISAGRA DE CAPOT IZQUIERDA IMP. 12350 Cummins 6C"
+    },
+    {
+        "id": "P4140",
+        "name": "TERMOSTATO 76Âº CALORSTAT",
+        "brand": "Cummins",
+        "code": "12599",
+        "image": "img/products/6c 2/termostato-76a-calorstat-12599.jpg",
+        "description": "TERMOSTATO 76Âº CALORSTAT 12599 Cummins 6C"
+    },
+    {
+        "id": "P4141",
+        "name": "TAPA COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "12645",
+        "image": "img/products/6c 2/tapa-compresor-wabco-85mm-quinelato-12645.jpg",
+        "description": "TAPA COMPRESOR WABCO 85MM. QUINELATO 12645 Cummins 6C"
+    },
+    {
+        "id": "P4142",
+        "name": "FARO TRASERO CON VENTANA / CON FICHA HEMBRA 5 PINES INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "12834",
+        "image": "img/products/6c 2/faro-trasero-con-ventana-con-ficha-hembra-5-pines-industria-argentina-12834.jpg",
+        "description": "FARO TRASERO CON VENTANA / CON FICHA HEMBRA 5 PINES INDUSTRIA ARGENTINA 12834 Cummins 6C"
+    },
+    {
+        "id": "P4143",
+        "name": "FARO TRASERO SIN VENTANA / CON FICHA HEMBRA 5 PINES INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "12835",
+        "image": "img/products/6c 2/faro-trasero-sin-ventana-con-ficha-hembra-5-pines-industria-argentina-12835.jpg",
+        "description": "FARO TRASERO SIN VENTANA / CON FICHA HEMBRA 5 PINES INDUSTRIA ARGENTINA 12835 Cummins 6C"
+    },
+    {
+        "id": "P4144",
+        "name": "TERMOSTATO 78Âº CALORSTAT",
+        "brand": "Cummins",
+        "code": "12850",
+        "image": "img/products/6c 2/termostato-78a-calorstat-12850.jpg",
+        "description": "TERMOSTATO 78Âº CALORSTAT 12850 Cummins 6C"
+    },
+    {
+        "id": "P4145",
+        "name": "FARO TECHO CABINA CON PORTALAMPARA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "12907",
+        "image": "img/products/6c 2/faro-techo-cabina-con-portalampara-industria-argentina-12907.jpg",
+        "description": "FARO TECHO CABINA CON PORTALAMPARA INDUSTRIA ARGENTINA 12907 Cummins 6C"
+    },
+    {
+        "id": "P4146",
+        "name": "LENTE FARO TECHO CABINA CON PORTALAMPARA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "12908",
+        "image": "img/products/6c 2/lente-faro-techo-cabina-con-portalampara-industria-argentina-12908.jpg",
+        "description": "LENTE FARO TECHO CABINA CON PORTALAMPARA INDUSTRIA ARGENTINA 12908 Cummins 6C"
+    },
+    {
+        "id": "P4147",
+        "name": "COMPRESOR COMPLETO WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "13158",
+        "image": "img/products/6c 2/compresor-completo-wabco-85mm-a-tech-13158.jpg",
+        "description": "COMPRESOR COMPLETO WABCO 85MM. A-TECH 13158 Cummins 6C"
+    },
+    {
+        "id": "P4148",
+        "name": "CRAPODINA EMBRAGUE / 6MM. MAS BAJA / INCLUYE KIT DE TRABAS MJB",
+        "brand": "Cummins",
+        "code": "13268",
+        "image": "img/products/6c 2/crapodina-embrague-6mm-mas-baja-incluye-kit-de-trabas-mjb-13268.jpg",
+        "description": "CRAPODINA EMBRAGUE / 6MM. MAS BAJA / INCLUYE KIT DE TRABAS MJB 13268 Cummins 6C"
+    },
+    {
+        "id": "P4149",
+        "name": "CRAPODINA EMBRAGUE MJB",
+        "brand": "Cummins",
+        "code": "13273",
+        "image": "img/products/6c 2/crapodina-embrague-mjb-13273.jpg",
+        "description": "CRAPODINA EMBRAGUE MJB 13273 Cummins 6C"
+    },
+    {
+        "id": "P4150",
+        "name": "PERNO PISTON MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1349",
+        "image": "img/products/6c 2/perno-piston-motor-engine-parts-1349.jpg",
+        "description": "PERNO PISTON MOTOR ENGINE PARTS 1349 Cummins 6C"
+    },
+    {
+        "id": "P4151",
+        "name": "MANGUERA INTERCOOLER / 112 X 63 X 73MM. IMP.",
+        "brand": "Cummins",
+        "code": "13625",
+        "image": "img/products/6c 2/manguera-intercooler-112-x-63-x-73mm-imp-13625.jpg",
+        "description": "MANGUERA INTERCOOLER / 112 X 63 X 73MM. IMP. 13625 Cummins 6C"
+    },
+    {
+        "id": "P4152",
+        "name": "MANGUERA INTERCOOLER ROJA 63 X 85 MM. IMP.",
+        "brand": "Cummins",
+        "code": "13626",
+        "image": "img/products/6c 2/manguera-intercooler-roja-63-x-85-mm-imp-13626.jpg",
+        "description": "MANGUERA INTERCOOLER ROJA 63 X 85 MM. IMP. 13626 Cummins 6C"
+    },
+    {
+        "id": "P4153",
+        "name": "MANGUERA INTERCOOLER / DESDE RADIADOR A MULTIPLE DE ADMISION IMP.",
+        "brand": "Cummins",
+        "code": "13710",
+        "image": "img/products/6c 2/manguera-intercooler-desde-radiador-a-multiple-de-admision-imp-13710.jpg",
+        "description": "MANGUERA INTERCOOLER / DESDE RADIADOR A MULTIPLE DE ADMISION IMP. 13710 Cummins 6C"
+    },
+    {
+        "id": "P4154",
+        "name": "MANGUERA SALIDA TURBO A CANO INTERCOOLER / MEDIDAS 76 X 85 MM. IMP.",
+        "brand": "Cummins",
+        "code": "13725",
+        "image": "img/products/6c 2/manguera-salida-turbo-a-cano-intercooler-medidas-76-x-85-mm-imp-13725.jpg",
+        "description": "MANGUERA SALIDA TURBO A CANO INTERCOOLER / MEDIDAS 76 X 85 MM. IMP. 13725 Cummins 6C"
+    },
+    {
+        "id": "P4155",
+        "name": "TAPA CILINDROS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1381",
+        "image": "img/products/6c 2/tapa-cilindros-engine-parts-1381.jpg",
+        "description": "TAPA CILINDROS ENGINE PARTS 1381 Cummins 6C"
+    },
+    {
+        "id": "P4156",
+        "name": "TAPA CILINDROS ARMADA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "1382",
+        "image": "img/products/6c 2/tapa-cilindros-armada-blk-diesel-1382.jpg",
+        "description": "TAPA CILINDROS ARMADA BLK DIESEL 1382 Cummins 6C"
+    },
+    {
+        "id": "P4157",
+        "name": "TAPA Y ENTRETAPA COMPLETA COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "13852",
+        "image": "img/products/6c 2/tapa-y-entretapa-completa-compresor-wabco-85mm-quinelato-13852.jpg",
+        "description": "TAPA Y ENTRETAPA COMPLETA COMPRESOR WABCO 85MM. QUINELATO 13852 Cummins 6C"
+    },
+    {
+        "id": "P4158",
+        "name": "REP. VALVULA SEGURIDAD COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "13853",
+        "image": "img/products/6c 2/rep-valvula-seguridad-compresor-wabco-85mm-quinelato-13853.jpg",
+        "description": "REP. VALVULA SEGURIDAD COMPRESOR WABCO 85MM. QUINELATO 13853 Cummins 6C"
+    },
+    {
+        "id": "P4159",
+        "name": "BULON TAPA DE CILINDROS / 14 X 2 X 160MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1389",
+        "image": "img/products/6c 2/bulon-tapa-de-cilindros-14-x-2-x-160mm-engine-parts-1389.jpg",
+        "description": "BULON TAPA DE CILINDROS / 14 X 2 X 160MM. ENGINE PARTS 1389 Cummins 6C"
+    },
+    {
+        "id": "P4160",
+        "name": "BULON TAPA DE CILINDROS / 14 X 2 X 80MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1391",
+        "image": "img/products/6c 2/bulon-tapa-de-cilindros-14-x-2-x-80mm-engine-parts-1391.jpg",
+        "description": "BULON TAPA DE CILINDROS / 14 X 2 X 80MM. ENGINE PARTS 1391 Cummins 6C"
+    },
+    {
+        "id": "P4161",
+        "name": "BULBO TEMPERATURA MA2O",
+        "brand": "Cummins",
+        "code": "1398",
+        "image": "img/products/6c 2/bulbo-temperatura-ma2o-1398.jpg",
+        "description": "BULBO TEMPERATURA MA2O 1398 Cummins 6C"
+    },
+    {
+        "id": "P4162",
+        "name": "MANGUERA ADMISION A INTERCOOLER IMP.",
+        "brand": "Cummins",
+        "code": "13999",
+        "image": "img/products/6c 2/manguera-admision-a-intercooler-imp-13999.jpg",
+        "description": "MANGUERA ADMISION A INTERCOOLER IMP. 13999 Cummins 6C"
+    },
+    {
+        "id": "P4163",
+        "name": "BIELA MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1401",
+        "image": "img/products/6c 2/biela-motor-engine-parts-1401.jpg",
+        "description": "BIELA MOTOR ENGINE PARTS 1401 Cummins 6C"
+    },
+    {
+        "id": "P4164",
+        "name": "DEPOSITO EXPANSION CON TAPA RESERPLASTIC",
+        "brand": "Cummins",
+        "code": "14226",
+        "image": "img/products/6c 2/deposito-expansion-con-tapa-reserplastic-14226.jpg",
+        "description": "DEPOSITO EXPANSION CON TAPA RESERPLASTIC 14226 Cummins 6C"
+    },
+    {
+        "id": "P4165",
+        "name": "TUERCA REGISTRO VALVULAS 3/8\" X 14MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1429",
+        "image": "img/products/6c 2/tuerca-registro-valvulas-3-8-x-14mm-engine-parts-1429.jpg",
+        "description": "TUERCA REGISTRO VALVULAS 3/8\" X 14MM. ENGINE PARTS 1429 Cummins 6C"
+    },
+    {
+        "id": "P4166",
+        "name": "TORNILLO REGISTRO DE VALVULAS / 3/8\" X 24 X 1 1/2\" BLK DIESEL",
+        "brand": "Cummins",
+        "code": "1431",
+        "image": "img/products/6c 2/tornillo-registro-de-valvulas-3-8-x-24-x-1-1-2-blk-diesel-1431.jpg",
+        "description": "TORNILLO REGISTRO DE VALVULAS / 3/8\" X 24 X 1 1/2\" BLK DIESEL 1431 Cummins 6C"
+    },
+    {
+        "id": "P4167",
+        "name": "BULON DE BIELA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1437",
+        "image": "img/products/6c 2/bulon-de-biela-engine-parts-1437.jpg",
+        "description": "BULON DE BIELA ENGINE PARTS 1437 Cummins 6C"
+    },
+    {
+        "id": "P4168",
+        "name": "KIT TRABAS CRAPODINA EMBRAGUE HCS",
+        "brand": "Cummins",
+        "code": "1443",
+        "image": "img/products/6c 2/kit-trabas-crapodina-embrague-hcs-1443.jpg",
+        "description": "KIT TRABAS CRAPODINA EMBRAGUE HCS 1443 Cummins 6C"
+    },
+    {
+        "id": "P4169",
+        "name": "TUERCA BULON DE BIELA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1448",
+        "image": "img/products/6c 2/tuerca-bulon-de-biela-engine-parts-1448.jpg",
+        "description": "TUERCA BULON DE BIELA ENGINE PARTS 1448 Cummins 6C"
+    },
+    {
+        "id": "P4170",
+        "name": "BULON VOLANTE DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1449",
+        "image": "img/products/6c 2/bulon-volante-de-motor-engine-parts-1449.jpg",
+        "description": "BULON VOLANTE DE MOTOR ENGINE PARTS 1449 Cummins 6C"
+    },
+    {
+        "id": "P4171",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 138MM. / 4 AGUJEROS CHEZHOU",
+        "brand": "Cummins",
+        "code": "14797",
+        "image": "img/products/6c 2/embrague-viscoso-diam-ext-138mm-4-agujeros-chezhou-14797.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 138MM. / 4 AGUJEROS CHEZHOU 14797 Cummins 6C"
+    },
+    {
+        "id": "P4172",
+        "name": "TUBO SUCCION DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "14856",
+        "image": "img/products/6c 2/tubo-succion-de-aceite-engine-parts-14856.jpg",
+        "description": "TUBO SUCCION DE ACEITE ENGINE PARTS 14856 Cummins 6C"
+    },
+    {
+        "id": "P4173",
+        "name": "ORING CODO ADMISION AL TURBO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "14858",
+        "image": "img/products/6c 2/oring-codo-admision-al-turbo-engine-parts-14858.jpg",
+        "description": "ORING CODO ADMISION AL TURBO ENGINE PARTS 14858 Cummins 6C"
+    },
+    {
+        "id": "P4174",
+        "name": "CARTER ACEITE DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "14940",
+        "image": "img/products/6c 2/carter-aceite-de-motor-engine-parts-14940.jpg",
+        "description": "CARTER ACEITE DE MOTOR ENGINE PARTS 14940 Cummins 6C"
+    },
+    {
+        "id": "P4175",
+        "name": "JUNTA TAPA VALVULAS SABO",
+        "brand": "Cummins",
+        "code": "1566",
+        "image": "img/products/6c 2/junta-tapa-valvulas-sabo-1566.jpg",
+        "description": "JUNTA TAPA VALVULAS SABO 1566 Cummins 6C"
+    },
+    {
+        "id": "P4176",
+        "name": "TAPA TRASERA COMPRESOR HOLSET 92MM. SS 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "1663",
+        "image": "img/products/6c 2/tapa-trasera-compresor-holset-92mm-ss-296-bel-ar-1663.jpg",
+        "description": "TAPA TRASERA COMPRESOR HOLSET 92MM. SS 296 BEL-AR 1663 Cummins 6C"
+    },
+    {
+        "id": "P4177",
+        "name": "TENSOR CORREA ALTERNADOR POLEA LISA 74MM. X 40MM. TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "1712",
+        "image": "img/products/6c 2/tensor-correa-alternador-polea-lisa-74mm-x-40mm-tf-p-technology-1712.jpg",
+        "description": "TENSOR CORREA ALTERNADOR POLEA LISA 74MM. X 40MM. TF&P TECHNOLOGY 1712 Cummins 6C"
+    },
+    {
+        "id": "P4178",
+        "name": "PISTON DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "1732",
+        "image": "img/products/6c 2/piston-de-motor-engine-parts-1732.jpg",
+        "description": "PISTON DE MOTOR ENGINE PARTS 1732 Cummins 6C"
+    },
+    {
+        "id": "P4179",
+        "name": "REP. TAPA PARCIAL COMPRESOR HOLSET 92MM. SS 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "1742",
+        "image": "img/products/6c 2/rep-tapa-parcial-compresor-holset-92mm-ss-296-bel-ar-1742.jpg",
+        "description": "REP. TAPA PARCIAL COMPRESOR HOLSET 92MM. SS 296 BEL-AR 1742 Cummins 6C"
+    },
+    {
+        "id": "P4180",
+        "name": "BIELA COMPRESOR HOLSET 92MM. QE 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "2033",
+        "image": "img/products/6c 2/biela-compresor-holset-92mm-qe-296-bel-ar-2033.jpg",
+        "description": "BIELA COMPRESOR HOLSET 92MM. QE 296 BEL-AR 2033 Cummins 6C"
+    },
+    {
+        "id": "P4181",
+        "name": "SOPORTE DELANTERO COMPRESOR HOLSET 92MM. SS 296 (AGUJERO SUPERIOR) BEL-AR",
+        "brand": "Cummins",
+        "code": "2037",
+        "image": "img/products/6c 2/soporte-delantero-compresor-holset-92mm-ss-296-agujero-superior-bel-ar-2037.jpg",
+        "description": "SOPORTE DELANTERO COMPRESOR HOLSET 92MM. SS 296 (AGUJERO SUPERIOR) BEL-AR 2037 Cummins 6C"
+    },
+    {
+        "id": "P4182",
+        "name": "BUJE TAPA VALVULA COMPRESOR HOLSET 92MM. QE 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "2038",
+        "image": "img/products/6c 2/buje-tapa-valvula-compresor-holset-92mm-qe-296-bel-ar-2038.jpg",
+        "description": "BUJE TAPA VALVULA COMPRESOR HOLSET 92MM. QE 296 BEL-AR 2038 Cummins 6C"
+    },
+    {
+        "id": "P4183",
+        "name": "ORING CAMISA MOTOR SABO",
+        "brand": "Cummins",
+        "code": "2115",
+        "image": "img/products/6c 2/oring-camisa-motor-sabo-2115.jpg",
+        "description": "ORING CAMISA MOTOR SABO 2115 Cummins 6C"
+    },
+    {
+        "id": "P4184",
+        "name": "ENTRETAPA COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "2187",
+        "image": "img/products/6c 2/entretapa-compresor-wabco-85mm-quinelato-2187.jpg",
+        "description": "ENTRETAPA COMPRESOR WABCO 85MM. QUINELATO 2187 Cummins 6C"
+    },
+    {
+        "id": "P4185",
+        "name": "TAPA INSPECCION ACEITE MOTOR CON ANILLO UNICK",
+        "brand": "Cummins",
+        "code": "2272",
+        "image": "img/products/6c 2/tapa-inspeccion-aceite-motor-con-anillo-unick-2272.jpg",
+        "description": "TAPA INSPECCION ACEITE MOTOR CON ANILLO UNICK 2272 Cummins 6C"
+    },
+    {
+        "id": "P4186",
+        "name": "BIELA COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "2366",
+        "image": "img/products/6c 2/biela-compresor-wabco-85mm-a-tech-2366.jpg",
+        "description": "BIELA COMPRESOR WABCO 85MM. A-TECH 2366 Cummins 6C"
+    },
+    {
+        "id": "P4187",
+        "name": "REP. TAPA COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "2367",
+        "image": "img/products/6c 2/rep-tapa-compresor-wabco-85mm-quinelato-2367.jpg",
+        "description": "REP. TAPA COMPRESOR WABCO 85MM. QUINELATO 2367 Cummins 6C"
+    },
+    {
+        "id": "P4188",
+        "name": "SOPORTE DELANTERO COMPRESOR HOLSET 92MM. SS 296 (AGUJERO LATERAL) BEL-AR",
+        "brand": "Cummins",
+        "code": "2372",
+        "image": "img/products/6c 2/soporte-delantero-compresor-holset-92mm-ss-296-agujero-lateral-bel-ar-2372.jpg",
+        "description": "SOPORTE DELANTERO COMPRESOR HOLSET 92MM. SS 296 (AGUJERO LATERAL) BEL-AR 2372 Cummins 6C"
+    },
+    {
+        "id": "P4189",
+        "name": "SOPORTE ALTERNADOR VANNUCCI",
+        "brand": "Cummins",
+        "code": "2568",
+        "image": "img/products/6c 2/soporte-alternador-vannucci-2568.jpg",
+        "description": "SOPORTE ALTERNADOR VANNUCCI 2568 Cummins 6C"
+    },
+    {
+        "id": "P4190",
+        "name": "LLAVE LUCES DE GIRO OSPINA",
+        "brand": "Cummins",
+        "code": "2569",
+        "image": "img/products/6c 2/llave-luces-de-giro-ospina-2569.jpg",
+        "description": "LLAVE LUCES DE GIRO OSPINA 2569 Cummins 6C"
+    },
+    {
+        "id": "P4191",
+        "name": "BUJE CIGUENAL TRASERO COMPRESOR HOLSET 92MM. QE 296 QUINELATO",
+        "brand": "Cummins",
+        "code": "2636",
+        "image": "img/products/6c 2/buje-ciguenal-trasero-compresor-holset-92mm-qe-296-quinelato-2636.jpg",
+        "description": "BUJE CIGUENAL TRASERO COMPRESOR HOLSET 92MM. QE 296 QUINELATO 2636 Cummins 6C"
+    },
+    {
+        "id": "P4192",
+        "name": "REP. TAPA COMPRESOR WABCO 85MM. PARCIAL A-TECH",
+        "brand": "Cummins",
+        "code": "2641",
+        "image": "img/products/6c 2/rep-tapa-compresor-wabco-85mm-parcial-a-tech-2641.jpg",
+        "description": "REP. TAPA COMPRESOR WABCO 85MM. PARCIAL A-TECH 2641 Cummins 6C"
+    },
+    {
+        "id": "P4193",
+        "name": "TAPA TRASERA COMPRESOR WABCO 85MM. TAPA LARGA BEL-AR",
+        "brand": "Cummins",
+        "code": "2642",
+        "image": "img/products/6c 2/tapa-trasera-compresor-wabco-85mm-tapa-larga-bel-ar-2642.jpg",
+        "description": "TAPA TRASERA COMPRESOR WABCO 85MM. TAPA LARGA BEL-AR 2642 Cummins 6C"
+    },
+    {
+        "id": "P4194",
+        "name": "SELENOIDE PARE MOTOR 12V. VERTICAL / CON FICHA CUADRADA DE 3 PINES IMP.",
+        "brand": "Cummins",
+        "code": "2758",
+        "image": "img/products/6c 2/selenoide-pare-motor-12v-vertical-con-ficha-cuadrada-de-3-pines-imp-2758.jpg",
+        "description": "SELENOIDE PARE MOTOR 12V. VERTICAL / CON FICHA CUADRADA DE 3 PINES IMP. 2758 Cummins 6C"
+    },
+    {
+        "id": "P4195",
+        "name": "ADAPTADOR DE CIGUENAL VANNUCCI",
+        "brand": "Cummins",
+        "code": "2960",
+        "image": "img/products/6c 2/adaptador-de-ciguenal-vannucci-2960.jpg",
+        "description": "ADAPTADOR DE CIGUENAL VANNUCCI 2960 Cummins 6C"
+    },
+    {
+        "id": "P4196",
+        "name": "ADAPTADOR DE CIGUENAL IMP.",
+        "brand": "Cummins",
+        "code": "3053",
+        "image": "img/products/6c 2/adaptador-de-ciguenal-imp-3053.jpg",
+        "description": "ADAPTADOR DE CIGUENAL IMP. 3053 Cummins 6C"
+    },
+    {
+        "id": "P4197",
+        "name": "POLEA DE ALTERNADOR TRAPEZOIDAL (BOSCH) 64 X 58 X 36MM. CIPEC",
+        "brand": "Cummins",
+        "code": "3081",
+        "image": "img/products/6c 2/polea-de-alternador-trapezoidal-bosch-64-x-58-x-36mm-cipec-3081.jpg",
+        "description": "POLEA DE ALTERNADOR TRAPEZOIDAL (BOSCH) 64 X 58 X 36MM. CIPEC 3081 Cummins 6C"
+    },
+    {
+        "id": "P4198",
+        "name": "POLEA DE ALTERNADOR CON RODAMIENTO 72.5 X 34.5MM. VANNUCCI",
+        "brand": "Cummins",
+        "code": "3083",
+        "image": "img/products/6c 2/polea-de-alternador-con-rodamiento-72-5-x-34-5mm-vannucci-3083.jpg",
+        "description": "POLEA DE ALTERNADOR CON RODAMIENTO 72.5 X 34.5MM. VANNUCCI 3083 Cummins 6C"
+    },
+    {
+        "id": "P4199",
+        "name": "SOPORTE TENSOR CORREA DE ALTERNADOR SDUBO",
+        "brand": "Cummins",
+        "code": "3084",
+        "image": "img/products/6c 2/soporte-tensor-correa-de-alternador-sdubo-3084.jpg",
+        "description": "SOPORTE TENSOR CORREA DE ALTERNADOR SDUBO 3084 Cummins 6C"
+    },
+    {
+        "id": "P4200",
+        "name": "ADAPTADOR DE CIGUENAL SDUBO",
+        "brand": "Cummins",
+        "code": "3086",
+        "image": "img/products/6c 2/adaptador-de-ciguenal-sdubo-3086.jpg",
+        "description": "ADAPTADOR DE CIGUENAL SDUBO 3086 Cummins 6C"
+    },
+    {
+        "id": "P4201",
+        "name": "SOPORTE DE ALTERNADOR VANNUCCI",
+        "brand": "Cummins",
+        "code": "3087",
+        "image": "img/products/6c 2/soporte-de-alternador-vannucci-3087.jpg",
+        "description": "SOPORTE DE ALTERNADOR VANNUCCI 3087 Cummins 6C"
+    },
+    {
+        "id": "P4202",
+        "name": "SOPORTE FIJACION COMPRESOR DE AIRE IMP.",
+        "brand": "Cummins",
+        "code": "3088",
+        "image": "img/products/6c 2/soporte-fijacion-compresor-de-aire-imp-3088.jpg",
+        "description": "SOPORTE FIJACION COMPRESOR DE AIRE IMP. 3088 Cummins 6C"
+    },
+    {
+        "id": "P4203",
+        "name": "PALANCA ACCIONAMIENTO EJE FRENO MOTOR (WABCO) SDUBO",
+        "brand": "Cummins",
+        "code": "3089",
+        "image": "img/products/6c 2/palanca-accionamiento-eje-freno-motor-wabco-sdubo-3089.jpg",
+        "description": "PALANCA ACCIONAMIENTO EJE FRENO MOTOR (WABCO) SDUBO 3089 Cummins 6C"
+    },
+    {
+        "id": "P4204",
+        "name": "HORQUILLA FIJACION CILINDRO FRENO MOTOR A PALANCA DE ACCIONAMIENTO SDUBO",
+        "brand": "Cummins",
+        "code": "3090",
+        "image": "img/products/6c 2/horquilla-fijacion-cilindro-freno-motor-a-palanca-de-accionamiento-sdubo-3090.jpg",
+        "description": "HORQUILLA FIJACION CILINDRO FRENO MOTOR A PALANCA DE ACCIONAMIENTO SDUBO 3090 Cummins 6C"
+    },
+    {
+        "id": "P4205",
+        "name": "PERNO SUJECION PALANCA Y HORQUILLA FRENO MOTOR IMP.",
+        "brand": "Cummins",
+        "code": "3091",
+        "image": "img/products/6c 2/perno-sujecion-palanca-y-horquilla-freno-motor-imp-3091.jpg",
+        "description": "PERNO SUJECION PALANCA Y HORQUILLA FRENO MOTOR IMP. 3091 Cummins 6C"
+    },
+    {
+        "id": "P4206",
+        "name": "TIRANTE DE FIJACION DEL MOTOR IMP.",
+        "brand": "Cummins",
+        "code": "3092",
+        "image": "img/products/6c 2/tirante-de-fijacion-del-motor-imp-3092.jpg",
+        "description": "TIRANTE DE FIJACION DEL MOTOR IMP. 3092 Cummins 6C"
+    },
+    {
+        "id": "P4207",
+        "name": "FRENO MOTOR PARCIAL (KNORR Y WABCO) IMP.",
+        "brand": "Cummins",
+        "code": "3094",
+        "image": "img/products/6c 2/freno-motor-parcial-knorr-y-wabco-imp-3094.jpg",
+        "description": "FRENO MOTOR PARCIAL (KNORR Y WABCO) IMP. 3094 Cummins 6C"
+    },
+    {
+        "id": "P4208",
+        "name": "REPARACION FRENO MOTOR (WABCO) SDUBO",
+        "brand": "Cummins",
+        "code": "3098",
+        "image": "img/products/6c 2/reparacion-freno-motor-wabco-sdubo-3098.jpg",
+        "description": "REPARACION FRENO MOTOR (WABCO) SDUBO 3098 Cummins 6C"
+    },
+    {
+        "id": "P4209",
+        "name": "EJE MARIPOSA FRENO MOTOR (WABCO) SDUBO",
+        "brand": "Cummins",
+        "code": "3101",
+        "image": "img/products/6c 2/eje-mariposa-freno-motor-wabco-sdubo-3101.jpg",
+        "description": "EJE MARIPOSA FRENO MOTOR (WABCO) SDUBO 3101 Cummins 6C"
+    },
+    {
+        "id": "P4210",
+        "name": "ABRAZADERA DE TURBO A CODO SALIDA ESCAPE DE MOTOR SUPORTE REI",
+        "brand": "Cummins",
+        "code": "3103",
+        "image": "img/products/6c 2/abrazadera-de-turbo-a-codo-salida-escape-de-motor-suporte-rei-3103.jpg",
+        "description": "ABRAZADERA DE TURBO A CODO SALIDA ESCAPE DE MOTOR SUPORTE REI 3103 Cummins 6C"
+    },
+    {
+        "id": "P4211",
+        "name": "ABRAZADERA CODO SALIDA ESCAPE DE MOTOR SUPORTE REI",
+        "brand": "Cummins",
+        "code": "3104",
+        "image": "img/products/6c 2/abrazadera-codo-salida-escape-de-motor-suporte-rei-3104.jpg",
+        "description": "ABRAZADERA CODO SALIDA ESCAPE DE MOTOR SUPORTE REI 3104 Cummins 6C"
+    },
+    {
+        "id": "P4212",
+        "name": "ADAPTADOR DE CABEZA DE FILTRO DE AGUA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "3149",
+        "image": "img/products/6c 2/adaptador-de-cabeza-de-filtro-de-agua-blk-diesel-3149.jpg",
+        "description": "ADAPTADOR DE CABEZA DE FILTRO DE AGUA BLK DIESEL 3149 Cummins 6C"
+    },
+    {
+        "id": "P4213",
+        "name": "DEPOSITO DE REBOSE / PARA TAPAS A ROSCA RESERPLASTIC",
+        "brand": "Cummins",
+        "code": "3182",
+        "image": "img/products/6c 2/deposito-de-rebose-para-tapas-a-rosca-reserplastic-3182.jpg",
+        "description": "DEPOSITO DE REBOSE / PARA TAPAS A ROSCA RESERPLASTIC 3182 Cummins 6C"
+    },
+    {
+        "id": "P4214",
+        "name": "HELICE VENTILADOR 9 PALAS DIAM. EXT. 704MM. CHEZHOU",
+        "brand": "Cummins",
+        "code": "3199",
+        "image": "img/products/6c 2/helice-ventilador-9-palas-diam-ext-704mm-chezhou-3199.jpg",
+        "description": "HELICE VENTILADOR 9 PALAS DIAM. EXT. 704MM. CHEZHOU 3199 Cummins 6C"
+    },
+    {
+        "id": "P4215",
+        "name": "TAPA TRASERA COMPRESOR WABCO 85MM. BEL-AR",
+        "brand": "Cummins",
+        "code": "3290",
+        "image": "img/products/6c 2/tapa-trasera-compresor-wabco-85mm-bel-ar-3290.jpg",
+        "description": "TAPA TRASERA COMPRESOR WABCO 85MM. BEL-AR 3290 Cummins 6C"
+    },
+    {
+        "id": "P4216",
+        "name": "MANIJA INTERIOR PUERTA DERECHA UNIVERSAL",
+        "brand": "Cummins",
+        "code": "3323",
+        "image": "img/products/6c 2/manija-interior-puerta-derecha-universal-3323.jpg",
+        "description": "MANIJA INTERIOR PUERTA DERECHA UNIVERSAL 3323 Cummins 6C"
+    },
+    {
+        "id": "P4217",
+        "name": "MANIJA INTERIOR PUERTA IZQUIERDA UNIVERSAL",
+        "brand": "Cummins",
+        "code": "3324",
+        "image": "img/products/6c 2/manija-interior-puerta-izquierda-universal-3324.jpg",
+        "description": "MANIJA INTERIOR PUERTA IZQUIERDA UNIVERSAL 3324 Cummins 6C"
+    },
+    {
+        "id": "P4218",
+        "name": "TENSOR CORREA ALTERNADOR IMP.",
+        "brand": "Cummins",
+        "code": "3365",
+        "image": "img/products/6c 2/tensor-correa-alternador-imp-3365.jpg",
+        "description": "TENSOR CORREA ALTERNADOR IMP. 3365 Cummins 6C"
+    },
+    {
+        "id": "P4219",
+        "name": "POLEA TENSORA INTERMEDIA ESTRIADA 81 X 42MM. SDUBO",
+        "brand": "Cummins",
+        "code": "3366",
+        "image": "img/products/6c 2/polea-tensora-intermedia-estriada-81-x-42mm-sdubo-3366.jpg",
+        "description": "POLEA TENSORA INTERMEDIA ESTRIADA 81 X 42MM. SDUBO 3366 Cummins 6C"
+    },
+    {
+        "id": "P4220",
+        "name": "TURBO H1E (PARA ABRAZADERA) BIAGIO",
+        "brand": "Cummins",
+        "code": "3457",
+        "image": "img/products/6c 2/turbo-h1e-para-abrazadera-biagio-3457.jpg",
+        "description": "TURBO H1E (PARA ABRAZADERA) BIAGIO 3457 Cummins 6C"
+    },
+    {
+        "id": "P4221",
+        "name": "MANGUERA INTERCOOLER SILICONA 65 X 115 MM. TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "3494",
+        "image": "img/products/6c 2/manguera-intercooler-silicona-65-x-115-mm-tf-p-technology-3494.jpg",
+        "description": "MANGUERA INTERCOOLER SILICONA 65 X 115 MM. TF&P TECHNOLOGY 3494 Cummins 6C"
+    },
+    {
+        "id": "P4222",
+        "name": "TURBO HX40W BIAGIO",
+        "brand": "Cummins",
+        "code": "3550",
+        "image": "img/products/6c 2/turbo-hx40w-biagio-3550.jpg",
+        "description": "TURBO HX40W BIAGIO 3550 Cummins 6C"
+    },
+    {
+        "id": "P4223",
+        "name": "CANO INYECTOR NÂº 1 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3647",
+        "image": "img/products/6c 2/cano-inyector-na-1-bomba-lineal-tuercas-aa-industria-argentina-3647.jpg",
+        "description": "CANO INYECTOR NÂº 1 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA 3647 Cummins 6C"
+    },
+    {
+        "id": "P4224",
+        "name": "CANO INYECTOR NÂº 2 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3648",
+        "image": "img/products/6c 2/cano-inyector-na-2-bomba-lineal-tuercas-aa-industria-argentina-3648.jpg",
+        "description": "CANO INYECTOR NÂº 2 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA 3648 Cummins 6C"
+    },
+    {
+        "id": "P4225",
+        "name": "CANO INYECTOR NÂº 3 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3649",
+        "image": "img/products/6c 2/cano-inyector-na-3-bomba-lineal-tuercas-aa-industria-argentina-3649.jpg",
+        "description": "CANO INYECTOR NÂº 3 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA 3649 Cummins 6C"
+    },
+    {
+        "id": "P4226",
+        "name": "CANO INYECTOR NÂº 4 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3650",
+        "image": "img/products/6c 2/cano-inyector-na-4-bomba-lineal-tuercas-aa-industria-argentina-3650.jpg",
+        "description": "CANO INYECTOR NÂº 4 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA 3650 Cummins 6C"
+    },
+    {
+        "id": "P4227",
+        "name": "CANO INYECTOR NÂº 5 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3651",
+        "image": "img/products/6c 2/cano-inyector-na-5-bomba-lineal-tuercas-aa-industria-argentina-3651.jpg",
+        "description": "CANO INYECTOR NÂº 5 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA 3651 Cummins 6C"
+    },
+    {
+        "id": "P4228",
+        "name": "CANO INYECTOR NÂº 6 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3652",
+        "image": "img/products/6c 2/cano-inyector-na-6-bomba-lineal-tuercas-aa-industria-argentina-3652.jpg",
+        "description": "CANO INYECTOR NÂº 6 BOMBA LINEAL (TUERCAS AA) INDUSTRIA ARGENTINA 3652 Cummins 6C"
+    },
+    {
+        "id": "P4229",
+        "name": "CANO INYECTOR NÂº 1 (TUERCAS BB) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3653",
+        "image": "img/products/6c 2/cano-inyector-na-1-tuercas-bb-industria-argentina-3653.jpg",
+        "description": "CANO INYECTOR NÂº 1 (TUERCAS BB) INDUSTRIA ARGENTINA 3653 Cummins 6C"
+    },
+    {
+        "id": "P4230",
+        "name": "CANO INYECTOR NÂº 2 (TUERCAS BB) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3654",
+        "image": "img/products/6c 2/cano-inyector-na-2-tuercas-bb-industria-argentina-3654.jpg",
+        "description": "CANO INYECTOR NÂº 2 (TUERCAS BB) INDUSTRIA ARGENTINA 3654 Cummins 6C"
+    },
+    {
+        "id": "P4231",
+        "name": "CANO INYECTOR NÂº 3 (TUERCAS BB) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3655",
+        "image": "img/products/6c 2/cano-inyector-na-3-tuercas-bb-industria-argentina-3655.jpg",
+        "description": "CANO INYECTOR NÂº 3 (TUERCAS BB) INDUSTRIA ARGENTINA 3655 Cummins 6C"
+    },
+    {
+        "id": "P4232",
+        "name": "CANO INYECTOR NÂº 4 (TUERCAS BB) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3656",
+        "image": "img/products/6c 2/cano-inyector-na-4-tuercas-bb-industria-argentina-3656.jpg",
+        "description": "CANO INYECTOR NÂº 4 (TUERCAS BB) INDUSTRIA ARGENTINA 3656 Cummins 6C"
+    },
+    {
+        "id": "P4233",
+        "name": "CANO INYECTOR NÂº 5 (TUERCAS BB) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3657",
+        "image": "img/products/6c 2/cano-inyector-na-5-tuercas-bb-industria-argentina-3657.jpg",
+        "description": "CANO INYECTOR NÂº 5 (TUERCAS BB) INDUSTRIA ARGENTINA 3657 Cummins 6C"
+    },
+    {
+        "id": "P4234",
+        "name": "CANO INYECTOR NÂº 6 (TUERCAS BB) INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "3658",
+        "image": "img/products/6c 2/cano-inyector-na-6-tuercas-bb-industria-argentina-3658.jpg",
+        "description": "CANO INYECTOR NÂº 6 (TUERCAS BB) INDUSTRIA ARGENTINA 3658 Cummins 6C"
+    },
+    {
+        "id": "P4235",
+        "name": "TURBO T04E74 / H1E / HX35 BIAGIO",
+        "brand": "Cummins",
+        "code": "3732",
+        "image": "img/products/6c 2/turbo-t04e74-h1e-hx35-biagio-3732.jpg",
+        "description": "TURBO T04E74 / H1E / HX35 BIAGIO 3732 Cummins 6C"
+    },
+    {
+        "id": "P4236",
+        "name": "TURBO HX40 / H1E BIAGIO",
+        "brand": "Cummins",
+        "code": "3733",
+        "image": "img/products/6c 2/turbo-hx40-h1e-biagio-3733.jpg",
+        "description": "TURBO HX40 / H1E BIAGIO 3733 Cummins 6C"
+    },
+    {
+        "id": "P4237",
+        "name": "VARILLA NIVEL ACEITE MOTOR UNICK",
+        "brand": "Cummins",
+        "code": "3907",
+        "image": "img/products/6c 2/varilla-nivel-aceite-motor-unick-3907.jpg",
+        "description": "VARILLA NIVEL ACEITE MOTOR UNICK 3907 Cummins 6C"
+    },
+    {
+        "id": "P4238",
+        "name": "MANGUERA LLENADO DE ACEITE AL MOTOR DIAM. 35MM. IMP.",
+        "brand": "Cummins",
+        "code": "3999",
+        "image": "img/products/6c 2/manguera-llenado-de-aceite-al-motor-diam-35mm-imp-3999.jpg",
+        "description": "MANGUERA LLENADO DE ACEITE AL MOTOR DIAM. 35MM. IMP. 3999 Cummins 6C"
+    },
+    {
+        "id": "P4239",
+        "name": "MANGUERA RADIADOR CONEXION ENFRIADOR DE TURBO IMP.",
+        "brand": "Cummins",
+        "code": "4000",
+        "image": "img/products/6c 2/manguera-radiador-conexion-enfriador-de-turbo-imp-4000.jpg",
+        "description": "MANGUERA RADIADOR CONEXION ENFRIADOR DE TURBO IMP. 4000 Cummins 6C"
+    },
+    {
+        "id": "P4240",
+        "name": "MANGUERA A COMPRESOR HOLSET ROJA IMP.",
+        "brand": "Cummins",
+        "code": "4009",
+        "image": "img/products/6c 2/manguera-a-compresor-holset-roja-imp-4009.jpg",
+        "description": "MANGUERA A COMPRESOR HOLSET ROJA IMP. 4009 Cummins 6C"
+    },
+    {
+        "id": "P4241",
+        "name": "MANGUERA MULTIPLE ADMISION A COMPRESOR NEGRA IMP.",
+        "brand": "Cummins",
+        "code": "4010",
+        "image": "img/products/6c 2/manguera-multiple-admision-a-compresor-negra-imp-4010.jpg",
+        "description": "MANGUERA MULTIPLE ADMISION A COMPRESOR NEGRA IMP. 4010 Cummins 6C"
+    },
+    {
+        "id": "P4242",
+        "name": "BUJE CIGUENAL COMPRESOR WABCO 85MM. QUINELATO",
+        "brand": "Cummins",
+        "code": "4108",
+        "image": "img/products/6c 2/buje-ciguenal-compresor-wabco-85mm-quinelato-4108.jpg",
+        "description": "BUJE CIGUENAL COMPRESOR WABCO 85MM. QUINELATO 4108 Cummins 6C"
+    },
+    {
+        "id": "P4243",
+        "name": "VALVULA PRESION ACEITE / ALIVIO WAHLER",
+        "brand": "Cummins",
+        "code": "4125",
+        "image": "img/products/6c 2/valvula-presion-aceite-alivio-wahler-4125.jpg",
+        "description": "VALVULA PRESION ACEITE / ALIVIO WAHLER 4125 Cummins 6C"
+    },
+    {
+        "id": "P4244",
+        "name": "VALVULA PRESION ACEITE / ALIVIO IMP.",
+        "brand": "Cummins",
+        "code": "4140",
+        "image": "img/products/6c 2/valvula-presion-aceite-alivio-imp-4140.jpg",
+        "description": "VALVULA PRESION ACEITE / ALIVIO IMP. 4140 Cummins 6C"
+    },
+    {
+        "id": "P4245",
+        "name": "HELICE VENTILADOR 8 PALAS DIAM. EXT. 654MM. CHEZHOU",
+        "brand": "Cummins",
+        "code": "4184",
+        "image": "img/products/6c 2/helice-ventilador-8-palas-diam-ext-654mm-chezhou-4184.jpg",
+        "description": "HELICE VENTILADOR 8 PALAS DIAM. EXT. 654MM. CHEZHOU 4184 Cummins 6C"
+    },
+    {
+        "id": "P4246",
+        "name": "CARCAZA DISTRIBUCION ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4205",
+        "image": "img/products/6c 2/carcaza-distribucion-engine-parts-4205.jpg",
+        "description": "CARCAZA DISTRIBUCION ENGINE PARTS 4205 Cummins 6C"
+    },
+    {
+        "id": "P4247",
+        "name": "JUNTA TAPA VALVULAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4208",
+        "image": "img/products/6c 2/junta-tapa-valvulas-engine-parts-4208.jpg",
+        "description": "JUNTA TAPA VALVULAS ENGINE PARTS 4208 Cummins 6C"
+    },
+    {
+        "id": "P4248",
+        "name": "ENFRIADOR DE ACEITE DE MOTOR BLK DIESEL",
+        "brand": "Cummins",
+        "code": "4212",
+        "image": "img/products/6c 2/enfriador-de-aceite-de-motor-blk-diesel-4212.jpg",
+        "description": "ENFRIADOR DE ACEITE DE MOTOR BLK DIESEL 4212 Cummins 6C"
+    },
+    {
+        "id": "P4249",
+        "name": "VALVULA PRESION ACEITE / ALIVIO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4213",
+        "image": "img/products/6c 2/valvula-presion-aceite-alivio-engine-parts-4213.jpg",
+        "description": "VALVULA PRESION ACEITE / ALIVIO ENGINE PARTS 4213 Cummins 6C"
+    },
+    {
+        "id": "P4250",
+        "name": "ENGRANAJE BOMBA INYECTORA Z=84 ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4214",
+        "image": "img/products/6c 2/engranaje-bomba-inyectora-z-84-engine-parts-4214.jpg",
+        "description": "ENGRANAJE BOMBA INYECTORA Z=84 ENGINE PARTS 4214 Cummins 6C"
+    },
+    {
+        "id": "P4251",
+        "name": "INYECTOR DE COMBUSTIBLE COMPLETO CON TOBERA EQUIV. A BOSCH P629 BLK DIESEL",
+        "brand": "Cummins",
+        "code": "4215",
+        "image": "img/products/6c 2/inyector-de-combustible-completo-con-tobera-equiv-a-bosch-p629-blk-diesel-4215.jpg",
+        "description": "INYECTOR DE COMBUSTIBLE COMPLETO CON TOBERA EQUIV. A BOSCH P629 BLK DIESEL 4215 Cummins 6C"
+    },
+    {
+        "id": "P4252",
+        "name": "BOMBA DE TRANSFERENCIA DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4216",
+        "image": "img/products/6c 2/bomba-de-transferencia-de-combustible-engine-parts-4216.jpg",
+        "description": "BOMBA DE TRANSFERENCIA DE COMBUSTIBLE ENGINE PARTS 4216 Cummins 6C"
+    },
+    {
+        "id": "P4253",
+        "name": "JGO. JUNTAS MOTOR PARTE SUPERIOR 8.3 LTS. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4220",
+        "image": "img/products/6c 2/jgo-juntas-motor-parte-superior-8-3-lts-engine-parts-4220.jpg",
+        "description": "JGO. JUNTAS MOTOR PARTE SUPERIOR 8.3 LTS. ENGINE PARTS 4220 Cummins 6C"
+    },
+    {
+        "id": "P4254",
+        "name": "LLAVE LAVAPARABRISAS OSPINA",
+        "brand": "Cummins",
+        "code": "4221",
+        "image": "img/products/6c 2/llave-lavaparabrisas-ospina-4221.jpg",
+        "description": "LLAVE LAVAPARABRISAS OSPINA 4221 Cummins 6C"
+    },
+    {
+        "id": "P4255",
+        "name": "SOPORTE ALTERNADOR IMP.",
+        "brand": "Cummins",
+        "code": "4418",
+        "image": "img/products/6c 2/soporte-alternador-imp-4418.jpg",
+        "description": "SOPORTE ALTERNADOR IMP. 4418 Cummins 6C"
+    },
+    {
+        "id": "P4256",
+        "name": "EMBRAGUE VISCOSO CHEZHOU",
+        "brand": "Cummins",
+        "code": "4472",
+        "image": "img/products/6c 2/embrague-viscoso-chezhou-4472.jpg",
+        "description": "EMBRAGUE VISCOSO CHEZHOU 4472 Cummins 6C"
+    },
+    {
+        "id": "P4257",
+        "name": "MANGUERA INTERCOOLER SILICONA ROJA 63 X 83 X 142 MM. TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "4593",
+        "image": "img/products/6c 2/manguera-intercooler-silicona-roja-63-x-83-x-142-mm-tf-p-technology-4593.jpg",
+        "description": "MANGUERA INTERCOOLER SILICONA ROJA 63 X 83 X 142 MM. TF&P TECHNOLOGY 4593 Cummins 6C"
+    },
+    {
+        "id": "P4258",
+        "name": "MANGUERA INTERCOOLER SILICONA ROJA 63 X 80 MM. TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "4594",
+        "image": "img/products/6c 2/manguera-intercooler-silicona-roja-63-x-80-mm-tf-p-technology-4594.jpg",
+        "description": "MANGUERA INTERCOOLER SILICONA ROJA 63 X 80 MM. TF&P TECHNOLOGY 4594 Cummins 6C"
+    },
+    {
+        "id": "P4259",
+        "name": "MANGUERA SUP. / INF. RADIADOR A INTERCOOLER SILICONA TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "4595",
+        "image": "img/products/6c 2/manguera-sup-inf-radiador-a-intercooler-silicona-tf-p-technology-4595.jpg",
+        "description": "MANGUERA SUP. / INF. RADIADOR A INTERCOOLER SILICONA TF&P TECHNOLOGY 4595 Cummins 6C"
+    },
+    {
+        "id": "P4260",
+        "name": "MANGUERA SALIDA TURBO A CANO INTERCOOLER SILICONA TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "4596",
+        "image": "img/products/6c 2/manguera-salida-turbo-a-cano-intercooler-silicona-tf-p-technology-4596.jpg",
+        "description": "MANGUERA SALIDA TURBO A CANO INTERCOOLER SILICONA TF&P TECHNOLOGY 4596 Cummins 6C"
+    },
+    {
+        "id": "P4261",
+        "name": "CIGUENAL COMPRESOR HOLSET 92MM. C/ENCASTRE PARA LA BOMBA BEL-AR",
+        "brand": "Cummins",
+        "code": "4647",
+        "image": "img/products/6c 2/ciguenal-compresor-holset-92mm-c-encastre-para-la-bomba-bel-ar-4647.jpg",
+        "description": "CIGUENAL COMPRESOR HOLSET 92MM. C/ENCASTRE PARA LA BOMBA BEL-AR 4647 Cummins 6C"
+    },
+    {
+        "id": "P4262",
+        "name": "CIGUENAL COMPRESOR HOLSET 92MM. S/ENCASTRE PARA LA BOMBA BEL-AR",
+        "brand": "Cummins",
+        "code": "4648",
+        "image": "img/products/6c 2/ciguenal-compresor-holset-92mm-s-encastre-para-la-bomba-bel-ar-4648.jpg",
+        "description": "CIGUENAL COMPRESOR HOLSET 92MM. S/ENCASTRE PARA LA BOMBA BEL-AR 4648 Cummins 6C"
+    },
+    {
+        "id": "P4263",
+        "name": "REP. CIGUENAL COMPRESOR HOLSET 92MM. REFORMA BEL-AR",
+        "brand": "Cummins",
+        "code": "4650",
+        "image": "img/products/6c 2/rep-ciguenal-compresor-holset-92mm-reforma-bel-ar-4650.jpg",
+        "description": "REP. CIGUENAL COMPRESOR HOLSET 92MM. REFORMA BEL-AR 4650 Cummins 6C"
+    },
+    {
+        "id": "P4264",
+        "name": "TAPA FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE ROSCA EN EL PERNO CENTRAL RACOR PARKER",
+        "brand": "Cummins",
+        "code": "4704",
+        "image": "img/products/6c 2/tapa-filtro-separador-de-agua-del-combustible-rosca-en-el-perno-central-racor-parker-4704.jpg",
+        "description": "TAPA FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE ROSCA EN EL PERNO CENTRAL RACOR PARKER 4704 Cummins 6C"
+    },
+    {
+        "id": "P4265",
+        "name": "FLEXIBLE DESCARGA DE AIRE DEL COMPRESOR DE AIRE 1/2 GAS / 7/8 UNF MACHO / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4889",
+        "image": "img/products/6c 2/flexible-descarga-de-aire-del-compresor-de-aire-1-2-gas-7-8-unf-macho-manguera-alta-temperatura-industria.jpg",
+        "description": "FLEXIBLE DESCARGA DE AIRE DEL COMPRESOR DE AIRE 1/2 GAS / 7/8 UNF MACHO / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA 4889 Cummins 6C"
+    },
+    {
+        "id": "P4266",
+        "name": "FLEXIBLE DESCARGA DE AIRE DE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 420MM. / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4890",
+        "image": "img/products/6c 2/flexible-descarga-de-aire-de-compresor-de-aire-macho-y-hembra-largo-420mm-manguera-alta-temperatura-indus.jpg",
+        "description": "FLEXIBLE DESCARGA DE AIRE DE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 420MM. / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA 4890 Cummins 6C"
+    },
+    {
+        "id": "P4267",
+        "name": "FLEXIBLE DESCARGA DE AIRE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 370MM. / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4891",
+        "image": "img/products/6c 2/flexible-descarga-de-aire-compresor-de-aire-macho-y-hembra-largo-370mm-manguera-alta-temperatura-industri.jpg",
+        "description": "FLEXIBLE DESCARGA DE AIRE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 370MM. / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA 4891 Cummins 6C"
+    },
+    {
+        "id": "P4268",
+        "name": "FLEXIBLE DESCARGA DE AIRE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 370MM. / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4892",
+        "image": "img/products/6c 2/flexible-descarga-de-aire-compresor-de-aire-macho-y-hembra-largo-370mm-manguera-teflon-industria-argentin.jpg",
+        "description": "FLEXIBLE DESCARGA DE AIRE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 370MM. / MANGUERA TEFLON INDUSTRIA ARGENTINA 4892 Cummins 6C"
+    },
+    {
+        "id": "P4269",
+        "name": "FLEXIBLE DESCARGA DE AIRE DE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 420MM. / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4893",
+        "image": "img/products/6c 2/flexible-descarga-de-aire-de-compresor-de-aire-macho-y-hembra-largo-420mm-manguera-teflon-industria-argen.jpg",
+        "description": "FLEXIBLE DESCARGA DE AIRE DE COMPRESOR DE AIRE MACHO Y HEMBRA / LARGO 420MM. / MANGUERA TEFLON INDUSTRIA ARGENTINA 4893 Cummins 6C"
+    },
+    {
+        "id": "P4270",
+        "name": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE A LA BOMBA DE TRANSFERENCIA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4898",
+        "image": "img/products/6c 2/flexible-suministro-de-combustible-a-la-bomba-de-transferencia-industria-argentina-4898.jpg",
+        "description": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE A LA BOMBA DE TRANSFERENCIA INDUSTRIA ARGENTINA 4898 Cummins 6C"
+    },
+    {
+        "id": "P4271",
+        "name": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "4902",
+        "image": "img/products/6c 2/flexible-suministro-de-combustible-manguera-teflon-industria-argentina-4902.jpg",
+        "description": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE / MANGUERA TEFLON INDUSTRIA ARGENTINA 4902 Cummins 6C"
+    },
+    {
+        "id": "P4272",
+        "name": "TAPA DE DISTRIBUCION ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4966",
+        "image": "img/products/6c 2/tapa-de-distribucion-engine-parts-4966.jpg",
+        "description": "TAPA DE DISTRIBUCION ENGINE PARTS 4966 Cummins 6C"
+    },
+    {
+        "id": "P4273",
+        "name": "JUNTA TAPA LATERAL DE BOTADORES ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4970",
+        "image": "img/products/6c 2/junta-tapa-lateral-de-botadores-engine-parts-4970.jpg",
+        "description": "JUNTA TAPA LATERAL DE BOTADORES ENGINE PARTS 4970 Cummins 6C"
+    },
+    {
+        "id": "P4274",
+        "name": "CABEZAL FILTRO DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4971",
+        "image": "img/products/6c 2/cabezal-filtro-de-combustible-engine-parts-4971.jpg",
+        "description": "CABEZAL FILTRO DE COMBUSTIBLE ENGINE PARTS 4971 Cummins 6C"
+    },
+    {
+        "id": "P4275",
+        "name": "CODO TURBO ADMISION BLK DIESEL",
+        "brand": "Cummins",
+        "code": "4974",
+        "image": "img/products/6c 2/codo-turbo-admision-blk-diesel-4974.jpg",
+        "description": "CODO TURBO ADMISION BLK DIESEL 4974 Cummins 6C"
+    },
+    {
+        "id": "P4276",
+        "name": "ENGRANAJE ARBOL DE LEVAS 84 DIENTES ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4978",
+        "image": "img/products/6c 2/engranaje-arbol-de-levas-84-dientes-engine-parts-4978.jpg",
+        "description": "ENGRANAJE ARBOL DE LEVAS 84 DIENTES ENGINE PARTS 4978 Cummins 6C"
+    },
+    {
+        "id": "P4277",
+        "name": "CAPUCHON DE INYECTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4979",
+        "image": "img/products/6c 2/capuchon-de-inyector-engine-parts-4979.jpg",
+        "description": "CAPUCHON DE INYECTOR ENGINE PARTS 4979 Cummins 6C"
+    },
+    {
+        "id": "P4278",
+        "name": "ANILLO ORING TAPA DE INSPECCION BLK DIESEL",
+        "brand": "Cummins",
+        "code": "4981",
+        "image": "img/products/6c 2/anillo-oring-tapa-de-inspeccion-blk-diesel-4981.jpg",
+        "description": "ANILLO ORING TAPA DE INSPECCION BLK DIESEL 4981 Cummins 6C"
+    },
+    {
+        "id": "P4279",
+        "name": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE A LA BOMBA DE TRANSFERENCIA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "4982",
+        "image": "img/products/6c 2/flexible-suministro-de-combustible-a-la-bomba-de-transferencia-blk-diesel-4982.jpg",
+        "description": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE A LA BOMBA DE TRANSFERENCIA BLK DIESEL 4982 Cummins 6C"
+    },
+    {
+        "id": "P4280",
+        "name": "ENGRANAJE DE CIGUENAL 42 DIENTES ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4983",
+        "image": "img/products/6c 2/engranaje-de-ciguenal-42-dientes-engine-parts-4983.jpg",
+        "description": "ENGRANAJE DE CIGUENAL 42 DIENTES ENGINE PARTS 4983 Cummins 6C"
+    },
+    {
+        "id": "P4281",
+        "name": "SELENOIDE PARE MOTOR 12V. VERTICAL / CONECTOR 3 PINES ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4984",
+        "image": "img/products/6c 2/selenoide-pare-motor-12v-vertical-conector-3-pines-engine-parts-4984.jpg",
+        "description": "SELENOIDE PARE MOTOR 12V. VERTICAL / CONECTOR 3 PINES ENGINE PARTS 4984 Cummins 6C"
+    },
+    {
+        "id": "P4282",
+        "name": "TAPA TRASERA PORTARETEN DE LA CARCAZA DEL VOLANTE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4985",
+        "image": "img/products/6c 2/tapa-trasera-portareten-de-la-carcaza-del-volante-engine-parts-4985.jpg",
+        "description": "TAPA TRASERA PORTARETEN DE LA CARCAZA DEL VOLANTE ENGINE PARTS 4985 Cummins 6C"
+    },
+    {
+        "id": "P4283",
+        "name": "RETEN BANCADA TRASERA CON PISTA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4988",
+        "image": "img/products/6c 2/reten-bancada-trasera-con-pista-engine-parts-4988.jpg",
+        "description": "RETEN BANCADA TRASERA CON PISTA ENGINE PARTS 4988 Cummins 6C"
+    },
+    {
+        "id": "P4284",
+        "name": "PERNO PUESTA A PUNTO MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4989",
+        "image": "img/products/6c 2/perno-puesta-a-punto-motor-engine-parts-4989.jpg",
+        "description": "PERNO PUESTA A PUNTO MOTOR ENGINE PARTS 4989 Cummins 6C"
+    },
+    {
+        "id": "P4285",
+        "name": "CARCAZA PERNO PUESTA A PUNTO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "4990",
+        "image": "img/products/6c 2/carcaza-perno-puesta-a-punto-blk-diesel-4990.jpg",
+        "description": "CARCAZA PERNO PUESTA A PUNTO BLK DIESEL 4990 Cummins 6C"
+    },
+    {
+        "id": "P4286",
+        "name": "RETEN TAPA DE DISTRIBUCION ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4991",
+        "image": "img/products/6c 2/reten-tapa-de-distribucion-engine-parts-4991.jpg",
+        "description": "RETEN TAPA DE DISTRIBUCION ENGINE PARTS 4991 Cummins 6C"
+    },
+    {
+        "id": "P4287",
+        "name": "TERMOSTATO DEL ENFRIADOR DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4992",
+        "image": "img/products/6c 2/termostato-del-enfriador-de-aceite-engine-parts-4992.jpg",
+        "description": "TERMOSTATO DEL ENFRIADOR DE ACEITE ENGINE PARTS 4992 Cummins 6C"
+    },
+    {
+        "id": "P4288",
+        "name": "RETEN DISTRIBUCION DELANTERO CON COLOCADOR Y PISTA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "4993",
+        "image": "img/products/6c 2/reten-distribucion-delantero-con-colocador-y-pista-engine-parts-4993.jpg",
+        "description": "RETEN DISTRIBUCION DELANTERO CON COLOCADOR Y PISTA ENGINE PARTS 4993 Cummins 6C"
+    },
+    {
+        "id": "P4289",
+        "name": "CIGUENAL COMPRESOR WABCO 85MM. TAPA LARGA / ACOPLE A LA BOMBA CHAVETADO BEL-AR",
+        "brand": "Cummins",
+        "code": "5105",
+        "image": "img/products/6c 2/ciguenal-compresor-wabco-85mm-tapa-larga-acople-a-la-bomba-chavetado-bel-ar-5105.jpg",
+        "description": "CIGUENAL COMPRESOR WABCO 85MM. TAPA LARGA / ACOPLE A LA BOMBA CHAVETADO BEL-AR 5105 Cummins 6C"
+    },
+    {
+        "id": "P4290",
+        "name": "MULTIPLE DE ADMISION IMP.",
+        "brand": "Cummins",
+        "code": "5222",
+        "image": "img/products/6c 2/multiple-de-admision-imp-5222.jpg",
+        "description": "MULTIPLE DE ADMISION IMP. 5222 Cummins 6C"
+    },
+    {
+        "id": "P4291",
+        "name": "MULTIPLE SALIDA DE ESCAPE A TURBO IMP.",
+        "brand": "Cummins",
+        "code": "5223",
+        "image": "img/products/6c 2/multiple-salida-de-escape-a-turbo-imp-5223.jpg",
+        "description": "MULTIPLE SALIDA DE ESCAPE A TURBO IMP. 5223 Cummins 6C"
+    },
+    {
+        "id": "P4292",
+        "name": "CIGUENAL COMPRESOR WABCO 85MM. / ACOPLE A LA BOMBA ESTRIADO BEL-AR",
+        "brand": "Cummins",
+        "code": "5243",
+        "image": "img/products/6c 2/ciguenal-compresor-wabco-85mm-acople-a-la-bomba-estriado-bel-ar-5243.jpg",
+        "description": "CIGUENAL COMPRESOR WABCO 85MM. / ACOPLE A LA BOMBA ESTRIADO BEL-AR 5243 Cummins 6C"
+    },
+    {
+        "id": "P4293",
+        "name": "MANGUERA RETORNO DE COMBUSTIBLE / POLIAMIDA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "5312",
+        "image": "img/products/6c 2/manguera-retorno-de-combustible-poliamida-industria-argentina-5312.jpg",
+        "description": "MANGUERA RETORNO DE COMBUSTIBLE / POLIAMIDA INDUSTRIA ARGENTINA 5312 Cummins 6C"
+    },
+    {
+        "id": "P4294",
+        "name": "BOMBA DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5323",
+        "image": "img/products/6c 2/bomba-de-aceite-engine-parts-5323.jpg",
+        "description": "BOMBA DE ACEITE ENGINE PARTS 5323 Cummins 6C"
+    },
+    {
+        "id": "P4295",
+        "name": "SELENOIDE PARE MOTOR 24V. VERTICAL / CONECTOR 3 PINES ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5325",
+        "image": "img/products/6c 2/selenoide-pare-motor-24v-vertical-conector-3-pines-engine-parts-5325.jpg",
+        "description": "SELENOIDE PARE MOTOR 24V. VERTICAL / CONECTOR 3 PINES ENGINE PARTS 5325 Cummins 6C"
+    },
+    {
+        "id": "P4296",
+        "name": "CORONA VOLANTE MOTOR / 138 DIENTES ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5328",
+        "image": "img/products/6c 2/corona-volante-motor-138-dientes-engine-parts-5328.jpg",
+        "description": "CORONA VOLANTE MOTOR / 138 DIENTES ENGINE PARTS 5328 Cummins 6C"
+    },
+    {
+        "id": "P4297",
+        "name": "TAPA DE VALVULAS DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5329",
+        "image": "img/products/6c 2/tapa-de-valvulas-de-motor-engine-parts-5329.jpg",
+        "description": "TAPA DE VALVULAS DE MOTOR ENGINE PARTS 5329 Cummins 6C"
+    },
+    {
+        "id": "P4298",
+        "name": "POLEA DE VENTILADOR DIAM. EXT. 160MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5331",
+        "image": "img/products/6c 2/polea-de-ventilador-diam-ext-160mm-engine-parts-5331.jpg",
+        "description": "POLEA DE VENTILADOR DIAM. EXT. 160MM. ENGINE PARTS 5331 Cummins 6C"
+    },
+    {
+        "id": "P4299",
+        "name": "CABEZAL PORTA FILTRO DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5332",
+        "image": "img/products/6c 2/cabezal-porta-filtro-de-aceite-engine-parts-5332.jpg",
+        "description": "CABEZAL PORTA FILTRO DE ACEITE ENGINE PARTS 5332 Cummins 6C"
+    },
+    {
+        "id": "P4300",
+        "name": "TOBERA DE INYECTOR / PRESION DE APERTURA 300 BAR BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5337",
+        "image": "img/products/6c 2/tobera-de-inyector-presion-de-apertura-300-bar-blk-diesel-5337.jpg",
+        "description": "TOBERA DE INYECTOR / PRESION DE APERTURA 300 BAR BLK DIESEL 5337 Cummins 6C"
+    },
+    {
+        "id": "P4301",
+        "name": "TAPA SUPERIOR COMPRESOR HOLSET 92MM. QE 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "5353",
+        "image": "img/products/6c 2/tapa-superior-compresor-holset-92mm-qe-296-bel-ar-5353.jpg",
+        "description": "TAPA SUPERIOR COMPRESOR HOLSET 92MM. QE 296 BEL-AR 5353 Cummins 6C"
+    },
+    {
+        "id": "P4302",
+        "name": "TAPA SUPERIOR COMPRESOR HOLSET 92MM. SS 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "5354",
+        "image": "img/products/6c 2/tapa-superior-compresor-holset-92mm-ss-296-bel-ar-5354.jpg",
+        "description": "TAPA SUPERIOR COMPRESOR HOLSET 92MM. SS 296 BEL-AR 5354 Cummins 6C"
+    },
+    {
+        "id": "P4303",
+        "name": "CANO RIGIDO SALIDA DE AIRE DEL COMPRESOR HOLSET INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "5400",
+        "image": "img/products/6c 2/cano-rigido-salida-de-aire-del-compresor-holset-industria-argentina-5400.jpg",
+        "description": "CANO RIGIDO SALIDA DE AIRE DEL COMPRESOR HOLSET INDUSTRIA ARGENTINA 5400 Cummins 6C"
+    },
+    {
+        "id": "P4304",
+        "name": "CANO RIGIDO SALIDA DE AIRE DEL COMPRESOR WABCO INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "5401",
+        "image": "img/products/6c 2/cano-rigido-salida-de-aire-del-compresor-wabco-industria-argentina-5401.jpg",
+        "description": "CANO RIGIDO SALIDA DE AIRE DEL COMPRESOR WABCO INDUSTRIA ARGENTINA 5401 Cummins 6C"
+    },
+    {
+        "id": "P4305",
+        "name": "MANGUERA DESCARGA ACEITE DE TURBO / SILICONA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5636",
+        "image": "img/products/6c 2/manguera-descarga-aceite-de-turbo-silicona-blk-diesel-5636.jpg",
+        "description": "MANGUERA DESCARGA ACEITE DE TURBO / SILICONA BLK DIESEL 5636 Cummins 6C"
+    },
+    {
+        "id": "P4306",
+        "name": "TUBO UNION DEL ACEITE DEL TURBO AL BLOCK ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5637",
+        "image": "img/products/6c 2/tubo-union-del-aceite-del-turbo-al-block-engine-parts-5637.jpg",
+        "description": "TUBO UNION DEL ACEITE DEL TURBO AL BLOCK ENGINE PARTS 5637 Cummins 6C"
+    },
+    {
+        "id": "P4307",
+        "name": "ABRAZADERA INYECTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5638",
+        "image": "img/products/6c 2/abrazadera-inyector-engine-parts-5638.jpg",
+        "description": "ABRAZADERA INYECTOR ENGINE PARTS 5638 Cummins 6C"
+    },
+    {
+        "id": "P4308",
+        "name": "ABRAZADERA TURBO / TIPO \"V\" / DIAMETRO INT. 3\" ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5639",
+        "image": "img/products/6c 2/abrazadera-turbo-tipo-v-diametro-int-3-engine-parts-5639.jpg",
+        "description": "ABRAZADERA TURBO / TIPO \"V\" / DIAMETRO INT. 3\" ENGINE PARTS 5639 Cummins 6C"
+    },
+    {
+        "id": "P4309",
+        "name": "SELLO RECTANGULAR BOMBA INYECTORA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5642",
+        "image": "img/products/6c 2/sello-rectangular-bomba-inyectora-de-combustible-blk-diesel-5642.jpg",
+        "description": "SELLO RECTANGULAR BOMBA INYECTORA DE COMBUSTIBLE BLK DIESEL 5642 Cummins 6C"
+    },
+    {
+        "id": "P4310",
+        "name": "SELLO RECTANGULAR BOMBA INYECTORA DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5643",
+        "image": "img/products/6c 2/sello-rectangular-bomba-inyectora-de-combustible-engine-parts-5643.jpg",
+        "description": "SELLO RECTANGULAR BOMBA INYECTORA DE COMBUSTIBLE ENGINE PARTS 5643 Cummins 6C"
+    },
+    {
+        "id": "P4311",
+        "name": "ORING CAMISA MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5644",
+        "image": "img/products/6c 2/oring-camisa-motor-engine-parts-5644.jpg",
+        "description": "ORING CAMISA MOTOR ENGINE PARTS 5644 Cummins 6C"
+    },
+    {
+        "id": "P4312",
+        "name": "SOPORTE ARBOL DE LEVAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5646",
+        "image": "img/products/6c 2/soporte-arbol-de-levas-engine-parts-5646.jpg",
+        "description": "SOPORTE ARBOL DE LEVAS ENGINE PARTS 5646 Cummins 6C"
+    },
+    {
+        "id": "P4313",
+        "name": "ARANDELA ASIENTO INYECTOR COMBUSTIBLE / COBRE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5647",
+        "image": "img/products/6c 2/arandela-asiento-inyector-combustible-cobre-blk-diesel-5647.jpg",
+        "description": "ARANDELA ASIENTO INYECTOR COMBUSTIBLE / COBRE BLK DIESEL 5647 Cummins 6C"
+    },
+    {
+        "id": "P4314",
+        "name": "BALANCIN ADMISION Y ESCAPE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5653",
+        "image": "img/products/6c 2/balancin-admision-y-escape-blk-diesel-5653.jpg",
+        "description": "BALANCIN ADMISION Y ESCAPE BLK DIESEL 5653 Cummins 6C"
+    },
+    {
+        "id": "P4315",
+        "name": "BUJE ARBOL DE LEVAS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5658",
+        "image": "img/products/6c 2/buje-arbol-de-levas-blk-diesel-5658.jpg",
+        "description": "BUJE ARBOL DE LEVAS BLK DIESEL 5658 Cummins 6C"
+    },
+    {
+        "id": "P4316",
+        "name": "CHAVETA ARBOL DE LEVAS / MEDIA LUNA PLANA / ESPESOR 4MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5667",
+        "image": "img/products/6c 2/chaveta-arbol-de-levas-media-luna-plana-espesor-4mm-engine-parts-5667.jpg",
+        "description": "CHAVETA ARBOL DE LEVAS / MEDIA LUNA PLANA / ESPESOR 4MM. ENGINE PARTS 5667 Cummins 6C"
+    },
+    {
+        "id": "P4317",
+        "name": "CONECTOR HEMBRA FLEXIBLE LUBRICACION DE TURBO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5668",
+        "image": "img/products/6c 2/conector-hembra-flexible-lubricacion-de-turbo-blk-diesel-5668.jpg",
+        "description": "CONECTOR HEMBRA FLEXIBLE LUBRICACION DE TURBO BLK DIESEL 5668 Cummins 6C"
+    },
+    {
+        "id": "P4318",
+        "name": "CONECTOR TUBO DE VENTEO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5670",
+        "image": "img/products/6c 2/conector-tubo-de-venteo-engine-parts-5670.jpg",
+        "description": "CONECTOR TUBO DE VENTEO ENGINE PARTS 5670 Cummins 6C"
+    },
+    {
+        "id": "P4319",
+        "name": "EJE DE BALANCIN DE VALVULAS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5674",
+        "image": "img/products/6c 2/eje-de-balancin-de-valvulas-blk-diesel-5674.jpg",
+        "description": "EJE DE BALANCIN DE VALVULAS BLK DIESEL 5674 Cummins 6C"
+    },
+    {
+        "id": "P4320",
+        "name": "EJE DE VALVULA DE CIERRE DE CARCAZA DE TERMOSTATO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5675",
+        "image": "img/products/6c 2/eje-de-valvula-de-cierre-de-carcaza-de-termostato-engine-parts-5675.jpg",
+        "description": "EJE DE VALVULA DE CIERRE DE CARCAZA DE TERMOSTATO ENGINE PARTS 5675 Cummins 6C"
+    },
+    {
+        "id": "P4321",
+        "name": "EMBOLO REGULADOR DE SOBRECARGA DE PRESION DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5676",
+        "image": "img/products/6c 2/embolo-regulador-de-sobrecarga-de-presion-de-aceite-engine-parts-5676.jpg",
+        "description": "EMBOLO REGULADOR DE SOBRECARGA DE PRESION DE ACEITE ENGINE PARTS 5676 Cummins 6C"
+    },
+    {
+        "id": "P4322",
+        "name": "ESPINA BLOCK DE MOTOR / 10 X 16MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5681",
+        "image": "img/products/6c 2/espina-block-de-motor-10-x-16mm-engine-parts-5681.jpg",
+        "description": "ESPINA BLOCK DE MOTOR / 10 X 16MM. ENGINE PARTS 5681 Cummins 6C"
+    },
+    {
+        "id": "P4323",
+        "name": "GUIA TAPA DE CILINDROS A BLOCK / 16 X 10MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5682",
+        "image": "img/products/6c 2/guia-tapa-de-cilindros-a-block-16-x-10mm-engine-parts-5682.jpg",
+        "description": "GUIA TAPA DE CILINDROS A BLOCK / 16 X 10MM. ENGINE PARTS 5682 Cummins 6C"
+    },
+    {
+        "id": "P4324",
+        "name": "JUNTA DE TAPA DE LLENADO DE ACEITE EN TAPA DE VALVULAS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5687",
+        "image": "img/products/6c 2/junta-de-tapa-de-llenado-de-aceite-en-tapa-de-valvulas-blk-diesel-5687.jpg",
+        "description": "JUNTA DE TAPA DE LLENADO DE ACEITE EN TAPA DE VALVULAS BLK DIESEL 5687 Cummins 6C"
+    },
+    {
+        "id": "P4325",
+        "name": "MANGUERA DESCARGA DE ACEITE DEL TURBO / SILICONA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5692",
+        "image": "img/products/6c 2/manguera-descarga-de-aceite-del-turbo-silicona-engine-parts-5692.jpg",
+        "description": "MANGUERA DESCARGA DE ACEITE DEL TURBO / SILICONA ENGINE PARTS 5692 Cummins 6C"
+    },
+    {
+        "id": "P4326",
+        "name": "MULTIPLE ESCAPE CON SALIDA CENTRAL BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5698",
+        "image": "img/products/6c 2/multiple-escape-con-salida-central-blk-diesel-5698.jpg",
+        "description": "MULTIPLE ESCAPE CON SALIDA CENTRAL BLK DIESEL 5698 Cummins 6C"
+    },
+    {
+        "id": "P4327",
+        "name": "ORING TAPON DE EXPANSION DEL BLOCK / DIAM. 2\" BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5700",
+        "image": "img/products/6c 2/oring-tapon-de-expansion-del-block-diam-2-blk-diesel-5700.jpg",
+        "description": "ORING TAPON DE EXPANSION DEL BLOCK / DIAM. 2\" BLK DIESEL 5700 Cummins 6C"
+    },
+    {
+        "id": "P4328",
+        "name": "ORING BOMBA DE AGUA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5701",
+        "image": "img/products/6c 2/oring-bomba-de-agua-blk-diesel-5701.jpg",
+        "description": "ORING BOMBA DE AGUA BLK DIESEL 5701 Cummins 6C"
+    },
+    {
+        "id": "P4329",
+        "name": "ORING BOMBA INYECTORA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5702",
+        "image": "img/products/6c 2/oring-bomba-inyectora-blk-diesel-5702.jpg",
+        "description": "ORING BOMBA INYECTORA BLK DIESEL 5702 Cummins 6C"
+    },
+    {
+        "id": "P4330",
+        "name": "ORING BOMBA INYECTORA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5703",
+        "image": "img/products/6c 2/oring-bomba-inyectora-engine-parts-5703.jpg",
+        "description": "ORING BOMBA INYECTORA ENGINE PARTS 5703 Cummins 6C"
+    },
+    {
+        "id": "P4331",
+        "name": "SELLO RECTANGULAR CARCAZA PERNO PUESTA A PUNTO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5704",
+        "image": "img/products/6c 2/sello-rectangular-carcaza-perno-puesta-a-punto-blk-diesel-5704.jpg",
+        "description": "SELLO RECTANGULAR CARCAZA PERNO PUESTA A PUNTO BLK DIESEL 5704 Cummins 6C"
+    },
+    {
+        "id": "P4332",
+        "name": "ANILLO TRABA PERNO PUESTA A PUNTO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5705",
+        "image": "img/products/6c 2/anillo-traba-perno-puesta-a-punto-blk-diesel-5705.jpg",
+        "description": "ANILLO TRABA PERNO PUESTA A PUNTO BLK DIESEL 5705 Cummins 6C"
+    },
+    {
+        "id": "P4333",
+        "name": "ORING EJE VALVULA LIQUIDO REFRIGERANTE EN CARCAZA DE TERMOSTATO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5706",
+        "image": "img/products/6c 2/oring-eje-valvula-liquido-refrigerante-en-carcaza-de-termostato-blk-diesel-5706.jpg",
+        "description": "ORING EJE VALVULA LIQUIDO REFRIGERANTE EN CARCAZA DE TERMOSTATO BLK DIESEL 5706 Cummins 6C"
+    },
+    {
+        "id": "P4334",
+        "name": "ORING FILTRO COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5708",
+        "image": "img/products/6c 2/oring-filtro-combustible-blk-diesel-5708.jpg",
+        "description": "ORING FILTRO COMBUSTIBLE BLK DIESEL 5708 Cummins 6C"
+    },
+    {
+        "id": "P4335",
+        "name": "JUNTA TAPA LLENADO DE ACEITE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5710",
+        "image": "img/products/6c 2/junta-tapa-llenado-de-aceite-blk-diesel-5710.jpg",
+        "description": "JUNTA TAPA LLENADO DE ACEITE BLK DIESEL 5710 Cummins 6C"
+    },
+    {
+        "id": "P4336",
+        "name": "ORING PERNO PUESTA A PUNTO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5711",
+        "image": "img/products/6c 2/oring-perno-puesta-a-punto-blk-diesel-5711.jpg",
+        "description": "ORING PERNO PUESTA A PUNTO BLK DIESEL 5711 Cummins 6C"
+    },
+    {
+        "id": "P4337",
+        "name": "ORING TUBO ENTRADA DE AIRE AL TURBO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5713",
+        "image": "img/products/6c 2/oring-tubo-entrada-de-aire-al-turbo-blk-diesel-5713.jpg",
+        "description": "ORING TUBO ENTRADA DE AIRE AL TURBO BLK DIESEL 5713 Cummins 6C"
+    },
+    {
+        "id": "P4338",
+        "name": "PASADOR RETENCION ARBOL DE LEVAS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5714",
+        "image": "img/products/6c 2/pasador-retencion-arbol-de-levas-blk-diesel-5714.jpg",
+        "description": "PASADOR RETENCION ARBOL DE LEVAS BLK DIESEL 5714 Cummins 6C"
+    },
+    {
+        "id": "P4339",
+        "name": "PERNO GUIA CIGUENAL / ARBOL DE LEVAS / 6 X 8MM. BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5715",
+        "image": "img/products/6c 2/perno-guia-ciguenal-arbol-de-levas-6-x-8mm-blk-diesel-5715.jpg",
+        "description": "PERNO GUIA CIGUENAL / ARBOL DE LEVAS / 6 X 8MM. BLK DIESEL 5715 Cummins 6C"
+    },
+    {
+        "id": "P4340",
+        "name": "PICO REFRIGERADOR DE PISTON DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5716",
+        "image": "img/products/6c 2/pico-refrigerador-de-piston-de-motor-engine-parts-5716.jpg",
+        "description": "PICO REFRIGERADOR DE PISTON DE MOTOR ENGINE PARTS 5716 Cummins 6C"
+    },
+    {
+        "id": "P4341",
+        "name": "PLATILLO VALVULA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5719",
+        "image": "img/products/6c 2/platillo-valvula-engine-parts-5719.jpg",
+        "description": "PLATILLO VALVULA ENGINE PARTS 5719 Cummins 6C"
+    },
+    {
+        "id": "P4342",
+        "name": "POLEA DE CIGUENAL BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5722",
+        "image": "img/products/6c 2/polea-de-ciguenal-blk-diesel-5722.jpg",
+        "description": "POLEA DE CIGUENAL BLK DIESEL 5722 Cummins 6C"
+    },
+    {
+        "id": "P4343",
+        "name": "RETEN DE VALVULA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5727",
+        "image": "img/products/6c 2/reten-de-valvula-engine-parts-5727.jpg",
+        "description": "RETEN DE VALVULA ENGINE PARTS 5727 Cummins 6C"
+    },
+    {
+        "id": "P4344",
+        "name": "RETEN VOLANTE DE MOTOR BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5728",
+        "image": "img/products/6c 2/reten-volante-de-motor-blk-diesel-5728.jpg",
+        "description": "RETEN VOLANTE DE MOTOR BLK DIESEL 5728 Cummins 6C"
+    },
+    {
+        "id": "P4345",
+        "name": "SEGURO MULTIPLE ESCAPE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5729",
+        "image": "img/products/6c 2/seguro-multiple-escape-blk-diesel-5729.jpg",
+        "description": "SEGURO MULTIPLE ESCAPE BLK DIESEL 5729 Cummins 6C"
+    },
+    {
+        "id": "P4346",
+        "name": "SELLO RECTANGULAR VOLANTE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5731",
+        "image": "img/products/6c 2/sello-rectangular-volante-motor-engine-parts-5731.jpg",
+        "description": "SELLO RECTANGULAR VOLANTE MOTOR ENGINE PARTS 5731 Cummins 6C"
+    },
+    {
+        "id": "P4347",
+        "name": "SOPORTE COMPRESOR DE AIRE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5732",
+        "image": "img/products/6c 2/soporte-compresor-de-aire-blk-diesel-5732.jpg",
+        "description": "SOPORTE COMPRESOR DE AIRE BLK DIESEL 5732 Cummins 6C"
+    },
+    {
+        "id": "P4348",
+        "name": "SOPORTE FIJACION BOMBA DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5733",
+        "image": "img/products/6c 2/soporte-fijacion-bomba-de-combustible-engine-parts-5733.jpg",
+        "description": "SOPORTE FIJACION BOMBA DE COMBUSTIBLE ENGINE PARTS 5733 Cummins 6C"
+    },
+    {
+        "id": "P4349",
+        "name": "SOPORTE BOMBA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5734",
+        "image": "img/products/6c 2/soporte-bomba-de-combustible-blk-diesel-5734.jpg",
+        "description": "SOPORTE BOMBA DE COMBUSTIBLE BLK DIESEL 5734 Cummins 6C"
+    },
+    {
+        "id": "P4350",
+        "name": "SOPORTE FIJACION BOMBA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5735",
+        "image": "img/products/6c 2/soporte-fijacion-bomba-de-combustible-blk-diesel-5735.jpg",
+        "description": "SOPORTE FIJACION BOMBA DE COMBUSTIBLE BLK DIESEL 5735 Cummins 6C"
+    },
+    {
+        "id": "P4351",
+        "name": "SOPORTE COMPRESOR HOLSET BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5736",
+        "image": "img/products/6c 2/soporte-compresor-holset-blk-diesel-5736.jpg",
+        "description": "SOPORTE COMPRESOR HOLSET BLK DIESEL 5736 Cummins 6C"
+    },
+    {
+        "id": "P4352",
+        "name": "SOPORTE INFERIOR DE BALANCIN BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5738",
+        "image": "img/products/6c 2/soporte-inferior-de-balancin-blk-diesel-5738.jpg",
+        "description": "SOPORTE INFERIOR DE BALANCIN BLK DIESEL 5738 Cummins 6C"
+    },
+    {
+        "id": "P4353",
+        "name": "SOPORTE SUPERIOR DE BALANCIN ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5739",
+        "image": "img/products/6c 2/soporte-superior-de-balancin-engine-parts-5739.jpg",
+        "description": "SOPORTE SUPERIOR DE BALANCIN ENGINE PARTS 5739 Cummins 6C"
+    },
+    {
+        "id": "P4354",
+        "name": "TAPA INSPECCION ACEITE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5741",
+        "image": "img/products/6c 2/tapa-inspeccion-aceite-motor-engine-parts-5741.jpg",
+        "description": "TAPA INSPECCION ACEITE MOTOR ENGINE PARTS 5741 Cummins 6C"
+    },
+    {
+        "id": "P4355",
+        "name": "TAPA LLENADO ACEITE DE MOTOR EN TAPA DE VALVULAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5744",
+        "image": "img/products/6c 2/tapa-llenado-aceite-de-motor-en-tapa-de-valvulas-engine-parts-5744.jpg",
+        "description": "TAPA LLENADO ACEITE DE MOTOR EN TAPA DE VALVULAS ENGINE PARTS 5744 Cummins 6C"
+    },
+    {
+        "id": "P4356",
+        "name": "TAPA MULTIPLE ADMISION BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5748",
+        "image": "img/products/6c 2/tapa-multiple-admision-blk-diesel-5748.jpg",
+        "description": "TAPA MULTIPLE ADMISION BLK DIESEL 5748 Cummins 6C"
+    },
+    {
+        "id": "P4357",
+        "name": "TAPON DE EXPANSION DEL BLOCK / 20.5MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5751",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-20-5mm-engine-parts-5751.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK / 20.5MM. ENGINE PARTS 5751 Cummins 6C"
+    },
+    {
+        "id": "P4358",
+        "name": "TAPON DE EXPANSION DEL BLOCK / 1.1875\" / 30MM. BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5752",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-1-1875-30mm-blk-diesel-5752.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK / 1.1875\" / 30MM. BLK DIESEL 5752 Cummins 6C"
+    },
+    {
+        "id": "P4359",
+        "name": "TAPON DE EXPANSION DEL BLOCK 9.5MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5753",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-9-5mm-engine-parts-5753.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK 9.5MM. ENGINE PARTS 5753 Cummins 6C"
+    },
+    {
+        "id": "P4360",
+        "name": "TAPON DE EXPANSION DEL BLOCK / 2\" / 69.5MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5754",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-2-69-5mm-engine-parts-5754.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK / 2\" / 69.5MM. ENGINE PARTS 5754 Cummins 6C"
+    },
+    {
+        "id": "P4361",
+        "name": "TAPON DE EXPANSION DEL BLOCK / 1 3/16\" / 22MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5755",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-1-3-16-22mm-engine-parts-5755.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK / 1 3/16\" / 22MM. ENGINE PARTS 5755 Cummins 6C"
+    },
+    {
+        "id": "P4362",
+        "name": "TAPON DE EXPANSION DEL BLOCK 35MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5756",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-35mm-engine-parts-5756.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK 35MM. ENGINE PARTS 5756 Cummins 6C"
+    },
+    {
+        "id": "P4363",
+        "name": "TAPON DE EXPANSION DEL BLOCK / 58.06MM. BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5757",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-58-06mm-blk-diesel-5757.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK / 58.06MM. BLK DIESEL 5757 Cummins 6C"
+    },
+    {
+        "id": "P4364",
+        "name": "TAPON DE EXPANSION / 1\" ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5758",
+        "image": "img/products/6c 2/tapon-de-expansion-1-engine-parts-5758.jpg",
+        "description": "TAPON DE EXPANSION / 1\" ENGINE PARTS 5758 Cummins 6C"
+    },
+    {
+        "id": "P4365",
+        "name": "BUJE ROSCADO CARCAZA VOLANTE / 3/4\" 16 UNF BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5759",
+        "image": "img/products/6c 2/buje-roscado-carcaza-volante-3-4-16-unf-blk-diesel-5759.jpg",
+        "description": "BUJE ROSCADO CARCAZA VOLANTE / 3/4\" 16 UNF BLK DIESEL 5759 Cummins 6C"
+    },
+    {
+        "id": "P4366",
+        "name": "TAPON DE CARTER / 18 X 1.5 X 14MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5760",
+        "image": "img/products/6c 2/tapon-de-carter-18-x-1-5-x-14mm-engine-parts-5760.jpg",
+        "description": "TAPON DE CARTER / 18 X 1.5 X 14MM. ENGINE PARTS 5760 Cummins 6C"
+    },
+    {
+        "id": "P4367",
+        "name": "TAPON DE CARTER / 22 X 1.5 X 14MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5761",
+        "image": "img/products/6c 2/tapon-de-carter-22-x-1-5-x-14mm-engine-parts-5761.jpg",
+        "description": "TAPON DE CARTER / 22 X 1.5 X 14MM. ENGINE PARTS 5761 Cummins 6C"
+    },
+    {
+        "id": "P4368",
+        "name": "TUBO COLECTOR DE ACEITE DEL BALANCIN DE VALVULAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5764",
+        "image": "img/products/6c 2/tubo-colector-de-aceite-del-balancin-de-valvulas-engine-parts-5764.jpg",
+        "description": "TUBO COLECTOR DE ACEITE DEL BALANCIN DE VALVULAS ENGINE PARTS 5764 Cummins 6C"
+    },
+    {
+        "id": "P4369",
+        "name": "TUBO RESPIRO TAPA VALVULAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5768",
+        "image": "img/products/6c 2/tubo-respiro-tapa-valvulas-engine-parts-5768.jpg",
+        "description": "TUBO RESPIRO TAPA VALVULAS ENGINE PARTS 5768 Cummins 6C"
+    },
+    {
+        "id": "P4370",
+        "name": "FLEXIBLE RETORNO COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5774",
+        "image": "img/products/6c 2/flexible-retorno-combustible-engine-parts-5774.jpg",
+        "description": "FLEXIBLE RETORNO COMBUSTIBLE ENGINE PARTS 5774 Cummins 6C"
+    },
+    {
+        "id": "P4371",
+        "name": "CANO SUMINISTRO DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5775",
+        "image": "img/products/6c 2/cano-suministro-de-combustible-engine-parts-5775.jpg",
+        "description": "CANO SUMINISTRO DE COMBUSTIBLE ENGINE PARTS 5775 Cummins 6C"
+    },
+    {
+        "id": "P4372",
+        "name": "CANO SUMINISTRO DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "5776",
+        "image": "img/products/6c 2/cano-suministro-de-combustible-blk-diesel-5776.jpg",
+        "description": "CANO SUMINISTRO DE COMBUSTIBLE BLK DIESEL 5776 Cummins 6C"
+    },
+    {
+        "id": "P4373",
+        "name": "VARILLA LEVANTA VALVULA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5778",
+        "image": "img/products/6c 2/varilla-levanta-valvula-engine-parts-5778.jpg",
+        "description": "VARILLA LEVANTA VALVULA ENGINE PARTS 5778 Cummins 6C"
+    },
+    {
+        "id": "P4374",
+        "name": "BOMBA TRANSFERENCIA DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "5779",
+        "image": "img/products/6c 2/bomba-transferencia-de-combustible-engine-parts-5779.jpg",
+        "description": "BOMBA TRANSFERENCIA DE COMBUSTIBLE ENGINE PARTS 5779 Cummins 6C"
+    },
+    {
+        "id": "P4375",
+        "name": "POLEA TENSORA IMP.",
+        "brand": "Cummins",
+        "code": "5867",
+        "image": "img/products/6c 2/polea-tensora-imp-5867.jpg",
+        "description": "POLEA TENSORA IMP. 5867 Cummins 6C"
+    },
+    {
+        "id": "P4376",
+        "name": "ENTRETAPA REFRIGERADORA COMPRESOR HOLSET 92MM. QE 296 BEL-AR",
+        "brand": "Cummins",
+        "code": "5907",
+        "image": "img/products/6c 2/entretapa-refrigeradora-compresor-holset-92mm-qe-296-bel-ar-5907.jpg",
+        "description": "ENTRETAPA REFRIGERADORA COMPRESOR HOLSET 92MM. QE 296 BEL-AR 5907 Cummins 6C"
+    },
+    {
+        "id": "P4377",
+        "name": "PISTON C/PERNO Y AROS STD COMPRESOR HOLSET 92MM. SS 296 A-TECH",
+        "brand": "Cummins",
+        "code": "6095",
+        "image": "img/products/6c 2/piston-c-perno-y-aros-std-compresor-holset-92mm-ss-296-a-tech-6095.jpg",
+        "description": "PISTON C/PERNO Y AROS STD COMPRESOR HOLSET 92MM. SS 296 A-TECH 6095 Cummins 6C"
+    },
+    {
+        "id": "P4378",
+        "name": "PISTON C/PERNO Y AROS 010 COMPRESOR HOLSET 92MM. SS 296 A-TECH",
+        "brand": "Cummins",
+        "code": "6096",
+        "image": "img/products/6c 2/piston-c-perno-y-aros-010-compresor-holset-92mm-ss-296-a-tech-6096.jpg",
+        "description": "PISTON C/PERNO Y AROS 010 COMPRESOR HOLSET 92MM. SS 296 A-TECH 6096 Cummins 6C"
+    },
+    {
+        "id": "P4379",
+        "name": "PISTON C/PERNO Y AROS 020 COMPRESOR HOLSET 92MM. SS 296 A-TECH",
+        "brand": "Cummins",
+        "code": "6097",
+        "image": "img/products/6c 2/piston-c-perno-y-aros-020-compresor-holset-92mm-ss-296-a-tech-6097.jpg",
+        "description": "PISTON C/PERNO Y AROS 020 COMPRESOR HOLSET 92MM. SS 296 A-TECH 6097 Cummins 6C"
+    },
+    {
+        "id": "P4380",
+        "name": "TAPA Y ENTRETAPA COMPLETA COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "6098",
+        "image": "img/products/6c 2/tapa-y-entretapa-completa-compresor-wabco-85mm-a-tech-6098.jpg",
+        "description": "TAPA Y ENTRETAPA COMPLETA COMPRESOR WABCO 85MM. A-TECH 6098 Cummins 6C"
+    },
+    {
+        "id": "P4381",
+        "name": "TAPA COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "6099",
+        "image": "img/products/6c 2/tapa-compresor-wabco-85mm-a-tech-6099.jpg",
+        "description": "TAPA COMPRESOR WABCO 85MM. A-TECH 6099 Cummins 6C"
+    },
+    {
+        "id": "P4382",
+        "name": "ENTRETAPA COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "6100",
+        "image": "img/products/6c 2/entretapa-compresor-wabco-85mm-a-tech-6100.jpg",
+        "description": "ENTRETAPA COMPRESOR WABCO 85MM. A-TECH 6100 Cummins 6C"
+    },
+    {
+        "id": "P4383",
+        "name": "REP. TAPA COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "6101",
+        "image": "img/products/6c 2/rep-tapa-compresor-wabco-85mm-a-tech-6101.jpg",
+        "description": "REP. TAPA COMPRESOR WABCO 85MM. A-TECH 6101 Cummins 6C"
+    },
+    {
+        "id": "P4384",
+        "name": "EMPUNADURA PALANCA DE CAMBIOS 8 MARCHAS CON VALVULA IMP.",
+        "brand": "Cummins",
+        "code": "6136",
+        "image": "img/products/6c 2/empunadura-palanca-de-cambios-8-marchas-con-valvula-imp-6136.jpg",
+        "description": "EMPUNADURA PALANCA DE CAMBIOS 8 MARCHAS CON VALVULA IMP. 6136 Cummins 6C"
+    },
+    {
+        "id": "P4385",
+        "name": "HORQUILLA EMBRAGUE CON BUJES GRANDES VANNUCCI",
+        "brand": "Cummins",
+        "code": "6145",
+        "image": "img/products/6c 2/horquilla-embrague-con-bujes-grandes-vannucci-6145.jpg",
+        "description": "HORQUILLA EMBRAGUE CON BUJES GRANDES VANNUCCI 6145 Cummins 6C"
+    },
+    {
+        "id": "P4386",
+        "name": "JUNTA BOMBA ALIMENTADORA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6201",
+        "image": "img/products/6c 2/junta-bomba-alimentadora-de-combustible-blk-diesel-6201.jpg",
+        "description": "JUNTA BOMBA ALIMENTADORA DE COMBUSTIBLE BLK DIESEL 6201 Cummins 6C"
+    },
+    {
+        "id": "P4387",
+        "name": "JUNTA BOMBA HIDRAULICA / COMPRESOR HOLSET ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6202",
+        "image": "img/products/6c 2/junta-bomba-hidraulica-compresor-holset-engine-parts-6202.jpg",
+        "description": "JUNTA BOMBA HIDRAULICA / COMPRESOR HOLSET ENGINE PARTS 6202 Cummins 6C"
+    },
+    {
+        "id": "P4388",
+        "name": "JUNTA COMPRESOR HOLSET / WABCO AL MOTOR BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6203",
+        "image": "img/products/6c 2/junta-compresor-holset-wabco-al-motor-blk-diesel-6203.jpg",
+        "description": "JUNTA COMPRESOR HOLSET / WABCO AL MOTOR BLK DIESEL 6203 Cummins 6C"
+    },
+    {
+        "id": "P4389",
+        "name": "JUNTA CABEZAL FILTRO DE ACEITE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6206",
+        "image": "img/products/6c 2/junta-cabezal-filtro-de-aceite-blk-diesel-6206.jpg",
+        "description": "JUNTA CABEZAL FILTRO DE ACEITE BLK DIESEL 6206 Cummins 6C"
+    },
+    {
+        "id": "P4390",
+        "name": "JUNTA CARCAZA TERMOSTATO ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6207",
+        "image": "img/products/6c 2/junta-carcaza-termostato-engine-parts-6207.jpg",
+        "description": "JUNTA CARCAZA TERMOSTATO ENGINE PARTS 6207 Cummins 6C"
+    },
+    {
+        "id": "P4391",
+        "name": "JUNTA CARTER DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6211",
+        "image": "img/products/6c 2/junta-carter-de-aceite-engine-parts-6211.jpg",
+        "description": "JUNTA CARTER DE ACEITE ENGINE PARTS 6211 Cummins 6C"
+    },
+    {
+        "id": "P4392",
+        "name": "JUNTA CONEXION SALIDA DE AGUA DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6214",
+        "image": "img/products/6c 2/junta-conexion-salida-de-agua-de-motor-engine-parts-6214.jpg",
+        "description": "JUNTA CONEXION SALIDA DE AGUA DE MOTOR ENGINE PARTS 6214 Cummins 6C"
+    },
+    {
+        "id": "P4393",
+        "name": "JUNTA TAPA ENFRIADOR DE ACEITE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6215",
+        "image": "img/products/6c 2/junta-tapa-enfriador-de-aceite-blk-diesel-6215.jpg",
+        "description": "JUNTA TAPA ENFRIADOR DE ACEITE BLK DIESEL 6215 Cummins 6C"
+    },
+    {
+        "id": "P4394",
+        "name": "JUNTA ENFRIADOR DE ACEITE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6216",
+        "image": "img/products/6c 2/junta-enfriador-de-aceite-engine-parts-6216.jpg",
+        "description": "JUNTA ENFRIADOR DE ACEITE ENGINE PARTS 6216 Cummins 6C"
+    },
+    {
+        "id": "P4395",
+        "name": "ORING FILTRO DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6218",
+        "image": "img/products/6c 2/oring-filtro-de-combustible-blk-diesel-6218.jpg",
+        "description": "ORING FILTRO DE COMBUSTIBLE BLK DIESEL 6218 Cummins 6C"
+    },
+    {
+        "id": "P4396",
+        "name": "JUNTA TAPA MULTIPLE DE ADMISION BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6221",
+        "image": "img/products/6c 2/junta-tapa-multiple-de-admision-blk-diesel-6221.jpg",
+        "description": "JUNTA TAPA MULTIPLE DE ADMISION BLK DIESEL 6221 Cummins 6C"
+    },
+    {
+        "id": "P4397",
+        "name": "JUNTA MULTIPLE DE ESCAPE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6223",
+        "image": "img/products/6c 2/junta-multiple-de-escape-engine-parts-6223.jpg",
+        "description": "JUNTA MULTIPLE DE ESCAPE ENGINE PARTS 6223 Cummins 6C"
+    },
+    {
+        "id": "P4398",
+        "name": "JUNTA CARCAZA DE DISTRIBUCION AL BLOCK BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6228",
+        "image": "img/products/6c 2/junta-carcaza-de-distribucion-al-block-blk-diesel-6228.jpg",
+        "description": "JUNTA CARCAZA DE DISTRIBUCION AL BLOCK BLK DIESEL 6228 Cummins 6C"
+    },
+    {
+        "id": "P4399",
+        "name": "JUNTA TAPA CARCAZA DE DISTRIBUCION ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6230",
+        "image": "img/products/6c 2/junta-tapa-carcaza-de-distribucion-engine-parts-6230.jpg",
+        "description": "JUNTA TAPA CARCAZA DE DISTRIBUCION ENGINE PARTS 6230 Cummins 6C"
+    },
+    {
+        "id": "P4400",
+        "name": "JUNTA TAPA TRASERA DE LA CARCAZA DEL VOLANTE ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6235",
+        "image": "img/products/6c 2/junta-tapa-trasera-de-la-carcaza-del-volante-engine-parts-6235.jpg",
+        "description": "JUNTA TAPA TRASERA DE LA CARCAZA DEL VOLANTE ENGINE PARTS 6235 Cummins 6C"
+    },
+    {
+        "id": "P4401",
+        "name": "AISLADOR DE VIBRACION DEL CANO INYECTOR / 2 CANOS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6243",
+        "image": "img/products/6c 2/aislador-de-vibracion-del-cano-inyector-2-canos-engine-parts-6243.jpg",
+        "description": "AISLADOR DE VIBRACION DEL CANO INYECTOR / 2 CANOS ENGINE PARTS 6243 Cummins 6C"
+    },
+    {
+        "id": "P4402",
+        "name": "BALANCIN COMPLETO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6244",
+        "image": "img/products/6c 2/balancin-completo-blk-diesel-6244.jpg",
+        "description": "BALANCIN COMPLETO BLK DIESEL 6244 Cummins 6C"
+    },
+    {
+        "id": "P4403",
+        "name": "MANGUERA CONEXION A BOMBA DE AGUA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6245",
+        "image": "img/products/6c 2/manguera-conexion-a-bomba-de-agua-engine-parts-6245.jpg",
+        "description": "MANGUERA CONEXION A BOMBA DE AGUA ENGINE PARTS 6245 Cummins 6C"
+    },
+    {
+        "id": "P4404",
+        "name": "TAPA TRASERA CARCAZA VOLANTE DE MOTOR BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6246",
+        "image": "img/products/6c 2/tapa-trasera-carcaza-volante-de-motor-blk-diesel-6246.jpg",
+        "description": "TAPA TRASERA CARCAZA VOLANTE DE MOTOR BLK DIESEL 6246 Cummins 6C"
+    },
+    {
+        "id": "P4405",
+        "name": "PALANCA DE CORTE DE COMBUSTIBLE DE LA BOMBA INYECTORA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6247",
+        "image": "img/products/6c 2/palanca-de-corte-de-combustible-de-la-bomba-inyectora-blk-diesel-6247.jpg",
+        "description": "PALANCA DE CORTE DE COMBUSTIBLE DE LA BOMBA INYECTORA BLK DIESEL 6247 Cummins 6C"
+    },
+    {
+        "id": "P4406",
+        "name": "TUBO PURGA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6248",
+        "image": "img/products/6c 2/tubo-purga-de-combustible-blk-diesel-6248.jpg",
+        "description": "TUBO PURGA DE COMBUSTIBLE BLK DIESEL 6248 Cummins 6C"
+    },
+    {
+        "id": "P4407",
+        "name": "MEDIA BANCADA CENTRAL DE CIGUENAL BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6257",
+        "image": "img/products/6c 2/media-bancada-central-de-ciguenal-blk-diesel-6257.jpg",
+        "description": "MEDIA BANCADA CENTRAL DE CIGUENAL BLK DIESEL 6257 Cummins 6C"
+    },
+    {
+        "id": "P4408",
+        "name": "JUNTA CARCAZA DISTRIBUCION AL BLOCK BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6272",
+        "image": "img/products/6c 2/junta-carcaza-distribucion-al-block-blk-diesel-6272.jpg",
+        "description": "JUNTA CARCAZA DISTRIBUCION AL BLOCK BLK DIESEL 6272 Cummins 6C"
+    },
+    {
+        "id": "P4409",
+        "name": "CAJA DE BALANCINES BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6273",
+        "image": "img/products/6c 2/caja-de-balancines-blk-diesel-6273.jpg",
+        "description": "CAJA DE BALANCINES BLK DIESEL 6273 Cummins 6C"
+    },
+    {
+        "id": "P4410",
+        "name": "TUBO UNION DESCARGA DE ACEITE DEL TURBO AL BLOCK ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6276",
+        "image": "img/products/6c 2/tubo-union-descarga-de-aceite-del-turbo-al-block-engine-parts-6276.jpg",
+        "description": "TUBO UNION DESCARGA DE ACEITE DEL TURBO AL BLOCK ENGINE PARTS 6276 Cummins 6C"
+    },
+    {
+        "id": "P4411",
+        "name": "VALVULA CHECK ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6328",
+        "image": "img/products/6c 2/valvula-check-engine-parts-6328.jpg",
+        "description": "VALVULA CHECK ENGINE PARTS 6328 Cummins 6C"
+    },
+    {
+        "id": "P4412",
+        "name": "SOPORTE BOMBA INYECTORA BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6329",
+        "image": "img/products/6c 2/soporte-bomba-inyectora-blk-diesel-6329.jpg",
+        "description": "SOPORTE BOMBA INYECTORA BLK DIESEL 6329 Cummins 6C"
+    },
+    {
+        "id": "P4413",
+        "name": "TERMOSTATO 88Âº CALORSTAT",
+        "brand": "Cummins",
+        "code": "6439",
+        "image": "img/products/6c 2/termostato-88a-calorstat-6439.jpg",
+        "description": "TERMOSTATO 88Âº CALORSTAT 6439 Cummins 6C"
+    },
+    {
+        "id": "P4414",
+        "name": "DEPOSITO DE EXPANSION RESERPLASTIC",
+        "brand": "Cummins",
+        "code": "6467",
+        "image": "img/products/6c 2/deposito-de-expansion-reserplastic-6467.jpg",
+        "description": "DEPOSITO DE EXPANSION RESERPLASTIC 6467 Cummins 6C"
+    },
+    {
+        "id": "P4415",
+        "name": "GRAMPA USOS VARIOS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6531",
+        "image": "img/products/6c 2/grampa-usos-varios-blk-diesel-6531.jpg",
+        "description": "GRAMPA USOS VARIOS BLK DIESEL 6531 Cummins 6C"
+    },
+    {
+        "id": "P4416",
+        "name": "TAPON DE EXPANSION DEL BLOCK 1/8\" / 29MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6532",
+        "image": "img/products/6c 2/tapon-de-expansion-del-block-1-8-29mm-engine-parts-6532.jpg",
+        "description": "TAPON DE EXPANSION DEL BLOCK 1/8\" / 29MM. ENGINE PARTS 6532 Cummins 6C"
+    },
+    {
+        "id": "P4417",
+        "name": "TAPON ROSCADO 14 X 1.5MM. / PARA LLAVE ALLEN BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6538",
+        "image": "img/products/6c 2/tapon-roscado-14-x-1-5mm-para-llave-allen-blk-diesel-6538.jpg",
+        "description": "TAPON ROSCADO 14 X 1.5MM. / PARA LLAVE ALLEN BLK DIESEL 6538 Cummins 6C"
+    },
+    {
+        "id": "P4418",
+        "name": "CAMISA MOTOR CORTA / 235mm. / CON ORING ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6539",
+        "image": "img/products/6c 2/camisa-motor-corta-235mm-con-oring-engine-parts-6539.jpg",
+        "description": "CAMISA MOTOR CORTA / 235mm. / CON ORING ENGINE PARTS 6539 Cummins 6C"
+    },
+    {
+        "id": "P4419",
+        "name": "INYECTOR COMPLETO TIPO BOSCH PARA BOMBA LINEAL CON TOBERA 150P115 BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6541",
+        "image": "img/products/6c 2/inyector-completo-tipo-bosch-para-bomba-lineal-con-tobera-150p115-blk-diesel-6541.jpg",
+        "description": "INYECTOR COMPLETO TIPO BOSCH PARA BOMBA LINEAL CON TOBERA 150P115 BLK DIESEL 6541 Cummins 6C"
+    },
+    {
+        "id": "P4420",
+        "name": "JGO. AROS MOTOR STD. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6542",
+        "image": "img/products/6c 2/jgo-aros-motor-std-engine-parts-6542.jpg",
+        "description": "JGO. AROS MOTOR STD. ENGINE PARTS 6542 Cummins 6C"
+    },
+    {
+        "id": "P4421",
+        "name": "TAPON DE BLOCK 17.73MM. ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6543",
+        "image": "img/products/6c 2/tapon-de-block-17-73mm-engine-parts-6543.jpg",
+        "description": "TAPON DE BLOCK 17.73MM. ENGINE PARTS 6543 Cummins 6C"
+    },
+    {
+        "id": "P4422",
+        "name": "GUIA DE MONTAJE DE BLOCK DE MOTOR / M12 X 24MM. BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6546",
+        "image": "img/products/6c 2/guia-de-montaje-de-block-de-motor-m12-x-24mm-blk-diesel-6546.jpg",
+        "description": "GUIA DE MONTAJE DE BLOCK DE MOTOR / M12 X 24MM. BLK DIESEL 6546 Cummins 6C"
+    },
+    {
+        "id": "P4423",
+        "name": "MULTIPLE ESCAPE CON SALIDA LATERAL ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6547",
+        "image": "img/products/6c 2/multiple-escape-con-salida-lateral-engine-parts-6547.jpg",
+        "description": "MULTIPLE ESCAPE CON SALIDA LATERAL ENGINE PARTS 6547 Cummins 6C"
+    },
+    {
+        "id": "P4424",
+        "name": "TAPON ROSCADO EN TUBERIA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6549",
+        "image": "img/products/6c 2/tapon-roscado-en-tuberia-de-combustible-blk-diesel-6549.jpg",
+        "description": "TAPON ROSCADO EN TUBERIA DE COMBUSTIBLE BLK DIESEL 6549 Cummins 6C"
+    },
+    {
+        "id": "P4425",
+        "name": "BUJE DE REDUCCION EN TUBERIA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6550",
+        "image": "img/products/6c 2/buje-de-reduccion-en-tuberia-de-combustible-blk-diesel-6550.jpg",
+        "description": "BUJE DE REDUCCION EN TUBERIA DE COMBUSTIBLE BLK DIESEL 6550 Cummins 6C"
+    },
+    {
+        "id": "P4426",
+        "name": "TAPON EN CARCAZA VOLANTE DE MOTOR / 29.26MM. BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6551",
+        "image": "img/products/6c 2/tapon-en-carcaza-volante-de-motor-29-26mm-blk-diesel-6551.jpg",
+        "description": "TAPON EN CARCAZA VOLANTE DE MOTOR / 29.26MM. BLK DIESEL 6551 Cummins 6C"
+    },
+    {
+        "id": "P4427",
+        "name": "GUIA DE VALVULA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6553",
+        "image": "img/products/6c 2/guia-de-valvula-engine-parts-6553.jpg",
+        "description": "GUIA DE VALVULA ENGINE PARTS 6553 Cummins 6C"
+    },
+    {
+        "id": "P4428",
+        "name": "ORING TAPON ROSCADO DE LA TAPA DEL ENFRIADOR DE ACEITE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6555",
+        "image": "img/products/6c 2/oring-tapon-roscado-de-la-tapa-del-enfriador-de-aceite-blk-diesel-6555.jpg",
+        "description": "ORING TAPON ROSCADO DE LA TAPA DEL ENFRIADOR DE ACEITE BLK DIESEL 6555 Cummins 6C"
+    },
+    {
+        "id": "P4429",
+        "name": "TAPON ROSCADO DEL DRENAJE DE AGUA DEL ENFRIADOR DE ACEITE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6556",
+        "image": "img/products/6c 2/tapon-roscado-del-drenaje-de-agua-del-enfriador-de-aceite-blk-diesel-6556.jpg",
+        "description": "TAPON ROSCADO DEL DRENAJE DE AGUA DEL ENFRIADOR DE ACEITE BLK DIESEL 6556 Cummins 6C"
+    },
+    {
+        "id": "P4430",
+        "name": "PLACA TAPA BOMBA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6558",
+        "image": "img/products/6c 2/placa-tapa-bomba-de-combustible-blk-diesel-6558.jpg",
+        "description": "PLACA TAPA BOMBA DE COMBUSTIBLE BLK DIESEL 6558 Cummins 6C"
+    },
+    {
+        "id": "P4431",
+        "name": "CODO ADAPTADOR COMPRESOR HOLSET Y WABCO Y BOMBA DE VACIO BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6574",
+        "image": "img/products/6c 2/codo-adaptador-compresor-holset-y-wabco-y-bomba-de-vacio-blk-diesel-6574.jpg",
+        "description": "CODO ADAPTADOR COMPRESOR HOLSET Y WABCO Y BOMBA DE VACIO BLK DIESEL 6574 Cummins 6C"
+    },
+    {
+        "id": "P4432",
+        "name": "GRIFO DRENAJE 1/4\" NPT BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6575",
+        "image": "img/products/6c 2/grifo-drenaje-1-4-npt-blk-diesel-6575.jpg",
+        "description": "GRIFO DRENAJE 1/4\" NPT BLK DIESEL 6575 Cummins 6C"
+    },
+    {
+        "id": "P4433",
+        "name": "TAPON DE BLOCK ROSCADO 1\" NPT BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6576",
+        "image": "img/products/6c 2/tapon-de-block-roscado-1-npt-blk-diesel-6576.jpg",
+        "description": "TAPON DE BLOCK ROSCADO 1\" NPT BLK DIESEL 6576 Cummins 6C"
+    },
+    {
+        "id": "P4434",
+        "name": "CAMISA MOTOR LARGA CON ORING BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6577",
+        "image": "img/products/6c 2/camisa-motor-larga-con-oring-blk-diesel-6577.jpg",
+        "description": "CAMISA MOTOR LARGA CON ORING BLK DIESEL 6577 Cummins 6C"
+    },
+    {
+        "id": "P4435",
+        "name": "PISTON CON SEGUROS Y JGO. DE AROS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "6578",
+        "image": "img/products/6c 2/piston-con-seguros-y-jgo-de-aros-blk-diesel-6578.jpg",
+        "description": "PISTON CON SEGUROS Y JGO. DE AROS BLK DIESEL 6578 Cummins 6C"
+    },
+    {
+        "id": "P4436",
+        "name": "PISTON CON PERNO, SEGUROS Y JGO. DE AROS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6579",
+        "image": "img/products/6c 2/piston-con-perno-seguros-y-jgo-de-aros-engine-parts-6579.jpg",
+        "description": "PISTON CON PERNO, SEGUROS Y JGO. DE AROS ENGINE PARTS 6579 Cummins 6C"
+    },
+    {
+        "id": "P4437",
+        "name": "PISTON DE MOTOR CON SEGUROS Y JGO. DE AROS STD ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "6580",
+        "image": "img/products/6c 2/piston-de-motor-con-seguros-y-jgo-de-aros-std-engine-parts-6580.jpg",
+        "description": "PISTON DE MOTOR CON SEGUROS Y JGO. DE AROS STD ENGINE PARTS 6580 Cummins 6C"
+    },
+    {
+        "id": "P4438",
+        "name": "ENGRANAJE CIGUENAL COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "6586",
+        "image": "img/products/6c 2/engranaje-ciguenal-compresor-wabco-85mm-a-tech-6586.jpg",
+        "description": "ENGRANAJE CIGUENAL COMPRESOR WABCO 85MM. A-TECH 6586 Cummins 6C"
+    },
+    {
+        "id": "P4439",
+        "name": "VARILLA EMPUJE SERVOEMBRAGUE IMP.",
+        "brand": "Cummins",
+        "code": "6618",
+        "image": "img/products/6c 2/varilla-empuje-servoembrague-imp-6618.jpg",
+        "description": "VARILLA EMPUJE SERVOEMBRAGUE IMP. 6618 Cummins 6C"
+    },
+    {
+        "id": "P4440",
+        "name": "MANGUERA INTERCOOLER IMP.",
+        "brand": "Cummins",
+        "code": "6619",
+        "image": "img/products/6c 2/manguera-intercooler-imp-6619.jpg",
+        "description": "MANGUERA INTERCOOLER IMP. 6619 Cummins 6C"
+    },
+    {
+        "id": "P4441",
+        "name": "ABRAZADERA CODO DE ESCAPE A CANO C/INSERTO / RANGO 103MM. PERFECTO",
+        "brand": "Cummins",
+        "code": "6809",
+        "image": "img/products/6c 2/abrazadera-codo-de-escape-a-cano-c-inserto-rango-103mm-perfecto-6809.jpg",
+        "description": "ABRAZADERA CODO DE ESCAPE A CANO C/INSERTO / RANGO 103MM. PERFECTO 6809 Cummins 6C"
+    },
+    {
+        "id": "P4442",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER C/INSERTO / RANGO 104MM. PERFECTO",
+        "brand": "Cummins",
+        "code": "6811",
+        "image": "img/products/6c 2/abrazadera-manguera-intercooler-c-inserto-rango-104mm-perfecto-6811.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER C/INSERTO / RANGO 104MM. PERFECTO 6811 Cummins 6C"
+    },
+    {
+        "id": "P4443",
+        "name": "ABRAZADERA SALIDA ESCAPE DEL TURBO C/INSERTO / RANGO 80MM. PERFECTO",
+        "brand": "Cummins",
+        "code": "6815",
+        "image": "img/products/6c 2/abrazadera-salida-escape-del-turbo-c-inserto-rango-80mm-perfecto-6815.jpg",
+        "description": "ABRAZADERA SALIDA ESCAPE DEL TURBO C/INSERTO / RANGO 80MM. PERFECTO 6815 Cummins 6C"
+    },
+    {
+        "id": "P4444",
+        "name": "COMPRESOR WABCO 85MM. BEL-AR",
+        "brand": "Cummins",
+        "code": "6924",
+        "image": "img/products/6c 2/compresor-wabco-85mm-bel-ar-6924.jpg",
+        "description": "COMPRESOR WABCO 85MM. BEL-AR 6924 Cummins 6C"
+    },
+    {
+        "id": "P4445",
+        "name": "HORQUILLA EMBRAGUE CON BUJES GRANDES INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "6995",
+        "image": "img/products/6c 2/horquilla-embrague-con-bujes-grandes-industria-argentina-6995.jpg",
+        "description": "HORQUILLA EMBRAGUE CON BUJES GRANDES INDUSTRIA ARGENTINA 6995 Cummins 6C"
+    },
+    {
+        "id": "P4446",
+        "name": "MINIRELAY AUXILIAR 24V. / 5 TERMINALES (3 X 4.8MM) (2 X 6.3MM) / 30/40 AMP. TOP RELAY",
+        "brand": "Cummins",
+        "code": "7271",
+        "image": "img/products/6c 2/minirelay-auxiliar-24v-5-terminales-3-x-4-8mm-2-x-6-3mm-30-40-amp-top-relay-7271.jpg",
+        "description": "MINIRELAY AUXILIAR 24V. / 5 TERMINALES (3 X 4.8MM) (2 X 6.3MM) / 30/40 AMP. TOP RELAY 7271 Cummins 6C"
+    },
+    {
+        "id": "P4447",
+        "name": "RELAY TEMPORIZADOR LIMPIAPARABRISAS 24V. TOP RELAY",
+        "brand": "Cummins",
+        "code": "7299",
+        "image": "img/products/6c 2/relay-temporizador-limpiaparabrisas-24v-top-relay-7299.jpg",
+        "description": "RELAY TEMPORIZADOR LIMPIAPARABRISAS 24V. TOP RELAY 7299 Cummins 6C"
+    },
+    {
+        "id": "P4448",
+        "name": "JUEGO AROS STD COMPRESOR HOLSET 92MM. SS 296 SUPER CIRCLE",
+        "brand": "Cummins",
+        "code": "7677",
+        "image": "img/products/6c 2/juego-aros-std-compresor-holset-92mm-ss-296-super-circle-7677.jpg",
+        "description": "JUEGO AROS STD COMPRESOR HOLSET 92MM. SS 296 SUPER CIRCLE 7677 Cummins 6C"
+    },
+    {
+        "id": "P4449",
+        "name": "JUEGO AROS 010 COMPRESOR HOLSET 92MM. SS 296 SUPER CIRCLE",
+        "brand": "Cummins",
+        "code": "7678",
+        "image": "img/products/6c 2/juego-aros-010-compresor-holset-92mm-ss-296-super-circle-7678.jpg",
+        "description": "JUEGO AROS 010 COMPRESOR HOLSET 92MM. SS 296 SUPER CIRCLE 7678 Cummins 6C"
+    },
+    {
+        "id": "P4450",
+        "name": "JUEGO AROS 020 COMPRESOR HOLSET 92MM. SS 296 SUPER CIRCLE",
+        "brand": "Cummins",
+        "code": "7679",
+        "image": "img/products/6c 2/juego-aros-020-compresor-holset-92mm-ss-296-super-circle-7679.jpg",
+        "description": "JUEGO AROS 020 COMPRESOR HOLSET 92MM. SS 296 SUPER CIRCLE 7679 Cummins 6C"
+    },
+    {
+        "id": "P4451",
+        "name": "FLEXIBLE ENTRADA AGUA DE COMPRESOR WABCO 85MM. RIGIFLEX",
+        "brand": "Cummins",
+        "code": "7680",
+        "image": "img/products/6c 2/flexible-entrada-agua-de-compresor-wabco-85mm-rigiflex-7680.jpg",
+        "description": "FLEXIBLE ENTRADA AGUA DE COMPRESOR WABCO 85MM. RIGIFLEX 7680 Cummins 6C"
+    },
+    {
+        "id": "P4452",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR HOLSET 92MM. SS296 STD TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "7703",
+        "image": "img/products/6c 2/piston-con-perno-y-seguro-compresor-holset-92mm-ss296-std-tf-p-technology-7703.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR HOLSET 92MM. SS296 STD TF&P TECHNOLOGY 7703 Cummins 6C"
+    },
+    {
+        "id": "P4453",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR HOLSET 92MM. SS296 010\" TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "7704",
+        "image": "img/products/6c 2/piston-con-perno-y-seguro-compresor-holset-92mm-ss296-010-tf-p-technology-7704.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR HOLSET 92MM. SS296 010\" TF&P TECHNOLOGY 7704 Cummins 6C"
+    },
+    {
+        "id": "P4454",
+        "name": "PISTON CON PERNO Y SEGURO COMPRESOR HOLSET 92MM. SS296 020\" TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "7705",
+        "image": "img/products/6c 2/piston-con-perno-y-seguro-compresor-holset-92mm-ss296-020-tf-p-technology-7705.jpg",
+        "description": "PISTON CON PERNO Y SEGURO COMPRESOR HOLSET 92MM. SS296 020\" TF&P TECHNOLOGY 7705 Cummins 6C"
+    },
+    {
+        "id": "P4455",
+        "name": "COMPRESOR WABCO 85MM. A-TECH",
+        "brand": "Cummins",
+        "code": "7876",
+        "image": "img/products/6c 2/compresor-wabco-85mm-a-tech-7876.jpg",
+        "description": "COMPRESOR WABCO 85MM. A-TECH 7876 Cummins 6C"
+    },
+    {
+        "id": "P4456",
+        "name": "COMPRESOR HOLSET 92MM. QE 296 CON ENGRANAJE A-TECH",
+        "brand": "Cummins",
+        "code": "7877",
+        "image": "img/products/6c 2/compresor-holset-92mm-qe-296-con-engranaje-a-tech-7877.jpg",
+        "description": "COMPRESOR HOLSET 92MM. QE 296 CON ENGRANAJE A-TECH 7877 Cummins 6C"
+    },
+    {
+        "id": "P4457",
+        "name": "TAPA CILINDROS MARINGA",
+        "brand": "Cummins",
+        "code": "8377",
+        "image": "img/products/6c 2/tapa-cilindros-maringa-8377.jpg",
+        "description": "TAPA CILINDROS MARINGA 8377 Cummins 6C"
+    },
+    {
+        "id": "P4458",
+        "name": "EMBLEMA FRONTAL 1722e IMP.",
+        "brand": "Cummins",
+        "code": "8420",
+        "image": "img/products/6c 2/emblema-frontal-1722e-imp-8420.jpg",
+        "description": "EMBLEMA FRONTAL 1722e IMP. 8420 Cummins 6C"
+    },
+    {
+        "id": "P4459",
+        "name": "EMBLEMA FRONTAL 2632e IMP.",
+        "brand": "Cummins",
+        "code": "8421",
+        "image": "img/products/6c 2/emblema-frontal-2632e-imp-8421.jpg",
+        "description": "EMBLEMA FRONTAL 2632e IMP. 8421 Cummins 6C"
+    },
+    {
+        "id": "P4460",
+        "name": "REP. TAPA COMPRESOR HOLSET 92MM. QE 296 A-TECH",
+        "brand": "Cummins",
+        "code": "8425",
+        "image": "img/products/6c 2/rep-tapa-compresor-holset-92mm-qe-296-a-tech-8425.jpg",
+        "description": "REP. TAPA COMPRESOR HOLSET 92MM. QE 296 A-TECH 8425 Cummins 6C"
+    },
+    {
+        "id": "P4461",
+        "name": "VARILLA EMPUJE CILINDRO MAESTRO DE EMBRAGUE IMP.",
+        "brand": "Cummins",
+        "code": "8427",
+        "image": "img/products/6c 2/varilla-empuje-cilindro-maestro-de-embrague-imp-8427.jpg",
+        "description": "VARILLA EMPUJE CILINDRO MAESTRO DE EMBRAGUE IMP. 8427 Cummins 6C"
+    },
+    {
+        "id": "P4462",
+        "name": "CANO RIGIDO SALIDA AGUA COMPRESOR HOLSET QE296 RIGIFLEX",
+        "brand": "Cummins",
+        "code": "8453",
+        "image": "img/products/6c 2/cano-rigido-salida-agua-compresor-holset-qe296-rigiflex-8453.jpg",
+        "description": "CANO RIGIDO SALIDA AGUA COMPRESOR HOLSET QE296 RIGIFLEX 8453 Cummins 6C"
+    },
+    {
+        "id": "P4463",
+        "name": "MANGUERA INTERCOOLER / 112 X 63 X 73MM. BINS",
+        "brand": "Cummins",
+        "code": "8598",
+        "image": "img/products/6c 2/manguera-intercooler-112-x-63-x-73mm-bins-8598.jpg",
+        "description": "MANGUERA INTERCOOLER / 112 X 63 X 73MM. BINS 8598 Cummins 6C"
+    },
+    {
+        "id": "P4464",
+        "name": "MANGUERA INTERCOOLER / 132 X 78MM. BINS",
+        "brand": "Cummins",
+        "code": "8599",
+        "image": "img/products/6c 2/manguera-intercooler-132-x-78mm-bins-8599.jpg",
+        "description": "MANGUERA INTERCOOLER / 132 X 78MM. BINS 8599 Cummins 6C"
+    },
+    {
+        "id": "P4465",
+        "name": "MANGUERA ADMISION A INTERCOOLER CON ABRAZADERAS / 453 X 63MM. BINS",
+        "brand": "Cummins",
+        "code": "8600",
+        "image": "img/products/6c 2/manguera-admision-a-intercooler-con-abrazaderas-453-x-63mm-bins-8600.jpg",
+        "description": "MANGUERA ADMISION A INTERCOOLER CON ABRAZADERAS / 453 X 63MM. BINS 8600 Cummins 6C"
+    },
+    {
+        "id": "P4466",
+        "name": "MANGUERA ADMISION A INTERCOOLER CON ABRAZADERAS / 678 X 64MM. BINS",
+        "brand": "Cummins",
+        "code": "8601",
+        "image": "img/products/6c 2/manguera-admision-a-intercooler-con-abrazaderas-678-x-64mm-bins-8601.jpg",
+        "description": "MANGUERA ADMISION A INTERCOOLER CON ABRAZADERAS / 678 X 64MM. BINS 8601 Cummins 6C"
+    },
+    {
+        "id": "P4467",
+        "name": "POLEA TENSOR CORREA ALTERNADOR ESTRIADA TF&P TECHNOLOGY",
+        "brand": "Cummins",
+        "code": "8626",
+        "image": "img/products/6c 2/polea-tensor-correa-alternador-estriada-tf-p-technology-8626.jpg",
+        "description": "POLEA TENSOR CORREA ALTERNADOR ESTRIADA TF&P TECHNOLOGY 8626 Cummins 6C"
+    },
+    {
+        "id": "P4468",
+        "name": "SENSOR DE POSICION ARBOL DE LEVAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9282",
+        "image": "img/products/6c 2/sensor-de-posicion-arbol-de-levas-engine-parts-9282.jpg",
+        "description": "SENSOR DE POSICION ARBOL DE LEVAS ENGINE PARTS 9282 Cummins 6C"
+    },
+    {
+        "id": "P4469",
+        "name": "SENSOR DE POSICION DE CIGUENAL ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9298",
+        "image": "img/products/6c 2/sensor-de-posicion-de-ciguenal-engine-parts-9298.jpg",
+        "description": "SENSOR DE POSICION DE CIGUENAL ENGINE PARTS 9298 Cummins 6C"
+    },
+    {
+        "id": "P4470",
+        "name": "SENSOR DE ROTACION DE CIGUENAL ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9300",
+        "image": "img/products/6c 2/sensor-de-rotacion-de-ciguenal-engine-parts-9300.jpg",
+        "description": "SENSOR DE ROTACION DE CIGUENAL ENGINE PARTS 9300 Cummins 6C"
+    },
+    {
+        "id": "P4471",
+        "name": "SENSOR POSICION ARBOL DE LEVAS ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9305",
+        "image": "img/products/6c 2/sensor-posicion-arbol-de-levas-engine-parts-9305.jpg",
+        "description": "SENSOR POSICION ARBOL DE LEVAS ENGINE PARTS 9305 Cummins 6C"
+    },
+    {
+        "id": "P4472",
+        "name": "BULON CABEZAL FILTRO DE ACEITE AL RADIADOR DE ACEITE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "9384",
+        "image": "img/products/6c 2/bulon-cabezal-filtro-de-aceite-al-radiador-de-aceite-blk-diesel-9384.jpg",
+        "description": "BULON CABEZAL FILTRO DE ACEITE AL RADIADOR DE ACEITE BLK DIESEL 9384 Cummins 6C"
+    },
+    {
+        "id": "P4473",
+        "name": "BULON MULTIPLE DE ESCAPE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "9399",
+        "image": "img/products/6c 2/bulon-multiple-de-escape-blk-diesel-9399.jpg",
+        "description": "BULON MULTIPLE DE ESCAPE BLK DIESEL 9399 Cummins 6C"
+    },
+    {
+        "id": "P4474",
+        "name": "TAPON DE EXPANSION / EN BLOCK DE MOTOR ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9401",
+        "image": "img/products/6c 2/tapon-de-expansion-en-block-de-motor-engine-parts-9401.jpg",
+        "description": "TAPON DE EXPANSION / EN BLOCK DE MOTOR ENGINE PARTS 9401 Cummins 6C"
+    },
+    {
+        "id": "P4475",
+        "name": "ARANDELA BALANCIN DE MOTOR BLK DIESEL",
+        "brand": "Cummins",
+        "code": "9402",
+        "image": "img/products/6c 2/arandela-balancin-de-motor-blk-diesel-9402.jpg",
+        "description": "ARANDELA BALANCIN DE MOTOR BLK DIESEL 9402 Cummins 6C"
+    },
+    {
+        "id": "P4476",
+        "name": "RESORTE DE VALVULA DE ADMISION ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9404",
+        "image": "img/products/6c 2/resorte-de-valvula-de-admision-engine-parts-9404.jpg",
+        "description": "RESORTE DE VALVULA DE ADMISION ENGINE PARTS 9404 Cummins 6C"
+    },
+    {
+        "id": "P4477",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR HOLSET / AGUA INDUSTRIA ARGENTINA",
+        "brand": "Cummins",
+        "code": "9409",
+        "image": "img/products/6c 2/flexible-refrigeracion-de-compresor-holset-agua-industria-argentina-9409.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR HOLSET / AGUA INDUSTRIA ARGENTINA 9409 Cummins 6C"
+    },
+    {
+        "id": "P4478",
+        "name": "RETEN TOMA DE FUERZA TRASERA ENGINE PARTS",
+        "brand": "Cummins",
+        "code": "9412",
+        "image": "img/products/6c 2/reten-toma-de-fuerza-trasera-engine-parts-9412.jpg",
+        "description": "RETEN TOMA DE FUERZA TRASERA ENGINE PARTS 9412 Cummins 6C"
+    },
+    {
+        "id": "P4479",
+        "name": "JGO. REPARACION ARBOL DE LEVAS BLK DIESEL",
+        "brand": "Cummins",
+        "code": "9414",
+        "image": "img/products/6c 2/jgo-reparacion-arbol-de-levas-blk-diesel-9414.jpg",
+        "description": "JGO. REPARACION ARBOL DE LEVAS BLK DIESEL 9414 Cummins 6C"
+    },
+    {
+        "id": "P4480",
+        "name": "TAPA CILINDRO MARINGA",
+        "brand": "Cummins",
+        "code": "9450",
+        "image": "img/products/6c 2/tapa-cilindro-maringa-9450.jpg",
+        "description": "TAPA CILINDRO MARINGA 9450 Cummins 6C"
+    },
+    {
+        "id": "P4481",
+        "name": "CONECTOR MANGUERA COMBUSTIBLE BLK DIESEL",
+        "brand": "Cummins",
+        "code": "9468",
+        "image": "img/products/6c 2/conector-manguera-combustible-blk-diesel-9468.jpg",
+        "description": "CONECTOR MANGUERA COMBUSTIBLE BLK DIESEL 9468 Cummins 6C"
+    },
+    {
+        "id": "P4482",
+        "name": "VOLANTE DE MOTOR CON CORONA 365/380MM. / 138 DIENTES RMOSS",
+        "brand": "Cummins",
+        "code": "9789",
+        "image": "img/products/6c 2/volante-de-motor-con-corona-365-380mm-138-dientes-rmoss-9789.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 365/380MM. / 138 DIENTES RMOSS 9789 Cummins 6C"
     }
 ];
 
