@@ -493,6 +493,10 @@
 
     // Initial Setup
     populateFilters();
+    const initialQuery = new URLSearchParams(window.location.search).get('q');
+    if (initialQuery) {
+        searchInput.value = initialQuery;
+    }
     applyFilters(); // Initial render
 });
 

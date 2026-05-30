@@ -7,7 +7,7 @@
     <meta name="description"
         content="Venta de repuestos para camiones Mercedes Benz, Iveco, Ford, Scania y Sprinter. Solo retiro en local. Av Rioja 931 Sur.">
     <title>Zabala Repuestos | Mercedes, Iveco, Ford, Scania, Volkswagen</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=2">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
@@ -24,10 +24,10 @@
 
     <header class="main-header">
         <div class="container header-content">
-            <div class="logo">
-                <img src="img/camion_animado.png" id="truck-anim" class="truck-icon-header" alt="Camión de reparto">
+            <a class="logo logo-link" href="#inicio" aria-label="Zabala Repuestos, inicio">
+                <img src="img/camion_animado.png" id="truck-anim" class="truck-icon-header" alt="">
                 <h1>Zabala<span class="highlight">Repuestos</span></h1>
-            </div>
+            </a>
             <button class="hamburger" id="hamburger" aria-label="Toggle menu">
                 <span></span>
                 <span></span>
@@ -35,7 +35,7 @@
             </button>
             <nav class="main-nav" id="mainNav">
                 <ul>
-                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#inicio" class="active">Inicio</a></li>
                     <li><a href="nosotros.html">Nosotros</a></li>
                     <li><a href="catalogo.html">Catálogo</a></li>
                     <li><a href="#marcas">Marcas</a></li>
@@ -97,15 +97,37 @@
             </div>
         </div>
 
-
-
-
+        <section class="home-actions" aria-label="Accesos principales">
+            <div class="container home-actions-grid">
+                <a class="home-action" href="catalogo.html">
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path></svg>
+                    <span>
+                        <strong>Buscar un repuesto</strong>
+                        <small>Explorá el catálogo por motor, camión o código.</small>
+                    </span>
+                </a>
+                <a class="home-action" href="cotizar.html">
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h14v13H8l-3 3V4Z"></path><path d="M8 8h8M8 12h6"></path></svg>
+                    <span>
+                        <strong>Pedir una cotización</strong>
+                        <small>Consultanos por la pieza que necesitás.</small>
+                    </span>
+                </a>
+                <a class="home-action" href="#ubicacion">
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-5.2 7-12a7 7 0 0 0-14 0c0 6.8 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.5"></circle></svg>
+                    <span>
+                        <strong>Visitar el local</strong>
+                        <small>Av Rioja 931 Sur, San Juan.</small>
+                    </span>
+                </a>
+            </div>
+        </section>
 
         <section id="marcas" class="brands-section">
             <div class="container">
                 <h2 class="section-title">Nuestras Marcas</h2>
                 <div class="brands-grid">
-                    <div class="brand-card flip-card">
+                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Mercedes+Benz" aria-label="Ver repuestos Mercedes Benz">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
                                 <div class="brand-logo">Mercedes Benz</div>
@@ -114,8 +136,8 @@
                                 <img src="mercedes_logo.png" alt="Mercedes Benz Logo" class="back-logo">
                             </div>
                         </div>
-                    </div>
-                    <div class="brand-card flip-card">
+                    </a>
+                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Iveco" aria-label="Ver repuestos Iveco">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
                                 <div class="brand-logo">Iveco</div>
@@ -124,8 +146,8 @@
                                 <img src="iveco_logo.png" alt="Iveco Logo" class="back-logo">
                             </div>
                         </div>
-                    </div>
-                    <div class="brand-card flip-card">
+                    </a>
+                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Ford" aria-label="Ver repuestos Ford">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
                                 <div class="brand-logo">Ford</div>
@@ -134,8 +156,8 @@
                                 <img src="ford_logo.png" alt="Ford Logo" class="back-logo">
                             </div>
                         </div>
-                    </div>
-                    <div class="brand-card flip-card">
+                    </a>
+                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Scania" aria-label="Ver repuestos Scania">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
                                 <div class="brand-logo">Scania</div>
@@ -144,8 +166,8 @@
                                 <img src="scania_logo.png" alt="Scania Logo" class="back-logo">
                             </div>
                         </div>
-                    </div>
-                    <div class="brand-card flip-card">
+                    </a>
+                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Volkswagen" aria-label="Ver repuestos Volkswagen">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
                                 <div class="brand-logo">Volkswagen</div>
@@ -154,8 +176,8 @@
                                 <img src="volkswagen_logo.png" alt="Volkswagen Logo" class="back-logo">
                             </div>
                         </div>
-                    </div>
-                    <div class="brand-card flip-card">
+                    </a>
+                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Sprinter" aria-label="Ver repuestos Sprinter">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
                                 <div class="brand-logo">Sprinter</div>
@@ -164,7 +186,7 @@
                                 <img src="sprinter_logo.png" alt="Sprinter Logo" class="back-logo">
                             </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
             </div>
         </section>
@@ -182,48 +204,48 @@
 
                     <div class="products-carousel">
                         <div class="products-track">
-                            <div class="product-card">
+                            <a class="product-card product-card-link" href="catalogo.html?q=motor">
                                 <div class="product-image">
                                     <img src="motores.jpg" alt="Motores y Componentes">
                                 </div>
                                 <h3 class="product-title">Motores y Componentes</h3>
-                            </div>
-                            <div class="product-card">
+                            </a>
+                            <a class="product-card product-card-link" href="catalogo.html?q=embrague">
                                 <div class="product-image">
                                     <img src="embragues.jpg" alt="Embragues">
                                 </div>
                                 <h3 class="product-title">Embragues</h3>
-                            </div>
-                            <div class="product-card">
+                            </a>
+                            <a class="product-card product-card-link" href="catalogo.html?q=transmision">
                                 <div class="product-image">
                                     <img src="transmision.jpg" alt="Transmisión">
                                 </div>
                                 <h3 class="product-title">Transmisión</h3>
-                            </div>
-                            <div class="product-card">
+                            </a>
+                            <a class="product-card product-card-link" href="catalogo.html?q=carroceria">
                                 <div class="product-image">
                                     <img src="carroceria.jpg" alt="Carrocería">
                                 </div>
                                 <h3 class="product-title">Carrocería</h3>
-                            </div>
-                            <div class="product-card">
+                            </a>
+                            <a class="product-card product-card-link" href="catalogo.html?q=freno">
                                 <div class="product-image">
                                     <img src="frenos.jpg" alt="Frenos">
                                 </div>
                                 <h3 class="product-title">Frenos</h3>
-                            </div>
-                            <div class="product-card">
+                            </a>
+                            <a class="product-card product-card-link" href="catalogo.html?q=refrigeracion">
                                 <div class="product-image">
                                     <img src="refrigeracion.jpg" alt="Refrigeración">
                                 </div>
                                 <h3 class="product-title">Refrigeración</h3>
-                            </div>
-                            <div class="product-card">
+                            </a>
+                            <a class="product-card product-card-link" href="catalogo.html?q=electricidad">
                                 <div class="product-image">
                                     <img src="sistema_electrico.jpg" alt="Sistema eléctrico">
                                 </div>
                                 <h3 class="product-title">Sistema eléctrico</h3>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -450,6 +472,19 @@
                             <h3>Horarios</h3>
                             <p>Lunes a Viernes: 8:30 - 13:00 / 16:00 - 19:30</p>
                             <p>Sábados: 9:00 - 13:00</p>
+                        </div>
+                        <div class="location-actions">
+                            <a class="location-action location-action-primary"
+                                href="https://www.google.com/maps/search/?api=1&query=Zabala+Repuestos+Av+Rioja+931+Sur+San+Juan"
+                                target="_blank" rel="noopener noreferrer">
+                                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-5.2 7-12a7 7 0 0 0-14 0c0 6.8 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.5"></circle></svg>
+                                Cómo llegar
+                            </a>
+                            <a class="location-action" href="https://wa.me/5492645859764" target="_blank"
+                                rel="noopener noreferrer">
+                                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-11.8 7L4 20l1.5-4.1A8 8 0 1 1 20 11.5Z"></path><path d="M9 9.5c.8 2 2 3.2 4 4"></path></svg>
+                                Consultar por WhatsApp
+                            </a>
                         </div>
                     </div>
                     <div class="map-container">
