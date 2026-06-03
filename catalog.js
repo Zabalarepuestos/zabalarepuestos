@@ -6,12 +6,18 @@
     const filterCategory = document.getElementById('filterCategory');
     const filterBrand = document.getElementById('filterBrand');
     const clearFiltersBtn = document.getElementById('clearFiltersBtn');
+    const activeFilters = document.getElementById('activeFilters');
+    const loadMoreBtn = document.getElementById('loadMoreBtn');
     const voiceSearchBtn = document.getElementById('voiceSearchBtn'); // Ensure this is selected if used
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
     const INITIAL_RENDER_LIMIT = 96;
     const RESULT_RENDER_LIMIT = 240;
+    const LOAD_MORE_INCREMENT = 120;
     const SEARCH_DEBOUNCE_MS = 140;
+    const FALLBACK_IMAGE = 'parts_image.png';
     let searchTimer = null;
+    let currentProducts = [];
+    let currentRenderLimit = INITIAL_RENDER_LIMIT;
     let productsStatus = document.getElementById('productsStatus');
 
     if (!productsStatus && productGrid) {
@@ -30,9 +36,9 @@
 
     // Simplified consolidated category mapping. Keywords are normalized before matching.
     const categoryMapping = {
-        "MOTOR": ["MOTOR", "BLOCK", "CIGUEÑAL", "CIGUENAL", "DISTRIBUCION", "JUNTA", "RETEN", "TAPA CILINDRO", "VALVULA", "SOPORTE MOTOR", "PISTON", "BIELA", "CAMISA", "CARTER", "MULTIPLE", "ESCAPE"],
-        "INYECCION Y TURBO": ["INYECCION", "INYECTOR", "TOBERA", "BOMBA INYECTORA", "TURBO", "TURBINA", "COMBUSTIBLE", "GAS OIL", "ACELERADOR", "ACELERACION"],
-        "REFRIGERACION": ["REFRIGERACION", "RADIADOR", "BOMBA AGUA", "CALEFACCION", "VENTILADOR", "TERMOSTATO", "VISCOSO", "MANGUERA AGUA", "DEPOSITO AGUA"],
+        "MOTOR": ["MOTOR", "BLOCK", "CIGUEÑAL", "CIGUENAL", "DISTRIBUCION", "JUNTA", "JGO JUNTA", "JTA", "RETEN", "TAPA CILINDRO", "VALVULA MOTOR", "SOPORTE MOTOR", "PISTON", "BIELA", "CAMISA", "CARTER", "MULTIPLE", "ESCAPE"],
+        "INYECCION Y TURBO": ["INYECCION", "INYECTOR", "TOBERA", "BOMBA INYECTORA", "TURBO", "TURBINA", "COMBUSTIBLE", "GAS OIL", "GASOIL", "DIESEL", "ACELERADOR", "ACELERACION"],
+        "REFRIGERACION": ["REFRIGERACION", "RADIADOR", "BOMBA AGUA", "CALEFACCION", "VENTILADOR", "TERMOSTATO", "VISCOSO", "MANGUERA AGUA", "DEPOSITO AGUA", "REFRIGERANTE"],
         "TRANSMISION Y EMBRAGUE": ["EMBRAGUE", "CAJA", "VELOCIDAD", "EJE", "CARDAN", "DIFERENCIAL", "TRANSMISION", "RUEDA", "CRAPODINA", "HORQUILLA", "SINCRONIZADO", "DIRECTA", "PALIER"],
         "FRENOS Y AIRE": ["FRENO", "COMPRESOR", "VALVULA", "CAMARA", "AIRE", "PEDALERA", "TRISTOP", "SECADOR", "PULMON", "REGISTRO"],
         "SUSPENSION Y DIRECCION": ["DIRECCION", "SUSPENSION", "ELASTICO", "AMORTIGUADOR", "TREN DELANTERO", "BARRA", "BUJE", "ROTULA", "EXTREMO"],
@@ -97,6 +103,43 @@
             .replace(/[^a-z0-9]+/g, ' ')
             .trim()
             .replace(/\s+/g, ' ');
+    }
+
+    const querySynonyms = new Map([
+        ["f", ["filtro"]],
+        ["filtro", ["f"]],
+        ["aceite", ["lubricacion"]],
+        ["gas oil", ["gasoil", "combustible", "diesel"]],
+        ["gasoil", ["gas oil", "combustible", "diesel"]],
+        ["diesel", ["gas oil", "gasoil", "combustible"]],
+        ["jgo", ["juego"]],
+        ["juego", ["jgo"]],
+        ["jta", ["junta"]],
+        ["junta", ["jta"]],
+        ["reten", ["retentor"]],
+        ["retentor", ["reten"]],
+        ["manguera", ["flexible"]],
+        ["flexible", ["manguera"]],
+        ["crapodina", ["ruleman empuje"]],
+        ["ruleman", ["rodamiento"]],
+        ["rodamiento", ["ruleman"]],
+        ["electro", ["electrico", "electromagnetico"]],
+        ["electrico", ["electro"]],
+        ["mb", ["mercedes benz"]]
+    ]);
+
+    function termAlternatives(term) {
+        const alternatives = [term];
+        const synonyms = querySynonyms.get(term);
+
+        if (synonyms) {
+            alternatives.push(...synonyms.map(normalizeText));
+        }
+
+        return [...new Set(alternatives)].map(text => ({
+            text,
+            compact: text.replace(/\s+/g, '')
+        }));
     }
 
     const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
@@ -177,7 +220,8 @@
             compact,
             terms: text ? text.split(' ').map(term => ({
                 text: term,
-                compact: term.replace(/\s+/g, '')
+                compact: term.replace(/\s+/g, ''),
+                alternatives: termAlternatives(term)
             })) : []
         };
     }
@@ -187,8 +231,14 @@
     function matchesSearchQuery(indexedProduct, queryIndex) {
         if (!queryIndex.text) return true;
 
+        if (includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, queryIndex.text, queryIndex.compact)) {
+            return true;
+        }
+
         return queryIndex.terms.every(term =>
-            includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, term.text, term.compact)
+            term.alternatives.some(alternative =>
+                includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, alternative.text, alternative.compact)
+            )
         );
     }
 
@@ -319,8 +369,62 @@
         }
 
         productsStatus.textContent = isLimited
-            ? `Mostrando ${visibleCount} de ${totalCount} productos. Refiná la búsqueda para ver resultados más precisos.`
+            ? `Mostrando ${visibleCount} de ${totalCount} productos.`
             : `Mostrando ${visibleCount} productos.`;
+    }
+
+    function updateLoadMoreButton(visibleCount, totalCount) {
+        if (!loadMoreBtn) return;
+
+        const remaining = Math.max(totalCount - visibleCount, 0);
+        loadMoreBtn.style.display = remaining > 0 ? 'inline-flex' : 'none';
+        loadMoreBtn.textContent = remaining > 0
+            ? `Ver ${Math.min(LOAD_MORE_INCREMENT, remaining)} productos más`
+            : 'Ver más productos';
+    }
+
+    function createFilterChip(label, value, onRemove) {
+        if (!activeFilters || !value) return;
+
+        const chip = document.createElement('span');
+        chip.className = 'filter-chip';
+        chip.textContent = `${label}: ${value}`;
+
+        const removeButton = document.createElement('button');
+        removeButton.type = 'button';
+        removeButton.setAttribute('aria-label', `Quitar ${label}`);
+        removeButton.textContent = '×';
+        removeButton.addEventListener('click', onRemove);
+
+        chip.appendChild(removeButton);
+        activeFilters.appendChild(chip);
+    }
+
+    function updateActiveFilters() {
+        if (!activeFilters) return;
+
+        activeFilters.textContent = '';
+        createFilterChip('Búsqueda', searchInput.value.trim(), () => {
+            searchInput.value = '';
+            applyFilters();
+            searchInput.focus();
+        });
+        createFilterChip('Motor', filterEngine.value, () => {
+            filterEngine.value = '';
+            applyFilters();
+        });
+        createFilterChip('Camión', filterTruck.value, () => {
+            filterTruck.value = '';
+            applyFilters();
+        });
+        createFilterChip('Rubro', filterCategory.value, () => {
+            filterCategory.value = '';
+            applyFilters();
+        });
+        createFilterChip('Marca', filterBrand.value, () => {
+            filterBrand.value = '';
+            applyFilters();
+        });
     }
 
     // Function to render products
@@ -330,6 +434,7 @@
         if (filteredProducts.length === 0) {
             productGrid.innerHTML = '<div class="no-results"><h3>No se encontraron productos</h3><p>Probá con otro código, motor, rubro o marca.</p></div>';
             updateProductsStatus(0, 0, false);
+            updateLoadMoreButton(0, 0);
             return;
         }
 
@@ -344,21 +449,24 @@
             productCard.className = 'product-item';
             productCard.title = product.name;
             productCard.dataset.productId = product.id;
+            productCard.tabIndex = 0;
+            productCard.setAttribute('role', 'link');
+            productCard.setAttribute('aria-label', `Ver detalles de ${product.name}`);
 
             // Handle missing image
-            const imgPath = product.image || 'img/no-image.jpg';
+            const imgPath = product.image || FALLBACK_IMAGE;
             const safeName = escapeHtml(product.name);
             const safeBrand = escapeHtml(product.brand || '');
             const safeCode = escapeHtml(product.code || '');
             const safeRubro = escapeHtml(product.rubro || '');
 
             productCard.innerHTML = `
-                <img src="${escapeHtml(imgPath)}" alt="${safeName}" class="product-item-img" loading="lazy" decoding="async" onerror="this.src='img/no-image.jpg'"> <!-- Fallback for broken image -->
+                <img src="${escapeHtml(imgPath)}" alt="${safeName}" class="product-item-img" loading="lazy" decoding="async" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}'">
                 <div class="product-item-info">
                     <span class="product-item-brand">${safeBrand}</span>
                     <h3 class="product-item-name">${safeName}</h3>
                     <p class="product-item-code">Código: ${safeCode}</p>
-                    ${product.rubro ? `<p class="product-item-category" style="font-size: 0.8rem; color: #94a3b8; margin-top: auto; margin-bottom: 10px;">${safeRubro}</p>` : ''}
+                    ${product.rubro ? `<p class="product-item-category">${safeRubro}</p>` : ''}
                     <div class="btn-detail">Ver detalles</div>
                 </div>
             `;
@@ -366,12 +474,23 @@
         });
 
         productGrid.appendChild(fragment);
+        updateLoadMoreButton(productsToRender.length, filteredProducts.length);
     }
 
     productGrid.addEventListener('click', (event) => {
         const productCard = event.target.closest('.product-item');
         if (!productCard || !productCard.dataset.productId) return;
 
+        window.location.href = `producto.html?id=${productCard.dataset.productId}`;
+    });
+
+    productGrid.addEventListener('keydown', (event) => {
+        if (event.key !== 'Enter' && event.key !== ' ') return;
+
+        const productCard = event.target.closest('.product-item');
+        if (!productCard || !productCard.dataset.productId) return;
+
+        event.preventDefault();
         window.location.href = `producto.html?id=${productCard.dataset.productId}`;
     });
 
@@ -418,9 +537,11 @@
                 .map(item => item.product)
             : filteredProducts.map(indexedProduct => indexedProduct.product);
 
-        const renderLimit = shouldLimitInitialView ? INITIAL_RENDER_LIMIT : RESULT_RENDER_LIMIT;
+        currentProducts = rankedProducts;
+        currentRenderLimit = shouldLimitInitialView ? INITIAL_RENDER_LIMIT : RESULT_RENDER_LIMIT;
 
-        renderProducts(rankedProducts, renderLimit);
+        updateActiveFilters();
+        renderProducts(currentProducts, currentRenderLimit);
     }
 
     function scheduleFilters() {
@@ -443,6 +564,13 @@
         filterBrand.value = '';
         applyFilters();
     });
+
+    if (loadMoreBtn) {
+        loadMoreBtn.addEventListener('click', () => {
+            currentRenderLimit += LOAD_MORE_INCREMENT;
+            renderProducts(currentProducts, currentRenderLimit);
+        });
+    }
 
     // Voice Search Functionality
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -469,7 +597,7 @@
 
             recognition.onend = () => {
                 voiceSearchBtn.classList.remove('listening');
-                searchInput.placeholder = "Buscar por nombre o código...";
+                searchInput.placeholder = "Buscar por código, motor, modelo o repuesto...";
             };
 
             recognition.onresult = (event) => {

@@ -1,4 +1,4 @@
-﻿const products = [
+const products = [
     {
         "id": "P001",
         "name": "ELEMENTO F/ACEITE 1114/1517/1518 OM352",
@@ -42466,6 +42466,2553 @@
         "code": "9759",
         "image": "img/products/om457 2/filtro-de-urea-hengst-9759.jpg",
         "description": "FILTRO DE UREA HENGST 9759 Mercedes Benz OM457"
+    },
+    {
+        "id": "P4916",
+        "name": "FLEXIBLE SALIDA DE AGUA DE COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9770",
+        "image": "img/products/Flexibles/flexible-salida-de-agua-de-compresor-industria-argentina-9770.jpg",
+        "description": "FLEXIBLE SALIDA DE AGUA DE COMPRESOR INDUSTRIA ARGENTINA 9770 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (95-98) FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA / 6.10 TCA FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 13180 / 15180 / 17210 y Bus 9150 OD / 17210 OD Código Original / Similar: 2RD/121072 (VW) 941009390034 (MWM) BF5X/2K935/A (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4917",
+        "name": "FLEXIBLE DE COMBUSTIBLE DESDE BOMBA A SOPORTE CENTRAL ELECTRONICA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9749",
+        "image": "img/products/Flexibles/flexible-de-combustible-desde-bomba-a-soporte-central-electronica-industria-argentina-9749.jpg",
+        "description": "FLEXIBLE DE COMBUSTIBLE DESDE BOMBA A SOPORTE CENTRAL ELECTRONICA INDUSTRIA ARGENTINA 9749 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S36 AD EUROTRONIC / 460 S33T AT / 460 S36T AT EUROTRONIC / 530 S36T AT EUROTRONIC / TRAKKER 310 T36 AD Código Original / Similar: 504365800 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4918",
+        "name": "CONECTOR MACHO FLEXIBLE LUBRICACION DE TURBO ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "9396",
+        "image": "img/products/Flexibles/conector-macho-flexible-lubricacion-de-turbo-engine-parts-9396.jpg",
+        "description": "CONECTOR MACHO FLEXIBLE LUBRICACION DE TURBO ENGINE PARTS 9396 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / F 100 (+06) / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E Código Original / Similar: 2R0/115406/B (VW) 3932445 (Cummins) BG5X/6073/CA (FORD) ROSCA 10MM Y 17MM.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P4919",
+        "name": "FLEXIBLE SISTEMA DE UREA 2560MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9374",
+        "image": "img/products/Flexibles/flexible-sistema-de-urea-2560mm-rigiflex-9374.jpg",
+        "description": "FLEXIBLE SISTEMA DE UREA 2560MM. RIGIFLEX 9374 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OF 1519 / OF 1721 / OF 1724 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA / OM 926 LA Código Original / Similar: 384.476.1401 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4920",
+        "name": "FLEXIBLE SISTEMA DE UREA 310MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9375",
+        "image": "img/products/Flexibles/flexible-sistema-de-urea-310mm-rigiflex-9375.jpg",
+        "description": "FLEXIBLE SISTEMA DE UREA 310MM. RIGIFLEX 9375 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OF 1519 / OF 1721 / OF 1724 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA / OM 926 LA Código Original / Similar: 384.476.1501 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4921",
+        "name": "FLEXIBLE SISTEMA DE UREA 2600MM. / CONECTORES IGUALES RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9376",
+        "image": "img/products/Flexibles/flexible-sistema-de-urea-2600mm-conectores-iguales-rigiflex-9376.jpg",
+        "description": "FLEXIBLE SISTEMA DE UREA 2600MM. / CONECTORES IGUALES RIGIFLEX 9376 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OF 1519 / OF 1721 / OF 1724 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA / OM 926 LA Código Original / Similar: 384.476.3401 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4922",
+        "name": "FLEXIBLE SISTEMA DE UREA 2600MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9377",
+        "image": "img/products/Flexibles/flexible-sistema-de-urea-2600mm-rigiflex-9377.jpg",
+        "description": "FLEXIBLE SISTEMA DE UREA 2600MM. RIGIFLEX 9377 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OF 1519 / OF 1721 / OF 1724 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA / OM 926 LA Código Original / Similar: 384.476.3301 (MB) 1 CONECTOR GRANDE / 1 CONECTOR CHICO",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4923",
+        "name": "FLEXIBLE LEVANTA CABINA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9340",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-industria-argentina-9340.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA INDUSTRIA ARGENTINA 9340 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO CAVALLINO 450 E32T / 450 E32TY / EUROCARGO TECTOR 170 E22 / 170 E24 / 230 E22 / 230 E24 Código Original / Similar: 99464832 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4924",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9341",
+        "image": "img/products/Flexibles/flexible-refrigeracion-de-compresor-industria-argentina-9341.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR INDUSTRIA ARGENTINA 9341 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1624 / ATRON 1624 Código Original / Similar: 906.203.7602 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4925",
+        "name": "FLEXIBLE DE EMBRAGUE / DEL CILINDRO TRANSMISOR AL SERVOEMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9342",
+        "image": "img/products/Flexibles/flexible-de-embrague-del-cilindro-transmisor-al-servoembrague-industria-argentina-9342.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE / DEL CILINDRO TRANSMISOR AL SERVOEMBRAGUE INDUSTRIA ARGENTINA 9342 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 / LS 1634 / L 1634 EL / LS 1634 EL Código Original / Similar: 695.295.0035 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4926",
+        "name": "FLEXIBLE DE EMBRAGUE / DEL CILINDRO TRANSMISOR AL RECEPTOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9343",
+        "image": "img/products/Flexibles/flexible-de-embrague-del-cilindro-transmisor-al-receptor-industria-argentina-9343.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE / DEL CILINDRO TRANSMISOR AL RECEPTOR INDUSTRIA ARGENTINA 9343 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 815 / 1016 / 915C / ATEGO 1418 / 1725 / 2425/48 y Bus LO 916/45 Código Original / Similar: 000.250.1266 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4927",
+        "name": "FLEXIBLE RADIADOR DE ACEITE DE LA CAJA DE CAMBIO / LADO DERECHO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9329",
+        "image": "img/products/Flexibles/flexible-radiador-de-aceite-de-la-caja-de-cambio-lado-derecho-industria-argentina-9329.jpg",
+        "description": "FLEXIBLE RADIADOR DE ACEITE DE LA CAJA DE CAMBIO / LADO DERECHO INDUSTRIA ARGENTINA 9329 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 / LS 1634 / L 1634 EL / LS 1634 EL Código Original / Similar: 695.260.0085 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4928",
+        "name": "FLEXIBLE RADIADOR DE ACEITE DE LA CAJA DE CAMBIO / LADO IZQUIERDO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9330",
+        "image": "img/products/Flexibles/flexible-radiador-de-aceite-de-la-caja-de-cambio-lado-izquierdo-industria-argentina-9330.jpg",
+        "description": "FLEXIBLE RADIADOR DE ACEITE DE LA CAJA DE CAMBIO / LADO IZQUIERDO INDUSTRIA ARGENTINA 9330 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 / LS 1634 / L 1634 EL / LS 1634 EL Código Original / Similar: 695.260.0185 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4929",
+        "name": "FLEXIBLE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9308",
+        "image": "img/products/Flexibles/flexible-embrague-industria-argentina-9308.jpg",
+        "description": "FLEXIBLE EMBRAGUE INDUSTRIA ARGENTINA 9308 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 26260 / 26310 / 17250 E / 26260 E (+2008) Código Original / Similar: 2UU/721479 (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4930",
+        "name": "FLEXIBLE DIRECCION HIDRAULICA (DE BOMBA A CAJA DE DIRECCION) RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9244",
+        "image": "img/products/Flexibles/flexible-direccion-hidraulica-de-bomba-a-caja-de-direccion-rigiflex-9244.jpg",
+        "description": "FLEXIBLE DIRECCION HIDRAULICA (DE BOMBA A CAJA DE DIRECCION) RIGIFLEX 9244 Rigiflex Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 906.466.3281 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4931",
+        "name": "FLEXIBLE CILINDRO MAESTRO DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "9246",
+        "image": "img/products/Flexibles/flexible-cilindro-maestro-de-embrague-imp-9246.jpg",
+        "description": "FLEXIBLE CILINDRO MAESTRO DE EMBRAGUE IMP. 9246 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 Código Original / Similar: 2UH/721479 (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4932",
+        "name": "FLEXIBLE DEL CHUPADOR DEL TANQUE DE COMBUSTIBLE A LA TRAMPA DE AGUA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8983",
+        "image": "img/products/Flexibles/flexible-del-chupador-del-tanque-de-combustible-a-la-trampa-de-agua-rigiflex-8983.jpg",
+        "description": "FLEXIBLE DEL CHUPADOR DEL TANQUE DE COMBUSTIBLE A LA TRAMPA DE AGUA RIGIFLEX 8983 Rigiflex Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford C1722 / C1932 / C2632 Código Original / Similar: 9C45/9323/CB (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4933",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 765MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8947",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-765mm-tf-p-technology-8947.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 765MM. TF&P TECHNOLOGY 8947 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.371.207 / 1.526.571 (SC) 2.142.433 / 1.851.212 (SC) W 8066 (INDUSTRIA ARGENTINA)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4934",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 4145MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8948",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-4145mm-tf-p-technology-8948.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 4145MM. TF&P TECHNOLOGY 8948 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 Código Original / Similar: 1.371.208 / 1.526.572 (SC) 2.142.423 / 1.851.212 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4935",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 4040MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8949",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-4040mm-tf-p-technology-8949.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 4040MM. TF&P TECHNOLOGY 8949 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.371.201 / 1.526.570 / 2.142.438 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4936",
+        "name": "FLEXIBLE SUMINISTRO COMBUSTIBLE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8933",
+        "image": "img/products/Flexibles/flexible-suministro-combustible-rigiflex-8933.jpg",
+        "description": "FLEXIBLE SUMINISTRO COMBUSTIBLE RIGIFLEX 8933 Rigiflex Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915 / 1317 / 1517 / 1722 / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E Código Original / Similar: 2T2/130085/G (VW) 3964167 (Cummins) BG5X/9C520/DA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4937",
+        "name": "FLEXIBLE ESCAPE / 3.5″ X 278MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8627",
+        "image": "img/products/Flexibles/flexible-escape-3-5-x-278mm-tf-p-technology-8627.jpg",
+        "description": "FLEXIBLE ESCAPE / 3.5″ X 278MM. TF&P TECHNOLOGY 8627 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K Código Original / Similar: 958.490.0065 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4938",
+        "name": "FLEXIBLE ESCAPE / 3″ X 270MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8628",
+        "image": "img/products/Flexibles/flexible-escape-3-x-270mm-tf-p-technology-8628.jpg",
+        "description": "FLEXIBLE ESCAPE / 3″ X 270MM. TF&P TECHNOLOGY 8628 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / OH 1621-55 / OH 1721-62 Código Original / Similar: 368.490.0165 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4939",
+        "name": "FLEXIBLE ENTRADA AGUA COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8454",
+        "image": "img/products/Flexibles/flexible-entrada-agua-compresor-rigiflex-8454.jpg",
+        "description": "FLEXIBLE ENTRADA AGUA COMPRESOR RIGIFLEX 8454 Rigiflex Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 Código Original / Similar: 3977447 (Cummins) BG6X/2910/BA / BH0X/2910/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4940",
+        "name": "FLEXIBLE DIRECCION HIDRAULICA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8456",
+        "image": "img/products/Flexibles/flexible-direccion-hidraulica-rigiflex-8456.jpg",
+        "description": "FLEXIBLE DIRECCION HIDRAULICA RIGIFLEX 8456 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1634 EL / LS 1634 EL / 1718 M / AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K Código Original / Similar: 000.466.0559 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P4941",
+        "name": "FLEXIBLE DE TUBERIA DE PRESION A LA BOMBA DE DIRECCION HIDRAULICA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8458",
+        "image": "img/products/Flexibles/flexible-de-tuberia-de-presion-a-la-bomba-de-direccion-hidraulica-rigiflex-8458.jpg",
+        "description": "FLEXIBLE DE TUBERIA DE PRESION A LA BOMBA DE DIRECCION HIDRAULICA RIGIFLEX 8458 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / 2425 Código Original / Similar: 970.997.0282 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P4942",
+        "name": "FLEXIBLE LUBRICACION COMPRESOR / ACEITE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8447",
+        "image": "img/products/Flexibles/flexible-lubricacion-compresor-aceite-rigiflex-8447.jpg",
+        "description": "FLEXIBLE LUBRICACION COMPRESOR / ACEITE RIGIFLEX 8447 Rigiflex Vehículos compatibles: IVECO: Camiones EUROCARGO 120 E15 / 150 E20N / 150 E20T / 160 E21 / 160 E23 Código Original / Similar: 2997255 / 98424277 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4943",
+        "name": "FLEXIBLE COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8448",
+        "image": "img/products/Flexibles/flexible-compresor-rigiflex-8448.jpg",
+        "description": "FLEXIBLE COMPRESOR RIGIFLEX 8448 Rigiflex Vehículos compatibles: IVECO: Camiones EUROTECH CURSOR 190 E31 / 450 E31T Código Original / Similar: 2997061 / 500321869 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4944",
+        "name": "FLEXIBLE RETORNO INYECTORES RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8449",
+        "image": "img/products/Flexibles/flexible-retorno-inyectores-rigiflex-8449.jpg",
+        "description": "FLEXIBLE RETORNO INYECTORES RIGIFLEX 8449 Rigiflex Vehículos compatibles: IVECO: Camiones 150 ASPIRADO / 150 N TURBO / 150 T TURBO Código Original / Similar:",
+        "rubro": "SIST. ALIMENT. COMBUSTIBLE"
+    },
+    {
+        "id": "P4945",
+        "name": "FLEXIBLE EMBRAGUE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8450",
+        "image": "img/products/Flexibles/flexible-embrague-rigiflex-8450.jpg",
+        "description": "FLEXIBLE EMBRAGUE RIGIFLEX 8450 Rigiflex Vehículos compatibles: IVECO: Camiones FIAT 190 29N / 190 29T / 190 33N / 190 33T / EUROCARGO 120 E15 / 150 E20N / 150 E20T / 160 E21 / 160 E23 Código Original / Similar: 98464157 / 98479186 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4946",
+        "name": "FLEXIBLE DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "8414",
+        "image": "img/products/Flexibles/flexible-de-embrague-industria-argentina-8414.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE INDUSTRIA ARGENTINA 8414 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 6.10 TCA _x000D_ VW 13180 / 15180 (+2005) Código Original / Similar: 2S0/721471 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4947",
+        "name": "FLEXIBLE SERVOEMBRAGUE A CILINDRO MAESTRO DE EMBRAGUE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8408",
+        "image": "img/products/Flexibles/flexible-servoembrague-a-cilindro-maestro-de-embrague-rigiflex-8408.jpg",
+        "description": "FLEXIBLE SERVOEMBRAGUE A CILINDRO MAESTRO DE EMBRAGUE RIGIFLEX 8408 Rigiflex Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e Código Original / Similar: XC45/7K610/AB / XC45/7K610/AD (FORD / VW / CUMMINS / MWM) XC45/7K610/AE / XC45/7K610/AF (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P4948",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 1020MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "8327",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-1020mm-industria-argentina-8327.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 1020MM. INDUSTRIA ARGENTINA 8327 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 38T HR / ATN / 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42T / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T Código Original / Similar: 41029128 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4949",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA BASCULANTE CIPEC",
+        "brand": "Cipec",
+        "code": "8127",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-basculante-cipec-8127.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA BASCULANTE CIPEC 8127 Cipec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.371.201 / 1.526.570 / 2.142.438 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4950",
+        "name": "FLEXIBLE ESCAPE / DIAM. 4 1/2 X 275MM. UGR",
+        "brand": "UGR",
+        "code": "8038",
+        "image": "img/products/Flexibles/flexible-escape-diam-4-1-2-x-275mm-ugr-8038.jpg",
+        "description": "FLEXIBLE ESCAPE / DIAM. 4 1/2 X 275MM. UGR 8038 UGR Vehículos compatibles: MERCEDES BENZ: Bus 0500 R / 0500 RS / 0500 RSD / 0500 MA 2836 Código Original / Similar: 634.490.0565 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4951",
+        "name": "FLEXIBLE COMBUSTIBLE DE VALVULA AL PLD RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "7691",
+        "image": "img/products/Flexibles/flexible-combustible-de-valvula-al-pld-rigiflex-7691.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE DE VALVULA AL PLD RIGIFLEX 7691 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA Código Original / Similar: 906.070.1832 / 906.070.3432 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4952",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA CIPEC",
+        "brand": "Cipec",
+        "code": "7580",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-cipec-7580.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA CIPEC 7580 Cipec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.371.200/ 1.526.569/ 2.142.436/ 40.669 (SC) W 8082 (INDUSTRIA ARGENTINA)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4953",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 1460MM. CIPEC",
+        "brand": "Cipec",
+        "code": "7581",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-1460mm-cipec-7581.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 1460MM. CIPEC 7581 Cipec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.371.206 / 1.426.339 (SC) 1.526.573 / 2.142.425 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4954",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 640MM. CIPEC",
+        "brand": "Cipec",
+        "code": "7582",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-640mm-cipec-7582.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 640MM. CIPEC 7582 Cipec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.371.207 / 1.526.571 (SC) 2.142.433 / 1.851.212 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4955",
+        "name": "FLEXIBLE INTERMEDIO ESCAPE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7317",
+        "image": "img/products/Flexibles/flexible-intermedio-escape-tf-p-technology-7317.jpg",
+        "description": "FLEXIBLE INTERMEDIO ESCAPE TF&P TECHNOLOGY 7317 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 Código Original / Similar: 1.734.040 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4956",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M16 X M16 X 3550MM. RIGITEC",
+        "brand": "Rigitec",
+        "code": "7256",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-m16-x-m16-x-3550mm-rigitec-7256.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M16 X M16 X 3550MM. RIGITEC 7256 Rigitec Vehículos compatibles: IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ Código Original / Similar: 5801314611 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4957",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M14 X M14 X 3570MM. RIGITEC",
+        "brand": "Rigitec",
+        "code": "7257",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-m14-x-m14-x-3570mm-rigitec-7257.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M14 X M14 X 3570MM. RIGITEC 7257 Rigitec Vehículos compatibles: IVECO: Camiones EUROCARGO TECTOR 260 E25 / STRALIS ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38TP / ATN 490 S38HR / ATN 490 S42T / ATN 490 S42HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / TECTOR 260 E25 / TRAKKER 380 T38 / NUEVO TRAKKER 380 T38 / 380 T42 / 720 T42T Código Original / Similar: 5801328649 / 503347713 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4958",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / OJAL 13MM. / M14 X 3320MM. RIGITEC",
+        "brand": "Rigitec",
+        "code": "7258",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-ojal-13mm-m14-x-3320mm-rigitec-7258.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / OJAL 13MM. / M14 X 3320MM. RIGITEC 7258 Rigitec Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 Código Original / Similar: 5801324573 / 503100664 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4959",
+        "name": "FLEXIBLE DE CILINDRO A BOMBIN EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "7263",
+        "image": "img/products/Flexibles/flexible-de-cilindro-a-bombin-embrague-industria-argentina-7263.jpg",
+        "description": "FLEXIBLE DE CILINDRO A BOMBIN EMBRAGUE INDUSTRIA ARGENTINA 7263 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 Código Original / Similar: 2C34/7C522/CB (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P4960",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / GUIA IZQUIERDA RIGITEC",
+        "brand": "Rigitec",
+        "code": "7251",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-guia-izquierda-rigitec-7251.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / GUIA IZQUIERDA RIGITEC 7251 Rigitec Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Código Original / Similar: 2T2/721482/C (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4961",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M14 X 2250MM. RIGITEC",
+        "brand": "Rigitec",
+        "code": "7252",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-m14-x-2250mm-rigitec-7252.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M14 X 2250MM. RIGITEC 7252 Rigitec Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E Código Original / Similar: 2S2/721482/A (VW)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P4962",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M12 X ENGANCHE RAPIDO / GUIA DERECHA RIGITEC",
+        "brand": "Rigitec",
+        "code": "7253",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-m12-x-enganche-rapido-guia-derecha-rigitec-7253.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M12 X ENGANCHE RAPIDO / GUIA DERECHA RIGITEC 7253 Rigitec Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Código Original / Similar: 2V2/721482 (VW)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P4963",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M12 X ENGANCHE RAPIDO RIGITEC",
+        "brand": "Rigitec",
+        "code": "7254",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-m12-x-enganche-rapido-rigitec-7254.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M12 X ENGANCHE RAPIDO RIGITEC 7254 Rigitec Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW CONSTELLATION 25370 E Código Original / Similar: 2V2/721482/C (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4964",
+        "name": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M16 X M16 X 4180MM. RIGITEC",
+        "brand": "Rigitec",
+        "code": "7255",
+        "image": "img/products/Flexibles/flexible-embrague-entre-cilindro-transmisor-y-receptor-m16-x-m16-x-4180mm-rigitec-7255.jpg",
+        "description": "FLEXIBLE EMBRAGUE ENTRE CILINDRO TRANSMISOR Y RECEPTOR / M16 X M16 X 4180MM. RIGITEC 7255 Rigitec Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 450 E37 / 450 E37TP / 450 E37HR / 740 E42TZ / STRALIS HD 450 S38T / HD 450 S38TP / HD 450 S38HR / HD 450 S42T / HD 450 S42TP / HD 450 S42HR / HD 570 S38T / HD 570 S42T / TRAKKER 380 T38 / 720 T42T Código Original / Similar: 5801328651 / 503102454 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P4965",
+        "name": "FLEXIBLE DE COMBUSTIBLE / DEL BLOCK A LA TAPA DE CILINDRO Y AL FILTRO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6974",
+        "image": "img/products/Flexibles/flexible-de-combustible-del-block-a-la-tapa-de-cilindro-y-al-filtro-industria-argentina-6974.jpg",
+        "description": "FLEXIBLE DE COMBUSTIBLE / DEL BLOCK A LA TAPA DE CILINDRO Y AL FILTRO INDUSTRIA ARGENTINA 6974 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / 1718 M / 1720/48 / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 904.090.0976/ 904.090.0676/ 904.090.1476 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4966",
+        "name": "FLEXIBLE DE COMBUSTIBLE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6975",
+        "image": "img/products/Flexibles/flexible-de-combustible-industria-argentina-6975.jpg",
+        "description": "FLEXIBLE DE COMBUSTIBLE INDUSTRIA ARGENTINA 6975 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1624 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ATEGO 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K y Bus 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 906 LA / OM 926 LA Código Original / Similar: 906.090.0976 / 906.090.1276 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4967",
+        "name": "FLEXIBLE REFRIGERACION DESDE LA TAPA DEL COMPRESOR A LA BOMBA DE AGUA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6976",
+        "image": "img/products/Flexibles/flexible-refrigeracion-desde-la-tapa-del-compresor-a-la-bomba-de-agua-industria-argentina-6976.jpg",
+        "description": "FLEXIBLE REFRIGERACION DESDE LA TAPA DEL COMPRESOR A LA BOMBA DE AGUA INDUSTRIA ARGENTINA 6976 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones 1728/51 / 2423 B / 2423 K / 2428 / ATEGO 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 y Bus 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 906 LA / OM 926 LA Código Original / Similar: 906.203.0102 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4968",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR / AGUA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6984",
+        "image": "img/products/Flexibles/flexible-refrigeracion-de-compresor-agua-industria-argentina-6984.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR / AGUA INDUSTRIA ARGENTINA 6984 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS ECOLINE 200 S40 AT / 200 S44 AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S40 AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AT / 800 S48T AS / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TRAKKER ECOLINE 380 T44 AD / 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AD / 410 T48 AT / 500 T48 AD / 740 T48T AD Código Original / Similar: 5801582293 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4969",
+        "name": "FLEXIBLE DE FRENO TRASERO LARGO 780MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6987",
+        "image": "img/products/Flexibles/flexible-de-freno-trasero-largo-780mm-industria-argentina-6987.jpg",
+        "description": "FLEXIBLE DE FRENO TRASERO LARGO 780MM. INDUSTRIA ARGENTINA 6987 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42T / 450 E37 / 450 E37HR / 450 E37T/P / 740 E42TZ / EUROTECH CURSOR 190 E31 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AT / STRALIS ECOLINE EUROTRONIC 200 S36 AT / 460 S36T AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / STRALIS HI-WAY ECOLINE EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S48T / TRAKKER 380 T38 / 380 T42 / 720 T42T / TRAKKER ECOLINE 740 T48T AD Código Original / Similar: 5801721187 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4970",
+        "name": "ESPARRAGO TAPA DE VALVULA / ABRAZADERA FLEXIBLE LUBRICACION TURBO ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6961",
+        "image": "img/products/Flexibles/esparrago-tapa-de-valvula-abrazadera-flexible-lubricacion-turbo-engine-parts-6961.jpg",
+        "description": "ESPARRAGO TAPA DE VALVULA / ABRAZADERA FLEXIBLE LUBRICACION TURBO ENGINE PARTS 6961 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / 1722e / F 100 (+06) / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E IVECO: Camiones EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S / VERTIS 90 V16 / 130 V18 y Bus CC118 E22 / CC170 E22 Código Original / Similar: 2VF/103385 (VW) 4896991 (Cummins) 4896991 / 504129243 (IVECO) BG5X/9R534/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P4971",
+        "name": "FLEXIBLE ENTRADA DE AGUA DE COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6968",
+        "image": "img/products/Flexibles/flexible-entrada-de-agua-de-compresor-industria-argentina-6968.jpg",
+        "description": "FLEXIBLE ENTRADA DE AGUA DE COMPRESOR INDUSTRIA ARGENTINA 6968 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (95-98) FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA / 6.10 TCA FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 13180 / 15180 / 17210 y Bus 9150 OD / 17210 OD Código Original / Similar: 2RP/121070 (FORD / VW / CUMMINS / MWM) 2RP/121070 (VW) 941009390014 (MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4972",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR / EN LA TAPA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6971",
+        "image": "img/products/Flexibles/flexible-refrigeracion-de-compresor-en-la-tapa-industria-argentina-6971.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR / EN LA TAPA INDUSTRIA ARGENTINA 6971 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 906.203.0402/ 906.203.0202 (MB) 906.203.0702/ 906.203.1102/ 906.203.1402 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4973",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR / DE LA TAPA A LA BOMBA DE AGUA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6972",
+        "image": "img/products/Flexibles/flexible-refrigeracion-de-compresor-de-la-tapa-a-la-bomba-de-agua-industria-argentina-6972.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR / DE LA TAPA A LA BOMBA DE AGUA INDUSTRIA ARGENTINA 6972 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / 1718 M / 1720/48 / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L- SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L- SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 904.203.0102 / 904.203.2702 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4974",
+        "name": "FLEXIBLE RETORNO DE INYECTORES INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6973",
+        "image": "img/products/Flexibles/flexible-retorno-de-inyectores-industria-argentina-6973.jpg",
+        "description": "FLEXIBLE RETORNO DE INYECTORES INDUSTRIA ARGENTINA 6973 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1624 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ATEGO 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K y Bus 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 906 LA / OM 926 LA Código Original / Similar: 906.070.2033 / 906.070.2533 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4975",
+        "name": "FLEXIBLE DE FRENO DE RUEDA DELANTERO AL PULMON / 750MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6894",
+        "image": "img/products/Flexibles/flexible-de-freno-de-rueda-delantero-al-pulmon-750mm-industria-argentina-6894.jpg",
+        "description": "FLEXIBLE DE FRENO DE RUEDA DELANTERO AL PULMON / 750MM. INDUSTRIA ARGENTINA 6894 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones LK 1615 / L 1618/45 / L 1620 / L 1622 / LS 1622 / L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / L 2638/54 y Bus LO 812 / OF 1620 Código Original / Similar: 384.420.7548 (MB)",
+        "rubro": "TUBERIAS AIRE COMPRIMIDO"
+    },
+    {
+        "id": "P4976",
+        "name": "FLEXIBLE SALIDA DE COMPRESOR 5/8” RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "6906",
+        "image": "img/products/Flexibles/flexible-salida-de-compresor-5-8-rigiflex-6906.jpg",
+        "description": "FLEXIBLE SALIDA DE COMPRESOR 5/8” RIGIFLEX 6906 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / 1718 M / 1728/51 / LS 1938 EL / 1938 S / 2423 B / 2423 K / 2428 / L 2638/54 / ACCELO 915 C / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621-55 / OH 1718 L-SB / OH 1721-62 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 665.429.7635 (MB) LARGO TOTAL 350MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4977",
+        "name": "ABRAZADERA SISTEMA COMBUSTIBLE Y ESCAPE C/INSERTO / RANGO 130MM. / ENTRE FLEXIBLES PERFECTO",
+        "brand": "Perfecto",
+        "code": "6909",
+        "image": "img/products/Flexibles/abrazadera-sistema-combustible-y-escape-c-inserto-rango-130mm-entre-flexibles-perfecto-6909.jpg",
+        "description": "ABRAZADERA SISTEMA COMBUSTIBLE Y ESCAPE C/INSERTO / RANGO 130MM. / ENTRE FLEXIBLES PERFECTO 6909 Perfecto Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 93 / P 94 / P 270 / P 310 / G 340 / G 380 / G 420 / G 470 / P 340 / P 380 / P 420 / R 380 / R 420 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.422.474 / 1.387.136 / 1.863.831 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P4978",
+        "name": "FLEXIBLE DESCARGA COMPRESOR HEMBRA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6890",
+        "image": "img/products/Flexibles/flexible-descarga-compresor-hembra-industria-argentina-6890.jpg",
+        "description": "FLEXIBLE DESCARGA COMPRESOR HEMBRA INDUSTRIA ARGENTINA 6890 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1832e Código Original / Similar: 1C45/2917/AB / 1C45/2917/AA (FORD / VW / CUMMINS / MWM) 4C45/2917/AB / 4C45/2917/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4979",
+        "name": "FLEXIBLE DE FRENO DE RUEDA DELANTERO AL PULMON / 3/8” / 600MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "6893",
+        "image": "img/products/Flexibles/flexible-de-freno-de-rueda-delantero-al-pulmon-3-8-600mm-rigiflex-6893.jpg",
+        "description": "FLEXIBLE DE FRENO DE RUEDA DELANTERO AL PULMON / 3/8” / 600MM. RIGIFLEX 6893 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones 1214 C / 1215 C / L 1215 / LK 1218 / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LK 2318 / LB 2325 / LK 2325 / LK 2418 / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K y Bus LO 812 / OF 1215 / OF 1315 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1318 / OHL 1621 / OH 1418/52 / OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 384.420.7248 (MB)",
+        "rubro": "TUBERIAS AIRE COMPRIMIDO"
+    },
+    {
+        "id": "P4980",
+        "name": "ABRAZADERA CAÑO ESCAPE AL FLEXIBLE C/INSERTO / RANGO 88MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6830",
+        "image": "img/products/Flexibles/abrazadera-cano-escape-al-flexible-c-inserto-rango-88mm-perfecto-6830.jpg",
+        "description": "ABRAZADERA CAÑO ESCAPE AL FLEXIBLE C/INSERTO / RANGO 88MM. PERFECTO 6830 Perfecto Vehículos compatibles: MERCEDES BENZ: Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 368.997.0090 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P4981",
+        "name": "FLEXIBLE DE EMBRAGUE DE AIRE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6447",
+        "image": "img/products/Flexibles/flexible-de-embrague-de-aire-industria-argentina-6447.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE DE AIRE INDUSTRIA ARGENTINA 6447 Industria Argentina Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Código Original / Similar: 4590158 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4982",
+        "name": "FLEXIBLE DE COMBUSTIBLE DESDE BOMBA A FILTRO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6194",
+        "image": "img/products/Flexibles/flexible-de-combustible-desde-bomba-a-filtro-industria-argentina-6194.jpg",
+        "description": "FLEXIBLE DE COMBUSTIBLE DESDE BOMBA A FILTRO INDUSTRIA ARGENTINA 6194 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S36 AD EUROTRONIC / 460 S33T AT / 460 S36T AT EUROTRONIC / 530 S36T AT EUROTRONIC / TRAKKER 310 T36 AD Código Original / Similar: 504354067 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4983",
+        "name": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6046",
+        "image": "img/products/Flexibles/flexible-suministro-de-combustible-industria-argentina-6046.jpg",
+        "description": "FLEXIBLE SUMINISTRO DE COMBUSTIBLE INDUSTRIA ARGENTINA 6046 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2T2/130085/B (VW) 4935040 / 3966317 (Cummins) BG6X/9C520/CA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4984",
+        "name": "FLEXIBLE CILINDRO MAESTRO DE EMBRAGUE / POLIAMIDA ALTA PRESION INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5956",
+        "image": "img/products/Flexibles/flexible-cilindro-maestro-de-embrague-poliamida-alta-presion-industria-argentina-5956.jpg",
+        "description": "FLEXIBLE CILINDRO MAESTRO DE EMBRAGUE / POLIAMIDA ALTA PRESION INDUSTRIA ARGENTINA 5956 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 Código Original / Similar: XC45/7A512/AA / TNG/721479 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P4985",
+        "name": "FLEXIBLE CILINDRO MAESTRO DE EMBRAGUE / 4 MTS. / POLIAMIDA ALTA PRESION INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5957",
+        "image": "img/products/Flexibles/flexible-cilindro-maestro-de-embrague-4-mts-poliamida-alta-presion-industria-argentina-5957.jpg",
+        "description": "FLEXIBLE CILINDRO MAESTRO DE EMBRAGUE / 4 MTS. / POLIAMIDA ALTA PRESION INDUSTRIA ARGENTINA 5957 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 Código Original / Similar:",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P4986",
+        "name": "FLEXIBLE LUBRICACION DE TURBO BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "5693",
+        "image": "img/products/Flexibles/flexible-lubricacion-de-turbo-blk-diesel-5693.jpg",
+        "description": "FLEXIBLE LUBRICACION DE TURBO BLK DIESEL 5693 BLK Diesel Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / F100 (+98) / Nuevo C1317 / C1517 FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4 BTAA – ISBe4 FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 13180 E / 15180 E y Bus 9150 EOD Código Original / Similar: 2R0/145577 (VW) 3935821 (Cummins) BG5X/6N639AA (FORD / VW / CUMMINS / MWM) LARGO 395MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4987",
+        "name": "CONECTOR MACHO FLEXIBLE LUBRICACION DE TURBO BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "5672",
+        "image": "img/products/Flexibles/conector-macho-flexible-lubricacion-de-turbo-blk-diesel-5672.jpg",
+        "description": "CONECTOR MACHO FLEXIBLE LUBRICACION DE TURBO BLK DIESEL 5672 BLK Diesel Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / 1722e / 1832e / 2632e / F 100 (+06) / Nuevo C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 – ISCe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / CONSTELLATION 17250 E / 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2R0/115406/C (VW) 3922789 (Cummins) BG5X/6073/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P4988",
+        "name": "FLEXIBLE DE ENGRASE DE CRAPODINA DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5407",
+        "image": "img/products/Flexibles/flexible-de-engrase-de-crapodina-de-embrague-industria-argentina-5407.jpg",
+        "description": "FLEXIBLE DE ENGRASE DE CRAPODINA DE EMBRAGUE INDUSTRIA ARGENTINA 5407 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / R 143 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 306.278 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P4989",
+        "name": "FLEXIBLE SALIDA DE COMPRESOR / MANGUERA R5 ALTA TEMPERATURA / LARGO 400MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5410",
+        "image": "img/products/Flexibles/flexible-salida-de-compresor-manguera-r5-alta-temperatura-largo-400mm-industria-argentina-5410.jpg",
+        "description": "FLEXIBLE SALIDA DE COMPRESOR / MANGUERA R5 ALTA TEMPERATURA / LARGO 400MM. INDUSTRIA ARGENTINA 5410 Industria Argentina Vehículos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 113 / K 113 Código Original / Similar: 814.348 / 815.456 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4990",
+        "name": "FLEXIBLE SALIDA DE COMPRESOR / MANGUERA R5 ALTA TEMPERATURA / LARGO 500MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5411",
+        "image": "img/products/Flexibles/flexible-salida-de-compresor-manguera-r5-alta-temperatura-largo-500mm-industria-argentina-5411.jpg",
+        "description": "FLEXIBLE SALIDA DE COMPRESOR / MANGUERA R5 ALTA TEMPERATURA / LARGO 500MM. INDUSTRIA ARGENTINA 5411 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / P 93 / R 113 / T 113 / R 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 112 / F 113 / K 113 Código Original / Similar: 814.350 / 815.458 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4991",
+        "name": "FLEXIBLE SALIDA DE COMPRESOR / MANGUERA R5 ALTA TEMPERATURA / LARGO 600MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5412",
+        "image": "img/products/Flexibles/flexible-salida-de-compresor-manguera-r5-alta-temperatura-largo-600mm-industria-argentina-5412.jpg",
+        "description": "FLEXIBLE SALIDA DE COMPRESOR / MANGUERA R5 ALTA TEMPERATURA / LARGO 600MM. INDUSTRIA ARGENTINA 5412 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / P 93 / R 113 / T 113 / R 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 814.354 / 815.461 / 814.353 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4992",
+        "name": "FLEXIBLE BOMBA INYECTORA DE COMBUSTIBLE ROTATIVA / MANGUERA TEFLON 550MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5397",
+        "image": "img/products/Flexibles/flexible-bomba-inyectora-de-combustible-rotativa-manguera-teflon-550mm-industria-argentina-5397.jpg",
+        "description": "FLEXIBLE BOMBA INYECTORA DE COMBUSTIBLE ROTATIVA / MANGUERA TEFLON 550MM. INDUSTRIA ARGENTINA 5397 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 FORD / VW / CUMMINS / MWM: Motores CUMMINS 6BT – 6BTA – 6BTAA FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 Código Original / Similar: 2RL/130885 (VW) 3915451 (Cummins) BF5X/6014/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P4993",
+        "name": "FLEXIBLE LUBRICACION DE TURBO / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5398",
+        "image": "img/products/Flexibles/flexible-lubricacion-de-turbo-manguera-teflon-industria-argentina-5398.jpg",
+        "description": "FLEXIBLE LUBRICACION DE TURBO / MANGUERA TEFLON INDUSTRIA ARGENTINA 5398 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / F100 (+98) / Nuevo C1317 / C1517 FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4 BTAA – ISBe4 FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 13180 E / 15180 E y Bus 9150 EOD Código Original / Similar: 2R0/145577 (VW) 3935821 (Cummins) BG5X/6N639/AA (FORD / VW / CUMMINS / MWM) LARGO 395MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P4994",
+        "name": "FLEXIBLE ESCAPE 4” X 540MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5140",
+        "image": "img/products/Flexibles/flexible-escape-4-x-540mm-tf-p-technology-5140.jpg",
+        "description": "FLEXIBLE ESCAPE 4” X 540MM. TF&P TECHNOLOGY 5140 Tfp Technology Vehículos compatibles: VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 Código Original / Similar: 1.585.679 / 1.508.205 / 20.442.231 (VOLVO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4995",
+        "name": "FLEXIBLE ESCAPE / PARTE DELANTERA 4 1/2” X 195MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5141",
+        "image": "img/products/Flexibles/flexible-escape-parte-delantera-4-1-2-x-195mm-tf-p-technology-5141.jpg",
+        "description": "FLEXIBLE ESCAPE / PARTE DELANTERA 4 1/2” X 195MM. TF&P TECHNOLOGY 5141 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 94 IB / F 94 HB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.428.892 / 1.364.355 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4996",
+        "name": "FLEXIBLE ESCAPE INTERMEDIO 4 1/2” X 820MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5142",
+        "image": "img/products/Flexibles/flexible-escape-intermedio-4-1-2-x-820mm-tf-p-technology-5142.jpg",
+        "description": "FLEXIBLE ESCAPE INTERMEDIO 4 1/2” X 820MM. TF&P TECHNOLOGY 5142 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.505.748 / 1.477.000 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4997",
+        "name": "FLEXIBLE ESCAPE 4 1/2” X 950MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5143",
+        "image": "img/products/Flexibles/flexible-escape-4-1-2-x-950mm-tf-p-technology-5143.jpg",
+        "description": "FLEXIBLE ESCAPE 4 1/2” X 950MM. TF&P TECHNOLOGY 5143 Tfp Technology Vehículos compatibles: SCANIA: Camiones G 380 / G 420 / G 470 / P 270 / P 310 / P 380 / P 420 / R 380 Código Original / Similar: 1.505.749 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4998",
+        "name": "FLEXIBLE ESCAPE 4 1/2” X 306MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5144",
+        "image": "img/products/Flexibles/flexible-escape-4-1-2-x-306mm-tf-p-technology-5144.jpg",
+        "description": "FLEXIBLE ESCAPE 4 1/2” X 306MM. TF&P TECHNOLOGY 5144 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 (2005-2007) / G 340 / G 380 / G 420 / G 470 / P 270 / P 310 / P 340 / P 380 / P 420 / R 380 Código Original / Similar: 1.753.639 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P4999",
+        "name": "FLEXIBLE ESCAPE 4” X 350MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5145",
+        "image": "img/products/Flexibles/flexible-escape-4-x-350mm-tf-p-technology-5145.jpg",
+        "description": "FLEXIBLE ESCAPE 4” X 350MM. TF&P TECHNOLOGY 5145 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E32 / 450 E32T / 450 E32TY / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 190 E42 / 380 E37 / MP 450 E37T / MP 720 E42 HT Código Original / Similar: 8162322 / 41011873 (IVECO)",
+        "rubro": "TUBO DE ESCAPE"
+    },
+    {
+        "id": "P5000",
+        "name": "FLEXIBLE ESCAPE 4 1/2” X 400MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5146",
+        "image": "img/products/Flexibles/flexible-escape-4-1-2-x-400mm-tf-p-technology-5146.jpg",
+        "description": "FLEXIBLE ESCAPE 4 1/2” X 400MM. TF&P TECHNOLOGY 5146 Tfp Technology Vehículos compatibles: VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / NL 12 410 EDC y Bus B 10 M Código Original / Similar: 20.442.241 / 1.078.118 / 8.152.562 (VOLVO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5001",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 3 1/2” X 340MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5147",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-3-1-2-x-340mm-tf-p-technology-5147.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 3 1/2” X 340MM. TF&P TECHNOLOGY 5147 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ATEGO 1725 y Bus OF 1722 / OH 1418/52 / OH 1518 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R Código Original / Similar: 695.490.0065 / 382.490.0065 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5002",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4” X 340MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5148",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-4-x-340mm-tf-p-technology-5148.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4” X 340MM. TF&P TECHNOLOGY 5148 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones 2423 B / 2423 K / 2428 y Bus OF 1417 / OF 1418 / OH 1115 L-SB / OH 1315 L-SB / OH 1621 L-SB / OH 1721 L- SB / OHL 1621 / 0500 R Código Original / Similar: 382.490.7065 / 382.490.0165 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5003",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4 1/2” X 280MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5149",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-4-1-2-x-280mm-tf-p-technology-5149.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4 1/2” X 280MM. TF&P TECHNOLOGY 5149 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Bus 0500 R / 0500 RS / 0500 RSD Código Original / Similar: 634.490.0065 / 693.490.0265 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5004",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4 1/2” X 470MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5150",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-4-1-2-x-470mm-tf-p-technology-5150.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4 1/2” X 470MM. TF&P TECHNOLOGY 5150 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Bus 0400 RSD BUGGY / 0400 RSE BUGGY Código Original / Similar: 664.490.7065 / 664.490.0165 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5005",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 3” X 375MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5151",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-3-x-375mm-tf-p-technology-5151.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 3” X 375MM. TF&P TECHNOLOGY 5151 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / 1718 M / ACCELO 915 C / Atron 1720 y Bus OH 1518 L-SB Código Original / Similar: 979.490.0065 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5006",
+        "name": "FLEXIBLE ESCAPE 3” X 385MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5152",
+        "image": "img/products/Flexibles/flexible-escape-3-x-385mm-tf-p-technology-5152.jpg",
+        "description": "FLEXIBLE ESCAPE 3” X 385MM. TF&P TECHNOLOGY 5152 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 9150 E / 10150 E / 13180 E / 15180 E / Constellation 13180 E / 15180 E y Bus 9150 OD / 9150 EOD / 15190 EOD / 17230 EOD Código Original / Similar: 2R2/253101 (VW)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5007",
+        "name": "ABRAZADERA FLEXIBLE ESCAPE 3” X 76.20MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5153",
+        "image": "img/products/Flexibles/abrazadera-flexible-escape-3-x-76-20mm-tf-p-technology-5153.jpg",
+        "description": "ABRAZADERA FLEXIBLE ESCAPE 3” X 76.20MM. TF&P TECHNOLOGY 5153 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 9150 E / 10150 E / 13180 E / 15180 E / Constellation 13180 E / 15180 E y Bus 9150 OD / 9150 EOD / 15190 EOD / 17230 EOD MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M- 96) / 1718 M / ACCELO 915 C y Bus OH 1518 L-SB Código Original / Similar: 2S2/253143/B (VW) 979.492.0540 / 970.492.0140 (MB)",
+        "rubro": "SISTEMA DE ESCAPE"
+    },
+    {
+        "id": "P5008",
+        "name": "ABRAZADERA FLEXIBLE ESCAPE 3 1/2” X 73MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5154",
+        "image": "img/products/Flexibles/abrazadera-flexible-escape-3-1-2-x-73mm-tf-p-technology-5154.jpg",
+        "description": "ABRAZADERA FLEXIBLE ESCAPE 3 1/2” X 73MM. TF&P TECHNOLOGY 5154 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ATEGO 1725 y Bus OF 1722 / OH 1418/52 / OH 1518 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R Código Original / Similar: 970.492.0040/ 382.492.0040/ 695.492.0040 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5009",
+        "name": "ABRAZADERA FLEXIBLE ESCAPE 4” X 73MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5155",
+        "image": "img/products/Flexibles/abrazadera-flexible-escape-4-x-73mm-tf-p-technology-5155.jpg",
+        "description": "ABRAZADERA FLEXIBLE ESCAPE 4” X 73MM. TF&P TECHNOLOGY 5155 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones 2423 B / 2423 K / 2428 y Bus OF 1417 / OF 1418 / OH 1115 L-SB / OH 1315 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 / 0500 R VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 Código Original / Similar:",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5010",
+        "name": "ABRAZADERA FLEXIBLE ESCAPE 4 1/2” X 73MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5156",
+        "image": "img/products/Flexibles/abrazadera-flexible-escape-4-1-2-x-73mm-tf-p-technology-5156.jpg",
+        "description": "ABRAZADERA FLEXIBLE ESCAPE 4 1/2” X 73MM. TF&P TECHNOLOGY 5156 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Bus 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / NL 12 410 EDC y Bus B 10 M Código Original / Similar:",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5011",
+        "name": "ABRAZADERA FLEXIBLE ESCAPE 5” X 73MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5157",
+        "image": "img/products/Flexibles/abrazadera-flexible-escape-5-x-73mm-tf-p-technology-5157.jpg",
+        "description": "ABRAZADERA FLEXIBLE ESCAPE 5” X 73MM. TF&P TECHNOLOGY 5157 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 R VOLVO: Motores VOLVO D 12 D Código Original / Similar:",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5012",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 3 1/2” X 330MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5136",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-3-1-2-x-330mm-tf-p-technology-5136.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 3 1/2” X 330MM. TF&P TECHNOLOGY 5136 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / 2423 B / 2423 K / 2428 / ATEGO 1725 y Bus OF 1722 / OH 1418/52 / 0500 M 1725 / 0500 U 1725 / 0500 R Código Original / Similar: 973.490.0165 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5013",
+        "name": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4.5” X 480MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5137",
+        "image": "img/products/Flexibles/flexible-escape-con-abrazaderas-4-5-x-480mm-tf-p-technology-5137.jpg",
+        "description": "FLEXIBLE ESCAPE CON ABRAZADERAS / 4.5” X 480MM. TF&P TECHNOLOGY 5137 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / LS 1938 EL / 1938 S / L 2638/54 Código Original / Similar: 696.490.7065 / 634.490.0365 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5014",
+        "name": "FLEXIBLE ESCAPE 5” X 340MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5138",
+        "image": "img/products/Flexibles/flexible-escape-5-x-340mm-tf-p-technology-5138.jpg",
+        "description": "FLEXIBLE ESCAPE 5” X 340MM. TF&P TECHNOLOGY 5138 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 R VOLVO: Motores VOLVO D 12 D Código Original / Similar: 3.199.065 / 1.078.110 (VOLVO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5015",
+        "name": "FLEXIBLE ESCAPE 5” X 140MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5139",
+        "image": "img/products/Flexibles/flexible-escape-5-x-140mm-tf-p-technology-5139.jpg",
+        "description": "FLEXIBLE ESCAPE 5” X 140MM. TF&P TECHNOLOGY 5139 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 VOLVO: Motores VOLVO D 12 A / D 12 C Código Original / Similar: 20.442.244 (VOLVO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5016",
+        "name": "FLEXIBLE LUBRICACION DE TURBO / MANGUERA TEFLON REMALLADO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4900",
+        "image": "img/products/Flexibles/flexible-lubricacion-de-turbo-manguera-teflon-remallado-industria-argentina-4900.jpg",
+        "description": "FLEXIBLE LUBRICACION DE TURBO / MANGUERA TEFLON REMALLADO INDUSTRIA ARGENTINA 4900 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 FORD / VW / CUMMINS / MWM: VW 17220 Euro 3 / 17300 / 17310 / 18310 / 24220 / 26310 y Bus 18310 OT Código Original / Similar: 3918562 / 3281415 (Cummins) TF3/145459 (FORD / VW / CUMMINS / MWM) TF3/145459 (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5017",
+        "name": "FLEXIBLE SALIDA DE AIRE DE COMPRESOR 7/8 UNF MACHO / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4887",
+        "image": "img/products/Flexibles/flexible-salida-de-aire-de-compresor-7-8-unf-macho-manguera-alta-temperatura-industria-argentina-4887.jpg",
+        "description": "FLEXIBLE SALIDA DE AIRE DE COMPRESOR 7/8 UNF MACHO / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA 4887 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26260 / 26310 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 E / 26260 E / 31320 E y Bus 9150 EOD / 17240 OT / 17260 EOT / 18310 OT / 18320 EOT Código Original / Similar: 2VF/607312/B (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5018",
+        "name": "FLEXIBLE SALIDA DE AIRE DE COMPRESOR 7/8 UNF MACHO / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4888",
+        "image": "img/products/Flexibles/flexible-salida-de-aire-de-compresor-7-8-unf-macho-manguera-teflon-industria-argentina-4888.jpg",
+        "description": "FLEXIBLE SALIDA DE AIRE DE COMPRESOR 7/8 UNF MACHO / MANGUERA TEFLON INDUSTRIA ARGENTINA 4888 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26260 / 26310 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 E / 26260 E / 31320 E y Bus 9150 EOD / 17240 OT / 17260 EOT / 18310 OT / 18320 EOT Código Original / Similar: 2VF/607312/B (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5019",
+        "name": "FLEXIBLE DE ACEITE DEL COMPRESOR WABCO / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4894",
+        "image": "img/products/Flexibles/flexible-de-aceite-del-compresor-wabco-manguera-teflon-industria-argentina-4894.jpg",
+        "description": "FLEXIBLE DE ACEITE DEL COMPRESOR WABCO / MANGUERA TEFLON INDUSTRIA ARGENTINA 4894 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / F 14000 (99-05) Código Original / Similar: 3924867 (Cummins) BF6X/2910/A (FORD / VW / CUMMINS / MWM) LARGO TOTAL 330MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5020",
+        "name": "FLEXIBLE BOMBA DE VACIO / LUBRICACION DE COMPRESOR KNORR / MANGUERA TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4895",
+        "image": "img/products/Flexibles/flexible-bomba-de-vacio-lubricacion-de-compresor-knorr-manguera-teflon-industria-argentina-4895.jpg",
+        "description": "FLEXIBLE BOMBA DE VACIO / LUBRICACION DE COMPRESOR KNORR / MANGUERA TEFLON INDUSTRIA ARGENTINA 4895 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / F 100 / F 4000 FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4BTAA Código Original / Similar: 3918536 (Cummins) BF6T/2B451/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5021",
+        "name": "FLEXIBLE ENTRADA DE ACEITE COMPRESOR HOLSET LARGO 560MM. / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4896",
+        "image": "img/products/Flexibles/flexible-entrada-de-aceite-compresor-holset-largo-560mm-manguera-alta-temperatura-industria-argentina-4896.jpg",
+        "description": "FLEXIBLE ENTRADA DE ACEITE COMPRESOR HOLSET LARGO 560MM. / MANGUERA ALTA TEMPERATURA INDUSTRIA ARGENTINA 4896 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1416 / 1722 / 2626 Código Original / Similar: 3916051 (Cummins) BF5X/2922/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5022",
+        "name": "FLEXIBLE DE EMBRAGUE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "4462",
+        "image": "img/products/Flexibles/flexible-de-embrague-rigiflex-4462.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE RIGIFLEX 4462 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus LO 914 / LO 915 Código Original / Similar: 688.295.7335 (MB) POLIAMIDA CONFORMADA",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5023",
+        "name": "CAÑO RIGIDO COMPRESOR DEL FLEXIBLE DE AIRE AL DEPOSITO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "4201",
+        "image": "img/products/Flexibles/cano-rigido-compresor-del-flexible-de-aire-al-deposito-rigiflex-4201.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR DEL FLEXIBLE DE AIRE AL DEPOSITO RIGIFLEX 4201 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Código Original / Similar: 634.420.8634 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5024",
+        "name": "FLEXIBLE DE FRENO 363MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3409",
+        "image": "img/products/Flexibles/flexible-de-freno-363mm-trucktec-3409.jpg",
+        "description": "FLEXIBLE DE FRENO 363MM. TRUCKTEC 3409 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 412 D / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 901.428.0435 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P5025",
+        "name": "TUBO FLEXIBLE DEL FILTRO DE AIRE AL TUBO DE ASPIRACION TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3225",
+        "image": "img/products/Flexibles/tubo-flexible-del-filtro-de-aire-al-tubo-de-aspiracion-trucktec-3225.jpg",
+        "description": "TUBO FLEXIBLE DEL FILTRO DE AIRE AL TUBO DE ASPIRACION TRUCKTEC 3225 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones 914 y Bus 0400 UP Código Original / Similar: 620.528.0782 (MB)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P5026",
+        "name": "FLEXIBLE DE ESCAPE / DIAM. 4 1/2″ X 295MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2757",
+        "image": "img/products/Flexibles/flexible-de-escape-diam-4-1-2-x-295mm-trucktec-2757.jpg",
+        "description": "FLEXIBLE DE ESCAPE / DIAM. 4 1/2″ X 295MM. TRUCKTEC 2757 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1938 EL / 1938 S / AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K Código Original / Similar: 621.490.0065 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5027",
+        "name": "FLEXIBLE DE EMBRAGUE / LARGO 630MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "2487",
+        "image": "img/products/Flexibles/flexible-de-embrague-largo-630mm-industria-argentina-2487.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE / LARGO 630MM. INDUSTRIA ARGENTINA 2487 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42TZ/P / 450 E37 / 450 E37TP / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 450 E37T Código Original / Similar: 41034963 / 41034964 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5028",
+        "name": "FLEXIBLE DE ESCAPE 3 1/2″ X 505MM. CON PESTAÑA IMP.",
+        "brand": "Imp",
+        "code": "2464",
+        "image": "img/products/Flexibles/flexible-de-escape-3-1-2-x-505mm-con-pestana-imp-2464.jpg",
+        "description": "FLEXIBLE DE ESCAPE 3 1/2″ X 505MM. CON PESTAÑA IMP. 2464 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Worker 26260 E / Constellation 17250 E / 24250 E / 26260 E / 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 Código Original / Similar: 2T2/253101/B (VW) F6542 (FADO) ACERO INOXIDABLE",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5029",
+        "name": "FLEXIBLE COMBUSTIBLE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "2383",
+        "image": "img/products/Flexibles/flexible-combustible-industria-argentina-2383.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE INDUSTRIA ARGENTINA 2383 Industria Argentina Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T Código Original / Similar: 504075116 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5030",
+        "name": "FLEXIBLE COMBUSTIBLE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "2384",
+        "image": "img/products/Flexibles/flexible-combustible-rigiflex-2384.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE RIGIFLEX 2384 Rigiflex Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T Código Original / Similar: 504075118 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5031",
+        "name": "FLEXIBLE LEVANTA CABINA LARGO 2800MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "2177",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-2800mm-industria-argentina-2177.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA LARGO 2800MM. INDUSTRIA ARGENTINA 2177 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37TP / 450 E37HR / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 E38 / HD 450 E38T/P / HD 450 E38 HR / HD 450 E42T / HD 450 E42T/P / HD 450 E42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S46T / NR 740 S46T / Código Original / Similar: 41004941 / 41003031 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5032",
+        "name": "FLEXIBLE ENTRADA DE ACEITE AL TURBO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "1665",
+        "image": "img/products/Flexibles/flexible-entrada-de-aceite-al-turbo-industria-argentina-1665.jpg",
+        "description": "FLEXIBLE ENTRADA DE ACEITE AL TURBO INDUSTRIA ARGENTINA 1665 Industria Argentina Vehículos compatibles: IVECO: Camiones TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 240 E28 / 240 E28S / 260 E28 / 310 E28 / 17-280 / 24-280 / 240-280 / 31-280 / TECTOR ECOLINE ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / 240 E28 RSU Código Original / Similar: 504349541 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5033",
+        "name": "TUERCA RACORD CONEXIÓN FLEXIBLE INYECTOR / M12 X 1.5 MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1642",
+        "image": "img/products/Flexibles/tuerca-racord-conexion-flexible-inyector-m12-x-1-5-montecristo-1642.jpg",
+        "description": "TUERCA RACORD CONEXIÓN FLEXIBLE INYECTOR / M12 X 1.5 MONTECRISTO 1642 Montecristo Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 815 / 915 C / 1016 / ATEGO 1418 / 1419 / 1725 / 1726 / 2425/48 / 2426 / ATRON 1720 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K / 3131 B/36 / 3131 K/36 / 3131/48 y Bus LO 914 / LO 915 / LO 916 / OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1721 / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 M 1826 / 0500 U 1826 MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 000.997.3775 (MB) LARGO TOTAL 30MM.",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P5034",
+        "name": "FLEXIBLE EMBRAGUE DEL CILINDRO AL SERVOEMBRAGUE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1599",
+        "image": "img/products/Flexibles/flexible-embrague-del-cilindro-al-servoembrague-rigiflex-1599.jpg",
+        "description": "FLEXIBLE EMBRAGUE DEL CILINDRO AL SERVOEMBRAGUE RIGIFLEX 1599 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 / OF 1722 Código Original / Similar: 384.295.0435 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5035",
+        "name": "FLEXIBLE PULMON DE FRENO DELANTERO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1546",
+        "image": "img/products/Flexibles/flexible-pulmon-de-freno-delantero-rigiflex-1546.jpg",
+        "description": "FLEXIBLE PULMON DE FRENO DELANTERO RIGIFLEX 1546 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / L 1620 (M-96) / L 1624 / 1938 S / LS 1938 EL / ACCELO 915 C y Bus LO 914 / LO 915 / OF 1722 / OH 1418/52 / 0500 R / 0500 RS / 0500 RSD Código Original / Similar: 688.420.8048 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5036",
+        "name": "FLEXIBLE DE EMBRAGUE / POLIAMIDA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1521",
+        "image": "img/products/Flexibles/flexible-de-embrague-poliamida-rigiflex-1521.jpg",
+        "description": "FLEXIBLE DE EMBRAGUE / POLIAMIDA RIGIFLEX 1521 Rigiflex Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 901.250.0066 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5037",
+        "name": "FLEXIBLE LUBRICACION TURBO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14486",
+        "image": "img/products/Flexibles/flexible-lubricacion-turbo-industria-argentina-14486.jpg",
+        "description": "FLEXIBLE LUBRICACION TURBO INDUSTRIA ARGENTINA 14486 Industria Argentina Vehículos compatibles: IVECO: Camiones CURSOR 180 C33 / 450 C33 / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 460 S33T AT / 460 S36T AT / 530 S36T AT / STRALIS ECOLINE EUROTRONIC 200 S36 AD / 460 S36T AT / 530 S36T AT / STRALIS ECOLINE HI-ROAD 200 S36 / 460 S36T / 530 S36T / TRAKKER ECOLINE 310 T36 AD Código Original / Similar: 504188873 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5038",
+        "name": "FLEXIBLE REFRIGERACION COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14490",
+        "image": "img/products/Flexibles/flexible-refrigeracion-compresor-industria-argentina-14490.jpg",
+        "description": "FLEXIBLE REFRIGERACION COMPRESOR INDUSTRIA ARGENTINA 14490 Industria Argentina Vehículos compatibles: IVECO: Camiones TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 17-280 / 170 E30S / 170 E30 AUT / 170 E30T / 17-300 AUT / 240 E28 / 240 E28S / 24-280 / 240-280 / 240 E30S / 24-300 AUT / 260 E28 / 260 E30 / 310 E28 / 310 E30 / 31-280 / 31-300 AUT / TECTOR ECOLINE ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / 240 E28 RSU (Todos EURO 5) Código Original / Similar: 5801530063 / 5801558534 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5039",
+        "name": "FLEXIBLE DRENAJE COMBUSTIBLE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1416",
+        "image": "img/products/Flexibles/flexible-drenaje-combustible-rigiflex-1416.jpg",
+        "description": "FLEXIBLE DRENAJE COMBUSTIBLE RIGIFLEX 1416 Rigiflex Vehículos compatibles: AGRALE: Bus MT 15.0 / MT 17.0 FORD / VW / CUMMINS / MWM: Motores ISBe4 4.5ltrs. FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 916 / 1119 / 1519 Código Original / Similar: 4995172 / 5341892 (Cummins) 6021401110002 / 6021301112009 (AGRALE) BH1X/9325/CA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5040",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 1760MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13901",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-1760mm-industria-argentina-13901.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 1760MM. INDUSTRIA ARGENTINA 13901 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2533 / 2831/48 / 2831 B / 2831 K / 3131/48 / 3131 B / 3131 K Código Original / Similar: 940.553.0282 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5041",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 4480MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13902",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-4480mm-industria-argentina-13902.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 4480MM. INDUSTRIA ARGENTINA 13902 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2533 / 2831/48 / 2831 B / 2831 K / 3131/48 / 3131 B / 3131 K Código Original / Similar: 940.553.0582 (MB) DESDE RACOR EN «T» HASTA BOMBA HIDRAULICA / DE ELEVAR",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5042",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 4430MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13903",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-4430mm-industria-argentina-13903.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 4430MM INDUSTRIA ARGENTINA 13903 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2035 S / 2040 S / 2044 S / 2533 / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3131/48 / 3131 B / 3131 K / 3340 K Código Original / Similar: 940.553.0682 (MB) DESDE BOMBA HIDRAULICA AL CILINDRO / DE BAJAR",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5043",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 1500MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13904",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-1500mm-industria-argentina-13904.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 1500MM. INDUSTRIA ARGENTINA 13904 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K / 2036 S / 2041 S / 2544 / 3341 / 3344 Código Original / Similar: 940.553.2282 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5044",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 2560MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13905",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-2560mm-industria-argentina-13905.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 2560MM INDUSTRIA ARGENTINA 13905 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2035 S / 2040 S / 2044 S / 2533 / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3131/48 / 3131 B / 3131 K / 3340 K Código Original / Similar: 940.553.2782 (MB) DESDE BOMBA HIDRAULICA AL ENCLAVAMIENTO",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5045",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 6150MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13906",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-6150mm-industria-argentina-13906.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 6150MM INDUSTRIA ARGENTINA 13906 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K Código Original / Similar: 958.553.0482 (MB) DESDE RACOR EN «T» HASTA BOMBA HIDRAULICA / DE ELEVAR",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5046",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 2500MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13908",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-2500mm-industria-argentina-13908.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 2500MM. INDUSTRIA ARGENTINA 13908 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2035 S / 2040 S / 2044 S / 2533 / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3131/48 / 3131 B / 3131 K / 3340 K Código Original / Similar: 958.553.0682 (MB) DESBLOQUEO DE CABINA",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5047",
+        "name": "FLEXIBLE LEVANTA CABINA / LARGO 5760MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13737",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-largo-5760mm-industria-argentina-13737.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA / LARGO 5760MM. INDUSTRIA ARGENTINA 13737 Industria Argentina Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 500 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / R 480 / RH 480 / RN 480/ R 560 / RH 560 / RH 620 Código Original / Similar: 2.142.411 / 1.853.210 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5048",
+        "name": "FLEXIBLE DE FRENO LARGO 560MM. CIPEC",
+        "brand": "Cipec",
+        "code": "13161",
+        "image": "img/products/Flexibles/flexible-de-freno-largo-560mm-cipec-13161.jpg",
+        "description": "FLEXIBLE DE FRENO LARGO 560MM. CIPEC 13161 Cipec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 y Bus SC K 124 EB / K 124 IB / K 340 / K 380 / K 420 Código Original / Similar: 1.338.076 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5049",
+        "name": "FLEXIBLE DE COMBUSTIBLE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "12948",
+        "image": "img/products/Flexibles/flexible-de-combustible-rigiflex-12948.jpg",
+        "description": "FLEXIBLE DE COMBUSTIBLE RIGIFLEX 12948 Rigiflex Vehículos compatibles: IVECO: Camiones EUROTECH CURSOR 190 E31 / 450 E31T Código Original / Similar: 500328257 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5050",
+        "name": "FLEXIBLE DE COMBUSTIBLE / POLIAMIDA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "12949",
+        "image": "img/products/Flexibles/flexible-de-combustible-poliamida-rigiflex-12949.jpg",
+        "description": "FLEXIBLE DE COMBUSTIBLE / POLIAMIDA RIGIFLEX 12949 Rigiflex Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 230 E24 / 260 E25 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 Código Original / Similar: 504120585 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5051",
+        "name": "FLEXIBLE COMPRESOR DE AIRE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12961",
+        "image": "img/products/Flexibles/flexible-compresor-de-aire-industria-argentina-12961.jpg",
+        "description": "FLEXIBLE COMPRESOR DE AIRE INDUSTRIA ARGENTINA 12961 Industria Argentina Vehículos compatibles: IVECO: Camiones CURSOR ECOLINE 450 C33 Código Original / Similar: 5802183757 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5052",
+        "name": "FLEXIBLE DIRECCION HIDRAULICA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12862",
+        "image": "img/products/Flexibles/flexible-direccion-hidraulica-industria-argentina-12862.jpg",
+        "description": "FLEXIBLE DIRECCION HIDRAULICA INDUSTRIA ARGENTINA 12862 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 / 170 E24 / 230 E22 / 230 E24 / 170 E22 RSU / 170 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / TECTOR ECOLINE ATTACK 170 E22 / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 Código Original / Similar: 500391172 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5053",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR / SUMINISTRO DE AGUA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12684",
+        "image": "img/products/Flexibles/flexible-refrigeracion-de-compresor-suministro-de-agua-industria-argentina-12684.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR / SUMINISTRO DE AGUA INDUSTRIA ARGENTINA 12684 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS ECOLINE 200 S40 AT / 200 S44 AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S40 AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AT / 800 S48T AS / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TRAKKER ECOLINE 380 T44 AD / 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AD / 410 T48 AT / 500 T48 AD / 740 T48T AD Código Original / Similar: 5801582266 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5054",
+        "name": "FLEXIBLE ESCAPE 4″ X 385MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12686",
+        "image": "img/products/Flexibles/flexible-escape-4-x-385mm-tf-p-technology-12686.jpg",
+        "description": "FLEXIBLE ESCAPE 4″ X 385MM. TF&P TECHNOLOGY 12686 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 FORD / VW / CUMMINS / MWM: VW Delivery 9160 / Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 / 17280 / 26280 / 31280 y Bus 15190 OD / 17230 OD Código Original / Similar: 2T2/253097/A (VW)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5055",
+        "name": "FLEXIBLE ESCAPE 4″ X 310MM TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12687",
+        "image": "img/products/Flexibles/flexible-escape-4-x-310mm-tf-p-technology-12687.jpg",
+        "description": "FLEXIBLE ESCAPE 4″ X 310MM TF&P TECHNOLOGY 12687 Tfp Technology Vehículos compatibles: AGRALE: Bus MA 10.0 / MA 15.0 / MT 15.0 / MT 17.0 (Motor Cummins Euro 5) Código Original / Similar: 6025101110006 (AGRALE)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5056",
+        "name": "FLEXIBLE ESCAPE 4 1/2″ X 315MM TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12688",
+        "image": "img/products/Flexibles/flexible-escape-4-1-2-x-315mm-tf-p-technology-12688.jpg",
+        "description": "FLEXIBLE ESCAPE 4 1/2″ X 315MM TF&P TECHNOLOGY 12688 Tfp Technology Vehículos compatibles: AGRALE: Bus MT 27.0 LE Articulado AGRALE: Motores CUMMINS ISF 8.9 330CV Código Original / Similar: 6021201095007 (AGRALE)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5057",
+        "name": "GRAMPA FLEXIBLE DE COMBUSTIBLE IMP.",
+        "brand": "Imp",
+        "code": "12332",
+        "image": "img/products/Flexibles/grampa-flexible-de-combustible-imp-12332.jpg",
+        "description": "GRAMPA FLEXIBLE DE COMBUSTIBLE IMP. 12332 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E Código Original / Similar: 2R0/127250 (VW) BG5X/801031/BA / BH0X/801031/AA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5058",
+        "name": "FLEXIBLE LUBRICACION DE TURBO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11971",
+        "image": "img/products/Flexibles/flexible-lubricacion-de-turbo-industria-argentina-11971.jpg",
+        "description": "FLEXIBLE LUBRICACION DE TURBO INDUSTRIA ARGENTINA 11971 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38TP / HD 450 S38 HR / HD 450 S42T / HD 450 S42TP / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 570 S38T / NR 570 S41T / NR 740 S41TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 720 T42T Código Original / Similar: 504013544 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5059",
+        "name": "FLEXIBLE DE FRENO / LARGO TOTAL 460MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "11902",
+        "image": "img/products/Flexibles/flexible-de-freno-largo-total-460mm-rigiflex-11902.jpg",
+        "description": "FLEXIBLE DE FRENO / LARGO TOTAL 460MM. RIGIFLEX 11902 Rigiflex Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T Código Original / Similar: 7139063 (IVECO) OJAL 14MM. / ROSCA 16MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5060",
+        "name": "FLEXIBLE SALIDA COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "11790",
+        "image": "img/products/Flexibles/flexible-salida-compresor-rigiflex-11790.jpg",
+        "description": "FLEXIBLE SALIDA COMPRESOR RIGIFLEX 11790 Rigiflex Vehículos compatibles: IVECO: Utilitarios NUEVA DAILY 70 C17 HD Código Original / Similar: 5801671152 (IVECO) POLIAMIDA CONFORMADA",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5061",
+        "name": "FLEXIBLE REFRIGERACION DE COMPRESOR / EN LA TAPA / REFORMA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11706",
+        "image": "img/products/Flexibles/flexible-refrigeracion-de-compresor-en-la-tapa-reforma-industria-argentina-11706.jpg",
+        "description": "FLEXIBLE REFRIGERACION DE COMPRESOR / EN LA TAPA / REFORMA INDUSTRIA ARGENTINA 11706 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 906.203.0402 / 906.203.0202 (MB) 906.203.0702 / 906.203.1102 (MB) 906.203.1402 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5062",
+        "name": "FLEXIBLE FRENO TRASERO / LARGO 464MM. / ROSCA M10 X 1 TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11417",
+        "image": "img/products/Flexibles/flexible-freno-trasero-largo-464mm-rosca-m10-x-1-trucktec-11417.jpg",
+        "description": "FLEXIBLE FRENO TRASERO / LARGO 464MM. / ROSCA M10 X 1 TRUCKTEC 11417 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 906.428.0335 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5063",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 1440MM. C14 CIPEC",
+        "brand": "Cipec",
+        "code": "11317",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-1440mm-c14-cipec-11317.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 1440MM. C14 CIPEC 11317 Cipec Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 Código Original / Similar: 2.142.514 / 1.851.253 / 1.767.485 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5064",
+        "name": "INSERTO 8MM. PARA FLEXIBLE DE NYLON 8 X 5 OEM 813017 CIPEC",
+        "brand": "Cipec",
+        "code": "11297",
+        "image": "img/products/Flexibles/inserto-8mm-para-flexible-de-nylon-8-x-5-oem-813017-cipec-11297.jpg",
+        "description": "INSERTO 8MM. PARA FLEXIBLE DE NYLON 8 X 5 OEM 813017 CIPEC 11297 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 / N 280 / N 250 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 813.221 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5065",
+        "name": "INSERTO 10MM. PARA FLEXIBLE DE NYLON 10 X 7 OEM 813018 / 813868 CIPEC",
+        "brand": "Cipec",
+        "code": "11298",
+        "image": "img/products/Flexibles/inserto-10mm-para-flexible-de-nylon-10-x-7-oem-813018-813868-cipec-11298.jpg",
+        "description": "INSERTO 10MM. PARA FLEXIBLE DE NYLON 10 X 7 OEM 813018 / 813868 CIPEC 11298 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 / N 280 / N 250 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 813.222 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5066",
+        "name": "INSERTO 12MM. PARA FLEXIBLE DE NYLON 12 X 9 OEM 813019 / 813869 CIPEC",
+        "brand": "Cipec",
+        "code": "11299",
+        "image": "img/products/Flexibles/inserto-12mm-para-flexible-de-nylon-12-x-9-oem-813019-813869-cipec-11299.jpg",
+        "description": "INSERTO 12MM. PARA FLEXIBLE DE NYLON 12 X 9 OEM 813019 / 813869 CIPEC 11299 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 / N 280 / N 250 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 813.223 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5067",
+        "name": "INSERTO 16MM. PARA FLEXIBLE DE NYLON CIPEC",
+        "brand": "Cipec",
+        "code": "11300",
+        "image": "img/products/Flexibles/inserto-16mm-para-flexible-de-nylon-cipec-11300.jpg",
+        "description": "INSERTO 16MM. PARA FLEXIBLE DE NYLON CIPEC 11300 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 / N 280 / N 250 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 813.224 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5068",
+        "name": "INSERTO 6MM. PARA FLEXIBLE DE NYLON 6 X 4 OEM 813016 CIPEC",
+        "brand": "Cipec",
+        "code": "11296",
+        "image": "img/products/Flexibles/inserto-6mm-para-flexible-de-nylon-6-x-4-oem-813016-cipec-11296.jpg",
+        "description": "INSERTO 6MM. PARA FLEXIBLE DE NYLON 6 X 4 OEM 813016 CIPEC 11296 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 / N 280 / N 250 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 813.220 / 144.183 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5069",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA / LARGO 1255MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10911",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-largo-1255mm-tf-p-technology-10911.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA / LARGO 1255MM. TF&P TECHNOLOGY 10911 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 Código Original / Similar: 85.110.482 / 3.099.867 (VOLVO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5070",
+        "name": "FLEXIBLE REFRIGERACION COMPRESOR / AGUA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10855",
+        "image": "img/products/Flexibles/flexible-refrigeracion-compresor-agua-industria-argentina-10855.jpg",
+        "description": "FLEXIBLE REFRIGERACION COMPRESOR / AGUA INDUSTRIA ARGENTINA 10855 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ATTACK ECOLINE 170 E21 / TECTOR STRADALE 240 E25 S / VERTIS 90 V16 / 130 V18 / VERTIS ECOLINE 90 V18 / 130 V19 y Bus CC170 E22 / CC118 E20 GNC / CC118 E22 Código Original / Similar: 504358453 / 4896476 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5071",
+        "name": "FLEXIBLE DE FRENO RUEDA DELANTERA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10856",
+        "image": "img/products/Flexibles/flexible-de-freno-rueda-delantera-industria-argentina-10856.jpg",
+        "description": "FLEXIBLE DE FRENO RUEDA DELANTERA INDUSTRIA ARGENTINA 10856 Industria Argentina Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E18 RSU GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / EUROTECH 440 E42T / 450 E37 / 450 E37TP / 450 E37HR / 740 E42TZ / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S36 AT EUROTRONIC / 200 S40 AT / 200 S44 AT / 200 S44 AT EUROTRONIC / 460 S33T AT / 460 S36T AT / 460 S36T EUROTRONIC / 490 S40T AT / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 530 S36T AT / 530 S36T AT EUROTRONIC / 600 S40T AT / 600 S40T AT EUROTRONIC / 600 S44T AS EUROTRONIC / 600 S44T AT / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT / 800 S44T AT EUROTRONIC / 800 S48T AS / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ATTACK ECOLINE 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / TECTOR STRADALE 240 E25S / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 410 T42 AD / 720 T42 / TRAKKER ECOLINE 380 T48T AT / 380 T50 AT / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC / VERTIS 90 V16 / 130 V18 / VERTIS ECOLINE 90 V18 / 130 V19 Código Original / Similar: 5801518459 / 5801721185 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5072",
+        "name": "FLEXIBLE SALIDA COMPRESOR TEFLON INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10842",
+        "image": "img/products/Flexibles/flexible-salida-compresor-teflon-industria-argentina-10842.jpg",
+        "description": "FLEXIBLE SALIDA COMPRESOR TEFLON INDUSTRIA ARGENTINA 10842 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 / LK 1218 / L 1218 R / LK 1418 R / L 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A 1720 K y Bus LO 812 / LO 814 / OF 1721 Código Original / Similar: 665.429.7735 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5073",
+        "name": "FLEXIBLE SALIDA AIRE COMPRESOR / A FILTRO SECADOR / ANTEULTIMO TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10843",
+        "image": "img/products/Flexibles/flexible-salida-aire-compresor-a-filtro-secador-anteultimo-tramo-industria-argentina-10843.jpg",
+        "description": "FLEXIBLE SALIDA AIRE COMPRESOR / A FILTRO SECADOR / ANTEULTIMO TRAMO INDUSTRIA ARGENTINA 10843 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 170 E25 / 170 E25T / 230 E22 / 230 E24 / 240 E25 / TECTOR 260 E25 / TECTOR ATTACK 170 E22 / 170 E22 RSU / 260 E25 / TECTOR STRADALE 240 E25S Código Original / Similar: 5801277778 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5074",
+        "name": "FLEXIBLE COMPRESOR A FILTRO SECADOR / TERCER TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10844",
+        "image": "img/products/Flexibles/flexible-compresor-a-filtro-secador-tercer-tramo-industria-argentina-10844.jpg",
+        "description": "FLEXIBLE COMPRESOR A FILTRO SECADOR / TERCER TRAMO INDUSTRIA ARGENTINA 10844 Industria Argentina Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / TECTOR 170 E25 / 240 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR STRADALE 240 E25S / VERTIS 90 V16 / 130 V18 Código Original / Similar: 503346866 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5075",
+        "name": "FLEXIBLE COMPRESOR A FILTRO SECADOR / ANTEULTIMO TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10845",
+        "image": "img/products/Flexibles/flexible-compresor-a-filtro-secador-anteultimo-tramo-industria-argentina-10845.jpg",
+        "description": "FLEXIBLE COMPRESOR A FILTRO SECADOR / ANTEULTIMO TRAMO INDUSTRIA ARGENTINA 10845 Industria Argentina Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR STRADALE 240 E25S y Bus CC 170 E22 Código Original / Similar: 503101184 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5076",
+        "name": "FLEXIBLE COMBUSTIBLE / DEL FILTRO A LA BOMBA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10846",
+        "image": "img/products/Flexibles/flexible-combustible-del-filtro-a-la-bomba-industria-argentina-10846.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE / DEL FILTRO A LA BOMBA INDUSTRIA ARGENTINA 10846 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 170 E22 Código Original / Similar: 503622686 / 4897808 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5077",
+        "name": "FLEXIBLE COMBUSTIBLE / DEL FILTRO AL MULTIPLE DE COMBUSTIBLE Y TAPA DE CILINDRO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10848",
+        "image": "img/products/Flexibles/flexible-combustible-del-filtro-al-multiple-de-combustible-y-tapa-de-cilindro-industria-argentina-10848.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE / DEL FILTRO AL MULTIPLE DE COMBUSTIBLE Y TAPA DE CILINDRO INDUSTRIA ARGENTINA 10848 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 170 E22 Código Original / Similar: 4896612 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5078",
+        "name": "FLEXIBLE REFRIGERACION COMPRESOR KNORR 86MM. BICILINDRICO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10852",
+        "image": "img/products/Flexibles/flexible-refrigeracion-compresor-knorr-86mm-bicilindrico-industria-argentina-10852.jpg",
+        "description": "FLEXIBLE REFRIGERACION COMPRESOR KNORR 86MM. BICILINDRICO INDUSTRIA ARGENTINA 10852 Industria Argentina Vehículos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41T / NR 740 S46T / TRAKKER 380 T38 / 380 T42 / 410 T42 AD / 720 T42T IVECO: Compresor KNORR K001126 (41211340) / K022263 (504293730) Código Original / Similar: 500354895 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5079",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA / LARGO 780MM. CIPEC",
+        "brand": "Cipec",
+        "code": "10653",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-largo-780mm-cipec-10653.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA / LARGO 780MM. CIPEC 10653 Cipec Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / P 360 LA / P 360 CB / P 400 CA / P 400 CB / P 440 CB Código Original / Similar: 1.851.250 / 2.142.418 / 1.767.481 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5080",
+        "name": "FLEXIBLE LEVANTA CABINA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "10591",
+        "image": "img/products/Flexibles/flexible-levanta-cabina-rigiflex-10591.jpg",
+        "description": "FLEXIBLE LEVANTA CABINA RIGIFLEX 10591 Rigiflex Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 RSU / 170 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28 S / 170 E28T / 170 E30 S / 240 E28 / 240 E28 S / 240 E30 S / TECTOR ATTACK 170 E22 / 170 E22T / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E28 / 240 E22 / 240 E28 / TECTOR STRADALE 240 E25S Código Original / Similar: 504086172 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5081",
+        "name": "FLEXIBLE LUBRICACION DE TURBO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "10594",
+        "image": "img/products/Flexibles/flexible-lubricacion-de-turbo-rigiflex-10594.jpg",
+        "description": "FLEXIBLE LUBRICACION DE TURBO RIGIFLEX 10594 Rigiflex Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISB 6.7L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 1723 / 1729 / 3129_x000D_ VW Constellation 17250 E / 24250 E Código Original / Similar: 2T2/145577/C (VW) 4992268 (Cummins) BH1X/6N639/AA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5082",
+        "name": "FLEXIBLE ENTRADA DE COMBUSTIBLE DE ECM A BOMBA INYECTORA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10255",
+        "image": "img/products/Flexibles/flexible-entrada-de-combustible-de-ecm-a-bomba-inyectora-industria-argentina-10255.jpg",
+        "description": "FLEXIBLE ENTRADA DE COMBUSTIBLE DE ECM A BOMBA INYECTORA INDUSTRIA ARGENTINA 10255 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / Nuevo C1317 / C1517 / C1722 Código Original / Similar: 2R0/130311/J (VW) 3972425 (Cummins) BG5X/9C520/BA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5083",
+        "name": "FLEXIBLE COMBUSTIBLE DESDE FILTRO A BOMBA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10263",
+        "image": "img/products/Flexibles/flexible-combustible-desde-filtro-a-bomba-industria-argentina-10263.jpg",
+        "description": "FLEXIBLE COMBUSTIBLE DESDE FILTRO A BOMBA INDUSTRIA ARGENTINA 10263 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 170 E22 Código Original / Similar: 4897807 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5084",
+        "name": "FLEXIBLE HIDRAULICO DE CABINA 910MM. CIPEC",
+        "brand": "Cipec",
+        "code": "10245",
+        "image": "img/products/Flexibles/flexible-hidraulico-de-cabina-910mm-cipec-10245.jpg",
+        "description": "FLEXIBLE HIDRAULICO DE CABINA 910MM. CIPEC 10245 Cipec Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / P 360 LA / P 360 CB / P 400 CA / P 400 CB / P 440 CB / G 310 LA / G 310 LB / G 360 LA / G 360 LB / G 400 LA / G 440 CA / G 440 LA / G 480 CB / RN 360 LA / RH 400 LA HIGHLINE / RN 400 LA / RH 400 LB HIGHLINE / RN 400 LB / RH 440 LA HIGHLINE / RN 440 LA / RH 480 LA HIGHLINE / RN 480 LA / R 480 LA BI-TREN / RH 560 LA HIGHLINE / R 560 LA BI-TREN / RH 620 LA HIGHLINE Código Original / Similar: 1.851.249 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5085",
+        "name": "FLEXIBLE ESCAPE 4 1/2″ X 475MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10214",
+        "image": "img/products/Flexibles/flexible-escape-4-1-2-x-475mm-tf-p-technology-10214.png",
+        "description": "FLEXIBLE ESCAPE 4 1/2″ X 475MM. TF&P TECHNOLOGY 10214 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / P 360 LA / P 360 CB / P 400 CA / P 400 CB / P 440 CB / G 310 LA / G 310 LB / G 360 LA / G 360 LB / G 400 LA / G 440 CA / G 440 LA / G 480 CB / RN 360 LA / RH 400 LA HIGHLINE / RN 400 LA / RH 400 LB HIGHLINE / RN 400 LB / RH 440 LA HIGHLINE / RN 440 LA / RH 480 LA HIGHLINE / RN 480 LA / R 480 LA BI-TREN / RH 560 LA HIGHLINE / R 560 LA BI-TREN / RH 620 LA HIGHLINE (Euro 5) Código Original / Similar: 1.529.474 / 2.048.090 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5086",
+        "name": "FLEXIBLE ESCAPE 5″ X 750MM. / SALIDA DE ESCAPE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10212",
+        "image": "img/products/Flexibles/flexible-escape-5-x-750mm-salida-de-escape-tf-p-technology-10212.png",
+        "description": "FLEXIBLE ESCAPE 5″ X 750MM. / SALIDA DE ESCAPE TF&P TECHNOLOGY 10212 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 130 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 Código Original / Similar: 21.718.681 (VOLVO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5087",
+        "name": "FLEXIBLE ESCAPE 4 1/2″ X 450MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10213",
+        "image": "img/products/Flexibles/flexible-escape-4-1-2-x-450mm-tf-p-technology-10213.webp",
+        "description": "FLEXIBLE ESCAPE 4 1/2″ X 450MM. TF&P TECHNOLOGY 10213 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / P 360 LA / P 360 CB / P 400 CA / P 400 CB / P 440 CB / G 310 LA / G 310 LB / G 360 LA / G 360 LB / G 400 LA / G 440 CA / G 440 LA / G 480 CB / RN 360 LA / RH 400 LA HIGHLINE / RN 400 LA / RH 400 LB HIGHLINE / RN 400 LB / RH 440 LA HIGHLINE / RN 440 LA / RH 480 LA HIGHLINE / RN 480 LA / R 480 LA BI-TREN / RH 560 LA HIGHLINE / R 560 LA BI-TREN / RH 620 LA HIGHLINE (Euro 5) Código Original / Similar: 1.939.980 (SC) INTERMEDIO AL CATALIZADOR",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5088",
+        "name": "FLEXIBLE ESCAPE 3″ / LARGO 420MM. IMP.",
+        "brand": "Imp",
+        "code": "10130",
+        "image": "img/products/Flexibles/flexible-escape-3-largo-420mm-imp-10130.jpg",
+        "description": "FLEXIBLE ESCAPE 3″ / LARGO 420MM. IMP. 10130 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Constellation 13180 E / 15180 E Código Original / Similar: 2R2/253101/A (IMP.) CON PESTAÑA / GALVANIZADO",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5089",
+        "name": "FLEXIBLE ESCAPE 3″ 1/2″ / LARGO 410MM. IMP.",
+        "brand": "Imp",
+        "code": "10131",
+        "image": "img/products/Flexibles/flexible-escape-3-1-2-largo-410mm-imp-10131.jpg",
+        "description": "FLEXIBLE ESCAPE 3″ 1/2″ / LARGO 410MM. IMP. 10131 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISL Euro 5 FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 Código Original / Similar: 2T0/253101/M (VW) GALVANIZADO",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5090",
+        "name": "FLEXIBLE FRENO DE MOTOR / CARCAZA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "10138",
+        "image": "img/products/Flexibles/flexible-freno-de-motor-carcaza-de-embrague-imp-10138.jpg",
+        "description": "FLEXIBLE FRENO DE MOTOR / CARCAZA DE EMBRAGUE IMP. 10138 Imp Vehículos compatibles: SCANIA: Camiones P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 124 EB / K 124 IB Código Original / Similar: 1.470.472 / 1.801.194 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5091",
+        "name": "FLEXIBLE ESCAPE 3 1/2″ / LARGO 285MM. IMP.",
+        "brand": "Imp",
+        "code": "10068",
+        "image": "img/products/Flexibles/flexible-escape-3-1-2-largo-285mm-imp-10068.jpg",
+        "description": "FLEXIBLE ESCAPE 3 1/2″ / LARGO 285MM. IMP. 10068 Imp Vehículos compatibles: IVECO: Camiones EUROCARGO TECTOR 170 E22 / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR STRADALE 240 E25S Código Original / Similar: 5801223617 (IVECO) ACERO INOXIDABLE",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5092",
+        "name": "FLEXIBLE ESCAPE 3 1/2″ / LARGO 235MM. IMP.",
+        "brand": "Imp",
+        "code": "10069",
+        "image": "img/products/Flexibles/flexible-escape-3-1-2-largo-235mm-imp-10069.jpg",
+        "description": "FLEXIBLE ESCAPE 3 1/2″ / LARGO 235MM. IMP. 10069 Imp Vehículos compatibles: IVECO: Camiones TECTOR ECOLINE 170 E28 / 170 E28 S / 170 E28T / 170 E30 S / 240 E28 / 240 E28 S / 240 E30 S / 260 E28 / 260 E30 / TECTOR ECOLINE ATTACK 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / VERTIS ECOLINE 90 V18 / 130 V19 Código Original / Similar: 5949894511 (IVECO) ACERO INOXIDABLE",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5093",
+        "name": "FLEXIBLE FRENO DELANTERO IZQUIERDO IMP.",
+        "brand": "Imp",
+        "code": "10072",
+        "image": "img/products/Flexibles/flexible-freno-delantero-izquierdo-imp-10072.jpg",
+        "description": "FLEXIBLE FRENO DELANTERO IZQUIERDO IMP. 10072 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Camiones F 4000 (85-95) (Todos con Freno a Disco) Código Original / Similar: 85TU/2B218/C (FORD)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P5094",
+        "name": "ABRAZADERA FLEXIBLE ESCAPE 3 1/2″ / FAJA 26MM. IMP.",
+        "brand": "Imp",
+        "code": "10080",
+        "image": "img/products/Flexibles/abrazadera-flexible-escape-3-1-2-faja-26mm-imp-10080.jpg",
+        "description": "ABRAZADERA FLEXIBLE ESCAPE 3 1/2″ / FAJA 26MM. IMP. 10080 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 26260 E / Constellation 17250 E / 19320 E / 25320 E / 26260 E / 31320 E Código Original / Similar: 2T2/253143/J (VW)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5095",
+        "name": "ABRAZADERA FLEXIBLE DE ESCAPE IMP.",
+        "brand": "Imp",
+        "code": "10082",
+        "image": "img/products/Flexibles/abrazadera-flexible-de-escape-imp-10082.jpg",
+        "description": "ABRAZADERA FLEXIBLE DE ESCAPE IMP. 10082 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17280 / 24280 Código Original / Similar: 2S2/253143/B (VW) S1728 (SDUBO) DIAM. INT. 85MM. / ESPESOR 24MM.",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P5096",
+        "name": "FLEXIBLE LUBRICACION CRAPODINA DE EMBRAGUE COMPLETO 230MM. IMP.",
+        "brand": "Imp",
+        "code": "0984",
+        "image": "img/products/Flexibles/flexible-lubricacion-crapodina-de-embrague-completo-230mm-imp-0984.jpg",
+        "description": "FLEXIBLE LUBRICACION CRAPODINA DE EMBRAGUE COMPLETO 230MM. IMP. 0984 Imp Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D / L 1215 / LK 1218 / L 1521 / L 1526 / LS 1526 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus LO 608 D / OF 1214 / OF 1215 / OF 1315 / OH 1314/46 / OH 1315 / OH 1316 / OH 1318 / OH 1419 / OH 1420 / OHL 1316 / OHL 1526 / 0370 / 0371 UP Código Original / Similar: 335.573.0036 / 305.997.1982 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5097",
+        "name": "FLEXIBLE REFRIGERACION COMPRESOR KNORR 86MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "3705",
+        "image": "img/products/Flexibles/flexible-refrigeracion-compresor-knorr-86mm-rigiflex-3705.jpg",
+        "description": "FLEXIBLE REFRIGERACION COMPRESOR KNORR 86MM. RIGIFLEX 3705 Rigiflex Vehículos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 570 S38T / TRAKKER 380 T38 / 380 T42 / 720 T42T Código Original / Similar: 500354895 (IVECO) 8.126.243 / 8.121.483 (VOLVO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5098",
+        "name": "CAÑO RIGIDO COMPRESOR 2º TRAMO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9730",
+        "image": "img/products/Flexibles/cano-rigido-compresor-2-tramo-rigiflex-9730.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 2º TRAMO RIGIFLEX 9730 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / OH 1621-55 / OH 1721-62 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 368.420.7628 / 368.420.7528 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5099",
+        "name": "CAÑO RIGIDO COMPRESOR 3º TRAMO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9731",
+        "image": "img/products/Flexibles/cano-rigido-compresor-3-tramo-rigiflex-9731.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 3º TRAMO RIGIFLEX 9731 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / OH 1621-55 / OH 1721-62 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 368.420.3428 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5100",
+        "name": "CAÑO RIGIDO COMPRESOR 4º TRAMO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "9732",
+        "image": "img/products/Flexibles/cano-rigido-compresor-4-tramo-rigiflex-9732.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 4º TRAMO RIGIFLEX 9732 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / OH 1621-55 / OH 1721-62 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 368.420.3528 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5101",
+        "name": "CAÑO RIGIDO DE AIRE COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9338",
+        "image": "img/products/Flexibles/cano-rigido-de-aire-compresor-industria-argentina-9338.jpg",
+        "description": "CAÑO RIGIDO DE AIRE COMPRESOR INDUSTRIA ARGENTINA 9338 Industria Argentina Vehículos compatibles: IVECO: Camiones CURSOR ECOLINE 450 C33 Código Original / Similar: 5802038457 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5102",
+        "name": "CAÑO RIGIDO DE EMBRAGUE / AL CILINDRO RECEPTOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9339",
+        "image": "img/products/Flexibles/cano-rigido-de-embrague-al-cilindro-receptor-industria-argentina-9339.jpg",
+        "description": "CAÑO RIGIDO DE EMBRAGUE / AL CILINDRO RECEPTOR INDUSTRIA ARGENTINA 9339 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1620 / L 1633 / LK 2318 / LK 2418 Código Original / Similar: 386.290.8213 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5103",
+        "name": "CAÑO RIGIDO EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "9331",
+        "image": "img/products/Flexibles/cano-rigido-embrague-industria-argentina-9331.jpg",
+        "description": "CAÑO RIGIDO EMBRAGUE INDUSTRIA ARGENTINA 9331 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 Código Original / Similar: 388.290.7113 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5104",
+        "name": "MANGUERA RETORNO DE COMBUSTIBLE / 4 PICOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9193",
+        "image": "img/products/Flexibles/manguera-retorno-de-combustible-4-picos-trucktec-9193.jpg",
+        "description": "MANGUERA RETORNO DE COMBUSTIBLE / 4 PICOS TRUCKTEC 9193 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI Código Original / Similar: 651.070.0132 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5105",
+        "name": "SERPENTINA COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8934",
+        "image": "img/products/Flexibles/serpentina-compresor-rigiflex-8934.jpg",
+        "description": "SERPENTINA COMPRESOR RIGIFLEX 8934 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus 0500 R / 0500 RS / 0500 RSD Código Original / Similar: 634.420.9631 / 634.420.9229 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5106",
+        "name": "TUBO REFRIGERACION TAPA DE CILINDROS / PLASTICO CIPEC",
+        "brand": "Cipec",
+        "code": "8741",
+        "image": "img/products/Flexibles/tubo-refrigeracion-tapa-de-cilindros-plastico-cipec-8741.jpg",
+        "description": "TUBO REFRIGERACION TAPA DE CILINDROS / PLASTICO CIPEC 8741 Cipec Vehículos compatibles: SCANIA: Camiones P 270 / P 310 y Bus K 270 / K 310 (Todos con motor 9 litros +2008) Código Original / Similar: 1.507.013 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5107",
+        "name": "CAÑO RIGIDO FILTRO SEPARADOR AGUA CIPEC",
+        "brand": "Cipec",
+        "code": "8748",
+        "image": "img/products/Flexibles/cano-rigido-filtro-separador-agua-cipec-8748.jpg",
+        "description": "CAÑO RIGIDO FILTRO SEPARADOR AGUA CIPEC 8748 Cipec Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 1.916.728 / 1.888.020 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5108",
+        "name": "TUBO REFRIGERACION TAPA DE CILINDROS CIPEC",
+        "brand": "Cipec",
+        "code": "8749",
+        "image": "img/products/Flexibles/tubo-refrigeracion-tapa-de-cilindros-cipec-8749.jpg",
+        "description": "TUBO REFRIGERACION TAPA DE CILINDROS CIPEC 8749 Cipec Vehículos compatibles: SCANIA: Camiones P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / G 310 LA / G 310 LB y Bus N 250 UB / N 250 UD / N 250 UA / N 280 UB / N 280 UD / N 280 UA / N 310 UB / N 310 UD / N 310 UA / F 250 HB / F 250 HA / F 280 / F 310 HB / F 310 HA / F 320 / K 250 / K 280 / K 310 / K 320 (Todos con motor 9 litros +2015) Código Original / Similar: 2.145.693 / 1.901.363 / 2.048.026 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5109",
+        "name": "CAÑO RIGIDO SALIDA COMPRESOR / 1º TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "8451",
+        "image": "img/products/Flexibles/cano-rigido-salida-compresor-1-tramo-industria-argentina-8451.jpg",
+        "description": "CAÑO RIGIDO SALIDA COMPRESOR / 1º TRAMO INDUSTRIA ARGENTINA 8451 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25 T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25S y Bus CC 118 E22 / CC 170 E22 Código Original / Similar: 504052300 (IVECO) METERIAL CHAPA",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5110",
+        "name": "CAÑO RIGIDO SALIDA COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8452",
+        "image": "img/products/Flexibles/cano-rigido-salida-compresor-rigiflex-8452.jpg",
+        "description": "CAÑO RIGIDO SALIDA COMPRESOR RIGIFLEX 8452 Rigiflex Vehículos compatibles: IVECO: Camiones EUROCARGO 120 E15 / 150 E20N / 150 E20T / 160 E21 / 160 E23 Código Original / Similar: 98478647 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5111",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 7.89MM. RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8149",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-recto-hembra-7-89mm-rigiflex-8149.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 7.89MM. RIGIFLEX 8149 Rigiflex Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA POLIAMIDA INT. 3MM. / PARA MANGUERA 5/16 X 1/4",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5112",
+        "name": "ENTREROSCA 22MM. X 16MM. TUBO-TUBO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "8062",
+        "image": "img/products/Flexibles/entrerosca-22mm-x-16mm-tubo-tubo-rigiflex-8062.jpg",
+        "description": "ENTREROSCA 22MM. X 16MM. TUBO-TUBO RIGIFLEX 8062 Rigiflex Vehículos compatibles: UNIVERSAL: UNIVERSAL Todos los modelos Código Original / Similar:",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5113",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 6.30MM RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "7699",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-recto-hembra-6-30mm-rigiflex-7699.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 6.30MM RIGIFLEX 7699 Rigiflex Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA POLIAMIDA INT. 3MM. / PARA MANGUERA 5/16 X 5/16",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5114",
+        "name": "SERPENTINA DE REFRIGERACION DEL COMPRESOR CIPEC",
+        "brand": "Cipec",
+        "code": "7587",
+        "image": "img/products/Flexibles/serpentina-de-refrigeracion-del-compresor-cipec-7587.jpg",
+        "description": "SERPENTINA DE REFRIGERACION DEL COMPRESOR CIPEC 7587 Cipec Vehículos compatibles: SCANIA: Camiones P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.376.865 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5115",
+        "name": "CAÑO SALIDA COMPRESOR AL SECADOR / 1º TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "7262",
+        "image": "img/products/Flexibles/cano-salida-compresor-al-secador-1-tramo-industria-argentina-7262.jpg",
+        "description": "CAÑO SALIDA COMPRESOR AL SECADOR / 1º TRAMO INDUSTRIA ARGENTINA 7262 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 / OF 1722 Código Original / Similar: 384.420.1426 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5116",
+        "name": "CONECTOR RAPIDO DE MANGUERAS IMP.",
+        "brand": "Imp",
+        "code": "7096",
+        "image": "img/products/Flexibles/conector-rapido-de-mangueras-imp-7096.jpg",
+        "description": "CONECTOR RAPIDO DE MANGUERAS IMP. 7096 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317e / 1517e / 1722e / 1832e / 2632e / Nuevo C1317 / C1517 / C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 – ISCe6 Código Original / Similar: BH0X/2876/AA / BG5X/2876/DA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5117",
+        "name": "CONECTOR TANQUE COMBUSTIBLE RECTO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6965",
+        "image": "img/products/Flexibles/conector-tanque-combustible-recto-industria-argentina-6965.jpg",
+        "description": "CONECTOR TANQUE COMBUSTIBLE RECTO INDUSTRIA ARGENTINA 6965 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Camiones FORD Y VW Varios Modelos MERCEDES BENZ: Camiones y Buses MB Varios Modelos Código Original / Similar: PLASTICO / RACOR 12MM. / PARA POLIAMIDA 12 X 9",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5118",
+        "name": "CAÑO RIGIDO SALIDA DE AIRE DEL SECADOR AL COMPRESOR / 1º TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6969",
+        "image": "img/products/Flexibles/cano-rigido-salida-de-aire-del-secador-al-compresor-1-tramo-industria-argentina-6969.jpg",
+        "description": "CAÑO RIGIDO SALIDA DE AIRE DEL SECADOR AL COMPRESOR / 1º TRAMO INDUSTRIA ARGENTINA 6969 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 / OF 1722 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 384.420.3636 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5119",
+        "name": "MANGUERA COMBUSTIBLE / DEL FILTRO A LA BOMBA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6935",
+        "image": "img/products/Flexibles/manguera-combustible-del-filtro-a-la-bomba-trucktec-6935.jpg",
+        "description": "MANGUERA COMBUSTIBLE / DEL FILTRO A LA BOMBA TRUCKTEC 6935 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.070.2032 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5120",
+        "name": "MANGUERA COMBUSTIBLE / DE BOMBA DE ALIMENTACION A SENSOR DE PRESION INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6936",
+        "image": "img/products/Flexibles/manguera-combustible-de-bomba-de-alimentacion-a-sensor-de-presion-industria-argentina-6936.jpg",
+        "description": "MANGUERA COMBUSTIBLE / DE BOMBA DE ALIMENTACION A SENSOR DE PRESION INDUSTRIA ARGENTINA 6936 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.070.7632 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5121",
+        "name": "MANGUERA COMBUSTIBLE / DE BOMBA DE ALTA PRESION A LA VALVULA REGULADORA DE PRESION TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6937",
+        "image": "img/products/Flexibles/manguera-combustible-de-bomba-de-alta-presion-a-la-valvula-reguladora-de-presion-trucktec-6937.jpg",
+        "description": "MANGUERA COMBUSTIBLE / DE BOMBA DE ALTA PRESION A LA VALVULA REGULADORA DE PRESION TRUCKTEC 6937 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.070.2932 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5122",
+        "name": "CAÑO RIGIDO SALIDA AIRE COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6895",
+        "image": "img/products/Flexibles/cano-rigido-salida-aire-compresor-industria-argentina-6895.jpg",
+        "description": "CAÑO RIGIDO SALIDA AIRE COMPRESOR INDUSTRIA ARGENTINA 6895 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 / LS 1634 / L 1634 EL / LS 1634 EL Código Original / Similar: 695.420.0136 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5123",
+        "name": "CAÑO RIGIDO COMPRESOR / DESDE EL SECADOR DE AIRE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6896",
+        "image": "img/products/Flexibles/cano-rigido-compresor-desde-el-secador-de-aire-industria-argentina-6896.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR / DESDE EL SECADOR DE AIRE INDUSTRIA ARGENTINA 6896 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / LS 1938 EL / L 2638/54 Código Original / Similar: 696.420.7436 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5124",
+        "name": "CAÑO RIGIDO SALIDA DE COMPRESOR / AL SECADOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6903",
+        "image": "img/products/Flexibles/cano-rigido-salida-de-compresor-al-secador-industria-argentina-6903.jpg",
+        "description": "CAÑO RIGIDO SALIDA DE COMPRESOR / AL SECADOR INDUSTRIA ARGENTINA 6903 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1720 Código Original / Similar: 695.420.2628 / 695.420.9026 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5125",
+        "name": "CAÑO RIGIDO TERCER TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6888",
+        "image": "img/products/Flexibles/cano-rigido-tercer-tramo-industria-argentina-6888.jpg",
+        "description": "CAÑO RIGIDO TERCER TRAMO INDUSTRIA ARGENTINA 6888 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Bus 17210 OD Código Original / Similar: TAR/607312/C (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5126",
+        "name": "SERPENTINA SALIDA DE AIRE DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6889",
+        "image": "img/products/Flexibles/serpentina-salida-de-aire-del-compresor-industria-argentina-6889.jpg",
+        "description": "SERPENTINA SALIDA DE AIRE DEL COMPRESOR INDUSTRIA ARGENTINA 6889 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1832e Código Original / Similar: 4C45/2A165/AA (FORD / VW / CUMMINS / MWM) 4C45/2A165/AC / 4C45/2A165/AB (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5127",
+        "name": "CAÑO RIGIDO SALIDA DE COMPRESOR / AL SECADOR DE AIRE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6892",
+        "image": "img/products/Flexibles/cano-rigido-salida-de-compresor-al-secador-de-aire-industria-argentina-6892.jpg",
+        "description": "CAÑO RIGIDO SALIDA DE COMPRESOR / AL SECADOR DE AIRE INDUSTRIA ARGENTINA 6892 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 Código Original / Similar: 384.420.1826 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5128",
+        "name": "CAÑO INYECTOR Nº 3 / Nº 5 (-2011) ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6533",
+        "image": "img/products/Flexibles/cano-inyector-n-3-n-5-2011-engine-parts-6533.jpg",
+        "description": "CAÑO INYECTOR Nº 3 / Nº 5 (-2011) ENGINE PARTS 6533 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 FORD / VW / CUMMINS / MWM: VW 17250 E / Constellation 17250 E Código Original / Similar: 2830621 (Cummins) 2S0/130303/C (VW) BG5X/9A557/AA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5129",
+        "name": "CAÑO RIGIDO LUBRICACION DE TURBO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "6345",
+        "image": "img/products/Flexibles/cano-rigido-lubricacion-de-turbo-rigiflex-6345.jpg",
+        "description": "CAÑO RIGIDO LUBRICACION DE TURBO RIGIFLEX 6345 Rigiflex Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI Código Original / Similar: 651.180.1220 / 651.180.0320 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5130",
+        "name": "CAÑO RIGIDO SALIDA DE COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "6356",
+        "image": "img/products/Flexibles/cano-rigido-salida-de-compresor-rigiflex-6356.jpg",
+        "description": "CAÑO RIGIDO SALIDA DE COMPRESOR RIGIFLEX 6356 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones ATEGO 1726 / 1729 / 2426 / 2730 B / 2730 K MERCEDES BENZ: Motores MB OM 926 LA Código Original / Similar: 958.420.0431 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5131",
+        "name": "TUBO SUCCION DE ACEITE BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "6287",
+        "image": "img/products/Flexibles/tubo-succion-de-aceite-blk-diesel-6287.jpg",
+        "description": "TUBO SUCCION DE ACEITE BLK DIESEL 6287 BLK Diesel Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 FORD / VW / CUMMINS / MWM: VW Constellation 17250 E Código Original / Similar: 2S0/115253/B (VW) 3287755 (Cummins) BG5X/9C330/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5132",
+        "name": "CAÑO LUBRICACION DE TURBO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5964",
+        "image": "img/products/Flexibles/cano-lubricacion-de-turbo-industria-argentina-5964.jpg",
+        "description": "CAÑO LUBRICACION DE TURBO INDUSTRIA ARGENTINA 5964 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / 1214 C y Bus LO 812 / LO 813 D / LO 814 MERCEDES BENZ: Motores MB OM 364 A / OM 364 LA Código Original / Similar: 374.180.7220 / 374.180.7020 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5133",
+        "name": "CAÑO LUBRICACION DE TURBO / CENTRAL INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5965",
+        "image": "img/products/Flexibles/cano-lubricacion-de-turbo-central-industria-argentina-5965.jpg",
+        "description": "CAÑO LUBRICACION DE TURBO / CENTRAL INDUSTRIA ARGENTINA 5965 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones LK 1218 MERCEDES BENZ: Motores MB OM 366 A Código Original / Similar: 376.180.7020 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5134",
+        "name": "CAÑO LUBRICACION DE TURBO / FRONTAL INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5966",
+        "image": "img/products/Flexibles/cano-lubricacion-de-turbo-frontal-industria-argentina-5966.jpg",
+        "description": "CAÑO LUBRICACION DE TURBO / FRONTAL INDUSTRIA ARGENTINA 5966 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones LK 1615 / L 1618/45 / L 1619 / L 1620 / LK 2318 / LK 2418 / L 1622 / LS 1622 y Bus OH 1320 / OHL 1420 MERCEDES BENZ: Motores MB OM 366 A / OM 366 LA Código Original / Similar: 376.180.0020 / 372.180.0020 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5135",
+        "name": "CAÑO RIGIDO BOMBA ALIMENTADORA DE COMBUSTIBLE BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "5765",
+        "image": "img/products/Flexibles/cano-rigido-bomba-alimentadora-de-combustible-blk-diesel-5765.jpg",
+        "description": "CAÑO RIGIDO BOMBA ALIMENTADORA DE COMBUSTIBLE BLK DIESEL 5765 BLK Diesel Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / F 100 (98-06) / F 4000 (+96) FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4BTAA Código Original / Similar: 3905649 (Cummins) BF5T/9R272/AA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5136",
+        "name": "CAÑO RIGIDO PURGA COMBUSTIBLE ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "5767",
+        "image": "img/products/Flexibles/cano-rigido-purga-combustible-engine-parts-5767.jpg",
+        "description": "CAÑO RIGIDO PURGA COMBUSTIBLE ENGINE PARTS 5767 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2T2/130311/A (VW) 3968426 (Cummins) BG6X/9325/BA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5137",
+        "name": "TUBO SUMINISTRO COMBUSTIBLE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5572",
+        "image": "img/products/Flexibles/tubo-suministro-combustible-industria-argentina-5572.jpg",
+        "description": "TUBO SUMINISTRO COMBUSTIBLE INDUSTRIA ARGENTINA 5572 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1416 / 1716 / 1317 / 1517 / F14000 (99-2005) / F 100 (99-06) / F 4000 (96-98) FORD / VW / CUMMINS / MWM: Motores CUMMINS 4 BTAA – 6BT – 6BTA – 6BTAA FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17210 Código Original / Similar: 2RL/130963 (VW) 3905364 / 3908988 (Cummins) BF5X/9C520/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5138",
+        "name": "CAÑO RIGIDO ANTIHUMO CON RODAJAS DE 12MM. Y 16MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5406",
+        "image": "img/products/Flexibles/cano-rigido-antihumo-con-rodajas-de-12mm-y-16mm-industria-argentina-5406.jpg",
+        "description": "CAÑO RIGIDO ANTIHUMO CON RODAJAS DE 12MM. Y 16MM. INDUSTRIA ARGENTINA 5406 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus K 113 Código Original / Similar: 1.677.095 (SC)",
+        "rubro": "FLEXIBLES DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5139",
+        "name": "CAÑO RIGIDO ANTIHUMO CON RODAJAS DE 12MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5408",
+        "image": "img/products/Flexibles/cano-rigido-antihumo-con-rodajas-de-12mm-industria-argentina-5408.jpg",
+        "description": "CAÑO RIGIDO ANTIHUMO CON RODAJAS DE 12MM. INDUSTRIA ARGENTINA 5408 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus K 113 Código Original / Similar: 357.107 (SC)",
+        "rubro": "FLEXIBLES DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5140",
+        "name": "CAÑO RIGIDO DEL FILTRO DE AGUA A LA ADMISION INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5414",
+        "image": "img/products/Flexibles/cano-rigido-del-filtro-de-agua-a-la-admision-industria-argentina-5414.jpg",
+        "description": "CAÑO RIGIDO DEL FILTRO DE AGUA A LA ADMISION INDUSTRIA ARGENTINA 5414 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 113 / K 113 / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 810.456 / 811.868 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5141",
+        "name": "CAÑO RIGIDO ENTRADA DE COMBUSTIBLE A LA BOMBA INYECTORA / 14MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5415",
+        "image": "img/products/Flexibles/cano-rigido-entrada-de-combustible-a-la-bomba-inyectora-14mm-industria-argentina-5415.jpg",
+        "description": "CAÑO RIGIDO ENTRADA DE COMBUSTIBLE A LA BOMBA INYECTORA / 14MM. INDUSTRIA ARGENTINA 5415 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 113 Código Original / Similar: 297.754 (SC)",
+        "rubro": "FLEXIBLES DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5142",
+        "name": "CAÑO RIGIDO RETORNO DE COMBUSTIBLE DE LA BOMBA INYECTORA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5416",
+        "image": "img/products/Flexibles/cano-rigido-retorno-de-combustible-de-la-bomba-inyectora-industria-argentina-5416.jpg",
+        "description": "CAÑO RIGIDO RETORNO DE COMBUSTIBLE DE LA BOMBA INYECTORA INDUSTRIA ARGENTINA 5416 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 113 / T 113 y Bus F 113 / K 113 Código Original / Similar: 1.673.295 / 1.362.996 (SC)",
+        "rubro": "FLEXIBLES DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5143",
+        "name": "CAÑO RIGIDO COMPRESOR DE AIRE 730MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5418",
+        "image": "img/products/Flexibles/cano-rigido-compresor-de-aire-730mm-industria-argentina-5418.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR DE AIRE 730MM. INDUSTRIA ARGENTINA 5418 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 / R 143 / T 143 y Bus F 113 / K 113 Código Original / Similar: 810.467 / 537.107 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5144",
+        "name": "TUBO VENTILACION DEL BLOCK INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4897",
+        "image": "img/products/Flexibles/tubo-ventilacion-del-block-industria-argentina-4897.jpg",
+        "description": "TUBO VENTILACION DEL BLOCK INDUSTRIA ARGENTINA 4897 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 FORD / VW / CUMMINS / MWM: VW 17310 / 18310 / 26310 Código Original / Similar: 2RK/127699 (VW) 3924589 (Cummins) TJG/127699 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5145",
+        "name": "CAÑO RIGIDO LUBRICACION BOMBA INYECTORA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4899",
+        "image": "img/products/Flexibles/cano-rigido-lubricacion-bomba-inyectora-industria-argentina-4899.jpg",
+        "description": "CAÑO RIGIDO LUBRICACION BOMBA INYECTORA INDUSTRIA ARGENTINA 4899 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 24250 Código Original / Similar: 3909554 (Cummins) TE3/127699 (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5146",
+        "name": "CAÑO RIGIDO DESCARGA DEL COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4903",
+        "image": "img/products/Flexibles/cano-rigido-descarga-del-compresor-industria-argentina-4903.jpg",
+        "description": "CAÑO RIGIDO DESCARGA DEL COMPRESOR INDUSTRIA ARGENTINA 4903 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 17260 EOT Código Original / Similar: TEG/607312/B / 2TB/607312/A (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5147",
+        "name": "CAÑO RIGIDO COMPRESOR CON SILENCIADOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4904",
+        "image": "img/products/Flexibles/cano-rigido-compresor-con-silenciador-industria-argentina-4904.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR CON SILENCIADOR INDUSTRIA ARGENTINA 4904 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 E / 15180 E / 17250 E Código Original / Similar: 2T0/607312/A (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5148",
+        "name": "CAÑO INYECTOR Nº 5 / LARGO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4796",
+        "image": "img/products/Flexibles/cano-inyector-n-5-largo-industria-argentina-4796.jpg",
+        "description": "CAÑO INYECTOR Nº 5 / LARGO INDUSTRIA ARGENTINA 4796 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 MERCEDES BENZ: Motores MB OM 366 LA Código Original / Similar: 376.070.2333 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5149",
+        "name": "SERPENTINA COMPRESOR / A VALVULA APU RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "4202",
+        "image": "img/products/Flexibles/serpentina-compresor-a-valvula-apu-rigiflex-4202.jpg",
+        "description": "SERPENTINA COMPRESOR / A VALVULA APU RIGIFLEX 4202 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus 0500 M 1725 / 0500 U 1725 Código Original / Similar: 382.420.4828 / 382.420.7429 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5150",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE / UREA CODO 90º PARA MANGUERA 5/16 / PLASTICO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "3897",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-urea-codo-90-para-manguera-5-16-plastico-rigiflex-3897.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE / UREA CODO 90º PARA MANGUERA 5/16 / PLASTICO RIGIFLEX 3897 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OF 1519 / OF 1721 / OF 1724 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA / OM 926 LA Código Original / Similar: HEMBRA 6.30MM. X RACORD PARA POLIAMIDA INTERIOR 3MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5151",
+        "name": "CAÑO RIGIDO DEL TURBO / RETORNO DE ACEITE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "3534",
+        "image": "img/products/Flexibles/cano-rigido-del-turbo-retorno-de-aceite-rigiflex-3534.jpg",
+        "description": "CAÑO RIGIDO DEL TURBO / RETORNO DE ACEITE RIGIFLEX 3534 Rigiflex Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI Código Original / Similar: 651.180.0722 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5152",
+        "name": "CAÑO RIGIDO COMPRESOR 1º TRAMO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "2781",
+        "image": "img/products/Flexibles/cano-rigido-compresor-1-tramo-rigiflex-2781.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 1º TRAMO RIGIFLEX 2781 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / OH 1621-55 / OH 1721-62 MERCEDES BENZ: Motores MB OM 904 LA / OM 924 LA Código Original / Similar: 368.420.1428 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5153",
+        "name": "CAÑO RIGIDO DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "2497",
+        "image": "img/products/Flexibles/cano-rigido-de-embrague-industria-argentina-2497.jpg",
+        "description": "CAÑO RIGIDO DE EMBRAGUE INDUSTRIA ARGENTINA 2497 Industria Argentina Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Código Original / Similar: 4655031 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5154",
+        "name": "CAÑO RIGIDO DE COMPRESOR / AL DEPOSITO DE AIRE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "2393",
+        "image": "img/products/Flexibles/cano-rigido-de-compresor-al-deposito-de-aire-rigiflex-2393.jpg",
+        "description": "CAÑO RIGIDO DE COMPRESOR / AL DEPOSITO DE AIRE RIGIFLEX 2393 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus 0500 RSD Código Original / Similar: 634.420.7335 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5155",
+        "name": "CAÑO RIGIDO DE COMPRESOR / A VALVULA APU RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "2387",
+        "image": "img/products/Flexibles/cano-rigido-de-compresor-a-valvula-apu-rigiflex-2387.jpg",
+        "description": "CAÑO RIGIDO DE COMPRESOR / A VALVULA APU RIGIFLEX 2387 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Código Original / Similar: 634.420.9034 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5156",
+        "name": "CAÑO RIGIDO DE COMPRESOR / AL SEPARADOR DE AGUA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "2390",
+        "image": "img/products/Flexibles/cano-rigido-de-compresor-al-separador-de-agua-rigiflex-2390.jpg",
+        "description": "CAÑO RIGIDO DE COMPRESOR / AL SEPARADOR DE AGUA RIGIFLEX 2390 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Código Original / Similar: 634.420.0935 / 634.420.2336 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5157",
+        "name": "CAÑO RIGIDO COMBUSTIBLE CORTO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1628",
+        "image": "img/products/Flexibles/cano-rigido-combustible-corto-rigiflex-1628.jpg",
+        "description": "CAÑO RIGIDO COMBUSTIBLE CORTO RIGIFLEX 1628 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA Código Original / Similar: 368.470.1824 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5158",
+        "name": "CAÑO RIGIDO COMBUSTIBLE LARGO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1563",
+        "image": "img/products/Flexibles/cano-rigido-combustible-largo-rigiflex-1563.jpg",
+        "description": "CAÑO RIGIDO COMBUSTIBLE LARGO RIGIFLEX 1563 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA Código Original / Similar: 368.470.2024 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5159",
+        "name": "CAÑO RIGIDO COMPRESOR 2DO. TRAMO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "1579",
+        "image": "img/products/Flexibles/cano-rigido-compresor-2do-tramo-rigiflex-1579.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR 2DO. TRAMO RIGIFLEX 1579 Rigiflex Vehículos compatibles: IVECO: Camiones STRALIS ECOLINE 200 S40 AT / 200 S44 AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S44 AT / 490 S40T / 490 S44T AS / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-ROAD 200 S44 / 200 S44T / 600 S44T / STRALIS ECOLINE HI-ROAD EUROTRONIC 490 S40T / 490 S44T / 600 S40T / 600 S44T / 800 S44TZ / 800 S48TZ / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TRAKKER ECOLINE 380 T44 AD / 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 410 T44 AD / 410 T44 AT / 410 T48 AD / 410 T48 AT / 500 T48 AD / 740 T48T AD / TRAKKER ECOLINE HI-LAND EUROTRONIC 380 T44 AD / 380 T44 AT Código Original / Similar: 504384362 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5160",
+        "name": "CAÑO SUMINISTRO COMBUSTIBLE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14898",
+        "image": "img/products/Flexibles/cano-suministro-combustible-industria-argentina-14898.jpg",
+        "description": "CAÑO SUMINISTRO COMBUSTIBLE INDUSTRIA ARGENTINA 14898 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 36 FORD / VW / CUMMINS / MWM: VW Constellation 17280 / 24280 / 26280 / 31280 y Bus 17280 OT / 18280 OT Código Original / Similar: 07W/142423/A (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5161",
+        "name": "CAÑO DESCARGA DE ACEITE DEL TURBO LARGO 410MM. ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "14853",
+        "image": "img/products/Flexibles/cano-descarga-de-aceite-del-turbo-largo-410mm-engine-parts-14853.webp",
+        "description": "CAÑO DESCARGA DE ACEITE DEL TURBO LARGO 410MM. ENGINE PARTS 14853 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / F 100 (+06) / Nuevo C1317 / C1517 / 916 / 1119 / 1519 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 3.9 Y 4.5 Litros FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E Código Original / Similar: 2R0/145877 (VW) 4898497 / 3287818 / 4898495 (Cummins) BG6T/6415/AA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5162",
+        "name": "CAÑO RIGIDO DESCARGA DE COMPRESOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14487",
+        "image": "img/products/Flexibles/cano-rigido-descarga-de-compresor-industria-argentina-14487.jpg",
+        "description": "CAÑO RIGIDO DESCARGA DE COMPRESOR INDUSTRIA ARGENTINA 14487 Industria Argentina Vehículos compatibles: IVECO: Utilitarios DAILY 70 C16 HD Código Original / Similar: 5801262449 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5163",
+        "name": "CAÑO RIGIDO DE BLOCK A FILTRO DE ACEITE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14488",
+        "image": "img/products/Flexibles/cano-rigido-de-block-a-filtro-de-aceite-industria-argentina-14488.jpg",
+        "description": "CAÑO RIGIDO DE BLOCK A FILTRO DE ACEITE INDUSTRIA ARGENTINA 14488 Industria Argentina Vehículos compatibles: SCANIA: Camiones R 112 / T 112 y Bus K 113 Código Original / Similar: 312.838 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5164",
+        "name": "SILENCIADOR CAÑERIA A COMPRESOR DE AIRE RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "14117",
+        "image": "img/products/Flexibles/silenciador-caneria-a-compresor-de-aire-rigiflex-14117.jpg",
+        "description": "SILENCIADOR CAÑERIA A COMPRESOR DE AIRE RIGIFLEX 14117 Rigiflex Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E24 / 230 E24 / 260 E25 / TECTOR 170 E25 / 240 E25 / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28 S / 170 E28 T / 170 E30S / 170 E30T / 170 E30 AUT. / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / 310 E28 / 310 E30 / 17-280 / 17-300 AUT. / 240-280 / 24-280 / 24-300 AUT. / 31-280 / 31-300 AUT. / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 240 E22 / 260 E25 / TECTOR ATTACK ECOLINE 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / 270 E28 RSU / TECTOR STRADALE 240 E25S y Bus CC118 E20 GNC / CC 118 E22 / CC 170 E22 Código Original / Similar: 504037196 (IVECO)",
+        "rubro": "FLEXIBLES Y RIGIDOS DE COMPR."
+    },
+    {
+        "id": "P5165",
+        "name": "CAÑO RIGIDO COMPRESOR AIRE 2º TRAMO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14048",
+        "image": "img/products/Flexibles/cano-rigido-compresor-aire-2-tramo-industria-argentina-14048.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR AIRE 2º TRAMO INDUSTRIA ARGENTINA 14048 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1624 / ATRON 1624 / AXOR 1933 / 2035 / 2036 / 2040 / 2041 / 2044 / 2533 / 2535 / 2536 / 2540 / 2544 / 2831 B / 2831 K / 2831/48 / 3340 K / 3341 / 3344 Código Original / Similar: 958.420.3430 / 694.420.4626 (MB) 958.420.9326 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5166",
+        "name": "CAÑO RIGIDO SALIDA COMPRESOR AIRE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "14049",
+        "image": "img/products/Flexibles/cano-rigido-salida-compresor-aire-industria-argentina-14049.jpg",
+        "description": "CAÑO RIGIDO SALIDA COMPRESOR AIRE INDUSTRIA ARGENTINA 14049 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1624 / ATRON 1624 Código Original / Similar: 694.420.4426 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5167",
+        "name": "ABRAZADERA TUBO DE ESCAPE CIPEC",
+        "brand": "Cipec",
+        "code": "13969",
+        "image": "img/products/Flexibles/abrazadera-tubo-de-escape-cipec-13969.jpg",
+        "description": "ABRAZADERA TUBO DE ESCAPE CIPEC 13969 Cipec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB Código Original / Similar: 1.422.474 / 1.387.136 / 1.863.831 (SC) ENTRE FLEXIBLES / ACERO INOXIDABLE",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P5168",
+        "name": "CAÑO LUBRICACION TURBO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13918",
+        "image": "img/products/Flexibles/cano-lubricacion-turbo-trucktec-13918.jpg",
+        "description": "CAÑO LUBRICACION TURBO TRUCKTEC 13918 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 815 / 915 C / 1016 / ATEGO 1418 / 1419 / 1725 / 1726 / 2425/48 / 2426 / ATRON 1720 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K / 3131 B/36 / 3131 K/36 / 3131/48 y Bus LO 914 / LO 915 / LO 916 / OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1721 / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 M 1826 / 0500 U 1826 MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 906.180.0922 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5169",
+        "name": "CAÑO RETORNO COMBUSTIBLE ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "1321",
+        "image": "img/products/Flexibles/cano-retorno-combustible-engine-parts-1321.jpg",
+        "description": "CAÑO RETORNO COMBUSTIBLE ENGINE PARTS 1321 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / 24250 E / Constellation 17250 E Código Original / Similar: 2S0/130311/C (VW) 3964119 / 4928883 (Cummins) BG5X/9325/AA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5170",
+        "name": "CAÑO RIGIDO LUBRICACION ACEITE AL TURBO RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "12947",
+        "image": "img/products/Flexibles/cano-rigido-lubricacion-aceite-al-turbo-rigiflex-12947.jpg",
+        "description": "CAÑO RIGIDO LUBRICACION ACEITE AL TURBO RIGIFLEX 12947 Rigiflex Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 316 CDI / 416 CDI / 516 CDI Código Original / Similar: 651.180.1820 / 651.180.1620 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5171",
+        "name": "MANGUERA COMBUSTIBLE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11826",
+        "image": "img/products/Flexibles/manguera-combustible-trucktec-11826.jpg",
+        "description": "MANGUERA COMBUSTIBLE TRUCKTEC 11826 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.070.6832 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5172",
+        "name": "CAÑO RIGIDO DE AGUA / REFRIGERACION INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11786",
+        "image": "img/products/Flexibles/cano-rigido-de-agua-refrigeracion-industria-argentina-11786.jpg",
+        "description": "CAÑO RIGIDO DE AGUA / REFRIGERACION INDUSTRIA ARGENTINA 11786 Industria Argentina Vehículos compatibles: IVECO: Utilitarios DAILY 35.10 / 35.12 / 35.13 / 38.13 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 60.12 / 60.13 / 70.12 / 70.13 Código Original / Similar: 99457054 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5173",
+        "name": "UNION DOBLE COMPLETA PARA TUBO DE 6MM. CON INSERTO CIPEC",
+        "brand": "Cipec",
+        "code": "11323",
+        "image": "img/products/Flexibles/union-doble-completa-para-tubo-de-6mm-con-inserto-cipec-11323.jpg",
+        "description": "UNION DOBLE COMPLETA PARA TUBO DE 6MM. CON INSERTO CIPEC 11323 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.875 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5174",
+        "name": "UNION DOBLE COMPLETA PARA TUBO DE 8MM. CON INSERTO CIPEC",
+        "brand": "Cipec",
+        "code": "11324",
+        "image": "img/products/Flexibles/union-doble-completa-para-tubo-de-8mm-con-inserto-cipec-11324.jpg",
+        "description": "UNION DOBLE COMPLETA PARA TUBO DE 8MM. CON INSERTO CIPEC 11324 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.876 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5175",
+        "name": "UNION DOBLE COMPLETA PARA TUBO DE 12MM. CIPEC",
+        "brand": "Cipec",
+        "code": "11325",
+        "image": "img/products/Flexibles/union-doble-completa-para-tubo-de-12mm-cipec-11325.jpg",
+        "description": "UNION DOBLE COMPLETA PARA TUBO DE 12MM. CIPEC 11325 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.878 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5176",
+        "name": "TUERCA UNION DOBLE R14 X 1.5MM / PARA TUBO DE 8 X 5MM. 813017 / BICROMATIZADA CIPEC",
+        "brand": "Cipec",
+        "code": "11301",
+        "image": "img/products/Flexibles/tuerca-union-doble-r14-x-1-5mm-para-tubo-de-8-x-5mm-813017-bicromatizada-cipec-11301.jpg",
+        "description": "TUERCA UNION DOBLE R14 X 1.5MM / PARA TUBO DE 8 X 5MM. 813017 / BICROMATIZADA CIPEC 11301 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 / N 280 / N 250 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 814.553 / 812.894 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5177",
+        "name": "UNION DOBLE R12 X 1.5MM / PARA TUBO DE 6MM. CIPEC",
+        "brand": "Cipec",
+        "code": "11292",
+        "image": "img/products/Flexibles/union-doble-r12-x-1-5mm-para-tubo-de-6mm-cipec-11292.jpg",
+        "description": "UNION DOBLE R12 X 1.5MM / PARA TUBO DE 6MM. CIPEC 11292 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.875 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5178",
+        "name": "UNION DOBLE R14 X 1.5MM / PARA TUBO DE 8MM CIPEC",
+        "brand": "Cipec",
+        "code": "11293",
+        "image": "img/products/Flexibles/union-doble-r14-x-1-5mm-para-tubo-de-8mm-cipec-11293.jpg",
+        "description": "UNION DOBLE R14 X 1.5MM / PARA TUBO DE 8MM CIPEC 11293 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.876 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5179",
+        "name": "UNION DOBLE R16 X 1.5MM / PARA TUBO DE 10MM. CIPEC",
+        "brand": "Cipec",
+        "code": "11294",
+        "image": "img/products/Flexibles/union-doble-r16-x-1-5mm-para-tubo-de-10mm-cipec-11294.jpg",
+        "description": "UNION DOBLE R16 X 1.5MM / PARA TUBO DE 10MM. CIPEC 11294 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.877 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5180",
+        "name": "UNION DOBLE R18 X 1.5MM / PARA TUBO DE 12MM. CIPEC",
+        "brand": "Cipec",
+        "code": "11295",
+        "image": "img/products/Flexibles/union-doble-r18-x-1-5mm-para-tubo-de-12mm-cipec-11295.jpg",
+        "description": "UNION DOBLE R18 X 1.5MM / PARA TUBO DE 12MM. CIPEC 11295 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 Código Original / Similar: 812.878 (SC)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5181",
+        "name": "CONECTOR 3 VIAS TIPO «T» INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10878",
+        "image": "img/products/Flexibles/conector-3-vias-tipo-t-industria-argentina-10878.jpg",
+        "description": "CONECTOR 3 VIAS TIPO «T» INDUSTRIA ARGENTINA 10878 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA MANGUERA INT. 8MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5182",
+        "name": "CONECTOR UREA RECTO HEMBRA 9.49MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10879",
+        "image": "img/products/Flexibles/conector-urea-recto-hembra-9-49mm-industria-argentina-10879.jpg",
+        "description": "CONECTOR UREA RECTO HEMBRA 9.49MM INDUSTRIA ARGENTINA 10879 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA POLIAMIDA INT. 8MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5183",
+        "name": "CONECTOR MANGUERA RECTO TIPO VOSS NG12 INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10880",
+        "image": "img/products/Flexibles/conector-manguera-recto-tipo-voss-ng12-industria-argentina-10880.jpg",
+        "description": "CONECTOR MANGUERA RECTO TIPO VOSS NG12 INDUSTRIA ARGENTINA 10880 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: 000.990.6878 (MB) 2VC/608717/A (VW) PARA MANGUERA 12MM. / PLASTICO",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5184",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 11.8MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10882",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-recto-hembra-11-8mm-industria-argentina-10882.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 11.8MM INDUSTRIA ARGENTINA 10882 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA POLIAMIDA INT. 12MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5185",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE «T» 7.89MM X 6 INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10884",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-t-7-89mm-x-6-industria-argentina-10884.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE «T» 7.89MM X 6 INDUSTRIA ARGENTINA 10884 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: SALIDA POLIAMIDA Y PICO MACHO 8MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5186",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE A 90º HEMBRA 9.49MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10887",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-a-90-hembra-9-49mm-industria-argentina-10887.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE A 90º HEMBRA 9.49MM INDUSTRIA ARGENTINA 10887 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA POLIAMIDA INT. 8MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5187",
+        "name": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 9.49MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10888",
+        "image": "img/products/Flexibles/conector-salida-filtro-combustible-recto-hembra-9-49mm-industria-argentina-10888.jpg",
+        "description": "CONECTOR SALIDA FILTRO COMBUSTIBLE RECTO HEMBRA 9.49MM INDUSTRIA ARGENTINA 10888 Industria Argentina Vehículos compatibles: UNIVERSAL: Aplicación UNIVERSAL Código Original / Similar: PARA POLIAMIDA INT. 8MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5188",
+        "name": "CAÑO RIGIDO COMPRESOR / AIRE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10860",
+        "image": "img/products/Flexibles/cano-rigido-compresor-aire-industria-argentina-10860.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR / AIRE INDUSTRIA ARGENTINA 10860 Industria Argentina Vehículos compatibles: IVECO: Camiones EUROCARGO ATTACK 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E24 / 260 E25 / TECTOR 170 E25 / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR STRADALE 240 E25S y Bus CC 170 E22 Código Original / Similar: 504073755 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5189",
+        "name": "GUIA VARILLA NIVEL ACEITE MOTOR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10853",
+        "image": "img/products/Flexibles/guia-varilla-nivel-aceite-motor-industria-argentina-10853.jpg",
+        "description": "GUIA VARILLA NIVEL ACEITE MOTOR INDUSTRIA ARGENTINA 10853 Industria Argentina Vehículos compatibles: IVECO: Camiones TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / TECTOR ATTACK ECOLINE 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus ECOLINE 170 S28 (Todos Euro 5) Código Original / Similar: 5801470156 (IVECO)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5190",
+        "name": "CAÑO DE AGUA INFERIOR DEL DEPOSITO DE EXPANSION VANNUCCI",
+        "brand": "Vannucci",
+        "code": "10679",
+        "image": "img/products/Flexibles/cano-de-agua-inferior-del-deposito-de-expansion-vannucci-10679.jpg",
+        "description": "CAÑO DE AGUA INFERIOR DEL DEPOSITO DE EXPANSION VANNUCCI 10679 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 / 13180 E / 15180 E Código Original / Similar: 2RG/121513/B / TLG/121513 (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5191",
+        "name": "MANGUERA COMBUSTIBLE / DE BOMBA DE ALTA A BOMBA DE BAJA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10258",
+        "image": "img/products/Flexibles/manguera-combustible-de-bomba-de-alta-a-bomba-de-baja-industria-argentina-10258.jpg",
+        "description": "MANGUERA COMBUSTIBLE / DE BOMBA DE ALTA A BOMBA DE BAJA INDUSTRIA ARGENTINA 10258 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.070.1932 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5192",
+        "name": "CAÑO RIGIDO ACEITE DEL TURBO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "10262",
+        "image": "img/products/Flexibles/cano-rigido-aceite-del-turbo-industria-argentina-10262.jpg",
+        "description": "CAÑO RIGIDO ACEITE DEL TURBO INDUSTRIA ARGENTINA 10262 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / 1718 M / 1720/48 / ACCELO 915 C / ATEGO 1418 / ATRON 1720 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OH 1115 L-SB / OH 1315 L-SB MERCEDES BENZ: Motores MB OM 904 LA Código Original / Similar: 904.180.0420 / 904.180.0620 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5193",
+        "name": "CAÑO DESCARGA DE ACEITE DEL TURBO ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "10200",
+        "image": "img/products/Flexibles/cano-descarga-de-aceite-del-turbo-engine-parts-10200.jpg",
+        "description": "CAÑO DESCARGA DE ACEITE DEL TURBO ENGINE PARTS 10200 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 Código Original / Similar: 2T0/145987/A (VW) 4992206 / 3287573 (Cummins) BH1X/6415/BA / BG5X/6415/DA (FORD) LARGO APROX. 530MM.",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5194",
+        "name": "CAÑO RIGIDO DOSIFICADORA DE UREA RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "10185",
+        "image": "img/products/Flexibles/cano-rigido-dosificadora-de-urea-rigiflex-10185.jpg",
+        "description": "CAÑO RIGIDO DOSIFICADORA DE UREA RIGIFLEX 10185 Rigiflex Vehículos compatibles: MERCEDES BENZ: Bus OF 1519 / OF 1721 / OH 1621 / OH 1721 MERCEDES BENZ: Motores MB OM 924 LA Euro 5 Código Original / Similar: 368.420.6530 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5195",
+        "name": "CAÑO DE AGUA INFERIOR DEL DEPOSITO DE EXPANSION IMP.",
+        "brand": "Imp",
+        "code": "0567",
+        "image": "img/products/Flexibles/cano-de-agua-inferior-del-deposito-de-expansion-imp-0567.jpg",
+        "description": "CAÑO DE AGUA INFERIOR DEL DEPOSITO DE EXPANSION IMP. 0567 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 17300 / 17310 / 18310 / 24220 / 26260 / 26310 Código Original / Similar: 2TC/121513 (VW)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5196",
+        "name": "CAÑO RIGIDO DE PRESION DE LA CAJA DE DIRECCION HIDRAULICA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0483",
+        "image": "img/products/Flexibles/cano-rigido-de-presion-de-la-caja-de-direccion-hidraulica-industria-argentina-0483.jpg",
+        "description": "CAÑO RIGIDO DE PRESION DE LA CAJA DE DIRECCION HIDRAULICA INDUSTRIA ARGENTINA 0483 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e Código Original / Similar: 1C45/3A562/BB / 1C45/3A562/BA (FORD)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5197",
+        "name": "CAÑO RIGIDO COMPRESOR IMP.",
+        "brand": "Imp",
+        "code": "0172",
+        "image": "img/products/Flexibles/cano-rigido-compresor-imp-0172.jpg",
+        "description": "CAÑO RIGIDO COMPRESOR IMP. 0172 Imp Vehículos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Código Original / Similar: 634.420.8534 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
+    },
+    {
+        "id": "P5198",
+        "name": "CAÑO RIGIDO DE REFRIGERACION DE COMPRESOR RIGIFLEX",
+        "brand": "Rigiflex",
+        "code": "0025",
+        "image": "img/products/Flexibles/cano-rigido-de-refrigeracion-de-compresor-rigiflex-0025.jpg",
+        "description": "CAÑO RIGIDO DE REFRIGERACION DE COMPRESOR RIGIFLEX 0025 Rigiflex Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 EL / LS 1634 EL / LS 1938 EL / 1938 S / L 2638/54 y Bus 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 RS / 0500 RSD / 0500 MA 2836 Código Original / Similar: 457.200.1452 / 460.200.0152 (MB)",
+        "rubro": "CAÑOS RIGIDOS Y FLEXIBLES"
     }
 ];
 
