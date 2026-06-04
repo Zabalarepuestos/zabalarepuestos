@@ -46750,6 +46750,987 @@ const products = [
         "image": "img/products/Depositos/cilindro-maestro-de-embrague-diam-31-75mm-tkl-10894.jpg",
         "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM. TKL 10894 TKL Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37T / MP 720 E42 Código Original / Similar: 41211005 / 41285355 (IVECO) KG3107.0.1 (FTE) CON DEPOSITO / ALUMINIO",
         "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5392",
+        "name": "EXTREMO DIRECCION ROSCA HEMBRA DER. M18 X 1.5 / PERNO 18.2 CESCA",
+        "brand": "Cesca",
+        "code": "8644",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-hembra-der-m18-x-1-5-perno-18-2-cesca-8644.jpg",
+        "description": "EXTREMO DIRECCION ROSCA HEMBRA DER. M18 X 1.5 / PERNO 18.2 CESCA 8644 Cesca Vehículos compatibles: IVECO: Utilitarios NUEVA DAILY 70 C16 / 70 C16HD Código Original / Similar: 500053864 (IVECO) 9517 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5393",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO 1 5/8″-12UNF / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "8646",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-1-5-8-12unf-perno-27-5-cesca-8646.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO 1 5/8″-12UNF / PERNO 27.5 CESCA 8646 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1115 L-SB / OH 1315 L-SB Código Original / Similar: 002.330.0935 (MB) 2544 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5394",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO 1 5/8″-12UNF / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "8647",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-1-5-8-12unf-perno-27-5-cesca-8647.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO 1 5/8″-12UNF / PERNO 27.5 CESCA 8647 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1115 L-SB / OH 1315 L-SB Código Original / Similar: 002.330.1035 (MB) 2545 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5395",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO M30 X 1.5 / PERNO 27.3 CESCA",
+        "brand": "Cesca",
+        "code": "8648",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-m30-x-1-5-perno-27-3-cesca-8648.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO M30 X 1.5 / PERNO 27.3 CESCA 8648 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1623 / LS 1623 / L 1624 Código Original / Similar: 001.460.7348 (MB) N5210 (Nakata)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5396",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO M30 X 1.5 / PERNO 27.3 CESCA",
+        "brand": "Cesca",
+        "code": "8649",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-m30-x-1-5-perno-27-3-cesca-8649.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO M30 X 1.5 / PERNO 27.3 CESCA 8649 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1623 / LS 1623 / L 1624 Código Original / Similar: 001.460.7448 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5397",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO M30 X 1.5 / PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "8650",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-m30-x-1-5-perno-19-cesca-8650.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO M30 X 1.5 / PERNO 19 CESCA 8650 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E y Bus 9150 EOD (Se aplica en barra 2R0/415801/A) Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5398",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R38 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "7367",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r38-x-1-5-perno-27-cesca-7367.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R38 X 1.5 / PERNO 27 CESCA 7367 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 002.330.2435 (MB) 2580 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5399",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R38 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "7368",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r38-x-1-5-perno-27-cesca-7368.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R38 X 1.5 / PERNO 27 CESCA 7368 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 002.330.2335 (MB) 2581 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5400",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "7369",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-24-cesca-7369.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 24 CESCA 7369 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 S/36 / 1933/45 / 2035 S / 2036 S/36 / 2040 S / 2041 S/36 / 2044 S / 2535 S / 2540 S / 2831 B / 2831 K / 2831/48 / 3131 B/36 / 3131 K/36 / 3131/48 / 3340 K Código Original / Similar: 001.460.4248 / 001.460.8948 (MB) 2540 (PH) LONGITUD 120MM.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5401",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "7370",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-24-cesca-7370.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 24 CESCA 7370 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 S/36 / 1933/45 / 2035 S / 2036 S/36 / 2040 S / 2041 S/36 / 2044 S / 2535 S / 2540 S / 2831 B / 2831 K / 2831/48 / 3131 B/36 / 3131 K/36 / 3131/48 / 3340 K Código Original / Similar: 2541 (PH) LONGITUD 120MM.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5402",
+        "name": "EXTREMO DIRECCION ROSCA HEMBRA 16X1.5MM. / PERNO 17MM. CESCA",
+        "brand": "Cesca",
+        "code": "7222",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-hembra-16x1-5mm-perno-17mm-cesca-7222.jpg",
+        "description": "EXTREMO DIRECCION ROSCA HEMBRA 16X1.5MM. / PERNO 17MM. CESCA 7222 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 15711 (PH) 906.460.0348 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P5403",
+        "name": "EXTREMO DIRECCION LADO DERECHO ROSCA INTERNA / R52 X 1.5 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "6832",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-rosca-interna-r52-x-1-5-perno-24-cesca-6832.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO ROSCA INTERNA / R52 X 1.5 / PERNO 24 CESCA 6832 Cesca Vehículos compatibles: VOLVO: Bus B 10 M Código Original / Similar: 4506 (PH) 6882152 / 6889484 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5404",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO ROSCA INTERNA / R52 X 1.5 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "6833",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-rosca-interna-r52-x-1-5-perno-24-cesca-6833.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO ROSCA INTERNA / R52 X 1.5 / PERNO 24 CESCA 6833 Cesca Vehículos compatibles: VOLVO: Bus B 10 M Código Original / Similar: 4507 (PH) 6882151 / 6889483 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5405",
+        "name": "EXTREMO DIRECCION LADO DERECHO / R30 X 1.5 / PERNO 27.2 CESCA",
+        "brand": "Cesca",
+        "code": "4787",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r30-x-1-5-perno-27-2-cesca-4787.webp",
+        "description": "EXTREMO DIRECCION LADO DERECHO / R30 X 1.5 / PERNO 27.2 CESCA 4787 Cesca Vehículos compatibles: VOLVO: Bus B 10 M Código Original / Similar: 4508 (PH) 6.889.480 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5406",
+        "name": "EXTREMO DIRECCION BARRA LARGA REFORMA 18 X 1.5 / PERNO 16 LADO IZQUIERDO CESCA",
+        "brand": "Cesca",
+        "code": "4789",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-reforma-18-x-1-5-perno-16-lado-izquierdo-cesca-4789.webp",
+        "description": "EXTREMO DIRECCION BARRA LARGA REFORMA 18 X 1.5 / PERNO 16 LADO IZQUIERDO CESCA 4789 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Código Original / Similar:",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P5407",
+        "name": "EXTREMO DIRECCION LADO DERECHO R 1 5/8″-12 UNF / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "4451",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r-1-5-8-12-unf-perno-27-5-cesca-4451.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R 1 5/8″-12 UNF / PERNO 27.5 CESCA 4451 Cesca Vehículos compatibles: AGRALE: Buses AGRALE MA 15 / MT 12 / MT 15 / MT 17 Código Original / Similar: 16518 (PH) 5613 (CESCA) 6112008032002 (AGRALE)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5408",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R 1 5/8″-12 UNF / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "4452",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r-1-5-8-12-unf-perno-27-5-cesca-4452.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R 1 5/8″-12 UNF / PERNO 27.5 CESCA 4452 Cesca Vehículos compatibles: AGRALE: Buses AGRALE MA 15 / MT 12 / MT 15 / MT 17 Código Original / Similar: 16519 (PH) 5614 (CESCA) 6112008032000 (AGRALE)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5409",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R30 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "4349",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-27-cesca-4349.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R30 X 1.5 / PERNO 27 CESCA 4349 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OHL 1621 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5410",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO IZQUIERDO R30 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "4350",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-27-cesca-4350.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO IZQUIERDO R30 X 1.5 / PERNO 27 CESCA 4350 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OHL 1621 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5411",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO IZQUIERDO R28 X 1.5 / PERNO 24.9 CESCA",
+        "brand": "Cesca",
+        "code": "4179",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r28-x-1-5-perno-24-9-cesca-4179.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO IZQUIERDO R28 X 1.5 / PERNO 24.9 CESCA 4179 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T Código Original / Similar: 4663974 (IVECO) 9508 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5412",
+        "name": "EXTREMO DIRECCION BARRA LARGA / LADO IZQUIERDO R28 X 1.5 / PERNO 24.9 CESCA",
+        "brand": "Cesca",
+        "code": "4180",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r28-x-1-5-perno-24-9-cesca-4180.webp",
+        "description": "EXTREMO DIRECCION BARRA LARGA / LADO IZQUIERDO R28 X 1.5 / PERNO 24.9 CESCA 4180 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T Código Original / Similar: 4208251 (IVECO) 9508 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5413",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R28 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "4181",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r28-x-1-5-perno-20-cesca-4181.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R28 X 1.5 / PERNO 20 CESCA 4181 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1517 / L 1518 / L 1521 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5414",
+        "name": "EXTREMO DIRECCION ROSCA HEMBRA / LADO DERECHO PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "4187",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-hembra-lado-derecho-perno-19-cesca-4187.jpg",
+        "description": "EXTREMO DIRECCION ROSCA HEMBRA / LADO DERECHO PERNO 19 CESCA 4187 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5415",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R24 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "4144",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r24-x-1-5-perno-16-cesca-4144.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R24 X 1.5 / PERNO 16 CESCA 4144 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D / 912 Alemán y Bus LO 608 D Código Original / Similar: 308.330.7235 / 000.330.5035 (MB) 501 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5416",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO IZQUIERDO R24 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "4145",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r24-x-1-5-perno-16-cesca-4145.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO IZQUIERDO R24 X 1.5 / PERNO 16 CESCA 4145 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D / 912 Alemán y Bus LO 608 D Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5417",
+        "name": "EXTREMO DIRECCION BARRA LARGA / LADO DERECHO R 1 1/4” – 12 UNF CESCA",
+        "brand": "Cesca",
+        "code": "4146",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r-1-1-4-12-unf-cesca-4146.png",
+        "description": "EXTREMO DIRECCION BARRA LARGA / LADO DERECHO R 1 1/4” – 12 UNF CESCA 4146 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 001.330.9135 (MB) 561 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5418",
+        "name": "EXTREMO DIRECCION BARRA LARGA / LADO IZQUIERDO R 1 1/4” – 12 UNF CESCA",
+        "brand": "Cesca",
+        "code": "4147",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r-1-1-4-12-unf-cesca-4147.png",
+        "description": "EXTREMO DIRECCION BARRA LARGA / LADO IZQUIERDO R 1 1/4” – 12 UNF CESCA 4147 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 001.330.9035 (MB) 562 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5419",
+        "name": "EXTREMO DIRECCION LADO DERECHO R52 X 1.5 INTERNA / PERNO 24,6 CESCA",
+        "brand": "Cesca",
+        "code": "4154",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r52-x-1-5-interna-perno-24-6-cesca-4154.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R52 X 1.5 INTERNA / PERNO 24,6 CESCA 4154 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 18310 OT / 17260 EOT / 18310 EOT Código Original / Similar: 2Z0/415712 (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5420",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R52 X 1.5 INTERNA / PERNO 24,6 CESCA",
+        "brand": "Cesca",
+        "code": "4155",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r52-x-1-5-interna-perno-24-6-cesca-4155.webp",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R52 X 1.5 INTERNA / PERNO 24,6 CESCA 4155 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 18310 OT / 17260 EOT / 18310 EOT Código Original / Similar: 2Z0/415711 (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5421",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R28 X 1.5 / PERNO 24.9 CESCA",
+        "brand": "Cesca",
+        "code": "4122",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r28-x-1-5-perno-24-9-cesca-4122.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R28 X 1.5 / PERNO 24.9 CESCA 4122 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T / 150 ASPIRADO / 150N TURBO / 150T TURBO y Bus FIAT AU130 Código Original / Similar: 4663972 (IVECO) 9507 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5422",
+        "name": "EXTREMO DIRECCION BARRA LARGA / LADO DERECHO R28 X 1.5 / PERNO 24.9 CESCA",
+        "brand": "Cesca",
+        "code": "4123",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r28-x-1-5-perno-24-9-cesca-4123.webp",
+        "description": "EXTREMO DIRECCION BARRA LARGA / LADO DERECHO R28 X 1.5 / PERNO 24.9 CESCA 4123 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T Código Original / Similar: 4208250 (IVECO) 9507 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5423",
+        "name": "EXTREMO DIRECCION / LADO DERECHO R64 X 1.5 / PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "3972",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r64-x-1-5-perno-19-cesca-3972.jpg",
+        "description": "EXTREMO DIRECCION / LADO DERECHO R64 X 1.5 / PERNO 19 CESCA 3972 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5424",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 27 / SOO BARRA REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "3527",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-27-soo-barra-reforma-cesca-3527.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 27 / SOO BARRA REFORMA CESCA 3527 Cesca Vehículos compatibles: SCANIA: Camiones P 93 / R 113 / R 143 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5425",
+        "name": "EXTREMO DIRECCION ROSCA INTERNA DERECHA R35 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "3507",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-interna-derecha-r35-x-1-5-perno-27-cesca-3507.jpg",
+        "description": "EXTREMO DIRECCION ROSCA INTERNA DERECHA R35 X 1.5 / PERNO 27 CESCA 3507 Cesca Vehículos compatibles: MERCEDES BENZ: Bus 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY Código Original / Similar: 000.330.4035 (MB) 563 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5426",
+        "name": "EXTREMO DIRECCION ROSCA INTERNA IZQUIERDA R35 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "3508",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-interna-izquierda-r35-x-1-5-perno-27-cesca-3508.jpg",
+        "description": "EXTREMO DIRECCION ROSCA INTERNA IZQUIERDA R35 X 1.5 / PERNO 27 CESCA 3508 Cesca Vehículos compatibles: MERCEDES BENZ: Bus 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY Código Original / Similar: 000.330.4135 (MB) 564 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5427",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R30 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "3480",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r30-x-1-5-perno-27-cesca-3480.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R30 X 1.5 / PERNO 27 CESCA 3480 Cesca Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.357.673 (SC) 3514 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5428",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "3018",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-20-cesca-3018.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 20 CESCA 3018 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C y Bus LO 914 / LO 915 Código Original / Similar: 688.330.0135 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5429",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "3019",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-20-cesca-3019.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 20 CESCA 3019 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C y Bus LO 914 / LO 915 Código Original / Similar: 688.330.0035 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5430",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R32 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "3020",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r32-x-1-5-perno-27-cesca-3020.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R32 X 1.5 / PERNO 27 CESCA 3020 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 Código Original / Similar: 001.460.7248 / 001.460.6848 (MB) 565 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5431",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R32 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "3021",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r32-x-1-5-perno-27-cesca-3021.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R32 X 1.5 / PERNO 27 CESCA 3021 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5432",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 29 CESCA",
+        "brand": "Cesca",
+        "code": "3022",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-29-cesca-3022.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 29 CESCA 3022 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACTROS Código Original / Similar: 001.460.0448/ 001.460.1748/ 001.460.7648 (MB) 570 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5433",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 29 CESCA",
+        "brand": "Cesca",
+        "code": "3023",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-29-cesca-3023.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 29 CESCA 3023 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACTROS Código Original / Similar: 001.460.0548 (MB) 571 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5434",
+        "name": "EXTREMO DIRECCION LADO DERECHO R32 X 1.5 CESCA",
+        "brand": "Cesca",
+        "code": "2791",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r32-x-1-5-cesca-2791.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R32 X 1.5 CESCA 2791 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Bus 18280 OT Código Original / Similar: 22B/422249/A (VW) PERNO 24.5MM. / LARGO 273MM.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5435",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R32 X 1.5 CESCA",
+        "brand": "Cesca",
+        "code": "2792",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r32-x-1-5-cesca-2792.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R32 X 1.5 CESCA 2792 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Bus 18280 OT Código Original / Similar: 22B/422249/B (VW) PERNO 24.5MM. / LARGO 273MM.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5436",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R30 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "2401",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r30-x-1-5-perno-27-cesca-2401.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R30 X 1.5 / PERNO 27 CESCA 2401 Cesca Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.357.674 (SC) 3513 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5437",
+        "name": "EXTREMO DIRECCION HEMBRA BARRA LARGA / LADO DER. / R52 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "1867",
+        "image": "img/products/Extremo direccion/extremo-direccion-hembra-barra-larga-lado-der-r52-x-1-5-perno-27-cesca-1867.jpg",
+        "description": "EXTREMO DIRECCION HEMBRA BARRA LARGA / LADO DER. / R52 X 1.5 / PERNO 27 CESCA 1867 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4732041 / 4664353 / 4514236 (IVECO) 9504 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5438",
+        "name": "EXTREMO DIRECCION HEMBRA B. LARGA / LADO IZQ. / R52 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "1868",
+        "image": "img/products/Extremo direccion/extremo-direccion-hembra-b-larga-lado-izq-r52-x-1-5-perno-27-cesca-1868.jpg",
+        "description": "EXTREMO DIRECCION HEMBRA B. LARGA / LADO IZQ. / R52 X 1.5 / PERNO 27 CESCA 1868 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4732042 / 4664351 / 4514235 (IVECO) 9505 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5439",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO DERECHO / R30 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "1871",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-larga-lado-derecho-r30-x-1-5-perno-27-cesca-1871.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO DERECHO / R30 X 1.5 / PERNO 27 CESCA 1871 Cesca Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S y Bus CC118 E20 GNC / CC118 E22 Código Original / Similar: 503347122 (IVECO) 9511 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5440",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO IZQUIERDO / R30 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "1872",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-larga-lado-izquierdo-r30-x-1-5-perno-27-cesca-1872.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO IZQUIERDO / R30 X 1.5 / PERNO 27 CESCA 1872 Cesca Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S y Bus CC118 E20 GNC / CC118 E22 Código Original / Similar: 503347121 (IVECO) 9512 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5441",
+        "name": "EXTREMO DIRECCION LADO DERECHO / R30 X 1.5 / PERNO 24.9 CESCA",
+        "brand": "Cesca",
+        "code": "1875",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r30-x-1-5-perno-24-9-cesca-1875.webp",
+        "description": "EXTREMO DIRECCION LADO DERECHO / R30 X 1.5 / PERNO 24.9 CESCA 1875 Cesca Vehículos compatibles: IVECO: Camiones EUROCARGO 150 E20N / 150 E20T Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5442",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R30 X 1.5 / PERNO 23.6 CESCA",
+        "brand": "Cesca",
+        "code": "1876",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-23-6-cesca-1876.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LADO DERECHO R30 X 1.5 / PERNO 23.6 CESCA 1876 Cesca Vehículos compatibles: IVECO: Camiones EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T Código Original / Similar: 7145977 / 4833820 (IVECO) 9536 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5443",
+        "name": "EXTREMO DIRECCION BARRA CORTA/LARGA LADO DERECHO R28 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1850",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-larga-lado-derecho-r28-x-1-5-perno-20-cesca-1850.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA/LARGA LADO DERECHO R28 X 1.5 / PERNO 20 CESCA 1850 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 5140 E / 8150 E y Bus 9150 OD / 9150 EOD Código Original / Similar: 5502 (PH) T06/415712 (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5444",
+        "name": "EXTREMO DIRECCION BARRA CORTA/LARGA LADO IZQUIERDO R28 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1851",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-larga-lado-izquierdo-r28-x-1-5-perno-20-cesca-1851.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA/LARGA LADO IZQUIERDO R28 X 1.5 / PERNO 20 CESCA 1851 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 5140 E / 8150 E y Bus 9150 OD / 9150 EOD Código Original / Similar: 5503 (PH) T06/415711 (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5445",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R1 1/8” – 12 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "1852",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r1-1-8-12-perno-24-cesca-1852.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R1 1/8” – 12 / PERNO 24 CESCA 1852 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E / 19320 E /25320 E / 26260 E / 31320 E y Bus 17210 OD / 15190 EOD / 17230 EOD Código Original / Similar: 5504 (PH) T16/415712/A (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5446",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R1 1/8” – 12 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "1853",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r1-1-8-12-perno-24-cesca-1853.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R1 1/8” – 12 / PERNO 24 CESCA 1853 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E / 19320 E /25320 E / 26260 E / 31320 E y Bus 17210 OD / 15190 EOD / 17230 EOD Código Original / Similar: 5505 (PH) T16/415711/A (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5447",
+        "name": "EXTREMO DIRECCION LADO DERECHO ROSCA INTERNA / R52 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "1860",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-rosca-interna-r52-x-1-5-perno-27-cesca-1860.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO ROSCA INTERNA / R52 X 1.5 / PERNO 27 CESCA 1860 Cesca Vehículos compatibles: SCANIA: Bus K 112 / K 113 Código Original / Similar: 310.980 / 539.413 (SC) 3504 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5448",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO ROSCA INTERNA / R52 X 1.5 / PERNO 27 CESCA",
+        "brand": "Cesca",
+        "code": "1861",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-rosca-interna-r52-x-1-5-perno-27-cesca-1861.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO ROSCA INTERNA / R52 X 1.5 / PERNO 27 CESCA 1861 Cesca Vehículos compatibles: SCANIA: Bus K 112 / K 113 Código Original / Similar: 310.979 / 539.412 (SC) 3505 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5449",
+        "name": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO DERECHO / R38 X 1.5 / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "1863",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-larga-lado-derecho-r38-x-1-5-perno-27-5-cesca-1863.webp",
+        "description": "EXTREMO DIRECCION BARRA CORTA / LARGA LADO DERECHO / R38 X 1.5 / PERNO 27.5 CESCA 1863 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4510620 / 4664292 / 466427 (IVECO) 9501 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5450",
+        "name": "EXTREMO DIRECCION BARRA LARGA / LADO IZQUIERDO R38 X 1.5 / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "1864",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r38-x-1-5-perno-27-5-cesca-1864.webp",
+        "description": "EXTREMO DIRECCION BARRA LARGA / LADO IZQUIERDO R38 X 1.5 / PERNO 27.5 CESCA 1864 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4664295 / 4523292 (IVECO) 9506 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5451",
+        "name": "EXTREMO DIRECCION ROSCA EXTERNA IZQUIERDA / R64 X 1.5 / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "1865",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-externa-izquierda-r64-x-1-5-perno-27-5-cesca-1865.jpg",
+        "description": "EXTREMO DIRECCION ROSCA EXTERNA IZQUIERDA / R64 X 1.5 / PERNO 27.5 CESCA 1865 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4562450 / 4664345 (IVECO) 9502 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5452",
+        "name": "EXTREMO DIRECCION ROSCA INTERNA DERECHA / R30 X 1.5 / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "1866",
+        "image": "img/products/Extremo direccion/extremo-direccion-rosca-interna-derecha-r30-x-1-5-perno-27-5-cesca-1866.jpg",
+        "description": "EXTREMO DIRECCION ROSCA INTERNA DERECHA / R30 X 1.5 / PERNO 27.5 CESCA 1866 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4514245 / 4664460 (IVECO) 9503 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5453",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R3/4”-16 / PERNO 15 CESCA",
+        "brand": "Cesca",
+        "code": "1828",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r3-4-16-perno-15-cesca-1828.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R3/4”-16 / PERNO 15 CESCA 1828 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F600 Código Original / Similar: 15501 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5454",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R3/4”-16 / PERNO 15 CESCA",
+        "brand": "Cesca",
+        "code": "1829",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r3-4-16-perno-15-cesca-1829.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R3/4”-16 / PERNO 15 CESCA 1829 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F600 Código Original / Similar: 15502 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5455",
+        "name": "EXTREMO DIRECCION LADO DERECHO R1”-16 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1830",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r1-16-perno-20-cesca-1830.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R1”-16 / PERNO 20 CESCA 1830 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F700 / F6000 / F7000 Código Original / Similar: 15503 (PH) 72TU/3289/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5456",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R1”-16 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1831",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r1-16-perno-20-cesca-1831.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R1”-16 / PERNO 20 CESCA 1831 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F700 / F6000 / F7000 Código Original / Similar: 15504 (PH) 72TU/3290/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5457",
+        "name": "EXTREMO DIRECCION LADO DERECHO R24 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1832",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r24-x-1-5-perno-20-cesca-1832.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R24 X 1.5 / PERNO 20 CESCA 1832 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F700 / F6000 / F7000 Código Original / Similar: 15505 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5458",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R24 X 1.5 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1833",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r24-x-1-5-perno-20-cesca-1833.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R24 X 1.5 / PERNO 20 CESCA 1833 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F700 / F6000 / F7000 Código Original / Similar: 15506 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5459",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R1 1/8” – 16 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1834",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r1-1-8-16-perno-20-cesca-1834.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R1 1/8” – 16 / PERNO 20 CESCA 1834 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1517e / 1722e / 1832e / 2632e / Nuevo C1517 / C1722 / C1932 / C2632 / F14000 (93-98) Código Original / Similar: 15507 (PH) 2RP/415712 85HU/3289/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5460",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R1 1/8” – 16 / PERNO 20 CESCA",
+        "brand": "Cesca",
+        "code": "1835",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r1-1-8-16-perno-20-cesca-1835.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R1 1/8” – 16 / PERNO 20 CESCA 1835 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1517e / 1722e / 1832e / 2632e / Nuevo C1517 / C1722 / C1932 / C2632 / F14000 (93-98) Código Original / Similar: 15508 (PH) 2SU/415711 85HU/3290/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5461",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R30 X 1.5 / PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "1838",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r30-x-1-5-perno-19-cesca-1838.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R30 X 1.5 / PERNO 19 CESCA 1838 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 915e Código Original / Similar: 15511 (PH) BF6X/3290/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5462",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R30 X 1.5 / PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "1839",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r30-x-1-5-perno-19-cesca-1839.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R30 X 1.5 / PERNO 19 CESCA 1839 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 915e Código Original / Similar: 15512 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5463",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "1840",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-19-cesca-1840.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 19 CESCA 1840 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 915e Código Original / Similar: 15513 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5464",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 19 CESCA",
+        "brand": "Cesca",
+        "code": "1841",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-19-cesca-1841.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 19 CESCA 1841 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 915e Código Original / Similar: 15514 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5465",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 27.5 CESCA",
+        "brand": "Cesca",
+        "code": "1842",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r30-x-1-5-perno-27-5-cesca-1842.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R30 X 1.5 / PERNO 27.5 CESCA 1842 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1730 / 1831 / 1722e / 1832e / Nuevo C1317 / C1517 / C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 17250 E Código Original / Similar: 15515 (PH) 2RP/415712 / T16/415711 (VW) T16/415711 (FORD)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5466",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 25 CESCA",
+        "brand": "Cesca",
+        "code": "1843",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r30-x-1-5-perno-25-cesca-1843.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R30 X 1.5 / PERNO 25 CESCA 1843 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1730 / 1831 / 1722e / 1832e / Nuevo C1317 / C1517 / C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 17250 E Código Original / Similar: 15516 (PH) T16/415712/A (FORD) T16/415712/A (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5467",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R1 1/4” – 12 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "1844",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r1-1-4-12-perno-24-cesca-1844.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R1 1/4” – 12 / PERNO 24 CESCA 1844 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (99-05) Código Original / Similar: 15517 (PH) BF8T/3A130/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5468",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R1 1/4” – 12 / PERNO 24 CESCA",
+        "brand": "Cesca",
+        "code": "1845",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r1-1-4-12-perno-24-cesca-1845.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R1 1/4” – 12 / PERNO 24 CESCA 1845 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (99-05) Código Original / Similar: 15518 (PH) BF8T/3A131/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5469",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R24 X 1.5 / PERNO 18 CESCA",
+        "brand": "Cesca",
+        "code": "1824",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r24-x-1-5-perno-18-cesca-1824.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R24 X 1.5 / PERNO 18 CESCA 1824 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 312 / L 911 y Bus LO 312 / LO 911 Código Original / Similar: 000.330.0735 / 000.330.0335 (MB) 512 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5470",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R24 X 1.5 / PERNO 18 CESCA",
+        "brand": "Cesca",
+        "code": "1825",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r24-x-1-5-perno-18-cesca-1825.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R24 X 1.5 / PERNO 18 CESCA 1825 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 312 / L 911 y Bus LO 312 / LO 911 Código Original / Similar: 000.330.0635 / 000.330.0235 (MB) 513 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5471",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R30 X 1.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13794",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r30-x-1-5mm-cesca-13794.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R30 X 1.5MM. CESCA 13794 Cesca Vehículos compatibles: RENAULT: Camiones PREMIUM / MIDLUM / MAGNUM Código Original / Similar: 5001852452 / 5001858763 (RENAULT) 7421910178 (RENAULT) PERNO 27.1MM. / LARGO 113MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5472",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R30 X 1.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13795",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r30-x-1-5mm-cesca-13795.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R30 X 1.5MM. CESCA 13795 Cesca Vehículos compatibles: RENAULT: Camiones PREMIUM / MIDLUM / MAGNUM Código Original / Similar: PERNO 27.1MM. / LARGO 113MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5473",
+        "name": "EXTREMO DIRECCION LADO DERECHO R30 X 1.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13798",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r30-x-1-5mm-cesca-13798.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R30 X 1.5MM. CESCA 13798 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATEGO 1418 / 1725 / 2425/48 / ATRON 1634 / 1735 y Bus OF 1418 / OF 1519 / OF 1721 / OF 1722 M / 0500 M 1725 / 0500 R / 0500 RSD Código Original / Similar: 001.460.5448 (MB) PERNO 27.1MM. / LARGO 120MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5474",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R30 X 1.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13799",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r30-x-1-5mm-cesca-13799.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R30 X 1.5MM. CESCA 13799 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATEGO 1418 / 1725 / 2425/48 / ATRON 1634 / 1735 y Bus OF 1418 / OF 1519 / OF 1721 / OF 1722 M / 0500 M 1725 / 0500 R / 0500 RSD Código Original / Similar: 002.330.0735 (MB) PERNO 27.1MM. / LARGO 120MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5475",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDA R30 X 1.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13801",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierda-r30-x-1-5mm-cesca-13801.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDA R30 X 1.5MM. CESCA 13801 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 915 C y Bus LO 916 Código Original / Similar: 001.460.6448 (MB) PERNO 23.6MM. / LARGO 120MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5476",
+        "name": "EXTREMO DIRECCION LADO DERECHO R1″ X 16UNF CESCA",
+        "brand": "Cesca",
+        "code": "13784",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r1-x-16unf-cesca-13784.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R1″ X 16UNF CESCA 13784 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e (Distancia entre ejes 2800mm.) Código Original / Similar: PERNO 19.4MM. / LARGO 100MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5477",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R1″ X 16UNF CESCA",
+        "brand": "Cesca",
+        "code": "13785",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r1-x-16unf-cesca-13785.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R1″ X 16UNF CESCA 13785 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e (Distancia entre ejes 2800mm.) Código Original / Similar: PERNO 19.4MM. / LARGO 100MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5478",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R1″ 1/8-12UNF CESCA",
+        "brand": "Cesca",
+        "code": "13786",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-r1-1-8-12unf-cesca-13786.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO R1″ 1/8-12UNF CESCA 13786 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 Código Original / Similar: PERNO 27.4MM. / LARGO 120MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5479",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R1″ 1/8-12UNF CESCA",
+        "brand": "Cesca",
+        "code": "13787",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-izquierdo-r1-1-8-12unf-cesca-13787.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO IZQUIERDO R1″ 1/8-12UNF CESCA 13787 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 Código Original / Similar: PERNO 27.4MM. / LARGO 120MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5480",
+        "name": "EXTREMO DIRECCION LADO DERECHO R28 X 1.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13792",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r28-x-1-5mm-cesca-13792.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R28 X 1.5MM. CESCA 13792 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 915 C / 815 / 1016 (Todos con barra ZF-Lemforder) Código Original / Similar: 002.330.3135 (MB) PERNO 23.6MM. / LARGO 120MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5481",
+        "name": "EXTREMO DIRECCION DERECHO ROSCA M24 X 1.5 VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13685",
+        "image": "img/products/Extremo direccion/extremo-direccion-derecho-rosca-m24-x-1-5-vannucci-13685.jpg",
+        "description": "EXTREMO DIRECCION DERECHO ROSCA M24 X 1.5 VANNUCCI 13685 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Delivery 9170 / 11180 Código Original / Similar: 23B/422818 (VW) / PERNO 19.5MM. / LARGO 119MM.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5482",
+        "name": "EXTREMO DIRECCION R16 X 1.5 INTERNA DERECHA / PERNO 18 CESCA",
+        "brand": "Cesca",
+        "code": "1299",
+        "image": "img/products/Extremo direccion/extremo-direccion-r16-x-1-5-interna-derecha-perno-18-cesca-1299.jpg",
+        "description": "EXTREMO DIRECCION R16 X 1.5 INTERNA DERECHA / PERNO 18 CESCA 1299 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 536 (PH) 901.460.0148 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P5483",
+        "name": "EXTREMO DIRECCION BARRA CORTA 20 X 1.5 / PERNO 18 LADO DERECHO CESCA",
+        "brand": "Cesca",
+        "code": "1297",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-20-x-1-5-perno-18-lado-derecho-cesca-1297.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA 20 X 1.5 / PERNO 18 LADO DERECHO CESCA 1297 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Código Original / Similar: 001.330.4835 (MB) 528 (PH)",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P5484",
+        "name": "EXTREMO DIRECCION BARRA CORTA 20 X 1.5 / PERNO 18 LADO IZQUIERDO CESCA",
+        "brand": "Cesca",
+        "code": "1298",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-20-x-1-5-perno-18-lado-izquierdo-cesca-1298.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA 20 X 1.5 / PERNO 18 LADO IZQUIERDO CESCA 1298 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Código Original / Similar: 529 (PH) 631.330.0435 (MB)",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P5485",
+        "name": "EXTREMO DIRECCION BARRA LARGA 18 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "1295",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-18-x-1-5-perno-16-cesca-1295.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA 18 X 1.5 / PERNO 16 CESCA 1295 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Código Original / Similar: 000.460.6548 (MB) 526 (PH)",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P5486",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R22 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "1280",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r22-x-1-5-perno-16-cesca-1280.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R22 X 1.5 / PERNO 16 CESCA 1280 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D (-76) y Bus LO 608 D (-76) Código Original / Similar: 523 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5487",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R24 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "1278",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-izquierdo-r24-x-1-5-perno-16-cesca-1278.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO IZQUIERDO R24 X 1.5 / PERNO 16 CESCA 1278 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Código Original / Similar: 503 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5488",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R22 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "1279",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r22-x-1-5-perno-16-cesca-1279.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R22 X 1.5 / PERNO 16 CESCA 1279 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D (-76) y Bus LO 608 D (-76) Código Original / Similar: 522 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5489",
+        "name": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R24 X 1.5 / PERNO 16 CESCA",
+        "brand": "Cesca",
+        "code": "1277",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-larga-lado-derecho-r24-x-1-5-perno-16-cesca-1277.jpg",
+        "description": "EXTREMO DIRECCION BARRA LARGA LADO DERECHO R24 X 1.5 / PERNO 16 CESCA 1277 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Código Original / Similar: 308.330.7335/ 000.330.2635/ 001.330.0835 (MB) 502 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5490",
+        "name": "EXTREMO DIRECCION LADO DERECHO R30 X 1.5 / PERNO 27MM. / LARGO 120MM. CESCA",
+        "brand": "Cesca",
+        "code": "12467",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-derecho-r30-x-1-5-perno-27mm-largo-120mm-cesca-12467.jpg",
+        "description": "EXTREMO DIRECCION LADO DERECHO R30 X 1.5 / PERNO 27MM. / LARGO 120MM. CESCA 12467 Cesca Vehículos compatibles: RENAULT: Camiones MIDLUM 300 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5491",
+        "name": "EXTREMO DIRECCION LADO IZQUIERDO R30 X 1.5 / PERNO 27MM. / LARGO 120MM. CESCA",
+        "brand": "Cesca",
+        "code": "12469",
+        "image": "img/products/Extremo direccion/extremo-direccion-lado-izquierdo-r30-x-1-5-perno-27mm-largo-120mm-cesca-12469.jpg",
+        "description": "EXTREMO DIRECCION LADO IZQUIERDO R30 X 1.5 / PERNO 27MM. / LARGO 120MM. CESCA 12469 Cesca Vehículos compatibles: RENAULT: Camiones MIDLUM 300 Código Original / Similar:",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5492",
+        "name": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO CESCA",
+        "brand": "Cesca",
+        "code": "10081",
+        "image": "img/products/Extremo direccion/extremo-direccion-barra-corta-lado-derecho-cesca-10081.jpg",
+        "description": "EXTREMO DIRECCION BARRA CORTA LADO DERECHO CESCA 10081 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 y Bus LO 812 / LO 814 / LO 914 / LO 915 / LO 916 _x000D_ Se Usa en Barra Cesca 50553 Código Original / Similar: R30 X 1.5 / PERNO 20",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5493",
+        "name": "BARRA DIRECCION CON EXTREMO (PRECAP) / R18 X1.5 / R16 X 1.5 DERECHA CESCA",
+        "brand": "Cesca",
+        "code": "7223",
+        "image": "img/products/Extremo direccion/barra-direccion-con-extremo-precap-r18-x1-5-r16-x-1-5-derecha-cesca-7223.jpg",
+        "description": "BARRA DIRECCION CON EXTREMO (PRECAP) / R18 X1.5 / R16 X 1.5 DERECHA CESCA 7223 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 906.460.0055 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P5494",
+        "name": "BARRA DIRECCION CON EXTREMO (PRECAP) TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3272",
+        "image": "img/products/Extremo direccion/barra-direccion-con-extremo-precap-trucktec-3272.jpg",
+        "description": "BARRA DIRECCION CON EXTREMO (PRECAP) TRUCKTEC 3272 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 901.460.0205 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P5495",
+        "name": "EXTREMO PALANCA DE CAMBIOS LADO DERECHO R24 X 1.5 / PERNO 14.5 CESCA",
+        "brand": "Cesca",
+        "code": "3501",
+        "image": "img/products/Extremo direccion/extremo-palanca-de-cambios-lado-derecho-r24-x-1-5-perno-14-5-cesca-3501.jpg",
+        "description": "EXTREMO PALANCA DE CAMBIOS LADO DERECHO R24 X 1.5 / PERNO 14.5 CESCA 3501 Cesca Vehículos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 4501 (PH) 6.889.233 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5496",
+        "name": "BARRA DIRECCION CORTA 925MM. CESCA",
+        "brand": "Cesca",
+        "code": "1880",
+        "image": "img/products/Extremo direccion/barra-direccion-corta-925mm-cesca-1880.jpg",
+        "description": "BARRA DIRECCION CORTA 925MM. CESCA 1880 Cesca Vehículos compatibles: SCANIA: Camiones P 93 / R 113 / R 143 Código Original / Similar: 1.369.919 (SC) 3615 (PH) MEDIDA 890MM SIN TENER EN CUENTA EL EXTREMO INTERCAMBIABLE",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5497",
+        "name": "BARRA DIRECCION CORTA 778MM. TIPO REFORMA . CESCA",
+        "brand": "Cesca",
+        "code": "13781",
+        "image": "img/products/Extremo direccion/barra-direccion-corta-778mm-tipo-reforma-cesca-13781.jpg",
+        "description": "BARRA DIRECCION CORTA 778MM. TIPO REFORMA . CESCA 13781 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 915 C y Bus LO 916 Código Original / Similar: CON EXTREMOS ROSCA 28MM. PERNO 24MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5498",
+        "name": "BARRA DIRECCION CORTA 1050MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "10123",
+        "image": "img/products/Extremo direccion/barra-direccion-corta-1050mm-tipo-reforma-cesca-10123.jpg",
+        "description": "BARRA DIRECCION CORTA 1050MM. TIPO REFORMA CESCA 10123 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Bus 18280 OT _x000D_ Usa extremos Cod. Silva 1854 y Cod. Cesca 5512 Código Original / Similar: 22B/422335 (VW) Usa extremo Cod. Cesca 5512",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5499",
+        "name": "BARRA DIRECCION LARGA 1770MM CESCA",
+        "brand": "Cesca",
+        "code": "10124",
+        "image": "img/products/Extremo direccion/barra-direccion-larga-1770mm-cesca-10124.jpg",
+        "description": "BARRA DIRECCION LARGA 1770MM CESCA 10124 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB _x000D_ Usa extremos Cod. Silva 7367 y 7368 Código Original / Similar: 368.330.0003 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5500",
+        "name": "BARRA DIRECCION CORTA 530MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "10136",
+        "image": "img/products/Extremo direccion/barra-direccion-corta-530mm-tipo-reforma-cesca-10136.jpg",
+        "description": "BARRA DIRECCION CORTA 530MM. TIPO REFORMA CESCA 10136 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 y Bus LO 812 / LO 814 / LO 914 / LO 915 / LO 916 _x000D_ Usa extremos Cod. Silva 10081 / 3018 Código Original / Similar: 688.460.0905 (MB)",
+        "rubro": "DIRECCION"
     }
 ];
 

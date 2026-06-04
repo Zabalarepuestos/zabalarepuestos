@@ -10,14 +10,17 @@
     const loadMoreBtn = document.getElementById('loadMoreBtn');
     const voiceSearchBtn = document.getElementById('voiceSearchBtn'); // Ensure this is selected if used
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
-    const INITIAL_RENDER_LIMIT = 96;
-    const RESULT_RENDER_LIMIT = 240;
+    const INITIAL_RENDER_LIMIT = 48;
+    const RESULT_RENDER_LIMIT = 120;
     const LOAD_MORE_INCREMENT = 120;
-    const SEARCH_DEBOUNCE_MS = 140;
+    const SEARCH_DEBOUNCE_MS = 180;
     const FALLBACK_IMAGE = 'parts_image.png';
+    const FILTER_BRANDS = ["Mercedes Benz", "Ford", "Iveco", "Scania", "Volkswagen", "Sprinter"];
     let searchTimer = null;
     let currentProducts = [];
     let currentRenderLimit = INITIAL_RENDER_LIMIT;
+    let indexedProducts = [];
+    let indexReady = false;
     let productsStatus = document.getElementById('productsStatus');
 
     if (!productsStatus && productGrid) {
@@ -144,6 +147,10 @@
 
     const normalizedAliasGroups = engineAliasGroups.map(group => group.map(normalizeText));
     const normalizedAliasCompactGroups = normalizedAliasGroups.map(group => group.map(alias => alias.replace(/\s+/g, '')));
+    const engineQueries = engines.map(engine => ({
+        label: engine,
+        query: createQueryIndex(engine)
+    }));
     const normalizedTruckModelGroups = truckModelGroups.map(group => ({
         label: group.label,
         aliases: group.aliases.map(createQueryIndex)
@@ -195,7 +202,7 @@
         const nameText = normalizeText(product.name);
         const codeText = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
 
-        return {
+        const indexedProduct = {
             product,
             baseText,
             baseCompact: compactBase,
@@ -208,8 +215,28 @@
             brandText: normalizeText(product.brand),
             brandLower: String(product.brand || '').toLowerCase(),
             categoryText,
-            rubroUpper: String(product.rubro || '').toUpperCase()
+            rubroUpper: String(product.rubro || '').toUpperCase(),
+            engineLabels: [],
+            truckLabels: [],
+            categoryLabels: [],
+            brandLabels: []
         };
+
+        indexedProduct.engineLabels = engineQueries
+            .filter(engine => matchesSearchQuery(indexedProduct, engine.query))
+            .map(engine => engine.label);
+        indexedProduct.truckLabels = normalizedTruckModelGroups
+            .filter(group => group.aliases.some(aliasQuery => truckAliasMatches(indexedProduct, aliasQuery)))
+            .map(group => group.label);
+        indexedProduct.categoryLabels = Object.keys(normalizedCategoryMapping)
+            .filter(category => {
+                const keywords = normalizedCategoryMapping[category] || [];
+                return keywords.some(keyword => indexedProduct.categoryText.includes(keyword));
+            });
+        indexedProduct.brandLabels = FILTER_BRANDS
+            .filter(brand => brandMatches(indexedProduct, brand));
+
+        return indexedProduct;
     }
 
     function createQueryIndex(query) {
@@ -225,8 +252,6 @@
             })) : []
         };
     }
-
-    const indexedProducts = productsData.map(createProductIndex);
 
     function matchesSearchQuery(indexedProduct, queryIndex) {
         if (!queryIndex.text) return true;
@@ -259,8 +284,7 @@
 
     function categoryMatches(indexedProduct, category) {
         if (!category) return true;
-        const keywords = normalizedCategoryMapping[category] || [];
-        return keywords.some(keyword => indexedProduct.categoryText.includes(keyword));
+        return indexedProduct.categoryLabels.includes(category);
     }
 
     function brandMatches(indexedProduct, brand) {
@@ -305,11 +329,7 @@
         const group = normalizedTruckModelGroups.find(item => item.label === truckLabel);
         if (!group) return true;
 
-        return group.aliases.some(aliasQuery => truckAliasMatches(indexedProduct, aliasQuery));
-    }
-
-    function countMatches(predicate) {
-        return indexedProducts.reduce((count, indexedProduct) => count + (predicate(indexedProduct) ? 1 : 0), 0);
+        return indexedProduct.truckLabels.includes(truckLabel);
     }
 
     function appendFilterOption(select, value, label, count) {
@@ -319,33 +339,78 @@
         select.appendChild(option);
     }
 
+    function setFiltersDisabled(disabled) {
+        [searchInput, filterEngine, filterTruck, filterCategory, filterBrand, clearFiltersBtn, voiceSearchBtn]
+            .filter(Boolean)
+            .forEach(control => {
+                control.disabled = disabled;
+                control.setAttribute('aria-disabled', disabled ? 'true' : 'false');
+            });
+    }
+
+    function buildIndexAsync(onComplete) {
+        const chunkSize = 180;
+        let productIndex = 0;
+
+        function buildChunk() {
+            const start = (window.performance && performance.now) ? performance.now() : Date.now();
+
+            while (productIndex < productsData.length) {
+                indexedProducts.push(createProductIndex(productsData[productIndex]));
+                productIndex += 1;
+
+                const now = (window.performance && performance.now) ? performance.now() : Date.now();
+                if (productIndex % chunkSize === 0 && now - start > 12) break;
+            }
+
+            if (productIndex < productsData.length) {
+                window.setTimeout(buildChunk, 0);
+                return;
+            }
+
+            indexReady = true;
+            onComplete();
+        }
+
+        window.setTimeout(buildChunk, 0);
+    }
+
     // Function to populate filters
     function populateFilters() {
+        const engineCounts = new Map(engines.map(engine => [engine, 0]));
+        const truckCounts = new Map(truckModelGroups.map(group => [group.label, 0]));
+        const categoryCounts = new Map(Object.keys(categoryMapping).map(category => [category, 0]));
+        const brandCounts = new Map(FILTER_BRANDS.map(brand => [brand, 0]));
+
+        indexedProducts.forEach(indexedProduct => {
+            indexedProduct.engineLabels.forEach(label => engineCounts.set(label, (engineCounts.get(label) || 0) + 1));
+            indexedProduct.truckLabels.forEach(label => truckCounts.set(label, (truckCounts.get(label) || 0) + 1));
+            indexedProduct.categoryLabels.forEach(label => categoryCounts.set(label, (categoryCounts.get(label) || 0) + 1));
+            indexedProduct.brandLabels.forEach(label => brandCounts.set(label, (brandCounts.get(label) || 0) + 1));
+        });
+
         // Populate Engines
         engines.forEach(engine => {
-            const engineIndex = createQueryIndex(engine);
-            const count = countMatches(indexedProduct => matchesSearchQuery(indexedProduct, engineIndex));
+            const count = engineCounts.get(engine) || 0;
             appendFilterOption(filterEngine, engine, engine, count);
         });
 
         // Populate truck/model filter.
         truckModelGroups.forEach(group => {
-            const count = countMatches(indexedProduct => truckMatches(indexedProduct, group.label));
+            const count = truckCounts.get(group.label) || 0;
             if (count === 0) return;
             appendFilterOption(filterTruck, group.label, group.label, count);
         });
 
         // Populate Categories (Simplified List)
         Object.keys(categoryMapping).forEach(category => {
-            const count = countMatches(indexedProduct => categoryMatches(indexedProduct, category));
+            const count = categoryCounts.get(category) || 0;
             appendFilterOption(filterCategory, category, category, count);
         });
 
         // Only truck brands, not parts suppliers.
-        const brands = ["Mercedes Benz", "Ford", "Iveco", "Scania", "Volkswagen", "Sprinter"];
-
-        brands.forEach(brand => {
-            const count = countMatches(indexedProduct => brandMatches(indexedProduct, brand));
+        FILTER_BRANDS.forEach(brand => {
+            const count = brandCounts.get(brand) || 0;
             if (count === 0) return;
             appendFilterOption(filterBrand, brand, brand, count);
         });
@@ -496,6 +561,16 @@
 
     // Main Filter Function
     function applyFilters() {
+        if (!indexReady) {
+            currentProducts = productsData;
+            currentRenderLimit = INITIAL_RENDER_LIMIT;
+            renderProducts(currentProducts, currentRenderLimit);
+            if (productsStatus) {
+                productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos. Preparando búsqueda...`;
+            }
+            return;
+        }
+
         const searchTerm = searchInput.value;
         const selectedEngine = filterEngine.value;
         const selectedTruck = filterTruck.value;
@@ -620,11 +695,22 @@
     }
 
     // Initial Setup
-    populateFilters();
+    setFiltersDisabled(true);
     const initialQuery = new URLSearchParams(window.location.search).get('q');
     if (initialQuery) {
         searchInput.value = initialQuery;
     }
-    applyFilters(); // Initial render
+    currentProducts = productsData;
+    currentRenderLimit = INITIAL_RENDER_LIMIT;
+    renderProducts(currentProducts, currentRenderLimit);
+    if (productsStatus) {
+        productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos. Preparando búsqueda...`;
+    }
+
+    buildIndexAsync(() => {
+        populateFilters();
+        setFiltersDisabled(false);
+        applyFilters();
+    });
 });
 
