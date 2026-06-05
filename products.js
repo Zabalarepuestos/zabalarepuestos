@@ -47731,6 +47731,1041 @@ const products = [
         "image": "img/products/Extremo direccion/barra-direccion-corta-530mm-tipo-reforma-cesca-10136.jpg",
         "description": "BARRA DIRECCION CORTA 530MM. TIPO REFORMA CESCA 10136 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 y Bus LO 812 / LO 814 / LO 914 / LO 915 / LO 916 _x000D_ Usa extremos Cod. Silva 10081 / 3018 Código Original / Similar: 688.460.0905 (MB)",
         "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5501",
+        "name": "BARRA DIRECCION CORTA 788MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8655",
+        "image": "img/products/Barra direccion/barra-direccion-corta-788mm-reforma-cesca-8655.jpg",
+        "description": "BARRA DIRECCION CORTA 788MM. REFORMA CESCA 8655 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1623 / LS 1623 / L 1624 Código Original / Similar: 2641 (PH) 695.460.0305 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5502",
+        "name": "BARRA DIRECCION CORTA 950MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8656",
+        "image": "img/products/Barra direccion/barra-direccion-corta-950mm-reforma-cesca-8656.jpg",
+        "description": "BARRA DIRECCION CORTA 950MM. REFORMA CESCA 8656 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 112605 (PH) 368.460.0405 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5503",
+        "name": "BARRA DIRECCION CORTA 870MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8657",
+        "image": "img/products/Barra direccion/barra-direccion-corta-870mm-reforma-cesca-8657.jpg",
+        "description": "BARRA DIRECCION CORTA 870MM. REFORMA CESCA 8657 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1721-59 / OF 1724-59 / OH 1518 L-SB Código Original / Similar: 112628 (PH) 384.460.0105 / 384.460.1205 (MB) N5238 (Nakata)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5504",
+        "name": "BARRA DIRECCION CORTA 768MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8658",
+        "image": "img/products/Barra direccion/barra-direccion-corta-768mm-reforma-cesca-8658.jpg",
+        "description": "BARRA DIRECCION CORTA 768MM. REFORMA CESCA 8658 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 915 C y Bus LO 916 Código Original / Similar: 2651 (PH) 979.460.0005 / 979.460.0105 (MB) N5182 (Nakata)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5505",
+        "name": "BARRA DIRECCION CORTA 945MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8659",
+        "image": "img/products/Barra direccion/barra-direccion-corta-945mm-reforma-cesca-8659.jpg",
+        "description": "BARRA DIRECCION CORTA 945MM. REFORMA CESCA 8659 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Constellation 13180 E / 15180 E (+2013) Código Original / Similar: 2S2/422335/G (VW) N790 (Nakata)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5506",
+        "name": "BARRA DIRECCION CORTA 800MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8660",
+        "image": "img/products/Barra direccion/barra-direccion-corta-800mm-reforma-cesca-8660.jpg",
+        "description": "BARRA DIRECCION CORTA 800MM. REFORMA CESCA 8660 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 9150 E / Delivery 5140 E / 8150 E / 9160 y Bus 9160 OD Código Original / Similar: 2P0/415701 / 2P0/422335/G (VW) N7003 (Nakata)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5507",
+        "name": "BARRA DIRECCION CORTA 530MM. CESCA",
+        "brand": "Cesca",
+        "code": "8663",
+        "image": "img/products/Barra direccion/barra-direccion-corta-530mm-cesca-8663.jpg",
+        "description": "BARRA DIRECCION CORTA 530MM. CESCA 8663 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 y Bus LO 812 / LO 814 / LO 914 / LO 915 / LO 916 Código Original / Similar: 2652 (PH) MB 688.460.0905 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5508",
+        "name": "BARRA DIRECCION LARGA 1605MM. CESCA",
+        "brand": "Cesca",
+        "code": "8665",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1605mm-cesca-8665.jpg",
+        "description": "BARRA DIRECCION LARGA 1605MM. CESCA 8665 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ATEGO 1418 / 1725 / 2425/48 Código Original / Similar: 958.330.0003 / 958.330.0103 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5509",
+        "name": "BARRA DIRECCION (PRECAP) / M20 X 1.5 / M18 X 1.5 DER. CESCA",
+        "brand": "Cesca",
+        "code": "8645",
+        "image": "img/products/Barra direccion/barra-direccion-precap-m20-x-1-5-m18-x-1-5-der-cesca-8645.jpg",
+        "description": "BARRA DIRECCION (PRECAP) / M20 X 1.5 / M18 X 1.5 DER. CESCA 8645 Cesca Vehículos compatibles: IVECO: Utilitarios NUEVA DAILY 70 C16 / 70 C16HD Código Original / Similar: 93852368/P (IVECO) 9516 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5510",
+        "name": "BARRA DIRECCION LARGA 1550MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "8651",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1550mm-reforma-cesca-8651.jpg",
+        "description": "BARRA DIRECCION LARGA 1550MM. REFORMA CESCA 8651 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Camiones 712 / 915 / 915e Código Original / Similar: 1C45/3280/BA (FORD) N2106 (Nakata)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5511",
+        "name": "BARRA DIRECCION CORTA 946MM. CESCA",
+        "brand": "Cesca",
+        "code": "8343",
+        "image": "img/products/Barra direccion/barra-direccion-corta-946mm-cesca-8343.jpg",
+        "description": "BARRA DIRECCION CORTA 946MM. CESCA 8343 Cesca Vehículos compatibles: VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 / VM 220 / VM 270 / VM 330 Código Original / Similar: 20555823 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5512",
+        "name": "BARRA DIRECCION CORTA 915MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "7371",
+        "image": "img/products/Barra direccion/barra-direccion-corta-915mm-reforma-cesca-7371.jpg",
+        "description": "BARRA DIRECCION CORTA 915MM. REFORMA CESCA 7371 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 S/36 / 1933/45 / 2035 S / 2036 S/36 / 2040 S / 2041 S/36 / 2044 S / 2535 S / 2540 S / 2831 B / 2831 K / 2831/48 / 3131 B/36 / 3131 K/36 / 3131/48 / 3340 K Código Original / Similar: 002.460.4505 / 002.460.4605 (MB) 2692 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5513",
+        "name": "BARRA DIRECCION CORTA 845MM. CESCA",
+        "brand": "Cesca",
+        "code": "7220",
+        "image": "img/products/Barra direccion/barra-direccion-corta-845mm-cesca-7220.jpg",
+        "description": "BARRA DIRECCION CORTA 845MM. CESCA 7220 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e (Distancia entre ejes 2800mm.) Código Original / Similar: 15623 (PH) 1C45/3304/CA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5514",
+        "name": "BARRA DIRECCION CORTA 1060MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "7225",
+        "image": "img/products/Barra direccion/barra-direccion-corta-1060mm-reforma-cesca-7225.jpg",
+        "description": "BARRA DIRECCION CORTA 1060MM. REFORMA CESCA 7225 Cesca Vehículos compatibles: MERCEDES BENZ: Bus 0500 U 1725 / 0500 MA 2836 Código Original / Similar: 382.460.0905 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5515",
+        "name": "BARRA DIRECCION CORTA 935MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "7226",
+        "image": "img/products/Barra direccion/barra-direccion-corta-935mm-reforma-cesca-7226.jpg",
+        "description": "BARRA DIRECCION CORTA 935MM. REFORMA CESCA 7226 Cesca Vehículos compatibles: MERCEDES BENZ: Bus 0500 M 1725 / 0500 R / 0500 RSD Código Original / Similar: 634.460.0005 / 634.460.0405 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5516",
+        "name": "BARRA DIRECCION CORTA 879MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "7227",
+        "image": "img/products/Barra direccion/barra-direccion-corta-879mm-reforma-cesca-7227.jpg",
+        "description": "BARRA DIRECCION CORTA 879MM. REFORMA CESCA 7227 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATRON 1634 Código Original / Similar: 695.460.7205/ 695.460.0105/ 695.460.7305 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5517",
+        "name": "BARRA DIRECCION CORTA 880MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "7228",
+        "image": "img/products/Barra direccion/barra-direccion-corta-880mm-reforma-cesca-7228.jpg",
+        "description": "BARRA DIRECCION CORTA 880MM. REFORMA CESCA 7228 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1624 Código Original / Similar: 695.460.0205 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5518",
+        "name": "BARRA DIRECCION CORTA 878MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "7229",
+        "image": "img/products/Barra direccion/barra-direccion-corta-878mm-reforma-cesca-7229.jpg",
+        "description": "BARRA DIRECCION CORTA 878MM. REFORMA CESCA 7229 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ATEGO 1418 / 1725 / 2425/48 Código Original / Similar: 958.460.0205 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5519",
+        "name": "BARRA DIRECCION LARGA 1720MM. CESCA",
+        "brand": "Cesca",
+        "code": "7230",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1720mm-cesca-7230.jpg",
+        "description": "BARRA DIRECCION LARGA 1720MM. CESCA 7230 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Código Original / Similar: 942.330.1403 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5520",
+        "name": "BARRA DIRECCION CORTA 940MM. CESCA",
+        "brand": "Cesca",
+        "code": "7232",
+        "image": "img/products/Barra direccion/barra-direccion-corta-940mm-cesca-7232.jpg",
+        "description": "BARRA DIRECCION CORTA 940MM. CESCA 7232 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 17250 E / 19320 E / 24250 E / 25320 E / 31320 E Código Original / Similar: 2T2/422335 (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5521",
+        "name": "BARRA DIRECCION LARGA 1646MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "5483",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1646mm-tipo-reforma-cesca-5483.jpg",
+        "description": "BARRA DIRECCION LARGA 1646MM. TIPO REFORMA CESCA 5483 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e Código Original / Similar: 1C45/3280/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5522",
+        "name": "BARRA DIRECCION LARGA 1480MM. CESCA",
+        "brand": "Cesca",
+        "code": "5485",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1480mm-cesca-5485.jpg",
+        "description": "BARRA DIRECCION LARGA 1480MM. CESCA 5485 Cesca Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32T / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S Código Original / Similar: 503347200 (IVECO)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5523",
+        "name": "BARRA DIRECCION LARGA 1256.50MM. CESCA",
+        "brand": "Cesca",
+        "code": "5275",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1256-50mm-cesca-5275.jpg",
+        "description": "BARRA DIRECCION LARGA 1256.50MM. CESCA 5275 Cesca Vehículos compatibles: SCANIA: Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 3624 (PH) 481.217 / 1.479.120 (SC)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5524",
+        "name": "BARRA DIRECCION LARGA 1730MM. CESCA",
+        "brand": "Cesca",
+        "code": "4951",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1730mm-cesca-4951.jpg",
+        "description": "BARRA DIRECCION LARGA 1730MM. CESCA 4951 Cesca Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.395.614 / 1.516.329 (SC) 3703 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5525",
+        "name": "BARRA DIRECCION CORTA 906MM. CESCA",
+        "brand": "Cesca",
+        "code": "4877",
+        "image": "img/products/Barra direccion/barra-direccion-corta-906mm-cesca-4877.jpg",
+        "description": "BARRA DIRECCION CORTA 906MM. CESCA 4877 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 17260 EOT / 18310 OT / 18320 EOT / 17280 OT / 18820 OT / 18330 OT Código Original / Similar: 2Z0/422803 (VW) 5612 (PH)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5526",
+        "name": "BARRA DIRECCION CORTA 945MM. TIPO ORIGINAL DANA CESCA",
+        "brand": "Cesca",
+        "code": "4791",
+        "image": "img/products/Barra direccion/barra-direccion-corta-945mm-tipo-original-dana-cesca-4791.jpg",
+        "description": "BARRA DIRECCION CORTA 945MM. TIPO ORIGINAL DANA CESCA 4791 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 24220 / 24250 / 26260 / 26310 / 26260 E Código Original / Similar: 5611 (PH) TMJ/417701 / 2U0/422803 (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5527",
+        "name": "BARRA DIRECCION CORTA 454MM. DELANTERA CESCA",
+        "brand": "Cesca",
+        "code": "4551",
+        "image": "img/products/Barra direccion/barra-direccion-corta-454mm-delantera-cesca-4551.jpg",
+        "description": "BARRA DIRECCION CORTA 454MM. DELANTERA CESCA 4551 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1215 Código Original / Similar: 2624 (PH) 344.460.9505 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5528",
+        "name": "BARRA DIRECCION CORTA 493MM. CESCA",
+        "brand": "Cesca",
+        "code": "4497",
+        "image": "img/products/Barra direccion/barra-direccion-corta-493mm-cesca-4497.jpg",
+        "description": "BARRA DIRECCION CORTA 493MM. CESCA 4497 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 912 Alemán Código Original / Similar: 2668 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5529",
+        "name": "BARRA DIRECCION CORTA 738MM. CESCA",
+        "brand": "Cesca",
+        "code": "4498",
+        "image": "img/products/Barra direccion/barra-direccion-corta-738mm-cesca-4498.jpg",
+        "description": "BARRA DIRECCION CORTA 738MM. CESCA 4498 Cesca Vehículos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 4602 (PH) 6.888.372 / 6.888.485 (VOLVO) 8.126.384 / 1.626.492 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5530",
+        "name": "BARRA DIRECCION CORTA 573MM. REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "4458",
+        "image": "img/products/Barra direccion/barra-direccion-corta-573mm-reforma-cesca-4458.jpg",
+        "description": "BARRA DIRECCION CORTA 573MM. REFORMA CESCA 4458 Cesca Vehículos compatibles: SCANIA: Camiones T 112 / T 142 / T 113 / T 143 Código Original / Similar: 300.308 / 306.913 / 382.774 (SC)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5531",
+        "name": "BARRA DIRECCION LARGA 1230MM. CESCA",
+        "brand": "Cesca",
+        "code": "4182",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1230mm-cesca-4182.jpg",
+        "description": "BARRA DIRECCION LARGA 1230MM. CESCA 4182 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Código Original / Similar: 2715 (PH) 631.460.0705 (MB)",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P5532",
+        "name": "BARRA DIRECCION CORTA 805MM. CESCA",
+        "brand": "Cesca",
+        "code": "4188",
+        "image": "img/products/Barra direccion/barra-direccion-corta-805mm-cesca-4188.jpg",
+        "description": "BARRA DIRECCION CORTA 805MM. CESCA 4188 Cesca Vehículos compatibles: IVECO: Camiones FIAT 673 N / 673 T Código Original / Similar: 4665501 (IVECO) 9601 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5533",
+        "name": "BARRA DIRECCION LARGA 1690MM. CESCA",
+        "brand": "Cesca",
+        "code": "4143",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1690mm-cesca-4143.jpg",
+        "description": "BARRA DIRECCION LARGA 1690MM. CESCA 4143 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Código Original / Similar:",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5534",
+        "name": "BARRA DIRECCION CORTA 385MM. CESCA",
+        "brand": "Cesca",
+        "code": "4149",
+        "image": "img/products/Barra direccion/barra-direccion-corta-385mm-cesca-4149.jpg",
+        "description": "BARRA DIRECCION CORTA 385MM. CESCA 4149 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 312 / L 911 y Bus LO 312 / LO 911 Código Original / Similar:",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5535",
+        "name": "BARRA DIRECCION CORTA 1054MM. CESCA",
+        "brand": "Cesca",
+        "code": "4152",
+        "image": "img/products/Barra direccion/barra-direccion-corta-1054mm-cesca-4152.jpg",
+        "description": "BARRA DIRECCION CORTA 1054MM. CESCA 4152 Cesca Vehículos compatibles: SCANIA: P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 1.384.025 (SC) 3623 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5536",
+        "name": "BARRA DIRECCION CORTA 925MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "4153",
+        "image": "img/products/Barra direccion/barra-direccion-corta-925mm-tipo-reforma-cesca-4153.jpg",
+        "description": "BARRA DIRECCION CORTA 925MM. TIPO REFORMA CESCA 4153 Cesca Vehículos compatibles: SCANIA: Camiones P 93 / R 113 / R 143 Código Original / Similar: 1.369.919 (SC)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5537",
+        "name": "BARRA DIRECCION LARGA 1594MM. CESCA",
+        "brand": "Cesca",
+        "code": "3957",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1594mm-cesca-3957.jpg",
+        "description": "BARRA DIRECCION LARGA 1594MM. CESCA 3957 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 712 C / 912/42 / L 913 D / 913 / 914 / 914 C y Bus LO 812 / LO 813 D / LO 814 / LO 914 / LO 915 Código Original / Similar: 2713 (PH) 688.330.0103 / 688.330.0003 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5538",
+        "name": "BARRA DIRECCION CORTA 1240MM. CESCA",
+        "brand": "Cesca",
+        "code": "3961",
+        "image": "img/products/Barra direccion/barra-direccion-corta-1240mm-cesca-3961.jpg",
+        "description": "BARRA DIRECCION CORTA 1240MM. CESCA 3961 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1417 / OF 1418 / OF 1721 / OF 1519 / OF 1722 / OH 1418/52 Código Original / Similar: 2680B (PH) 384.460.0205 / 384.460.0605 (MB) 384.460.4005 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5539",
+        "name": "BARRA DIRECCION CORTA 870MM. CESCA",
+        "brand": "Cesca",
+        "code": "3968",
+        "image": "img/products/Barra direccion/barra-direccion-corta-870mm-cesca-3968.jpg",
+        "description": "BARRA DIRECCION CORTA 870MM. CESCA 3968 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1938 S Código Original / Similar: 2637 (PH) 693.460.0005 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5540",
+        "name": "BARRA DIRECCION DELANTERA CORTA REFORMA 853.7 MM. CESCA",
+        "brand": "Cesca",
+        "code": "3773",
+        "image": "img/products/Barra direccion/barra-direccion-delantera-corta-reforma-853-7-mm-cesca-3773.jpg",
+        "description": "BARRA DIRECCION DELANTERA CORTA REFORMA 853.7 MM. CESCA 3773 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 15190 EOD / 17230 EOD Código Original / Similar: TAR/417701 (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5541",
+        "name": "BARRA DIRECCION (PRECAP) CESCA",
+        "brand": "Cesca",
+        "code": "3561",
+        "image": "img/products/Barra direccion/barra-direccion-precap-cesca-3561.jpg",
+        "description": "BARRA DIRECCION (PRECAP) CESCA 3561 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 901.460.0205 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P5542",
+        "name": "BARRA DIRECCION CORTA 735MM. CESCA",
+        "brand": "Cesca",
+        "code": "3528",
+        "image": "img/products/Barra direccion/barra-direccion-corta-735mm-cesca-3528.jpg",
+        "description": "BARRA DIRECCION CORTA 735MM. CESCA 3528 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones LA 1418 / LAK 1418 Código Original / Similar: 2663 (PH) 384.460.9305 / 384.460.8005 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5543",
+        "name": "BARRA DIRECCION CORTA 515MM. CESCA",
+        "brand": "Cesca",
+        "code": "3502",
+        "image": "img/products/Barra direccion/barra-direccion-corta-515mm-cesca-3502.jpg",
+        "description": "BARRA DIRECCION CORTA 515MM. CESCA 3502 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 812 Código Original / Similar: 2661 (PH) 688.460.8105 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5544",
+        "name": "BARRA DIRECCION CORTA 535MM. CESCA",
+        "brand": "Cesca",
+        "code": "3504",
+        "image": "img/products/Barra direccion/barra-direccion-corta-535mm-cesca-3504.jpg",
+        "description": "BARRA DIRECCION CORTA 535MM. CESCA 3504 Cesca Vehículos compatibles: MERCEDES BENZ: Bus LO 914 / LO 915 Código Original / Similar: 2643 (PH) 688.460.8605/ 688.460.0905/ 688.460.8505 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5545",
+        "name": "BARRA DIRECCION CORTA TRASERA 769.7 MM. CESCA",
+        "brand": "Cesca",
+        "code": "3505",
+        "image": "img/products/Barra direccion/barra-direccion-corta-trasera-769-7-mm-cesca-3505.jpg",
+        "description": "BARRA DIRECCION CORTA TRASERA 769.7 MM. CESCA 3505 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 15190 EOD / 17230 EOD Código Original / Similar: 5607 (PH) TAR/417701/A (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5546",
+        "name": "BARRA DIRECCION CORTA 806MM. CESCA",
+        "brand": "Cesca",
+        "code": "3506",
+        "image": "img/products/Barra direccion/barra-direccion-corta-806mm-cesca-3506.jpg",
+        "description": "BARRA DIRECCION CORTA 806MM. CESCA 3506 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OHL 1316 / OHL 1320 / OHL 1420 Código Original / Similar: 2628 (PH) 390.460.7005 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5547",
+        "name": "BARRA DIRECCION CORTA 832MM. CESCA",
+        "brand": "Cesca",
+        "code": "3509",
+        "image": "img/products/Barra direccion/barra-direccion-corta-832mm-cesca-3509.jpg",
+        "description": "BARRA DIRECCION CORTA 832MM. CESCA 3509 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1620 / OH 1314/46 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OH 1419 / OH 1420 / OHL 1526 Código Original / Similar: 2619 (PH) 345.460.8005 / 345.460.7905 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5548",
+        "name": "BARRA DIRECCION CORTA 650MM. CESCA",
+        "brand": "Cesca",
+        "code": "3510",
+        "image": "img/products/Barra direccion/barra-direccion-corta-650mm-cesca-3510.jpg",
+        "description": "BARRA DIRECCION CORTA 650MM. CESCA 3510 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OF 1315 / OF 1620 / OH 1419 / OH 1420 Código Original / Similar: 2622 (PH) 345.460.7405 / 384.460.8505 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5549",
+        "name": "BARRA DIRECCION CORTA 458MM. CESCA",
+        "brand": "Cesca",
+        "code": "3511",
+        "image": "img/products/Barra direccion/barra-direccion-corta-458mm-cesca-3511.jpg",
+        "description": "BARRA DIRECCION CORTA 458MM. CESCA 3511 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / 912/42 / L 913 D y Bus LO 812 Código Original / Similar: 2625 (PH) 688.460.0505 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5550",
+        "name": "BARRA DIRECCION CORTA 977MM. CESCA",
+        "brand": "Cesca",
+        "code": "3025",
+        "image": "img/products/Barra direccion/barra-direccion-corta-977mm-cesca-3025.jpg",
+        "description": "BARRA DIRECCION CORTA 977MM. CESCA 3025 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 1214 C / 1215 C / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K Código Original / Similar: 693.460.7105/R (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5551",
+        "name": "BARRA DIRECCION CORTA 930MM. CESCA",
+        "brand": "Cesca",
+        "code": "3024",
+        "image": "img/products/Barra direccion/barra-direccion-corta-930mm-cesca-3024.jpg",
+        "description": "BARRA DIRECCION CORTA 930MM. CESCA 3024 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C Código Original / Similar: 2676 (PH) 688.460.8305 / 688.460.8405 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5552",
+        "name": "BARRA DIRECCION CORTA 758MM. CESCA",
+        "brand": "Cesca",
+        "code": "2402",
+        "image": "img/products/Barra direccion/barra-direccion-corta-758mm-cesca-2402.jpg",
+        "description": "BARRA DIRECCION CORTA 758MM. CESCA 2402 Cesca Vehículos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 4601 (PH) 6.884.006 / 6.884.510 (VOLVO) 8.126.381 / 1.588.017 (VOLVO)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5553",
+        "name": "BARRA DIRECCION CORTA 880MM. CESCA",
+        "brand": "Cesca",
+        "code": "2173",
+        "image": "img/products/Barra direccion/barra-direccion-corta-880mm-cesca-2173.jpg",
+        "description": "BARRA DIRECCION CORTA 880MM. CESCA 2173 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 Código Original / Similar: 2674 (PH) 695.460.7005 / 695.460.7105 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5554",
+        "name": "BARRA DIRECCION INTERMEDIA 670MM. CESCA",
+        "brand": "Cesca",
+        "code": "2029",
+        "image": "img/products/Barra direccion/barra-direccion-intermedia-670mm-cesca-2029.jpg",
+        "description": "BARRA DIRECCION INTERMEDIA 670MM. CESCA 2029 Cesca Vehículos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Código Original / Similar: 2632 (PH) 631.330.0603 (MB)",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P5555",
+        "name": "BARRA DIRECCION LARGA 1620MM. CESCA",
+        "brand": "Cesca",
+        "code": "1927",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1620mm-cesca-1927.jpg",
+        "description": "BARRA DIRECCION LARGA 1620MM. CESCA 1927 Cesca Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 410 T38 AD / 410 T42 AD / 720 T42T Código Original / Similar: 7142641 / 8163773 / 41036943 (IVECO) 9706 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5556",
+        "name": "BARRA DIRECCION LARGA 1650MM. CESCA",
+        "brand": "Cesca",
+        "code": "1928",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1650mm-cesca-1928.jpg",
+        "description": "BARRA DIRECCION LARGA 1650MM. CESCA 1928 Cesca Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 Código Original / Similar: 503347200 (IVECO) 9703 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5557",
+        "name": "BARRA DIRECCION LARGA 1681MM. CESCA",
+        "brand": "Cesca",
+        "code": "1907",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1681mm-cesca-1907.jpg",
+        "description": "BARRA DIRECCION LARGA 1681MM. CESCA 1907 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (93-98) Código Original / Similar: 15703 (PH) T75/415801 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5558",
+        "name": "BARRA DIRECCION LARGA 1694MM. CESCA",
+        "brand": "Cesca",
+        "code": "1908",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1694mm-cesca-1908.jpg",
+        "description": "BARRA DIRECCION LARGA 1694MM. CESCA 1908 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1517e / 1722e / 1832e / 2632e / Nuevo C1517 / C1722 / C1932 / C2632 Código Original / Similar: 15707 (PH) T15/415801/B (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5559",
+        "name": "BARRA DIRECCION CORTA 927.6MM. CESCA",
+        "brand": "Cesca",
+        "code": "1911",
+        "image": "img/products/Barra direccion/barra-direccion-corta-927-6mm-cesca-1911.jpg",
+        "description": "BARRA DIRECCION CORTA 927.6MM. CESCA 1911 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 14140 / 15210 Código Original / Similar: 5604 (PH) T13/415701/A (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5560",
+        "name": "BARRA DIRECCION CORTA 945MM. CESCA",
+        "brand": "Cesca",
+        "code": "1912",
+        "image": "img/products/Barra direccion/barra-direccion-corta-945mm-cesca-1912.jpg",
+        "description": "BARRA DIRECCION CORTA 945MM. CESCA 1912 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 Código Original / Similar: 5605 (PH) TJG/415701/B (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5561",
+        "name": "BARRA DIRECCION LARGA 1449MM. CESCA",
+        "brand": "Cesca",
+        "code": "1913",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1449mm-cesca-1913.jpg",
+        "description": "BARRA DIRECCION LARGA 1449MM. CESCA 1913 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 5140 E / 8150 E y Bus 9150 OD / 9150 EOD Código Original / Similar: 5700 (PH) T06/415801/B (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5562",
+        "name": "BARRA DIRECCION LARGA 1538MM. CESCA",
+        "brand": "Cesca",
+        "code": "1914",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1538mm-cesca-1914.jpg",
+        "description": "BARRA DIRECCION LARGA 1538MM. CESCA 1914 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 11130 / 12140 / 13130 / 13210 / 14140 Código Original / Similar: 5701 (PH) T13/415801 (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5563",
+        "name": "BARRA DIRECCION LARGA 1645MM. CESCA",
+        "brand": "Cesca",
+        "code": "1915",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1645mm-cesca-1915.jpg",
+        "description": "BARRA DIRECCION LARGA 1645MM. CESCA 1915 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 13180 E / Constellation 13180 E Código Original / Similar: 5702 (PH) TEG/415801 (VW)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5564",
+        "name": "BARRA DIRECCION CORTA 615MM. CESCA",
+        "brand": "Cesca",
+        "code": "1918",
+        "image": "img/products/Barra direccion/barra-direccion-corta-615mm-cesca-1918.jpg",
+        "description": "BARRA DIRECCION CORTA 615MM. CESCA 1918 Cesca Vehículos compatibles: IVECO: Bus AU 130 Código Original / Similar:",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5565",
+        "name": "BARRA DIRECCION CORTA 865MM. CESCA",
+        "brand": "Cesca",
+        "code": "1919",
+        "image": "img/products/Barra direccion/barra-direccion-corta-865mm-cesca-1919.jpg",
+        "description": "BARRA DIRECCION CORTA 865MM. CESCA 1919 Cesca Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S y Bus CC118 E20 GNC / CC118 E22 Código Original / Similar: 7139036 / 503347194 (IVECO) 9606 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5566",
+        "name": "BARRA DIRECCION CORTA 890MM. CESCA",
+        "brand": "Cesca",
+        "code": "1920",
+        "image": "img/products/Barra direccion/barra-direccion-corta-890mm-cesca-1920.jpg",
+        "description": "BARRA DIRECCION CORTA 890MM. CESCA 1920 Cesca Vehículos compatibles: IVECO: Bus AU 130 Código Original / Similar: 7136509 (IVECO) 9605 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5567",
+        "name": "BARRA DIRECCION CORTA 897MM. CESCA",
+        "brand": "Cesca",
+        "code": "1921",
+        "image": "img/products/Barra direccion/barra-direccion-corta-897mm-cesca-1921.jpg",
+        "description": "BARRA DIRECCION CORTA 897MM. CESCA 1921 Cesca Vehículos compatibles: IVECO: Camiones EUROCARGO 120 E15 / 120 E17 / 140 E18 / 140 E20 Código Original / Similar: 7145993 (IVECO) 9607 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5568",
+        "name": "BARRA DIRECCION CORTA 915MM. CESCA",
+        "brand": "Cesca",
+        "code": "1922",
+        "image": "img/products/Barra direccion/barra-direccion-corta-915mm-cesca-1922.jpg",
+        "description": "BARRA DIRECCION CORTA 915MM. CESCA 1922 Cesca Vehículos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 Código Original / Similar: 4732549 / 4667156 / 4624116 (IVECO) 9600A (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5569",
+        "name": "BARRA DIRECCION CORTA 920MM. CESCA",
+        "brand": "Cesca",
+        "code": "1923",
+        "image": "img/products/Barra direccion/barra-direccion-corta-920mm-cesca-1923.jpg",
+        "description": "BARRA DIRECCION CORTA 920MM. CESCA 1923 Cesca Vehículos compatibles: IVECO: Camiones FIAT 150 N TURBO / 150 T TURBO Código Original / Similar: 7136367 (IVECO) 9601 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5570",
+        "name": "BARRA DIRECCION CORTA 920MM. / MODELO VIEJO CESCA",
+        "brand": "Cesca",
+        "code": "1924",
+        "image": "img/products/Barra direccion/barra-direccion-corta-920mm-modelo-viejo-cesca-1924.jpg",
+        "description": "BARRA DIRECCION CORTA 920MM. / MODELO VIEJO CESCA 1924 Cesca Vehículos compatibles: IVECO: Camiones FIAT 150 ASPIRADO Código Original / Similar: 7133666 (IVECO) 9603 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5571",
+        "name": "BARRA DIRECCION CORTA 940MM. / REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1926",
+        "image": "img/products/Barra direccion/barra-direccion-corta-940mm-reforma-cesca-1926.jpg",
+        "description": "BARRA DIRECCION CORTA 940MM. / REFORMA CESCA 1926 Cesca Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42T / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T Código Original / Similar: 7133666 (IVECO) 9603 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5572",
+        "name": "BARRA DIRECCION CORTA 490MM. TIPO ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "1887",
+        "image": "img/products/Barra direccion/barra-direccion-corta-490mm-tipo-original-cesca-1887.jpg",
+        "description": "BARRA DIRECCION CORTA 490MM. TIPO ORIGINAL CESCA 1887 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F7000 Dirección Mecánica Código Original / Similar: 15605 (PH) EDHZ/3304/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5573",
+        "name": "BARRA DIRECCION CORTA 490MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1888",
+        "image": "img/products/Barra direccion/barra-direccion-corta-490mm-tipo-reforma-cesca-1888.jpg",
+        "description": "BARRA DIRECCION CORTA 490MM. TIPO REFORMA CESCA 1888 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F7000 Dirección Mecánica Código Original / Similar: 15606 (PH) EDHZ/3304/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5574",
+        "name": "BARRA DIRECCION CORTA 600MM. TIPO ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "1891",
+        "image": "img/products/Barra direccion/barra-direccion-corta-600mm-tipo-original-cesca-1891.jpg",
+        "description": "BARRA DIRECCION CORTA 600MM. TIPO ORIGINAL CESCA 1891 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (93-98) Código Original / Similar: 15609 (PH) T75/415701 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5575",
+        "name": "BARRA DIRECCION CORTA 600MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1892",
+        "image": "img/products/Barra direccion/barra-direccion-corta-600mm-tipo-reforma-cesca-1892.jpg",
+        "description": "BARRA DIRECCION CORTA 600MM. TIPO REFORMA CESCA 1892 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (93-98) Código Original / Similar: 15610 (PH) T75/415701 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5576",
+        "name": "BARRA DIRECCION CORTA 720MM. TIPO ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "1893",
+        "image": "img/products/Barra direccion/barra-direccion-corta-720mm-tipo-original-cesca-1893.jpg",
+        "description": "BARRA DIRECCION CORTA 720MM. TIPO ORIGINAL CESCA 1893 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (99-05) Código Original / Similar: 15615 (PH) XC35/3304/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5577",
+        "name": "BARRA DIRECCION CORTA 720MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1894",
+        "image": "img/products/Barra direccion/barra-direccion-corta-720mm-tipo-reforma-cesca-1894.jpg",
+        "description": "BARRA DIRECCION CORTA 720MM. TIPO REFORMA CESCA 1894 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (99-05) Código Original / Similar: 15616 (PH) XC35/3304/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5578",
+        "name": "BARRA DIRECCION CORTA 824MM. TIPO ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "1895",
+        "image": "img/products/Barra direccion/barra-direccion-corta-824mm-tipo-original-cesca-1895.jpg",
+        "description": "BARRA DIRECCION CORTA 824MM. TIPO ORIGINAL CESCA 1895 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e Código Original / Similar: 15613 (PH) 2UH/415701 96HU/3304/AA / 1C45/3304/AB (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5579",
+        "name": "BARRA DIRECCION CORTA 824MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1896",
+        "image": "img/products/Barra direccion/barra-direccion-corta-824mm-tipo-reforma-cesca-1896.jpg",
+        "description": "BARRA DIRECCION CORTA 824MM. TIPO REFORMA CESCA 1896 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e Código Original / Similar: 15614 (PH) 2UH/415701 96HU/3304/AA / 1C45/3304/AB (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5580",
+        "name": "BARRA DIRECCION CORTA 945MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1897",
+        "image": "img/products/Barra direccion/barra-direccion-corta-945mm-tipo-reforma-cesca-1897.jpg",
+        "description": "BARRA DIRECCION CORTA 945MM. TIPO REFORMA CESCA 1897 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1317e / 1517e / Nuevo C1317 / C1517 Código Original / Similar: 15612/1 (PH) 85HU/3304/B TJG/415701/B (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5581",
+        "name": "BARRA DIRECCION CORTA 945MM. TIPO ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "1899",
+        "image": "img/products/Barra direccion/barra-direccion-corta-945mm-tipo-original-cesca-1899.jpg",
+        "description": "BARRA DIRECCION CORTA 945MM. TIPO ORIGINAL CESCA 1899 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1730 / 1831 / 1722e / Nuevo C1722 / C1932 / 1723 / 1729 / 1933 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 17250 E Código Original / Similar: 2T0/422803 / TJG/415701/A (VW) 88HU/3304/AA / AC45/3304/EA (FORD) AC45/3304/EB / JC4Z/3304/E (FORD)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5582",
+        "name": "BARRA DIRECCION LARGA 1450MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "1901",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1450mm-tipo-reforma-cesca-1901.jpg",
+        "description": "BARRA DIRECCION LARGA 1450MM. TIPO REFORMA CESCA 1901 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 Código Original / Similar: 15705 (PH) 2UH/415801 96HU/3280/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5583",
+        "name": "BARRA DIRECCION LARGA 1470MM. CESCA",
+        "brand": "Cesca",
+        "code": "1902",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1470mm-cesca-1902.jpg",
+        "description": "BARRA DIRECCION LARGA 1470MM. CESCA 1902 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (99-05) Código Original / Similar: 15708 (PH) XC35/3280/CB XC35/3280/CA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5584",
+        "name": "BARRA DIRECCION LARGA 1527MM. CESCA",
+        "brand": "Cesca",
+        "code": "1903",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1527mm-cesca-1903.jpg",
+        "description": "BARRA DIRECCION LARGA 1527MM. CESCA 1903 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 Código Original / Similar: 15704 (PH) 85TU/3280/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5585",
+        "name": "BARRA DIRECCION LARGA 1530MM. CESCA",
+        "brand": "Cesca",
+        "code": "1904",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1530mm-cesca-1904.jpg",
+        "description": "BARRA DIRECCION LARGA 1530MM. CESCA 1904 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F7000 (68-81) Código Original / Similar: 15701 (PH) D7TZ/3280 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5586",
+        "name": "BARRA DIRECCION LARGA 1680MM. CESCA",
+        "brand": "Cesca",
+        "code": "1906",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1680mm-cesca-1906.jpg",
+        "description": "BARRA DIRECCION LARGA 1680MM. CESCA 1906 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F7000 (81-87) Código Original / Similar: 15702 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5587",
+        "name": "BARRA DIRECCION CORTA 573MM. CESCA",
+        "brand": "Cesca",
+        "code": "1879",
+        "image": "img/products/Barra direccion/barra-direccion-corta-573mm-cesca-1879.jpg",
+        "description": "BARRA DIRECCION CORTA 573MM. CESCA 1879 Cesca Vehículos compatibles: SCANIA: Camiones T 112 / T 142 / T 113 / T 143 Código Original / Similar: 300.308 / 306.913 / 382.774 (SC) 3601 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5588",
+        "name": "BARRA DIRECCION CORTA 941.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "1881",
+        "image": "img/products/Barra direccion/barra-direccion-corta-941-5mm-cesca-1881.jpg",
+        "description": "BARRA DIRECCION CORTA 941.5MM. CESCA 1881 Cesca Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / R 143 Código Original / Similar: 306.981 (SC) 3602 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5589",
+        "name": "BARRA DIRECCION LARGA 1736MM. CESCA",
+        "brand": "Cesca",
+        "code": "1883",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1736mm-cesca-1883.jpg",
+        "description": "BARRA DIRECCION LARGA 1736MM. CESCA 1883 Cesca Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus F 112 / F 113 Código Original / Similar: 301.639 / 311.847 / 395.350 / 1.397.866 (SC) 3701 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5590",
+        "name": "BARRA DIRECCION CORTA 776MM. CESCA",
+        "brand": "Cesca",
+        "code": "1803",
+        "image": "img/products/Barra direccion/barra-direccion-corta-776mm-cesca-1803.jpg",
+        "description": "BARRA DIRECCION CORTA 776MM. CESCA 1803 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1941 Código Original / Similar: 2664 (PH) 388.460.8105 / 388.460.8205 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5591",
+        "name": "BARRA DIRECCION CORTA 780MM. CESCA",
+        "brand": "Cesca",
+        "code": "1804",
+        "image": "img/products/Barra direccion/barra-direccion-corta-780mm-cesca-1804.jpg",
+        "description": "BARRA DIRECCION CORTA 780MM. CESCA 1804 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1941 Código Original / Similar: 2627 (PH) 388.460.7605 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5592",
+        "name": "BARRA DIRECCION LARGA 1476MM. CESCA",
+        "brand": "Cesca",
+        "code": "1805",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1476mm-cesca-1805.jpg",
+        "description": "BARRA DIRECCION LARGA 1476MM. CESCA 1805 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Código Original / Similar: 2701 (PH) 308.330.7003 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5593",
+        "name": "BARRA DIRECCION CORTA 779MM. / PERNOS DIAM. 23.7MM. CESCA",
+        "brand": "Cesca",
+        "code": "14066",
+        "image": "img/products/Barra direccion/barra-direccion-corta-779mm-pernos-diam-23-7mm-cesca-14066.jpg",
+        "description": "BARRA DIRECCION CORTA 779MM. / PERNOS DIAM. 23.7MM. CESCA 14066 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 815 / 1016 Código Original / Similar: 979.460.0205 / 979.460.0305 (MB) N5246 (Nakata)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5594",
+        "name": "BARRA DIRECCION CORTA 601MM. REFORMA / PERNOS DIAM. 23.6MM. CESCA",
+        "brand": "Cesca",
+        "code": "14067",
+        "image": "img/products/Barra direccion/barra-direccion-corta-601mm-reforma-pernos-diam-23-6mm-cesca-14067.jpg",
+        "description": "BARRA DIRECCION CORTA 601MM. REFORMA / PERNOS DIAM. 23.6MM. CESCA 14067 Cesca Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / P 360 LA / P 360 CB / P 400 CA / P 400 CB / P 440 CB / G 310 LA / G 310 LB / G 360 LA / G 360 LB / G 400 LA / G 440 CA / G 440 LA / G 480 CB / RN 360 LA / RH 400 LA HIGHLINE / RN 400 LA / RH 400 LB HIGHLINE / RN 400 LB / RH 440 LA HIGHLINE / RN 440 LA / RH 480 LA HIGHLINE / RN 480 LA / R 480 LA BI-TREN / RH 560 LA HIGHLINE / R 560 LA BI-TREN / RH 620 LA HIGHLINE y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 1.343.262 / 1.869.413 (SC)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5595",
+        "name": "BARRA DIRECCION LARGA 1680MM. TIPO ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "13777",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1680mm-tipo-original-cesca-13777.jpg",
+        "description": "BARRA DIRECCION LARGA 1680MM. TIPO ORIGINAL CESCA 13777 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 Código Original / Similar: 15715 (PH) DC46/3278/CA (FORD)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5596",
+        "name": "BARRA DIRECCION LARGA 1686MM. CESCA",
+        "brand": "Cesca",
+        "code": "13778",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1686mm-cesca-13778.jpg",
+        "description": "BARRA DIRECCION LARGA 1686MM. CESCA 13778 Cesca Vehículos compatibles: RENAULT: Camiones PREMIUM DXI 7 240 / 280 / 300 / 320 Código Original / Similar: 5010587034 / 5001868366 (RENAULT) 5010587038 / 7421560963 (RENAULT) 7422163637 (RENAULT)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5597",
+        "name": "BARRA DIRECCION LARGA 1680MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "13779",
+        "image": "img/products/Barra direccion/barra-direccion-larga-1680mm-tipo-reforma-cesca-13779.jpg",
+        "description": "BARRA DIRECCION LARGA 1680MM. TIPO REFORMA CESCA 13779 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 Código Original / Similar: DC46/3278/CA (FORD)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5598",
+        "name": "BARRA DIRECCION CORTA 886MM. CESCA",
+        "brand": "Cesca",
+        "code": "13780",
+        "image": "img/products/Barra direccion/barra-direccion-corta-886mm-cesca-13780.jpg",
+        "description": "BARRA DIRECCION CORTA 886MM. CESCA 13780 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 Código Original / Similar: 15626 (PH) DC46/3304/BB (FORD)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5599",
+        "name": "BARRA DIRECCION CORTA 825MM. CESCA",
+        "brand": "Cesca",
+        "code": "13783",
+        "image": "img/products/Barra direccion/barra-direccion-corta-825mm-cesca-13783.jpg",
+        "description": "BARRA DIRECCION CORTA 825MM. CESCA 13783 Cesca Vehículos compatibles: RENAULT: Camiones MIDLUM 300 Código Original / Similar: 25626 (PH)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5600",
+        "name": "BARRA DIRECCION CORTA 850MM. / ORIGINAL CESCA",
+        "brand": "Cesca",
+        "code": "13155",
+        "image": "img/products/Barra direccion/barra-direccion-corta-850mm-original-cesca-13155.jpg",
+        "description": "BARRA DIRECCION CORTA 850MM. / ORIGINAL CESCA 13155 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 24220 / 26310 / 26260 E Código Original / Similar: 2U0/411025/A (VW)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5601",
+        "name": "BARRA DIRECCION LARGA CESCA",
+        "brand": "Cesca",
+        "code": "12479",
+        "image": "img/products/Barra direccion/barra-direccion-larga-cesca-12479.jpg",
+        "description": "BARRA DIRECCION LARGA CESCA 12479 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e Código Original / Similar: 1C45/3280/AA (FORD)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5602",
+        "name": "BARRA DIRECCION CORTA 775MM. CESCA",
+        "brand": "Cesca",
+        "code": "1229",
+        "image": "img/products/Barra direccion/barra-direccion-corta-775mm-cesca-1229.jpg",
+        "description": "BARRA DIRECCION CORTA 775MM. CESCA 1229 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1622 / LS 1622 / L 1633 / LS 1633 / LK 2318 / LB 2325 / LK 2325 / LK 2418 Código Original / Similar: 2642 (PH) 384.460.9205 / 384.460.7905 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5603",
+        "name": "BARRA DIRECCION CORTA 458MM. HIDRAULICA CESCA",
+        "brand": "Cesca",
+        "code": "1223",
+        "image": "img/products/Barra direccion/barra-direccion-corta-458mm-hidraulica-cesca-1223.jpg",
+        "description": "BARRA DIRECCION CORTA 458MM. HIDRAULICA CESCA 1223 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 709 / L 710 / 912/42 / 913 / 914 y Bus LO 812 / LO 813 D / LO 814 Código Original / Similar: 2626 (PH) 688.460.7405 / 688.460.7905 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5604",
+        "name": "BARRA DIRECCION CORTA 768MM. CESCA",
+        "brand": "Cesca",
+        "code": "1221",
+        "image": "img/products/Barra direccion/barra-direccion-corta-768mm-cesca-1221.jpg",
+        "description": "BARRA DIRECCION CORTA 768MM. CESCA 1221 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 Código Original / Similar: 2623 (PH) 384.460.8805 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5605",
+        "name": "BARRA DIRECCION CORTA 678MM. CESCA",
+        "brand": "Cesca",
+        "code": "1212",
+        "image": "img/products/Barra direccion/barra-direccion-corta-678mm-cesca-1212.jpg",
+        "description": "BARRA DIRECCION CORTA 678MM. CESCA 1212 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1517 / L 1518 / L 1521 Código Original / Similar: 2606 (PH) 351.460.0305 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5606",
+        "name": "BARRA DIRECCION CORTA 910MM. TIPO REFORMA CESCA",
+        "brand": "Cesca",
+        "code": "10269",
+        "image": "img/products/Barra direccion/barra-direccion-corta-910mm-tipo-reforma-cesca-10269.jpg",
+        "description": "BARRA DIRECCION CORTA 910MM. TIPO REFORMA CESCA 10269 Cesca Vehículos compatibles: VOLVO: Camiones FH 420 / FH 460 / FH 500 / FH 540 (+2010) Código Original / Similar: 22.526.506 / 21.698.605 / 22.380.814 (VOLVO) 22.768.861 / 23.341.669 (VOLVO) 5187 (CESCA)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5607",
+        "name": "BARRA DIRECCION CORTA 1225MM. CESCA",
+        "brand": "Cesca",
+        "code": "0303",
+        "image": "img/products/Barra direccion/barra-direccion-corta-1225mm-cesca-0303.jpg",
+        "description": "BARRA DIRECCION CORTA 1225MM. CESCA 0303 Cesca Vehículos compatibles: MERCEDES BENZ: Bus OHL 1621 Código Original / Similar: 2671 (PH) 390.460.7305 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5608",
+        "name": "BARRA COLUMNA DIRECCION HIDRAULICA 520MM. INFERIOR IMP.",
+        "brand": "Imp",
+        "code": "3995",
+        "image": "img/products/Barra direccion/barra-columna-direccion-hidraulica-520mm-inferior-imp-3995.jpg",
+        "description": "BARRA COLUMNA DIRECCION HIDRAULICA 520MM. INFERIOR IMP. 3995 Imp Vehículos compatibles: MERCEDES BENZ: Camiones L 1517 / L 1518 / L 1521 Código Original / Similar: 345.462.0201 / 341.462.7201 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5609",
+        "name": "BUJE BARRA COLUMNA DIRECCION IMP.",
+        "brand": "Imp",
+        "code": "2150",
+        "image": "img/products/Barra direccion/buje-barra-columna-direccion-imp-2150.jpg",
+        "description": "BUJE BARRA COLUMNA DIRECCION IMP. 2150 Imp Vehículos compatibles: MERCEDES BENZ: Camiones L 1526 / LS 1526 y Bus OF 1215 / OF 1315 / OH 1314/46 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OH 1419 / OH 1420 / OH 1526 / OHL 1316 / OHL 1320 / OHL 1420 Código Original / Similar: 352.462.0251 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5610",
+        "name": "BARRA SUPERIOR COLUMNA DIRECCION HIDRAULICA 318MM. FRESADA IMP.",
+        "brand": "Imp",
+        "code": "0605",
+        "image": "img/products/Barra direccion/barra-superior-columna-direccion-hidraulica-318mm-fresada-imp-0605.jpg",
+        "description": "BARRA SUPERIOR COLUMNA DIRECCION HIDRAULICA 318MM. FRESADA IMP. 0605 Imp Vehículos compatibles: MERCEDES BENZ: Camiones L 1526 / LS 1526 y Bus OF 1215 / OF 1315 / OH 1314/46 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OH 1419 / OH 1420 / OHL 1316 / OHL 1320 / OHL 1420 Código Original / Similar: 345.462.7201 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5611",
+        "name": "COLUMNA DIRECCION VERTICAL 960MM. / CERRADA STAHL",
+        "brand": "Stahl",
+        "code": "6032",
+        "image": "img/products/Barra direccion/columna-direccion-vertical-960mm-cerrada-stahl-6032.jpg",
+        "description": "COLUMNA DIRECCION VERTICAL 960MM. / CERRADA STAHL 6032 Stahl Vehículos compatibles: MERCEDES BENZ: Bus 0500 RSD Código Original / Similar: 634.460.0409 (MB) UN MOVIMIENTO VIENE SOLDADO A LA BARRA Y EL OTRO ES INTERCAMBIABLE.",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5612",
+        "name": "BRAZO BARRA ESTABILIZADORA DELANTERA 330MM. CESCA",
+        "brand": "Cesca",
+        "code": "13802",
+        "image": "img/products/Barra direccion/brazo-barra-estabilizadora-delantera-330mm-cesca-13802.jpg",
+        "description": "BRAZO BARRA ESTABILIZADORA DELANTERA 330MM. CESCA 13802 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATRON 1634 / 1735 Código Original / Similar: 386.320.7089 (MB)",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5613",
+        "name": "ROTULA BARRA DE MANDO ROSCA MACHO IZQUIERDA R14 X 1.5 CESCA",
+        "brand": "Cesca",
+        "code": "13803",
+        "image": "img/products/Barra direccion/rotula-barra-de-mando-rosca-macho-izquierda-r14-x-1-5-cesca-13803.jpg",
+        "description": "ROTULA BARRA DE MANDO ROSCA MACHO IZQUIERDA R14 X 1.5 CESCA 13803 Cesca Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / 1718 M / 1938 S / 2423 B / 2423 K / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OF 1417 / OF 1418 Código Original / Similar:",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5614",
+        "name": "ROTULA SUSPENSION SUPERIOR DIAM. 44.5MM. CESCA",
+        "brand": "Cesca",
+        "code": "13796",
+        "image": "img/products/Barra direccion/rotula-suspension-superior-diam-44-5mm-cesca-13796.jpg",
+        "description": "ROTULA SUSPENSION SUPERIOR DIAM. 44.5MM. CESCA 13796 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 (+06) / F 4000 (+98) Código Original / Similar: 4C3Z/3049/DA (FORD) BF8T/3049/A / 4C3Z/3049/DB (FORD) PERNO 19.6MM. / LARGO 104.45MM.",
+        "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5615",
+        "name": "ROTULA SUSPENSION INFERIOR / DIAM. 50.3MM. CESCA",
+        "brand": "Cesca",
+        "code": "13797",
+        "image": "img/products/Barra direccion/rotula-suspension-inferior-diam-50-3mm-cesca-13797.jpg",
+        "description": "ROTULA SUSPENSION INFERIOR / DIAM. 50.3MM. CESCA 13797 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 (+06) / F 4000 (+98) Código Original / Similar: 4C3Z/3050/BA / 5C3Z/3050/A (FORD) 5C3Z/3050/E (FORD) PERNO 27MM. / LARGO 98.8MM.",
+        "rubro": "BARRAS DE DIRECCION"
     }
 ];
 
