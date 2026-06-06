@@ -14,6 +14,8 @@
     const RESULT_RENDER_LIMIT = 120;
     const LOAD_MORE_INCREMENT = 120;
     const SEARCH_DEBOUNCE_MS = 180;
+    const INDEX_CHUNK_SIZE = 40;
+    const INDEX_CHUNK_BUDGET_MS = 5;
     const FALLBACK_IMAGE = 'parts_image.png';
     const FILTER_BRANDS = ["Mercedes Benz", "Ford", "Iveco", "Scania", "Volkswagen", "Sprinter"];
     let searchTimer = null;
@@ -21,6 +23,7 @@
     let currentRenderLimit = INITIAL_RENDER_LIMIT;
     let indexedProducts = [];
     let indexReady = false;
+    let pendingFilterRequest = false;
     let productsStatus = document.getElementById('productsStatus');
 
     if (!productsStatus && productGrid) {
@@ -466,7 +469,7 @@
     }
 
     function setFiltersDisabled(disabled) {
-        [searchInput, filterEngine, filterTruck, filterCategory, filterBrand, clearFiltersBtn, voiceSearchBtn]
+        [filterEngine, filterTruck, filterCategory, filterBrand]
             .filter(Boolean)
             .forEach(control => {
                 control.disabled = disabled;
@@ -474,11 +477,23 @@
             });
     }
 
+    function scheduleIndexWork(callback) {
+        if ('requestIdleCallback' in window) {
+            window.requestIdleCallback(callback, { timeout: 120 });
+            return;
+        }
+
+        window.setTimeout(() => {
+            callback({
+                timeRemaining: () => INDEX_CHUNK_BUDGET_MS
+            });
+        }, 16);
+    }
+
     function buildIndexAsync(onComplete) {
-        const chunkSize = 180;
         let productIndex = 0;
 
-        function buildChunk() {
+        function buildChunk(deadline) {
             const start = (window.performance && window.performance.now) ? window.performance.now() : Date.now();
 
             while (productIndex < productsData.length) {
@@ -486,11 +501,17 @@
                 productIndex += 1;
 
                 const now = (window.performance && window.performance.now) ? window.performance.now() : Date.now();
-                if (productIndex % chunkSize === 0 && now - start > 12) break;
+                const idleTimeRemaining = deadline && typeof deadline.timeRemaining === 'function'
+                    ? deadline.timeRemaining()
+                    : INDEX_CHUNK_BUDGET_MS;
+
+                if (productIndex % INDEX_CHUNK_SIZE === 0 && (now - start >= INDEX_CHUNK_BUDGET_MS || idleTimeRemaining <= 1)) {
+                    break;
+                }
             }
 
             if (productIndex < productsData.length) {
-                window.setTimeout(buildChunk, 0);
+                scheduleIndexWork(buildChunk);
                 return;
             }
 
@@ -498,7 +519,7 @@
             onComplete();
         }
 
-        window.setTimeout(buildChunk, 0);
+        scheduleIndexWork(buildChunk);
     }
 
     // Function to populate filters
@@ -635,7 +656,7 @@
 
         const fragment = document.createDocumentFragment();
 
-        productsToRender.forEach(product => {
+        productsToRender.forEach((product, index) => {
             const productCard = document.createElement('div');
             productCard.className = 'product-item';
             productCard.title = product.name;
@@ -650,9 +671,12 @@
             const safeBrand = escapeHtml(product.brand || '');
             const safeCode = escapeHtml(product.code || '');
             const safeRubro = escapeHtml(product.rubro || '');
+            const shouldPrioritizeImage = index < 8;
+            const imageLoading = shouldPrioritizeImage ? 'eager' : 'lazy';
+            const imagePriority = shouldPrioritizeImage ? 'fetchpriority="high"' : '';
 
             productCard.innerHTML = `
-                <img src="${escapeHtml(imgPath)}" alt="${safeName}" class="product-item-img" loading="lazy" decoding="async" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}'">
+                <img src="${escapeHtml(imgPath)}" alt="${safeName}" class="product-item-img" loading="${imageLoading}" decoding="async" ${imagePriority} onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}'">
                 <div class="product-item-info">
                     <span class="product-item-brand">${safeBrand}</span>
                     <h3 class="product-item-name">${safeName}</h3>
@@ -688,15 +712,26 @@
     // Main Filter Function
     function applyFilters() {
         if (!indexReady) {
+            pendingFilterRequest = true;
             currentProducts = productsData;
             currentRenderLimit = INITIAL_RENDER_LIMIT;
             renderProducts(currentProducts, currentRenderLimit);
             if (productsStatus) {
-                productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos. Preparando búsqueda...`;
+                const hasActiveCriteria = Boolean(
+                    searchInput.value.trim() ||
+                    filterEngine.value ||
+                    filterTruck.value ||
+                    filterCategory.value ||
+                    filterBrand.value
+                );
+                productsStatus.textContent = hasActiveCriteria
+                    ? `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos. Preparando búsqueda...`
+                    : `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos.`;
             }
             return;
         }
 
+        pendingFilterRequest = false;
         const searchTerm = searchInput.value;
         const selectedEngine = filterEngine.value;
         const selectedTruck = filterTruck.value;
@@ -839,13 +874,19 @@
     currentRenderLimit = INITIAL_RENDER_LIMIT;
     renderProducts(currentProducts, currentRenderLimit);
     if (productsStatus) {
-        productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos. Preparando búsqueda...`;
+        productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos.`;
     }
 
-    buildIndexAsync(() => {
-        populateFilters();
-        setFiltersDisabled(false);
-        applyFilters();
-    });
+    window.setTimeout(() => {
+        buildIndexAsync(() => {
+            populateFilters();
+            setFiltersDisabled(false);
+            if (pendingFilterRequest || initialQuery) {
+                applyFilters();
+            } else {
+                updateProductsStatus(Math.min(currentRenderLimit, currentProducts.length), currentProducts.length, currentProducts.length > currentRenderLimit);
+            }
+        });
+    }, 120);
 });
 
