@@ -48766,6 +48766,2031 @@ const products = [
         "image": "img/products/Barra direccion/rotula-suspension-inferior-diam-50-3mm-cesca-13797.jpg",
         "description": "ROTULA SUSPENSION INFERIOR / DIAM. 50.3MM. CESCA 13797 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 (+06) / F 4000 (+98) Código Original / Similar: 4C3Z/3050/BA / 5C3Z/3050/A (FORD) 5C3Z/3050/E (FORD) PERNO 27MM. / LARGO 98.8MM.",
         "rubro": "BARRAS DE DIRECCION"
+    },
+    {
+        "id": "P5616",
+        "name": "SENSOR DE TEMPERATURA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9982",
+        "image": "img/products/Sensores/sensor-de-temperatura-tf-p-technology-9982.jpg",
+        "description": "SENSOR DE TEMPERATURA TF&P TECHNOLOGY 9982 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 B / B 12 M VOLVO: Motores VOLVO D12A / D12C / D12D Código Original / Similar: 20.429.956 / 20.576.617 (VOLVO) 2 PINES REDONDOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5617",
+        "name": "SENSOR TEMPERATURA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9957",
+        "image": "img/products/Sensores/sensor-temperatura-tf-p-technology-9957.jpg",
+        "description": "SENSOR TEMPERATURA TF&P TECHNOLOGY 9957 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 (Todos -1998) Código Original / Similar: 1.624.361 (VOLVO) 4 PINES / M16 X 1.5",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5618",
+        "name": "SENSOR PRESION DE ACEITE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9927",
+        "image": "img/products/Sensores/sensor-presion-de-aceite-tf-p-technology-9927.jpg",
+        "description": "SENSOR PRESION DE ACEITE TF&P TECHNOLOGY 9927 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 9 380 / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 10 M / B 10 R / B 12 B / B 12 M VOLVO: Motores VOLVO D 10 B / D12A / D12C / D12D / DH 10 / DH 12 Código Original / Similar: 1.077.574 (VOLVO) M16 X 1.5 / PINES: 3 FINOS Y 1 GRUESO",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5619",
+        "name": "SENSOR TEMPERATURA CAJA DE CAMBIOS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9932",
+        "image": "img/products/Sensores/sensor-temperatura-caja-de-cambios-tf-p-technology-9932.jpg",
+        "description": "SENSOR TEMPERATURA CAJA DE CAMBIOS TF&P TECHNOLOGY 9932 Tfp Technology Vehículos compatibles: VOLVO: Cajas VOLVO VT2214 / VT2514 VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 Código Original / Similar: 1.594.228 (VOLVO) 2 PINES / M16 X 1.5",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5620",
+        "name": "SENSOR DESGASTE PASTILLA DE FRENO LADO DERECHO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9939",
+        "image": "img/products/Sensores/sensor-desgaste-pastilla-de-freno-lado-derecho-tf-p-technology-9939.jpg",
+        "description": "SENSOR DESGASTE PASTILLA DE FRENO LADO DERECHO TF&P TECHNOLOGY 9939 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FM 10 320 / FM 10 360 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 7 R / B 9 R / B 12 B / B 12 R Código Original / Similar: 20.925.544 / 21.390.375 / 20.526.768 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5621",
+        "name": "SENSOR DESGASTE PASTILLA DE FRENO LADO IZQUIERDO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9940",
+        "image": "img/products/Sensores/sensor-desgaste-pastilla-de-freno-lado-izquierdo-tf-p-technology-9940.jpg",
+        "description": "SENSOR DESGASTE PASTILLA DE FRENO LADO IZQUIERDO TF&P TECHNOLOGY 9940 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FM 10 320 / FM 10 360 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 7 R / B 9 R / B 12 B / B 12 R Código Original / Similar: 20.925.545 / 21.390.376 / 20.534.389 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5622",
+        "name": "SENSOR 5V. PARA VALVULA 4 CIRCUITOS APU WABCO TKL",
+        "brand": "TKL",
+        "code": "9871",
+        "image": "img/products/Sensores/sensor-5v-para-valvula-4-circuitos-apu-wabco-tkl-9871.jpg",
+        "description": "SENSOR 5V. PARA VALVULA 4 CIRCUITOS APU WABCO TKL 9871 TKL Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / IVECO: Válvulas WABCO 934.705.021 0 MERCEDES BENZ: Camiones 1938 S MERCEDES BENZ: Válvulas WABCO 884.503.144 0 Código Original / Similar: 441.043.502 1 / 441.043.504 1 (Wabco) 932.500.501 1 (Wabco) 6 PINES",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5623",
+        "name": "VALVULA 4 CIRCUITOS APU WABCO CON SENSOR 5V. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9872",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-wabco-con-sensor-5v-tf-p-technology-9872.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU WABCO CON SENSOR 5V. TF&P TECHNOLOGY 9872 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Para Valvulas IVECO 5801411753 IVECO: Para Valvulas WABCO 932.500.104 0 Código Original / Similar: 500056401 (IVECO) 934.705.021 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5624",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR 5V. TKL",
+        "brand": "TKL",
+        "code": "9873",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-con-sensor-5v-tkl-9873.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR 5V. TKL 9873 TKL Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ Código Original / Similar: 42553849 / 42553819 / 42536813 (IVECO) K011932 / AE4516 (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5625",
+        "name": "SENSOR TEMPERATURA ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "9299",
+        "image": "img/products/Sensores/sensor-temperatura-engine-parts-9299.jpg",
+        "description": "SENSOR TEMPERATURA ENGINE PARTS 9299 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford 915e / 1317e / 1517e / 1722e / F 100 (+06) / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E24 / 240 E28 / TECTOR STRADALE 240 E25 S / TECTOR ECOLINE 170 E25 S / 170 E28 / 170 E28S / 170 E28T / 170 E30 S / 240 E28 / 240 E28 S / 240 E30 S / 260 E28 / 260 E30 / TRAKKER ECOLINE 380 T50 AT / VERTIS 90 V16 / 130 V18 / VERTIS ECOLINE 90 V18 / 130 V19 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 / ECOLINE 170 S28 Código Original / Similar: 0281.002.209 (BOSCH) 2R0/919501/A (VW) 4897224 (Cummins) 4897224 (IVECO) BG5X/10884/AA (FORD) 2 PINES PLANOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5626",
+        "name": "SENSOR PRESION AIRE IMP.",
+        "brand": "Imp",
+        "code": "9279",
+        "image": "img/products/Sensores/sensor-presion-aire-imp-9279.jpg",
+        "description": "SENSOR PRESION AIRE IMP. 9279 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE / 6.12 TCE FORD / VW / CUMMINS / MWM: VW 13180 E / 15180 E / 26260 E / CONSTELLATION 13180 E / 15180 E / 26260 E y Bus 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT Código Original / Similar: 2R0/906051/C (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5627",
+        "name": "SENSOR TEMPERATURA Y PRESION DE AIRE IMP.",
+        "brand": "Imp",
+        "code": "9281",
+        "image": "img/products/Sensores/sensor-temperatura-y-presion-de-aire-imp-9281.jpg",
+        "description": "SENSOR TEMPERATURA Y PRESION DE AIRE IMP. 9281 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 916 / 1119 / 1519 / 1723 / 1723 / 3129 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 Código Original / Similar: BH5X/9D290/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5628",
+        "name": "SENSOR PRESION COMBUSTIBLE / COMMON RAIL ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "9288",
+        "image": "img/products/Sensores/sensor-presion-combustible-common-rail-engine-parts-9288.jpg",
+        "description": "SENSOR PRESION COMBUSTIBLE / COMMON RAIL ENGINE PARTS 9288 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 170 E24 / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E22 / CC 170 E22 Código Original / Similar: 0281002964 / 0281002398 (BOSCH) 2R0/919081/C (VW) 4897501 (IVECO) 4897501 / 4897225 (Cummins) BG5X/9F479/AA (FORD) M12 X 1.5 / 3 PINES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5629",
+        "name": "SENSOR PRESION ACEITE / M14 X 1.5 ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "9294",
+        "image": "img/products/Sensores/sensor-presion-aceite-m14-x-1-5-engine-parts-9294.jpg",
+        "description": "SENSOR PRESION ACEITE / M14 X 1.5 ENGINE PARTS 9294 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford 915e / 1317e / 1517e / 1722e / F 100 (+06) / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E Código Original / Similar: 2897324 / 3969394 (Cummins) 2R0/906051 / 2R0/906051/E (VW) BH0X/9D290/AA / BG5X/9D290/BA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5630",
+        "name": "SENSOR PRESION ACEITE ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "9297",
+        "image": "img/products/Sensores/sensor-presion-aceite-engine-parts-9297.jpg",
+        "description": "SENSOR PRESION ACEITE ENGINE PARTS 9297 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2T2/906051/F (VW) 4928593 (Cummins) BG6X/9F479/BA (FORD / VW / CUMMINS / MWM) 3 PINES PLANOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5631",
+        "name": "SENSOR PRESION / MAP TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9240",
+        "image": "img/products/Sensores/sensor-presion-map-trucktec-9240.jpg",
+        "description": "SENSOR PRESION / MAP TRUCKTEC 9240 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 004.153.3028 / 004.153.3228 (MB) 005.153.5028 / 006.153.1328 (MB) 006.153.9728 (MB) 0261230189 (BOSCH)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5632",
+        "name": "SENSOR NIVEL AGUA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9241",
+        "image": "img/products/Sensores/sensor-nivel-agua-trucktec-9241.jpg",
+        "description": "SENSOR NIVEL AGUA TRUCKTEC 9241 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 / CDI / 516 CDI Código Original / Similar: 220.545.0024 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5633",
+        "name": "SENSOR PRESION COMBUSTIBLE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9214",
+        "image": "img/products/Sensores/sensor-presion-combustible-trucktec-9214.jpg",
+        "description": "SENSOR PRESION COMBUSTIBLE TRUCKTEC 9214 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Para Multiple de Combustible MB 611.070.0495 MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 005.153.5828 / 007.153.0228 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5634",
+        "name": "FILTRO DE COMBUSTIBLE SIN SENSOR HENGST",
+        "brand": "Hengst",
+        "code": "9187",
+        "image": "img/products/Sensores/filtro-de-combustible-sin-sensor-hengst-9187.jpg",
+        "description": "FILTRO DE COMBUSTIBLE SIN SENSOR HENGST 9187 Hengst Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.092.0601 / 611.092.0201 (MB) H70WK11 (HENGST) KL100/2 (Mahle) P9436 (Fram) WK842/13 (MANN)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P5635",
+        "name": "SENSOR ELECTRONICO PRESION ACEITE 3-RHO",
+        "brand": "3 Rho",
+        "code": "9119",
+        "image": "img/products/Sensores/sensor-electronico-presion-aceite-3-rho-9119.jpg",
+        "description": "SENSOR ELECTRONICO PRESION ACEITE 3-RHO 9119 3 Rho Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 004.153.1428 / 006.153.1128 (MB) 006.153.6028 / 007.153.4328 (MB) 009.153.5028 (MB) M12 X 1.5",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5636",
+        "name": "SENSOR ELECTRONICO PRESION DE AIRE 3-RHO",
+        "brand": "3 Rho",
+        "code": "9120",
+        "image": "img/products/Sensores/sensor-electronico-presion-de-aire-3-rho-9120.jpg",
+        "description": "SENSOR ELECTRONICO PRESION DE AIRE 3-RHO 9120 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW DELIVERY 9160 / WORKER 13190 / 15190 / 17230 / CONSTELLATION 13180 E / 15180 E / 17250 E / 19320 E / 24250 E / 25320 E / 31320 E / 15190 / 17190 / 17230 / 17280 / 19330 / 19360 / 19420 / 25360 / 25420 / 26280 / 26420 / 31280 / 31330 y Bus 15190 OD / 17230 OD / 17280 OT / 18330 OT Código Original / Similar: 2R2/945511 (VW) M16 X 1.5",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5637",
+        "name": "SENSOR ELECTRONICO DE PRESION DE ACEITE 3-RHO",
+        "brand": "3 Rho",
+        "code": "9121",
+        "image": "img/products/Sensores/sensor-electronico-de-presion-de-aceite-3-rho-9121.jpg",
+        "description": "SENSOR ELECTRONICO DE PRESION DE ACEITE 3-RHO 9121 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW CONSTELLATION 19320 E / 25320 E / 26260 E / 31320 E Código Original / Similar: 2U2/919081 (VW) 7/16″ X 20 UNF",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5638",
+        "name": "SENSOR PRESION ACEITE MA2Ó",
+        "brand": "Ma2o",
+        "code": "9123",
+        "image": "img/products/Sensores/sensor-presion-aceite-ma2o-9123.jpg",
+        "description": "SENSOR PRESION ACEITE MA2Ó 9123 Ma2o Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford 915e / 1317e / 1517e / 1722e / F 100 (+06) FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 (Con 2 Bulbos de presión de aceite en la parte inferior del motor) FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE / 6.12 TCE FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / CONSTELLATION 17250 E / 24250 E y Bus 9150 EOD / 17260 EOT Código Original / Similar: 2R0/906051/D / 2R0/919081 (VW) BG5X/9F479/CA (FORD) M14 X 1.5 / 0.40 BAR",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5639",
+        "name": "SENSOR NIVEL SUSPENSION NEUMATICA TRASERA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8957",
+        "image": "img/products/Sensores/sensor-nivel-suspension-neumatica-trasera-tf-p-technology-8957.jpg",
+        "description": "SENSOR NIVEL SUSPENSION NEUMATICA TRASERA TF&P TECHNOLOGY 8957 Tfp Technology Vehículos compatibles: SCANIA: Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 05010207803 (BOSCH) 481.829 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5640",
+        "name": "SENSOR DE ROTACION TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8960",
+        "image": "img/products/Sensores/sensor-de-rotacion-tf-p-technology-8960.jpg",
+        "description": "SENSOR DE ROTACION TF&P TECHNOLOGY 8960 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 Código Original / Similar: 000.153.9520 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5641",
+        "name": "SENSOR PRESION ACEITE / 3 PINES TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8961",
+        "image": "img/products/Sensores/sensor-presion-aceite-3-pines-tf-p-technology-8961.jpg",
+        "description": "SENSOR PRESION ACEITE / 3 PINES TF&P TECHNOLOGY 8961 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K / ATRON 1624 / 1720 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418 L-SB / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 007.153.0828 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5642",
+        "name": "SENSOR SERVOEMBRAGUE WABCO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8962",
+        "image": "img/products/Sensores/sensor-servoembrague-wabco-tf-p-technology-8962.jpg",
+        "description": "SENSOR SERVOEMBRAGUE WABCO TF&P TECHNOLOGY 8962 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RSD MERCEDES BENZ: Para Servoembragues WABCO 970.051.431 0 / 970.051.454 0 Código Original / Similar: 001.542.9318 (MB) 441.100.539 2 (Wabco)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5643",
+        "name": "SENSOR 90º ABS DELANTERO / LARGO 1500 MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8971",
+        "image": "img/products/Sensores/sensor-90-abs-delantero-largo-1500-mm-tf-p-technology-8971.jpg",
+        "description": "SENSOR 90º ABS DELANTERO / LARGO 1500 MM. TF&P TECHNOLOGY 8971 Tfp Technology Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTRAKKER 190 E42 / 720 E42 / TECTOR ATTACK 170 E22T / TECTOR ECOLINE 170 E22 RSU / 170 E28 / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / TECTOR ECOLINE ATTACK 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / STRALIS ATN 490 S38T / ATN 490 S42T / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S36 AT EUROTRONIC / 200 S40 AT / 200 S44 AT / 200 S44 AT EUROTRONIC / 460 S33T AT / 460 S36T AT / 460 S36T AT EUROTRONIC / 490 S38T AS / 490 S40T AT / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 530 S36T AT / 530 S36T AT EUROTRONIC / 600 S40T AT EUROTRONIC / 600 S44T AS EUROTRONIC / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT / 800 S44T AT EUROTRONIC / 800 S44T HI-WAY EUROTRONIC / 800 S48T AS / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 380 T38 AD / 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 380 T48T AT / 410 T44 AD / 410 T48 AD / 410 T48 AT EUROTRONIC / 410 T48T AD EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC / VERTIS ECOLINE 90 V18 / 130 V19 IVECO: Utilitarios DAILY 70 C17HD Código Original / Similar: 41200560 (IVECO) 441.032.856 0 (Wabco)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5644",
+        "name": "SENSOR ABS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8973",
+        "image": "img/products/Sensores/sensor-abs-tf-p-technology-8973.jpg",
+        "description": "SENSOR ABS TF&P TECHNOLOGY 8973 Tfp Technology Vehículos compatibles: IVECO: Utilitarios NUEVA DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 C14 / 40 S16 / 45 S14 / 45 S16 / 50 C15 / 50 C17 / 55 C16 / 70 C16 / 70 C17 / 70 C17 HD / DAILY ECOLINE 35 S14 HD / 35 C15 / 40 S14 / 45 S17 / 50 C17 / 55 C17 / NUEVA DAILY SCUDATTO 65 C14G CC GNC / 70 C16 Código Original / Similar: 504007426 / 500342090 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5645",
+        "name": "SENSOR TEMPERATURA MOTOR / RETARDER TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8941",
+        "image": "img/products/Sensores/sensor-temperatura-motor-retarder-tf-p-technology-8941.jpg",
+        "description": "SENSOR TEMPERATURA MOTOR / RETARDER TF&P TECHNOLOGY 8941 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.491.408 / 1.397.851 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5646",
+        "name": "SENSOR DE ROTACION / ABS / SISTEMA INYECCION TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8954",
+        "image": "img/products/Sensores/sensor-de-rotacion-abs-sistema-inyeccion-tf-p-technology-8954.jpg",
+        "description": "SENSOR DE ROTACION / ABS / SISTEMA INYECCION TF&P TECHNOLOGY 8954 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 1.457.303 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5647",
+        "name": "SENSOR PRESION TURBO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8897",
+        "image": "img/products/Sensores/sensor-presion-turbo-tf-p-technology-8897.jpg",
+        "description": "SENSOR PRESION TURBO TF&P TECHNOLOGY 8897 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 Código Original / Similar: 1.862.890 / 1.787.155 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5648",
+        "name": "SENSOR PRESION ACEITE 3-RHO",
+        "brand": "3 Rho",
+        "code": "8888",
+        "image": "img/products/Sensores/sensor-presion-aceite-3-rho-8888.jpg",
+        "description": "SENSOR PRESION ACEITE 3-RHO 8888 3 Rho Vehículos compatibles: AGRALE: Bus AGRALE MA 9.2 / MA 12.0 / MT 12.0 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 / ISL FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 y Bus 18330 OT Código Original / Similar: 2Z0/906051 (VW) 4076930 (Cummins) M14 X 1.5 / 0.40 BAR",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5649",
+        "name": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE DE 800MM. RACOR PARKER",
+        "brand": "Racor Parker",
+        "code": "8804",
+        "image": "img/products/Sensores/sensor-filtro-separador-de-agua-del-combustible-con-cable-de-800mm-racor-parker-8804.jpg",
+        "description": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE DE 800MM. RACOR PARKER 8804 Racor Parker Vehículos compatibles: FORD / VW / CUMMINS / MWM: Aplicable con TAPA RACOR KR-27004-CS FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 24250 E / 19320 E / 25320 E / 26260 E / 31320 E / DELIVERY 9160 / WORKER 13190 / 15190 / 17190 / 17280 / 26280 / 31280 y Bus 17260 EOT / 18320 EOT / 9160 OD / 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 2Z0/971759 (VW) KR-5001 (Racor)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5650",
+        "name": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE DE 800MM. CIPEC",
+        "brand": "Cipec",
+        "code": "8755",
+        "image": "img/products/Sensores/sensor-filtro-separador-de-agua-del-combustible-con-cable-de-800mm-cipec-8755.jpg",
+        "description": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE DE 800MM. CIPEC 8755 Cipec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Aplicable con TAPA RACOR KR-27004-CS FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 24250 E / 19320 E / 25320 E / 26260 E / 31320 E / DELIVERY 9160 / WORKER 13190 / 15190 / 17190 / 17280 / 26280 / 31280 y Bus 17260 EOT / 18320 EOT / 9160 OD / 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 2Z0/971759 (VW) KR-5001 (Racor)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5651",
+        "name": "SENSOR DE ROTURA DE CORREA MERCEDES BENZ",
+        "brand": "Mercedes Benz",
+        "code": "8526",
+        "image": "img/products/Sensores/sensor-de-rotura-de-correa-mercedes-benz-8526.jpg",
+        "description": "SENSOR DE ROTURA DE CORREA MERCEDES BENZ 8526 Mercedes Benz Vehículos compatibles: MERCEDES BENZ: Bus 0371 UP / 0400 UP / 0500 R / 0500 RS / 0500 RSD / 0500 MA 2836 Código Original / Similar: 382.542.7417 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5652",
+        "name": "SENSOR DE ROTURA DE CORREA VW",
+        "brand": "VW",
+        "code": "8528",
+        "image": "img/products/Sensores/sensor-de-rotura-de-correa-vw-8528.jpg",
+        "description": "SENSOR DE ROTURA DE CORREA VW 8528 VW Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT Código Original / Similar: 2Z0/915743 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5653",
+        "name": "VALVULA SENSOR DE ALTURA ECAS WABCO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8462",
+        "image": "img/products/Sensores/valvula-sensor-de-altura-ecas-wabco-tf-p-technology-8462.jpg",
+        "description": "VALVULA SENSOR DE ALTURA ECAS WABCO TF&P TECHNOLOGY 8462 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RSD Código Original / Similar: 001.542.0018 (MB) 441.050.012 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5654",
+        "name": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE IMP.",
+        "brand": "Imp",
+        "code": "8430",
+        "image": "img/products/Sensores/sensor-filtro-separador-de-agua-del-combustible-con-cable-imp-8430.jpg",
+        "description": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE IMP. 8430 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1831 / 2626 / 2631 / F4000 (+06) / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / Nuevo C1932 / C2632 Código Original / Similar: BF0X/9J308/AA / BG7X/9J308/AA (FORD) KR-5002 (RACOR PARKER) CON CONECTOR RECTANGULAR",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5655",
+        "name": "SENSOR CERRADURA CABINA 3-RHO",
+        "brand": "3 Rho",
+        "code": "7670",
+        "image": "img/products/Sensores/sensor-cerradura-cabina-3-rho-7670.jpg",
+        "description": "SENSOR CERRADURA CABINA 3-RHO 7670 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26260 / 26310 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 E / 26260 E / 31320 E Código Original / Similar: 2RD/941555/A (VW) 90841 (UNIVERSAL) BC45/11523/BA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5656",
+        "name": "SENSOR NIVEL COMBUSTIBLE / L = 544MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7360",
+        "image": "img/products/Sensores/sensor-nivel-combustible-l-544mm-tf-p-technology-7360.jpg",
+        "description": "SENSOR NIVEL COMBUSTIBLE / L = 544MM. TF&P TECHNOLOGY 7360 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K Código Original / Similar: 013.542.7117 (MB)",
+        "rubro": "TANQUE DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5657",
+        "name": "SENSOR NIVEL COMBUSTIBLE / L = 660MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7364",
+        "image": "img/products/Sensores/sensor-nivel-combustible-l-660mm-tf-p-technology-7364.jpg",
+        "description": "SENSOR NIVEL COMBUSTIBLE / L = 660MM. TF&P TECHNOLOGY 7364 Tfp Technology Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / EUROTECH 440 E42TZ/P / STRALIS HD 450 S38T / HD 450 S42T / ATN 490 S38T / ATN 490 S42T / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 410 T38 AD / 410 T42 AD Código Original / Similar: 41042851 / 41042313 (IVECO)",
+        "rubro": "TANQUE DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5658",
+        "name": "SENSOR TEMPERATURA AGUA Y COMBUSTIBLE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7366",
+        "image": "img/products/Sensores/sensor-temperatura-agua-y-combustible-tf-p-technology-7366.jpg",
+        "description": "SENSOR TEMPERATURA AGUA Y COMBUSTIBLE TF&P TECHNOLOGY 7366 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROTECH 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T Código Original / Similar: 500306957 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5659",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 20MM. / 4 PINES CHATOS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7342",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-20mm-4-pines-chatos-tf-p-technology-7342.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 20MM. / 4 PINES CHATOS TF&P TECHNOLOGY 7342 Tfp Technology Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO CAVALLINO 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 170 E25 / 170 E25T / 230 E22 / 230 E24 / 240 E25 / 260 E25 / EUROTECH 440 E42TZ/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 190 E42 / 450 E37T / TECTOR 260 E25 / TECTOR STRADALE 240 E25S / TRAKKER 380 T38 y Bus CC 118 E20 (GNC) / 118 E22 / CC 170 E22 / CITY CLASS IVECO: Camiones EUROTECH 440 E42TZ/P / EUROTRAKKER 190 E42 / STRALIS NR 200 S41 / NR 200 S46 / NR 490 S41T / NR 490 S46T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 490 S48T AS / 800 S44T AS / 800 S48T AS IVECO: Utilitarios DAILY 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 60.13 / 70.12 / 70.13 / DAILY SCUDATTO 35.10 / 49.12 / 59.12 / 60.12 / 60.13 MERCEDES BENZ: Cajas ZF 9S-75 / S5-680 MERCEDES BENZ: Camiones 1215 C / L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1728/51 / 2423 B / 2423 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 SCANIA: Camiones P 124 / R 124 / T 124 (Con Caja GTD800 / GTD900) y Bus F 94 HB (Con Caja ZF 6S-1550) Código Original / Similar: 012.542.2417 (MB) 0501208791 (ZF) 1.415.023 / 1.357.796 (SCANIA) 215950003101 / 215950004102F (VDO) 215950003102 (VDO) 4834987 / 93193366 / 42535493 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5660",
+        "name": "SENSOR NIVEL DE AGUA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7353",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-tf-p-technology-7353.jpg",
+        "description": "SENSOR NIVEL DE AGUA TF&P TECHNOLOGY 7353 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones 710 Plus / L 1218 EL / L 1318 / LK 1318 / L 1624 / L 1634 EL / LS 1634 EL / 1938 S / ACCELO 915 C / ATEGO 1418 / 1725 / 2425/48 / 1419 / 1720 / 1721 / 1726 / 1729 / 2426 / 2730/48 / 2730 B / 2730 K / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 R / 0500 RSD Código Original / Similar: 970.545.0124 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5661",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO / 63.5MM. / PUNTA PLASTICA (4 PINOS REDONDOS) TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7355",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-63-5mm-punta-plastica-4-pinos-redondos-tf-p-technology-7355.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO / 63.5MM. / PUNTA PLASTICA (4 PINOS REDONDOS) TF&P TECHNOLOGY 7355 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 1933 S (Con Caja G210V) Código Original / Similar: 012.542.4717 (MB)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5662",
+        "name": "SENSOR TEMPERATURA RETARDER TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7321",
+        "image": "img/products/Sensores/sensor-temperatura-retarder-tf-p-technology-7321.jpg",
+        "description": "SENSOR TEMPERATURA RETARDER TF&P TECHNOLOGY 7321 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 1.871.772 / 1.757.904 (SC)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P5663",
+        "name": "SENSOR NIVEL COMBUSTIBLE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7324",
+        "image": "img/products/Sensores/sensor-nivel-combustible-tf-p-technology-7324.jpg",
+        "description": "SENSOR NIVEL COMBUSTIBLE TF&P TECHNOLOGY 7324 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 Código Original / Similar: 1.444.478 / 1.548.262 / 1.846.136 (SC) 1.500.200 / 1.846.137 (SC) 1.548.263 / 1.444.479 (SC)",
+        "rubro": "TANQUE DE COMBUSTIBLE"
+    },
+    {
+        "id": "P5664",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. (4 PINOS REDONDOS) IMP.",
+        "brand": "Imp",
+        "code": "7238",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-35mm-4-pinos-redondos-imp-7238.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. (4 PINOS REDONDOS) IMP. 7238 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A / FS-6306-A / FSO-4405-C / FSO- 4505-C / FSO-4505-D FORD / VW / CUMMINS / MWM: Ford Cargo 916 / 1119 / 1519 / 1723 / F4000 (+2015) FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / Constellation 17190 IVECO: Cajas EATON FS-6406-B / FSB-5406-A / FSO-2405-E / FSO- 4405-B IVECO: Camiones EUROCARGO 160 E18 GNC / TECTOR 170 E28 / 170 E28T y Bus CC 118 E20 GNC Utilitarios Nueva Daily 35 C14 / 35 S14 / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C16 / 70 C16 HD / Scudatto 70 C16 / 70 C16 HD MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4405-A / FSO-4405-C MERCEDES BENZ: Camiones L 710/42 / 710 Plus / ACCELO 915C y Bus LO 812 / LO 814 VOLVO: Cajas EATON FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B / FSB-6406-B / FSBO-6406-A / FSO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 220 / VM 270 y Bus B270F Código Original / Similar: 002.540.3517 (MB) 20520370 (VOLVO) 215920102501F (VDO) 2R0/311478/D (VW) 3344636 (Eaton) 503355686 (IVECO) BH3T/17271/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5665",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 63MM. (4 PINOS CHATOS) VDO",
+        "brand": "Vdo",
+        "code": "7240",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-63mm-4-pinos-chatos-vdo-7240.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 63MM. (4 PINOS CHATOS) VDO 7240 Vdo Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-42 MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / 1718 M / 1728/51 y Bus LO 914 / LO 915 Código Original / Similar: 026.542.1317 (MB) 0501.208.794 (ZF)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5666",
+        "name": "SENSOR PRESION DE COMBUSTIBLE Y ACEITE M16 X 1.5MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "7193",
+        "image": "img/products/Sensores/sensor-presion-de-combustible-y-aceite-m16-x-1-5mm-3-rho-7193.jpg",
+        "description": "SENSOR PRESION DE COMBUSTIBLE Y ACEITE M16 X 1.5MM. 3-RHO 7193 3 Rho Vehículos compatibles: RENAULT: Camiones KERAX / MAGNUM / MIDLUM / PREMIUM VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 9 380 / FM 11 370 / FMX 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FM 370 / FM 380 / FM 420 / FMX 370 / FMX 380 / FMX 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 7 R / B 9 R / B 12 B / B 12 M / B 12 R Código Original / Similar: 20886108 / 21540602 (VOLVO) 20898038 / 21634021 / 21302639 (VOLVO) 7420484678 / 742886108 / 7421540602 (RENAULT) 7421634024 / 7485139619 (RENAULT)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5667",
+        "name": "VALVULA 6 CIRCUITOS APU WABCO CON SENSOR 5V. TKL",
+        "brand": "TKL",
+        "code": "7000",
+        "image": "img/products/Sensores/valvula-6-circuitos-apu-wabco-con-sensor-5v-tkl-7000.jpg",
+        "description": "VALVULA 6 CIRCUITOS APU WABCO CON SENSOR 5V. TKL 7000 TKL Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OH 1618 L-SB / OH 1718 L-SB / 0500 R / 0500 RS / 0500 RSD MERCEDES BENZ: Válvulas WABCO 932.500.013 0 Código Original / Similar: 003.431.5706 (MB) 934.705.005 0 (Wabco)",
+        "rubro": "VALVULA APU WABCO"
+    },
+    {
+        "id": "P5668",
+        "name": "UNIDAD DE PROCESAMIENTO DE AIRE (APU) WABCO SIN CALENTADOR / CON SENSOR 5V. F.S.S",
+        "brand": "F S S",
+        "code": "7010",
+        "image": "img/products/Sensores/unidad-de-procesamiento-de-aire-apu-wabco-sin-calentador-con-sensor-5v-f-s-s-7010.jpg",
+        "description": "UNIDAD DE PROCESAMIENTO DE AIRE (APU) WABCO SIN CALENTADOR / CON SENSOR 5V. F.S.S 7010 F S S Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / 0500 RSD Código Original / Similar: 002.431.0615 (MB) 932.500.013 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5669",
+        "name": "UNIDAD DE PROCESAMIENTO DE AIRE (APU) KNORR TIPO ZB4534 / CON SENSOR F.S.S",
+        "brand": "F S S",
+        "code": "7011",
+        "image": "img/products/Sensores/unidad-de-procesamiento-de-aire-apu-knorr-tipo-zb4534-con-sensor-f-s-s-7011.jpg",
+        "description": "UNIDAD DE PROCESAMIENTO DE AIRE (APU) KNORR TIPO ZB4534 / CON SENSOR F.S.S 7011 F S S Vehículos compatibles: MERCEDES BENZ: Bus OH 1618 L-SB / OH 1718 L-SB / 0500 RSD Código Original / Similar: 002.431.0515 (MB) II 38310F (Knorr)",
+        "rubro": "VALVULA APU KNORR"
+    },
+    {
+        "id": "P5670",
+        "name": "SENSOR PRESION DE COMBUSTIBLE 3-RHO",
+        "brand": "3 Rho",
+        "code": "6967",
+        "image": "img/products/Sensores/sensor-presion-de-combustible-3-rho-6967.jpg",
+        "description": "SENSOR PRESION DE COMBUSTIBLE 3-RHO 6967 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2T2/906051/E (VW) 4921517 / 4087991 / 4358810 / 4921744 (Cummins) BG6X/9F479/AA / BG6X/9F479/EA (FORD) ROSCA M14 x 1.5",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5671",
+        "name": "SENSOR POSICION ARBOL DE LEVAS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6938",
+        "image": "img/products/Sensores/sensor-posicion-arbol-de-levas-trucktec-6938.jpg",
+        "description": "SENSOR POSICION ARBOL DE LEVAS TRUCKTEC 6938 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 006.153.7728 / 651.905.0100 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5672",
+        "name": "SENSOR PRESION ESCAPE / EGR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6939",
+        "image": "img/products/Sensores/sensor-presion-escape-egr-trucktec-6939.jpg",
+        "description": "SENSOR PRESION ESCAPE / EGR TRUCKTEC 6939 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 651.905.0200 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5673",
+        "name": "FILTRO COMBUSTIBLE CON SENSOR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6925",
+        "image": "img/products/Sensores/filtro-combustible-con-sensor-trucktec-6925.jpg",
+        "description": "FILTRO COMBUSTIBLE CON SENSOR TRUCKTEC 6925 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 651.090.0952 / 651.090.2952 (MB) 651.090.1552 / 651.090.0652 (MB) 651.090.3600 (MB) WK 820/18 / 820/8 (MANN)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P5674",
+        "name": "SENSOR NIVEL DE AGUA MERCEDES BENZ",
+        "brand": "Mercedes Benz",
+        "code": "6887",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-mercedes-benz-6887.jpg",
+        "description": "SENSOR NIVEL DE AGUA MERCEDES BENZ 6887 Mercedes Benz Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OF 1722 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R Código Original / Similar: 368.540.0417 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5675",
+        "name": "SENSOR NIVEL DE AGUA DEL RADIADOR RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "6869",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-del-radiador-reserplastic-6869.jpg",
+        "description": "SENSOR NIVEL DE AGUA DEL RADIADOR RESERPLASTIC 6869 Reserplastic Vehículos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Código Original / Similar: 634.540.0017 / 002.540.4417 (MB)",
+        "rubro": "RADIADOR"
+    },
+    {
+        "id": "P5676",
+        "name": "SENSOR DE VELOCIDAD TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "6679",
+        "image": "img/products/Sensores/sensor-de-velocidad-tf-p-technology-6679.jpg",
+        "description": "SENSOR DE VELOCIDAD TF&P TECHNOLOGY 6679 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 9 380 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 9 R / B 12 R Código Original / Similar: 20508011 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5677",
+        "name": "SENSOR PEDAL DE ACELERADOR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "6681",
+        "image": "img/products/Sensores/sensor-pedal-de-acelerador-tf-p-technology-6681.jpg",
+        "description": "SENSOR PEDAL DE ACELERADOR TF&P TECHNOLOGY 6681 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / FM 9 380 / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 (Todos -2005) Código Original / Similar: 3985226 / 3175130 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5678",
+        "name": "SENSOR TEMPERATURA / M10 X 1.0 WAHLER",
+        "brand": "Wahler",
+        "code": "6686",
+        "image": "img/products/Sensores/sensor-temperatura-m10-x-1-0-wahler-6686.jpg",
+        "description": "SENSOR TEMPERATURA / M10 X 1.0 WAHLER 6686 Wahler Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 17210 / 17220 Código Original / Similar: 028/919501/C (VW) 3088 (MTE) 323.006.027R / D32027 (VDO) 9488 (MA2Ó)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5679",
+        "name": "SENSOR TEMPERATURA WAHLER",
+        "brand": "Wahler",
+        "code": "6687",
+        "image": "img/products/Sensores/sensor-temperatura-wahler-6687.jpg",
+        "description": "SENSOR TEMPERATURA WAHLER 6687 Wahler Vehículos compatibles: IVECO: Daily 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 50.13 / 59.12 / 60.12 / 60.13 / 70.12 / 70.13 / Daily Scudatto 35.10 / 49.12 / 59.12 / 60.12 / 60.13 y Bus City Class Código Original / Similar: 4837950 / 504127558 / 503641845 (IVECO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P5680",
+        "name": "SENSOR ABS DELANTERO / DERECHO E IZQUIERDO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6635",
+        "image": "img/products/Sensores/sensor-abs-delantero-derecho-e-izquierdo-trucktec-6635.jpg",
+        "description": "SENSOR ABS DELANTERO / DERECHO E IZQUIERDO TRUCKTEC 6635 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / ACCELO 915 C / 815 / 1016 / AXOR 2035 S / 2040 S / 5041 S / 2044 S / 2535 S / 2536 / 2540 S / 2544 / 3340 K / 3341 / 3344 y Bus LO 914 / LO 915 / LO 916 / OF 1417 / OF 1418 / OF 1519 / OF 1621 / OF 1721 / OF 1722 / OF 1724 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1718 L-SB / OH 1721 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD / 0500 MA 2836 / 0500 UA 2836 / 0500 RS 1836 Código Original / Similar: 001.542.0518 / 000.542.9618 (MB) 001.542.3418 / 001.542.3118 (MB) 001.542.8718 / 001.542.8218 (MB) 441.032.488 0 / 441.032.728 0 (Wabco) 441.032.823 0 (Wabco) LARGO 2000MM. / 2 PINES",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5681",
+        "name": "SENSOR DE ROTACION 35MM. / 2 PINOS SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "6612",
+        "image": "img/products/Sensores/sensor-de-rotacion-35mm-2-pinos-sensorauto-6612.jpg",
+        "description": "SENSOR DE ROTACION 35MM. / 2 PINOS SENSORAUTO 6612 Sensorauto Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5306-A / FS-6205-A / FS-6306-A / FS-6306-B / FSO-4305-C / FSO-4405-C / RT-7608-LL / RT- 8609-A / RT-8908-LL / RT-11710-B / FTS-16112-L / FTS-16112- LL FORD / VW / CUMMINS / MWM: Ford F 14000 (99-05) / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / Constellation 13180 E / 15180 E / 17250 E y Bus 9150 EOD IVECO: Cajas EATON FTS-16108-LL IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 VOLVO: Cajas EATON FTS-16108-LL VOLVO: Camiones VM 260 Código Original / Similar: 22332233 / 21266512 (VOLVO) 2R0/311478 (VW) 503356341 (IVECO) A7462 / A7449 (Eaton) BH1X/17271/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5682",
+        "name": "SENSOR PRESION DE COMBUSTIBLE ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6309",
+        "image": "img/products/Sensores/sensor-presion-de-combustible-engine-parts-6309.jpg",
+        "description": "SENSOR PRESION DE COMBUSTIBLE ENGINE PARTS 6309 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2T2/906051/E (VW) 4921517 / 4087991 / 4358810 / 4921744 (Cummins) BG6X/9F479/AA / BG6X/9F479/EA (FORD) 3 PINES PLANOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5683",
+        "name": "SENSOR MAP / PRESION ATMOSFERICA ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6310",
+        "image": "img/products/Sensores/sensor-map-presion-atmosferica-engine-parts-6310.jpg",
+        "description": "SENSOR MAP / PRESION ATMOSFERICA ENGINE PARTS 6310 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Código Original / Similar: 2T2/906051/B (VW) 4076493 (Cummins) BG6X/9F479/CA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5684",
+        "name": "ADAPTADOR SENSOR PRESION BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "6255",
+        "image": "img/products/Sensores/adaptador-sensor-presion-blk-diesel-6255.jpg",
+        "description": "ADAPTADOR SENSOR PRESION BLK DIESEL 6255 BLK Diesel Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / F 100 (+06) / Nuevo C1317 / C1517 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E Código Original / Similar: 2R0/903260/A (VW) 3971130 (Cummins) BG5X/6315/BA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5685",
+        "name": "SENSOR NIVEL FILTRO DE COMBUSTIBLE IMP.",
+        "brand": "Imp",
+        "code": "6143",
+        "image": "img/products/Sensores/sensor-nivel-filtro-de-combustible-imp-6143.jpg",
+        "description": "SENSOR NIVEL FILTRO DE COMBUSTIBLE IMP. 6143 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / DELIVERY 5140 E / 8150 E / CONSTELLATION 17250 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Código Original / Similar: 2R0/971759 / 2TD/971249 (VW) KR-5002 (RACOR PARKER)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5686",
+        "name": "SENSOR TEMPERATURA ADMISION TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6157",
+        "image": "img/products/Sensores/sensor-temperatura-admision-trucktec-6157.jpg",
+        "description": "SENSOR TEMPERATURA ADMISION TRUCKTEC 6157 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 000.542.2818 / 651.153.0028 (MB) 006.153.2028 / 006.153.8028 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5687",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. (4 PINOS REDONDOS) TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "6105",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-25mm-4-pinos-redondos-tf-p-technology-6105.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. (4 PINOS REDONDOS) TF&P TECHNOLOGY 6105 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Cajas MB G 60-6 / G 85-6 / G 210-16 / G 211-16 / G 221-9 / G 240-16 / Cajas EATON FS-8209-A MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / 1718 M / 1728/51 / LS 1938 EL / 1938 S / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 VOLVO: Cajas EATON FS-6209-A / RT-8908-LL VOLVO: Camiones NL 12 360 EDC / FH 12 380 / FH 12 420 / FM 9 380 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 7 R / B 9 R / B 10 M / B 10 R / B 12 B / B 12 M VOLVO: Camiones VM 23 210 / VM 23 240 / VM 260 Código Original / Similar: 015.542.2417/ 012.542.4817/ 013.542.6217 (MB) 20526099 (VOLVO) 215920100301F (VDO) 2161713 / 3171490 (VOLVO) X8880925 (Eaton)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5688",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. (4 PINOS REDONDOS) VDO",
+        "brand": "Vdo",
+        "code": "6042",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-25mm-4-pinos-redondos-vdo-6042.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. (4 PINOS REDONDOS) VDO 6042 Vdo Vehículos compatibles: MERCEDES BENZ: Cajas MB G 60-6 / G 85-6 / G 210-16 / G 211-16 / G 221-9 / G 240-16 / Cajas EATON FS-8209-A MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / 1718 M / 1728/51 / LS 1938 EL / 1938 S / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 VOLVO: Cajas EATON FS-6209-A / RT-8908-LL VOLVO: Camiones NL 12 360 EDC / FH 12 380 / FH 12 420 / FM 9 380 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 7 R / B 9 R / B 10 M / B 10 R / B 12 B / B 12 M VOLVO: Camiones VM 23 210 / VM 23 240 / VM 260 Código Original / Similar: 015.542.2417/ 012.542.4817/ 013.542.6217 (MB) 20526099 (VOLVO) 215920100301F (VDO) 2161713 / 3171490 (VOLVO) X8880925 (Eaton)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5689",
+        "name": "SENSOR PRESION PARA MULTIPLE DE COMBUSTIBLE 611.070.0095 TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "5806",
+        "image": "img/products/Sensores/sensor-presion-para-multiple-de-combustible-611-070-0095-trucktec-5806.jpg",
+        "description": "SENSOR PRESION PARA MULTIPLE DE COMBUSTIBLE 611.070.0095 TRUCKTEC 5806 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 004.153.7528 / 004.153.1528 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5690",
+        "name": "FILTRO DE COMBUSTIBLE SIN SENSOR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "5811",
+        "image": "img/products/Sensores/filtro-de-combustible-sin-sensor-trucktec-5811.jpg",
+        "description": "FILTRO DE COMBUSTIBLE SIN SENSOR TRUCKTEC 5811 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 611.092.0601 / 611.092.0201 (MB) H70WK11 / H70WK18 (HENGST) KL100/2 (Mahle) P9436 (Fram) WK842/13 (MANN)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P5691",
+        "name": "SENSOR TEMPERATURA DEL COMBUSTIBLE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "5814",
+        "image": "img/products/Sensores/sensor-temperatura-del-combustible-trucktec-5814.jpg",
+        "description": "SENSOR TEMPERATURA DEL COMBUSTIBLE TRUCKTEC 5814 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 005.153.6328/ 005.153.2328/ 000.542.6218 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5692",
+        "name": "MULTIPLE COMBUSTIBLE CON SENSORES BOSCH",
+        "brand": "Bosch",
+        "code": "5694",
+        "image": "img/products/Sensores/multiple-combustible-con-sensores-bosch-5694.jpg",
+        "description": "MULTIPLE COMBUSTIBLE CON SENSORES BOSCH 5694 Bosch Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e / Nuevo C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 FORD / VW / CUMMINS / MWM: VW 17250 E / Constellation 17250 E Código Original / Similar: 0445226020 (BOSCH) 2S0/133319/B (VW) 4899320 (Cummins) BG5X/9H487/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P5693",
+        "name": "SENSOR 5V. PARA VALVULA 4 CIRCUITOS APU WABCO F.S.S",
+        "brand": "F S S",
+        "code": "5428",
+        "image": "img/products/Sensores/sensor-5v-para-valvula-4-circuitos-apu-wabco-f-s-s-5428.jpg",
+        "description": "SENSOR 5V. PARA VALVULA 4 CIRCUITOS APU WABCO F.S.S 5428 F S S Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Válvulas WABCO 934.705.021 0 MERCEDES BENZ: Camiones 1938 S MERCEDES BENZ: Válvulas WABCO 884.503.144 0 Código Original / Similar: 441.043.502 1 / 441.043.504 1 (Wabco) 932.500.501 1 (Wabco)",
+        "rubro": "VALVULA APU WABCO"
+    },
+    {
+        "id": "P5694",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR DE PRESION 5V. / R22 X 1.5MM. F.S.S",
+        "brand": "F S S",
+        "code": "5429",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-con-sensor-de-presion-5v-r22-x-1-5mm-f-s-s-5429.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR DE PRESION 5V. / R22 X 1.5MM. F.S.S 5429 F S S Vehículos compatibles: MERCEDES BENZ: Bus OF 1418 / OH 1618 L-SB / OH 1718 L-SB / 0500 R / 0500 RS / 0500 RSD Código Original / Similar: 003.431.6806 / 004.431.0406 (MB) II 37680 / AE 4510 (Knorr)",
+        "rubro": "VALVULA APU KNORR"
+    },
+    {
+        "id": "P5695",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR / R22 X 1.5MM. / SIN SENSOR F.S.S",
+        "brand": "F S S",
+        "code": "5432",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-r22-x-1-5mm-sin-sensor-f-s-s-5432.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR / R22 X 1.5MM. / SIN SENSOR F.S.S 5432 F S S Vehículos compatibles: MERCEDES BENZ: Bus 0500 M 1725 / 0500 U 1725 / 0500 R Código Original / Similar: 000.420.6171 (MB) II 36008 / AE 4506 (Knorr)",
+        "rubro": "VALVULA APU KNORR"
+    },
+    {
+        "id": "P5696",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR SIN SENSOR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5375",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-sin-sensor-tf-p-technology-5375.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR SIN SENSOR TF&P TECHNOLOGY 5375 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ Código Original / Similar: 42535024 / 42553848 (IVECO) K011931 / AE4502 (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5697",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR DE PRESION 5V. / R22 X 1.5MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5376",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-con-sensor-de-presion-5v-r22-x-1-5mm-tf-p-technology-5376.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR DE PRESION 5V. / R22 X 1.5MM. TF&P TECHNOLOGY 5376 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Bus 0500 R / 0500 RS / 0500 RSD Código Original / Similar: II 37464 / AE 4528 (Knorr)",
+        "rubro": "VALVULA APU KNORR"
+    },
+    {
+        "id": "P5698",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS IMP.",
+        "brand": "Imp",
+        "code": "4947",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-35mm-4-terminales-chatos-imp-4947.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 35MM. / 4 TERMINALES CHATOS IMP. 4947 Imp Vehículos compatibles: AGRALE: Bus AGRALE MA 12.0 / MA 15.0 AGRALE: Cajas EATON FSB-5406-A DIMEX: Cajas EATON FSB-5406-A / FSO-6406-A DIMEX: Camiones DIMEX D-1116 / D-1417 FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A / FS-4305 / FS-4405 / FS-5005-A / FS-5205-A / FS-5306-A / FS-6206-A / FS-6306-A / FS-6306-B / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 2626 / 2631 / F 14000 (99-05) / 915e / 1317e / 1517e / 1722e / 2632e / Nuevo C1317 / C1517 / C1722 PUMA TATSA: Bus PUMA TATSA D10.5 F PUMA TATSA: Cajas EATON FSO-6406-A Código Original / Similar: 215920002500F (VDO) 3001006 (Eaton) 6112004084007 (AGRALE) BF8T/17271/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5699",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 90MM. / 4 TERMINALES CHATOS IMP.",
+        "brand": "Imp",
+        "code": "4948",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-90mm-4-terminales-chatos-imp-4948.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 90MM. / 4 TERMINALES CHATOS IMP. 4948 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 (con Tacografos Electronicos TCO 1318) Código Original / Similar: 0501208795 (ZF) 1.448.080 (SC) 1.662.768 (VOLVO) 2T0/927803 (VW) 93191481 / 4854770 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5700",
+        "name": "SENSOR POSICION DE CIGUEÑAL (+=00) TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4829",
+        "image": "img/products/Sensores/sensor-posicion-de-ciguenal-00-trucktec-4829.jpg",
+        "description": "SENSOR POSICION DE CIGUEÑAL (+=00) TRUCKTEC 4829 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 003.153.2828 / 003.153.2728 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5701",
+        "name": "SENSOR POSICION DE CIGUEÑAL (-=99) TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4832",
+        "image": "img/products/Sensores/sensor-posicion-de-ciguenal-99-trucktec-4832.jpg",
+        "description": "SENSOR POSICION DE CIGUEÑAL (-=99) TRUCKTEC 4832 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 003.153.7228 / 003.153.7428 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5702",
+        "name": "SENSOR DE ROTACION / RPM UGR",
+        "brand": "UGR",
+        "code": "4586",
+        "image": "img/products/Sensores/sensor-de-rotacion-rpm-ugr-4586.jpg",
+        "description": "SENSOR DE ROTACION / RPM UGR 4586 UGR Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 410 T42 AD / 720 T42T Código Original / Similar: 0281002165 (BOSCH) 99450797 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5703",
+        "name": "VALVULA SENSOR DE ALTURA ECAS WABCO 13 BAR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "4561",
+        "image": "img/products/Sensores/valvula-sensor-de-altura-ecas-wabco-13-bar-tf-p-technology-4561.jpg",
+        "description": "VALVULA SENSOR DE ALTURA ECAS WABCO 13 BAR TF&P TECHNOLOGY 4561 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT MERCEDES BENZ: Bus 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Código Original / Similar: 000.542.4018 (MB) 1.398.840 (SC) 2Z0/409270 (VW) 441.050.011 0 (Wabco) ENCHUFE 2 PINES REDONDOS",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5704",
+        "name": "SENSOR 8-32V. PARA VALVULA 4 CIRCUITOS APU WABCO F.S.S",
+        "brand": "F S S",
+        "code": "4552",
+        "image": "img/products/Sensores/sensor-8-32v-para-valvula-4-circuitos-apu-wabco-f-s-s-4552.jpg",
+        "description": "SENSOR 8-32V. PARA VALVULA 4 CIRCUITOS APU WABCO F.S.S 4552 F S S Vehículos compatibles: MERCEDES BENZ: Camiones y Bus VARIOS MODELOS Código Original / Similar: 441.043.001 1 (Wabco)",
+        "rubro": "VALVULA APU WABCO"
+    },
+    {
+        "id": "P5705",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR SIN SENSOR F.S.S",
+        "brand": "F S S",
+        "code": "4553",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-sin-sensor-f-s-s-4553.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR SIN SENSOR F.S.S 4553 F S S Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ Código Original / Similar: 42535024 / 42553848 (IVECO) K011931 / AE4502 (Knorr)",
+        "rubro": "SECADOR Y 4 CIRCUITOS"
+    },
+    {
+        "id": "P5706",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR F.S.S",
+        "brand": "F S S",
+        "code": "4554",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-con-sensor-f-s-s-4554.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR F.S.S 4554 F S S Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ Código Original / Similar: 42553849 / 42553819 / 42536813 (IVECO) K011932 / AE4516 (Knorr)",
+        "rubro": "SECADOR Y 4 CIRCUITOS"
+    },
+    {
+        "id": "P5707",
+        "name": "SENSOR PARA VALVULA 4 CIRCUITOS APU KNORR 5 V F.S.S",
+        "brand": "F S S",
+        "code": "4555",
+        "image": "img/products/Sensores/sensor-para-valvula-4-circuitos-apu-knorr-5-v-f-s-s-4555.jpg",
+        "description": "SENSOR PARA VALVULA 4 CIRCUITOS APU KNORR 5 V F.S.S 4555 F S S Vehículos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / C1722 / C1932 / C2632 / 916 / 1119 / 1519 / 1723 / 1729 / 1933 / 3129 / 2042 / 2842 FORD / VW / CUMMINS / MWM: Válvulas KNORR K020725 / K043865 IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Válvulas KNORR K 011932 / AE4516 MERCEDES BENZ: Camiones 1938 S / ATEGO 1418 / 1725 / 2425 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OH 11518 L-SB / 0500 R / 0500 RS / 0500 RSD MERCEDES BENZ: Válvulas KNORR II 37680BR / I 38284 / K002435 Código Original / Similar: 000.430.3607 (MB) 4258333 (IVECO) BC45/2D244/AA (FORD) BH5X/2D244/AA / BC45/2D244/AB (FORD) II 39746/F / II 35529 (Knorr) K093833 (Knorr) 6 PINES REDONDOS",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5708",
+        "name": "SENSOR NIVEL DE AGUA DE REFRIGERACION CON CABLE MA2Ó",
+        "brand": "Ma2o",
+        "code": "4278",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-de-refrigeracion-con-cable-ma2o-4278.jpg",
+        "description": "SENSOR NIVEL DE AGUA DE REFRIGERACION CON CABLE MA2Ó 4278 Ma2o Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (93-98) FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 5140 E / 8150 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18280 OT MERCEDES BENZ: Camiones y Bus 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Código Original / Similar: 2R0/941038 (VW) 384.542.7217 (MB) XC45/8B397/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5709",
+        "name": "SENSOR NIVEL DE AGUA DE REFRIGERACION MA2Ó",
+        "brand": "Ma2o",
+        "code": "4279",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-de-refrigeracion-ma2o-4279.jpg",
+        "description": "SENSOR NIVEL DE AGUA DE REFRIGERACION MA2Ó 4279 Ma2o Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (93-98) FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 5140 E / 8150 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones y Bus 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Código Original / Similar: 384.542.7217 (MB) TJG/919370 (VW) XC45/8B397/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5710",
+        "name": "SENSOR TEMPERATURA CAJA DE CAMBIOS UGR",
+        "brand": "UGR",
+        "code": "4264",
+        "image": "img/products/Sensores/sensor-temperatura-caja-de-cambios-ugr-4264.jpg",
+        "description": "SENSOR TEMPERATURA CAJA DE CAMBIOS UGR 4264 UGR Vehículos compatibles: MERCEDES BENZ: Cajas MB G 210-16 / G 211-16 / G 221-9 / G 240-16 / GO 190 / GO 210 / GO 240 MERCEDES BENZ: Camiones L 1938 EL / 1938 S / L 2638/54 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2036 S/36 / 2040 S / 2041 S/36 / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3131 B / 3131 K / 3131/48 / 3340 K y Bus 0500 RS / 0500 RS 1836-30 / 0500 RSD / 0500 RSD 2436-30 Código Original / Similar: 012.542.1017 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5711",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. (4 PINOS CHATOS) IMP.",
+        "brand": "Imp",
+        "code": "4173",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-25mm-4-pinos-chatos-imp-4173.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. (4 PINOS CHATOS) IMP. 4173 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 FORD / VW / CUMMINS / MWM: Ford F4000 (+98) FORD / VW / CUMMINS / MWM: VW Bus 9150 EOD MERCEDES BENZ: Cajas ZF S5-420 Bus LO 814 / LO 914 / LO 915 Código Original / Similar: 013.542.0217 (MB) 0501.209.400 (ZF) 2R0/311478/B (VW) BF8T/17271/B (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5712",
+        "name": "SENSOR TACOGRAFO R 7/8” (3 PINOS CHATOS) VDO",
+        "brand": "Vdo",
+        "code": "4175",
+        "image": "img/products/Sensores/sensor-tacografo-r-7-8-3-pinos-chatos-vdo-4175.jpg",
+        "description": "SENSOR TACOGRAFO R 7/8” (3 PINOS CHATOS) VDO 4175 Vdo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford con Tacografos Electromecanicos (TCO 1310) FORD / VW / CUMMINS / MWM: VW con Tacografos Electromecanicos (TCO 1310) MERCEDES BENZ: Camiones MB 1720 A / 1720 K Aplicación TACOGRAFOS ELECTROMECANICOS TCO 1310 Código Original / Similar:",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5713",
+        "name": "VALVULA SENSOR DE ALTURA ECAS 24V. WABCO 13 BAR / M24 X 1.5MM. F.S.S",
+        "brand": "F S S",
+        "code": "3841",
+        "image": "img/products/Sensores/valvula-sensor-de-altura-ecas-24v-wabco-13-bar-m24-x-1-5mm-f-s-s-3841.jpg",
+        "description": "VALVULA SENSOR DE ALTURA ECAS 24V. WABCO 13 BAR / M24 X 1.5MM. F.S.S 3841 F S S Vehículos compatibles: MERCEDES BENZ: Bus OH 1115 L-SB / OH 1315 L-SB / OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 010.542.7817 (MB) 441.050.008 0 (Wabco)",
+        "rubro": "VALVULA SENSOR DE ALTURA"
+    },
+    {
+        "id": "P5714",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. / 3 PINOS REDONDOS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3533",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-25mm-3-pinos-redondos-tf-p-technology-3533.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. / 3 PINOS REDONDOS TF&P TECHNOLOGY 3533 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Cajas MB G 60-6 / G 85-6 / G 210-16 / G 211-16 / G 240-16 / GO 190-6 / GO 210-6 / GO 240-8 Código Original / Similar: 013.542.6717 (MB) 015.542.2717 / 012.542.5317 (MB) 3402160008011 (VDO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5715",
+        "name": "SENSOR INDICADOR DE DESGASTE DE LAS PASTILLAS DE FRENO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3278",
+        "image": "img/products/Sensores/sensor-indicador-de-desgaste-de-las-pastillas-de-freno-trucktec-3278.jpg",
+        "description": "SENSOR INDICADOR DE DESGASTE DE LAS PASTILLAS DE FRENO TRUCKTEC 3278 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 901.540.0217 / 901.540.0317 (MB)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P5716",
+        "name": "SENSOR PRESION ACEITE / 3 PINES TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2364",
+        "image": "img/products/Sensores/sensor-presion-aceite-3-pines-trucktec-2364.jpg",
+        "description": "SENSOR PRESION ACEITE / 3 PINES TRUCKTEC 2364 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K / ATRON 1624 / 1720 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418 L-SB / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Código Original / Similar: 007.153.0828 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5717",
+        "name": "SERVOEMBRAGUE KONSBERG 100MM. PARA SENSOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "2326",
+        "image": "img/products/Sensores/servoembrague-konsberg-100mm-para-sensor-de-desgaste-f-s-s-2326.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 100MM. PARA SENSOR DE DESGASTE F.S.S 2326 F S S Vehículos compatibles: SCANIA: Bus K 112 / K 113 (Se Puede remplazar por 1564) Código Original / Similar: 1.337.966 (SC) 624199AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5718",
+        "name": "SENSOR VELOCIMETRO 32MM. 2 SALIDAS CON CABLE DE 2080MM. SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "2131",
+        "image": "img/products/Sensores/sensor-velocimetro-32mm-2-salidas-con-cable-de-2080mm-sensorauto-2131.jpg",
+        "description": "SENSOR VELOCIMETRO 32MM. 2 SALIDAS CON CABLE DE 2080MM. SENSORAUTO 2131 Sensorauto Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 012.542.7117 / 012.542.5617 (MB) 013.542.5017 / 013.542.4917 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5719",
+        "name": "EMISOR DE IMPULSOS AL TACOGRAFO 4 ENCHUFES CHATOS (TCO 1318) R22 X 1.5 MM. SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "1993",
+        "image": "img/products/Sensores/emisor-de-impulsos-al-tacografo-4-enchufes-chatos-tco-1318-r22-x-1-5-mm-sensorauto-1993.jpg",
+        "description": "EMISOR DE IMPULSOS AL TACOGRAFO 4 ENCHUFES CHATOS (TCO 1318) R22 X 1.5 MM. SENSORAUTO 1993 Sensorauto Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 17240 OT / 18310 OT MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / L 1218 R / LK 1218 / L 1418 R / L 1620 (M-96) / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1634 / LS 1634 / LS 1634 EL / 1718 A / 1718 K / 1720 A / 1720 K / LS 1938 EL / 1938 S / L 2638/54 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1721 / OF 1722 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Código Original / Similar: 009.542.1017 (MB) 2Z0/900275 (VW) 340214004F / 215901000002 (VDO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5720",
+        "name": "SENSOR VELOCIMETRO 4 SALIDAS CON CABLE SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "1693",
+        "image": "img/products/Sensores/sensor-velocimetro-4-salidas-con-cable-sensorauto-1693.jpg",
+        "description": "SENSOR VELOCIMETRO 4 SALIDAS CON CABLE SENSORAUTO 1693 Sensorauto Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D Código Original / Similar: 690.542.7117 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5721",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 19.8MM. / 4 PINES REDONDOS IMP.",
+        "brand": "Imp",
+        "code": "1694",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-19-8mm-4-pines-redondos-imp-1694.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 19.8MM. / 4 PINES REDONDOS IMP. 1694 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 / 9S-1110 TD / 6AS-1000-TO / 6S-1010-BO / 6AS-1010-BO FORD / VW / CUMMINS / MWM: VW Constellation 17190 / 17280 y Bus 9150 EOD (+05) / 15190 OD / 17230 OD / 17280 OT IVECO: Cajas ZF S5-580 HD / S6-420 V / 9S-1110 TD / 6S-480 VO IVECO: Camiones TECTOR STRADALE 240 E25S / VERTIS 90 V19_x000D_ Utilitarios DAILY 35 C15 / 55 C17 / 70 C17 / 70 C17 HD MERCEDES BENZ: Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS MERCEDES BENZ: Cajas ZF S5-580 / S6-1550 Código Original / Similar: 014.542.3217 (MB) 0501210855 (ZF) 215920102100F (VDO) 2R0/311478/A / 2T2/927804 (VW) 5801313638 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5722",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 54MM. / 2 PINES REDONDOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "1695",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-54mm-2-pines-redondos-trucktec-1695.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 54MM. / 2 PINES REDONDOS TRUCKTEC 1695 Trucktec Vehículos compatibles: MERCEDES BENZ: Caja G 211-16 / G 221-9 / G 240-16 MERCEDES BENZ: Camiones 2428 / 2726 B / 2726 K / AXOR 1933 S/36 / 1933/45 / 2035 S / 2040 S / 2040 S / 2535 S / 2540 S / 2831/48 / 3131 B / 3131 K / 3131/48 / 3340 K Código Original / Similar: 012.542.5617 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5723",
+        "name": "SENSOR DE ROTACION DEL ARBOL DE LEVAS CON CABLE DE 25CM. / 3 PINES CHATOS IMP.",
+        "brand": "Imp",
+        "code": "1702",
+        "image": "img/products/Sensores/sensor-de-rotacion-del-arbol-de-levas-con-cable-de-25cm-3-pines-chatos-imp-1702.jpg",
+        "description": "SENSOR DE ROTACION DEL ARBOL DE LEVAS CON CABLE DE 25CM. / 3 PINES CHATOS IMP. 1702 Imp Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 A42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38AD / 380 T42 / 410 T38AD / 410 T42AD / 720 T42T Código Original / Similar: 0281002165 (BOSCH) 99450797 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5724",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 90MM. / 4 PINES REDONDOS IMP.",
+        "brand": "Imp",
+        "code": "1629",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-90mm-4-pines-redondos-imp-1629.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 90MM. / 4 PINES REDONDOS IMP. 1629 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1455 TD / 16S-1585 TD / 16S-1650 / 16S-1685 TD / 16AS-2230TD V-TRONIC FORD / VW / CUMMINS / MWM: VW 18310 (+06) / CONSTELLATION 19320 E / 25320 E / 31320 E / 19330 / 19360 / 19420 / 25420 / 26280 / 26420 / 31280 / 31330 IVECO: Cajas ZF 16AS-2630 TO / 16S-2525 TO IVECO: Camiones STRALIS 200 S36 / 200 S44 / 460 S36T / 490 E44T / 530 S36T / 600 S44T / 800 S48TZ Código Original / Similar: 0501210859 (ZF) 215920102200F (VDO) 215950004201 (VDO) 215950004202 (VDO) 2T2/927803 (VW) 5801313639 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5725",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. / 4 PINES REDONDOS CON ARANDELA IMP.",
+        "brand": "Imp",
+        "code": "1640",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-25mm-4-pines-redondos-con-arandela-imp-1640.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 25MM. / 4 PINES REDONDOS CON ARANDELA IMP. 1640 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 HD FORD / VW / CUMMINS / MWM: VW Bus 9150 EOD (04-05) IVECO: Cajas ZF S5-580 TO IVECO: Camiones VERTIS 90 V16 / 130 V18 MERCEDES BENZ: Bus LO 914 / LO 915 MERCEDES BENZ: Cajas ZF S5-42 / S5-420 Código Original / Similar: 013.542.5317 (MB) 0501210856 (ZF) 215920102301F (VDO) 2R0/311478/A (VW) 500053275 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5726",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 20MM. / 4 PINES CHATOS IMP.",
+        "brand": "Imp",
+        "code": "1494",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-20mm-4-pines-chatos-imp-1494.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 20MM. / 4 PINES CHATOS IMP. 1494 Imp Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO CAVALLINO 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 170 E25 / 170 E25T / 230 E22 / 230 E24 / 240 E25 / 260 E25 / EUROTECH 440 E42TZ/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 190 E42 / 450 E37T / TECTOR 260 E25 / TECTOR STRADALE 240 E25S / TRAKKER 380 T38 y Bus CC 118 E20 (GNC) / 118 E22 / CC 170 E22 / CITY CLASS IVECO: Camiones EUROTECH 440 E42TZ/P / EUROTRAKKER 190 E42 / STRALIS NR 200 S41 / NR 200 S46 / NR 490 S41T / NR 490 S46T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 490 S48T AS / 800 S44T AS / 800 S48T AS IVECO: Utilitarios DAILY 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 60.13 / 70.12 / 70.13 / DAILY SCUDATTO 35.10 / 49.12 / 59.12 / 60.12 / 60.13 MERCEDES BENZ: Cajas ZF 9S-75 / S5-680 MERCEDES BENZ: Camiones 1215 C / L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1728/51 / 2423 B / 2423 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 SCANIA: Camiones P 124 / R 124 / T 124 (Con Caja GTD800 / GTD900) y Bus F 94 HB (Con Caja ZF 6S-1550) Código Original / Similar: 012.542.2417 (MB) 0501208791 (ZF) 1.415.023 / 1.357.796 (SCANIA) 215950003101 / 215950004102F (VDO) 215950003102 (VDO) 4834987 / 93193366 / 42535493 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5727",
+        "name": "SENSOR ROTACION 35MM. / 4 PINES IMP.",
+        "brand": "Imp",
+        "code": "1480",
+        "image": "img/products/Sensores/sensor-rotacion-35mm-4-pines-imp-1480.jpg",
+        "description": "SENSOR ROTACION 35MM. / 4 PINES IMP. 1480 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-2305-C / FS-4205-A / FS-6306-B / FSB-5405-A / FSB-5406-A / FSB-6406-A / FSBO-9406-AE / FSO-4305-C / FSO-4405-C / RT-7608-LL FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / DELIVERY 5140 E / 8150 E y Bus 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Código Original / Similar: 2T0/311478 (VW) A007518 (Eaton)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5728",
+        "name": "SENSOR POSICION I-SHIFT IMP.",
+        "brand": "Imp",
+        "code": "14606",
+        "image": "img/products/Sensores/sensor-posicion-i-shift-imp-14606.jpg",
+        "description": "SENSOR POSICION I-SHIFT IMP. 14606 Imp Vehículos compatibles: RENAULT: Camiones KERAX DXI / MAGNUM DXI / PREMIUM DXI VOLVO: Camiones FH / FM (Con Caja ATO2512C / AT2412C / AT2512C / AT2812C) y Bus B 9 R / B 12 B / B 12 R (Con Caja AT2412C) (Todos con Caja I-Shift) Código Original / Similar: 20562642 (VOLVO) 7420562642 (RENAULT)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5729",
+        "name": "SENSOR PRESION ACEITE IMP.",
+        "brand": "Imp",
+        "code": "14559",
+        "image": "img/products/Sensores/sensor-presion-aceite-imp-14559.jpg",
+        "description": "SENSOR PRESION ACEITE IMP. 14559 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 / Meteor 28460 / 29520 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/130758/G (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5730",
+        "name": "SENSOR TEMPERATURA ADMISION DE AIRE / 2 PINES REDONDOS IMP.",
+        "brand": "Imp",
+        "code": "14561",
+        "image": "img/products/Sensores/sensor-temperatura-admision-de-aire-2-pines-redondos-imp-14561.jpg",
+        "description": "SENSOR TEMPERATURA ADMISION DE AIRE / 2 PINES REDONDOS IMP. 14561 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/906529/A / 07W/130758/E (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5731",
+        "name": "SENSOR OXIGENO / TEMPERATURA CATALIZADOR IMP.",
+        "brand": "Imp",
+        "code": "14562",
+        "image": "img/products/Sensores/sensor-oxigeno-temperatura-catalizador-imp-14562.jpg",
+        "description": "SENSOR OXIGENO / TEMPERATURA CATALIZADOR IMP. 14562 Imp Vehículos compatibles: MERCEDES BENZ: Bus OF 1721 / 0500 M 1725 / 0500 U 1725 / 0500 M 1826 MERCEDES BENZ: Motores MB OM 924 LA / OM 906 LA / OM 926 LA Código Original / Similar: 006.153.0528 (MB) 9695 (MTE)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5732",
+        "name": "SENSOR DE TEMPERATURA IMP.",
+        "brand": "Imp",
+        "code": "14522",
+        "image": "img/products/Sensores/sensor-de-temperatura-imp-14522.jpg",
+        "description": "SENSOR DE TEMPERATURA IMP. 14522 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/906529 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5733",
+        "name": "VALVULA 4 CIRCUITOS KNORR CON SENSORES TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14381",
+        "image": "img/products/Sensores/valvula-4-circuitos-knorr-con-sensores-tf-p-technology-14381.jpg",
+        "description": "VALVULA 4 CIRCUITOS KNORR CON SENSORES TF&P TECHNOLOGY 14381 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 815 / 1016 Código Original / Similar: 000.430.9406 (MB) K047444 (Knorr) / ROSCAS: Puerto 1: M22 x 1,5 Puerto 21: M22 x 1,5 Puerto 22: M22 x 1,5 Puerto 23: M22 x 1,5 Puerto 24: M22 x 1,5",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5734",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR 5V. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14382",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-con-sensor-5v-tf-p-technology-14382.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR 5V. TF&P TECHNOLOGY 14382 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo C1317 / C1517 / C1722 / C2632 / 916 / 1119 / 1723 / 1933 / 3129 FORD / VW / CUMMINS / MWM: Para Conjuntos Apu FORD BC45/2A131/BB / BC45/2A131/BC / CC45/2A131/DA / CC452A131DB / CC45/2A131/EA / CC45/2A131/EB FORD / VW / CUMMINS / MWM: Para Conjuntos Apu KNORR K082133 / K082134 Código Original / Similar: K082132 (Knorr) ROSCAS NG12 (M22X1.5)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5735",
+        "name": "SENSOR PRESION ACEITE/COMBUSTIBLE / M18 X 1.5 / 15.0 BAR 3-RHO",
+        "brand": "3 Rho",
+        "code": "14289",
+        "image": "img/products/Sensores/sensor-presion-aceite-combustible-m18-x-1-5-15-0-bar-3-rho-14289.jpg",
+        "description": "SENSOR PRESION ACEITE/COMBUSTIBLE / M18 X 1.5 / 15.0 BAR 3-RHO 14289 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/130758/B / 07W/130758/H (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5736",
+        "name": "SENSOR ELECTRONICO DE PRESION DE GASES DE ESCAPE 3-RHO",
+        "brand": "3 Rho",
+        "code": "14294",
+        "image": "img/products/Sensores/sensor-electronico-de-presion-de-gases-de-escape-3-rho-14294.jpg",
+        "description": "SENSOR ELECTRONICO DE PRESION DE GASES DE ESCAPE 3-RHO 14294 3 Rho Vehículos compatibles: SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / R 400 / R 440 / R 480 y Bus N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 1.780.795 / 1.911.032 (SC) M14 X 1.5 / EN SISTEMA DE INYECCION",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5737",
+        "name": "SENSOR PRESION DE ACEITE / 3 PINES / M14X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "14297",
+        "image": "img/products/Sensores/sensor-presion-de-aceite-3-pines-m14x1-5-3-rho-14297.jpg",
+        "description": "SENSOR PRESION DE ACEITE / 3 PINES / M14X1.5 3-RHO 14297 3 Rho Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37 HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 / _x000D_ STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / TRAKKER 380 T38 / 380 T42 Código Original / Similar: 4858771 / 504084761 (IVECO) 98492361 / 99469897 (IVECO) 99484667 / 500042804 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5738",
+        "name": "SENSOR DE TEMPERATURA EXTERIOR 3-RHO",
+        "brand": "3 Rho",
+        "code": "14298",
+        "image": "img/products/Sensores/sensor-de-temperatura-exterior-3-rho-14298.jpg",
+        "description": "SENSOR DE TEMPERATURA EXTERIOR 3-RHO 14298 3 Rho Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 EL / LS 1634 EL / LS 1938 EL / 1938 S / L 2423 B / 2423 K / 2638/54 / 2726 B / 2726 K / ATRON 1624 / 1634 / 1735 / ACCELO 915 C / 815 / 1016 / ATEGO 1418 / 1419 / 1720 / 1721 / 1725 / 1726 / 1729 / 2425/48 / 2426 / 2730 B / 2730 K / 2730/48 / AXOR 1933 / 2035 S / 2036 S / 2040 S / 2041 S / 2044 S / 2533 / 2535 S / 2536 / 2540 S / 2544 / 2831 B / 2831 K / 3131 B / 3131 K / 3131/48 / 3340 K / 3341 / 3344 y Bus OF 1519 / OF 1621 / OF 1721 / 0500 M / 0500 U / 0500 RS / 0500 RSD / 0500 MA 2836 / 0500 UA RENAULT: Camiones KERAX / MAGNUM / MIDLUM / PREMIUM VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 9 380 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 330 / FM 370 / FM 380 / FM 420 y Bus B 7 R / B 11 R / B 12 B / B 12 R / B 13 R Código Original / Similar: 011.542.9617 (MB) 20.509.865 / 20.717.624 (VOLVO) 20.912.514 / 1.366.601 (VOLVO) 7420912514 (RENAULT)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5739",
+        "name": "SENSOR DE TEMPERATURA EXTERIOR / 2 PINES 3-RHO",
+        "brand": "3 Rho",
+        "code": "14299",
+        "image": "img/products/Sensores/sensor-de-temperatura-exterior-2-pines-3-rho-14299.jpg",
+        "description": "SENSOR DE TEMPERATURA EXTERIOR / 2 PINES 3-RHO 14299 3 Rho Vehículos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 y Bus F 113 / K 113 Código Original / Similar: 1.100.799 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5740",
+        "name": "MULTIPLE COMBUSTIBLE SIN SENSORES BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "14301",
+        "image": "img/products/Sensores/multiple-combustible-sin-sensores-blk-diesel-14301.jpg",
+        "description": "MULTIPLE COMBUSTIBLE SIN SENSORES BLK DIESEL 14301 BLK Diesel Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 6.7 litros FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 1723 / 1729 / 3129 Código Original / Similar: 0445226044 (BOSCH) 4937282 (Cummins) BH1X/9H487/AA (FORD) UTILIZA EL SENSOR 5297640 Y LA VALVULA 4938005",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P5741",
+        "name": "SENSOR TEMPERATURA AIRE RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "14235",
+        "image": "img/products/Sensores/sensor-temperatura-aire-reserplastic-14235.jpg",
+        "description": "SENSOR TEMPERATURA AIRE RESERPLASTIC 14235 Reserplastic Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Delivery 9160 / Constellation 19320 E / 25320 E / 31320 E Código Original / Similar: 2T2/919369 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5742",
+        "name": "SENSOR ENTRE FILTRO DE COMBUSTIBLE Y BASE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14122",
+        "image": "img/products/Sensores/sensor-entre-filtro-de-combustible-y-base-tf-p-technology-14122.jpg",
+        "description": "SENSOR ENTRE FILTRO DE COMBUSTIBLE Y BASE TF&P TECHNOLOGY 14122 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42TZ/P / EUROTRAKKER 450 E37T / TRAKKER 410 T38 AD IVECO: Utilitarios DAILY 40 C14 / 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C15 / 70 C16 HD / DAILY ECOLINE 30 C15 / 35 S14 / 35 S14 HD / 40 S14 / 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD y Bus 50 C16 / ECOLINE 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD Código Original / Similar: 42548584 / 99483892 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5743",
+        "name": "SENSOR ABS DELANTERO / LARGO 2130MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14092",
+        "image": "img/products/Sensores/sensor-abs-delantero-largo-2130mm-tf-p-technology-14092.jpg",
+        "description": "SENSOR ABS DELANTERO / LARGO 2130MM. TF&P TECHNOLOGY 14092 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42TZ/P / 450 E37 / 450 E37T/P / 740 E42TZ / EUROTRAKKER 190 E42 / MP 450 E37T / STRALIS ATN 740 S42TZ / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 800 S44T / 800 S48T / 800 S56T / STRALIS ECOLINE HI-ROAD EUROTRONIC 800 S44TZ / 800 S48TZ Código Original / Similar: 41200561 (IVECO) 441.032.858 0 (Wabco)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5744",
+        "name": "SENSOR ABS DELANTERO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14093",
+        "image": "img/products/Sensores/sensor-abs-delantero-tf-p-technology-14093.jpg",
+        "description": "SENSOR ABS DELANTERO TF&P TECHNOLOGY 14093 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROTRAKKER 190 E42 / 450 E37T / 720 E42 / STRALIS NR 490 S41T HR / NR 490 S46T HR / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S48T AS / 530 S36T AT / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S36 AD / 200 S36 AT / 200 S44 AT / 460 S36T AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AS / 600 S44 AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / STRALIS ECOLINE HI-ROAD 200 S36 / 460 S36T / STRALIS ECOLINE HI-ROAD EUROTRONIC 800 S44TZ / 800 S48TZ / IVECO: Utilitarios DAILY 70 C17 HD / MY 60-170 HD / 70-170 Código Original / Similar: 41200562 (IVECO) 441.032.859 0 (Wabco) LARGO 2350MM.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5745",
+        "name": "SENSOR TEMPERATURA CATALIZADOR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14097",
+        "image": "img/products/Sensores/sensor-temperatura-catalizador-tf-p-technology-14097.jpg",
+        "description": "SENSOR TEMPERATURA CATALIZADOR TF&P TECHNOLOGY 14097 Tfp Technology Vehículos compatibles: IVECO: Camiones CURSOR ECOLINE 180 C33 / 450 C33 / STRALIS ECOLINE 200 S40 AT / 200 S44 AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S44 AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / STRALIS ECOLINE HI-ROAD 200 S44 / 200 S44T / 460 S36T / 600 S44T / STRALIS ECOLINE HI-ROAD EUROTRONIC 490 S40T / 490 S44T / 600 S40T / 600 S44T / 800 S44TZ / 800 S48TZ / TECTOR ECOLINE 170 E28S / 170 E28 / 170 E28T / 170 S28 / 17-280 / 170 E30S / 170 E30T / 170 E30 AUT / 17-300 AUT / 240 E28 / 240 E28S / 24-280 / 240-280 / 240 E30S / 24-300 AUT / 260 E28 / 260 E30 / 310 E28 / 31-280 / 310 E30 / 31-300 AUT / TECTOR ECOLINE ATTACK 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / 240 E28 RSU / TRAKKER ECOLINE 310 T36 AD / 380 T44 AD / 380 T48T AT / 380 T50 AT / 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 410 T44 AD / 410 T44 AT / 410 T48 AD / 410 T48 AT / 500 T48 AD / 740 T48T AD / TRAKKER ECOLINE HI-LAND EUROTRONIC 380 T44 AD / 380 T44 AT / 380 T48T AT / VERTIS ECOLINE 90 V18 / 130 V19 y Bus 150 S21 Código Original / Similar: 5801291815 / 504102603 (IVECO) 5802983589 (IVECO) LARGO 620MM. / CON ROSCA M14 X 1.5 / 2 PINES",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5746",
+        "name": "SENSOR DE ADMISION / PRESION DE SOBREALIMENTACION / MAP / 4 PINES TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14099",
+        "image": "img/products/Sensores/sensor-de-admision-presion-de-sobrealimentacion-map-4-pines-tf-p-technology-14099.jpg",
+        "description": "SENSOR DE ADMISION / PRESION DE SOBREALIMENTACION / MAP / 4 PINES TF&P TECHNOLOGY 14099 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E / 24250 E IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 y Bus CC 118 E22 / CC 170 E22 Código Original / Similar: 2R0/919501 (VW) 4893924 (Cummins) 4893924 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5747",
+        "name": "CARCAZA TERMOSTATO SIN SENSOR DE TEMPERATURA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "14065",
+        "image": "img/products/Sensores/carcaza-termostato-sin-sensor-de-temperatura-trucktec-14065.jpg",
+        "description": "CARCAZA TERMOSTATO SIN SENSOR DE TEMPERATURA TRUCKTEC 14065 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 654 LA MERCEDES BENZ: Utilitarios SPRINTER 311 CDI / 314 CDI / 414 CDI / 417 CDI / 517 CDI Código Original / Similar: 654.200.0115 (MB) SENSOR DE TEMPERATURA COD. 11838",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P5748",
+        "name": "SENSOR DE ADMISION TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14072",
+        "image": "img/products/Sensores/sensor-de-admision-tf-p-technology-14072.jpg",
+        "description": "SENSOR DE ADMISION TF&P TECHNOLOGY 14072 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 420 / FH 460 / FH 500 / FH 540 / FM 370 / FM 380 / FM 460 / FMX 330 / FMX 370 / FMX 420 / FMX 460 / FMX 480 / FMX 500 y Bus B 9 R / B 11 R / B 13 R Código Original / Similar: 22.329.559 / 21.097.978 / 22.422.785 (VOLVO) 7421097978 (RENAULT) 7422329559 / 7422422785 (RENAULT) PRESION DE SOBREALIMENTACION / MAP / 4 PINES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5749",
+        "name": "SENSOR DE CILINDRO DE MANDO DE LA CAJA DE CAMBIOS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14073",
+        "image": "img/products/Sensores/sensor-de-cilindro-de-mando-de-la-caja-de-cambios-tf-p-technology-14073.jpg",
+        "description": "SENSOR DE CILINDRO DE MANDO DE LA CAJA DE CAMBIOS TF&P TECHNOLOGY 14073 Tfp Technology Vehículos compatibles: SCANIA: Cajas GR875R / GRS895R / GRS905R / GRSO905R / GRSO925R SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 380 / R 360 / R 400 / R 440 / R 480 / R 560 / R 620 / P 220 / P 250 / P 280 / P 320 / P 340 / P 360 / P 380 / P 410 / P 440 / P 450 / G 280 / G 320 / G 340 / G 360 / G 380 / G 410 / G 440 / G 450 / G 500 / G 540 / R 280 / R 320 / R 360 / R 410 / R 450 / R 500 / R 540 / R 620 / S 380 / S 410 / S 440 / S 450 / S 500 / S 540 / S 620 Código Original / Similar: 1.527.384 (SC)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5750",
+        "name": "SENSOR PRESION ACEITE / M10 X 1 / PRESION 1 BAR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13922",
+        "image": "img/products/Sensores/sensor-presion-aceite-m10-x-1-presion-1-bar-trucktec-13922.jpg",
+        "description": "SENSOR PRESION ACEITE / M10 X 1 / PRESION 1 BAR TRUCKTEC 13922 Trucktec Vehículos compatibles: SCANIA: Camiones P 93 / R 112 / T 112 / T 113 / R 143 / T 143 / P 94 / P 124 / R 124 / T 124 y Bus K 113 / F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.316.330 / 1.356.751 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5751",
+        "name": "SENSOR NIVEL ALTURA / SUSPENSION NEUMATICA ECAS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13926",
+        "image": "img/products/Sensores/sensor-nivel-altura-suspension-neumatica-ecas-trucktec-13926.jpg",
+        "description": "SENSOR NIVEL ALTURA / SUSPENSION NEUMATICA ECAS TRUCKTEC 13926 Trucktec Vehículos compatibles: IVECO: Camiones STRALIS HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T MERCEDES BENZ: Camiones AXOR 2533 / 2535 S / 2536 / 2540 S / 2544 SCANIA: Bus N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 002.542.6718 / 003.542.2618 (MB) 1.448.082 / 2.110.474 / 1.934.586 (SC) 41200708 (IVECO) 441.050.120 0 / 441.050.121 0 (Wabco) 441.050.122 0 / 441.050.123 0 (Wabco) EJE DELANTERO",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5752",
+        "name": "SENSOR DE TEMPERATURA CALORSTAT",
+        "brand": "Calorstat",
+        "code": "1376",
+        "image": "img/products/Sensores/sensor-de-temperatura-calorstat-1376.jpg",
+        "description": "SENSOR DE TEMPERATURA CALORSTAT 1376 Calorstat Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 E / 15180 E / 26260 E / DELIVERY 5140 E / 8150 E / CONSTELLATION 13180 E / 15180 E / 26260 E y Bus 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 410 T42 AD / 720 T42T IVECO: Utilitarios NUEVA DAILY 35 C14 / 35 S14 / 40 S16 / 45 S14 / 45 S16 / 50 C15 / 55 C16 / 70 C16 / NUEVA DAILY SCUDATTO 65 C14G CC (GNC) / 70 C16 / 70 C16 HD RENAULT: Camiones PREMIUM / MIDLUM / KERAX VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FM 13 400 / FM 13 440 / FMX 13 400 / FMX 13 440 / FMX 13 480 y Bus B 7 R Código Original / Similar: 0281002744 (BOSCH) 20.153.340 / 20.513.340 (VOLVO) 2R0/919501/B (VW) 500382599 (IVECO) 5010437653 / 7421531072 (RENAULT) 7420513340 / 5010412450 / 7420524936 (RENAULT)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5753",
+        "name": "SENSOR NIVEL DE AGUA DEL RADIADOR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13761",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-del-radiador-trucktec-13761.jpg",
+        "description": "SENSOR NIVEL DE AGUA DEL RADIADOR TRUCKTEC 13761 Trucktec Vehículos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Código Original / Similar: 002.540.4417 / 634.540.0017 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5754",
+        "name": "SENSOR PRESION Y NIVEL DE AGUA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13762",
+        "image": "img/products/Sensores/sensor-presion-y-nivel-de-agua-trucktec-13762.jpg",
+        "description": "SENSOR PRESION Y NIVEL DE AGUA TRUCKTEC 13762 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones ACTROS 1841 / 1846 / 2041 / 2042 / 2044 / 2046 / _x000D_ 2048 / 2636 / 2645 / 2646 / 2651 / 2655 / 3336 B / 3336 K / 3341 K / 3342 / 3344 B / 3344 K / 4144 K / 4844 K Código Original / Similar: 008.545.7524 (MB) 009.545.0524 / 008.545.7424 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5755",
+        "name": "SENSOR DE POSICION DE CIGUEÑAL IMP.",
+        "brand": "Imp",
+        "code": "13772",
+        "image": "img/products/Sensores/sensor-de-posicion-de-ciguenal-imp-13772.jpg",
+        "description": "SENSOR DE POSICION DE CIGUEÑAL IMP. 13772 Imp Vehículos compatibles: IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 C14 / 40 S16 / 45 S14 / 45 S16 / 50 C15 / 55 C16 / 70 C15 / 70 C16 / 70 C16 HD / ECOLINE 35 C15 / 35 S14 / 35 S14 HD / 40 S14 / 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD / 30-160 CITY / 35-150 / 35-160 / 45-170 / 55-170 / 60-170 HD / 65-170 / 70-170 y Bus 50 C16 / ECOLINE 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD Código Original / Similar: 0281002778 (BOSCH) 504129943 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5756",
+        "name": "SENSOR POSICION ARBOL DE LEVAS IMP.",
+        "brand": "Imp",
+        "code": "13773",
+        "image": "img/products/Sensores/sensor-posicion-arbol-de-levas-imp-13773.jpg",
+        "description": "SENSOR POSICION ARBOL DE LEVAS IMP. 13773 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.08 TCE FORD / VW / CUMMINS / MWM: VW Delivery 5140 E / 8150 E IVECO: Utilitarios DAILY 35.13 / 38.13 / 40.13 / 50.13 / 60.13 / 70.13 / 35 C14 / 35 S14 / 35 S14 HD / 40 C14 / 40 S16 / 45 S14 / 45 S16 / 50 C15 / 55 C16 / 70 C15 / 70 C16 / 70 C16 HD / ECOLINE 35 C15 / 35 S14 / 35 S14 HD / 40 S14 / 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD / 30-160 CITY / 35-150 / 35-160 / 45-170 / 55-170 / 60-170 HD / 65-170 / 70-170 y Bus 50 C16 / ECOLINE 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD Código Original / Similar: 0232103052 / 0281002667 (BOSCH) 0232103127 / 0232103067 (BOSCH) 2P0/133491 (VW) 504048261 (IVECO) 940700670074 (MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5757",
+        "name": "SENSOR PRESION / TEMPERATURA ADMISION DE AIRE / MAP IMP.",
+        "brand": "Imp",
+        "code": "13700",
+        "image": "img/products/Sensores/sensor-presion-temperatura-admision-de-aire-map-imp-13700.jpg",
+        "description": "SENSOR PRESION / TEMPERATURA ADMISION DE AIRE / MAP IMP. 13700 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.08 TCE FORD / VW / CUMMINS / MWM: VW Delivery 5140 E / 8150 E IVECO: Utilitarios DAILY 35.13 / 38.13 / 40.13 / 50.13 / 60.13 / 70.13 Código Original / Similar: 0281002514 (BOSCH) 2P0/906051 (VW) 500351377 / 503646908 (IVECO) 940700690024 (MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5758",
+        "name": "SENSOR NOX / OXIDO DE NITROGENO DEL ESCAPE VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13682",
+        "image": "img/products/Sensores/sensor-nox-oxido-de-nitrogeno-del-escape-vannucci-13682.jpg",
+        "description": "SENSOR NOX / OXIDO DE NITROGENO DEL ESCAPE VANNUCCI 13682 Vannucci Vehículos compatibles: MERCEDES BENZ: Camiones ATRON 1735 / ACCELO 815 / 1016 / ATEGO 1419 / 1720 / 1721 / 1726 / 1729 / 2426 / 2730 B / 2730 K / 2730/48 / AXOR 2036 / 2041 / 2533 / 2536 / 2544 / 3131 B / 3131 K / 3341 / 3344 / ACTROS 1841 / 1846 / 2041 / 2046 / 2636 / 2646 / 3341 K / 4844 K y Bus OF 1724 / OH 1621 / OH 1721 / 0500 UA / 0500 RS Código Original / Similar: 009.153.3628 / 006.153.7328 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5759",
+        "name": "VALVULA SENSOR ALTURA / NIVEL DE SUSPENSION NEUMATICA ECAS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13546",
+        "image": "img/products/Sensores/valvula-sensor-altura-nivel-de-suspension-neumatica-ecas-trucktec-13546.jpg",
+        "description": "VALVULA SENSOR ALTURA / NIVEL DE SUSPENSION NEUMATICA ECAS TRUCKTEC 13546 Trucktec Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 500 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / R 480 / _x000D_ RH 480 / RN 480/ R 560 / RH 560 / RH 620 y Bus K 270 / K 310 / K 340 / K 380 / K 420 / N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 420 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 1.889.797 (SC) 441.050.201 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5760",
+        "name": "ANILLO SENSOR ABS / TRASERO Y DELANTERO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13532",
+        "image": "img/products/Sensores/anillo-sensor-abs-trasero-y-delantero-trucktec-13532.jpg",
+        "description": "ANILLO SENSOR ABS / TRASERO Y DELANTERO TRUCKTEC 13532 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2036 / 2041 / ACTROS 1841 / 1846 / 2041 / 2044 / 2046 MERCEDES BENZ: Eje Delantero VL 2 MERCEDES BENZ: Eje Trasero HL 6 / HL 8 Código Original / Similar: 972.334.0115 (MB) DIAM. INT. 108.8MM. / DIAM. EXT. 138.5MM. / ESPESOR 15.5MM. / ORIFICIOS 80",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P5761",
+        "name": "ANILLO SENSOR ABS DELANTERO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13533",
+        "image": "img/products/Sensores/anillo-sensor-abs-delantero-trucktec-13533.jpg",
+        "description": "ANILLO SENSOR ABS DELANTERO TRUCKTEC 13533 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2035 S / 2036 / 2040 S / 2041 / 2831/48 / 2831 B / 2831 K / 3340 K / 3131/48 / 3131 B / 3131 K / ACTROS 1841 / 1846 / 2041 / 2044 / 2046 MERCEDES BENZ: Eje Delantero NL 4 / VL 4 / VL 5 Código Original / Similar: 943.334.0115 (MB) DIAM. INT. 140MM. / DIAM. EXT. 178MM. / ESPESOR 15MM. / ORIFICIOS 100",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P5762",
+        "name": "ANILLO SENSOR ABS TRASERO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13534",
+        "image": "img/products/Sensores/anillo-sensor-abs-trasero-trucktec-13534.jpg",
+        "description": "ANILLO SENSOR ABS TRASERO TRUCKTEC 13534 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 2035 S / 2036 S / 2040 S / 2831 K / 3340 K / 3131/48 / 3131 B / 3131 K / ACTROS 2041 S36 / 2044 S36 y 0500 R / 0500 RS / 0500 RSD MERCEDES BENZ: Eje Trasero HL 7 / HD 4 Código Original / Similar: 942.356.0015 / 942.356.0315 (MB) 942.356.0715 (MB) DIAM. INT. 176MM. / DIAM. EXT. 196MM. / ESPESOR 16MM. / ORIFICIOS 100",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P5763",
+        "name": "SENSOR ABS TRASERO 2500MM / 2 PINES TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13536",
+        "image": "img/products/Sensores/sensor-abs-trasero-2500mm-2-pines-trucktec-13536.jpg",
+        "description": "SENSOR ABS TRASERO 2500MM / 2 PINES TRUCKTEC 13536 Trucktec Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 2035 S / 2040 S / 2831 K / 3340 K / 3131/48 / 3131 B / 3131 K / ACTROS 2041 S36 / 2044 S36 MERCEDES BENZ: Eje Trasero HL 7 Código Original / Similar: 001.542.0818 / 002.542.2418 (MB) 002.542.2718 / 002.542.3718 (MB) 002.542.3818 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5764",
+        "name": "SENSOR PRESION AIRE SUSPENSION NEUMATICA M16 X 1.5 / 23 BAR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13539",
+        "image": "img/products/Sensores/sensor-presion-aire-suspension-neumatica-m16-x-1-5-23-bar-trucktec-13539.jpg",
+        "description": "SENSOR PRESION AIRE SUSPENSION NEUMATICA M16 X 1.5 / 23 BAR TRUCKTEC 13539 Trucktec Vehículos compatibles: MERCEDES BENZ: Bus 0500 RSD / 0500 MA 2836 Código Original / Similar: 007.542.6018 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5765",
+        "name": "ANILLO SENSOR ABS TRASERO ELRING",
+        "brand": "Elring",
+        "code": "13477",
+        "image": "img/products/Sensores/anillo-sensor-abs-trasero-elring-13477.jpg",
+        "description": "ANILLO SENSOR ABS TRASERO ELRING 13477 Elring Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 2035 S / 2036 S / 2040 S / 2831 K / 3340 K / 3131/48 / 3131 B / 3131 K / ACTROS 2041 S36 / 2044 S36 y 0500 R / 0500 RS / 0500 RSD MERCEDES BENZ: Eje Trasero HL 7 / HD 4 Código Original / Similar: 942.356.0015 / 942.356.0315 (MB) 942.356.0715 (MB) DIAM. INT.176MM. X DIAM. EXT. 196MM. X ALTURA 16MM MATERIAL ACERO",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P5766",
+        "name": "CARCAZA SENSOR PRESION / MAP / ROTACION ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "13438",
+        "image": "img/products/Sensores/carcaza-sensor-presion-map-rotacion-engine-parts-13438.jpg",
+        "description": "CARCAZA SENSOR PRESION / MAP / ROTACION ENGINE PARTS 13438 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 / F 100 (+06) FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Constellation 17250 E / 24250 E Código Original / Similar: 2R0/919081/A (VW) 4892255 (Cummins) BG5X/6315/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5767",
+        "name": "SENSOR PRESION ACEITE M14X1.5 / 0.6 BAR CALORSTAT",
+        "brand": "Calorstat",
+        "code": "13239",
+        "image": "img/products/Sensores/sensor-presion-aceite-m14x1-5-0-6-bar-calorstat-13239.jpg",
+        "description": "SENSOR PRESION ACEITE M14X1.5 / 0.6 BAR CALORSTAT 13239 Calorstat Vehículos compatibles: IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 45 S17 / 50 C15 / 55 C16 / 55 C17 / 70 C15 / 70 C16 / 70 C16 HD / 70 C17 / DAILY ECOLINE 35 S14 / 35 S14 HD / 40 S14 / 45 S17 / 55 C17 / 70 C17 HD y Bus 50 C16 / ECOLINE 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD Código Original / Similar: 5801891612 / 504026706 / 504310254 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5768",
+        "name": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE RACOR PARKER",
+        "brand": "Racor Parker",
+        "code": "13201",
+        "image": "img/products/Sensores/sensor-filtro-separador-de-agua-del-combustible-con-cable-racor-parker-13201.jpg",
+        "description": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE CON CABLE RACOR PARKER 13201 Racor Parker Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 – ISBe6 – ISCe6 – ISL FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / C1722 / C1932 / C2632 / 916 / 1119 / 1519 / 1723 / 1729 / 1933 / 3129 Código Original / Similar: BH1X/9J308/AA / BH2X/9J308/AA (FORD) BH4X/9J308/AA (FORD) KR-5020 (Racor) CONECTOR RECTANGULAR",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5769",
+        "name": "SENSOR TEMPERATURA M10 X 1.0 VDO",
+        "brand": "Vdo",
+        "code": "13215",
+        "image": "img/products/Sensores/sensor-temperatura-m10-x-1-0-vdo-13215.jpg",
+        "description": "SENSOR TEMPERATURA M10 X 1.0 VDO 13215 Vdo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Camiones F 350 / F 600 / F 7000 Código Original / Similar: 3023 (MTE) 323.006.006R / D32006 (VDO) 9423 (MA2Ó) D2TU/10884/A / BD2T/10884/A (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5770",
+        "name": "SENSOR TEMPERATURA / ROSCA 3/8″ – 18 NPTF MA2Ó",
+        "brand": "Ma2o",
+        "code": "13216",
+        "image": "img/products/Sensores/sensor-temperatura-rosca-3-8-18-nptf-ma2o-13216.jpg",
+        "description": "SENSOR TEMPERATURA / ROSCA 3/8″ – 18 NPTF MA2Ó 13216 Ma2o Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9140 Código Original / Similar: 2RD/919501 (VW) 3009 (MTE) 323.003.004R / D32031 (VDO) 9499 (MA2Ó)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5771",
+        "name": "SENSOR TEMPERATURA M10 X 1.0 CONICA MA2Ó",
+        "brand": "Ma2o",
+        "code": "13217",
+        "image": "img/products/Sensores/sensor-temperatura-m10-x-1-0-conica-ma2o-13217.jpg",
+        "description": "SENSOR TEMPERATURA M10 X 1.0 CONICA MA2Ó 13217 Ma2o Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17210 OD Código Original / Similar: 3179 (MTE) 323.002.018R / D32033 (VDO) 9303 (MA2Ó) TAR/919501 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5772",
+        "name": "SENSOR DE ROTACION / VELOCIDAD / RPM TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13192",
+        "image": "img/products/Sensores/sensor-de-rotacion-velocidad-rpm-trucktec-13192.jpg",
+        "description": "SENSOR DE ROTACION / VELOCIDAD / RPM TRUCKTEC 13192 Trucktec Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 Código Original / Similar: 1.457.304 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5773",
+        "name": "SENSOR ABS TRASERO IMP.",
+        "brand": "Imp",
+        "code": "13132",
+        "image": "img/products/Sensores/sensor-abs-trasero-imp-13132.jpg",
+        "description": "SENSOR ABS TRASERO IMP. 13132 Imp Vehículos compatibles: MERCEDES BENZ: Camiones AXOR 1933 / 2035 S / 2036 S / 2040 S / 2041 S / 2044 S / 2535 S / 2540 S Código Original / Similar: 001.542.0818 / 001.542.7718 (MB) 002.542.2418 / 002.542.2718 (MB) 002.542.3818 / 002.542.3718 (MB) 441.032.920 0 (Wabco) LARGO 2640MM.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5774",
+        "name": "SENSOR ABS TRASERO IZQUIERDO IMP.",
+        "brand": "Imp",
+        "code": "13133",
+        "image": "img/products/Sensores/sensor-abs-trasero-izquierdo-imp-13133.jpg",
+        "description": "SENSOR ABS TRASERO IZQUIERDO IMP. 13133 Imp Vehículos compatibles: MERCEDES BENZ: Camiones ACCELO 815 / 1016 / AXOR 1933 / 2035 S / 2036 S / 2040 S / 2041 S / 2044 S / 2535 S / 2540 S y Bus LO 916 / 0500 RSD 2436/30 Código Original / Similar: 000.542.3318 / 001.542.3318 (MB) 001.542.3518 / 001.542.8418 (MB) 001.542.8818 / 002.542.2318 / 002.542.26 (MB) 441.032.921 0 (Wabco) LARGO 3010MM.",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5775",
+        "name": "SENSOR PRESION DE AIRE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "12769",
+        "image": "img/products/Sensores/sensor-presion-de-aire-trucktec-12769.jpg",
+        "description": "SENSOR PRESION DE AIRE TRUCKTEC 12769 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA / OM 654 LA MERCEDES BENZ: Utilitarios SPRINTER 311 CDI / 316 CDI / 416 CDI / 516 CDI / 311 CDI / 314 CDI / 414 CDI / 417 CDI / 517 CDI Código Original / Similar: 008.153.4428 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5776",
+        "name": "SENSOR PRESION COMBUSTIBLE / COMMON RAIL IMP.",
+        "brand": "Imp",
+        "code": "12680",
+        "image": "img/products/Sensores/sensor-presion-combustible-common-rail-imp-12680.jpg",
+        "description": "SENSOR PRESION COMBUSTIBLE / COMMON RAIL IMP. 12680 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / 1722e / 1832e / 2632e / Nuevo C1317 / C1517 / C1722 / C1932 / C2632 / 1933 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 / ISCe6 / ISL FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 17250 E / Delivery 9160 / 9170 / 11180 / Constellation 17250 E / 19320 E / 25320 E / 31320 E / 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 y Bus 18320 EOT / 9160 OD / 18330 OT IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 50 C15 / 55 C16 / 70 C15 / 70 C16 / 70 C16 HD y Bus 50 C16 RENAULT: Camiones PREMIUM / MIDLUM DXI 7 VOLVO: Bus B 7 R Código Original / Similar: 0281002937 / 0281002846 (BOSCH) 20.792.328 / 30.677.300 (VOLVO) 2R0/201146 / 2R0/130758 / 2Z0/201146 (VW) 31.216.319 / 3.843.100 (VOLVO) 504152959 / 504088732 (IVECO) 504247741 / 504382372 (IVECO) 5260246 / 2831362 / 3974092 / 5297641 (Cummins) 7420792328 (RENAULT) 7701055704 / 7701068401 (RENAULT) BG5X/9F479/DA / BH4X/9F479/AA (FORD) BH0X/9F479/AA / BG6X/9F479/DA (FORD) M18 X 1.5 / 3 PINES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5777",
+        "name": "SENSOR DE ROTACION DE CIGUEÑAL / RPM / CABLE 155MM TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12654",
+        "image": "img/products/Sensores/sensor-de-rotacion-de-ciguenal-rpm-cable-155mm-tf-p-technology-12654.jpg",
+        "description": "SENSOR DE ROTACION DE CIGUEÑAL / RPM / CABLE 155MM TF&P TECHNOLOGY 12654 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S38T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 720 T42T Código Original / Similar: 0261210126 (BOSCH) 500306772 (IVECO) FICHA 3 PINES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5778",
+        "name": "PEDAL ACELERADOR ELECTRONICO CON SENSOR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12655",
+        "image": "img/products/Sensores/pedal-acelerador-electronico-con-sensor-tf-p-technology-12655.jpg",
+        "description": "PEDAL ACELERADOR ELECTRONICO CON SENSOR TF&P TECHNOLOGY 12655 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / R 360 / R 400 / R 440 / R 480 / R 560 / R 620 HIGHLINE y Bus K 270 / K 310 / K 340 / K 380 / K 420 / N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 420 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 1.753.411 / 1.729.022 (SC) 2.007.508 / 2.395.418 (SC)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P5779",
+        "name": "SENSOR TEMPERATURA / AIRE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12659",
+        "image": "img/products/Sensores/sensor-temperatura-aire-tf-p-technology-12659.jpg",
+        "description": "SENSOR TEMPERATURA / AIRE TF&P TECHNOLOGY 12659 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 570 S38T / TRAKKER 380 T38 / 380 T42 / 720 T42T Código Original / Similar: 98412656 (IVECO) FICHA 2 PINES REDONDOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5780",
+        "name": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE IMP.",
+        "brand": "Imp",
+        "code": "12474",
+        "image": "img/products/Sensores/sensor-filtro-separador-de-agua-del-combustible-imp-12474.jpg",
+        "description": "SENSOR FILTRO SEPARADOR DE AGUA DEL COMBUSTIBLE IMP. 12474 Imp Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / EUROTECH 440 E42T / 440 E42TZ/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 380 E37 / 450 E37T / 720 E42 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22 RSU / 260 E25 y Bus CC 118 E22 IVECO: Utilitarios DAILY 35.13 / 38.13 / 40.13 / 50.13 / 60.13 / 70.13 / DAILY SCUDATTO 60.13 Código Original / Similar: 99468264 (IVECO) CONECTOR 3 PINES",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5781",
+        "name": "SENSOR NIVEL DE AGUA / MODULO C.C.M IMP.",
+        "brand": "Imp",
+        "code": "12377",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-modulo-c-c-m-imp-12377.jpg",
+        "description": "SENSOR NIVEL DE AGUA / MODULO C.C.M IMP. 12377 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 916 / 1119 / Nuevo C1932 / C2632 / 1519 / 1723 / 1729 / 1933 / 3129 Código Original / Similar: BC45/8B397/AA (FORD) CONECTOR 3 PINES",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5782",
+        "name": "SENSOR DE ROTACION DE CIGUEÑAL / RPM IMP.",
+        "brand": "Imp",
+        "code": "12324",
+        "image": "img/products/Sensores/sensor-de-rotacion-de-ciguenal-rpm-imp-12324.jpg",
+        "description": "SENSOR DE ROTACION DE CIGUEÑAL / RPM IMP. 12324 Imp Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / 170 E21 / EUROTECH 440 E42T / 440 E42TZ / 440 E42TZ/P / 450 E37 / 450 E37TP / 450 E37HR / 740 E42TZ / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 IVECO: Utilitarios DAILY 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 60.12 / 60.13 / 70.12 / 70.13 / DAILY SCUDATTO 35.10 / 49.12 / 59.12 / 60.13 y Bus CITY CLASS Código Original / Similar: 4861291 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5783",
+        "name": "SENSOR POSICION CIGUEÑAL TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11968",
+        "image": "img/products/Sensores/sensor-posicion-ciguenal-trucktec-11968.jpg",
+        "description": "SENSOR POSICION CIGUEÑAL TRUCKTEC 11968 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 654 LA MERCEDES BENZ: Utilitarios SPRINTER 311 CDI / 314 CDI / 414 CDI / 417 CDI / 517 CDI Código Original / Similar: 276.153.0128 / 276.905.0700 (MB) 276.905.1200 / 276.905.1600 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P5784",
+        "name": "SENSOR ABS TRASERO DERECHO / LARGO 1945MM TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11942",
+        "image": "img/products/Sensores/sensor-abs-trasero-derecho-largo-1945mm-trucktec-11942.jpg",
+        "description": "SENSOR ABS TRASERO DERECHO / LARGO 1945MM TRUCKTEC 11942 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 415 CDI / 515 CDI (Chasis para Carga) Código Original / Similar: 906.540.4217 / 906.905.0901 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5785",
+        "name": "SENSOR TEMPERATURA EXTERIOR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11943",
+        "image": "img/products/Sensores/sensor-temperatura-exterior-trucktec-11943.jpg",
+        "description": "SENSOR TEMPERATURA EXTERIOR TRUCKTEC 11943 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI Código Original / Similar: 000.542.8418 / 007.542.1318 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5786",
+        "name": "SENSOR ABS TRASERO DERECHO / LARGO 1830MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11833",
+        "image": "img/products/Sensores/sensor-abs-trasero-derecho-largo-1830mm-trucktec-11833.jpg",
+        "description": "SENSOR ABS TRASERO DERECHO / LARGO 1830MM. TRUCKTEC 11833 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI Código Original / Similar: 906.540.0217 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5787",
+        "name": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1600MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11834",
+        "image": "img/products/Sensores/sensor-abs-trasero-izquierdo-largo-1600mm-trucktec-11834.jpg",
+        "description": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1600MM. TRUCKTEC 11834 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 515 CDI Código Original / Similar: 906.540.1117 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5788",
+        "name": "SENSOR ABS TRASERO DERECHO / LARGO 1600MM TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11835",
+        "image": "img/products/Sensores/sensor-abs-trasero-derecho-largo-1600mm-trucktec-11835.jpg",
+        "description": "SENSOR ABS TRASERO DERECHO / LARGO 1600MM TRUCKTEC 11835 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 515 CDI Código Original / Similar: 0265.009.341 (BOSCH) 058660B (Bendix) 906.540.1217 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5789",
+        "name": "SENSOR ABS DELANTERO DERECHO E IZQUIERDO / LARGO 920MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11836",
+        "image": "img/products/Sensores/sensor-abs-delantero-derecho-e-izquierdo-largo-920mm-trucktec-11836.jpg",
+        "description": "SENSOR ABS DELANTERO DERECHO E IZQUIERDO / LARGO 920MM. TRUCKTEC 11836 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 415 CDI / 515 CDI (Chasis para Carga) Código Original / Similar: 906.540.3917 / 906.905.0601 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5790",
+        "name": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1945MM TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11837",
+        "image": "img/products/Sensores/sensor-abs-trasero-izquierdo-largo-1945mm-trucktec-11837.jpg",
+        "description": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1945MM TRUCKTEC 11837 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 415 CDI / 515 CDI (Chasis para Carga) Código Original / Similar: 906.540.4117 / 906.905.0801 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5791",
+        "name": "SENSOR DE TEMPERATURA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11838",
+        "image": "img/products/Sensores/sensor-de-temperatura-trucktec-11838.jpg",
+        "description": "SENSOR DE TEMPERATURA TRUCKTEC 11838 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA / OM 654 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI / 311 CDI / 314 CDI / 414 CDI / 417 CDI / 517 CDI Código Original / Similar: 000.905.0600 / 000.905.6102 (MB) 004.153.9728 / 099.905.3700 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5792",
+        "name": "SENSOR ABS DELANTERO DERECHO E IZQUIERDO / LARGO 2235MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11842",
+        "image": "img/products/Sensores/sensor-abs-delantero-derecho-e-izquierdo-largo-2235mm-trucktec-11842.jpg",
+        "description": "SENSOR ABS DELANTERO DERECHO E IZQUIERDO / LARGO 2235MM. TRUCKTEC 11842 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 0265004009 (BOSCH) 901.542.0118 / 901.542.0218 (MB) 901.542.0318 / 901.542.0518 (MB) 901.542.1717 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5793",
+        "name": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1830MM TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11843",
+        "image": "img/products/Sensores/sensor-abs-trasero-izquierdo-largo-1830mm-trucktec-11843.jpg",
+        "description": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1830MM TRUCKTEC 11843 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI Código Original / Similar: 0265009338 (BOSCH) 906.540.0117 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5794",
+        "name": "SENSOR ABS TRASERO DERECHO E IZQUIERDO / LARGO 1830MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11845",
+        "image": "img/products/Sensores/sensor-abs-trasero-derecho-e-izquierdo-largo-1830mm-trucktec-11845.jpg",
+        "description": "SENSOR ABS TRASERO DERECHO E IZQUIERDO / LARGO 1830MM. TRUCKTEC 11845 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 0265004010 (BOSCH) 901.542.1117 / 901.542.1817 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5795",
+        "name": "SENSOR PASTILLA FRENO IMP.",
+        "brand": "Imp",
+        "code": "11804",
+        "image": "img/products/Sensores/sensor-pastilla-freno-imp-11804.jpg",
+        "description": "SENSOR PASTILLA FRENO IMP. 11804 Imp Vehículos compatibles: IVECO: Utilitarios DAILY 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 60.13 / DAILY SCUDATTO 35.10 / 49.12 / 60.13 Código Original / Similar: 503120268 / 503120016 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5796",
+        "name": "SENSOR PRESION EN RADIADOR DE ACEITE DE CAJA / M16X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "11519",
+        "image": "img/products/Sensores/sensor-presion-en-radiador-de-aceite-de-caja-m16x1-5-3-rho-11519.jpg",
+        "description": "SENSOR PRESION EN RADIADOR DE ACEITE DE CAJA / M16X1.5 3-RHO 11519 3 Rho Vehículos compatibles: SCANIA: Cajas GR875R / GRS895R / GRS905R / GRSO905R / GRSO925R SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 380 / R 360 / R 400 / R 440 / R 480 / R 560 / R 620 Código Original / Similar: 1.767.616 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5797",
+        "name": "SENSOR ELECTRONICO PRESION AIRE M16X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "11520",
+        "image": "img/products/Sensores/sensor-electronico-presion-aire-m16x1-5-3-rho-11520.jpg",
+        "description": "SENSOR ELECTRONICO PRESION AIRE M16X1.5 3-RHO 11520 3 Rho Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROTRAKKER 720 E42 / STRALIS NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 460 S33T AT / 460 S36T AT / 490 S44T HI-WAY EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 530 S36T AT / 600 S44T AT EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT / 800 S44T AT EUROTRONIC / 800 S44T HI-WAY EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TECTOR 170 E25 / 170 E25T / TECTOR ATTACK 170 E22T / TECTOR ECOLINE 170 E28 / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / TRAKKER 380 T38AD / 410 T38AD / 410 T42AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 380 T48T AT / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 740 T48T AD EUROTRONIC y Bus ECOLINE 170 S28 Código Original / Similar: 41200718 / 504103341 / 504255336 (IVECO) 441.044.102 0 / 441.044.104 0 (Wabco)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5798",
+        "name": "SENSOR ELECTRONICO PRESION AIRE / ABS / EBS M16X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "11521",
+        "image": "img/products/Sensores/sensor-electronico-presion-aire-abs-ebs-m16x1-5-3-rho-11521.jpg",
+        "description": "SENSOR ELECTRONICO PRESION AIRE / ABS / EBS M16X1.5 3-RHO 11521 3 Rho Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 VOLVO: Camiones FH 12 380 / FH 12 420 / FH 12 460 / FM 7 310 / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 y Bus B 9 R / B 12 B / B 12 M Código Original / Similar: 0484.205.006 / 0484.205.007N50 (Knorr) 1.362.168 (SC) 3.173.630 (VOLVO) 5040498819 (RENAULT)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5799",
+        "name": "SENSOR ELECTRONICO PRESION AIRE / SUSPENSIÓN NEUMATICA / M16X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "11522",
+        "image": "img/products/Sensores/sensor-electronico-presion-aire-suspension-neumatica-m16x1-5-3-rho-11522.jpg",
+        "description": "SENSOR ELECTRONICO PRESION AIRE / SUSPENSIÓN NEUMATICA / M16X1.5 3-RHO 11522 3 Rho Vehículos compatibles: MERCEDES BENZ: Bus 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 M 1826 / 0500 U 1826 / 0500 MA 2836 / 0500 RS / 0500 RSD SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 500 V8 / P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / R 480 / RH 480 / RN 480/ R 560 / RH 560 / RH 620 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 / N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 420 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 001.542.1718 / 003.542.2518 (MB) 005.542.5818 (MB) 1.383.410 / 1.448.083 / 1.541.703 (SC) 1.738.460 / 1.781.199 / 2.090.394 (SC) 441.040.007 0 / 441.040.013 0 (Wabco) 441.044.001 0 / 441.044.101 0 (Wabco) 441.044.105 0 (Wabco)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5800",
+        "name": "SENSOR ELECTRONICO PRESION AIRE / EN MODULO EBS / M16X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "11523",
+        "image": "img/products/Sensores/sensor-electronico-presion-aire-en-modulo-ebs-m16x1-5-3-rho-11523.jpg",
+        "description": "SENSOR ELECTRONICO PRESION AIRE / EN MODULO EBS / M16X1.5 3-RHO 11523 3 Rho Vehículos compatibles: SCANIA: Bus K 270 / K 310 / K 340 / K 380 / K 420 / N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 / K 250 / K 280 / K 310 / K 420 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 Código Original / Similar: 1.729.395 / 1.898.652 (SC) 441.044.003 0 / 441.044.103 0 (Wabco)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5801",
+        "name": "SENSOR ELECTRONICO PRESION AIRE / ACEITE / M12X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "11525",
+        "image": "img/products/Sensores/sensor-electronico-presion-aire-aceite-m12x1-5-3-rho-11525.jpg",
+        "description": "SENSOR ELECTRONICO PRESION AIRE / ACEITE / M12X1.5 3-RHO 11525 3 Rho Vehículos compatibles: AGRALE: (Aceite) Bus Agrale MA 9.2 / MA 17.0 / MT 15.0 / MT 17.0 AGRALE: Motores MWM 6.12 TCE / MaxxForce 4.8 MERCEDES BENZ: Aire) Camiones L 1218 EL / L 1318 / LK 1318 / L 1624 / L 1634 EL / LS 1634 EL / 2726 B / 2726 K / ACCELO 915 C / 815 / 1016 / ATEGO 1418 / 1419 / 1720 / 1721 / 1725 / 1726 / 1729 / 2426 / 2730/48 / 2730 B / 2730 K / ATRON 1624 / 1720 / 1634 / 1735 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K / 2036 S / 2041 S / 2533 / 2536 / 2544 / 3341 / 3344 / 3131/48 / 3131 B / 3131 K y Bus LO 915 / LO 916 / OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OF 1724 / OH 1518 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 M 1826 / 0500 U 1826 / 0500 MA 2836 / 0500 RS / 0500 RSD VOLVO: (Aceite) Camiones VM 220 / VM 270 / VM 330 y Bus B 270 F VOLVO: Motores MWM MaxxForce 7.2 Código Original / Similar: 21.538.791 (VOLVO) 7001482C1 (MWM) 979.542.0318 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5802",
+        "name": "CABLE PARA CONVERSION DE SENSOR INDUCTIVO DE 4 TERMINALES REDONDOS A 4 TERMINALES CHATOS SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "11501",
+        "image": "img/products/Sensores/cable-para-conversion-de-sensor-inductivo-de-4-terminales-redondos-a-4-terminales-chatos-sensorauto-11501.jpg",
+        "description": "CABLE PARA CONVERSION DE SENSOR INDUCTIVO DE 4 TERMINALES REDONDOS A 4 TERMINALES CHATOS SENSORAUTO 11501 Sensorauto Vehículos compatibles: UNIVERSAL: Todos los Modelos Código Original / Similar: DE 4 TERMINALES REDONDOS A 4 TERMINALES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5803",
+        "name": "CABLE PARA CONVERSION DE SENSOR INDUCTIVO DE 4 TERMINALES CHATOS A 4 TERMINALES REDONDOS SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "11502",
+        "image": "img/products/Sensores/cable-para-conversion-de-sensor-inductivo-de-4-terminales-chatos-a-4-terminales-redondos-sensorauto-11502.jpg",
+        "description": "CABLE PARA CONVERSION DE SENSOR INDUCTIVO DE 4 TERMINALES CHATOS A 4 TERMINALES REDONDOS SENSORAUTO 11502 Sensorauto Vehículos compatibles: UNIVERSAL: Todos los Modelos Código Original / Similar: DE 4 TERMINALES CHATOS A 4 TERMINALES REDONDOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5804",
+        "name": "FICHA CONEXIÓN SENSOR INDUCTIVO DE 4 TERMINALES CHATOS SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "11503",
+        "image": "img/products/Sensores/ficha-conexion-sensor-inductivo-de-4-terminales-chatos-sensorauto-11503.jpg",
+        "description": "FICHA CONEXIÓN SENSOR INDUCTIVO DE 4 TERMINALES CHATOS SENSORAUTO 11503 Sensorauto Vehículos compatibles: UNIVERSAL: Todos los Modelos Código Original / Similar: PARA CABLES DE 0.5MM. / TERMINALES DE ACERO INOXIDABLE",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5805",
+        "name": "FICHA CONEXIÓN SENSOR INDUCTIVO DE 4 TERMINALES REDONDOS SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "11504",
+        "image": "img/products/Sensores/ficha-conexion-sensor-inductivo-de-4-terminales-redondos-sensorauto-11504.jpg",
+        "description": "FICHA CONEXIÓN SENSOR INDUCTIVO DE 4 TERMINALES REDONDOS SENSORAUTO 11504 Sensorauto Vehículos compatibles: UNIVERSAL: Todos los Modelos Código Original / Similar:",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5806",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 63MM. / 2 PINES REDONDOS IMP.",
+        "brand": "Imp",
+        "code": "11505",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-63mm-2-pines-redondos-imp-11505.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 63MM. / 2 PINES REDONDOS IMP. 11505 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD FORD / VW / CUMMINS / MWM: VW Constellation 17280 Código Original / Similar: 0501328534 (ZF) 2T2/301260 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5807",
+        "name": "SENSOR DE ROTACION DE CIGUEÑAL SENSORAUTO",
+        "brand": "Sensorauto",
+        "code": "11506",
+        "image": "img/products/Sensores/sensor-de-rotacion-de-ciguenal-sensorauto-11506.jpg",
+        "description": "SENSOR DE ROTACION DE CIGUEÑAL SENSORAUTO 11506 Sensorauto Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T Código Original / Similar: 0281002509 (BOSCH) 504005575 (IVECO) CON CABLE DE 25CM Y TOMA DE 3 TERMINALES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5808",
+        "name": "SENSOR DE ROTACION DE CIGUEÑAL IMP.",
+        "brand": "Imp",
+        "code": "11507",
+        "image": "img/products/Sensores/sensor-de-rotacion-de-ciguenal-imp-11507.jpg",
+        "description": "SENSOR DE ROTACION DE CIGUEÑAL IMP. 11507 Imp Vehículos compatibles: AGRALE: Bus AGRALE MA 17.0 AGRALE: Motores MWM 6.12 TCE VOLVO: Camiones VM 210 / VM 260 / VM 310 / VM 220 / VM 270 / VM 330 y Bus B 270 F VOLVO: Motores MWM 4.12 TCE / 6.12 TCE Código Original / Similar: 0281002819 (BOSCH) 961200670034 / 7004042C1 (MWM) CON CABLE DE 50CM Y TOMA DE 3 TERMINALES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5809",
+        "name": "SENSOR DE ROTACION CON CABLE DE 33CM Y TOMA DE 3 TERMINALES CHATOS IMP.",
+        "brand": "Imp",
+        "code": "11508",
+        "image": "img/products/Sensores/sensor-de-rotacion-con-cable-de-33cm-y-toma-de-3-terminales-chatos-imp-11508.jpg",
+        "description": "SENSOR DE ROTACION CON CABLE DE 33CM Y TOMA DE 3 TERMINALES CHATOS IMP. 11508 Imp Vehículos compatibles: AGRALE: Camiones AGRALE 8500 / 9200 y Bus MA 7.5 / MA 8.5 / MA 9.2 / MA 12.0 / MA 12.0 TA / MT 12 / MT 15 AGRALE: Motores MWM 4.12 TCE / 6.12 TCE FORD / VW / CUMMINS / MWM: Ford 915e / 1317e / 1517e / 1722e / F 100 (+06) / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE / 6.12 TCE FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E 26260 E y Bus 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR STRADALE 240 E25S / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S / 260 E28 / 260 E30 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / TRAKKER 380 T50 AT / VERTIS 90 V16 / 130 V18 / VERTIS ECOLINE 90 V18 / 130 V19 y Bus CC 118 E22 GNC / CC 118 E22 / CC 170 E22 / 170 S28 Código Original / Similar: 0281002411 (BOSCH) 2R0/906433/A / 2R0/906433/C (VW) 4890190 (Cummins) 4890190 (IVECO) 961200670024E (MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5810",
+        "name": "ENCHUFE HEMBRA 4 PINES REDONDOS SENSOR INDUCTIVO / USOS VARIOS UGR",
+        "brand": "UGR",
+        "code": "11448",
+        "image": "img/products/Sensores/enchufe-hembra-4-pines-redondos-sensor-inductivo-usos-varios-ugr-11448.jpg",
+        "description": "ENCHUFE HEMBRA 4 PINES REDONDOS SENSOR INDUCTIVO / USOS VARIOS UGR 11448 UGR Vehículos compatibles: MERCEDES BENZ: Cajas MB G 60-6 / G 85-6 / G 210-16 / G 211-16 / G 221-9 / G 240-16 / Cajas EATON FS-8209-A MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / 1718 M / 1728/51 / LS 1938 EL / 1938 S / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 Código Original / Similar: 002.540.2381 / 356.540.0281 (MB) SE USA CON SENSOR COD. SILVA 6105 / 6042",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5811",
+        "name": "SENSOR MAP / 3 PINES TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11413",
+        "image": "img/products/Sensores/sensor-map-3-pines-trucktec-11413.jpg",
+        "description": "SENSOR MAP / 3 PINES TRUCKTEC 11413 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Código Original / Similar: 005.153.7228 / 004.153.3128 (MB) 006.153.1428 / 006.153.9828 (MB) 0261.230.191 (BOSCH)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5812",
+        "name": "SENSOR PRESION ACEITE/COMBUSTIBLE / M18 X 1.5 / 15.0 BAR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11421",
+        "image": "img/products/Sensores/sensor-presion-aceite-combustible-m18-x-1-5-15-0-bar-trucktec-11421.jpg",
+        "description": "SENSOR PRESION ACEITE/COMBUSTIBLE / M18 X 1.5 / 15.0 BAR TRUCKTEC 11421 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/130758/B / 07W/130758/H (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5813",
+        "name": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1665MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11115",
+        "image": "img/products/Sensores/sensor-abs-trasero-izquierdo-largo-1665mm-trucktec-11115.jpg",
+        "description": "SENSOR ABS TRASERO IZQUIERDO / LARGO 1665MM. TRUCKTEC 11115 Trucktec Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 515 CDI / 516 CDI Código Original / Similar: 906.540.4317 / 906.905.1001 (MB) 906.905.3701 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5814",
+        "name": "SENSOR TEMPERATURA PT200 TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11124",
+        "image": "img/products/Sensores/sensor-temperatura-pt200-trucktec-11124.jpg",
+        "description": "SENSOR TEMPERATURA PT200 TRUCKTEC 11124 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 34 / D08 36 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 / 17280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/906529/B (VW) LARGO 667MM. / 2 PINES REDONDOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5815",
+        "name": "SENSOR PRESION ADMISION DE AIRE / MAP / 4 PINES CHATOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11125",
+        "image": "img/products/Sensores/sensor-presion-admision-de-aire-map-4-pines-chatos-trucktec-11125.jpg",
+        "description": "SENSOR PRESION ADMISION DE AIRE / MAP / 4 PINES CHATOS TRUCKTEC 11125 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 34 / D08 36 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 / 17280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT IVECO: Camiones EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S38 / AT 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 570 S38T / TRAKKER 380 T38 / 380 T42 / 720 T42T Código Original / Similar: 0281002233 (BOSCH) 0281002655 / 0281002257 (BOSCH) 07W/130758 (VW) 1.697.325 / 1.789.364 (SC) 500360579 / 98496568 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5816",
+        "name": "SENSOR PRESION ACEITE / 3 PINES REDONDOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11126",
+        "image": "img/products/Sensores/sensor-presion-aceite-3-pines-redondos-trucktec-11126.jpg",
+        "description": "SENSOR PRESION ACEITE / 3 PINES REDONDOS TRUCKTEC 11126 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 34 / D08 36 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 / 17280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/130758/A (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5817",
+        "name": "SENSOR TEMPERATURA ADMISION DE AIRE / 2 PINES REDONDOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11127",
+        "image": "img/products/Sensores/sensor-temperatura-admision-de-aire-2-pines-redondos-trucktec-11127.jpg",
+        "description": "SENSOR TEMPERATURA ADMISION DE AIRE / 2 PINES REDONDOS TRUCKTEC 11127 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 34 / D08 36 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT Código Original / Similar: 07W/906529/A / 07W/130758/E (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5818",
+        "name": "SENSOR TEMPERATURA ESCAPE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11102",
+        "image": "img/products/Sensores/sensor-temperatura-escape-trucktec-11102.jpg",
+        "description": "SENSOR TEMPERATURA ESCAPE TRUCKTEC 11102 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI Código Original / Similar: 000.905.6404 / 008.153.2228 (MB) A2C59507498Z (VDO) SONDA LAMBDA / 2 PINES",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5819",
+        "name": "SENSOR DE VELOCIDAD / RPM DE MOTOR ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "11076",
+        "image": "img/products/Sensores/sensor-de-velocidad-rpm-de-motor-engine-parts-11076.jpg",
+        "description": "SENSOR DE VELOCIDAD / RPM DE MOTOR ENGINE PARTS 11076 Engine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 / ISBe6 Código Original / Similar: 3967252 / 3971995 (Cummins) 4938613 / 3971994 (Cummins)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5820",
+        "name": "VALVULA CONTROL CALEFACCION / SENSOR DE 5 PINES TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10966",
+        "image": "img/products/Sensores/valvula-control-calefaccion-sensor-de-5-pines-tf-p-technology-10966.jpg",
+        "description": "VALVULA CONTROL CALEFACCION / SENSOR DE 5 PINES TF&P TECHNOLOGY 10966 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 500 V8 Código Original / Similar: 1.793.197 / 1.741.027 / 2.160.199 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5821",
+        "name": "SENSOR PRESION COMANDO HIDRAULICO DE CAMBIO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10912",
+        "image": "img/products/Sensores/sensor-presion-comando-hidraulico-de-cambio-tf-p-technology-10912.jpg",
+        "description": "SENSOR PRESION COMANDO HIDRAULICO DE CAMBIO TF&P TECHNOLOGY 10912 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones ACTROS 1841 / 1846 / 2041 / 2042 / 2044 / 2046 / 2048 / 2636 / 2645 / 2646 / 2651 / 2655 / 3336 B / 3336 K / 3341 K / 3342 / 3344 B / 3344 K / 4144 K / 4844 K / AROCS 3342 K / 4136 B / 4845 K Código Original / Similar: 970.542.0018 / 970.542.0218 (MB) / M10 X 1.5 / PRESION MAX. 20 BAR / 3 PINES REDONDOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5822",
+        "name": "SENSOR NIVEL ALTURA / 3 PINES TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10909",
+        "image": "img/products/Sensores/sensor-nivel-altura-3-pines-tf-p-technology-10909.jpg",
+        "description": "SENSOR NIVEL ALTURA / 3 PINES TF&P TECHNOLOGY 10909 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 / VM 220 / VM 270 / VM 330 y Bus B 7 R / B 11 R / B 12 M Código Original / Similar: 21.253.672 / 21.643.575 (VOLVO) 21.585.711 / 20.583.428 (VOLVO) 22.194.741 (VOLVO) 7421643575 / 7422194741 (RENAULT)",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P5823",
+        "name": "SENSOR INDUCTIVO PARA TACOGRAFO 90MM. IMP.",
+        "brand": "Imp",
+        "code": "10659",
+        "image": "img/products/Sensores/sensor-inductivo-para-tacografo-90mm-imp-10659.jpg",
+        "description": "SENSOR INDUCTIVO PARA TACOGRAFO 90MM. IMP. 10659 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 (con Tacografos Electronicos TCO 1318) Código Original / Similar: 0501208795 (ZF) 1.662.768 (VOLVO) 2T0/927803 (VW) 93191481 / 4854770 (IVECO) 4 TERMINALES CHATOS",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5824",
+        "name": "SENSOR NIVEL DE AGUA RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "10432",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-reserplastic-10432.jpg",
+        "description": "SENSOR NIVEL DE AGUA RESERPLASTIC 10432 Reserplastic Vehículos compatibles: AGRALE: Bus AGRALE E-TRONIC MA 7.5 / MA 7.9 / MA 8.5 / MA 9.2 / MA 10.0 / MA 12.0 / MA 12.0 LE CA / MA 15.0 Código Original / Similar: 6008011021000 (AGRALE)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5825",
+        "name": "SENSOR GIRO CIGUEÑAL / FICHA 2 PINES CHATOS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10159",
+        "image": "img/products/Sensores/sensor-giro-ciguenal-ficha-2-pines-chatos-tf-p-technology-10159.jpg",
+        "description": "SENSOR GIRO CIGUEÑAL / FICHA 2 PINES CHATOS TF&P TECHNOLOGY 10159 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 / 17280 / 26280 / 31280 y Bus 15190 OD / 17230 OD / 17280 OT / 18280 OT IVECO: Camiones STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AD EUROTRONIC / 200 S36T AT EUROTRONIC / 200 S40 AT / 200 S44 AT / 200 A44 AT EUROTRONIC / 400 S33T AT ECOLINE / 460 S36T AT / 460 S36T AT EUROTRONIC / 490 S40T AT / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 530 S36T AT / 530 S36T AT EUROTRONIC / 600 S40T AT / 600 S40T AT EUROTRONIC / 600 S44T AS EUROTRONIC / 600 S44T AT / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT / 800 S44T AT EUROTRONIC / 800 S44T HI-WAY EUROTRONIC / 800 S48T AS / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 410 T42 AD / TRAKKER ECOLINE 310 T36 AD / 380 T44 AD / 380 T44 AT EUROTRONIC / 380 T50 AT / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC RENAULT: Camiones PREMIUM / MAGNUM / KERAX / MIDLUM (DXI 11 / 13 Litros) VOLVO: Camiones FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 13 400 / FM 13 440 / FM 330 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 330 / FMX 370 / FMX 420 / FMX 460 / FMX 480 / FMX 520 (Todos 2005-2012) y Bus B 7 R / B 11 R / B 12 R / B 13 R Código Original / Similar: 07W/927803 (VW) 20.513.343 / 21.426.987 (VOLVO) 5010412449 / 7420513343 / 74214269087 (RENAULT) 504096645 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5826",
+        "name": "SENSOR PRESION DE ACEITE / 3 PINES TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10070",
+        "image": "img/products/Sensores/sensor-presion-de-aceite-3-pines-tf-p-technology-10070.jpg",
+        "description": "SENSOR PRESION DE ACEITE / 3 PINES TF&P TECHNOLOGY 10070 Tfp Technology Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37 HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / TRAKKER 380 T38 / 380 T42 Código Original / Similar: 504084761 / 99484667 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5827",
+        "name": "SENSOR PASTILLA DE FRENO DELANTERA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10047",
+        "image": "img/products/Sensores/sensor-pastilla-de-freno-delantera-tf-p-technology-10047.jpg",
+        "description": "SENSOR PASTILLA DE FRENO DELANTERA TF&P TECHNOLOGY 10047 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 906.540.1517 (MB) LARGO TOTAL 103MM. / 2 TERMINALES HEMBRA",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5828",
+        "name": "SENSOR PASTILLA DE FRENO TRASERA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10046",
+        "image": "img/products/Sensores/sensor-pastilla-de-freno-trasera-tf-p-technology-10046.jpg",
+        "description": "SENSOR PASTILLA DE FRENO TRASERA TF&P TECHNOLOGY 10046 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Código Original / Similar: 906.540.1317 / 907.905.7103 (MB) LARGO TOTAL 120MM. / 2 TERMINALES HEMBRA",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5829",
+        "name": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR 5V. F.S.S",
+        "brand": "F S S",
+        "code": "10013",
+        "image": "img/products/Sensores/valvula-4-circuitos-apu-knorr-con-sensor-5v-f-s-s-10013.jpg",
+        "description": "VALVULA 4 CIRCUITOS APU KNORR CON SENSOR 5V. F.S.S 10013 F S S Vehículos compatibles: IVECO: Camiones EUROCARGO 180 E30 / TECTOR 170 E25 / 240 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 AD / 410 T38 AD / STRALIS AT 200 S42 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Valvulas KNORR ZB4734 / K043830_x000D_ Valvulas IVECO 5801414923 Código Original / Similar: AE4560 / K048307N50 (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5830",
+        "name": "SENSOR NIVEL DE AGUA CIPEC",
+        "brand": "Cipec",
+        "code": "0575",
+        "image": "img/products/Sensores/sensor-nivel-de-agua-cipec-0575.jpg",
+        "description": "SENSOR NIVEL DE AGUA CIPEC 0575 Cipec Vehículos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 1.304.725 / 1.325.528 / 241.223 (SC) 309.064 / 397.929 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5831",
+        "name": "SENSOR VELOCIDAD DE CAJA / 2 TERMINALES / 34MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "0576",
+        "image": "img/products/Sensores/sensor-velocidad-de-caja-2-terminales-34mm-tf-p-technology-0576.jpg",
+        "description": "SENSOR VELOCIDAD DE CAJA / 2 TERMINALES / 34MM. TF&P TECHNOLOGY 0576 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 113 / F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 395.641 / 264.816 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5832",
+        "name": "SENSOR PRESION / TEMPERATURA ADMISION DE AIRE ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "0577",
+        "image": "img/products/Sensores/sensor-presion-temperatura-admision-de-aire-engine-parts-0577.jpg",
+        "description": "SENSOR PRESION / TEMPERATURA ADMISION DE AIRE ENGINE PARTS 0577 Engine Parts Vehículos compatibles: AGRALE: Bus MT 12.0 FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: VW 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / Constellation 17250 E y Bus 9150 EOD IVECO: Camiones EUROCARGO 160 E18 GNC / 180 E30 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T HR / ATN 490 S42T / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / 200 S38 NR / 200 S41 NR / 200 S46 NR / 490 S38T NR / 490 S38T HR NR / 490 S39T NR / 490 S41T NR / 490 S41T HR NR / 490 S46T NR / 490 S46T HR NR / 570 S38T NR / 570 S41T NR / 570 S46T NR / 740 S41TZ NR / 740 S46TZ NR / ECOLINE 200 S40 AT / ECOLINE EUROTRONIC 200 S36 AD / 200 S44 AT / ECOLINE HI-ROAD 200 S44T / 200 S36 / 460 S36T / 530 S36T / 600 S44T / ECOLINE HI-ROAD EUROTRONIC 490 S40T / 490 S44T / 600 S40T / 600 S44TZ / 800 S44TZ / 800 S48TZ / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 410 T42 AD / 720 T42T / VERTIS 90 V16 / 130 V18 y Bus CC118 E18 GNC / CC118 E22 / CC170 E22 VOLVO: Camiones FM 9 380 / FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 y Bus B 7 R / B 9 R / B 11 R / B 12 R Código Original / Similar: 0261230099 / 0281002576 / 0281006102 (BOSCH) 20524936 / 22320906 (VOLVO) 2S0/906051 (VW) 3968437 (Cummins) 5010437653 / 5010450894 / 7420524936 (RENAULT) 504073323 (IVECO) 504372225 (IVECO) BG5X/9D290/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5833",
+        "name": "SENSOR TEMPERATURA VDO",
+        "brand": "Vdo",
+        "code": "0554",
+        "image": "img/products/Sensores/sensor-temperatura-vdo-0554.jpg",
+        "description": "SENSOR TEMPERATURA VDO 0554 Vdo Vehículos compatibles: IVECO: Daily 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 50.13 / 59.12 / 60.12 / 60.13 / 70.12 / 70.13 / Daily Scudatto 35.10 / 49.12 / 59.12 / 60.12 / 60.13 y Bus City Class Código Original / Similar: 4837950 / 504127558 / 503641845 (IVECO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P5834",
+        "name": "SENSOR DESGASTE PASTILLA DE FRENOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "0305",
+        "image": "img/products/Sensores/sensor-desgaste-pastilla-de-frenos-trucktec-0305.jpg",
+        "description": "SENSOR DESGASTE PASTILLA DE FRENOS TRUCKTEC 0305 Trucktec Vehículos compatibles: MERCEDES BENZ: Motores MB OM 654 LA MERCEDES BENZ: Utilitarios SPRINTER 311 CDI / 314 CDI / 414 CDI / 417 CDI / 517 CDI Código Original / Similar: 907.905.7103 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5835",
+        "name": "SOPORTE FILTRO COMBUSTIBLE CON AGUJERO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9964",
+        "image": "img/products/Sensores/soporte-filtro-combustible-con-agujero-tf-p-technology-9964.jpg",
+        "description": "SOPORTE FILTRO COMBUSTIBLE CON AGUJERO TF&P TECHNOLOGY 9964 Tfp Technology Vehículos compatibles: RENAULT: Camiones RENAULT DXI VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 9 380 / FM 10 320 / FM 10 360 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 / NH 12 380 / NH 12 420 / NH 12 460 Código Original / Similar: 20.509.138 / 21.023.287 / 20.733.422 (VOLVO) 20.783.917 / 20.784.692 / 20.873.675 (VOLVO) 21.900.852 (VOLVO) 7421023287 / 7421900852 (RENAULT) SIN SENSOR",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P5836",
+        "name": "TAPA FILTRO COMBUSTIBLE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9965",
+        "image": "img/products/Sensores/tapa-filtro-combustible-tf-p-technology-9965.jpg",
+        "description": "TAPA FILTRO COMBUSTIBLE TF&P TECHNOLOGY 9965 Tfp Technology Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 9 380 / FM 10 320 / FM 10 360 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 / NH 12 380 / NH 12 420 / NH 12 460 Código Original / Similar: 20.808.386 / 20.875.073 (VOLVO) CON SENSOR Y CALENTADOR TIPO RACOR / ROSCA 79MM. EXTERIOR / FICHA 6 PINES",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P5837",
+        "name": "SOPORTE FILTRO COMBUSTIBLE SIN AGUJERO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9967",
+        "image": "img/products/Sensores/soporte-filtro-combustible-sin-agujero-tf-p-technology-9967.jpg",
+        "description": "SOPORTE FILTRO COMBUSTIBLE SIN AGUJERO TF&P TECHNOLOGY 9967 Tfp Technology Vehículos compatibles: RENAULT: Camiones RENAULT DXI VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 9 380 / FM 10 320 / FM 10 360 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 / NH 12 380 / NH 12 420 / NH 12 460 Código Original / Similar: 20.509.138 / 21.023.287 / 20.733.422 (VOLVO) 20.783.917 / 20.784.692 / 20.873.675 (VOLVO) 21.900.852 (VOLVO) 7421023287 / 7421900852 (RENAULT) CON SENSOR",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P5838",
+        "name": "VALVULA PROTECTORA 4 CIRCUITOS KNORR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9443",
+        "image": "img/products/Sensores/valvula-protectora-4-circuitos-knorr-tf-p-technology-9443.jpg",
+        "description": "VALVULA PROTECTORA 4 CIRCUITOS KNORR TF&P TECHNOLOGY 9443 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Buses 0500 RS / 0500 RSD MERCEDES BENZ: Para Válvulas MERCEDES BENZ 958.431.0015 MERCEDES BENZ: Para Vávlulas KNORR K035723 Código Original / Similar: 004.431.0406 (MB) K014440/S (Knorr) CON SENSORES",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5839",
+        "name": "EMISOR DE IMPULSOS AL TACOGRAFO 4 ENCHUFES REDONDOS (TCO 1318) R22 X 1.5 MM. VDO",
+        "brand": "Vdo",
+        "code": "7239",
+        "image": "img/products/Sensores/emisor-de-impulsos-al-tacografo-4-enchufes-redondos-tco-1318-r22-x-1-5-mm-vdo-7239.jpg",
+        "description": "EMISOR DE IMPULSOS AL TACOGRAFO 4 ENCHUFES REDONDOS (TCO 1318) R22 X 1.5 MM. VDO 7239 Vdo Vehículos compatibles: VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 6781222 (VOLVO)",
+        "rubro": "SENSOR DE VELOCIDADE"
+    },
+    {
+        "id": "P5840",
+        "name": "VALVULA SELENOIDE O PROPORCIONAL TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10965",
+        "image": "img/products/Sensores/valvula-selenoide-o-proporcional-tf-p-technology-10965.jpg",
+        "description": "VALVULA SELENOIDE O PROPORCIONAL TF&P TECHNOLOGY 10965 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 500 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 1.542.139 / 1.856.309 (SC) 1.756.046 / 2.021.084 (SC) RECIRCULACION GASES DE ESCAPE / SENSOR 2 PINES",
+        "rubro": "ELECTRICIDAD"
     }
 ];
 
