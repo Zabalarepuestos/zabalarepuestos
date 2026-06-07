@@ -21,6 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
     renderProductDetail(product, productDetailContainer);
 });
 
+const FALLBACK_IMAGE = 'img/products/imagen-proximamente.png';
+
 const STOP_WORDS = new Set([
     'para', 'con', 'sin', 'del', 'las', 'los', 'una', 'uno', 'por', 'tipo',
     'jgo', 'juego', 'repuesto', 'repuestos', 'motor', 'marca', 'varios',
@@ -359,7 +361,7 @@ function renderRelatedProducts(product) {
     const cards = relatedProducts.map(related => `
         <a class="related-product-card" href="producto.html?id=${escapeHtml(related.id)}" title="${escapeHtml(related.name)}">
             <div class="related-product-image">
-                <img src="${escapeHtml(related.image || 'img/no-image.jpg')}" alt="${escapeHtml(related.name)}" loading="lazy" decoding="async" onerror="this.src='img/no-image.jpg'">
+                <img src="${escapeHtml(related.image || FALLBACK_IMAGE)}" alt="${escapeHtml(related.name)}" loading="lazy" decoding="async" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}'">
             </div>
             <div class="related-product-info">
                 <span>${escapeHtml(related.brand || '')}</span>
@@ -395,7 +397,7 @@ function renderProductDetail(product, container) {
         
         <div class="product-detail-container">
             <div class="product-detail-img-container">
-                <img src="${escapeHtml(product.image || 'img/no-image.jpg')}" alt="${escapeHtml(product.name)}" class="product-detail-img" onerror="this.src='img/no-image.jpg'">
+                <img src="${escapeHtml(product.image || FALLBACK_IMAGE)}" alt="${escapeHtml(product.name)}" class="product-detail-img" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}'">
             </div>
             
             <div class="product-detail-info">

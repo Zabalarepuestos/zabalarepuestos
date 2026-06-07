@@ -16,7 +16,7 @@
     const SEARCH_DEBOUNCE_MS = 180;
     const INDEX_CHUNK_SIZE = 40;
     const INDEX_CHUNK_BUDGET_MS = 5;
-    const FALLBACK_IMAGE = 'parts_image.png';
+    const FALLBACK_IMAGE = 'img/products/imagen-proximamente.png';
     const FILTER_BRANDS = ["Mercedes Benz", "Ford", "Iveco", "Scania", "Volkswagen", "Sprinter"];
     let searchTimer = null;
     let currentProducts = [];
@@ -134,12 +134,23 @@
         ["mb", ["mercedes benz"]]
     ]);
 
+    const gearboxContextTerms = ["zf", "eaton"];
+    const SEARCH_STOP_WORDS = new Set([
+        "de", "del", "la", "las", "el", "los", "para", "por", "con", "sin", "y", "o", "a", "al", "en"
+    ]);
+
     function termAlternatives(term) {
         const alternatives = [term];
         const synonyms = querySynonyms.get(term);
 
         if (synonyms) {
             alternatives.push(...synonyms.map(normalizeText));
+        }
+
+        if (term.length > 3 && term.endsWith('s')) {
+            alternatives.push(term.slice(0, -1));
+        } else if (term.length > 3) {
+            alternatives.push(`${term}s`);
         }
 
         return [...new Set(alternatives)].map(text => ({
@@ -217,6 +228,8 @@
         const strongSearchText = `${strongText} ${aliasesToAdd.join(' ')}`.trim();
         const nameText = normalizeText(product.name);
         const codeText = normalizeText(`${product.code || ''} ${product.originalCode || ''}`);
+        const rubroText = normalizeText(product.rubro);
+        const descriptionText = normalizeText(product.description);
 
         const indexedProduct = {
             product,
@@ -232,6 +245,10 @@
             nameCompact: nameText.replace(/\s+/g, ''),
             codeText,
             codeCompact: codeText.replace(/\s+/g, ''),
+            rubroText,
+            rubroCompact: rubroText.replace(/\s+/g, ''),
+            descriptionText,
+            descriptionCompact: descriptionText.replace(/\s+/g, ''),
             brandText: normalizeText(product.brand),
             brandLower: String(product.brand || '').toLowerCase(),
             categoryText,
@@ -262,14 +279,18 @@
     function createQueryIndex(query) {
         const text = normalizeText(query);
         const compact = text.replace(/\s+/g, '');
+        const rawTerms = text ? text.split(' ') : [];
+        const usefulTerms = rawTerms.filter(term => !SEARCH_STOP_WORDS.has(term));
+        const terms = usefulTerms.length > 0 ? usefulTerms : rawTerms;
+
         return {
             text,
             compact,
-            terms: text ? text.split(' ').map(term => ({
+            terms: terms.map(term => ({
                 text: term,
                 compact: term.replace(/\s+/g, ''),
                 alternatives: termAlternatives(term)
-            })) : []
+            }))
         };
     }
 
@@ -309,15 +330,70 @@
         return Boolean(queryIndex.text && includesTerm(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex.text, queryIndex.compact));
     }
 
+    function queryTermMatchesField(fieldText, fieldCompact, term) {
+        return term.alternatives.some(alternative =>
+            includesTerm(fieldText, fieldCompact, alternative.text, alternative.compact)
+        );
+    }
+
+    function queryTermsEveryField(fieldText, fieldCompact, queryIndex) {
+        if (!queryIndex.text) return true;
+
+        return queryIndex.terms.every(term => queryTermMatchesField(fieldText, fieldCompact, term));
+    }
+
+    function queryTermsSomeField(fieldText, fieldCompact, queryIndex) {
+        if (!queryIndex.text) return false;
+
+        return queryIndex.terms.some(term => queryTermMatchesField(fieldText, fieldCompact, term));
+    }
+
+    function termPositionInField(fieldText, fieldCompact, term) {
+        let bestPosition = Number.POSITIVE_INFINITY;
+
+        term.alternatives.forEach(alternative => {
+            const textPosition = fieldText.indexOf(alternative.text);
+            if (textPosition >= 0) bestPosition = Math.min(bestPosition, textPosition);
+
+            const compactPosition = fieldCompact.indexOf(alternative.compact);
+            if (compactPosition >= 0) bestPosition = Math.min(bestPosition, compactPosition);
+        });
+
+        return bestPosition;
+    }
+
+    function orderedTermPenalty(fieldText, fieldCompact, queryIndex) {
+        if (!queryIndex.text) return 0;
+
+        const positions = queryIndex.terms.map(term => termPositionInField(fieldText, fieldCompact, term));
+        if (positions.some(position => !Number.isFinite(position))) return 60;
+
+        const isOrdered = positions.every((position, index) => index === 0 || position >= positions[index - 1]);
+        const firstPosition = Math.min(...positions);
+
+        return (isOrdered ? 0 : 24) + Math.min(firstPosition, 40);
+    }
+
+    function matchedTermCount(indexedProduct, queryIndex) {
+        if (!queryIndex.text) return 0;
+
+        return queryIndex.terms.filter(term =>
+            queryTermMatchesField(indexedProduct.searchText, indexedProduct.searchCompact, term)
+        ).length;
+    }
+
     function searchScore(indexedProduct, queryIndex) {
         if (!queryIndex.text) return 0;
 
         if (exactCodeMatches(indexedProduct, queryIndex)) return 0;
-        if (exactNameMatches(indexedProduct, queryIndex)) return 1;
-        if (matchesStrongSearchQuery(indexedProduct, queryIndex)) return 2;
-        if (includesTerm(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex.text, queryIndex.compact)) return 3;
-        if (matchesSearchQuery(indexedProduct, queryIndex)) return 4;
-        return 6;
+        if (exactNameMatches(indexedProduct, queryIndex)) return 8 + orderedTermPenalty(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex);
+        if (queryTermsEveryField(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex)) return 20 + orderedTermPenalty(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex);
+        if (queryTermsEveryField(indexedProduct.codeText, indexedProduct.codeCompact, queryIndex)) return 30;
+        if (matchesStrongSearchQuery(indexedProduct, queryIndex)) return 45 + orderedTermPenalty(indexedProduct.strongSearchText, indexedProduct.strongSearchCompact, queryIndex);
+        if (queryTermsEveryField(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex)) return 85 + orderedTermPenalty(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex);
+        if (includesTerm(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex.text, queryIndex.compact)) return 105;
+        if (matchesSearchQuery(indexedProduct, queryIndex)) return 125;
+        return 220 - matchedTermCount(indexedProduct, queryIndex);
     }
 
     function optionLabel(label, count) {
@@ -407,6 +483,7 @@
         const engineLabels = [];
         const truckLabels = [];
         const vehicleQueries = [];
+        const gearboxQueries = [];
 
         engineQueries.forEach(engine => {
             if (queryContainsAlias(queryIndex, engine.query)) {
@@ -425,12 +502,21 @@
             }
         });
 
+        gearboxContextTerms.forEach(term => {
+            const termQuery = createQueryIndex(term);
+            if (queryContainsAlias(queryIndex, termQuery)) {
+                gearboxQueries.push(termQuery);
+                productText = removeAliasFromQuery(productText, termQuery);
+            }
+        });
+
         return {
             originalQuery: queryIndex,
             productQuery: createQueryIndex(productText),
             engineLabels: [...new Set(engineLabels)],
             truckLabels: [...new Set(truckLabels)],
-            vehicleQueries
+            vehicleQueries,
+            gearboxQueries
         };
     }
 
@@ -439,14 +525,21 @@
             searchContext.engineLabels.some(label => indexedProduct.engineLabels.includes(label));
         const truckMatch = searchContext.truckLabels.length === 0 ||
             searchContext.truckLabels.some(label => indexedProduct.truckLabels.includes(label));
+        const gearboxMatch = !searchContext.gearboxQueries || searchContext.gearboxQueries.length === 0 ||
+            searchContext.gearboxQueries.some(query => matchesSearchQuery(indexedProduct, query));
 
-        return engineMatch && truckMatch;
+        return engineMatch && truckMatch && gearboxMatch;
     }
 
     function vehicleSearchScore(indexedProduct, searchContext) {
-        if (!searchContext.vehicleQueries.length) return 0;
+        const contextQueries = [
+            ...searchContext.vehicleQueries,
+            ...(searchContext.gearboxQueries || [])
+        ];
 
-        const scores = searchContext.vehicleQueries.map(vehicleQuery => {
+        if (!contextQueries.length) return 0;
+
+        const scores = contextQueries.map(vehicleQuery => {
             if (includesTerm(indexedProduct.strongText, indexedProduct.strongCompact, vehicleQuery.text, vehicleQuery.compact)) return 0;
             if (includesTerm(indexedProduct.baseText, indexedProduct.baseCompact, vehicleQuery.text, vehicleQuery.compact)) return 1;
             return 2;
@@ -741,7 +834,9 @@
         const searchIndex = searchContext.productQuery;
         const engineIndex = createQueryIndex(selectedEngine);
         const scoreIndex = searchIndex.text ? searchIndex : engineIndex;
-        const hasImplicitVehicle = searchContext.engineLabels.length > 0 || searchContext.truckLabels.length > 0;
+        const hasImplicitVehicle = searchContext.engineLabels.length > 0 ||
+            searchContext.truckLabels.length > 0 ||
+            searchContext.gearboxQueries.length > 0;
         const shouldLimitInitialView = !searchIndex.text && !engineIndex.text && !selectedTruck && !selectedCategory && !selectedBrand && !hasImplicitVehicle;
 
         const baseMatches = indexedProducts.filter(indexedProduct => {
