@@ -50791,6 +50791,1941 @@ const products = [
         "image": "img/products/Sensores/valvula-selenoide-o-proporcional-tf-p-technology-10965.jpg",
         "description": "VALVULA SELENOIDE O PROPORCIONAL TF&P TECHNOLOGY 10965 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 500 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Código Original / Similar: 1.542.139 / 1.856.309 (SC) 1.756.046 / 2.021.084 (SC) RECIRCULACION GASES DE ESCAPE / SENSOR 2 PINES",
         "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5841",
+        "name": "REP. VALVULA COMANDO PILOTO ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "9548",
+        "image": "img/products/Caja ZF/rep-valvula-comando-piloto-zf-quinelato-9548.jpg",
+        "description": "REP. VALVULA COMANDO PILOTO ZF QUINELATO 9548 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-151 OD / 16S-221 OD / 16S-2280 TO IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T RENAULT: Camiones RENAULT PREMIUM RENAULT: Válvulas ZF 6038.202.043 Código Original / Similar: 2T2/301367/R (VW) 42538044/R (IVECO) QA-932S (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5842",
+        "name": "REP. CILINDRO ALTA Y BAJA CAJA DE CAMBIOS ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "9555",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-caja-de-cambios-zf-quinelato-9555.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA CAJA DE CAMBIOS ZF QUINELATO 9555 Quinelato Vehículos compatibles: IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T HR / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Cilindros ZF 1316.312.015 IVECO: Para Cajas ZF 16S-221 / 16S-2280 TO / 16S-2320 TD / 16S-2321 TD / 16S-2325 TD / 16S-2520 TO / 16S-2525 TO Código Original / Similar: + 0634.313.018 (ZF) + 0634.313.320 + 1315.312.034 (ZF) 0750.112.131 + 0750.112.177 (ZF) QA-956 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5843",
+        "name": "REP. SERVO SHIFT ZF / MEDIANO QUINELATO",
+        "brand": "Quinelato",
+        "code": "9559",
+        "image": "img/products/Caja ZF/rep-servo-shift-zf-mediano-quinelato-9559.jpg",
+        "description": "REP. SERVO SHIFT ZF / MEDIANO QUINELATO 9559 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 6S-1010 BO / 6S-1000 TO FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.216.319 FORD / VW / CUMMINS / MWM: VW Constellation 17280 y Bus 17230 OD / 17280 OT MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 MERCEDES BENZ: Servo Shift ZF 0501.216.319 Código Original / Similar: 0501.216.319R (ZF) QA-1916BO (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5844",
+        "name": "REP. SERVO SHIFT ZF / GRANDE QUINELATO",
+        "brand": "Quinelato",
+        "code": "9517",
+        "image": "img/products/Caja ZF/rep-servo-shift-zf-grande-quinelato-9517.jpg",
+        "description": "REP. SERVO SHIFT ZF / GRANDE QUINELATO 9517 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1455 / 16S-1585 TD / 16S-1685 TD FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.216.322 FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 25360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-221 / 16S-2520 TD / 16S-2521 TO / 16S-2525 TO / 16S-2523 TO / 16S-2321 TD / 16S-2325 TD / 16S-2320 TD / 16S-2280 TO IVECO: Camiones CURSOR ECOLINE 450C33 / EUROTECH 440 E42T / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200S36 AD / 200 S36 AT / 200 S40 AT / 460 S33 AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / TRAKKER 380 T38 / 380 T42 / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T44 AD / 410 T48 AD / 740 T48T AD IVECO: Servo Shift ZF 0501.211.805 / 0501.217.928 RENAULT: Cajas ZF 16S-2220 TD / 16S-2180 TO RENAULT: Camiones RENAULT PREMIUM RENAULT: Servo Shift ZF 0501.211.290 Código Original / Similar: QA-1916 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5845",
+        "name": "REP. SERVO SHIFT ZF / CHICO QUINELATO",
+        "brand": "Quinelato",
+        "code": "9518",
+        "image": "img/products/Caja ZF/rep-servo-shift-zf-chico-quinelato-9518.jpg",
+        "description": "REP. SERVO SHIFT ZF / CHICO QUINELATO 9518 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 6S-1010 BO / 6S-1000 TO FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.217.253 FORD / VW / CUMMINS / MWM: VW Constellation 17280 y Bus 17230 OD / 17280 OT MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 MERCEDES BENZ: Servo Shift ZF 0501.217.253 Código Original / Similar: QA-1916M (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5846",
+        "name": "VALVULA COMANDO PILOTO ZF F.S.S",
+        "brand": "F S S",
+        "code": "5467",
+        "image": "img/products/Caja ZF/valvula-comando-piloto-zf-f-s-s-5467.jpg",
+        "description": "VALVULA COMANDO PILOTO ZF F.S.S 5467 F S S Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-151 OD / 16S-221 OD / 16S-2280 TO IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T RENAULT: Camiones RENAULT PREMIUM RENAULT: Válvulas ZF 6038.202.043 Código Original / Similar: 2T2/301367 (VW) 42538044 (IVECO) 6038.202.043 (ZF)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5847",
+        "name": "VALVULA 5/2 VIAS ZF (GRUPO SPLITTLING) WABCO F.S.S",
+        "brand": "F S S",
+        "code": "5468",
+        "image": "img/products/Caja ZF/valvula-5-2-vias-zf-grupo-splittling-wabco-f-s-s-5468.jpg",
+        "description": "VALVULA 5/2 VIAS ZF (GRUPO SPLITTLING) WABCO F.S.S 5468 F S S Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 Código Original / Similar: 001.260.3157/ 002.260.4257/ 002.260.1957 (MB) 0501.396.633 (ZF) 42492371 / 8121938 (IVECO) 463.063.004 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5848",
+        "name": "VALVULA 4/2 VIAS ZF (SPLITLING ALTA Y BAJA) F.S.S",
+        "brand": "F S S",
+        "code": "5473",
+        "image": "img/products/Caja ZF/valvula-4-2-vias-zf-splitling-alta-y-baja-f-s-s-5473.jpg",
+        "description": "VALVULA 4/2 VIAS ZF (SPLITLING ALTA Y BAJA) F.S.S 5473 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 9S-75 MERCEDES BENZ: Camiones 2423 B / 2423 K VOLVO: Cajas ZF 16S-1650 FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 002.260.3657 (MB) 0501.310.059 / 0750.132.038 (ZF) 1.662.798 (VOLVO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5849",
+        "name": "VALVULA 4/2 VIAS ZF (SPLITLING ALTA Y BAJA) TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5383",
+        "image": "img/products/Caja ZF/valvula-4-2-vias-zf-splitling-alta-y-baja-tf-p-technology-5383.jpg",
+        "description": "VALVULA 4/2 VIAS ZF (SPLITLING ALTA Y BAJA) TF&P TECHNOLOGY 5383 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Cajas ZF 9S-75 MERCEDES BENZ: Camiones 2423 B / 2423 K VOLVO: Cajas ZF 16S-1650 FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 002.260.3657 (MB) 0501.310.059 / 0750.132.038 (ZF) 1.662.798 (VOLVO)",
+        "rubro": "VALVULAS DE CAJA"
+    },
+    {
+        "id": "P5850",
+        "name": "VALVULA 3/2 VIAS CAJA ZF WABCO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4826",
+        "image": "img/products/Caja ZF/valvula-3-2-vias-caja-zf-wabco-trucktec-4826.jpg",
+        "description": "VALVULA 3/2 VIAS CAJA ZF WABCO TRUCKTEC 4826 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4K-120 GP / 4K-121 GP / 4S-121 GP MERCEDES BENZ: Camiones L 1526 / LS 1526 Código Original / Similar: 001.260.2757/ 000.260.4758/ 001.260.1757 (MB) 0501.205.200 (ZF) 463.028.111 0 (Wabco)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5851",
+        "name": "ROTULA CAJA CAMBIOS ZF M10 X 1 / M14 X 1.5 DER. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4827",
+        "image": "img/products/Caja ZF/rotula-caja-cambios-zf-m10-x-1-m14-x-1-5-der-trucktec-4827.jpg",
+        "description": "ROTULA CAJA CAMBIOS ZF M10 X 1 / M14 X 1.5 DER. TRUCKTEC 4827 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4S-120 GP / 8S-1350 / 9S-75 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 / S5-680 / S5-820 / S6-1550 / S6-90 / S6- 680 / S6-820 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1526 / LS 1526 / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / 2423 B / 2423 K / L 2638/54 y Bus OH 1318 / OF 1620 / OF 1721 / OHL 1526 / OHL 1621 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0400 UP / 0500 R / 0500 RS VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 Código Original / Similar: 000.268.5289 / 000.268.7389 (MB) 0501.204.714/ 0501.396.612/ 0501.396.755 (ZF) 1.527.453 (VOLVO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5852",
+        "name": "BUJE CAJA ZF TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4824",
+        "image": "img/products/Caja ZF/buje-caja-zf-trucktec-4824.jpg",
+        "description": "BUJE CAJA ZF TRUCKTEC 4824 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF AK6-80+GV-80 / S6-80+GV-80 / S6-90 / 4S 120-GP / 16S-1300 / 16S-1600 / 16S-1900 / 9S-75 MERCEDES BENZ: Camiones L 1526 / 1721 S / 1722 S / L 1938 / LS 1938 / LS 1941 y Bus OHL 1526 / 0370 / 0371 UP / 0371 R / 0373 RSD / 0400 R / 0400 UP VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Cajas ZF S6-80+GV-80 / S6-90 / 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 y Bus B10 M Código Original / Similar: 000.268.2150 (MB) 0730.260.330 (ZF) 1.190.130 (VOLVO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5853",
+        "name": "REP. VALVULA COMANDO PILOTO KNORR CAJA ZF NTI",
+        "brand": "Nti",
+        "code": "3941",
+        "image": "img/products/Caja ZF/rep-valvula-comando-piloto-knorr-caja-zf-nti-3941.jpg",
+        "description": "REP. VALVULA COMANDO PILOTO KNORR CAJA ZF NTI 3941 Nti Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Valvulas KNORR I 87538 FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR IVECO: Válvulas KNORR I 87538 / SV 3368 IVECO: Válvulas ZF 6038.202.003 MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 MERCEDES BENZ: Válvulas KNORR I 87538 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC VOLVO: Válvulas KNORR I 87538 Código Original / Similar: 002.260.0357 (MB) SP705 (Knorr)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5854",
+        "name": "REP. CILINDRO CAJA CAMBIOS ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "3943",
+        "image": "img/products/Caja ZF/rep-cilindro-caja-cambios-zf-quinelato-3943.jpg",
+        "description": "REP. CILINDRO CAJA CAMBIOS ZF QUINELATO 3943 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Para Cajas ZF 16S-1585 TD FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 31330 IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T HR / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Para Cajas ZF 16S-221 / 16S-2280 TO / 16S-2320 TD / 16S-2321 TD / 16S-2325 TD / 16S-2520 TO / 16S-2525 TO Código Original / Similar: + 0501.307.769 / 0750.112.066 (ZF) / 0501.317.536 (ZF) 0750.112.253 + 0734.307.294 (X2) (ZF) 42557497/R (IVECO) QA-958 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5855",
+        "name": "VALVULA ACCIONAMIENTO DE EMBRAGUE ZF / SPLIT WAYSER",
+        "brand": "Wayser",
+        "code": "3468",
+        "image": "img/products/Caja ZF/valvula-accionamiento-de-embrague-zf-split-wayser-3468.jpg",
+        "description": "VALVULA ACCIONAMIENTO DE EMBRAGUE ZF / SPLIT WAYSER 3468 Wayser Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 0750.132.007 (ZF) 212001218 (Randon)",
+        "rubro": "VALVULA SPLIT"
+    },
+    {
+        "id": "P5856",
+        "name": "REP. CILINDRO ALTA Y BAJA GP SUPERIOR ZF CON RETEN ROSCADO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3393",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-gp-superior-zf-con-reten-roscado-trucktec-3393.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA GP SUPERIOR ZF CON RETEN ROSCADO TRUCKTEC 3393 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1295.298.801 / 1295.298.932 (ZF) 3.092.575 (VOLVO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5857",
+        "name": "REP. CILINDRO ALTA Y BAJA GV INFERIOR ZF CON RETEN ROSCADO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3394",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-gv-inferior-zf-con-reten-roscado-trucktec-3394.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA GV INFERIOR ZF CON RETEN ROSCADO TRUCKTEC 3394 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1295.298.933 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5858",
+        "name": "CILINDRO ALTA Y BAJA GP SUPERIOR ZF TKL",
+        "brand": "TKL",
+        "code": "2794",
+        "image": "img/products/Caja ZF/cilindro-alta-y-baja-gp-superior-zf-tkl-2794.jpg",
+        "description": "CILINDRO ALTA Y BAJA GP SUPERIOR ZF TKL 2794 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0419 / 000.267.2119 (MB) 1295.334.075 / 1295.334.026 0750.132.027 (ZF) 1296.334.046 1296.334.003 (ZF) 1662959 / 1527363 (VOLVO) 2T0/311675 (VW) 8198807 / 7982230 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5859",
+        "name": "REP. VALVULA 4/2 VIAS ZF (SPLITLING ALTA Y BAJA) BEL-AR",
+        "brand": "Bel Ar",
+        "code": "2656",
+        "image": "img/products/Caja ZF/rep-valvula-4-2-vias-zf-splitling-alta-y-baja-bel-ar-2656.jpg",
+        "description": "REP. VALVULA 4/2 VIAS ZF (SPLITLING ALTA Y BAJA) BEL-AR 2656 Bel Ar Vehículos compatibles: MERCEDES BENZ: Cajas ZF 9S-75 MERCEDES BENZ: Camiones 2423 B / 2423 K Válvulas ZF 0501.310.059 / 0750.132.038 VOLVO: Cajas ZF 16S-1650 FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 VOLVO: Válvulas ZF 0501.310.059 / 0750.132.038 Código Original / Similar:",
+        "rubro": "VALVULAS DE CAJA"
+    },
+    {
+        "id": "P5860",
+        "name": "CILINDRO ALTA Y BAJA GV INFERIOR ZF TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2335",
+        "image": "img/products/Caja ZF/cilindro-alta-y-baja-gv-inferior-zf-trucktec-2335.jpg",
+        "description": "CILINDRO ALTA Y BAJA GV INFERIOR ZF TRUCKTEC 2335 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0519/ 000.267.2219/ 000.267.0219 (MB) 1296.312.042 / 1296.312.016 (ZF) 1526816 (VOLVO) 2T0/311675/A (VW) 7982223 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5861",
+        "name": "REP. CILINDRO ALTA Y BAJA GV INFERIOR ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "1762",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-gv-inferior-zf-quinelato-1762.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA GV INFERIOR ZF QUINELATO 1762 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: QA-940 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5862",
+        "name": "REP. VALVULA COMANDO PILOTO ZF BEL-AR",
+        "brand": "Bel Ar",
+        "code": "1764",
+        "image": "img/products/Caja ZF/rep-valvula-comando-piloto-zf-bel-ar-1764.jpg",
+        "description": "REP. VALVULA COMANDO PILOTO ZF BEL-AR 1764 Bel Ar Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32 / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T / 450 E37 HR IVECO: Válvulas KNORR I 76936 / SV 3367 IVECO: Válvulas ZF 0750.132.037 / 6038.202.003 MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S- 1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 Válvulas ZF 0750.132.037 / 6038.202.003 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC VOLVO: Válvulas ZF 0750.132.037 / 6038.202.003 Código Original / Similar:",
+        "rubro": "VALVULAS DE CAJA"
+    },
+    {
+        "id": "P5863",
+        "name": "REP. CILINDRO ALTA Y BAJA GV INFERIOR ZF CON RETEN ROSCADO QUINELATO",
+        "brand": "Quinelato",
+        "code": "13879",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-gv-inferior-zf-con-reten-roscado-quinelato-13879.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA GV INFERIOR ZF CON RETEN ROSCADO QUINELATO 13879 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1295.298.933 (ZF) QA-940C (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5864",
+        "name": "REP. CILINDRO ALTA Y BAJA GP SUPERIOR ZF CON RETEN ROSCADO QUINELATO",
+        "brand": "Quinelato",
+        "code": "13880",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-gp-superior-zf-con-reten-roscado-quinelato-13880.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA GP SUPERIOR ZF CON RETEN ROSCADO QUINELATO 13880 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1295.298.801 / 1295.298.932 (ZF) QA-942C (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5865",
+        "name": "JGO. BOBINAS SERVOEMBRAGUE KNORR / ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "13857",
+        "image": "img/products/Caja ZF/jgo-bobinas-servoembrague-knorr-zf-quinelato-13857.jpg",
+        "description": "JGO. BOBINAS SERVOEMBRAGUE KNORR / ZF QUINELATO 13857 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Con Caja Automatica ZF 12AS-1930 TD FORD / VW / CUMMINS / MWM: Ford Cargo 2042 / 2842 FORD / VW / CUMMINS / MWM: Servoembragues FORD BH3X/7K626/BA FORD / VW / CUMMINS / MWM: Servoembragues KNORR K013727N50 FORD / VW / CUMMINS / MWM: Servoembragues ZF 0501.215.260 / 1328.298.005 IVECO: Cajas ZF 16AS-2630 TO / 16AS-2631 TO IVECO: Camiones STRALIS NR 490 S46T EUROTRONIC / NR 570 S46T EUROTRONIC / NR 740 S46T EUROTRONIC / STRALIS ECOLINE 200 S36 AT EUROTRONIC / 460 S36T AT EUROTRONIC / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS EUROTRONIC / 490 _x000D_ S48T HI-WAY EUROTRONIC / 600 S44T AS EUROTRONIC / 530 S36T AT EUROTRONIC / 600 S40T AT EUROTRONIC / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T _x000D_ HI-WAY EUROTRONIC / 740 T48T AD EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC _x000D_ / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC (Con Caja Automatica IVECO: Servoembragues IVECO 42536490 / 42560762 / 42568691 / 42569800 IVECO: Servoembragues KNORR K013727N50 IVECO: Servoembragues ZF 0501.215.260 / 1328.298.005 Código Original / Similar: QA-1909JB (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5866",
+        "name": "REP. CILINDRO ALTA Y BAJA GP SUPERIOR ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "1333",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-gp-superior-zf-quinelato-1333.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA GP SUPERIOR ZF QUINELATO 1333 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: QA-942 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5867",
+        "name": "REP. VALVULA 5/2 VIAS ZF / RANGER QUINELATO",
+        "brand": "Quinelato",
+        "code": "12621",
+        "image": "img/products/Caja ZF/rep-valvula-5-2-vias-zf-ranger-quinelato-12621.jpg",
+        "description": "REP. VALVULA 5/2 VIAS ZF / RANGER QUINELATO 12621 Quinelato Vehículos compatibles: IVECO: Cajas ZF 16S-221 / 16S-2520 / 16S-2280 IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38AD / 720 T42T IVECO: Válvulas IVECO 42567285 / 42535003 IVECO: Válvulas ZF 0501.219.847 / 0501.219.310 / 0501.215.319 RENAULT: Cajas ZF 16S-2281 RENAULT: Camiones PREMIUM RENAULT: Válvulas ZF 0501.219.847 / 0501.219.310 / 0501.215.319 Código Original / Similar: 0501.219.847/R (ZF) QA-970M (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5868",
+        "name": "CILINDRO ALTA Y BAJA GP SUPERIOR ZF TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "1178",
+        "image": "img/products/Caja ZF/cilindro-alta-y-baja-gp-superior-zf-trucktec-1178.jpg",
+        "description": "CILINDRO ALTA Y BAJA GP SUPERIOR ZF TRUCKTEC 1178 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0419 / 000.267.2119 (MB) 1295.334.075 / 1295.334.026 0750.132.027 (ZF) 1296.334.046 1296.334.003 (ZF) 1662959 / 1527363 (VOLVO) 2T0/311675 (VW) 8198807 / 7982230 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5869",
+        "name": "REP. VALVULA 5/2 VIAS ZF (GRUPO SPLITTLING) WABCO QUINELATO",
+        "brand": "Quinelato",
+        "code": "1149",
+        "image": "img/products/Caja ZF/rep-valvula-5-2-vias-zf-grupo-splittling-wabco-quinelato-1149.jpg",
+        "description": "REP. VALVULA 5/2 VIAS ZF (GRUPO SPLITTLING) WABCO QUINELATO 1149 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Valvulas WABCO 463.063.005 0 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR IVECO: Válvulas WABCO 463.063.004 0 / 463.063.005 0 MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 MERCEDES BENZ: Válvulas WABCO 463.063.004 0 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 VOLVO: Valvulas WABCO 463.063.005 0 Código Original / Similar: 463.063.000 2 (Wabco) QA-928 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5870",
+        "name": "REP. SERVO SHIFT CAJA DE CAMBIOS ZF / GRANDE QUINELATO",
+        "brand": "Quinelato",
+        "code": "11355",
+        "image": "img/products/Caja ZF/rep-servo-shift-caja-de-cambios-zf-grande-quinelato-11355.jpg",
+        "description": "REP. SERVO SHIFT CAJA DE CAMBIOS ZF / GRANDE QUINELATO 11355 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1455 / 16S-1585 TD / 16S-1685 TD FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.216.322 FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 25360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-221 / 16S-2520 TD / 16S-2521 TO / 16S-2525 TO / 16S-2523 TO / 16S-2321 TD / 16S-2325 TD / 16S-2320 TD / 16S-2280 TO IVECO: Camiones CURSOR ECOLINE 450C33 / EUROTECH 440 E42T / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200S36 AD / 200 S36 AT / 200 S40 AT / 460 S33 AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / TRAKKER 380 T38 / 380 T42 / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T44 AD / 410 T48 AD / 740 T48T AD IVECO: Servo Shift ZF 0501.211.805 / 0501.217.928 RENAULT: Cajas ZF 16S-2220 TD / 16S-2180 TO RENAULT: Camiones RENAULT PREMIUM RENAULT: Servo Shift ZF 0501.211.290 Código Original / Similar: QA-1916G (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5871",
+        "name": "REP. SERVO SHIFT CAJA DE CAMBIOS ZF / MEDIANO QUINELATO",
+        "brand": "Quinelato",
+        "code": "11335",
+        "image": "img/products/Caja ZF/rep-servo-shift-caja-de-cambios-zf-mediano-quinelato-11335.jpg",
+        "description": "REP. SERVO SHIFT CAJA DE CAMBIOS ZF / MEDIANO QUINELATO 11335 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 6S-1010 BO / 6S-1000 TO FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.216.319 FORD / VW / CUMMINS / MWM: VW Constellation 17280 y Bus 17230 OD / 17280 OT MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 MERCEDES BENZ: Servo Shift ZF 0501.216.319 Código Original / Similar: QA-1916BG (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5872",
+        "name": "REP. SERVO SHIFT CAJA DE CAMBIOS ZF / CHICO QUINELATO",
+        "brand": "Quinelato",
+        "code": "11336",
+        "image": "img/products/Caja ZF/rep-servo-shift-caja-de-cambios-zf-chico-quinelato-11336.jpg",
+        "description": "REP. SERVO SHIFT CAJA DE CAMBIOS ZF / CHICO QUINELATO 11336 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 6S-1010 BO / 6S-1000 TO FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.217.253 FORD / VW / CUMMINS / MWM: VW Constellation 17280 y Bus 17230 OD / 17280 OT MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 MERCEDES BENZ: Servo Shift ZF 0501.217.253 Código Original / Similar: QA-1916MG (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5873",
+        "name": "REP. CILINDRO ALTA Y BAJA CON PISTON CAJA ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "11347",
+        "image": "img/products/Caja ZF/rep-cilindro-alta-y-baja-con-piston-caja-zf-quinelato-11347.jpg",
+        "description": "REP. CILINDRO ALTA Y BAJA CON PISTON CAJA ZF QUINELATO 11347 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD FORD / VW / CUMMINS / MWM: VW Constellation 17280 IVECO: Cajas ZF 9S-1110 TD IVECO: Camiones TECTOR ECOLINE 170 E28S / 170 E30S / 240 E28S / 240 E30S MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 Código Original / Similar: 0501.328.038 / 0750.112.047 (ZF) 0634.313.338 (ZF) QA-958M (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5874",
+        "name": "CILINDRO ALTA Y BAJA CAJA ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "11349",
+        "image": "img/products/Caja ZF/cilindro-alta-y-baja-caja-zf-quinelato-11349.jpg",
+        "description": "CILINDRO ALTA Y BAJA CAJA ZF QUINELATO 11349 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD FORD / VW / CUMMINS / MWM: VW Constellation 17280 IVECO: Cajas ZF 9S-1110 TD IVECO: Camiones TECTOR ECOLINE 170 E28S / 170 E30S / 240 E28S / 240 E30S MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 Código Original / Similar: 1304.334.079 (ZF) 2T2/311679 (VW) QA-943M (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5875",
+        "name": "VALVULA 5/2 VIAS ZF (GRUPO SPLITTLING) WABCO TKL",
+        "brand": "TKL",
+        "code": "1128",
+        "image": "img/products/Caja ZF/valvula-5-2-vias-zf-grupo-splittling-wabco-tkl-1128.jpg",
+        "description": "VALVULA 5/2 VIAS ZF (GRUPO SPLITTLING) WABCO TKL 1128 TKL Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 Código Original / Similar: 001.260.3157/ 002.260.4257/ 002.260.1957 (MB) 463.063.004 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5876",
+        "name": "REP. SERVOEMBRAGUE KNORR / ZF F.S.S",
+        "brand": "F S S",
+        "code": "11275",
+        "image": "img/products/Caja ZF/rep-servoembrague-knorr-zf-f-s-s-11275.jpg",
+        "description": "REP. SERVOEMBRAGUE KNORR / ZF F.S.S 11275 F S S Vehículos compatibles: FORD / VW / CUMMINS / MWM: Con Caja Automatica ZF 12AS-1930 TD FORD / VW / CUMMINS / MWM: Ford Cargo 2042 / 2842 FORD / VW / CUMMINS / MWM: Servoembragues FORD BH3X/7K626/BA FORD / VW / CUMMINS / MWM: Servoembragues KNORR K013727N50 FORD / VW / CUMMINS / MWM: Servoembragues ZF 0501.215.260 / 1328.298.005 IVECO: Cajas ZF 16AS-2630 TO / 16AS-2631 TO IVECO: Camiones STRALIS NR 490 S46T EUROTRONIC / NR 570 S46T EUROTRONIC / NR 740 S46T EUROTRONIC / STRALIS ECOLINE 200 S36 AT EUROTRONIC / 460 S36T AT EUROTRONIC / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 600 S44T AS EUROTRONIC / 530 S36T AT EUROTRONIC / 600 S40T AT EUROTRONIC / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 740 T48T AD EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC (Con Caja Automatica) IVECO: Servoembragues IVECO 42536490 / 42560762 / 42568691 / 42569800 IVECO: Servoembragues KNORR K013727N50 IVECO: Servoembragues ZF 0501.215.260 / 1328.298.005 Código Original / Similar:",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5877",
+        "name": "CILINDRO ALTA Y BAJA GP SUPERIOR ZF QUINELATO",
+        "brand": "Quinelato",
+        "code": "10507",
+        "image": "img/products/Caja ZF/cilindro-alta-y-baja-gp-superior-zf-quinelato-10507.jpg",
+        "description": "CILINDRO ALTA Y BAJA GP SUPERIOR ZF QUINELATO 10507 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900_x000D_ Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0419 / 000.267.2119 (MB) 0750.132.027 / 1296.334.046 (ZF) 1295.334.075 / 1295.334.026 (ZF) 1296.334.003 (ZF) 1662959 / 1527363 (VOLVO) 2T0/311675 (VW) 8198807 / 7982230 (IVECO) QA-943 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5878",
+        "name": "RETEN CILINDRO CAJA CAMBIOS ZF SABO",
+        "brand": "SABO",
+        "code": "10394",
+        "image": "img/products/Caja ZF/reten-cilindro-caja-cambios-zf-sabo-10394.jpg",
+        "description": "RETEN CILINDRO CAJA CAMBIOS ZF SABO 10394 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Para Cajas ZF 16S-1585 TD FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 31330 IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T HR / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Para Cajas ZF 16S-221 / 16S-2280 TO / 16S-2320 TD / 16S-2321 TD / 16S-2325 TD / 16S-2520 TO / 16S-2525 TO Código Original / Similar: 0750.112.253 (ZF) 08458BRGEF / 8458 (SABO) 2U2/311281 (VW) 93191207 / 42557536 (IVECO) DIAM. INT. 25MM. / DIAM. EXT. 40MM. / ANCHO 14.5MM. / MATERIAL FPM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5879",
+        "name": "REP. CILINDRO 2 POSICIONES ALTA Y BAJA ZF BEL-AR",
+        "brand": "Bel Ar",
+        "code": "0636",
+        "image": "img/products/Caja ZF/rep-cilindro-2-posiciones-alta-y-baja-zf-bel-ar-0636.jpg",
+        "description": "REP. CILINDRO 2 POSICIONES ALTA Y BAJA ZF BEL-AR 0636 Bel Ar Vehículos compatibles: MERCEDES BENZ: Cajas ZF AK6-80+GV 80 / S6-80+GV 80 / 4K120 GP / 4K 121 GP / 4S 120 GP MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 MERCEDES BENZ: Cilindros WABCO 422.010.014 0 MERCEDES BENZ: Cilindros ZF 0750.132.019 / 0750.132.009 Código Original / Similar: 000.260.3968 (MB) 000.260.9263 / 000.586.0026 (MB) 0501.298.046 / 0501.298.044 (ZF) QA-930 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5880",
+        "name": "ARANDELA DISTANCIADORA ESP. 0.60 MM. CAJA ZF TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "0078",
+        "image": "img/products/Caja ZF/arandela-distanciadora-esp-0-60-mm-caja-zf-trucktec-0078.jpg",
+        "description": "ARANDELA DISTANCIADORA ESP. 0.60 MM. CAJA ZF TRUCKTEC 0078 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37HT / EUROTECH 450 E37TP MERCEDES BENZ: Cajas ZF 4K-120GP / 4K-121GP / 4S-120GP / 8S-1350 / 16S- 1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1935 / LS 1935 / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.261.0252 (MB) 0730.102.504 (ZF) 1.526.691 (VOLVO) 2T0/311231/A (VW) 7982001 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5881",
+        "name": "ENGRANAJE SOLAR / 27 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14900",
+        "image": "img/products/Caja ZF/engranaje-solar-27-dientes-cinpal-14900.webp",
+        "description": "ENGRANAJE SOLAR / 27 DIENTES CINPAL 14900 Cinpal Vehículos compatibles: Código Original / Similar: MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1633 / LS 1633 / L 1938 / LS 1938 / LB 2325 / LK 2325 VOLVO: Cajas ZF 16S-1300 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5882",
+        "name": "SERVOEMBRAGUE KNORR TKL",
+        "brand": "TKL",
+        "code": "9892",
+        "image": "img/products/Caja ZF/servoembrague-knorr-tkl-9892.jpeg",
+        "description": "SERVOEMBRAGUE KNORR TKL 9892 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 2042 / 2842 _x000D_ Con Caja Automatica ZF 12AS-1930 TD IVECO: Camiones STRALIS NR 490 S46T EUROTRONIC / NR 570 S46T EUROTRONIC / NR 740 S46T EUROTRONIC / STRALIS ECOLINE 200 S36 AT EUROTRONIC / 460 S36T AT EUROTRONIC / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 600 S44T AS EUROTRONIC / 530 S36T AT EUROTRONIC / 600 S40T AT EUROTRONIC / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 740 T48T AD EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC (Con Caja Automatica)_x000D_ Cajas ZF 16AS-2630 TO / 16AS-2631 TO Código Original / Similar: 0501.215.260 / 1328.298.005 (ZF) 2V5/721021/A (VW) 42536490 / 42560762 / 42568691 / 4256980 (IVECO) BH3X/7K626/BA (FORD) K013727N50 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5883",
+        "name": "GUIA DE DIRECTA SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "9617",
+        "image": "img/products/Caja ZF/guia-de-directa-suporte-rei-9617.jpg",
+        "description": "GUIA DE DIRECTA SUPORTE REI 9617 Suporte Rei Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37TP / 450 E37HR Código Original / Similar: 1297.302.169 / 0091.302.289 (ZF) 8194830 (IVECO) R-6110 (REI) DIAM. TUBO 62.6 / LARGO 133MM.",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5884",
+        "name": "REP. SERVOEMBRAGUE WABCO QUINELATO",
+        "brand": "Quinelato",
+        "code": "9505",
+        "image": "img/products/Caja ZF/rep-servoembrague-wabco-quinelato-9505.jpg",
+        "description": "REP. SERVOEMBRAGUE WABCO QUINELATO 9505 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Servoembragues VW 2W0/721263 FORD / VW / CUMMINS / MWM: Servoembragues WABCO 970.051.228 0 FORD / VW / CUMMINS / MWM: VW Bus 15190 OD / 17230 OD / 17280 OT (Todos Con Caja ZF) Código Original / Similar: 970.051.999 2 (Wabco) QA-1323M (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5885",
+        "name": "REP. SERVOEMBRAGUE KNORR QUINELATO",
+        "brand": "Quinelato",
+        "code": "9516",
+        "image": "img/products/Caja ZF/rep-servoembrague-knorr-quinelato-9516.jpg",
+        "description": "REP. SERVOEMBRAGUE KNORR QUINELATO 9516 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores FPT CURSOR 10.3L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 (Con Caja ZF 12AS1930TD) FORD / VW / CUMMINS / MWM: Servoembragues KNORR K013727N50 IVECO: Camiones STRALIS NR 490 S46T EUROTRONIC / NR 570 S46T EUROTRONIC / NR 740 S46T EUROTRONIC / STRALIS ECOLINE 200 S36T AT EUROTRONIC / 460 S36T AT EUROTRONIC / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 530 S36T AT EUROTRONIC / 600 S40T AT EUROTRONIC / 600 S44T AS EUROTRONIC / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD EUROTRONIC IVECO: Servoembragues KNORR K013727N50 Código Original / Similar: 42560756/R (IVECO) QA-1909 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5886",
+        "name": "KIT CRUCETA PALANCA DE CAMBIOS ETMA",
+        "brand": "Etma",
+        "code": "9472",
+        "image": "img/products/Caja ZF/kit-cruceta-palanca-de-cambios-etma-9472.jpg",
+        "description": "KIT CRUCETA PALANCA DE CAMBIOS ETMA 9472 Etma Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 000.268.5389/K / 000.268.8289/K (MB) 0750.125.951 (ZF) CR1204 (ETMA) HCZ-218 (STAHL)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P5887",
+        "name": "INTERRUPTOR CAJA CAMBIOS 3-RHO",
+        "brand": "3 Rho",
+        "code": "9117",
+        "image": "img/products/Caja ZF/interruptor-caja-cambios-3-rho-9117.jpg",
+        "description": "INTERRUPTOR CAJA CAMBIOS 3-RHO 9117 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 6S-1010-BO / 6AS-1010-BO / 9S-1110TD / 16S-1455-TD / 16S-1585-TD / 16AS-2230-TD V-TRONIC FORD / VW / CUMMINS / MWM: VW CONSTELLATION 17280 / 19330 / 19360 / 19420 / 25360 / 25420 / 26280 / 26420 / 31280 / 31330 y Bus 15190 OD / 17230 OD / 17280 OT IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 180 E30 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TECTOR STRADALE 240 E25S / TRAKKER 380 T38 / 380 T42 / 410 T38 AD / 720 T42T MERCEDES BENZ: Cajas MB G60-6 / G 85-6 / G 210-16 / G 211-16 / G 221-9 / G 240-16 MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / LS 1938 EL / 1938 S / 2428 / 2726 B / 2726 K / L 2638/54 / ATEGO 1418 / 1419 / 1725 / 1726 / 2425/48 / 2426 / AXOR 1933/45 / 1933 S/36 / 1933 LS/36 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3131 B/36 / 3131 K/36 / 3131/48 / 3340 K y Bus OF 1417 / OF 1418 / OF 1519-52 / OF 1721-59 / OF 1722 / OF 1724-59 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 M 1826 VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / NH 12 380 / NH 12 420 / NH 12 460 Código Original / Similar: 002.545.0509 (MB) 0501.210.059 / 0501.216.474 (ZF) 0501.219.856 (ZF) 22.354.201 (VOLVO) 2T2/919457/B (VW) 42531808 (IVECO) M18 X 1.5",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5888",
+        "name": "TAPA CAJA DE VELOCIDAD PARTE SUPERIOR SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "8819",
+        "image": "img/products/Caja ZF/tapa-caja-de-velocidad-parte-superior-suporte-rei-8819.jpg",
+        "description": "TAPA CAJA DE VELOCIDAD PARTE SUPERIOR SUPORTE REI 8819 Suporte Rei Vehículos compatibles: MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATRON 1634 / L 1633 / LS 1633 / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.267.2722 (MB) 1.526.806 (VOLVO) 1295.307.114 (ZF) R-652 (REI)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5889",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. 395MM. / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "8347",
+        "image": "img/products/Caja ZF/kit-embrague-completo-diam-395mm-10-estrias-valeo-8347.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. 395MM. / 10 ESTRIAS VALEO 8347 Valeo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 5.9L / VW Constellation 17250 E / 24250 E con Cajas EATON FS-6306-B FORD / VW / CUMMINS / MWM: Motores MAN D08 36 / VW Constellation 26280 / 31280 con Cajas ZF 16S-1455-TD Código Original / Similar: 104812-1 (Eaton) 228298 (VALEO) 2T2/198149 / JZV/198149/D (VW) 6597 / 3400 001 737 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5890",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. DISCO 405MM. / DIAM. PLACA 395MM. VALEO",
+        "brand": "Valeo",
+        "code": "8358",
+        "image": "img/products/Caja ZF/kit-embrague-completo-diam-disco-405mm-diam-placa-395mm-valeo-8358.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. DISCO 405MM. / DIAM. PLACA 395MM. VALEO 8358 Valeo Vehículos compatibles: IVECO: Cajas Cajas ZF 16S-1650 OD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T IVECO: Motores IVECO Cursor 8 Código Original / Similar: 232729 (VALEO) 6541 / 3400 000 806 (Sachs) 99449837 + 500392868 + 504077114 (IVECO) 10 ESTRIAS",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5891",
+        "name": "CILINDRO ALTA Y BAJA QUINELATO",
+        "brand": "Quinelato",
+        "code": "7818",
+        "image": "img/products/Caja ZF/cilindro-alta-y-baja-quinelato-7818.jpg",
+        "description": "CILINDRO ALTA Y BAJA QUINELATO 7818 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Para Cajas ZF 16S-1585 TD FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 31330 IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T HR / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ IVECO: Para Cajas ZF 16S-221 / 16S-2280 TO / 16S-2320 TD / 16S-2321 TD / 16S-2325 TD / 16S-2520 TO / 16S-2525 TO Código Original / Similar: 1315.334.069 (ZF) 2U2/311675/B (VW) 42557497 (IVECO) QA-958C (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5892",
+        "name": "RETEN GUIA DIRECTA / DIAM. INT. 48MM. / DIAM. EXT. 69MM. / ANCHO 10MM. / MATERIAL FPM ELRING",
+        "brand": "Elring",
+        "code": "7639",
+        "image": "img/products/Caja ZF/reten-guia-directa-diam-int-48mm-diam-ext-69mm-ancho-10mm-material-fpm-elring-7639.jpg",
+        "description": "RETEN GUIA DIRECTA / DIAM. INT. 48MM. / DIAM. EXT. 69MM. / ANCHO 10MM. / MATERIAL FPM ELRING 7639 Elring Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S6-1550 / S5-680 / S5-820 / S6-680 / S6-820 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S y Bus OF 1620 / OF 1721 / OH 1318 / OH 1526 / OHL 1621 / 0370 / 0371 UP / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0373 RSD / 0374 RSD / 0400 UP / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY VOLVO: Cajas ZF S6-90 / S6-820 / S6-1550 Bus B 7 R / B 10 M / B 12 R / B 230 Código Original / Similar: 007.997.2047 (MB) 0734.310.108 (ZF) 284662 (ELRING) 6.876.126 (VOLVO)",
+        "rubro": "PARTES VARIAS CAJA ZF"
+    },
+    {
+        "id": "P5893",
+        "name": "VALVULA SELENOIDE 3/2 VIAS / 24V. / AIRE COMPRIMIDO / ROSCA M12 X 1.5 PARKER",
+        "brand": "Parker",
+        "code": "7405",
+        "image": "img/products/Caja ZF/valvula-selenoide-3-2-vias-24v-aire-comprimido-rosca-m12-x-1-5-parker-7405.jpg",
+        "description": "VALVULA SELENOIDE 3/2 VIAS / 24V. / AIRE COMPRIMIDO / ROSCA M12 X 1.5 PARKER 7405 Parker Vehículos compatibles: FORD / VW / CUMMINS / MWM: Caja ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW CONSTELLATION 19320 E / 25320 E / 26260 E / 31320 E Código Original / Similar: 0501.398.685 (ZF) 2U2/711485/E (VW) 7600-327-TF (PARKER)",
+        "rubro": "SELENOIDES ALTA Y BAJA – FRENO MOTOR"
+    },
+    {
+        "id": "P5894",
+        "name": "GUIA DE DIRECTA / TUBO DIAM. EXT. 54MM. / LARGO 143MM. SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "7119",
+        "image": "img/products/Caja ZF/guia-de-directa-tubo-diam-ext-54mm-largo-143mm-suporte-rei-7119.jpg",
+        "description": "GUIA DE DIRECTA / TUBO DIAM. EXT. 54MM. / LARGO 143MM. SUPORTE REI 7119 Suporte Rei Vehículos compatibles: MERCEDES BENZ: Caja ZF 8S-1350 / 16S-1300 MERCEDES BENZ: Camiones L 1633 / LS 1633 / LB 2325 / LK 2325 Código Original / Similar: 000.262.4929 / 009.130.2073 (MB) 0091.302.073 (ZF) R-731 (REI)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5895",
+        "name": "COLUMNA DIRECCION 770MM. STAHL",
+        "brand": "Stahl",
+        "code": "6804",
+        "image": "img/products/Caja ZF/columna-direccion-770mm-stahl-6804.jpg",
+        "description": "COLUMNA DIRECCION 770MM. STAHL 6804 Stahl Vehículos compatibles: SCANIA: Camiones T 112 / T 142 / T 113 / T 143 (Con Cajas de Direccion TRW HBF070 / ZF 8044955114) Código Original / Similar: 2106-1014/01X (Spicer) 537.196 (SC)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5896",
+        "name": "JGO. JUNTAS CAJA DE CAMBIOS CON RETENES / COMPLETO SABO",
+        "brand": "SABO",
+        "code": "6755",
+        "image": "img/products/Caja ZF/jgo-juntas-caja-de-cambios-con-retenes-completo-sabo-6755.jpg",
+        "description": "JGO. JUNTAS CAJA DE CAMBIOS CON RETENES / COMPLETO SABO 6755 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD FORD / VW / CUMMINS / MWM: VW Constellation 17280 IVECO: Cajas ZF 9S-1110 TD IVECO: Camiones TECTOR ECOLINE 170 E28S / 170 E30S / 240 E28S / 240 E30S Código Original / Similar: 77124 (SABO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5897",
+        "name": "GUIA DE DIRECTA / DIAM. TUBO 60MM. / LARGO 113MM. SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "6402",
+        "image": "img/products/Caja ZF/guia-de-directa-diam-tubo-60mm-largo-113mm-suporte-rei-6402.jpg",
+        "description": "GUIA DE DIRECTA / DIAM. TUBO 60MM. / LARGO 113MM. SUPORTE REI 6402 Suporte Rei Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-1550 Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS Código Original / Similar: 000.262.0242 (MB) 0091.302.098 (ZF) R-3348P (REI)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5898",
+        "name": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA 3/2 VIAS / 8 MARCHAS TKL",
+        "brand": "TKL",
+        "code": "6150",
+        "image": "img/products/Caja ZF/empunadura-palanca-de-cambios-con-valvula-3-2-vias-8-marchas-tkl-6150.jpg",
+        "description": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA 3/2 VIAS / 8 MARCHAS TKL 6150 TKL Vehículos compatibles: VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 1.655.981 (VOLVO) 463.055.052 0 (Wabco)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5899",
+        "name": "VALVULA 5/2 VIAS F.S.S",
+        "brand": "F S S",
+        "code": "5469",
+        "image": "img/products/Caja ZF/valvula-5-2-vias-f-s-s-5469.jpg",
+        "description": "VALVULA 5/2 VIAS F.S.S 5469 F S S Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR (Valido hasta chasis 52548) VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 0501.396.632/ 0501.204.597/ 0750.132.032 (ZF) 1.662.551 (VOLVO) 2T0/301367/A (VW) 463.063.005 0 / 463.063.003 0 (Wabco) 7149843 (IVECO) 884.502.533 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5900",
+        "name": "VALVULA COMANDO PILOTO F.S.S",
+        "brand": "F S S",
+        "code": "5456",
+        "image": "img/products/Caja ZF/valvula-comando-piloto-f-s-s-5456.jpg",
+        "description": "VALVULA COMANDO PILOTO F.S.S 5456 F S S Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32 / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S- 1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 001.260.6757 / 001.260.6257 (MB) 0750.132.037 (ZF) 0750.132.037 / 6038.202.003 (ZF) 1.662.413 (VOLVO) 93159298 (IVECO) I 76936 / SV 3367 (Knorr)",
+        "rubro": "VALVULAS DE CAJA"
+    },
+    {
+        "id": "P5901",
+        "name": "VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5382",
+        "image": "img/products/Caja ZF/valvula-4-3-vias-wabco-splitling-alta-y-baja-tf-p-technology-5382.jpg",
+        "description": "VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) TF&P TECHNOLOGY 5382 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4K-120GP / 4K-121GP MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 Código Original / Similar: 000.260.1457 (MB) 0501.303.270 (ZF) 571.003.104 0 (Wabco)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5902",
+        "name": "CILINDRO 2 POSICIONES ALTA Y BAJA WABCO 10 BAR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5384",
+        "image": "img/products/Caja ZF/cilindro-2-posiciones-alta-y-baja-wabco-10-bar-tf-p-technology-5384.jpg",
+        "description": "CILINDRO 2 POSICIONES ALTA Y BAJA WABCO 10 BAR TF&P TECHNOLOGY 5384 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4S-120GP / 4S-121GP MERCEDES BENZ: Camiones L 1526 / LS 1526 Código Original / Similar: 000.260.7063 / 000.260.4663 (MB) 0750.132.019 (ZF) 422.010.014 0 (Wabco)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5903",
+        "name": "CONJUNTO TRAMBALADOR PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "5221",
+        "image": "img/products/Caja ZF/conjunto-trambalador-palanca-de-cambios-imp-5221.jpg",
+        "description": "CONJUNTO TRAMBALADOR PALANCA DE CAMBIOS IMP. 5221 Imp Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / 1721 S / 1722 S Código Original / Similar: 000.268.4601 (MB) 6005.000.253 / 0091.010.102 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5904",
+        "name": "EMPUÑADURA PALANCA DE CAMBIOS CON TAPA / 8 MARCHAS + REVERSA IMP.",
+        "brand": "Imp",
+        "code": "5204",
+        "image": "img/products/Caja ZF/empunadura-palanca-de-cambios-con-tapa-8-marchas-reversa-imp-5204.jpg",
+        "description": "EMPUÑADURA PALANCA DE CAMBIOS CON TAPA / 8 MARCHAS + REVERSA IMP. 5204 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 18310 MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 / _x000D_ L 1620 (M-96) / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1720/48 / 1728/51 / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2423 B / 2423 K / L 2638/54 / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S Código Original / Similar: 2T0/711141 (VW) 6005.200.241 (ZF) 620.267.0010 / 620.260.0040 (MB)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5905",
+        "name": "INTERRUPTOR MARCHA ATRÁS / M18 X 1.5MM. . 3-RHO",
+        "brand": "3 Rho",
+        "code": "5123",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-m18-x-1-5mm-3-rho-5123.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS / M18 X 1.5MM. . 3-RHO 5123 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 Bus 9150 EOD IVECO: Cajas ZF 5S-580 TO IVECO: Camiones VERTIS 90 V18 / 130 V18 MERCEDES BENZ: Cajas ZF S5-420 Bus LO 814 / LO 914 / LO 915 Código Original / Similar: 005.545.1314 / 000.545.9406 (MB) 0501.398.869 / 0501.210.785 (ZF) 2R0/941521/A (VW) 42557271 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5906",
+        "name": "INTERRUPTOR MARCHA ATRÁS / M18 X 1.5MM. / M27 X 1MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "5127",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-m18-x-1-5mm-m27-x-1mm-3-rho-5127.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS / M18 X 1.5MM. / M27 X 1MM. 3-RHO 5127 3 Rho Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 / S6-820 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 VOLVO: Cajas ZF S6-820 Bus B 7 R Código Original / Similar: 000.545.7506 (MB) 0501.204.721 / 0501.398.812 (ZF) 1.662.906 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5907",
+        "name": "INTERRUPTOR TRANSFERENCIA / M18 X 1.5MM. / M27 X 1MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "5129",
+        "image": "img/products/Caja ZF/interruptor-transferencia-m18-x-1-5mm-m27-x-1mm-3-rho-5129.jpg",
+        "description": "INTERRUPTOR TRANSFERENCIA / M18 X 1.5MM. / M27 X 1MM. 3-RHO 5129 3 Rho Vehículos compatibles: VOLVO: Cajas ZF S6-820 Bus B 7 R Código Original / Similar: 0501.204.721 / 0501.398.812 (ZF) 1.662.906 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5908",
+        "name": "INTERRUPTOR TRANSFERENCIA / M18 X 1.5MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "5130",
+        "image": "img/products/Caja ZF/interruptor-transferencia-m18-x-1-5mm-3-rho-5130.jpg",
+        "description": "INTERRUPTOR TRANSFERENCIA / M18 X 1.5MM. 3-RHO 5130 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 Bus 9150 EOD MERCEDES BENZ: Cajas ZF S5-420 Bus LO 814 / LO 914 / LO 915 Código Original / Similar: 006.545.3214 (MB) 0501.210.302 / 0501.215.905 (ZF) 2R0/919823 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5909",
+        "name": "VALVULA COMANDO PILOTO KNORR 10 BAR TKL",
+        "brand": "TKL",
+        "code": "5045",
+        "image": "img/products/Caja ZF/valvula-comando-piloto-knorr-10-bar-tkl-5045.jpg",
+        "description": "VALVULA COMANDO PILOTO KNORR 10 BAR TKL 5045 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 001.260.6757/ 001.260.2357/ 001.260.3757 (MB) 1.662.413 (VOLVO) 2T0/301367 (VW) 6038 202 003 (ZF) 93159298 (IVECO) I 87538 (Knorr) I 87538 / SV 3368 (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5910",
+        "name": "RODILLO EJE DE MANDO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4288",
+        "image": "img/products/Caja ZF/rodillo-eje-de-mando-trucktec-4288.jpg",
+        "description": "RODILLO EJE DE MANDO TRUCKTEC 4288 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF S6-1550 / S6-90 / 4K-120 GP / 4K-121 GP / 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 y Bus OHL 1526 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 0735.470.007 (ZF) 2966574 (IVECO) 2T0/311991 (VW) 336.268.0038 (MB) 6.857.257 (VOLVO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5911",
+        "name": "SEGURO DIRECTA 95 X 7 MM. IMP.",
+        "brand": "Imp",
+        "code": "4289",
+        "image": "img/products/Caja ZF/seguro-directa-95-x-7-mm-imp-4289.jpg",
+        "description": "SEGURO DIRECTA 95 X 7 MM. IMP. 4289 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.0673 / 012.994.0141 (MB) 0501.398.753/ 0730.301.356/ 0730.061.816 (ZF) 1.526.683 (VOLVO) 2T0/311381 (VW) 500052705 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5912",
+        "name": "SEGURO CAJA 91 X 4 MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "4290",
+        "image": "img/products/Caja ZF/seguro-caja-91-x-4-mm-trucktec-4290.jpg",
+        "description": "SEGURO CAJA 91 X 4 MM. TRUCKTEC 4290 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 Código Original / Similar: 000.262.1073 (MB) 0730.062.579 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5913",
+        "name": "INTERRUPTOR PUNTO NEUTRO / M18 X 1.5MM. / M27 X 1.0MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "3977",
+        "image": "img/products/Caja ZF/interruptor-punto-neutro-m18-x-1-5mm-m27-x-1-0mm-3-rho-3977.jpg",
+        "description": "INTERRUPTOR PUNTO NEUTRO / M18 X 1.5MM. / M27 X 1.0MM. 3-RHO 3977 3 Rho Vehículos compatibles: MERCEDES BENZ: Cajas ZF 9S-75 / S5-820 / S6-1550 / S6-820 / S6-90 / S5-680 / S6-680 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2423 B / 2423 K / L 2638/54 y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1526 / OHL 1621 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / FH 12 380 / FH 12 420 Código Original / Similar: 000.545.7106 (MB) 0501.313.916 (ZF)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5914",
+        "name": "INTERRUPTOR MARCHA ATRAS / M18 X 1.5MM. / M27 X 1.0MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "3980",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-m18-x-1-5mm-m27-x-1-0mm-3-rho-3980.jpg",
+        "description": "INTERRUPTOR MARCHA ATRAS / M18 X 1.5MM. / M27 X 1.0MM. 3-RHO 3980 3 Rho Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-42 MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C y Bus LO 914 / LO 915 Código Original / Similar: 004.545.6114 (MB) 0501.311.809 (ZF)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5915",
+        "name": "INTERRUPTOR MARCHA ATRÁS 9/16″ X 18 UNF 3-RHO",
+        "brand": "3 Rho",
+        "code": "3981",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-9-16-x-18-unf-3-rho-3981.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS 9/16″ X 18 UNF 3-RHO 3981 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 / S5-420 SSO FORD / VW / CUMMINS / MWM: Ford F4000 (+98) / F250 (+98) / F100 (+98) FORD / VW / CUMMINS / MWM: VW 9150 / 26220 / 26260 y Bus 9150 OD MERCEDES BENZ: Cajas ZF S5-420 – S5-420 SSO Bus LO 814 / LO 914 / LO 915 Código Original / Similar: 005.545.7314 (MB) 0501.209.492 (ZF) BF8T/15520/A (FORD / VW / CUMMINS / MWM) TJG/312115 / 2R0/941521 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5916",
+        "name": "INTERRUPTOR INDICADOR PUNTO NEUTRO / M18 X 1.5MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "3987",
+        "image": "img/products/Caja ZF/interruptor-indicador-punto-neutro-m18-x-1-5mm-3-rho-3987.jpg",
+        "description": "INTERRUPTOR INDICADOR PUNTO NEUTRO / M18 X 1.5MM. 3-RHO 3987 3 Rho Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-42 MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C y Bus LO 914 / LO 915 Código Original / Similar: 005.545.0014 / 006.545.4814 (MB) 0501.210.295 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5917",
+        "name": "INTERRUPTOR INDICADOR DE MARCHA PUESTA “EASY SHIFT” 3-RHO",
+        "brand": "3 Rho",
+        "code": "3988",
+        "image": "img/products/Caja ZF/interruptor-indicador-de-marcha-puesta-easy-shift-3-rho-3988.jpg",
+        "description": "INTERRUPTOR INDICADOR DE MARCHA PUESTA “EASY SHIFT” 3-RHO 3988 3 Rho Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-1550 Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS Código Original / Similar: 000.545.7206 (MB) 0501.311.811 / 0768.300.314 (ZF) M20 X 1.5MM. / M30 X 1.0MM.",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5918",
+        "name": "INTERRUPTOR MARCHA ATRAS M18 X 1.5 TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3971",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-m18-x-1-5-tf-p-technology-3971.jpg",
+        "description": "INTERRUPTOR MARCHA ATRAS M18 X 1.5 TF&P TECHNOLOGY 3971 Tfp Technology Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 9S-1110 TD / 12AS-2301AD / 16S-151OD / 16S-1650 OD / 16S-1650 TO / 16S-221 OD / 16S-2230 / 16S-2280 TO IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROTECH 440 E42T / 440 E42TP/Z / 450 E37HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / TECTOR STRADALE 240 E25S / TRAKKER 380 T38 / 380 T42 / 410 T38 AD / 720 T42T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42HR / HD 450 S42T/P / HD 570 S42T / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ MERCEDES BENZ: Cajas ZF S6-1550 / 9S-75 MERCEDES BENZ: Camiones 2423 B / 2423 K y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS VOLVO: Cajas ZF 16S-1650 FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 005.545.4514 (MB) 0501.210.058 / 0501.331.660 (ZF) 1.662.939 (VOLVO) 2T0/919823 (VW) 42531807 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5919",
+        "name": "INTERRUPTOR MARCHA ATRAS / SPLIT / M18 X 1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "3602",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-split-m18-x-1-5-3-rho-3602.jpg",
+        "description": "INTERRUPTOR MARCHA ATRAS / SPLIT / M18 X 1.5 3-RHO 3602 3 Rho Vehículos compatibles: VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 Cajas VOLVO SR-1700 / SR-1900 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 Código Original / Similar: 1.594.042 / 1.594.402 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5920",
+        "name": "INTERRUPTOR MARCHA ATRAS / M16 X 1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "3603",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-m16-x-1-5-3-rho-3603.jpg",
+        "description": "INTERRUPTOR MARCHA ATRAS / M16 X 1.5 3-RHO 3603 3 Rho Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 180 E30 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TECTOR STRADALE 240 E25S / TRAKKER 380 T38 / 380 T42 / 410 T38 AD / 720 T42T VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 0501.215.297 / 0501.210.059 (ZF) 1.662.926 (VOLVO) 42531808 / 42555374 / 42560500 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5921",
+        "name": "VALVULA 3/2 VIAS ACCIONAMIENTO ALTA Y BAJA TKL",
+        "brand": "TKL",
+        "code": "3421",
+        "image": "img/products/Caja ZF/valvula-3-2-vias-accionamiento-alta-y-baja-tkl-3421.jpg",
+        "description": "VALVULA 3/2 VIAS ACCIONAMIENTO ALTA Y BAJA TKL 3421 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1720/48 / 1728/51 / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / 2423 B / 2423 K / L 2638/54 y Bus OF 1417 / OF 1418 / OF 1722 Código Original / Similar: 0501.215.157 / 0501.207.460 0501.204.223 (ZF) 2T0/713141/A / 2T0/713141 (VW) 388.260.7157 / 388.260.7057 (MB) 463.069.003 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5922",
+        "name": "JGO. REPARACION SINCRONIZADOR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3395",
+        "image": "img/products/Caja ZF/jgo-reparacion-sincronizador-trucktec-3395.jpg",
+        "description": "JGO. REPARACION SINCRONIZADOR TRUCKTEC 3395 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 MERCEDES BENZ: Camiones 1721 S / 1722 S y Bus OHL 1526 / 0370 / 0371 R / 0371 UP / 0373 RSD / 0400 R / 0400 UP Código Original / Similar: 1272.298.934 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5923",
+        "name": "INTERRUPTOR MARCHA ATRÁS / M24 X 1MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3396",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-m24-x-1mm-trucktec-3396.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS / M24 X 1MM. TRUCKTEC 3396 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S6-1550 / 4S-120GP MERCEDES BENZ: Camiones L 1526 / LS 1526 / 1721 S / 1722 S / LB 2325 / LK 2325 y Bus OHL 1526 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS VOLVO: Cajas ZF S6-90 / S6-1550 Bus B 7 R / B 10 M / B 12 R Código Original / Similar: 000.545.8714 (MB) 0501.303.817 / 0501.398.813 (ZF) 1.662.830 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5924",
+        "name": "INTERRUPTOR MARCHA ATRÁS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3397",
+        "image": "img/products/Caja ZF/interruptor-marcha-atras-trucktec-3397.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS TRUCKTEC 3397 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-1550 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS SCANIA: Camiones R112 / T 112 / R 113 / T 113 / R 143 / T 113 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB Código Original / Similar: 001.545.4714/ 000.545.4214/ 001.545.8214 (MB) 1.541.086 / 1.549.304 / 1.303.471 (SC) 370.710 / 343.795 (SC)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5925",
+        "name": "INTERRUPTOR CAJA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3398",
+        "image": "img/products/Caja ZF/interruptor-caja-tf-p-technology-3398.jpg",
+        "description": "INTERRUPTOR CAJA TF&P TECHNOLOGY 3398 Tfp Technology Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42TZ/P / EUROTRAKKER 190 E42 / 450 E37T MERCEDES BENZ: Cajas ZF S5-680 / S6-680 / 8S-1350 / 9S-75 / 16S-1300 / 16S- 1600 / 16S-1650 MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1720/48 / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2325 B / 2325 K / 2423 B / 2423 K / L 2638/54 y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 001.545.4414 (MB) 003.545.1614 / 001.545.3414 (MB) 0501.311.807 (ZF) 1.662.762 (VOLVO) 93155716 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5926",
+        "name": "VARILLA ROTULAS CAJA DE CAMBIOS SDUBO",
+        "brand": "Sdubo",
+        "code": "3370",
+        "image": "img/products/Caja ZF/varilla-rotulas-caja-de-cambios-sdubo-3370.jpg",
+        "description": "VARILLA ROTULAS CAJA DE CAMBIOS SDUBO 3370 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 18310 TITAN MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 Código Original / Similar: 000.268.4325 / 000.268.7625 (MB) 2T0/399175/B (VW)",
+        "rubro": "MECANISMO DE CAMBIOS ZF"
+    },
+    {
+        "id": "P5927",
+        "name": "REPARACION BOMBA DIRECCION HIDRAULICA PLATINUM",
+        "brand": "Platinum",
+        "code": "3163",
+        "image": "img/products/Caja ZF/reparacion-bomba-direccion-hidraulica-platinum-3163.jpg",
+        "description": "REPARACION BOMBA DIRECCION HIDRAULICA PLATINUM 3163 Platinum Vehículos compatibles: MERCEDES BENZ: Camiones FPN / HPN y Bus OF 1620 MERCEDES BENZ: Para Bombas ZF 767.395.5984 / 767.395.5997 / 767.395.5990 Código Original / Similar: 000.460.0601 ZF 767.369.8030 (MB)",
+        "rubro": "PIEZAS COMPLEMENTARIAS"
+    },
+    {
+        "id": "P5928",
+        "name": "PISTON CILINDRO ALTA Y BAJA INFERIOR CAJA CAMBIO GV MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "3144",
+        "image": "img/products/Caja ZF/piston-cilindro-alta-y-baja-inferior-caja-cambio-gv-montecristo-3144.jpg",
+        "description": "PISTON CILINDRO ALTA Y BAJA INFERIOR CAJA CAMBIO GV MONTECRISTO 3144 Montecristo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.1618 (MB) 000.268.1218 / 000.267.2318 (MB) 1.662.753 (VOLVO) 1296.312.056 / 0091.312.016 (ZF) 2T0/305159 (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5929",
+        "name": "PISTON CILINDRO ALTA Y BAJA SUPERIOR CAJA CAMBIO GP MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "3145",
+        "image": "img/products/Caja ZF/piston-cilindro-alta-y-baja-superior-caja-cambio-gp-montecristo-3145.jpg",
+        "description": "PISTON CILINDRO ALTA Y BAJA SUPERIOR CAJA CAMBIO GP MONTECRISTO 3145 Montecristo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0818 (MB) 1.527.462 (VOLVO) 1296.334.069 / 1296.334.039 (ZF) 2T0/305159/A (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5930",
+        "name": "LEVA EXTERIOR DE PALANCA SELECTORA DE CAMBIOS VANNUCCI",
+        "brand": "Vannucci",
+        "code": "3146",
+        "image": "img/products/Caja ZF/leva-exterior-de-palanca-selectora-de-cambios-vannucci-3146.jpg",
+        "description": "LEVA EXTERIOR DE PALANCA SELECTORA DE CAMBIOS VANNUCCI 3146 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN Código Original / Similar: 0091.307.230 (ZF) 2T0/711855 (VW) S7205 (SDUBO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5931",
+        "name": "GUIA DE DIRECTA PALAZZOLO",
+        "brand": "Palazzolo",
+        "code": "3047",
+        "image": "img/products/Caja ZF/guia-de-directa-palazzolo-3047.jpg",
+        "description": "GUIA DE DIRECTA PALAZZOLO 3047 Palazzolo Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.5629 (MB) 1290.395.025 (ZF) R-455 (REI)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5932",
+        "name": "RETEN EXTERIOR SALIDA DE CAJA ELRING",
+        "brand": "Elring",
+        "code": "2983",
+        "image": "img/products/Caja ZF/reten-exterior-salida-de-caja-elring-2983.jpg",
+        "description": "RETEN EXTERIOR SALIDA DE CAJA ELRING 2983 Elring Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF 16S-2280 TO / 16S-151 OD / 16S-221 OD IVECO: Camiones EUROTECH 440 E42T / 740 E42TZ / EUROTRAKKER 380 E37 / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 720 T42T MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 1941 / L 2638/54 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 009.997.0647 / 013.997.5147 (MB) 0734.319.551 (ZF) 0750.111.341 (ZF) 1.662.607 (VOLVO) 282200 (ELRING) 2T0/311113 (VW) 93194330 (IVECO) DIAM. INT. 105MM. / DIAM. EXT. 130MM. / ANCHO 12MM. / MATERIAL NBR",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5933",
+        "name": "REP. CILINDRO 2 POSICIONES ALTA Y BAJA WABCO F.S.S",
+        "brand": "F S S",
+        "code": "2937",
+        "image": "img/products/Caja ZF/rep-cilindro-2-posiciones-alta-y-baja-wabco-f-s-s-2937.jpg",
+        "description": "REP. CILINDRO 2 POSICIONES ALTA Y BAJA WABCO F.S.S 2937 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4S-120GP / 4S-121GP MERCEDES BENZ: Camiones L 1526 / LS 1526 Cilindros WABCO 422.010.014 0 Código Original / Similar: 000.260.9263/ 000.586.0026/ 000.260.3968 (MB) 422.010.000 2 / 422.010.001 2 (Wabco)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5934",
+        "name": "REPARACION TRAMBALADOR PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "2804",
+        "image": "img/products/Caja ZF/reparacion-trambalador-palanca-de-cambios-imp-2804.jpg",
+        "description": "REPARACION TRAMBALADOR PALANCA DE CAMBIOS IMP. 2804 Imp Vehículos compatibles: MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATRON 1634 / L 1633 / LS 1633 / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 000.267.0574 + 000.268.1359 (MB) 000.268.2459 (X2) + 013.981.3210 (MB) 014.981.7710 (X2) + 000.267.0273 (X2) (MB) 0501.398.579 / 0734.317.008 (X2) (ZF) 0635.303.130 (X2) + 0635.303.131 (X2) (ZF) 0750.115.349 / 0735.298.056 (ZF) 1.526.813 (VOLVO) 1295.307.116 + 0501.398.786 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5935",
+        "name": "REPARACION SINCRONIZADO IMP.",
+        "brand": "Imp",
+        "code": "2798",
+        "image": "img/products/Caja ZF/reparacion-sincronizado-imp-2798.jpg",
+        "description": "REPARACION SINCRONIZADO IMP. 2798 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas Iveco 5801265552 / 503103095 / 8851738 / 503346900 / 5801291632 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / ATRON 1634 / 1735 S/45 / 1735/51 / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 005.993.6101 (MB) 1297.198.400 (ZF) 2960200 + 9931785 + 8832940 (IVECO) 2967403 + 93156036 (IVECO) 2T0/311312 + 2T0/311312/A + 2T0/313629 (VW) 2T0/311641 + 2T0/311580 (VW) 336.264.0239 + 000.264.0839 (MB) 336.264.0693 + 336.264.0793 (MB)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5936",
+        "name": "RETEN CILINDRO ALTA Y BAJA GV TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2750",
+        "image": "img/products/Caja ZF/reten-cilindro-alta-y-baja-gv-trucktec-2750.jpg",
+        "description": "RETEN CILINDRO ALTA Y BAJA GV TRUCKTEC 2750 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0997 (MB) 0750.112.089 / 0734.317.025 (ZF) 2T2/313255 (VW) 7982065 / 8194836 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5937",
+        "name": "PERNO DE RESORTE EN EJE DE MANDO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2751",
+        "image": "img/products/Caja ZF/perno-de-resorte-en-eje-de-mando-trucktec-2751.jpg",
+        "description": "PERNO DE RESORTE EN EJE DE MANDO TRUCKTEC 2751 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0474 (MB) 1.527.339 (VOLVO) 1295.307.243 (ZF) 2T0/301431 (VW) 7982198 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5938",
+        "name": "ROTULA CAJA DE CAMBIOS R 14 X 1.5MM. MACHO DERECHA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2752",
+        "image": "img/products/Caja ZF/rotula-caja-de-cambios-r-14-x-1-5mm-macho-derecha-trucktec-2752.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS R 14 X 1.5MM. MACHO DERECHA TRUCKTEC 2752 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 Código Original / Similar: 000.268.5289 / 000.268.4889 000.268.7389 (MB) 0501.204.714 / 0501.396.612 (ZF) 1.672.152 / 1.132.493 (VOLVO)",
+        "rubro": "ROTULAS"
+    },
+    {
+        "id": "P5939",
+        "name": "VALVULA PILOTO CAJA CAMBIOS KNORR (2 PISTONES) F.S.S",
+        "brand": "F S S",
+        "code": "2545",
+        "image": "img/products/Caja ZF/valvula-piloto-caja-cambios-knorr-2-pistones-f-s-s-2545.jpg",
+        "description": "VALVULA PILOTO CAJA CAMBIOS KNORR (2 PISTONES) F.S.S 2545 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4S-120 GP MERCEDES BENZ: Camiones L 1526 / LS 1526 / 2626K Código Original / Similar: 001.260.0257 / 001.260.2957 (MB) I 79678 / SV 3360 (Knorr)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5940",
+        "name": "REPARACION SINCRONIZADO CAJA IMP.",
+        "brand": "Imp",
+        "code": "2461",
+        "image": "img/products/Caja ZF/reparacion-sincronizado-caja-imp-2461.jpg",
+        "description": "REPARACION SINCRONIZADO CAJA IMP. 2461 Imp Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1600 / 16S-1900 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 VOLVO: Cajas ZF 16S-1300 VOLVO: Camiones N 10 / N 12 Código Original / Similar: 1295.198.402 (ZF) 336.264.0693+336.264.0793+336.264.0239 (MB)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5941",
+        "name": "CILINDRO 2 POSICIONES ALTA Y BAJA WABCO 10 BAR F.S.S",
+        "brand": "F S S",
+        "code": "2377",
+        "image": "img/products/Caja ZF/cilindro-2-posiciones-alta-y-baja-wabco-10-bar-f-s-s-2377.jpg",
+        "description": "CILINDRO 2 POSICIONES ALTA Y BAJA WABCO 10 BAR F.S.S 2377 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4S-120GP / 4S-121GP MERCEDES BENZ: Camiones L 1526 / LS 1526 Código Original / Similar: 000.260.7063 / 000.260.4663 (MB) 0750.132.019 (ZF) 422.010.014 0 (Wabco)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5942",
+        "name": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / IZQUIERDA / ARRIBA CESCA",
+        "brand": "Cesca",
+        "code": "2388",
+        "image": "img/products/Caja ZF/rotula-caja-de-cambios-r-12-x-1-75mm-izquierda-arriba-cesca-2388.png",
+        "description": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / IZQUIERDA / ARRIBA CESCA 2388 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17220 / 24220 / 13180 E / 15180 E y Bus 17210 OD FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF S5-580 TO IVECO: Camiones VERTIS 90 V16 / 130 V18 MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 VOLVO: Cajas ZF S6-80 / S6-80+GV-80 / S6-90 / S6-1550 / S6-820 Bus B 7 R / B 10 M / B 12 R Código Original / Similar: 000.268.6289 / 000.268.4689 (MB) 0501.398.781/0732.107.019/0501.398.376 (ZF) 1.190.132 (VOLVO) 2T0/711452 (VW) 305.019 / 371.451 / 527.055 (SC) 500053465 (IVECO) 523.743 / 1.384.897 (SC)",
+        "rubro": "ROTULAS"
+    },
+    {
+        "id": "P5943",
+        "name": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / DERECHA / ABAJO CESCA",
+        "brand": "Cesca",
+        "code": "2389",
+        "image": "img/products/Caja ZF/rotula-caja-de-cambios-r-12-x-1-75mm-derecha-abajo-cesca-2389.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / DERECHA / ABAJO CESCA 2389 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17220 / 24220 / 13180 E / 15180 E y Bus 17210 OD FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF S5-580 TO IVECO: Camiones VERTIS 90 V16 / 130 V18 MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 VOLVO: Cajas ZF S6-80 / S6-80+GV-80 / S6-90 / S6-1550 / S6-820 Bus B 7 R / B 10 M / B 12 R Código Original / Similar: 000.268.6289 / 000.268.4689 (MB) 0501.398.780/0732.107.018/0501.398.375 (ZF) 1.190.131 (VOLVO) 2T0/711542/A / TJG/711397/A (VW) 305.320 / 371.452 / 527.056 (SC) 500053460 (IVECO) 523.744 / 1.384.898 (SC)",
+        "rubro": "ROTULAS"
+    },
+    {
+        "id": "P5944",
+        "name": "VALVULA ACCIONAMIENTO DE EMBRAGUE WABCO / SPLIT IMP.",
+        "brand": "Imp",
+        "code": "2337",
+        "image": "img/products/Caja ZF/valvula-accionamiento-de-embrague-wabco-split-imp-2337.jpg",
+        "description": "VALVULA ACCIONAMIENTO DE EMBRAGUE WABCO / SPLIT IMP. 2337 Imp Vehículos compatibles: VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 0750132007 (ZF) 267.859 (VOLVO) 463.022.020 0 (Wabco)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5945",
+        "name": "REPARACION CILINDRO ALTA Y BAJA COMPLETA GP+GV TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2341",
+        "image": "img/products/Caja ZF/reparacion-cilindro-alta-y-baja-completa-gp-gv-trucktec-2341.jpg",
+        "description": "REPARACION CILINDRO ALTA Y BAJA COMPLETA GP+GV TRUCKTEC 2341 Trucktec Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 7149444 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5946",
+        "name": "SERVOEMBRAGUE 95MM. KONSBERG / INYECTADO NTI",
+        "brand": "Nti",
+        "code": "2329",
+        "image": "img/products/Caja ZF/servoembrague-95mm-konsberg-inyectado-nti-2329.jpg",
+        "description": "SERVOEMBRAGUE 95MM. KONSBERG / INYECTADO NTI 2329 Nti Vehículos compatibles: VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 M (Todos – 2001)(Con Caja ZF 16S-1650) Código Original / Similar: 1.069.205 (VOLVO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5947",
+        "name": "REP. VALVULA 3/2 VIAS CONTROL DE CAMBIO WABCO EN EMPUÑADURA BEL-AR",
+        "brand": "Bel Ar",
+        "code": "2218",
+        "image": "img/products/Caja ZF/rep-valvula-3-2-vias-control-de-cambio-wabco-en-empunadura-bel-ar-2218.jpg",
+        "description": "REP. VALVULA 3/2 VIAS CONTROL DE CAMBIO WABCO EN EMPUÑADURA BEL-AR 2218 Bel Ar Vehículos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 IVECO: Válvulas WABCO 884.502.216 0 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC VOLVO: Válvulas WABCO 463.055.052 0 Código Original / Similar: 276.829 (VOLVO) 463.055.003 2 (Wabco) QA-982 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5948",
+        "name": "BOMBA DIRECCION HIDRAULICA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2207",
+        "image": "img/products/Caja ZF/bomba-direccion-hidraulica-tf-p-technology-2207.jpeg",
+        "description": "BOMBA DIRECCION HIDRAULICA TF&P TECHNOLOGY 2207 Tfp Technology Vehículos compatibles: MERCEDES BENZ: Camiones L 1634 EL / LS 1634 EL / LS 1938 EL / 1938 S / L 2638/54 / L 1624 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ATRON 1624 / ATEGO 1725 / 2425/48 Código Original / Similar: 001.460.4480 / 001.460.7580 (MB) 002.460.5480 (MB) 7685955246 / 7685955139 (ZF) GIRO A LA IZQUIERDA",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5949",
+        "name": "PATIN DESLIZANTE HORQUILLA DE CAJA RFI",
+        "brand": "Rfi",
+        "code": "2138",
+        "image": "img/products/Caja ZF/patin-deslizante-horquilla-de-caja-rfi-2138.jpg",
+        "description": "PATIN DESLIZANTE HORQUILLA DE CAJA RFI 2138 Rfi Vehículos compatibles: MERCEDES BENZ: Cajas ZF AK6-80 / AK6-80+GV-80 / S6-80 / S6-80+GV-80 / S6- 90 / 4K-120GP / 4K-121GP / 4S-120GP (3º, 4º, 5º y 6º) / 16S- 1300 / 16S-1600 / 16S-1900 (1º y 2º) MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 / L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus OHL 1526 / 0370 / 0371 UP / 0373 RSD VOLVO: Cajas ZF 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.268.0849 (MB) 1.662.543 (VOLVO) 1295.306.132 (ZF)",
+        "rubro": "PATINES DE HORQUILLA"
+    },
+    {
+        "id": "P5950",
+        "name": "TUERCA SALIDA CAJA CAMBIOS / 34 X 1.5 X 56MM. / FUNDICION IMP.",
+        "brand": "Imp",
+        "code": "1960",
+        "image": "img/products/Caja ZF/tuerca-salida-caja-cambios-34-x-1-5-x-56mm-fundicion-imp-1960.jpg",
+        "description": "TUERCA SALIDA CAJA CAMBIOS / 34 X 1.5 X 56MM. / FUNDICION IMP. 1960 Imp Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 Código Original / Similar: 004.990.1451 (IMP.)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5951",
+        "name": "KIT CRUCETA PALANCA DE CAMBIOS STAHL",
+        "brand": "Stahl",
+        "code": "1746",
+        "image": "img/products/Caja ZF/kit-cruceta-palanca-de-cambios-stahl-1746.jpg",
+        "description": "KIT CRUCETA PALANCA DE CAMBIOS STAHL 1746 Stahl Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 000.268.5389/K / 000.268.8289/K (MB) 0501.396.629 (ZF) 0750.125.951 (ZF) 1.526.807 (VOLVO)",
+        "rubro": "PARTES VARIAS CAJA ZF"
+    },
+    {
+        "id": "P5952",
+        "name": "RETEN CILINDRO ALTA Y BAJA GP SABO",
+        "brand": "SABO",
+        "code": "1763",
+        "image": "img/products/Caja ZF/reten-cilindro-alta-y-baja-gp-sabo-1763.jpg",
+        "description": "RETEN CILINDRO ALTA Y BAJA GP SABO 1763 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0697 / 000.267.2097 (MB) 02797BRGEF / 2797 (SABO) 0468V (Corteco) 0750.112.034 (ZF) 1526817 (VOLVO) 2T0/311281 (VW) 7149388 / 503355249 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5953",
+        "name": "ROTULA CAJA DE CAMBIOS R 14 X 1.5MM. MACHO DERECHA CESCA",
+        "brand": "Cesca",
+        "code": "1686",
+        "image": "img/products/Caja ZF/rotula-caja-de-cambios-r-14-x-1-5mm-macho-derecha-cesca-1686.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS R 14 X 1.5MM. MACHO DERECHA CESCA 1686 Cesca Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 Código Original / Similar: 000.268.5289 / 000.268.4889 000.268.7389 (MB) 0501.204.714 / 0501.396.612 (ZF) 1.672.152 / 1.132.493 (VOLVO) LARGA TOTAL DESDE CENTRO DE LA ROTULA 88MM.",
+        "rubro": "ROTULAS"
+    },
+    {
+        "id": "P5954",
+        "name": "VALVULA 5/2 VIAS IMP.",
+        "brand": "Imp",
+        "code": "1567",
+        "image": "img/products/Caja ZF/valvula-5-2-vias-imp-1567.jpg",
+        "description": "VALVULA 5/2 VIAS IMP. 1567 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR (Valido hasta chasis 52548) VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 0501.396.632/ 0501.204.597/ 0750.132.032 (ZF) 1.662.551 (VOLVO) 2T0/301367/A (VW) 463.063.005 0 / 463.063.003 0 (Wabco) 7149843 (IVECO) 884.502.533 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5955",
+        "name": "ENGRANAJE 3º MOVIL / 34 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14771",
+        "image": "img/products/Caja ZF/engranaje-3-movil-34-dientes-cinpal-14771.jpg",
+        "description": "ENGRANAJE 3º MOVIL / 34 DIENTES CINPAL 14771 Cinpal Vehículos compatibles: MERCEDES BENZ: Caja ZF 16S-1300 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 VOLVO: Caja ZF 16S-1300 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.262.3213 (MB) 02371 (Motopeças) 10-33-0347 (CINPAL) 1295.304.128 (ZF) 1526743 (VOLVO) 95530846 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5956",
+        "name": "JGO. REPARACION SINCRONIZADO CINPAL",
+        "brand": "Cinpal",
+        "code": "14766",
+        "image": "img/products/Caja ZF/jgo-reparacion-sincronizado-cinpal-14766.jpg",
+        "description": "JGO. REPARACION SINCRONIZADO CINPAL 14766 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-80 / S6-80+GV80 / S6-90 MERCEDES BENZ: Camiones L 1521 / 1721 S / 1722 S y Bus OHL 1526 / 0370 / 0371 R / 0371 UP / 0373 RSD / 0400 R / 0400 UP VOLVO: Bus B 10 M VOLVO: Cajas ZF S6-90 Código Original / Similar: 05-35-0082 (CINPAL) 1250.198.400 (ZF) 9 PIEZAS DE CADA UNA",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5957",
+        "name": "JGO RETENES CAJAS DE CAMBIO IMP.",
+        "brand": "Imp",
+        "code": "14604",
+        "image": "img/products/Caja ZF/jgo-retenes-cajas-de-cambio-imp-14604.jpg",
+        "description": "JGO RETENES CAJAS DE CAMBIO IMP. 14604 Imp Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38TP / HD 450 S38HR / HD 450 S42T / HD 450 S42TP / HD 450 S42HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T Código Original / Similar: 93161692 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5958",
+        "name": "EJE SELECTOR CAJA CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "14582",
+        "image": "img/products/Caja ZF/eje-selector-caja-cambios-imp-14582.jpg",
+        "description": "EJE SELECTOR CAJA CAMBIOS IMP. 14582 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF S5-420 HD / 9S-1110 TD / 16S-1455 TD / 16S-1585 TD / 16S-1685 TD / 16S-2520 TO FORD / VW / CUMMINS / MWM: VW Delivery 9160 / Constellation 17280 / 19330 / 19360 / 25360 / 24280 / 26280 / 31280 / 31330 y Bus 9160 OD MERCEDES BENZ: Cajas ZF 16S-2180 TO / 16S-2220 TD RENAULT: Camiones PREMIUM Código Original / Similar: 000.265.2523 (MB) 0769.173.310 / 1315.307.346 (ZF) 2U2/311541/A (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5959",
+        "name": "PASTILLA HORQUILLA DE CAJA IMP.",
+        "brand": "Imp",
+        "code": "14589",
+        "image": "img/products/Caja ZF/pastilla-horquilla-de-caja-imp-14589.jpg",
+        "description": "PASTILLA HORQUILLA DE CAJA IMP. 14589 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 6AS-1010 BO / 6S-1010 BO / 6AS-1010 TO / 6S-1010 TO FORD / VW / CUMMINS / MWM: VW Delivery 9160 / Constellation 17190 / 17280 / 24280 y Bus 15190 EOD / 17230 EOD / 15190 OD / 17230 OD / 17280 OT / 18280 OT IVECO: Bus 170 S28 IVECO: Cajas ZF 6S-1010 BO Código Original / Similar: 1290.306.423 / 1346.306.101 (ZF) 2W0/311585/B (VW) 42541260 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5960",
+        "name": "ROTULA CAJA CAMBIOS ROSCA IZQUIERDA M12X55 / PERNO 10MM. IMP.",
+        "brand": "Imp",
+        "code": "14574",
+        "image": "img/products/Caja ZF/rotula-caja-cambios-rosca-izquierda-m12x55-perno-10mm-imp-14574.jpg",
+        "description": "ROTULA CAJA CAMBIOS ROSCA IZQUIERDA M12X55 / PERNO 10MM. IMP. 14574 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17220 / 18310 TITAN / 24220 / 13180 E / 15180 E y Bus 17210 OD MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Bus B 7 R / B 10 M / B 12 R VOLVO: Cajas ZF S6-80 / S6-80+GV-80 / S6-90 / S6-1550 / S6-820 Código Original / Similar: 000.268.4789 / 000.268.7889 (MB) 000.268.9789 (MB) 1.190.132 (VOLVO) 2684789 / 732107019 (LEMFORDER) 2T0/711452 (VW) N968 (Nakata)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5961",
+        "name": "INTERRUPTOR LUCES MARCHA ATRÁS IMP.",
+        "brand": "Imp",
+        "code": "14521",
+        "image": "img/products/Caja ZF/interruptor-luces-marcha-atras-imp-14521.jpg",
+        "description": "INTERRUPTOR LUCES MARCHA ATRÁS IMP. 14521 Imp Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-1550 / 9S-75 MERCEDES BENZ: Camiones 2423 B / 2423 K y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS Código Original / Similar: 005.545.4514 (MB) 2484 (MA2Ó) 4484 (3-RHO) M18 X 1.5 / CIRCUITO ABIERTO",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5962",
+        "name": "ENGRANAJE 5º FIJO / 44 DIETES CINPAL",
+        "brand": "Cinpal",
+        "code": "14475",
+        "image": "img/products/Caja ZF/engranaje-5-fijo-44-dietes-cinpal-14475.jpg",
+        "description": "ENGRANAJE 5º FIJO / 44 DIETES CINPAL 14475 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 001.263.0810 (MB) 10-33-0444 (CINPAL) 1290.395.197 (ZF) 95531238 (Euroricambi) MX1111010-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5963",
+        "name": "ENGRANAJE 1º MOVIL / 39 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14476",
+        "image": "img/products/Caja ZF/engranaje-1-movil-39-dientes-cinpal-14476.jpg",
+        "description": "ENGRANAJE 1º MOVIL / 39 DIENTES CINPAL 14476 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 001.262.1711 / 001.262.2311 (MB) 001.262.2111 (MB) 10-33-0445 (CINPAL) 1290.395.331 / 1290.395.369 (ZF) 1290.395.333 / 1290.304.075 (ZF) 1290.395.370 / 1290.395.468 (ZF) 95571030 (Euroricambi) MX1111012-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5964",
+        "name": "ENGRANAJE 2º MOVIL / 33 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14477",
+        "image": "img/products/Caja ZF/engranaje-2-movil-33-dientes-cinpal-14477.jpg",
+        "description": "ENGRANAJE 2º MOVIL / 33 DIENTES CINPAL 14477 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.8912 (MB) 10-33-0450 (CINPAL) 1290.304.624 / 1290.395.185 (ZF) 95531230 (Euroricambi) MX1111013-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5965",
+        "name": "EGRANAJE 3º MOVIL / 29 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14478",
+        "image": "img/products/Caja ZF/egranaje-3-movil-29-dientes-cinpal-14478.jpg",
+        "description": "EGRANAJE 3º MOVIL / 29 DIENTES CINPAL 14478 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.8713 (MB) 10-33-0451 (CINPAL) 1290.395.188 (ZF) 95531228 (Euroricambi) MX1111014-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5966",
+        "name": "ENGRANAJE 3 º FIJO / 24 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14479",
+        "image": "img/products/Caja ZF/engranaje-3-fijo-24-dientes-cinpal-14479.jpg",
+        "description": "ENGRANAJE 3 º FIJO / 24 DIENTES CINPAL 14479 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.263.4113 (MB) 10-33-0452 (CINPAL) 1111016-R (MaxGear) 1290.395.187 (ZF) 95531234 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5967",
+        "name": "ENGRANAJE MARCHA ATRAS MOVIL / 35 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14480",
+        "image": "img/products/Caja ZF/engranaje-marcha-atras-movil-35-dientes-cinpal-14480.jpg",
+        "description": "ENGRANAJE MARCHA ATRAS MOVIL / 35 DIENTES CINPAL 14480 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.9611 / 001.262.1111 (MB) 10-33-0453 (CINPAL) 1290.395.034 (ZF) 95531232 (Euroricambi) MX1111019-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5968",
+        "name": "ENGRANAJE 5º FIJO / 34 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14483",
+        "image": "img/products/Caja ZF/engranaje-5-fijo-34-dientes-cinpal-14483.jpg",
+        "description": "ENGRANAJE 5º FIJO / 34 DIENTES CINPAL 14483 Cinpal Vehículos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.6610 (MB) 1.662.517 (VOLVO) 10-33-0628 (CINPAL) 1297.303.039 / 0091.303.171 (ZF) 1297.303.066 / 0091.303.173 (ZF) 8190715 (IVECO) 95530883 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5969",
+        "name": "ENGRANAJE 2º MOVIL / 38 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14469",
+        "image": "img/products/Caja ZF/engranaje-2-movil-38-dientes-cinpal-14469.jpg",
+        "description": "ENGRANAJE 2º MOVIL / 38 DIENTES CINPAL 14469 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 VOLVO: Cajas ZF 16S-1300 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.262.2612 (MB) 10-33-0349 (CINPAL) 1295.304.121 (ZF) 1526732 (VOLVO) 95530842 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5970",
+        "name": "ENGRANAJE 4º FIJO / 39 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14473",
+        "image": "img/products/Caja ZF/engranaje-4-fijo-39-dientes-cinpal-14473.jpg",
+        "description": "ENGRANAJE 4º FIJO / 39 DIENTES CINPAL 14473 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.263.3114 (MB) 10-33-0425 (CINPAL) 1290.395.200 (ZF) 95531236 (Euroricambi) MX1111017-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5971",
+        "name": "ENGRANAJE 4º MOVIL / 28 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "14474",
+        "image": "img/products/Caja ZF/engranaje-4-movil-28-dientes-cinpal-14474.jpg",
+        "description": "ENGRANAJE 4º MOVIL / 28 DIENTES CINPAL 14474 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.6314 (MB) 10-33-0427 (CINPAL) 1290.395.190 (ZF) 95531225 (Euroricambi) MX1111015-R (MaxGear)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5972",
+        "name": "KIT TRABAS SINCRONIZADO CINPAL",
+        "brand": "Cinpal",
+        "code": "14450",
+        "image": "img/products/Caja ZF/kit-trabas-sincronizado-cinpal-14450.jpg",
+        "description": "KIT TRABAS SINCRONIZADO CINPAL 14450 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 Código Original / Similar: 000.262.0018 (MB) 000.262.0018 / 000.262.0674 (MB) 05-35-0081 (CINPAL) 1290.198.406 (ZF) 24 PIEZAS",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5973",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. 330MM / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "14367",
+        "image": "img/products/Caja ZF/kit-embrague-completo-diam-330mm-10-estrias-valeo-14367.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. 330MM / 10 ESTRIAS VALEO 14367 Valeo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1119 Caja EATON FSO-4505-D FORD / VW / CUMMINS / MWM: Ford Cargo 916 Caja EATON FSO-4505-C FORD / VW / CUMMINS / MWM: Motores CUMMINS ISF 3.8 EURO 5 FORD / VW / CUMMINS / MWM: VW Delivery 9160 y Bus 9160 OD Caja ZF S5-420 HD Código Original / Similar: 104508BR-2 (Eaton) 232710 (VALEO) 2P0/198149 / JZV/198149/B (VW) 6126 / 3400 001 717 (Sachs) CC45/7502/EA (FORD) CC4Z/4502/C + CC45/7548/AA (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5974",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. 280MM. / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "14372",
+        "image": "img/products/Caja ZF/kit-embrague-completo-diam-280mm-10-estrias-valeo-14372.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. 280MM. / 10 ESTRIAS VALEO 14372 Valeo Vehículos compatibles: IVECO: Cajas EATON FSO-4405-B IVECO: Cajas ZF 6S-420 IVECO: Motores IVECO F1C 3.0 Euro 5 IVECO: Utilitarios DAILY 40 C14 / 70 C16 HD / DAILY ECOLINE 35 S14 / 35 S14 HD / 35 C15 / 40 S14 / 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD / DAILY MY 45-170 / 55-170 / 60-170 HD / 65-170 / 70-170 y Bus 50 C16 / ECOLINE 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD Código Original / Similar: 104331-1 (Eaton) 500056635 / 500056636 (IVECO) 827479 (VALEO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5975",
+        "name": "REP. VALVULA COMANDO PILOTO KNORR PARCIAL TIPO SV3368 QUINELATO",
+        "brand": "Quinelato",
+        "code": "13878",
+        "image": "img/products/Caja ZF/rep-valvula-comando-piloto-knorr-parcial-tipo-sv3368-quinelato-13878.jpg",
+        "description": "REP. VALVULA COMANDO PILOTO KNORR PARCIAL TIPO SV3368 QUINELATO 13878 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Valvulas KNORR I 87538 FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR IVECO: Válvulas KNORR I 87538 / SV 3368 IVECO: Válvulas ZF 6038.202.003 MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 MERCEDES BENZ: Valvulas KNORR I 87538 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC VOLVO: Válvulas KNORR I 87538 Código Original / Similar: QA-934 (QUINELATO) SP705/P (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P5976",
+        "name": "REP. ACTUADOR CAJA DE CAMBIOS WABCO QUINELATO",
+        "brand": "Quinelato",
+        "code": "13856",
+        "image": "img/products/Caja ZF/rep-actuador-caja-de-cambios-wabco-quinelato-13856.jpg",
+        "description": "REP. ACTUADOR CAJA DE CAMBIOS WABCO QUINELATO 13856 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: ACTUADOR ZF 6009.097.900 / 6009.297.007 FORD / VW / CUMMINS / MWM: Cajas ZF 12AS-1930 TD FORD / VW / CUMMINS / MWM: Ford Cargo 2042 / 2842 IVECO: ACTUADOR ZF 6009.097.900 / 6009.297.007 IVECO: Cajas ZF 12AS-1930 TD / 16AS-2230 TD IVECO: Camiones STRALIS EUROTRONIC NR 490 S46T / NR 570 S46T / NR 740 S56T / STRALIS ECOLINE EUROTRONIC 200 S36 AT / 200 S44 AT / 460 S36T AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AD / 410 T48 _x000D_ AT / 740 T48T AD IVECO: Válvulas WABCO 421.355.011 0 / 421.355.012 0 / 421.355.015 0 / 421.355.022 0 / 421.355.023 0 Código Original / Similar: QA-1885 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5977",
+        "name": "REP. VALVULA SELENOIDE COMANDO DE CAMBIOS QUINELATO",
+        "brand": "Quinelato",
+        "code": "13858",
+        "image": "img/products/Caja ZF/rep-valvula-selenoide-comando-de-cambios-quinelato-13858.jpg",
+        "description": "REP. VALVULA SELENOIDE COMANDO DE CAMBIOS QUINELATO 13858 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110TD / 16S-1455TD / 16S-1585TD FORD / VW / CUMMINS / MWM: Para Válvulas NORGREN / HERION 1025536 / 1025562 FORD / VW / CUMMINS / MWM: Para Válvulas ZF 0501.219.311 / 0501.219.312 / 1324.080.002 FORD / VW / CUMMINS / MWM: VW Constellation 17280 / 19330 / 26280 / 31280 / 31330 IVECO: Cajas ZF 9S-1110TD / 16S-2325TD / 16S-2525TO IVECO: Camiones CURSOR ECOLINE 180 C33 / 450 C33 / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 460 S33 AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / STRALIS HI-WAY EUROTRONIC 490 S44T / TECTOR ECOLINE 170 E28S / 170 E30S / 240 E28S / 240 S30E / 310 E30 / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 410 T44 AD IVECO: Para Válvulas NORGREN / HERION 1025536 / 1025562 IVECO: Para Válvulas ZF 0501.219.311 / 0501.219.312 / 1324.080.002 Código Original / Similar: QA-1917 (QUINELATO)",
+        "rubro": "VALVULA SELENOIDE"
+    },
+    {
+        "id": "P5978",
+        "name": "REP. CRAPODINA DE EMBRAGUE I-SHIFT COMPLETA QUINELATO",
+        "brand": "Quinelato",
+        "code": "13866",
+        "image": "img/products/Caja ZF/rep-crapodina-de-embrague-i-shift-completa-quinelato-13866.jpg",
+        "description": "REP. CRAPODINA DE EMBRAGUE I-SHIFT COMPLETA QUINELATO 13866 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 12TX 2624 TD / 16TX 2644 TD FORD / VW / CUMMINS / MWM: Para Crapodina SACHS 664820000279 / 666482000142 / 666482000203 FORD / VW / CUMMINS / MWM: Para Crapodina ZF 0501.221.020 FORD / VW / CUMMINS / MWM: VW Meteor 28460 / 29520 VOLVO: Camiones FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 370 y Bus B 9 R / B 11 R / B 12 B / B 12 R / B 13 R (Todos con I-Shift) VOLVO: Para Crapodina SACHS 6482000087 / 6482000155 / 3315 VOLVO: Para Crapodina ZF 0501.221.020 Código Original / Similar: QA-2062 (QUINELATO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5979",
+        "name": "REP. CRAPODINA DE EMBRAGUE I-SHIFT PARCIAL QUINELATO",
+        "brand": "Quinelato",
+        "code": "13867",
+        "image": "img/products/Caja ZF/rep-crapodina-de-embrague-i-shift-parcial-quinelato-13867.jpg",
+        "description": "REP. CRAPODINA DE EMBRAGUE I-SHIFT PARCIAL QUINELATO 13867 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 12TX 2624 TD / 16TX 2644 TD FORD / VW / CUMMINS / MWM: Para Crapodina SACHS 664820000279 / 666482000142 / 666482000203 FORD / VW / CUMMINS / MWM: Para Crapodina ZF 0501.221.020 FORD / VW / CUMMINS / MWM: VW Meteor 28460 / 29520 VOLVO: Camiones FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 370 y Bus B 9 R / B 11 R / B 12 B / B 12 R / B 13 R (Todos con I-Shift) VOLVO: Para Crapodina SACHS 6482000087 / 6482000155 / 3315 VOLVO: Para Crapodina ZF 0501.221.020 Código Original / Similar: QA-2062P (QUINELATO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P5980",
+        "name": "EJE DE CARDAN / JUNTA UNIVERSAL STAHL",
+        "brand": "Stahl",
+        "code": "13746",
+        "image": "img/products/Caja ZF/eje-de-cardan-junta-universal-stahl-13746.jpg",
+        "description": "EJE DE CARDAN / JUNTA UNIVERSAL STAHL 13746 Stahl Vehículos compatibles: AGRICOLA: Aplicación AGRICOLA AGCO / AGRALE / CBT / JOHN DEERE / MASSEY FERGUSON / NEW HOLLAND / VALTRA (tracción APL 345 / APL 350) Código Original / Similar: 0095.136.012 / 0095.136.018 (ZF) 033550 / 33550R1 (Massey Ferguson) 800910357000 (Massey Ferguson) 8009109051006 (AGRALE) 84996790 (New Holland) DQ31200 (John Deere)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P5981",
+        "name": "EJE HORQUILLA CAJA VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13684",
+        "image": "img/products/Caja ZF/eje-horquilla-caja-vannucci-13684.jpg",
+        "description": "EJE HORQUILLA CAJA VANNUCCI 13684 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD FORD / VW / CUMMINS / MWM: VW Constellation 17280 Código Original / Similar: 1324.334.009 (ZF) 2T2/311547/A (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5982",
+        "name": "ANILLO SINCRONIZADO DE 5º CINPAL",
+        "brand": "Cinpal",
+        "code": "13568",
+        "image": "img/products/Caja ZF/anillo-sincronizado-de-5-cinpal-13568.jpg",
+        "description": "ANILLO SINCRONIZADO DE 5º CINPAL 13568 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.4834 (MB) 1262.304.050 (ZF) 14-33-0154 (CINPAL) 95530397 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5983",
+        "name": "ENGRANAJE MOVIL DE 4º / HELICOIDAL 30 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "13571",
+        "image": "img/products/Caja ZF/engranaje-movil-de-4-helicoidal-30-dientes-cinpal-13571.jpg",
+        "description": "ENGRANAJE MOVIL DE 4º / HELICOIDAL 30 DIENTES CINPAL 13571 Cinpal Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.7914 (MB) 0091.304.314 (ZF) 1.662.968 (VOLVO) 10-33-0694 (CINPAL) 7149367 (IVECO) 95534470 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5984",
+        "name": "DIRECTA / 21 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "13581",
+        "image": "img/products/Caja ZF/directa-21-dientes-cinpal-13581.jpg",
+        "description": "DIRECTA / 21 DIENTES CINPAL 13581 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 Código Original / Similar: 000.262.1001 (MB) 12-33-0044 (CINPAL) 1290.395.195 (ZF) 95531221 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5985",
+        "name": "ACOPLE DE 3º Y 4º CINPAL",
+        "brand": "Cinpal",
+        "code": "13562",
+        "image": "img/products/Caja ZF/acople-de-3-y-4-cinpal-13562.jpg",
+        "description": "ACOPLE DE 3º Y 4º CINPAL 13562 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.4740 (MB) 1290.395.021 (ZF) 14-33-0104 (CINPAL) 95531226 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5986",
+        "name": "ACOPLE DE 5º CINPAL",
+        "brand": "Cinpal",
+        "code": "13565",
+        "image": "img/products/Caja ZF/acople-de-5-cinpal-13565.jpg",
+        "description": "ACOPLE DE 5º CINPAL 13565 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.5640 (MB) 1290.395.134 (ZF) 14-33-0100 (CINPAL) 95531223 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5987",
+        "name": "ANILLO SINCRONIZADO DE 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "13566",
+        "image": "img/products/Caja ZF/anillo-sincronizado-de-1-y-2-cinpal-13566.jpg",
+        "description": "ANILLO SINCRONIZADO DE 1º Y 2º CINPAL 13566 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.7734 (MB) 1290.304.472 / 1290.304.098 (ZF) 1290.395.311 (ZF) 1290.395.332 / 1290.304.474 (ZF) 14-33-0165 (CINPAL) 95531645 / 95570698 (Euroricambi) LLEVA 2 UNID. POR CAJA",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5988",
+        "name": "BUJE SERVO-SHIFT CAJA DE CAMBIOS QUINELATO",
+        "brand": "Quinelato",
+        "code": "13414",
+        "image": "img/products/Caja ZF/buje-servo-shift-caja-de-cambios-quinelato-13414.jpg",
+        "description": "BUJE SERVO-SHIFT CAJA DE CAMBIOS QUINELATO 13414 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1455 / 16S-1585 TD / 16S-1685 TD FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 6S-1010 BO / 6S-1000 TO FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.216.319 / 0501.217.253 FORD / VW / CUMMINS / MWM: Servo Shift ZF 0501.216.322 FORD / VW / CUMMINS / MWM: VW Constellation 17280 y Bus 17230 OD / 17280 OT_x000D_ VW Constellation 19330 / 19360 / 25360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-151 OD / 16S-221 OD / 16S-2280 TO IVECO: Cajas ZF 16S-221 / 16S-2520 TD / 16S-2521 TO / 16S-2525 TO / 16S-2523 TO / 16S-2321 TD / 16S-2325 TD / 16S-2320 TD / 16S-2280 TO IVECO: Camiones CURSOR ECOLINE 450C33 / EUROTECH 440 E42T / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200S36 AD / 200 S36 AT / 200 _x000D_ S40 AT / 460 S33 AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / TRAKKER 380 T38 / 380 T42 / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T44 AD / 410 T48 AD / 740 T48T AD_x000D_ Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / _x000D_ EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T IVECO: Servo Shift ZF 0501.210.032 / 0501.211.805 / 0501.226.593 / 0501.217.928 MERCEDES BENZ: Cajas ZF 9S-1310 TD / 9S-1315 TD MERCEDES BENZ: Camiones ATEGO 1729/48 / 2426/48 / 2426/54 MERCEDES BENZ: Servo Shift ZF 0501.216.319 / 0501.217.253 RENAULT: Cajas ZF 16S-2220 TD / 16S-2180 TO RENAULT: Camiones RENAULT PREMIUM RENAULT: Servo Shift ZF 0501.211.290 Código Original / Similar: QA-1916B1 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P5989",
+        "name": "RETEN GUIA DIRECTA INTERIOR SABO",
+        "brand": "SABO",
+        "code": "13190",
+        "image": "img/products/Caja ZF/reten-guia-directa-interior-sabo-13190.jpg",
+        "description": "RETEN GUIA DIRECTA INTERIOR SABO 13190 SABO Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-1550 / S5-680 / S5-820 / S6-680 / S6-820 / S6-90 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1526 / OHL 1621 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS VOLVO: Bus B7R / B7 230 / B10M / B12R VOLVO: Cajas ZF S6-1550 / S6-90 / S6-820 Código Original / Similar: 007.997.2047 (MB) 0734.310.108 (ZF) 07485BAF / 7485 / Opcional 07612BAF (SABO) 1173V (Corteco) 6.876.126 (VOLVO) DIAM. INT. 48MM. / DIAM. EXT. 69MM. / ANCHO 10MM / MATERIAL FPM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5990",
+        "name": "JGO. JUNTAS TAPA MODULO ACTUADOR CAJA DE CAMBIOS SABO",
+        "brand": "SABO",
+        "code": "12896",
+        "image": "img/products/Caja ZF/jgo-juntas-tapa-modulo-actuador-caja-de-cambios-sabo-12896.jpg",
+        "description": "JGO. JUNTAS TAPA MODULO ACTUADOR CAJA DE CAMBIOS SABO 12896 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16AS-2230 TD FORD / VW / CUMMINS / MWM: VW Constellation 19360 / 19420 / 25420 / 26420 IVECO: Cajas ZF 16AS-2630 TO / 16AS-2631 TO IVECO: Camiones STRALIS EUROTRONIC NR 490 S46T / NR 570 S46T / NR 740 S56T / STRALIS ECOLINE EUROTRONIC 200 S36 AT / 200 S44 AT / 460 S36T AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AD / 410 T48 AT / 740 T48T AD Código Original / Similar: 0501.316.322 (ZF) 2V5/311623/E (VW) 42471356 (IVECO) 432.410.120 2 (Wabco) 77873 (SABO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P5991",
+        "name": "RETEN TAPA TRASERA DE CAJA SABO",
+        "brand": "SABO",
+        "code": "12897",
+        "image": "img/products/Caja ZF/reten-tapa-trasera-de-caja-sabo-12897.jpg",
+        "description": "RETEN TAPA TRASERA DE CAJA SABO 12897 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 12AS-1930 TD FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 16AS-2230 TD FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 2042 / 2842 FORD / VW / CUMMINS / MWM: VW Constellation 17280 / 19360 / 19420 / 24280 / 25420 / 26420 IVECO: Cajas ZF 9S-1110 TD / 16S-2321 TD / 16AS-2630 TO / 16AS-2631 TO IVECO: Camiones STRALIS NR 200 S41 / NR 200 S46 / NR 490 S41T / NR 490 S46T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS EUROTRONIC NR 490 S46T / NR 570 S46T / NR 740 S56T / STRALIS ECOLINE 490 S48T AS / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S36 AT / 200 S44 AT / 460 S36T AT / 490 S40T AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TECTOR ECOLINE 170 E28S / 240 E28S / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AD / 410 T48 AT / 740 T48T AD Código Original / Similar: 0734.300.679 / 0734.300.421 / 0734.319.8 (ZF) 08483BRAGE / 8483 (SABO) 2V2/311115 / 2T2/311115 (VW) 7422984395 / 7422355610 (RENAULT) 93193253 / 42568757 (IVECO) BH2X/7D049/BA / BH6X/7D049/AA / BH9X/7D0 (FORD) DIAM. INT. 105MM. / DIAM. EXT. 125.3MM. / ANCHO 12/16MM. / MATERIAL FPM",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P5992",
+        "name": "RETEN CAJA DIRECCION SABO",
+        "brand": "SABO",
+        "code": "12802",
+        "image": "img/products/Caja ZF/reten-caja-direccion-sabo-12802.jpg",
+        "description": "RETEN CAJA DIRECCION SABO 12802 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / Delivery 9160 / 6160 / 9170 / 11180 / Worler 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 W / 26260 E / 31320 E / 15190 / 17190 / 17230 / 17280 / 19330 / 19360 / 19420 / 25360 / 25420 / 26280 / 26420 / 31280 / 31330 y Bus 9150 OD / 17210 OD / 18310 OT / 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 9160 OD / 15190 OD / 17230 OD / 17280 OT / 18280 OT / 18330 OT MERCEDES BENZ: Camiones 709 / L 710 / L 710/42 / 712 C / 912/42 / 913 / 914 / 914 C / 1214 C / 1215 C / L 1215 / LK 1218 / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1517 / L 1518 / L 1521 / L 1526 / LS 1526 / LK 1615 / L 1618 /45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LK 2318 / LB 2325 / LK 2325 / LK 2418 / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K y Bus LO 812 / LO 813 D / LO 814 / LO 914 / LO 915 / OF 1214 / OF 1215 / OF 1315 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 / OH 1315 L-SB / OH 1316 / OH 1318 / OH 1320 / OH 1418/52 / OH 1419 / OH 1420 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 L-SB / OH 1718 L-SB / OH 1721 L-SB / OHL 1316 / OHL 1320 / OHL 1420 / OHL 1526 / OHL 1621 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Código Original / Similar: 000.462.2060 (MB) 000.462.2360 / 000.462.1960 (MB) 00496BRG (SABO) 135N (Corteco) 8078033105 (ZF) DIAM. INT. 18MM. / DIAM. EXT. 30MM. / ANCHO 7MM. / MATERIAL NBR",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P5993",
+        "name": "VALVULA SELENOIDE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12658",
+        "image": "img/products/Caja ZF/valvula-selenoide-tf-p-technology-12658.jpg",
+        "description": "VALVULA SELENOIDE TF&P TECHNOLOGY 12658 Tfp Technology Vehículos compatibles: IVECO: Cajas ZF 16S-2321 TD / 16S-2521 TO / 16AS-2631 TO IVECO: Camiones STRALIS NR 200 S41 / NR 200 S46 / NR 490 S41T / NR 490 S46T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 490 S48T AS / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 600 S44T AT / 600 S48T AS / 800 S44T AS / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 600 S48T / 800 S48T / 800 S56T / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 410 T44 AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AT / 740 T48T AD Código Original / Similar: 0501.321.459 (ZF) 42556034 / 42540955 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P5994",
+        "name": "CUADRUPLE CINPAL",
+        "brand": "Cinpal",
+        "code": "11925",
+        "image": "img/products/Caja ZF/cuadruple-cinpal-11925.jpg",
+        "description": "CUADRUPLE CINPAL 11925 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.7102 (MB) 0091.303.104 / 0091.303.146 (ZF) 1.662.764 (VOLVO) 13-33-0214 (CINPAL) 2T0/300061 (VW) 7149360 (IVECO) 95534465 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5995",
+        "name": "PISTON CILINDRO ALTA Y BAJA SUPERIOR CAJA CAMBIO GP IGH",
+        "brand": "Igh",
+        "code": "1179",
+        "image": "img/products/Caja ZF/piston-cilindro-alta-y-baja-superior-caja-cambio-gp-igh-1179.jpg",
+        "description": "PISTON CILINDRO ALTA Y BAJA SUPERIOR CAJA CAMBIO GP IGH 1179 Igh Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.267.0818 (MB) 1.527.462 (VOLVO) 1296.334.069 / 1296.334.039 (ZF) 2T0/305159/A (VW) 42492447 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5996",
+        "name": "GUIA DIRECTA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11773",
+        "image": "img/products/Caja ZF/guia-directa-industria-argentina-11773.jpg",
+        "description": "GUIA DIRECTA INDUSTRIA ARGENTINA 11773 Industria Argentina Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37TP / 450 E37HR Código Original / Similar: 0091.302.289 / 1297.302.169 (ZF) 8194830 (IVECO) R-6110 (REI)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5997",
+        "name": "CAMISA DESLIZANTE 3º Y 4º / M. NUEVO CINPAL",
+        "brand": "Cinpal",
+        "code": "11719",
+        "image": "img/products/Caja ZF/camisa-deslizante-3-y-4-m-nuevo-cinpal-11719.jpg",
+        "description": "CAMISA DESLIZANTE 3º Y 4º / M. NUEVO CINPAL 11719 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD / 16S-2321 TO / 16S-2325 TD / 16S-2520 TO IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 200 S44 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / TRAKKER 380 T38 / 380 T42 / 380 T38 AD / 410 T38 AD / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T 44 AD / 410 T48 AD / 740 T48 AD MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.6623 (MB) 1.662.710 (VOLVO) 1310.304.202 (ZF) 1312.302.057 / 1316.304.225 (ZF) 26-33-0063 (CINPAL) 2T0/311365 (VW) 93157239 / 42534465 (IVECO) 95570219 (Euroricambi) SE USA CON 1316.304.187 (COD. SILVA 11693) Y 1297.304.484 (COD. SILVA 11653)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5998",
+        "name": "CAMISA DESLIZANTE 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "11724",
+        "image": "img/products/Caja ZF/camisa-deslizante-1-y-2-cinpal-11724.jpg",
+        "description": "CAMISA DESLIZANTE 1º Y 2º CINPAL 11724 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 001.262.1134 / 001.262.2423 (MB) 1316.304.169 / 1315.304.136 (ZF) 26-33-0071 (CINPAL) 2T0/311242/B / 2T0/311242/A (VW) 85.105.756 / 85.105.112 (VOLVO) 95531627 (Euroricambi) SE USA CON 1316.304.170 (COD. SILVA 11679) Y 1316.304.154 (COD. SILVA 11691)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P5999",
+        "name": "DESPLAZABLE GP / GRUPO PLANETARIO / 86 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11710",
+        "image": "img/products/Caja ZF/desplazable-gp-grupo-planetario-86-dientes-cinpal-11710.jpg",
+        "description": "DESPLAZABLE GP / GRUPO PLANETARIO / 86 DIENTES CINPAL 11710 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.263.7910 (MB) 0091.332.057 / 1297.332.033 (ZF) 15-33-0135 (CINPAL) 2T0/323315 (VW) 8198832 (IVECO) 95535051 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6000",
+        "name": "CAMISA SINCRONIZADO / DESPLAZABLE 3º Y 4º / MOD. VIEJO CINPAL",
+        "brand": "Cinpal",
+        "code": "11713",
+        "image": "img/products/Caja ZF/camisa-sincronizado-desplazable-3-y-4-mod-viejo-cinpal-11713.jpg",
+        "description": "CAMISA SINCRONIZADO / DESPLAZABLE 3º Y 4º / MOD. VIEJO CINPAL 11713 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 001.262.1923 (MB) 1.662.954 (VOLVO) 1310.304.225 (ZF) 26-33-0038 (CINPAL) 2T0/311365/A (VW) 95534468 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6001",
+        "name": "CAMISA SINCRONIZADO / DESPLAZABLE 3º Y 4º / MOD. NUEVO CINPAL",
+        "brand": "Cinpal",
+        "code": "11718",
+        "image": "img/products/Caja ZF/camisa-sincronizado-desplazable-3-y-4-mod-nuevo-cinpal-11718.jpg",
+        "description": "CAMISA SINCRONIZADO / DESPLAZABLE 3º Y 4º / MOD. NUEVO CINPAL 11718 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1316.304.167 (ZF) 26-33-0062 (CINPAL) 2U2/311365/A (VW) 95532442 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6002",
+        "name": "ACOPLE SINCRONIZADO DE 3º / M. NUEVO CINPAL",
+        "brand": "Cinpal",
+        "code": "11690",
+        "image": "img/products/Caja ZF/acople-sincronizado-de-3-m-nuevo-cinpal-11690.jpg",
+        "description": "ACOPLE SINCRONIZADO DE 3º / M. NUEVO CINPAL 11690 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF S6-820 / 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1316.304.186 (ZF) 14-33-0453 (CINPAL) 95534998 (Euroricambi) SE USA CON 1297.304.484 (COD. SILVA 11653) Y 1316.304.167",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6003",
+        "name": "ACOPLE SINCRONIZADO DE 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "11691",
+        "image": "img/products/Caja ZF/acople-sincronizado-de-1-y-2-cinpal-11691.jpg",
+        "description": "ACOPLE SINCRONIZADO DE 1º Y 2º CINPAL 11691 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.7240 (MB) 1316.304.183 / 1316.304.154 (ZF) 14-33-0454 (CINPAL) 2U2/311167/B / 2T0/311167/A (VW) 85.105.109 (VOLVO) 95534927 (Euroricambi) SE USA CON 1310.304.067 Y 1316.304.150 (COD. SILVA 11679)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6004",
+        "name": "ACOPLE SINCRONIZADO DE 3º Y 4º / M. NUEVO CINPAL",
+        "brand": "Cinpal",
+        "code": "11692",
+        "image": "img/products/Caja ZF/acople-sincronizado-de-3-y-4-m-nuevo-cinpal-11692.jpg",
+        "description": "ACOPLE SINCRONIZADO DE 3º Y 4º / M. NUEVO CINPAL 11692 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1316.304.185 (ZF) 14-33-0455 (CINPAL) 2T0/311160/A (VW) 95534926 (Euroricambi) SE USA CON 1316.304.168 / COD. SILVA 11672",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6005",
+        "name": "ACOPLE DIRECTA / ARRASTRADOR CINPAL",
+        "brand": "Cinpal",
+        "code": "11693",
+        "image": "img/products/Caja ZF/acople-directa-arrastrador-cinpal-11693.jpg",
+        "description": "ACOPLE DIRECTA / ARRASTRADOR CINPAL 11693 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1316.304.187 (ZF) 14-33-0458 (CINPAL) 95535032 (Euroricambi) SE USA CON 1297.304.484 (COD SILVA 11653) Y 1310.304.202 (COD. SILVA 11719)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6006",
+        "name": "ACOPLE SINCRONIZADO GRUPO PLANETARIO / ARRASTRADOR CINPAL",
+        "brand": "Cinpal",
+        "code": "11698",
+        "image": "img/products/Caja ZF/acople-sincronizado-grupo-planetario-arrastrador-cinpal-11698.jpg",
+        "description": "ACOPLE SINCRONIZADO GRUPO PLANETARIO / ARRASTRADOR CINPAL 11698 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1633 / LS 1633 / L 1938 / LS 1938 / LB 2325 / LK 2325 VOLVO: Cajas ZF 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.263.1920 (MB) 1295.233.025 (ZF) 14-35-0067 (CINPAL) 6.885.660 (VOLVO) 95530681 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6007",
+        "name": "ACOPLE SINCRONIZADO GRUPO PLANETARIO / ARRASTRADOR / CHICO CINPAL",
+        "brand": "Cinpal",
+        "code": "11699",
+        "image": "img/products/Caja ZF/acople-sincronizado-grupo-planetario-arrastrador-chico-cinpal-11699.jpg",
+        "description": "ACOPLE SINCRONIZADO GRUPO PLANETARIO / ARRASTRADOR / CHICO CINPAL 11699 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1600 / 16S-1650 VOLVO: Camiones N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.2020 / 000.263.1420 (MB) 1.662.575 (VOLVO) 1313.233.001 / 1297.233.018 (ZF) 14-35-0284 (CINPAL) 2T0/323341 (VW) 93156049 (IVECO) 95530886 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6008",
+        "name": "ANILLO SINCRONIZADO 3º Y 4º / M. NUEVO CINPAL",
+        "brand": "Cinpal",
+        "code": "11672",
+        "image": "img/products/Caja ZF/anillo-sincronizado-3-y-4-m-nuevo-cinpal-11672.jpg",
+        "description": "ANILLO SINCRONIZADO 3º Y 4º / M. NUEVO CINPAL 11672 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 1316.304.168 / 1316.304.149 (ZF) 14-33-0340 (CINPAL) 2U2/311269 (VW) 42549968 (IVECO) 95534389 (Euroricambi) SE USA CON 1316.304.185 / COD. SILVA 11692",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6009",
+        "name": "ANILLO SINCRONIZADO 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "11679",
+        "image": "img/products/Caja ZF/anillo-sincronizado-1-y-2-cinpal-11679.jpg",
+        "description": "ANILLO SINCRONIZADO 1º Y 2º CINPAL 11679 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD / 16S-2321 TO / 16S-2325 TD / 16S-2520 TO IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 200 S44 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / TRAKKER 380 T38 / 380 T42 / 380 T38 AD / 410 T38 AD / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T 44 AD / 410 T48 AD / 740 T48 AD MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 001.262.1034 / 001.262.6429 (MB) 1316.304.150 / 1316.304.170 (ZF) 14-33-0395 (CINPAL) 2T0/311295/A / 2T0/311295/B (VW) 85.105.110 / 85.108.755 (VOLVO) 93191185 (IVECO) 95531629 (Euroricambi) SE USA CON 1316.304.183 (COD. SILVA 11691) / 1316.304.179 Y 1316.304.169 (COD. SILVA 11724",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6010",
+        "name": "PLATO SINCRONIZADO DE BAJA / GRUPO PLANETARIO CINPAL",
+        "brand": "Cinpal",
+        "code": "11646",
+        "image": "img/products/Caja ZF/plato-sincronizado-de-baja-grupo-planetario-cinpal-11646.jpg",
+        "description": "PLATO SINCRONIZADO DE BAJA / GRUPO PLANETARIO CINPAL 11646 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.1720 (MB) 1.527.360 (VOLVO) 1296.233.006 / 1296.233.008 (ZF) 14-33-0064 (CINPAL) 2T0/313689 (VW) 7982213 (IVECO) 95530682 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6011",
+        "name": "CAMISA DESPLAZABLE GP / GRUPO PLANETARIO CINPAL",
+        "brand": "Cinpal",
+        "code": "11647",
+        "image": "img/products/Caja ZF/camisa-desplazable-gp-grupo-planetario-cinpal-11647.jpg",
+        "description": "CAMISA DESPLAZABLE GP / GRUPO PLANETARIO CINPAL 11647 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 / 16S-221 IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.0523 (MB) 1.527.459 (VOLVO) 1296.333.023 / 1296.333.011 (ZF) 14-33-0066 (CINPAL) 2T0/313242 (VW) 7982227 (IVECO) 95530649 / 95530886 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6012",
+        "name": "CAMISA DESPLAZABLE 1º A 4º GV / 58 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11648",
+        "image": "img/products/Caja ZF/camisa-desplazable-1-a-4-gv-58-dientes-cinpal-11648.jpg",
+        "description": "CAMISA DESPLAZABLE 1º A 4º GV / 58 DIENTES CINPAL 11648 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1600 / 16S-1900 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 VOLVO: Cajas ZF 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.262.3623 (MB) 1.526.696 (VOLVO) 1295.304.002 (ZF) 14-33-0068 (CINPAL) 95530643 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6013",
+        "name": "ANILLO SINCRONIZADO 3º Y 4º / LLEVA 2 UNID. POR CAJA CINPAL",
+        "brand": "Cinpal",
+        "code": "11650",
+        "image": "img/products/Caja ZF/anillo-sincronizado-3-y-4-lleva-2-unid-por-caja-cinpal-11650.jpg",
+        "description": "ANILLO SINCRONIZADO 3º Y 4º / LLEVA 2 UNID. POR CAJA CINPAL 11650 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 Código Original / Similar: 000.262.7634 / 000.262.2634 (MB) 1290.304.473 / 1238.304.420 (ZF) 14-33-0135 (CINPAL) 95530404 / 95531083 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6014",
+        "name": "ANILLO SINCRONIZADO 3º Y 4º / ACERO MOLIBDENIO / LLEVA 4 UNID. POR CAJA CINPAL",
+        "brand": "Cinpal",
+        "code": "11651",
+        "image": "img/products/Caja ZF/anillo-sincronizado-3-y-4-acero-molibdenio-lleva-4-unid-por-caja-cinpal-11651.jpg",
+        "description": "ANILLO SINCRONIZADO 3º Y 4º / ACERO MOLIBDENIO / LLEVA 4 UNID. POR CAJA CINPAL 11651 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1600 / 16S-1900 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 VOLVO: Cajas ZF 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.262.2034 / 000.262.9934 (MB) 000.262.3634 (MB) 1.526.697 (VOLVO) 1295.304.004 (ZF) 1304.304.686 / 1304.304.134 (ZF) 14-33-0138 (CINPAL) 95530642 / 95532421 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6015",
+        "name": "ANILLO SINCRONIZADO GP / GRUPO PLANETARIO / ACERO MOLIBDENIO CINPAL",
+        "brand": "Cinpal",
+        "code": "11652",
+        "image": "img/products/Caja ZF/anillo-sincronizado-gp-grupo-planetario-acero-molibdenio-cinpal-11652.jpg",
+        "description": "ANILLO SINCRONIZADO GP / GRUPO PLANETARIO / ACERO MOLIBDENIO CINPAL 11652 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 9S-1110 TD / 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 17280 / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 9S-1110 TD / 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TECTOR ECOLINE 170 E28S / 240 E28S / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 8S-1350 / 9S-1310 TD / 9S-1315 TD / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 / ATEGO 1729/48 / 2426/48 / 2426/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.0234 / 000.263.0534 (MB) 000.263.0334 (MB) 1.527.458 / 20.852.999 (VOLVO) 1296.333.033 / 1296.333.044 (ZF) 1296.333.045 / 1296.333.022 (ZF) 14-33-0171 (CINPAL) 2T0/311247 / 2U2/311247 (VW) 7982226 / 42532826 (IVECO) 95531084 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6016",
+        "name": "ANILLO SINCRONIZADO 3º Y 4º / MOD. VIEJO CINPAL",
+        "brand": "Cinpal",
+        "code": "11653",
+        "image": "img/products/Caja ZF/anillo-sincronizado-3-y-4-mod-viejo-cinpal-11653.jpg",
+        "description": "ANILLO SINCRONIZADO 3º Y 4º / MOD. VIEJO CINPAL 11653 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD / 16S-2321 TO / 16S-2325 TD / 16S-2520 TO / 16S-2525 TO IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 200 S44 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / TRAKKER 380 T38 / 380 T42 / 380 T38 AD / 410 T38 AD / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T 44 AD / 410 T48 AD / 740 T48 AD MERCEDES BENZ: Cajas ZF S6-820 / 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.7034 (MB) 1.662.711 / 23.097.026 (VOLVO) 1297.304.484 (ZF) 14-33-0172 (CINPAL) 2T0/311269 (VW) 93159684 / 42532487 (IVECO) 95531072 (Euroricambi) SE USA CON ACOPLE 0091.304.310 / COD. SILVA 11657",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6017",
+        "name": "MAZA SINCRONIZADO 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "11655",
+        "image": "img/products/Caja ZF/maza-sincronizado-1-y-2-cinpal-11655.jpg",
+        "description": "MAZA SINCRONIZADO 1º Y 2º CINPAL 11655 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.7235 (MB) 0091.304.127 (ZF) 1.662.741 (VOLVO) 14-33-0219 (CINPAL) 2T0/311243 (VW) 7149362 (IVECO) 95570844 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6018",
+        "name": "ACOPLE DE 1º Y 2º / ARRASTRADOR CINPAL",
+        "brand": "Cinpal",
+        "code": "11656",
+        "image": "img/products/Caja ZF/acople-de-1-y-2-arrastrador-cinpal-11656.jpg",
+        "description": "ACOPLE DE 1º Y 2º / ARRASTRADOR CINPAL 11656 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 / 16S-221 / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37HR / 740 E42TZ / EUROTRAKKER 380 E37 / 720 E42 / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 490 S42T/P / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.5040 (MB) 0091.304.128 (ZF) 1.662.719 (VOLVO) 14-33-0220 (CINPAL) 2T0/311167 (VW) 7149363 (IVECO) 95570843 (Euroricambi) SE USA CON ANILLO 1297.304.485 / COD. SILVA 11654 Y CAMISA 1310.304.067",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6019",
+        "name": "ACOPLE DE 3º / ARRASTRADOR / MOD. VIEJO CINPAL",
+        "brand": "Cinpal",
+        "code": "11657",
+        "image": "img/products/Caja ZF/acople-de-3-arrastrador-mod-viejo-cinpal-11657.jpg",
+        "description": "ACOPLE DE 3º / ARRASTRADOR / MOD. VIEJO CINPAL 11657 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 FORD / VW / CUMMINS / MWM: Camiones VW 18310 / Constellation 19320 E / 31320 E / 19330 / 19360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF S6-820 / 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.7040 (MB) 0091.304.217 / 0091.304.310 (ZF) 1.662.950 (VOLVO) 14-33-0257 (CINPAL) 2T0/311160 (VW) 7149842 (IVECO) 95534552 (Euroricambi) SE USA CON ANILLO 1297.304.484 / COD. SILVA 11653 Y CAMISA 1310.304.202 / COD. SILVA 11719",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6020",
+        "name": "ACOPLE DE 4º / ARRASTRADOR CINPAL",
+        "brand": "Cinpal",
+        "code": "11658",
+        "image": "img/products/Caja ZF/acople-de-4-arrastrador-cinpal-11658.jpg",
+        "description": "ACOPLE DE 4º / ARRASTRADOR CINPAL 11658 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.4940 / 000.262.7140 (MB) 0091.304.109 / 0091.304.311 (ZF) 1.662.709 / 1.662.951 (VOLVO) 14-33-0258 (CINPAL) 2T0/311146 (VW) 7149361 (IVECO) 95570838 (Euroricambi) SE USA CON ANILLO 1297.304.484 / COD. SILVA 11653 Y CAMISA 1310.304.202 / COD. SILVA 11719",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6021",
+        "name": "MAZA SINCRONIZADO 3º Y 4º CINPAL",
+        "brand": "Cinpal",
+        "code": "11659",
+        "image": "img/products/Caja ZF/maza-sincronizado-3-y-4-cinpal-11659.jpg",
+        "description": "MAZA SINCRONIZADO 3º Y 4º CINPAL 11659 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR / EUROTRAKKER 380 E37 / 450 E37 / 450 E37T MERCEDES BENZ: Cajas ZF S6-820 / 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.5835 (MB) 0091.304.361 / 1312.304.052 (ZF) 1.662.740 (VOLVO) 1316.304.181 (ZF) 14-33-0283 (CINPAL) 2T0/311309/B (VW) 93156491 (IVECO) 95570839 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6022",
+        "name": "EJE ACANALADO / LARGO TOTAL 501.80MM. / 31 ESTRIAS CINPAL",
+        "brand": "Cinpal",
+        "code": "11630",
+        "image": "img/products/Caja ZF/eje-acanalado-largo-total-501-80mm-31-estrias-cinpal-11630.jpg",
+        "description": "EJE ACANALADO / LARGO TOTAL 501.80MM. / 31 ESTRIAS CINPAL 11630 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.262.6705 (MB) 0091.304.267 (ZF) 13-33-0216 (CINPAL) 149854 (IVECO) 2T0/311460 (VW) 95534800 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6023",
+        "name": "ARRASTRADOR 1º Y 2º / ACOPLE CINPAL",
+        "brand": "Cinpal",
+        "code": "11645",
+        "image": "img/products/Caja ZF/arrastrador-1-y-2-acople-cinpal-11645.jpg",
+        "description": "ARRASTRADOR 1º Y 2º / ACOPLE CINPAL 11645 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1600 / 16S-1900 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 VOLVO: Cajas ZF 16S-1300 / 16S-1600 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.262.2140 (MB) 1297.304.196 (ZF) 14-33-0061 (CINPAL) 6.889.868 (VOLVO) 95530863 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6024",
+        "name": "DIRECTA / 57 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11618",
+        "image": "img/products/Caja ZF/directa-57-dientes-cinpal-11618.jpg",
+        "description": "DIRECTA / 57 DIENTES CINPAL 11618 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 Código Original / Similar: 001.262.1002 (MB) 12-35-0040 (CINPAL) 1295.202.011 / 1295.302.105 (ZF) 95570329 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6025",
+        "name": "DIRECTA / 57 DIENTES / CON TUBO PARA LUBRICACIÓN CINPAL",
+        "brand": "Cinpal",
+        "code": "11620",
+        "image": "img/products/Caja ZF/directa-57-dientes-con-tubo-para-lubricacion-cinpal-11620.jpg",
+        "description": "DIRECTA / 57 DIENTES / CON TUBO PARA LUBRICACIÓN CINPAL 11620 Cinpal Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR Código Original / Similar: 0091.302.194 / 0091.202.034 (ZF) 12-35-0106 (CINPAL) 7149348 (IVECO) 95534965 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6026",
+        "name": "ENGRANAJE CONSTANTE / 30 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11576",
+        "image": "img/products/Caja ZF/engranaje-constante-30-dientes-cinpal-11576.jpg",
+        "description": "ENGRANAJE CONSTANTE / 30 DIENTES CINPAL 11576 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1650 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LB 2325 / LK 2325 / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.262.6510 (MB) 0091.302.179 / 0091.302.272 (ZF) 10-33-0629 (CINPAL) 2T0/311532 (VW) 7149358 (IVECO) 95534655 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6027",
+        "name": "ENGRANAJE HELICOIDAL 4º FIJA / INFERIOR / 34 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11579",
+        "image": "img/products/Caja ZF/engranaje-helicoidal-4-fija-inferior-34-dientes-cinpal-11579.jpg",
+        "description": "ENGRANAJE HELICOIDAL 4º FIJA / INFERIOR / 34 DIENTES CINPAL 11579 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.4314 / 000.263.3814 (MB) 0091.303.141 / 0091.303.102 (ZF) 0091.303.143 (ZF) 10-33-0686 (CINPAL) 2T2/311351 (VW) 7149857 (IVECO) 95534510 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6028",
+        "name": "ENGRANAJE 2º LIBRE / 38 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11580",
+        "image": "img/products/Caja ZF/engranaje-2-libre-38-dientes-cinpal-11580.jpg",
+        "description": "ENGRANAJE 2º LIBRE / 38 DIENTES CINPAL 11580 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.262.8812 (MB) 0091.304.191 / 0091.304.322 (ZF) 1.662.718 (VOLVO) 10-33-0688 (CINPAL) 2T0/311163 (VW) 7149365 (IVECO) 95534474 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6029",
+        "name": "ENGRANAJE SOLAR / 24 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11581",
+        "image": "img/products/Caja ZF/engranaje-solar-24-dientes-cinpal-11581.jpg",
+        "description": "ENGRANAJE SOLAR / 24 DIENTES CINPAL 11581 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.262.1509 (MB) 0091.304.216 (ZF) 10-33-0689 (CINPAL) 2T0/311914 (VW) 7149853 (IVECO) 95534511 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6030",
+        "name": "ENGRANAJE 4º LIBRE / SUPERIOR / 28 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11582",
+        "image": "img/products/Caja ZF/engranaje-4-libre-superior-28-dientes-cinpal-11582.jpg",
+        "description": "ENGRANAJE 4º LIBRE / SUPERIOR / 28 DIENTES CINPAL 11582 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.262.7214 (MB) 0091.304.219 / 0091.304.315 (ZF) 10-33-0691 (CINPAL) 7149851 (IVECO) 95534512 (Euroricambi) T0/311351/C (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6031",
+        "name": "ENGRANAJE 3º LIBRE / 35 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11583",
+        "image": "img/products/Caja ZF/engranaje-3-libre-35-dientes-cinpal-11583.jpg",
+        "description": "ENGRANAJE 3º LIBRE / 35 DIENTES CINPAL 11583 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.262.9513 (MB) 0091.304.238 (ZF) 10-33-0692 (CINPAL) 2T0/311285/C (VW) 7149852 (IVECO) 95534629 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6032",
+        "name": "ENGRANAJE 1º LIBRE / 47 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11584",
+        "image": "img/products/Caja ZF/engranaje-1-libre-47-dientes-cinpal-11584.jpg",
+        "description": "ENGRANAJE 1º LIBRE / 47 DIENTES CINPAL 11584 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 001.262.2411 (MB) 0091.304.297 / 0091.304.190 (ZF) 1.662.720 (VOLVO) 10-33-0693 (CINPAL) 2T0/311251/A (VW) 7149364 (IVECO) 95534469 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6033",
+        "name": "PLATO ACOPLE GRUPO PLANETARIO / 83 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11585",
+        "image": "img/products/Caja ZF/plato-acople-grupo-planetario-83-dientes-cinpal-11585.jpg",
+        "description": "PLATO ACOPLE GRUPO PLANETARIO / 83 DIENTES CINPAL 11585 Cinpal Vehículos compatibles: IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / L 2638/54 / ATRON 1634 / 1735 VOLVO: Cajas ZF 16S-1600 / 16S-1650 VOLVO: Camiones N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.263.1025 (MB) 0091.332.022 / 1297.332.017 (ZF) 1.662.559 (VOLVO) 10-33-0696 (CINPAL) 7149380 (IVECO) 95530781 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6034",
+        "name": "ENGRANAJE 3º FIJA / INFERIOR / 28 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11586",
+        "image": "img/products/Caja ZF/engranaje-3-fija-inferior-28-dientes-cinpal-11586.jpg",
+        "description": "ENGRANAJE 3º FIJA / INFERIOR / 28 DIENTES CINPAL 11586 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.263.4513 (MB) 0091.303.106 / 0091.303.144 (ZF) 10-33-0700 (CINPAL) 2T0/311285/B (VW) 7149858 (IVECO) 95534628 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6035",
+        "name": "ENGRANAJE 4º MOVIL / SUPERIOR / 30 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11571",
+        "image": "img/products/Caja ZF/engranaje-4-movil-superior-30-dientes-cinpal-11571.jpg",
+        "description": "ENGRANAJE 4º MOVIL / SUPERIOR / 30 DIENTES CINPAL 11571 Cinpal Vehículos compatibles: MERCEDES BENZ: Cajas ZF 16S-1300 MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 VOLVO: Cajas ZF 16S-1300 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 Código Original / Similar: 000.262.2514 (MB) 1.526.745 (VOLVO) 10-33-0346 (CINPAL) 1295.304.135 (ZF) 95530849 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6036",
+        "name": "ENGRANAJE CONSTANTE / 5º FIJA / 31 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11572",
+        "image": "img/products/Caja ZF/engranaje-constante-5-fija-31-dientes-cinpal-11572.jpg",
+        "description": "ENGRANAJE CONSTANTE / 5º FIJA / 31 DIENTES CINPAL 11572 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1650 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.263.7610 (MB) 0091.303.172 / 0091.303.174 (ZF) 10-33-0569 (CINPAL) 1297.303.040 (ZF) 2T0/311532/A (VW) 7149856 (IVECO) 95570009 (Euroricambi)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6037",
+        "name": "JGO. ENGRANAJES / PIÑONES GRUPO PLANETARIO / 30 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11551",
+        "image": "img/products/Caja ZF/jgo-engranajes-pinones-grupo-planetario-30-dientes-cinpal-11551.jpg",
+        "description": "JGO. ENGRANAJES / PIÑONES GRUPO PLANETARIO / 30 DIENTES CINPAL 11551 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / L 2638/54 / ATRON 1634 / 1735 Código Original / Similar: 000.260.2697 (MB) 05-35-0068 (CINPAL) 1297.232.024 / 0091.232.034 (ZF) 2T0/323301 (VW) 93156046 / 500052669 (IVECO) 95530370 (Euroricambi) COMPUESTOS POR 5 PIEZAS 10-33-0701 / 1297.332.028",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6038",
+        "name": "JGO.JUNTAS CAJA CAMBIOS UGR",
+        "brand": "UGR",
+        "code": "11459",
+        "image": "img/products/Caja ZF/jgo-juntas-caja-cambios-ugr-11459.jpg",
+        "description": "JGO.JUNTAS CAJA CAMBIOS UGR 11459 UGR Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1585 TD FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 25360 / 31330 IVECO: Cajas ZF 16S-221 OD / 16S-2320 TD / 16S-2280 TO IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T42 / 720 T42T RENAULT: Cajas ZF 16S-2180 TO RENAULT: Camiones PREMIUM / MAGNUM Código Original / Similar: 1315.298.001 / 1292.298.915 (ZF) 5001843157 (RENAULT) 93161691 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P6039",
+        "name": "BOMBA ACEITE CAJA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11403",
+        "image": "img/products/Caja ZF/bomba-aceite-caja-trucktec-11403.jpg",
+        "description": "BOMBA ACEITE CAJA TRUCKTEC 11403 Trucktec Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4S-120-GP MERCEDES BENZ: Camiones L 1526 / LS 1526 / LB 2325 / LK 2325 Código Original / Similar: 000.260.0490 / 000.260.0590 (MB) 000.260.1090 (MB) 1269.202.104 / 1269.202.027 (ZF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6040",
+        "name": "JGO. REP. UNIDAD ELECTRONICA CAJA DE CAMBIOS / AMT QUINELATO",
+        "brand": "Quinelato",
+        "code": "11346",
+        "image": "img/products/Caja ZF/jgo-rep-unidad-electronica-caja-de-cambios-amt-quinelato-11346.jpg",
+        "description": "JGO. REP. UNIDAD ELECTRONICA CAJA DE CAMBIOS / AMT QUINELATO 11346 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Caja Automatica ZF 12AS-1930 TD FORD / VW / CUMMINS / MWM: Ford Cargo 2042 / 2842 FORD / VW / CUMMINS / MWM: Se usa en ZF 6009.097.900 / 6009.297.007 IVECO: Cajas ZF 16AS-2630 TO / 16AS-2631 TO IVECO: Camiones STRALIS NR 490 S46T EUROTRONIC / NR 570 S46T EUROTRONIC / NR 740 S46T EUROTRONIC / STRALIS ECOLINE 200 S36 AT EUROTRONIC / 460 S36T AT EUROTRONIC / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 600 S44T AS EUROTRONIC / 530 S36T AT EUROTRONIC / 600 S40T AT EUROTRONIC / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 740 T48T AD EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT EUROTRONIC / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 410 T38 AD / 410 T42 AD / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC (Con Caja Automatica) IVECO: Se usa en ZF 6009.097.900 / 6009.297.007 Código Original / Similar: 421.355.947 2 / 421.355.950 2 (Wabco) QA-2462 (QUINELATO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6041",
+        "name": "VALVULA COMANDO PILOTO KNORR 10 BAR TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "1129",
+        "image": "img/products/Caja ZF/valvula-comando-piloto-knorr-10-bar-trucktec-1129.jpg",
+        "description": "VALVULA COMANDO PILOTO KNORR 10 BAR TRUCKTEC 1129 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Código Original / Similar: 001.260.6757/ 001.260.2357/ 001.260.3757 (MB) 1.662.413 (VOLVO) 2T0/301367 (VW) 6038 202 003 (ZF) 93159298 (IVECO) I 87538 / SV 3368 (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6042",
+        "name": "PERNO HORQUILLA PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "1108",
+        "image": "img/products/Caja ZF/perno-horquilla-palanca-de-cambios-imp-1108.jpg",
+        "description": "PERNO HORQUILLA PALANCA DE CAMBIOS IMP. 1108 Imp Vehículos compatibles: MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 Código Original / Similar: 000.267.0574 (MB)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6043",
+        "name": "SERVOEMBRAGUE WABCO 102MM. TKL",
+        "brand": "TKL",
+        "code": "10605",
+        "image": "img/products/Caja ZF/servoembrague-wabco-102mm-tkl-10605.jpg",
+        "description": "SERVOEMBRAGUE WABCO 102MM. TKL 10605 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Bus 15190 OD / 17230 OD / 17280 OT (Todos con motor MAN y Caja ZF 6S-1010 BO) Código Original / Similar: 0501.008.596 (ZF) 2W0/721263 / 2W0/721263/E (VW) 970.051.228 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P6044",
+        "name": "RETEN SALIDA DE CAJA SABO",
+        "brand": "SABO",
+        "code": "10388",
+        "image": "img/products/Caja ZF/reten-salida-de-caja-sabo-10388.jpg",
+        "description": "RETEN SALIDA DE CAJA SABO 10388 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 / 16S-1455 TD / 16S-1585 TD FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E / 19330 / 19360 / 25360 / 26280 / 31280 / 31330 IVECO: Cajas ZF 16S-1650 / 16S-221 OD / 16S-2280 TO / 16S-2320 TD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ / 450 E37 / 450 E37TP / 450 E37 HR / 740 E42TZ/P / EUROTRAKKER 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38TP / HD 450 S38 HR / HD 450 S42T / HD 450 S42TP / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 200 S44 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / TRAKKER 380 T38 / 720 T42T / VERTIS 90 V16 / 130 V18 / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 410 T44 AD / 410 T48 AD / 740 T48T AD / VERTIS ECOLINE 90 V18 / 130 V19 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / L 2638/54 / ATRON 1735 (Con Cajas ZF 8S-1350 / 16S-1650) MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / AXOR 1933/45 / 1933 S36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3331 B/36 / 3331 K/36 / 3331/48 / 3340 K / 3341 K/36 / 4844 K/45 (Con Cajas MB G 210-16 / G 211-16 / G 221-9 / G 240-16) VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 019.997.7647 (MB) 022.997.1747 / 021.997.6447 (MB) 0734.319.551 / 0750.111.341 (ZF) 07840BRAGF / 7840 (SABO) 1.662.667 / 1.662.607 (VOLVO) 2T0/311113 / 2T2/311113 (VW) 93194330 (IVECO) Corteco 7351V (Corteco) Opcional 02985BRF (SABO) DIAM. INT. 105MM. / DIAM. EXT. 130MM. / ANCHO 12MM. / MATERIAL FPM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6045",
+        "name": "RETEN BRIDA SALIDA DE CAJA SABO",
+        "brand": "SABO",
+        "code": "10360",
+        "image": "img/products/Caja ZF/reten-brida-salida-de-caja-sabo-10360.jpg",
+        "description": "RETEN BRIDA SALIDA DE CAJA SABO 10360 SABO Vehículos compatibles: MERCEDES BENZ: Cajas ZF S5-680 / S6-680 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K y Bus OF 1620 / OF 1721 / OH 1318 / OHL 1621 Código Original / Similar: 020.997.8247 / 022.997.5747 (MB) 023.997.3247 (MB) 05815BRGP / 5815 (SABO) DIAM. INT. 70MM. / DIAM. EXT. 90MM. / ANCHO 12MM. / MATERIAL PTFE",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6046",
+        "name": "RETEN BRIDA TRASERA DE CAJA SABO",
+        "brand": "SABO",
+        "code": "10345",
+        "image": "img/products/Caja ZF/reten-brida-trasera-de-caja-sabo-10345.jpg",
+        "description": "RETEN BRIDA TRASERA DE CAJA SABO 10345 SABO Vehículos compatibles: MERCEDES BENZ: Cajas ZF AK6-80 / AK6-80+GV-80 / S6-80 / S6-80+GV-80 / S6-1550 / S6-90 / 4K-120-GP / 4K-121-GP / 4S-120-GP MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 / 1721 S / 1722 S / LB 2325 / LK 2325 y Bus OHL 1526 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 UP / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 R 1830 VOLVO: Bus B 10 M VOLVO: Cajas ZF S6-90 Código Original / Similar: 004.997.0646 / 006.997.8847 (MB) 03818BA / 3818 (SABO) 0634.300.712 (ZF) 1.139.840 (VOLVO) 1189V (Corteco) DIAM. INT. 85MM. / DIAM. EXT. 105MM. / ANCHO 10MM. / MATERIAL NBR",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6047",
+        "name": "TAPON DE CAJA / DIFERENCIAL CON IMAN / 24 MM. X 1.5 MM. / ALT. 13 MM. LLAVE ALLEN IMP.",
+        "brand": "Imp",
+        "code": "0994",
+        "image": "img/products/Caja ZF/tapon-de-caja-diferencial-con-iman-24-mm-x-1-5-mm-alt-13-mm-llave-allen-imp-0994.jpg",
+        "description": "TAPON DE CAJA / DIFERENCIAL CON IMAN / 24 MM. X 1.5 MM. / ALT. 13 MM. LLAVE ALLEN IMP. 0994 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 (+98) / F 4000 (99-06) Bus 9150 OD / 9150 EOD MERCEDES BENZ: Cajas ZF AK6-80+GV-80 / SS5-42 / S5-420 / S5-420 SSO / 6- 80+GV-80 / 4K-120GP / 4K-121GP / 4S-120GP / 9S-75 Cajas MB G-24 / G-32 / G-50 / G-60 / G-61 MERCEDES BENZ: Camiones y Bus TODOS LOS MODELOS VOLVO: Cajas ZF 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 000.997.1332 (MB) 000.997.2632 186.997.0032 / 352.997.0032 (MB) 0015.300.146 / 0736.305.016 (ZF) 0736.305.016 (ZF) 2R0/301141 (VW) 334.186 (VOLVO) BF8T/7010/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6048",
+        "name": "BOMBA DE COMBUSTIBLE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10001",
+        "image": "img/products/Caja ZF/bomba-de-combustible-tf-p-technology-10001.jpg",
+        "description": "BOMBA DE COMBUSTIBLE TF&P TECHNOLOGY 10001 Tfp Technology Vehículos compatibles: RENAULT: Camiones MAGNUM 440 / 460 / 480 / 500 / 520 y KERAX 460 / 500 RENAULT: Motores RENAULT DXI 13 VOLVO: Camiones FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 13 400 / FM 13 440 / FM 380 / FM 420 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 480 / FMX 500 VOLVO: Motores VOLVO D13A / D13B / D13C Código Original / Similar: 20.997.341 / 85.103.778 (VOLVO) 7018955153 (ZF) 7420997341 (RENAULT)",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P6049",
+        "name": "RETEN INFERIOR GUIA DIRECTA ELRING",
+        "brand": "Elring",
+        "code": "0921",
+        "image": "img/products/Caja ZF/reten-inferior-guia-directa-elring-0921.jpg",
+        "description": "RETEN INFERIOR GUIA DIRECTA ELRING 0921 Elring Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: VW 18310 TITAN / Constellation 19320 E / 25320 E / 31320 E IVECO: Cajas ZF 16S-1650 / 16S-2280 TO / 16S-151 OD / 16S-221 OD IVECO: Camiones CAVALLINO 180 E32 / CAVALLINO ATTACK 180 E32 / 450 E32T / 450 E32TY / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR 8 ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 720 T42T MERCEDES BENZ: Cajas ZF AK6-80 / AK6-80+GV80 / S6-80 / S6-80+GV80 / S6- 1550 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / L 2638/54 y Bus 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0500 RS / 0500 RSD VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 Código Original / Similar: 007.997.2247 (MB) 0734.310.111 (ZF) 1.526.688 (VOLVO) 284645 (ELRING) 2T0/311189 (VW) 7982064 / 42533218 / 42545936 (IVECO) Diám. int. 55 mm Diámetro exterior 75 mm Ancho 8 mm Tipo de giro: Giro a la derecha Material NBR (caucho nitril butadieno) Protección antipolvo: sin tapón guardapolvo",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6050",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. 362MM. / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "0617",
+        "image": "img/products/Caja ZF/kit-embrague-completo-diam-362mm-10-estrias-valeo-0617.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. 362MM. / 10 ESTRIAS VALEO 0617 Valeo Vehículos compatibles: AGRALE: Bus MA 9.2 / MA 10.0 / Volare AGRALE: Cajas EATON FSO-4505C AGRALE: Cajas ZF 5S-580 BO AGRALE: Motores MWM 4.12 TCE IVECO: Cajas ZF 5S-420 HD / 5S-580 TO IVECO: Camiones VERTIS 130 V18 / 130 V19 Código Original / Similar: 104655BR-2 (Eaton) 5949890685 / 5949894352 (IVECO) 6025003025005 (AGRALE) 6852 / 3400 001 721 / 3400 000 785 (Sachs) C1029716 (VALEO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6051",
+        "name": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / IZQUIERDA / ARRIBA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "0484",
+        "image": "img/products/Caja ZF/rotula-caja-de-cambios-r-12-x-1-75mm-izquierda-arriba-trucktec-0484.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / IZQUIERDA / ARRIBA TRUCKTEC 0484 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17220 / 18310 TITAN / 24220 / 13180 E / 15180 E y Bus 17210 OD IVECO: Cajas ZF S5-580 TO IVECO: Camiones VERTIS 90 V16 / 130 V18 MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 VOLVO: Bus B 7 R / B 10 M / B 12 R VOLVO: Cajas ZF S6-80 / S6-80+GV-80 / S6-90 / S6-1550 / S6-820 Código Original / Similar: 000.268.6289 / 000.268.4689 (MB) 0501.398.781/0732.107.019/0501.398.376 (ZF) 1.190.132 (VOLVO) 2T0/711452 (VW) 305.019 / 371.451 / 527.055 (SC) 500053465 (IVECO) 523.743 / 1.384.897 (SC)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6052",
+        "name": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / DERECHA / ABAJO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "0485",
+        "image": "img/products/Caja ZF/rotula-caja-de-cambios-r-12-x-1-75mm-derecha-abajo-trucktec-0485.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS R 12 X 1.75MM. / DERECHA / ABAJO TRUCKTEC 0485 Trucktec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17220 / 18310 TITAN / 24220 / 13180 E / 15180 E y Bus 17210 OD IVECO: Cajas ZF S5-580 TO IVECO: Camiones VERTIS 90 V16 / 130 V18 MERCEDES BENZ: Cajas ZF S6-90 / S5-680 / S6-680 / S6-820 / 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1721 S / 1722 S / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 112 / K 112 / F 113 / K 113 VOLVO: Bus B 7 R / B 10 M / B 12 R VOLVO: Cajas ZF S6-80 / S6-80+GV-80 / S6-90 / S6-1550 / S6-820 Código Original / Similar: 000.268.6289 / 000.268.4689 (MB) 0501.398.780/0732.107.018/0501.398.375 (ZF) 1.190.131 (VOLVO) 2T0/711542/A / TJG/711397/A (VW) 305.320 / 371.452 / 527.056 (SC) 500053460 (IVECO) 523.744 / 1.384.898 (SC)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6053",
+        "name": "REP. VALVULA COMANDO PILOTO KNORR TIPO SV3368 QUINELATO",
+        "brand": "Quinelato",
+        "code": "0455",
+        "image": "img/products/Caja ZF/rep-valvula-comando-piloto-knorr-tipo-sv3368-quinelato-0455.jpg",
+        "description": "REP. VALVULA COMANDO PILOTO KNORR TIPO SV3368 QUINELATO 0455 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas ZF 16S-1650 FORD / VW / CUMMINS / MWM: Valvulas KNORR I 87538 FORD / VW / CUMMINS / MWM: VW 18310 TITAN IVECO: Cajas ZF 16S-1650 IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROTECH 450 E37 / 450 E37T/P / 450 E37 HR IVECO: Válvulas KNORR I 87538 / SV 3368 IVECO: Válvulas ZF 6038.202.003 MERCEDES BENZ: Cajas ZF 8S-1350 / 16S-1300 / 16S-1600 / 16S-1650 / 16S-1900 MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / L 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 / L 2638/54 MERCEDES BENZ: Válvulas KNORR I 87538 VOLVO: Cajas ZF 16S-1300 / 16S-1600 / 16S-1650 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC VOLVO: Válvulas KNORR I 87538 Código Original / Similar: 002.260.0357 (MB) QA-932 (QUINELATO) SP705 (Knorr)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6054",
+        "name": "REP. VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) F.S.S",
+        "brand": "F S S",
+        "code": "0273",
+        "image": "img/products/Caja ZF/rep-valvula-4-3-vias-wabco-splitling-alta-y-baja-f-s-s-0273.jpg",
+        "description": "REP. VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) F.S.S 0273 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4K-120GP / 4K-121GP MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 Código Original / Similar: 571.004.002 2 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6055",
+        "name": "VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) F.S.S",
+        "brand": "F S S",
+        "code": "0081",
+        "image": "img/products/Caja ZF/valvula-4-3-vias-wabco-splitling-alta-y-baja-f-s-s-0081.jpg",
+        "description": "VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) F.S.S 0081 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4K-120GP / 4K-121GP MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 Código Original / Similar: 000.260.1457 (MB) 0501.303.270 (ZF) 571.003.104 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
     }
 ];
 
