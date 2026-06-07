@@ -52726,6 +52726,1554 @@ const products = [
         "image": "img/products/Caja ZF/valvula-4-3-vias-wabco-splitling-alta-y-baja-f-s-s-0081.jpg",
         "description": "VALVULA 4/3 VIAS WABCO (SPLITLING ALTA Y BAJA) F.S.S 0081 F S S Vehículos compatibles: MERCEDES BENZ: Cajas ZF 4K-120GP / 4K-121GP MERCEDES BENZ: Camiones L 1521 / L 1526 / LS 1526 Código Original / Similar: 000.260.1457 (MB) 0501.303.270 (ZF) 571.003.104 0 (Wabco)",
         "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6056",
+        "name": "RODAMIENTO PIÑON EXTERIOR / DIRECTA CAJA EATON / CONO M804049 / CUBETA M804010 MERITOR",
+        "brand": "Meritor",
+        "code": "9720",
+        "image": "img/products/Caja EATON/rodamiento-pinon-exterior-directa-caja-eaton-cono-m804049-cubeta-m804010-meritor-9720.jpg",
+        "description": "RODAMIENTO PIÑON EXTERIOR / DIRECTA CAJA EATON / CONO M804049 / CUBETA M804010 MERITOR 9720 Meritor Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A / FS-5005-A / FS-5205-A FORD / VW / CUMMINS / MWM: Ford Cargo 1416 / 1317 / 1517 / 1716 / 1317e / 1517e / F 14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: VW 13180 E / 15180 E / CONSTELLATION 13180 E / 15180 E IVECO: Camiones EUROCARGO 120 E15 (MERITOR MS 220 / MS 225 ) Código Original / Similar: 003.980.4602 (MB) 2S0/501319/P / 2S2/398003 (VW) 3001683 (Eaton) 6012004147004 (AGRALE) 802609 (MERITOR) BG9X/1238/FA / BH6X/7025/AA (FORD) M804049 / M804010 (Timken) MERITOR MS 220 / MS 225 MS = MERITOR SINGLE – VEHICULOS CON 1 EJE DE TRACCION EN LA CONFIGURACION 4X2 / 6X2 EX RS = ROCKWELL SINGLE ————————————————————————————————————————————-",
+        "rubro": "RODAMIENTOS"
+    },
+    {
+        "id": "P6057",
+        "name": "BRIDA SALIDA DE CAJA EATON 38 ESTRIAS / ACERO REI AUTOPARTS",
+        "brand": "Rei Autoparts",
+        "code": "9672",
+        "image": "img/products/Caja EATON/brida-salida-de-caja-eaton-38-estrias-acero-rei-autoparts-9672.jpg",
+        "description": "BRIDA SALIDA DE CAJA EATON 38 ESTRIAS / ACERO REI AUTOPARTS 9672 Rei Autoparts Vehículos compatibles: AGRALE: Camiones 9500 FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1722e / 2632e / Nuevo C1722 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 26310 / 17250 E / 26260 E / Constellation 17250 E / 24250 E / 26260 E y Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT IVECO: Camiones EUROCARGO ATTACK 230 E24 / EUROCARGO TECTOR 170 E24 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ECOLINE ATTACK 170 E21 / 170 E28 / 240 E28 Código Original / Similar: 2TB/311963 (VW) 6112004082001 (AGRALE) 6473011 (Spicer) 86746 (Eaton) BG2X/7089/AA (FORD) S-638 (REI) DIAM. A 141.50MM. DIAM. B 69.90MM. 4 AGUJEROS CRUCETA DADO 49.20MM. LARGO 154.00MM. 5-515-X",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6058",
+        "name": "REP. AUXILIAR CAJA DE CAMBIOS EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "2652",
+        "image": "img/products/Caja EATON/rep-auxiliar-caja-de-cambios-eaton-quinelato-2652.jpg",
+        "description": "REP. AUXILIAR CAJA DE CAMBIOS EATON QUINELATO 2652 Quinelato Vehículos compatibles: DIMEX: Dimex D-1730 FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-8609-A – RT-8908-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E IVECO: Cajas EATON RT-9513 – RT-9509-C – RT-9513 Fiat 697 N / 697T / 619 N1 / 190.33 N / 190.33 T VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 2TC/398405 (VW) BF5X/7B595/A (FORD) K1935 (Eaton) QA-946 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6059",
+        "name": "REP. CILINDRO CAJA CAMBIOS EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "14345",
+        "image": "img/products/Caja EATON/rep-cilindro-caja-cambios-eaton-quinelato-14345.jpg",
+        "description": "REP. CILINDRO CAJA CAMBIOS EATON QUINELATO 14345 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON ES-11209 FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 1729 Código Original / Similar: 14344 + 14345 (Eaton) BH3X/70006/AA (FORD) BH3X/70006/CA / BH3X/70006/FA (FORD) QA-2487 (QUINELATO) TJG/312105/D / TJG/312105/E (FORD) X8871258 + X8873008 + X8875292 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6060",
+        "name": "REP. FRENO DE TRANSMISION DE CAJA DE VELOCIDAD EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "13423",
+        "image": "img/products/Caja EATON/rep-freno-de-transmision-de-caja-de-velocidad-eaton-quinelato-13423.jpg",
+        "description": "REP. FRENO DE TRANSMISION DE CAJA DE VELOCIDAD EATON QUINELATO 13423 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-8609-A – RT-8908-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 16660 / 16661 (Eaton) 20.750.588 / 20.750.591 (VOLVO) QA-2486 (QUINELATO) TJG/301865 / TJG/312105/L (FORD) TJG/301865 / TJG/312105/L (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6061",
+        "name": "REP. CILINDRO REDUCCION EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "13424",
+        "image": "img/products/Caja EATON/rep-cilindro-reduccion-eaton-quinelato-13424.jpg",
+        "description": "REP. CILINDRO REDUCCION EATON QUINELATO 13424 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RTLO-12913-A – RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1832e FORD / VW / CUMMINS / MWM: VW 26260 E Código Original / Similar: 14632 / 21208 / 21209 / 5568534 (Eaton) 2U0/311950/E / TJG/301235/E (VW) BG3X/70006/CA / TJG/301235/E (FORD) QA-2485 (QUINELATO) TJG/312105/G / TJG/312105/H (FORD) TJG/312105/G / TJG/312105/H (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6062",
+        "name": "REP. CILINDRO CAJA DE VELOCIDAD EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "13425",
+        "image": "img/products/Caja EATON/rep-cilindro-caja-de-velocidad-eaton-quinelato-13425.jpg",
+        "description": "REP. CILINDRO CAJA DE VELOCIDAD EATON QUINELATO 13425 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-8609-A – RT-8908-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B – F11E316DLSE FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e / Nuevo 1933 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E IVECO: Cajas EATON RT-9513 – RT-9509-C – RT-9513 IVECO: Camiones Fiat 697 N / 697T / 619 N1 / 190.33 N / 190.33 T Código Original / Similar: 14344 / 14345 / 14347 / 14349 / 14765 (Eaton) QA-2484 (QUINELATO) TJG/301235/C / TJG/301235/F (FORD) TJG/301235/C / TJG/301235/F (VW) TJG/312105/D / TJG/312105/E (FORD) TJG/312105/D / TJG/312105/E (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6063",
+        "name": "JGO. JUNTAS Y ORINGS CILINDRO ALTA Y BAJA EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "13426",
+        "image": "img/products/Caja EATON/jgo-juntas-y-orings-cilindro-alta-y-baja-eaton-quinelato-13426.jpg",
+        "description": "JGO. JUNTAS Y ORINGS CILINDRO ALTA Y BAJA EATON QUINELATO 13426 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FTS-16112-L / FTS-16108-L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 / 1933 / 3129 IVECO: Cajas EATON FTS-16108-L IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR ATTACK 260 E25 / TECTOR ECOLINE 260 E28 / 260 E30 / TRAKKER ECOLINE 310 T36 AD VOLVO: Cajas EATON FTS-16108-L VOLVO: Camiones VM 270 Código Original / Similar: 1009593 / 1010100 / 1010101 (Eaton) 1010103 / 14344 / 14345 (Eaton) 14765 / 15900 / 4307247 (Eaton) 20.525.970 / 20.525.972 (VOLVO) 20.750.526 / 20.751.344 (VOLVO) 21.266.507 / 22.013.673 (VOLVO) 500056327 / 503355975 (IVECO) 503356270 / 503356271 (IVECO) 503356273 / 503356282 (IVECO) BF5X/71006/A / BH1X/70006/BA / (FORD) BH1X/70035/AA / BH1X/71020/AA (FORD) BH1X71020BA / TJG/312105/D (FORD) QA-2483 (QUINELATO) TJG/312105/E / TJG/312105/F (FORD) TJG/312117 (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6064",
+        "name": "REP. CILINDRO CAJA DE CAMBIOS EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "13427",
+        "image": "img/products/Caja EATON/rep-cilindro-caja-de-cambios-eaton-quinelato-13427.jpg",
+        "description": "REP. CILINDRO CAJA DE CAMBIOS EATON QUINELATO 13427 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-8908-LL FORD / VW / CUMMINS / MWM: VW Constellation 26260 E VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 14344 / 14345 / 14644 / 14765 (Eaton) 20.525.970 / 20.525.972 (VOLVO) 20.751.139 / 20.751.141 (VOLVO) 20.751.149 / 20.751.342 (VOLVO) 20.751.344 / 20.751.347 (VOLVO) 20423 / 21331 / 21332 / 4301348 (Eaton) 2U0/301461 / 2U0/301461/A (VW) 2U0/311497 / 2U0/311950/A (VW) 2U0/311950/B / 2U0/311950/C (VW) QA-2482 (QUINELATO) TJG/312105/D / TJG/312105/E (VW) TJG/312105/F (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6065",
+        "name": "BULON TRABA ENGANCHE CAMBIO EATON IMP.",
+        "brand": "Imp",
+        "code": "12411",
+        "image": "img/products/Caja EATON/bulon-traba-enganche-cambio-eaton-imp-12411.jpg",
+        "description": "BULON TRABA ENGANCHE CAMBIO EATON IMP. 12411 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / 1317e / 1517e / 1722e / 916 / 1119 / Nuevo C1932 / C2632 / 1933 / 3129 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 13180 E / 15180 E / 17250 E / 26260 E / Delivery 5140 E / 8150 E / Worker 9150 E / 10150 E / Constellation 13180 E / 15180 E / 17250 E / 24250 E / 26260 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Código Original / Similar: E6HZ/7L001/A (FORD) T11/301291 (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6066",
+        "name": "REP. SERVO SHIFT CAJA DE CAMBIOS / ASISTENCIA NEUMATICA O PPA EATON QUINELATO",
+        "brand": "Quinelato",
+        "code": "11334",
+        "image": "img/products/Caja EATON/rep-servo-shift-caja-de-cambios-asistencia-neumatica-o-ppa-eaton-quinelato-11334.jpg",
+        "description": "REP. SERVO SHIFT CAJA DE CAMBIOS / ASISTENCIA NEUMATICA O PPA EATON QUINELATO 11334 Quinelato Vehículos compatibles: AGRALE: Bus AGRALE MT 15.0 AGRALE: Cajas EATON FSBO-6406-A AGRALE: Servo Shift EATON X8879320 (6112004387004) FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A / FSBO-9406-AE FORD / VW / CUMMINS / MWM: Servo Shift EATON X8879040 (2Z0/301853/D) / X8879320 (2Z0/301853/F) FORD / VW / CUMMINS / MWM: VW Constellation 15190 / 17190 y Bus 18330 OT Código Original / Similar: QA-1915 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P6067",
+        "name": "BRIDA SALIDA DE CAJA EATON 10 ESTRIAS / NODULAR REI AUTOPARTS",
+        "brand": "Rei Autoparts",
+        "code": "10308",
+        "image": "img/products/Caja EATON/brida-salida-de-caja-eaton-10-estrias-nodular-rei-autoparts-10308.jpg",
+        "description": "BRIDA SALIDA DE CAJA EATON 10 ESTRIAS / NODULAR REI AUTOPARTS 10308 Rei Autoparts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / F 14000 (99-05) Código Original / Similar: 4461612 (Spicer) 86902 (Eaton) S-231 (REI) TN4/311963 (FORD) TN4/311963 (VW) 10 ESTRIAS / DIAM. A 127.50 / DIAM. B 69.90 / 4 AG. / NODULAR / CRUCETA DADO 34.50MM. / LARGO 126.10MM. / 5-275-X",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6068",
+        "name": "JGO. DE JUNTAS CAJA DE CAMBIO SABO",
+        "brand": "SABO",
+        "code": "14988",
+        "image": "img/products/Caja EATON/jgo-de-juntas-caja-de-cambio-sabo-14988.jpg",
+        "description": "JGO. DE JUNTAS CAJA DE CAMBIO SABO 14988 SABO Vehículos compatibles: AGRALE: Cajas EATON FSO-4405-C / FSO-4505-A AGRALE: Camiones 6000 / 6500 / 7500 / 8500 / 9200 y Bus MA 7.9 / 8.5 / MA 8.7 / MA 9.0 / MA 9.2 / MA 9.6 / MA 10.0 / VOLARE FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C / FSO-4505-C / FSO-4505-D FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e / Nuevo 916 / 1119 FORD / VW / CUMMINS / MWM: VW 9150 / Delivery 5140 E / 8150 E IVECO: Camiones ACCELO 915C / 816 / 1016 IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C16 / 70 C16 HD / DAILY SCUDATTO 70 C16 / 70 C16 HD y Bus 50 C16 MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4505-A / FSO-4505-HD MERCEDES BENZ: Camiones ACCELO 915C / 816 / 1016 Código Original / Similar: 77166 (SABO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P6069",
+        "name": "TUERCA PIÑON DIFERENCIAL 30MM. S-3",
+        "brand": "S 3",
+        "code": "0536",
+        "image": "img/products/Caja EATON/tuerca-pinon-diferencial-30mm-s-3-0536.jpg",
+        "description": "TUERCA PIÑON DIFERENCIAL 30MM. S-3 0536 S 3 Vehículos compatibles: MERCEDES BENZ: Bus OA 101 MERCEDES BENZ: Camiones L 1215 MERCEDES BENZ: Eje Trasero EATON 19050 Código Original / Similar: 000.353.0172 (MB)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P6070",
+        "name": "VOLANTE DE MOTOR CON CORONA 430MM. / 158 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9790",
+        "image": "img/products/Caja EATON/volante-de-motor-con-corona-430mm-158-dientes-rmoss-9790.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 430MM. / 158 DIENTES RMOSS 9790 Rmoss Vehículos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E (Con Caja Eaton) Código Original / Similar: 2T2/105269/B (VW) 3979580 (Cummins) 46.35.0210 (CINPAL) AGUJEROS CIGÜEÑAL 8 AGUJEROS EMBRAGUE 12",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P6071",
+        "name": "KIT EMBRAGUE COMPLETO DIAM. 362MM. / 10 ESTRIAS MASTER PARTS",
+        "brand": "Master Parts",
+        "code": "9469",
+        "image": "img/products/Caja EATON/kit-embrague-completo-diam-362mm-10-estrias-master-parts-9469.jpg",
+        "description": "KIT EMBRAGUE COMPLETO DIAM. 362MM. / 10 ESTRIAS MASTER PARTS 9469 Master Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E Código Original / Similar: + 2T2/141165/H / 2T2/141165 (VW) 228297 (VALEO) 2T2/141025/A + 2T2/141031/F (VW) MM900081 (MASTER PARTS) LOS EMBRAGUE QUE VIENEN DENTRO DE LA CAJA MASTER PARTS SON MARCA VALEO BRASIL",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6072",
+        "name": "KIT EMBRAGUE COMPLETO DIAM. 430MM. / 24 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "9416",
+        "image": "img/products/Caja EATON/kit-embrague-completo-diam-430mm-24-estrias-valeo-9416.jpg",
+        "description": "KIT EMBRAGUE COMPLETO DIAM. 430MM. / 24 ESTRIAS VALEO 9416 Valeo Vehículos compatibles: SCANIA: Cajas GR-801 / GR-900 / GRS-900 SCANIA: Camiones P 94 / P 270 / P 310 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / G 340 / G 380 / G 420 / G 470 / P 340 / P 380 / P 420 / R 380 / R 420 y Bus F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 (Todos 2003-2008) SCANIA: Motores SCANIA 9 / 11 / 12 Litros Código Original / Similar: + 1.513.719 + 1.749.125 / 1.499.770 (SC) .409.769 / 1.368.697 (SC) 1.479.576 / 1.728.165 / 1.851.631 (SC) 104033-1 (Eaton) 3400 000 255 / 6450 (Sachs) 827052 (VALEO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6073",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. 365MM. / 10 ESTRIAS / PARA TUBO GUIA MWM",
+        "brand": "Mwm",
+        "code": "9378",
+        "image": "img/products/Caja EATON/kit-embrague-completo-diam-365mm-10-estrias-para-tubo-guia-mwm-9378.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. 365MM. / 10 ESTRIAS / PARA TUBO GUIA MWM 9378 Mwm Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1317e / 1517e / F14000 (02-05) FORD / VW / CUMMINS / MWM: Motores CUMMINS 6BT – 6BTA – 6BTAA – ISBe4 FORD / VW / CUMMINS / MWM: Motores MWM 6.10 TCA FORD / VW / CUMMINS / MWM: VW 13180 / 15170 / 15180 / 15190 Código Original / Similar: 104101-7 (Eaton) 2S0/198149/A (VW) 3C45/7502/AA (FORD) (Para uso con Tubo Guia) (Reemplazo Placa Sachs o Luk de 350mm.) INCLUYE 8 BULONES DE FIJACION DE LA PLACA",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6074",
+        "name": "KIT EMBRAGUE COMPLETO / DIAM. 395MM. / 18 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "9381",
+        "image": "img/products/Caja EATON/kit-embrague-completo-diam-395mm-18-estrias-valeo-9381.jpg",
+        "description": "KIT EMBRAGUE COMPLETO / DIAM. 395MM. / 18 ESTRIAS VALEO 9381 Valeo Vehículos compatibles: MERCEDES BENZ: OM 906 LA Camiones L 1624 y Bus 0500 M 1725 / 0500 U 1725 Caja G 85-6 MERCEDES BENZ: OM 924 LA Camiones ATEGO 1419 / 1720 / 1721 y Bus OF 1722 Caja G 85-6 MERCEDES BENZ: OM 926 LA Camiones ATEGO 1726 / 2426 y Bus OF 1724 Caja G 85-6 Código Original / Similar: + 001.250.9915 / 002.250.6515 (MB) 020.250.7703 + 007.250.2304 (MB) 104810-1 (Eaton) 232647 / C1028847 (VALEO) 493 / 3400 001 735 (Sachs) 6550 / 6544 / 3400 000 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6075",
+        "name": "HORQUILLA EMBRAGUE CON RODILLOS Y EJE IMP.",
+        "brand": "Imp",
+        "code": "9272",
+        "image": "img/products/Caja EATON/horquilla-embrague-con-rodillos-y-eje-imp-9272.jpg",
+        "description": "HORQUILLA EMBRAGUE CON RODILLOS Y EJE IMP. 9272 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Con Cajas EATON FTS-16108LL / FTS-16112L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 Código Original / Similar: BH1X/7544/CA (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6076",
+        "name": "INTERRUPTOR LUZ MARCHA ATRÁS 3-RHO",
+        "brand": "3 Rho",
+        "code": "9122",
+        "image": "img/products/Caja EATON/interruptor-luz-marcha-atras-3-rho-9122.jpg",
+        "description": "INTERRUPTOR LUZ MARCHA ATRÁS 3-RHO 9122 3 Rho Vehículos compatibles: MERCEDES BENZ: Cajas EATON FSO-4405-A MERCEDES BENZ: Camiones L 710/42 / 710 Plus / ACCELO 915C y Bus LO 812 / LO 814 Código Original / Similar: 000.545.8906 (MB) 3344519 / 3361192 (Eaton) 5/8″ X 18 UNF",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6077",
+        "name": "INTERRUPTOR LUCES MARCHA ATRAS 3-RHO",
+        "brand": "3 Rho",
+        "code": "8915",
+        "image": "img/products/Caja EATON/interruptor-luces-marcha-atras-3-rho-8915.jpg",
+        "description": "INTERRUPTOR LUCES MARCHA ATRAS 3-RHO 8915 3 Rho Vehículos compatibles: AGRALE: Camiones 6500 / 8500 / 8700 y Bus MA 8.5 TCE / MA 8.7 / MA 15.0 / MT 15.0 / MT 17.0 FORD / VW / CUMMINS / MWM: Cajas EATON FS-2305-C / FS-4205-A / FSO-4305-C / FSO-4405-C / FSO-4505-C / FS-5306-A / FS-5405-A / FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6206-A / FSB-6206-A / FS-6306-B / FS-6406-A / FSB-6406-A / FSB-6406-B / FSO-6406-A / FSBO-6406-A / FSBO-9406-AE / RT-7608-LL / RT-8908-LL FORD / VW / CUMMINS / MWM: Ford F 14000 (99-05) FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / DELIVERY 5140 E / 8150 E / WORKER 13190 / 15190 / 17230 / CONSTELLATION 13180 E / 15180 E / 17250 E / 15190 / 17230 y Bus 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Código Original / Similar: 2W0/941521 (VW) 4304808 (Eaton) 6006004190006 (AGRALE) F7HT/15520/CB / F7HZ/15520/CB (FORD) 9/16″X 18 UNF",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6078",
+        "name": "CRAPODINA EMBRAGUE / PARA TUBO GUIA MJB",
+        "brand": "Mjb",
+        "code": "8696",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-tubo-guia-mjb-8696.jpg",
+        "description": "CRAPODINA EMBRAGUE / PARA TUBO GUIA MJB 8696 Mjb Vehículos compatibles: AGRALE: Bus AGRALE MA 12.0 / MA 15.0 (Todos Euro 5)(Con Embrague EATON 365MM.) FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 1723 / 1729 / 3129 _x000D_ (Para Embrague Eaton de 395mm. C/Tubo Guia) Código Original / Similar: 05P19 / 24P05 (HCS) 1271010 / 1251050 (Eaton) 6021003021003 (AGRALE) 620029T (DBH) BH6X/7548/BA / BH8X/7548/BA (FORD) VKC 4770 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6079",
+        "name": "PLACA EMBRAGUE DIAM. 362MM. VALEO",
+        "brand": "Valeo",
+        "code": "8349",
+        "image": "img/products/Caja EATON/placa-embrague-diam-362mm-valeo-8349.jpg",
+        "description": "PLACA EMBRAGUE DIAM. 362MM. VALEO 8349 Valeo Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / ACCELO 915 C / ATEGO 1418 / 1718 M / 1720/48 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 022.250.8101/ 004.250.5104/ 006.250.6704 (MB) 1343 (Sachs) 164100 (Eaton) 232508 (VALEO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6080",
+        "name": "KIT EMBRAGUE S/CRAPODINA DIAM. 362MM. / 18 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "8350",
+        "image": "img/products/Caja EATON/kit-embrague-s-crapodina-diam-362mm-18-estrias-valeo-8350.jpg",
+        "description": "KIT EMBRAGUE S/CRAPODINA DIAM. 362MM. / 18 ESTRIAS VALEO 8350 Valeo Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / ACCELO 915 C / ATEGO 1418 / 1718 M / 1720/48 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB Código Original / Similar: 006.250.6704+ 021.250.5603/ 023.250.7203 (MB) 104650-2 / 104650BR-2 (Eaton) 232510 (VALEO) 6343 / 3400 001 724 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6081",
+        "name": "KIT EMBRAGUE SIN CRAPODINA DIAM. 430MM. VALEO",
+        "brand": "Valeo",
+        "code": "8354",
+        "image": "img/products/Caja EATON/kit-embrague-sin-crapodina-diam-430mm-valeo-8354.jpg",
+        "description": "KIT EMBRAGUE SIN CRAPODINA DIAM. 430MM. VALEO 8354 Valeo Vehículos compatibles: SCANIA: Cajas GR-801 / GR-900 / GRS-900 SCANIA: Camiones P 94 / P 270 / P 310 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / G 340 / G 380 / G 420 / G 470 / P 340 / P 380 / P 420 / R 380 / R 420 y Bus F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 SCANIA: Motores SCANIA 9 / 11 / 12 Litros Código Original / Similar: 104033-1 (Eaton) 232606 (VALEO) 6450 / 3400 000 255 (Sachs) 24 ESTRIAS / PARA CRAPODINA 3350",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6082",
+        "name": "KIT EMBRAGUE DIAM. 395MM. / 18 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "8357",
+        "image": "img/products/Caja EATON/kit-embrague-diam-395mm-18-estrias-valeo-8357.jpg",
+        "description": "KIT EMBRAGUE DIAM. 395MM. / 18 ESTRIAS VALEO 8357 Valeo Vehículos compatibles: MERCEDES BENZ: OM 906 LA Camiones L 1624 y Bus 0500 M 1725 / 0500 U 1725 Caja G 85-6 MERCEDES BENZ: OM 924 LA ATEGO 1419 / 1720 / 1721 y Bus OF 1722 Caja G 85-6 Código Original / Similar: + 001.250.9915 / 002.250.6515 (MB) 020.250.7703 + 007.250.2304 (MB) 104810-1 (Eaton) 232647 / C1028690 (VALEO) 6550 / 6544 / 3400 001 309 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6083",
+        "name": "KIT EMBRAGUE DIAM. 430MM. / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "8359",
+        "image": "img/products/Caja EATON/kit-embrague-diam-430mm-10-estrias-valeo-8359.jpg",
+        "description": "KIT EMBRAGUE DIAM. 430MM. / 10 ESTRIAS VALEO 8359 Valeo Vehículos compatibles: IVECO: Camiones EUROTECH 440 E42T / 450 E37TP / 450 E37 HR / 740 E42TZ / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41T / NR 740 S46T / STRALIS ECOLINE 200 S40 AT / 490 S40T AT / 490 S44T AT / 600 S40T AT / TRAKKER 380 T38 / 380 T42 / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 410 T44 AD / 410 T48 AD / 740 T48T AD IVECO: Motores IVECO 8210.42 / Cursor 13 Código Original / Similar: 104008-1 (Eaton) 232742 (VALEO) 3400 000 235 / 3400 000 65 (Sachs) 5801291663 / 500392643 (IVECO) 6542 / 6543 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6084",
+        "name": "KIT EMBRAGUE DIAM. 362MM. / 18 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "8360",
+        "image": "img/products/Caja EATON/kit-embrague-diam-362mm-18-estrias-valeo-8360.jpg",
+        "description": "KIT EMBRAGUE DIAM. 362MM. / 18 ESTRIAS VALEO 8360 Valeo Vehículos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / 1718 M / ATEGO 1418 y Bus OF 1417 / OF 1418 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA Código Original / Similar: + 021.250.5603 / 025.250.3203 (MB) 009.250.7004 / 006.250.6704 (MB) 104035-1 (Eaton) 6343 (Sachs) 827487 (VALEO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6085",
+        "name": "KIT DE MONTAJE DE PLACA DE EMBRAGUE O ANILLO DE DESEMBRAGUE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8084",
+        "image": "img/products/Caja EATON/kit-de-montaje-de-placa-de-embrague-o-anillo-de-desembrague-tf-p-technology-8084.jpg",
+        "description": "KIT DE MONTAJE DE PLACA DE EMBRAGUE O ANILLO DE DESEMBRAGUE TF&P TECHNOLOGY 8084 Tfp Technology Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42TZ/P / 450 E37 / 450 E37HR / 450 E37T/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 380 E37 / 440 E42T / 450 E37T / 720 E42 / 740 E42TZ / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38HR / HD 450 S42T / HD 450 42T/P / HD 450 S42HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 570 S38T / TRAKKER 720 T42T MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0400 UP / 0500 RS / 0500 RSD SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 / FM 13 400 / FM 13 440 / FM 13 480 y Bus B 12 B / B 12 R (Todos con Embragues EATON O LUK) Código Original / Similar: 000.252.0646 (MB) 1.341.683 / 1.749.126 (SC) 93161931 / 93162073 / 93161755 (IVECO) PARA PLACA DE 430MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6086",
+        "name": "KIT DE MONTAJE DE PLACA DE EMBRAGUE O ANILLO DE DESEMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7784",
+        "image": "img/products/Caja EATON/kit-de-montaje-de-placa-de-embrague-o-anillo-de-desembrague-cipec-7784.jpg",
+        "description": "KIT DE MONTAJE DE PLACA DE EMBRAGUE O ANILLO DE DESEMBRAGUE CIPEC 7784 Cipec Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42TZ/P / 450 E37 / 450 E37HR / 450 E37T/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 380 E37 / 440 E42T / 450 E37T / 720 E42 / 740 E42TZ / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38HR / HD 450 S42T / HD 450 42T/P / HD 450 S42HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 570 S38T / TRAKKER 720 T42T MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0400 UP / 0500 RS / 0500 RSD SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 / FM 13 400 / FM 13 440 / FM 13 480 y Bus B 12 B / B 12 R (Todos con Embragues EATON O LUK) Código Original / Similar: 000.252.0646 (MB) 1.341.683 / 1.749.126 (SC) 93161931 / 93162073 / 93161755 (IVECO) PARA PLACA DE 430MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6087",
+        "name": "PERNO POSICIONADOR CIPEC",
+        "brand": "Cipec",
+        "code": "7619",
+        "image": "img/products/Caja EATON/perno-posicionador-cipec-7619.jpg",
+        "description": "PERNO POSICIONADOR CIPEC 7619 Cipec Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / Delivery 5140 E / 8150 E y Bus 9150 EOD IVECO: Cajas EATON FSO-4405-B Nueva Daily 70 C16 / 70 C16 HD y Nueva Daily Scudatto 70 C16 / 70 C16 HD Código Original / Similar: 2P0/321143 (VW) 3344722 (Eaton) 503355783 (IVECO) BG6X/7235/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6088",
+        "name": "VALVULA BOTON ALTA Y BAJA PARKER",
+        "brand": "Parker",
+        "code": "7411",
+        "image": "img/products/Caja EATON/valvula-boton-alta-y-baja-parker-7411.jpg",
+        "description": "VALVULA BOTON ALTA Y BAJA PARKER 7411 Parker Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E Código Original / Similar: 2T0/325251/A (VW) 3001641 (Eaton) 712371A (PARKER) BG2X/7595/AA / BF5X/7595/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6089",
+        "name": "CRAPODINA EMBRAGUE SOBRE DIRECTA THE",
+        "brand": "The",
+        "code": "7219",
+        "image": "img/products/Caja EATON/crapodina-embrague-sobre-directa-the-7219.jpg",
+        "description": "CRAPODINA EMBRAGUE SOBRE DIRECTA THE 7219 The Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 FORD / VW / CUMMINS / MWM: VW 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 (Todos con Embrague EATON de 365mm.Bi-Disco) Código Original / Similar: 125650 (Eaton) 335560RR (THE) BG5X/7561/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6090",
+        "name": "INTERRUPTOR PUNTO NEUTRO 3/4”-16UNF 3-RHO",
+        "brand": "3 Rho",
+        "code": "7201",
+        "image": "img/products/Caja EATON/interruptor-punto-neutro-3-4-16unf-3-rho-7201.jpg",
+        "description": "INTERRUPTOR PUNTO NEUTRO 3/4”-16UNF 3-RHO 7201 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-2305-C / FS-4205-A / FS-5205-A / FS-5306-A / FS-5406-A / FS-6306-B / FS-6406-A / FSB-5405-A / FSB-5406- A / FSB-6206-A / FSB-6406-B / FSBO-9406-AE / FSO-4405-C / FSO-4505-C / FSO-6406-A / RT-7608-LL / RT-8908-LL FORD / VW / CUMMINS / MWM: Camiones 6000 / 8500 E-Mec / 8500 CD / 9200 TCE y Bus MA 7.9 / MA 8.5 / MA 12.0 / MA 15.0 FORD / VW / CUMMINS / MWM: VW DELIVERY 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / CONSTELLATION 13180 E / 15180 E / 17250 E / 24250 E / 26260 E / 31320 E y Bus 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Cajas EATON FTS-16108-LL IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 Código Original / Similar: 2T0/919823/A / 2P0/919823 (VW) 4304809 (Eaton) 500056345 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6091",
+        "name": "CRAPODINA EMBRAGUE PARA TUBO GUIA (Diam. Int. 57.5mm.) HCS",
+        "brand": "Hcs",
+        "code": "7214",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-tubo-guia-diam-int-57-5mm-hcs-7214.jpg",
+        "description": "CRAPODINA EMBRAGUE PARA TUBO GUIA (Diam. Int. 57.5mm.) HCS 7214 Hcs Vehículos compatibles: AGRALE: Bus AGRALE MA 12.0 / MT 12.0 / MA 15.0 (Todos con Embrague EATON de 365mm.) FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1517e / 1722e / F 14000 (02-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 / 17220 y Bus 17210 OD / 17240 OT (Todos con Embrague EATON de 365mm.) VOLVO: Camiones VM 17 210 / VM 23 240 / VM 210 / VM 260 (Con Embrague EATON de 365mm.)(Para Tubo Guia) Código Original / Similar: 05-P13 / 04-P13 / 07-P16 / 24P01 (HCS) 125563 / 125715 (Eaton) 20497486 (VOLVO) 2S0/141181/A (VW) BG1X/7561/BA (FORD) VKC-4738 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6092",
+        "name": "CRAPODINA EMBRAGUE PARA DIRECTA (Diam. Int. 44.5mm.) HCS",
+        "brand": "Hcs",
+        "code": "7215",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-directa-diam-int-44-5mm-hcs-7215.jpg",
+        "description": "CRAPODINA EMBRAGUE PARA DIRECTA (Diam. Int. 44.5mm.) HCS 7215 Hcs Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1517e / 1722e / F 14000 (99-02) FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 / 17220 y Bus 17210 OD / 17240 OT (Todos con Embrague EATON de 365mm.) Código Original / Similar: 05-P14 / 24P02 (HCS) 125562 (Eaton) 2S0/141181 (VW) BG1X/7561/AA (FORD / VW / CUMMINS / MWM) VIENE CON SEGUROS",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6093",
+        "name": "CRAPODINA EMBRAGUE PARA TUBO GUIA (Diam. Int. 57.5mm.) MJB",
+        "brand": "Mjb",
+        "code": "7139",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-tubo-guia-diam-int-57-5mm-mjb-7139.jpg",
+        "description": "CRAPODINA EMBRAGUE PARA TUBO GUIA (Diam. Int. 57.5mm.) MJB 7139 Mjb Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1517e / 1722e / F 14000 (02-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 / 17220 y Bus 17210 OD / 17240 OT Bus AGRALE MA 12.0 / MT 12.0 / MA 15.0 (Todos con Embrague EATON de 365mm.) VOLVO: Camiones VM 17 210 / VM 23 240 / VM 210 / VM 260 (Con Embrague EATON de 365mm.)(Para Tubo Guia) Código Original / Similar: 125563 / 125715 (Eaton) 20497486 (VOLVO) 2S0/141181/A (VW) 335563RR (THE) 620017AT (DBH) BG1X/7561/BA (FORD / VW / CUMMINS / MWM) DIAM. INT. 57.5MM. DIAM. EXT. 70MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6094",
+        "name": "CRAPODINA EMBRAGUE PARA DIRECTA (Diam. Int. 44.5mm.) MJB",
+        "brand": "Mjb",
+        "code": "7140",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-directa-diam-int-44-5mm-mjb-7140.jpg",
+        "description": "CRAPODINA EMBRAGUE PARA DIRECTA (Diam. Int. 44.5mm.) MJB 7140 Mjb Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1517e / 1722e / F 14000 (99-02) FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 / 17220 y Bus 17210 OD / 17240 OT (Todos con Embrague EATON de 365mm.) Código Original / Similar: 125562 (Eaton) 2S0/141181 (VW) 335562RR (THE) BG1X/7561/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6095",
+        "name": "CRAPODINA EMBRAGUE / CON SEGURO ANILLO (Altura 86.5mm. / Diam. 58.5mm.) THE",
+        "brand": "The",
+        "code": "7099",
+        "image": "img/products/Caja EATON/crapodina-embrague-con-seguro-anillo-altura-86-5mm-diam-58-5mm-the-7099.jpg",
+        "description": "CRAPODINA EMBRAGUE / CON SEGURO ANILLO (Altura 86.5mm. / Diam. 58.5mm.) THE 7099 The Vehículos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 R (Con Embrague SACHS o EATON de 430mm.) Código Original / Similar: 3192223 / 1655825 (VOLVO) 33356RR (THE) 3356 (Sachs) F-112218 (INA) RDL-1325F (NWO) VKC-4635 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6096",
+        "name": "CRAPODINA EMBRAGUE / CON SEGURO PLAQUETA (Altura 111.5mm. / Diam. 66.8mm.) THE",
+        "brand": "The",
+        "code": "7100",
+        "image": "img/products/Caja EATON/crapodina-embrague-con-seguro-plaqueta-altura-111-5mm-diam-66-8mm-the-7100.jpg",
+        "description": "CRAPODINA EMBRAGUE / CON SEGURO PLAQUETA (Altura 111.5mm. / Diam. 66.8mm.) THE 7100 The Vehículos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 B / B 12 R (Con Embrague SACHS / EATON de 430mm. y Caja VT) Código Original / Similar: 07P07 (HCS) 125643 (Eaton) 20.569.161 / 20.569.155 (VOLVO) 3.192.221 / 3.192.220 (VOLVO) 3308 (Sachs) 33308RR (THE) RDL-1394 (NWO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6097",
+        "name": "KIT PINOS POSICIONADORES Y RESORTES IMP.",
+        "brand": "Imp",
+        "code": "7086",
+        "image": "img/products/Caja EATON/kit-pinos-posicionadores-y-resortes-imp-7086.jpg",
+        "description": "KIT PINOS POSICIONADORES Y RESORTES IMP. 7086 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4305-A / FSO-4305-C / FSO-4405-C FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 915e FORD / VW / CUMMINS / MWM: VW 9140 / 9150 y Bus 9150 OD Código Original / Similar: 2RD/398031 / 2RD/311995/E / 2RD/311995/F (VW) 3344236 (Eaton) BF6X/7234/AA + BF6X/7235/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6098",
+        "name": "CARCAZA CILINDRO ALTA Y BAJA IMP.",
+        "brand": "Imp",
+        "code": "7087",
+        "image": "img/products/Caja EATON/carcaza-cilindro-alta-y-baja-imp-7087.jpg",
+        "description": "CARCAZA CILINDRO ALTA Y BAJA IMP. 7087 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Camiones DIMEX D-1730 (Con Caja EATON RTLO-12913-A) FORD / VW / CUMMINS / MWM: Ford Cargo 1831 / 1832e (Con caja EATON RTLO-12913-A / RTLO-14918-B) Código Original / Similar: 4303582 / A8047 (Eaton) BG3X/72017/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6099",
+        "name": "VALVULA BOTON ALTA Y BAJA IMP.",
+        "brand": "Imp",
+        "code": "7090",
+        "image": "img/products/Caja EATON/valvula-boton-alta-y-baja-imp-7090.jpg",
+        "description": "VALVULA BOTON ALTA Y BAJA IMP. 7090 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E Código Original / Similar: 2T0/325251/A (VW) 3001641 (Eaton) 712371A (PARKER) BG2X/7595/AA / BF5X/7595/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6100",
+        "name": "REP. EMPUÑADURA PALANCA DE CAMBIOS QUINELATO",
+        "brand": "Quinelato",
+        "code": "6923",
+        "image": "img/products/Caja EATON/rep-empunadura-palanca-de-cambios-quinelato-6923.jpg",
+        "description": "REP. EMPUÑADURA PALANCA DE CAMBIOS QUINELATO 6923 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / Nuevo C2632 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 E / 26310 Para Empuñadura EATON A-5010 / A-5015 / A-6909 / A-6915 / S2574 / S2581 IVECO: Cajas EATON FS-5306-A / FS-6306-B / FTS-16108-LL IVECO: Cajas EATON RT-9509-C IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR ATTACK 260 E25 y Bus CC118 E20 GNC Para Empuñadura EATON A-5015 / A-6915 / S2581 IVECO: Camiones Fiat 619 N1 / 619 N1 TURBO / 619 T1 / 697 N / 697 T Para Empuñadura EATON A-5010 Código Original / Similar: 2RR/398151 (VW) 7140523 (IVECO) K1921 (Eaton) K1921 / K3192 (Eaton) QA-980 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6101",
+        "name": "ANILLO SINCRONIZADO DE CAJA 1º Y 2º MARCHA / EXTERNO FKC-FURCON",
+        "brand": "Fkc Furcon",
+        "code": "6846",
+        "image": "img/products/Caja EATON/anillo-sincronizado-de-caja-1-y-2-marcha-externo-fkc-furcon-6846.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA 1º Y 2º MARCHA / EXTERNO FKC-FURCON 6846 Fkc Furcon Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4305-A / FSO-4305-B / FSO-4305-C FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 9150 E / 10150 E y Bus 9150 OD Código Original / Similar: 2RD/311291/A / 2RD/311291 (VW) 3344274 (Eaton) BF6T/7B180/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6102",
+        "name": "ANILLO SINCRONIZADO DE CAJA 1º Y 2º MARCHA / INTERNO FKC-FURCON",
+        "brand": "Fkc Furcon",
+        "code": "6847",
+        "image": "img/products/Caja EATON/anillo-sincronizado-de-caja-1-y-2-marcha-interno-fkc-furcon-6847.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA 1º Y 2º MARCHA / INTERNO FKC-FURCON 6847 Fkc Furcon Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4305-A / FSO-4305-B / FSO-4305-C FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 9150 E / 10150 E y Bus 9150 OD Código Original / Similar: 2RD/311295 (VW) 3341453 (Eaton) BF6T/7B180/AC (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6103",
+        "name": "ANILLO SINCRONIZADO DE CAJA 3º-4º Y 5º MARCHA FKC-FURCON",
+        "brand": "Fkc Furcon",
+        "code": "6848",
+        "image": "img/products/Caja EATON/anillo-sincronizado-de-caja-3-4-y-5-marcha-fkc-furcon-6848.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA 3º-4º Y 5º MARCHA FKC-FURCON 6848 Fkc Furcon Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4305-A / FSO-4305-B / FSO-4305-C FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 9150 E / 10150 E y Bus 9150 OD Código Original / Similar: 2RD/311273/A (VW) 3344220 (Eaton) BF6T/7107/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6104",
+        "name": "ANILLO SINCRONIZADO DE CAJA MARCHA ATRAS FKC-FURCON",
+        "brand": "Fkc Furcon",
+        "code": "6849",
+        "image": "img/products/Caja EATON/anillo-sincronizado-de-caja-marcha-atras-fkc-furcon-6849.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA MARCHA ATRAS FKC-FURCON 6849 Fkc Furcon Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4305-A / FSO-4305-B / FSO-4305-C FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 9150 E / 10150 E y Bus 9150 OD Código Original / Similar: 2RD/311263 (VW) 3341371 (Eaton) BF6X/7107/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6105",
+        "name": "ANILLO SINCRONIZADO DE CAJA 4º MARCHA FKC-FURCON",
+        "brand": "Fkc Furcon",
+        "code": "6850",
+        "image": "img/products/Caja EATON/anillo-sincronizado-de-caja-4-marcha-fkc-furcon-6850.jpg",
+        "description": "ANILLO SINCRONIZADO DE CAJA 4º MARCHA FKC-FURCON 6850 Fkc Furcon Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / Delivery 5140 E / 8150 E y Bus 9150 EOD IVECO: Cajas EATON FSO-4405-B Nueva Daily 70 C16 / 70 C16 HD y Nueva Daily Scudatto 70 C16 / 70 C16 HD MERCEDES BENZ: Cajas EATON FSO-4405-A MERCEDES BENZ: Camiones L 710/42 / Accelo 915 C y Bus LO 812 / LO 814 Código Original / Similar: 001.262.1234 (MB) 2P0/311295 (VW) 3344768 (Eaton) 503355814 (IVECO) BG6X/7107/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P6106",
+        "name": "RETEN TAPA TRASERA CAJA DE CAMBIOS SABO",
+        "brand": "SABO",
+        "code": "6446",
+        "image": "img/products/Caja EATON/reten-tapa-trasera-caja-de-cambios-sabo-6446.jpg",
+        "description": "RETEN TAPA TRASERA CAJA DE CAMBIOS SABO 6446 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-8908-LL / FTS-16112-L / FTS-16108-L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 / 1933 / 3129_x000D_ VW 26260 E / Constellation 26260 IVECO: Cajas EATON FTS-16108-L IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR ATTACK 260 E25 / TECTOR ECOLINE 260 E28 / 260 E30 / TRAKKER ECOLINE 310 T36 AD VOLVO: Cajas EATON FTS-16108-L VOLVO: Camiones VM 270 Código Original / Similar: 08484BRAGE / 8484 (SABO) 20.750.620 (VOLVO) 2U0/311623 (VW) 4302322 (Eaton) 503356342 (IVECO) BG3X/4813/AA (FORD) DIAM. INT. 83MM. / DIAM. EXT. 113MM. / ANCHO 17/24MM. / MATERIAL FPM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6107",
+        "name": "EJE Y BRAZO DE LIBERACION DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6127",
+        "image": "img/products/Caja EATON/eje-y-brazo-de-liberacion-de-embrague-imp-6127.jpg",
+        "description": "EJE Y BRAZO DE LIBERACION DE EMBRAGUE IMP. 6127 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (02-05) Con Caja EATON FS-4205 Código Original / Similar: 2C35/7N512/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P6108",
+        "name": "EJE ACCIONAMIENTO EN TAPA SUPERIOR CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "6129",
+        "image": "img/products/Caja EATON/eje-accionamiento-en-tapa-superior-caja-de-cambios-imp-6129.jpg",
+        "description": "EJE ACCIONAMIENTO EN TAPA SUPERIOR CAJA DE CAMBIOS IMP. 6129 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 020332 (Eaton) 20750874 (VOLVO) TJG/311541 (FORD / VW / CUMMINS / MWM) TJG/311541 (VW)",
+        "rubro": "PARTES VARIAS CAJA EATON"
+    },
+    {
+        "id": "P6109",
+        "name": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA / 13 MARCHAS TKL",
+        "brand": "TKL",
+        "code": "6132",
+        "image": "img/products/Caja EATON/empunadura-palanca-de-cambios-con-valvula-13-marchas-tkl-6132.jpg",
+        "description": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA / 13 MARCHAS TKL 6132 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RTLO-12913-A FORD / VW / CUMMINS / MWM: Ford Cargo 1831 Dimex D-1730 Código Original / Similar: BG3X/7213/AA (FORD / VW / CUMMINS / MWM) S2578 / A-6913 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6110",
+        "name": "HORQUILLA Y EJE CILINDRO ALTA Y BAJA IMP.",
+        "brand": "Imp",
+        "code": "6133",
+        "image": "img/products/Caja EATON/horquilla-y-eje-cilindro-alta-y-baja-imp-6133.jpg",
+        "description": "HORQUILLA Y EJE CILINDRO ALTA Y BAJA IMP. 6133 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Diferencial EATON-FULLER FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 2632e FORD / VW / CUMMINS / MWM: VW 26310 Código Original / Similar: 2UU/312099 (VW) A005474 (Eaton-Fuller) BF5X/7231/C (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6111",
+        "name": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA / 18 MARCHAS TKL",
+        "brand": "TKL",
+        "code": "6134",
+        "image": "img/products/Caja EATON/empunadura-palanca-de-cambios-con-valvula-18-marchas-tkl-6134.jpg",
+        "description": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA / 18 MARCHAS TKL 6134 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1831 / 1832e Código Original / Similar: BG5X/7213/AA (FORD / VW / CUMMINS / MWM) S2876 / A-6918 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6112",
+        "name": "VALVULA AUXILIAR CAJA DE CAMBIOS RT IMP.",
+        "brand": "Imp",
+        "code": "6135",
+        "image": "img/products/Caja EATON/valvula-auxiliar-caja-de-cambios-rt-imp-6135.jpg",
+        "description": "VALVULA AUXILIAR CAJA DE CAMBIOS RT IMP. 6135 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-8609-A – RT-8908-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E Dimex D-1730 IVECO: Cajas EATON RT-9513 – RT-9509-C – RT-9513 Fiat 697 N / 697T / 619 N1 / 190.33 N / 190.33 T VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 20751102 (VOLVO) 2TC/311405 (VW) A5000 (Eaton) BF5X/7595/A (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6113",
+        "name": "SEGURO TUERCA BANCADA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5971",
+        "image": "img/products/Caja EATON/seguro-tuerca-bancada-industria-argentina-5971.jpg",
+        "description": "SEGURO TUERCA BANCADA INDUSTRIA ARGENTINA 5971 Industria Argentina Vehículos compatibles: MERCEDES BENZ: Camiones L 1215 MERCEDES BENZ: Diferencial EATON 19050 Código Original / Similar:",
+        "rubro": "EJE TRASERO – DIFERENCIAL"
+    },
+    {
+        "id": "P6114",
+        "name": "EJE Y PALANCA SELECTOR DE CAMBIOS EN CAJA DE VELOCIDAD SDUBO",
+        "brand": "Sdubo",
+        "code": "5876",
+        "image": "img/products/Caja EATON/eje-y-palanca-selector-de-cambios-en-caja-de-velocidad-sdubo-5876.jpg",
+        "description": "EJE Y PALANCA SELECTOR DE CAMBIOS EN CAJA DE VELOCIDAD SDUBO 5876 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-6306-B FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E Código Original / Similar: 2T2/311541 / 2S2/311541 (VW) 3002158 (Eaton)",
+        "rubro": "MECANISMO DE CAMBIOS EATON"
+    },
+    {
+        "id": "P6115",
+        "name": "PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD COMPLETO IMP.",
+        "brand": "Imp",
+        "code": "5526",
+        "image": "img/products/Caja EATON/piston-de-freno-de-transmision-de-caja-de-velocidad-completo-imp-5526.jpg",
+        "description": "PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD COMPLETO IMP. 5526 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 16658 + 62515 + 16660 (Eaton) 20750585 + 20750592 + 20750588 (VOLVO) S3250 (SDUBO) TJG/311733 + TJG/311749 + TJG/312105/L (VW) TJG/311733 + TJG/312105/L + TJG/311749 (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6116",
+        "name": "ROTULA CAJA DE CAMBIOS CESCA",
+        "brand": "Cesca",
+        "code": "5484",
+        "image": "img/products/Caja EATON/rotula-caja-de-cambios-cesca-5484.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS CESCA 5484 Cesca Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT Código Original / Similar: 2TB/711551 (VW)",
+        "rubro": "MECANISMO DE CAMBIOS EATON"
+    },
+    {
+        "id": "P6117",
+        "name": "REGISTRO FRENO AUTOMATICO TRASERO DERECHO 10 DIENTES BALTEC",
+        "brand": "Baltec",
+        "code": "5268",
+        "image": "img/products/Caja EATON/registro-freno-automatico-trasero-derecho-10-dientes-baltec-5268.jpg",
+        "description": "REGISTRO FRENO AUTOMATICO TRASERO DERECHO 10 DIENTES BALTEC 5268 Baltec Vehículos compatibles: MERCEDES BENZ: Diferencial EATON 23060-S Bus OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 000.420.9538 (MB) 74151 (Ref.)",
+        "rubro": "REGISTROS AUTOMATICOS"
+    },
+    {
+        "id": "P6118",
+        "name": "REGISTRO FRENO AUTOMATICO TRASERO IZQUIERDO 10 DIENTES BALTEC",
+        "brand": "Baltec",
+        "code": "5269",
+        "image": "img/products/Caja EATON/registro-freno-automatico-trasero-izquierdo-10-dientes-baltec-5269.jpg",
+        "description": "REGISTRO FRENO AUTOMATICO TRASERO IZQUIERDO 10 DIENTES BALTEC 5269 Baltec Vehículos compatibles: MERCEDES BENZ: Diferencial EATON 23060-S Bus OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 000.420.9638 (MB) 74152 (Ref.)",
+        "rubro": "REGISTROS AUTOMATICOS"
+    },
+    {
+        "id": "P6119",
+        "name": "GUARDAPOLVO EJE SELECTOR CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "5271",
+        "image": "img/products/Caja EATON/guardapolvo-eje-selector-caja-de-cambios-imp-5271.jpg",
+        "description": "GUARDAPOLVO EJE SELECTOR CAJA DE CAMBIOS IMP. 5271 Imp Vehículos compatibles: AGRALE: Cajas EATON FS-2305-C / FSO-4305-A / FSO-4305-C / FSO-4405-C / FSO-4505-A / FSO-4505-C AGRALE: Camiones 6000 / 7500 / 8500 / 8500 E-MEC / 9200 / 9200 E-TRONIC y Bus MA 7.9 / MA 8.5 / MA 8.7 / MA 9.0 / MA 9.2 / MA 9.6 / MA 10.0 / VOLARE FORD / VW / CUMMINS / MWM: Cajas EATON FS-2305-C / FSO-4305-A / FSO-4305-C / FSO-4405-C / FSO 4505-C FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e / 916 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / Delivery 5140 E / 8150 E y Bus 9150 / 9150 EOD IVECO: Cajas EATON FSO-2405-E / FSO-4405-B IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C16 / 70 C16 HD / DAILY SCUDATTO 70 C16 / 70 C16 HD y Bus 50 C16 MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4505-A / FSO-4505-A HD MERCEDES BENZ: Camiones ACCELO 915 C / 815 / 1016 Código Original / Similar: 000.268.1296 (MB) 3361047 (Eaton) 503355615 (IVECO) 6010004133002 (AGRALE) BF9X/7E242/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6120",
+        "name": "LEVA SELECTORA CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "5228",
+        "image": "img/products/Caja EATON/leva-selectora-caja-de-cambios-imp-5228.jpg",
+        "description": "LEVA SELECTORA CAJA DE CAMBIOS IMP. 5228 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT- 11710-B / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 2626 / 1831 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 20.750.631 (VOLVO) 20921 (Eaton) 2RR/311543 (VW) BF0X/7B009 (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6121",
+        "name": "TORRE PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "5229",
+        "image": "img/products/Caja EATON/torre-palanca-de-cambios-imp-5229.jpg",
+        "description": "TORRE PALANCA DE CAMBIOS IMP. 5229 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT- 11710-B / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 2626 / 1831 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 VOLVO: Cajas EATON RT-8908-LL / FTS-16108-LL VOLVO: Camiones VM 260 Código Original / Similar: 20.750.636 (VOLVO) 20889 (Eaton) BF9X/7B101/A (FORD / VW / CUMMINS / MWM) TJG/301463 (VW)",
+        "rubro": "PARTES VARIAS CAJA EATON"
+    },
+    {
+        "id": "P6122",
+        "name": "TUERCA HORQUILLA SALIDA DE CAJA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4961",
+        "image": "img/products/Caja EATON/tuerca-horquilla-salida-de-caja-industria-argentina-4961.jpg",
+        "description": "TUERCA HORQUILLA SALIDA DE CAJA INDUSTRIA ARGENTINA 4961 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5005-A / FS-5205-A / FS-5306-A / FS-6206-A / FS-6306-A / FSO-4305-A / FSO-4305-B / FSO- 4305-C / FSO-4405-C FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1716 / 1722 / F14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / 1317e / 1517e / F14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E y Bus 17210 OD / 15190 EOD / 17230 EOD FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / Constellation 13180 E / 15180 E y Bus 9150 OD MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1618/45 / L 1620 (M-96) / L 1623 / LS 1623 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 Código Original / Similar: 000.990.5050 (MB) 21937 (Eaton) TE3/311901 (VW) TE3/521213 (FORD / VW / CUMMINS / MWM) TE3/521213 (VW) TN4/311901 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6123",
+        "name": "CHAVETA PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD IMP.",
+        "brand": "Imp",
+        "code": "4917",
+        "image": "img/products/Caja EATON/chaveta-piston-de-freno-de-transmision-de-caja-de-velocidad-imp-4917.jpg",
+        "description": "CHAVETA PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD IMP. 4917 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 62515 (Eaton) TJG/311749 (FORD / VW / CUMMINS / MWM) TJG/311749 (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6124",
+        "name": "ORING PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD IMP.",
+        "brand": "Imp",
+        "code": "4916",
+        "image": "img/products/Caja EATON/oring-piston-de-freno-de-transmision-de-caja-de-velocidad-imp-4916.jpg",
+        "description": "ORING PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD IMP. 4916 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 16660 (Eaton) TJG/312105/L (FORD / VW / CUMMINS / MWM) TJG/312105/L (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6125",
+        "name": "HORQUILLA EMBRAGUE CON BUJES INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4717",
+        "image": "img/products/Caja EATON/horquilla-embrague-con-bujes-industria-argentina-4717.jpg",
+        "description": "HORQUILLA EMBRAGUE CON BUJES INDUSTRIA ARGENTINA 4717 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (02-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E y 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Código Original / Similar: 2RM/141861 (VW) 997160 (Eaton) BG1X/7544/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6126",
+        "name": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA / 10 MARCHAS TKL",
+        "brand": "TKL",
+        "code": "4720",
+        "image": "img/products/Caja EATON/empunadura-palanca-de-cambios-con-valvula-10-marchas-tkl-4720.jpg",
+        "description": "EMPUÑADURA PALANCA DE CAMBIOS CON VALVULA / 10 MARCHAS TKL 4720 TKL Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2631 FORD / VW / CUMMINS / MWM: VW 26310 Código Original / Similar: 2UU/711259 (VW) S2574 / A-6909 (Eaton) TJG/711259/B (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6127",
+        "name": "TORRE PALANCA DE CAMBIOS INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4496",
+        "image": "img/products/Caja EATON/torre-palanca-de-cambios-industria-argentina-4496.jpg",
+        "description": "TORRE PALANCA DE CAMBIOS INDUSTRIA ARGENTINA 4496 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A FORD / VW / CUMMINS / MWM: Ford F7000 (-92) / F14000 (93-98)(99-05) Código Original / Similar: 2SL/711105 (VW) 3000791 (Eaton) 87TU/7203/AA / BF8T/7203/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6128",
+        "name": "LEVA INTERNA CAJA VELOCIDAD IMP.",
+        "brand": "Imp",
+        "code": "4437",
+        "image": "img/products/Caja EATON/leva-interna-caja-velocidad-imp-4437.jpg",
+        "description": "LEVA INTERNA CAJA VELOCIDAD IMP. 4437 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4005-B / FS-4205-A / FS-5106-A / FS-5205-A / FS-5306-A / FS-5406-A / FS-6205-A / FS-6206-A / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5305-D / FSB-5405- A / FSB-5406-A / FSB-5406-B / FSB-6206-A / FSB-6406-A / FSB-6406-B / FSBO-6206-A / FSBO-8406-A / FSO-6406-A / FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1317e / 1517e / 1722e FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 13180 E / 15180 E / 17250 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Cajas EATON FS-4205-A / FS-5205-A / FS-5205-C / FS-5306-A / FS-6305-B / FSB-5406-A IVECO: Camiones 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 VOLVO: Cajas EATON FS-5306-A / FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 21028750 (VOLVO) 3316290 (Eaton) 7149098 (IVECO) TE3/311543 (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6129",
+        "name": "FUELLE TRAMBALADOR CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "4375",
+        "image": "img/products/Caja EATON/fuelle-trambalador-caja-de-cambios-imp-4375.jpg",
+        "description": "FUELLE TRAMBALADOR CAJA DE CAMBIOS IMP. 4375 Imp Vehículos compatibles: AGRALE: Cajas EATON FS-2305-C / FSO-4405-C / FSO-4505-A / FSO-4505-C AGRALE: Camiones 6000 / 6000 E-tronic / 8000 / 8000 E-tronic y Bus MA 9.2 / MA 10.0 FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C / FSO-4505-C / FSO-4505-D FORD / VW / CUMMINS / MWM: Ford F 100 (95-98) / F 4000 (96-98) FORD / VW / CUMMINS / MWM: VW Bus 9150 EOD MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4405-C MERCEDES BENZ: Camiones L 710/42 / 710 Plus / ACCELO 915 C y Bus LO 812 / LO 814 Código Original / Similar: 000.267.2497 (MB) 2P0/301261 (VW) 2S4/711116 (FORD) 3343494 (Eaton) 6010004020007 (AGRALE)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6130",
+        "name": "ROTULA CAJA DE CAMBIOS ROSCA DERECHA IMP.",
+        "brand": "Imp",
+        "code": "4223",
+        "image": "img/products/Caja EATON/rotula-caja-de-cambios-rosca-derecha-imp-4223.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS ROSCA DERECHA IMP. 4223 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT-11710-B / RTLO-12913-A / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E Código Original / Similar: 20923 (Eaton) S7202 (SDUBO) TJG/711981/A (FORD / VW / CUMMINS / MWM) TJG/711981/A (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6131",
+        "name": "ROTULA CAJA DE CAMBIOS ROSCA IZQUIERDA IMP.",
+        "brand": "Imp",
+        "code": "4224",
+        "image": "img/products/Caja EATON/rotula-caja-de-cambios-rosca-izquierda-imp-4224.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS ROSCA IZQUIERDA IMP. 4224 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT-11710-B / RTLO-12913-A / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E Código Original / Similar: 20924 (Eaton) S7203 (SDUBO) TJG/711981/B (FORD) TJG/711981/B (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6132",
+        "name": "TUERCA HORQUILLA SALIDA DE CAJA IMP.",
+        "brand": "Imp",
+        "code": "4230",
+        "image": "img/products/Caja EATON/tuerca-horquilla-salida-de-caja-imp-4230.jpg",
+        "description": "TUERCA HORQUILLA SALIDA DE CAJA IMP. 4230 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5005-A / FS-5205-A / FS-5306-A / FS-6206-A / FS-6306-A / FSO-4305-A / FSO-4305-B / FSO- 4305-C / FSO-4405-C FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1716 / 1722 / F14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / 1317e / 1517e / F14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E y Bus 17210 OD / 15190 EOD / 17230 EOD FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / Constellation 13180 E / 15180 E y Bus 9150 OD IVECO: Cajas EATON FS-4205-A / FS-5205-A / FS-5205-C IVECO: Camiones 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1618/45 / L 1620 (M-96) / L 1623 / LS 1623 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 Código Original / Similar: 000.990.5050 (MB) 21937 (Eaton) TE3/311901 (VW) TE3/521213 (FORD / VW / CUMMINS / MWM) TE3/521213 (VW) TN4/311901 (FORD / VW / CUMMINS / MWM) M32 X 1.5 / LLAVE 41MM.",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6133",
+        "name": "RESPIRADERO CAJA DE VELOCIDAD IMP.",
+        "brand": "Imp",
+        "code": "4231",
+        "image": "img/products/Caja EATON/respiradero-caja-de-velocidad-imp-4231.jpg",
+        "description": "RESPIRADERO CAJA DE VELOCIDAD IMP. 4231 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-2305-C / FS-4005-A / FS-4005-B / FS-4205-A / FS-5005-A / FS-5106-A / FS-5205-A / FS-5306-A / FS-6206-A / FS-6306-A / FS-6036-B / FS-6406-A / FS-6406-B / FSB-6406-B / FSB-5405-A / FSB-5406-A / FSB-6206-A / FSB-6406-A / FSB- 6406-B / FSBO-8406-A / FSBO-9406-A / FSO-4305-A / FSO- 4305-C / FSO-4405-C / FSO-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 1317 / 1416 / 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / Constellation 13180 E / 15180 E / 17250 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Cajas EATON FS-4205-A / FS-5005-C / FS-5205-A / FS-5205-C / FS-5306-A / FS-6305-B / FSB-5406-A IVECO: Camiones 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / 170 E21 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU y Bus CC118 E22 / CC170 E22 VOLVO: Cajas EATON ES-11109 / FS-6209-A / FTS-16108-LL VOLVO: Camiones VM 23 210 / VM 23 240 / VM 260 Código Original / Similar: 20525985 (VOLVO) 4300217 / X2014210 3315948 (Eaton) 7142289 (IVECO) T11/301879 (VW)",
+        "rubro": "PARTES VARIAS CAJA EATON"
+    },
+    {
+        "id": "P6134",
+        "name": "TAPON TORRE DE CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "4232",
+        "image": "img/products/Caja EATON/tapon-torre-de-caja-de-cambios-imp-4232.jpg",
+        "description": "TAPON TORRE DE CAJA DE CAMBIOS IMP. 4232 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4005-B / FS-4205-A / FS-5005-A / FS-5106-A / FS-5205-A / FS-5306-A / FS-6205-A / FS-6206-A / FS-6306-A / FS-6306-B / FS-6406-A / FS-6406-B / FSB-5305-D / FSB-5405-A / FSB-5406-A / FSB-6206-A / FSB-6406-A / FSB- 6406-B / FSBO-8406-A / FSBO-9406-A / FSO-4305-A / FSO- 4305-B / FSO-4305-C / FSO-4405-C / FSO-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / 1317e / 1517e / 1722e / RANGER (+98) FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / Constellation 13180 E / 15180 E / 17250 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT VOLVO: Cajas EATON FS-5306-A / FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 12F000100 (Eaton) 12F100 (Eaton) 20.502.343 (VOLVO) 2RD/312005/A (VW) BF6T/7F127/AA TN4/312005 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "PARTES VARIAS CAJA EATON"
+    },
+    {
+        "id": "P6135",
+        "name": "CONEXIÓN VALVULA DE FRENO DE LA TRANSMISION IMP.",
+        "brand": "Imp",
+        "code": "4233",
+        "image": "img/products/Caja EATON/conexion-valvula-de-freno-de-la-transmision-imp-4233.jpg",
+        "description": "CONEXIÓN VALVULA DE FRENO DE LA TRANSMISION IMP. 4233 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT- 11710-B / RTLO-12913-A / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E Código Original / Similar: 2RR/301799 / 2T0/311585/B (VW) 3000352 / 3001641 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6136",
+        "name": "BUJE PALANCA DE CAMBIOS EN LA TAPA DE CAJA IMP.",
+        "brand": "Imp",
+        "code": "3998",
+        "image": "img/products/Caja EATON/buje-palanca-de-cambios-en-la-tapa-de-caja-imp-3998.jpg",
+        "description": "BUJE PALANCA DE CAMBIOS EN LA TAPA DE CAJA IMP. 3998 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON CL-2615-C / FS-2305-A / FS-2305-C / FS-4005-A / FS-4005-B / FS-4205-A / FS-4205-B / FS-5005-A / FS-5106-A / FS-5205-A / FS-5205-C / FS-5306-A / FS-5406-A / FS-6005-B / FS-6205-B / FS-6206-A / FS-6305-B / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5305-D / FSB-5406-A / FSB-6206-A / FSB- 6406-A / FSB-6406-B / FSBO-8406-A / FSBO-9406-A / FSO- 2405-E / FSO-4305-A / FSO-4305-C / FSO-4405-A / FSO-4405- B / FSO-4405-C / FSO-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 5140 E / 8150 E / 9150 E / 10150 E / Constellation 13180 E / 15180 E / 17250 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Cajas EATON FS-4205-A / FS-5005-C / FS-5205-A / FS-5205-C / FS-5406-A / FS-6305-B / FS-6306-A / FS-6306-B / FS-6406-B / FSB-5406-A / FSO-2405-E / FSO-4405-B IVECO: Camiones DAILY 35C14 / 35S14 / 40S16 / 45S14 / 45S16 / 55C16 / 70C16 / 70C16 HD / EUROCARGO 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / 320 E18 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 y Bus DAILY SCUDATTO 70C16 / 70C16 HD / CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Cajas EATON FSO-4405-A / FS-5306-A / FS-6206-A / FS-6306- A MERCEDES BENZ: Camiones ACCELO 915 C VOLVO: Cajas EATON FS-5306-A / FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 000.267.1250 (MB) 20.519.887 (VOLVO) 2RP/301461 (VW) 3312252 (Eaton) 7142279 (IVECO) E6HZ/7808/A (FORD / VW / CUMMINS / MWM) S3095 (SDUBO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6137",
+        "name": "PIÑON DE VELOCIMETRO 17 DIENTES SDUBO",
+        "brand": "Sdubo",
+        "code": "4005",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-17-dientes-sdubo-4005.jpg",
+        "description": "PIÑON DE VELOCIMETRO 17 DIENTES SDUBO 4005 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A FORD / VW / CUMMINS / MWM: Ford F14000 (92-93) Código Original / Similar: 90TU/17271/BA T75/957821/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6138",
+        "name": "INTERRUPTOR MARCHA ATRÁS / M14 X 1.5MM. 3-RHO",
+        "brand": "3 Rho",
+        "code": "3979",
+        "image": "img/products/Caja EATON/interruptor-marcha-atras-m14-x-1-5mm-3-rho-3979.jpg",
+        "description": "INTERRUPTOR MARCHA ATRÁS / M14 X 1.5MM. 3-RHO 3979 3 Rho Vehículos compatibles: IVECO: Camiones EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Cajas EATON FS-5306-A / FS-6206-A / FS-6306-A Código Original / Similar: 001.545.0309 / 001.545.4309 (MB) 22940 (Eaton) 7149116 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6139",
+        "name": "INTERRUPTOR PUNTO NEUTRO 3/4” X 16 UNF 3-RHO",
+        "brand": "3 Rho",
+        "code": "3970",
+        "image": "img/products/Caja EATON/interruptor-punto-neutro-3-4-x-16-unf-3-rho-3970.jpg",
+        "description": "INTERRUPTOR PUNTO NEUTRO 3/4” X 16 UNF 3-RHO 3970 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-4205-B / FS-5106-A / FS-5205-A / FS-5306-A / FS-6206-A / FS-6305-B / FS-6306-A / FS-6406-A / FSB-5305-D / FSB-5406-A / FSBO-8406-A / RTLO-12913-A FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 17240 OT / 18310 OT IVECO: Camiones EUROCARGO 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 y Bus DAILY SCUDATTO 70C16 / CC118 E20 GNC / CC170 E22 MERCEDES BENZ: Cajas EATON FS-5306-A / FS-6206-A / FS-6306-A Código Original / Similar: 001.545.0409 (MB) 22941 (Eaton) 2RP/927145 (FORD / VW / CUMMINS / MWM) 2RP/927145 (VW) 7149153 (IVECO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6140",
+        "name": "GUARDAPOLVO TORRE PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "3754",
+        "image": "img/products/Caja EATON/guardapolvo-torre-palanca-de-cambios-imp-3754.jpg",
+        "description": "GUARDAPOLVO TORRE PALANCA DE CAMBIOS IMP. 3754 Imp Vehículos compatibles: MERCEDES BENZ: Cajas EATON FS-6209-A / FS-8209-A MERCEDES BENZ: Camiones 1728/51 / 2423 B / 2423 K VOLVO: Cajas EATON FS-6209-A / ES-11109 VOLVO: Camiones VM 23 210 / VM 23 240 / VM 210 / VM 270 Código Original / Similar: 000.268.4297 (MB) 20525914 (VOLVO) X8875259 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6141",
+        "name": "REGISTRO FRENO MANUAL DELANTERO DERECHO 10 DIENTES BOECHAT",
+        "brand": "Boechat",
+        "code": "3462",
+        "image": "img/products/Caja EATON/registro-freno-manual-delantero-derecho-10-dientes-boechat-3462.jpg",
+        "description": "REGISTRO FRENO MANUAL DELANTERO DERECHO 10 DIENTES BOECHAT 3462 Boechat Vehículos compatibles: MERCEDES BENZ: Diferencial EATON Bus OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 000.420.9738 (MB)",
+        "rubro": "REGISTROS DE FRENO MANUALES"
+    },
+    {
+        "id": "P6142",
+        "name": "REGISTRO FRENO MANUAL DELANTERO IZQUIERDO 10 DIENTES BOECHAT",
+        "brand": "Boechat",
+        "code": "3463",
+        "image": "img/products/Caja EATON/registro-freno-manual-delantero-izquierdo-10-dientes-boechat-3463.jpg",
+        "description": "REGISTRO FRENO MANUAL DELANTERO IZQUIERDO 10 DIENTES BOECHAT 3463 Boechat Vehículos compatibles: MERCEDES BENZ: Diferencial EATON Bus OH 1621 L-SB / OH 1721 L-SB Código Original / Similar: 000.420.9838 (MB)",
+        "rubro": "REGISTROS DE FRENO MANUALES"
+    },
+    {
+        "id": "P6143",
+        "name": "ROTULA CAJA DE CAMBIOS SDUBO",
+        "brand": "Sdubo",
+        "code": "3410",
+        "image": "img/products/Caja EATON/rotula-caja-de-cambios-sdubo-3410.jpg",
+        "description": "ROTULA CAJA DE CAMBIOS SDUBO 3410 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT Código Original / Similar: 2TB/711551 (VW)",
+        "rubro": "MECANISMO DE CAMBIOS EATON"
+    },
+    {
+        "id": "P6144",
+        "name": "CONECTOR CAJA DE VELOCIMETRO EN CAJA DE VELOCIDAD SDUBO",
+        "brand": "Sdubo",
+        "code": "3368",
+        "image": "img/products/Caja EATON/conector-caja-de-velocimetro-en-caja-de-velocidad-sdubo-3368.jpg",
+        "description": "CONECTOR CAJA DE VELOCIMETRO EN CAJA DE VELOCIDAD SDUBO 3368 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A FORD / VW / CUMMINS / MWM: VW 12140T / 12170 / 14170BT Código Original / Similar: 2TK/301877 (VW) 3000724 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6145",
+        "name": "VARILLA ROTULAS CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "3369",
+        "image": "img/products/Caja EATON/varilla-rotulas-caja-de-cambios-imp-3369.jpg",
+        "description": "VARILLA ROTULAS CAJA DE CAMBIOS IMP. 3369 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT- 11710-B / RTLO-112913-A / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E Código Original / Similar: 20925 (Eaton) 2RR/312141 (VW) BF0X/72028 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6146",
+        "name": "PIÑON DE VELOCIMETRO 14 DIENTES SDUBO",
+        "brand": "Sdubo",
+        "code": "3130",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-14-dientes-sdubo-3130.jpg",
+        "description": "PIÑON DE VELOCIMETRO 14 DIENTES SDUBO 3130 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 2626 / 2631 FORD / VW / CUMMINS / MWM: VW 24220 / 24250 Código Original / Similar: 3000342 / 086146 / 30001033 (Eaton) BF8X/17271/A TJG/957821/C / BF0X/17271/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6147",
+        "name": "PIÑON DE VELOCIMETRO 15 DIENTES SDUBO",
+        "brand": "Sdubo",
+        "code": "3131",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-15-dientes-sdubo-3131.jpg",
+        "description": "PIÑON DE VELOCIMETRO 15 DIENTES SDUBO 3131 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A FORD / VW / CUMMINS / MWM: Ford Cargo 1416 / F14000 (93-98) Código Original / Similar: TEG/957821 / BD7T/17271/A D2TU/17271/C (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6148",
+        "name": "PIÑON DE VELOCIMETRO 16 DIENTES IMP.",
+        "brand": "Imp",
+        "code": "3133",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-16-dientes-imp-3133.jpg",
+        "description": "PIÑON DE VELOCIMETRO 16 DIENTES IMP. 3133 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A FORD / VW / CUMMINS / MWM: Ford Cargo 1416 / F14000 (93-98) Código Original / Similar: S9690 (SDUBO) TEG/957821/B / BD2T/17271/B (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6149",
+        "name": "PIÑON DE VELOCIMETRO 16 DIENTES SDUBO",
+        "brand": "Sdubo",
+        "code": "3134",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-16-dientes-sdubo-3134.jpg",
+        "description": "PIÑON DE VELOCIMETRO 16 DIENTES SDUBO 3134 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A FORD / VW / CUMMINS / MWM: Ford F14000 (92-93) Código Original / Similar: T75/957821 90TU/17271/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6150",
+        "name": "PIÑON DE VELOCIMETRO 18 DIENTES SDUBO",
+        "brand": "Sdubo",
+        "code": "3137",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-18-dientes-sdubo-3137.jpg",
+        "description": "PIÑON DE VELOCIMETRO 18 DIENTES SDUBO 3137 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-6206-A / FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1722 FORD / VW / CUMMINS / MWM: VW 14220 / 16170 Código Original / Similar: E7HZ/17322/D / 87HU/17322/AA (FORD / VW / CUMMINS / MWM) TJG/957821/B (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6151",
+        "name": "PIÑON DE VELOCIMETRO 18 DIENTES IMP.",
+        "brand": "Imp",
+        "code": "3138",
+        "image": "img/products/Caja EATON/pinon-de-velocimetro-18-dientes-imp-3138.jpg",
+        "description": "PIÑON DE VELOCIMETRO 18 DIENTES IMP. 3138 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4305-A / FS-4405-A FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 FORD / VW / CUMMINS / MWM: VW L80 / 8140 Código Original / Similar: TAP/957821 (VW) XC45/17271/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6152",
+        "name": "PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD IMP.",
+        "brand": "Imp",
+        "code": "3143",
+        "image": "img/products/Caja EATON/piston-de-freno-de-transmision-de-caja-de-velocidad-imp-3143.jpg",
+        "description": "PISTON DE FRENO DE TRANSMISION DE CAJA DE VELOCIDAD IMP. 3143 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT-11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 16658 (Eaton) TJG/311733 (FORD) TJG/311733 (VW) LARGO TOTAL PERNO 35MM.",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6153",
+        "name": "EJE Y PALANCA SELECTOR DE CAMBIOS EN CAJA DE VELOCIDAD VANNUCCI",
+        "brand": "Vannucci",
+        "code": "3113",
+        "image": "img/products/Caja EATON/eje-y-palanca-selector-de-cambios-en-caja-de-velocidad-vannucci-3113.jpg",
+        "description": "EJE Y PALANCA SELECTOR DE CAMBIOS EN CAJA DE VELOCIDAD VANNUCCI 3113 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5106-A / FS-5306-A / FS-6205-A / FSB-5405-A / FSB-5406-A / FSB-6206-A / FSB-6406-A / FSO- 6406-A FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 Euro III y Bus 17210 OD / 15190 EOD / 17210 EOD / 17230 EOD Código Original / Similar: 2TJ/311541 (VW) 3000862 (Eaton) S3111 (SDUBO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6154",
+        "name": "PALANCA SELECTORA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "3128",
+        "image": "img/products/Caja EATON/palanca-selectora-de-cambios-imp-3128.jpg",
+        "description": "PALANCA SELECTORA DE CAMBIOS IMP. 3128 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-8609-A / RT-8908-LL / RT- 11710-B / RTLO-12913-A / RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E Código Original / Similar: 5553508 (Eaton) TJG/711981/C (FORD) TJG/711981/C (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6155",
+        "name": "CONECTOR CABLE DE VELOCIMETRO EN CAJA DE VELOCIDAD SDUBO",
+        "brand": "Sdubo",
+        "code": "3105",
+        "image": "img/products/Caja EATON/conector-cable-de-velocimetro-en-caja-de-velocidad-sdubo-3105.jpg",
+        "description": "CONECTOR CABLE DE VELOCIMETRO EN CAJA DE VELOCIDAD SDUBO 3105 Sdubo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / F14000 (93-98) / F100 (97-98) FORD / VW / CUMMINS / MWM: VW 7100 / 8140 Código Original / Similar: 3000724 (Eaton) S3020 (SDUBO) TNQ/301877 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6156",
+        "name": "RETEN PALANCA DE LA TORRE DE CONTROL IMP.",
+        "brand": "Imp",
+        "code": "3108",
+        "image": "img/products/Caja EATON/reten-palanca-de-la-torre-de-control-imp-3108.jpg",
+        "description": "RETEN PALANCA DE LA TORRE DE CONTROL IMP. 3108 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON 240 V / 280 V / 280 VH / 280 VHD / CL 450 / CL 550 / FS-4005-A / FS-4005-B / FS-4205-A / FS-5005-A / FS- 5106-A / FS-5205-A / FS-5306-A / FS-6005-B / FS-6205-B / FS- 6206-A / FS-6306-A / FS-6306-B / FS-6406-A / FS-6406-B / FSB-5305-D / FSB-5405-A / FSB-5406-A / FSB-6206-A / FSB- 6406-A / FSB-6406-B / FSBO-8406-A / FSBO-9406-A / FSO- 4305-A / FSO-4305-C / FSO-4405-C / FSO-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / 1317e / 1517e / 1722e FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 9150 E / 10150 E / DELIVERY 5140 E / 8150 E / CONSTELLATION 13180 E / 15180 E / 17250 E / 24250 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Cajas EATON FS-4205-A / FS-5005-C / FS-5205-A / FS-5205-C / FS-5306-A / FS-6305-B / FSB-5406-A IVECO: Camiones EUROCARGO 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 VOLVO: Cajas EATON FS-5306-A / FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 20520174 (VOLVO) 3312225 (Eaton) 7142281 (IVECO) S3090 (SDUBO) T13/312017 (VW) T13/312017 / 2P0/301225 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6157",
+        "name": "BUJE EJE HORQUILLA / CARCAZA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3063",
+        "image": "img/products/Caja EATON/buje-eje-horquilla-carcaza-embrague-imp-3063.jpg",
+        "description": "BUJE EJE HORQUILLA / CARCAZA EMBRAGUE IMP. 3063 Imp Vehículos compatibles: AGRALE: Bus MA 12.0 E-TRONIC / MA 12.0 TCA / MA 15.0 TCE / MT 12.0 E-TRONIC / MT 15.0 E-TRONIC AGRALE: Cajas EATON FS-5406-A FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT-11710-B / RTLO-12913-A / RTLO-14918-B / EA-11109-LA / F11E316D-LSE FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e / 1723 / 1729 / 1933 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 13180 / 15180 E / 17250 E / 26260 E / Constellation 26260 E / 17280 y Bus 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / 260 E28 / 260 E30 / TECTOR ATTACK 170 E22 / 170 E22T / 260 E25 / TECTOR ECOLINE ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A / FS-5406-A / FS-6209-A / FS-6306-A / FS-6306-B / FSB-6406-B / FSO-6406-A / FTS-16108-LL / RT-8908-LL / ES-11109-LA VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 12815 (Eaton) 20.519.852 (VOLVO) 503101212 / 503356291 (IVECO) 6012004036009 (AGRALE) TAK/141869 (FORD) TJG/312103/A (VW) ALTURA 25MM. DIAM. EXT. 29MM. DIAM. INT. 25MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6158",
+        "name": "KIT DE MONTAJE DE PLACA DE EMBRAGUE O ANILLO DE DESEMBRAGUE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2753",
+        "image": "img/products/Caja EATON/kit-de-montaje-de-placa-de-embrague-o-anillo-de-desembrague-trucktec-2753.jpeg",
+        "description": "KIT DE MONTAJE DE PLACA DE EMBRAGUE O ANILLO DE DESEMBRAGUE TRUCKTEC 2753 Trucktec Vehículos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42TZ/P / 450 E37 / 450 E37HR / 450 E37T/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 380 E37 / 440 E42T / 450 E37T / 720 E42 / 740 E42TZ / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38HR / HD 450 S42T / HD 450 42T/P / HD 450 S42HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 570 S38T / TRAKKER 720 T42T MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / LB 2325 / LK 2325 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0400 UP / 0500 RS / 0500 RSD SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 / FM 13 400 / FM 13 440 / FM 13 480 y Bus B 12 B / B 12 R (Todos con Embragues EATON O LUK) Código Original / Similar: 000.252.0646 (MB) 1.341.683 / 1.749.126 (SC) 93161931 / 93162073 / 93161755 (IVECO) PARA PLACA DE 430MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6159",
+        "name": "HORQUILLA EMBRAGUE CON BUJES VANNUCCI",
+        "brand": "Vannucci",
+        "code": "2563",
+        "image": "img/products/Caja EATON/horquilla-embrague-con-bujes-vannucci-2563.jpg",
+        "description": "HORQUILLA EMBRAGUE CON BUJES VANNUCCI 2563 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (02-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E y 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 Código Original / Similar: 20520195 / 21333869 (VOLVO) 2RM/141861 (VW) 997160 (Eaton) BG1X/7544/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6160",
+        "name": "HORQUILLA EMBRAGUE VANNUCCI",
+        "brand": "Vannucci",
+        "code": "2321",
+        "image": "img/products/Caja EATON/horquilla-embrague-vannucci-2321.jpg",
+        "description": "HORQUILLA EMBRAGUE VANNUCCI 2321 Vannucci Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1416 / 1716 / 1722 / 2626 FORD / VW / CUMMINS / MWM: VW 24250 y Bus 17210 OD Código Original / Similar: 997078 (Eaton) TJG/141861 / 2RP/141861/A (VW) TJG/141861 88HU/7541/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6161",
+        "name": "EJE ACCIONAMIENTO DE EMBRAGUE / LARGO 224MM. IMP.",
+        "brand": "Imp",
+        "code": "2322",
+        "image": "img/products/Caja EATON/eje-accionamiento-de-embrague-largo-224mm-imp-2322.jpg",
+        "description": "EJE ACCIONAMIENTO DE EMBRAGUE / LARGO 224MM. IMP. 2322 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 2626 FORD / VW / CUMMINS / MWM: VW 17300 / 24250 IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 y Bus CC170 E22 / CC118 E20 GNC VOLVO: VM 17 210 / VM 17 240 / VM 23 210 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B 270 F Código Original / Similar: 20502341 / 20750639 (VOLVO) 3001534 (Eaton) 3001534 / 3002166 (Eaton) 503101153 (IVECO) TJG/141863 (VW) XC45/7590/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6162",
+        "name": "EJE ACCIONAMIENTO DE EMBRAGUE / LARGO 146MM. IMP.",
+        "brand": "Imp",
+        "code": "2306",
+        "image": "img/products/Caja EATON/eje-accionamiento-de-embrague-largo-146mm-imp-2306.jpg",
+        "description": "EJE ACCIONAMIENTO DE EMBRAGUE / LARGO 146MM. IMP. 2306 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 y Bus CC170 E22 / CC118 E20 GNC VOLVO: VM 17 210 / VM 17 240 / VM 23 210 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B 270 F Código Original / Similar: 20519884 (VOLVO) 3000831 (Eaton) 503101154 (IVECO) C1TT/7590/A (FORD) S1431 (SDUBO) TJG/141865 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6163",
+        "name": "KIT EMBRAGUE SIN CRAPODINA DIAM. 330MM / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "2106",
+        "image": "img/products/Caja EATON/kit-embrague-sin-crapodina-diam-330mm-10-estrias-valeo-2106.jpg",
+        "description": "KIT EMBRAGUE SIN CRAPODINA DIAM. 330MM / 10 ESTRIAS VALEO 2106 Valeo Vehículos compatibles: AGRALE: Cajas EATON FSO-2305-C / FSO-4305-C / FSO-4405 AGRALE: Camiones 6000 / 8500 E-MEC / 8500 CD / 9200 / AGRALE E-TRONIC 8500 / 9200 y Bus MA 7.9 / VOLARE W8 / W9 / E-TRONIC MA 7.5 / MA 8.5 / MA 9.2 AGRALE: Motores MWM 4.10 TCA / MWM 4.12 TCE FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405 FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4BTAA FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA / MWM 4.12 TCE FORD / VW / CUMMINS / MWM: Motores MWM D229 / 6.10 TCA FORD / VW / CUMMINS / MWM: VW 9140 / 9150 y Bus 9150 OD / 9150 EOD FOTON: Ford Cargo 814 / 815 / 914 / 915 / 915e / F 14000 (93-98) Código Original / Similar: + 2R0/141031/A (VW) 104502-2 / 104502BR-2 (Eaton) 232670 (FORD) 232670 (VALEO) 2R0/198149 / 2R0/141025/A (VW) 633 3060 00 / 633 3070 00 (Luk) 6585 / 3400 001 710 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6164",
+        "name": "INTERRUPTOR MARCHA ATRAS R14 X 2MM. VDO",
+        "brand": "Vdo",
+        "code": "2015",
+        "image": "img/products/Caja EATON/interruptor-marcha-atras-r14-x-2mm-vdo-2015.jpg",
+        "description": "INTERRUPTOR MARCHA ATRAS R14 X 2MM. VDO 2015 Vdo Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A FORD / VW / CUMMINS / MWM: Ford Cargo F100 / F4000 / F14000 (93-98) Código Original / Similar: TE6/941521 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6165",
+        "name": "CRAPODINA EMBRAGUE / PARA KIT DE TRABAS DE 120MM. HCS",
+        "brand": "Hcs",
+        "code": "1785",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-kit-de-trabas-de-120mm-hcs-1785.jpg",
+        "description": "CRAPODINA EMBRAGUE / PARA KIT DE TRABAS DE 120MM. HCS 1785 Hcs Vehículos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 R (Con Embrague SACHS o EATON de 430mm.) Código Original / Similar: 07-P06 / 22P06 (HCS) 125637 (Eaton) 3192216 / 3192223 / 20.569.153 (VOLVO) 3363 / 3356 (Sachs) F-112218 (INA) RDL 1325 (NWO) VKC-4635A (SKF) Altura 87.30mm. Largo encastre horquilla 133.80mm Diam. Agujero Central 66.80mm. Diam. Encastre Placa 90mm.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6166",
+        "name": "SERVOEMBRAGUE KONSBERG 100MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "1565",
+        "image": "img/products/Caja EATON/servoembrague-konsberg-100mm-tf-p-technology-1565.jpeg",
+        "description": "SERVOEMBRAGUE KONSBERG 100MM. TF&P TECHNOLOGY 1565 Tfp Technology Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Código Original / Similar: 1.421.186 / 1.513.717 / 1.367.453 (SC) 177004 (Eaton) 625359AM / 629683AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P6167",
+        "name": "VOLANTE DE MOTOR CON CORONA 173 DIENTES GENUINE PARTS",
+        "brand": "Genuine Parts",
+        "code": "1466",
+        "image": "img/products/Caja EATON/volante-de-motor-con-corona-173-dientes-genuine-parts-1466.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 173 DIENTES GENUINE PARTS 1466 Genuine Parts Vehículos compatibles: FORD / VW / CUMMINS / MWM: (Para Disco de 395mm.) FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 5.9LT FORD / VW / CUMMINS / MWM: VW Constellation 17250 E / 24250 E Código Original / Similar: 259C007 (Eaton) 2T2/105269 (VW) 3912907 / 3965247 / 4937924 (Cummins) 3975652 / 3999603 / 4937926 / 4937927 (Cummins) 46-35-1209 / 46-35-0209 (CINPAL) AGUJEROS CIGÜEÑAL 8 / AGUJEROS EMBRAGUE 12 DISTANCIA ENTRE AGUJEROS DE CIGUEÑAL 110MM. DIAM. INT. 52MM. DIAM. TOTAL 443MM. DIAM. AGUJEROS DE FIJACION 410MM.",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P6168",
+        "name": "RESPIRO TORRE CAJA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "14584",
+        "image": "img/products/Caja EATON/respiro-torre-caja-de-cambios-imp-14584.jpg",
+        "description": "RESPIRO TORRE CAJA DE CAMBIOS IMP. 14584 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON EA-11109-LA / EA-11109-LB / RT-11710-B / RT-7608-LL / RT-8609-A / RTLO-14918-B / FTS-16108-LL / FTS-16112-L / F11-E316-DLSE FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / C1932 / C2632 / 1723 / 1729 / 1933 / 3129 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 / 26260 E / Constellation 26260 E / 31320 E / 17280 / 24280 IVECO: Cajas EATON EA-11109-LA / EA-11109-LB / EA-13110 / EAR-11110 / RT-9509-C / RT-9513 / FTS-16108-LL IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR ATTACK 260 E25 / TECTOR ECOLINE 170 E30T / 170 E30 AUT. / 17-300 AUT. / 24-300 AUT. / 240 E30S / 260 E28 / 260 E30 / 310 E30 / 31-300 AUT. / TRAKKER ECOLINE 310 T36 AD VOLVO: Cajas EATON RT-8908-LL / FTS-16108-LL VOLVO: Camiones VM 260 / VM 270 Código Original / Similar: 20750634 (VOLVO) 2UU/301879 (VW) 4304602 (Eaton) 503356220 (IVECO) BF1X/7034/A (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6169",
+        "name": "KIT REPARACION HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "14593",
+        "image": "img/products/Caja EATON/kit-reparacion-horquilla-embrague-imp-14593.jpg",
+        "description": "KIT REPARACION HORQUILLA EMBRAGUE IMP. 14593 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A FORD / VW / CUMMINS / MWM: Nuevo Cargo C1317 / C1517 / 1519 Código Original / Similar: BH1X/7544/AA/R (FORD) DIAM. RODILLO 25.7MM. / DIAM. PERNO 12.2MM. / LARGO TOTAL 40.8MM",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6170",
+        "name": "TUERCA SALIDA DE CAJA M52X1.5 IMP.",
+        "brand": "Imp",
+        "code": "14568",
+        "image": "img/products/Caja EATON/tuerca-salida-de-caja-m52x1-5-imp-14568.jpg",
+        "description": "TUERCA SALIDA DE CAJA M52X1.5 IMP. 14568 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL / RT- 11710-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 2626 / 2631 / 2632e FORD / VW / CUMMINS / MWM: VW 24220 / 24250 / 26310 / 26260 E Código Original / Similar: 22254 (Eaton) TJG/312035 (FORD) TJG/312035 (VW) AUTOFRENANTE",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6171",
+        "name": "KIT EMBRAGUE DIAM. 362MM. / 10 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "14427",
+        "image": "img/products/Caja EATON/kit-embrague-diam-362mm-10-estrias-valeo-14427.jpg",
+        "description": "KIT EMBRAGUE DIAM. 362MM. / 10 ESTRIAS VALEO 14427 Valeo Vehículos compatibles: FORD / VW / CUMMINS / MWM: VW Delivery 9170 / 9180 / 11180 con Caja EATON ESO-6106 Código Original / Similar: + 23B/141165 (VW) 23B/141025 + 23A/141031/A (VW) 3400 654 142 (Sachs) 833362 (VALEO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6172",
+        "name": "KIT EMBRAGUE DIAM. 430MM. VALEO",
+        "brand": "Valeo",
+        "code": "14412",
+        "image": "img/products/Caja EATON/kit-embrague-diam-430mm-valeo-14412.jpg",
+        "description": "KIT EMBRAGUE DIAM. 430MM. VALEO 14412 Valeo Vehículos compatibles: SCANIA: Camiones R 113 / T 113 / R 143 / T 143 y Bus K 113 (Todos con Caja GR/GRS900) Código Original / Similar: 104810-3 (Eaton) 6482 / 3400 000 331 (Sachs) 827487 (VALEO) 24 ESTRIAS / DE TIRAR / INCLUYE CRAPODINA COD. SILVA 1787",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6173",
+        "name": "KIT EMBRAGUE SIN CRAPODINA / DIAM. 430MM. / 24 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "14370",
+        "image": "img/products/Caja EATON/kit-embrague-sin-crapodina-diam-430mm-24-estrias-valeo-14370.jpg",
+        "description": "KIT EMBRAGUE SIN CRAPODINA / DIAM. 430MM. / 24 ESTRIAS VALEO 14370 Valeo Vehículos compatibles: VOLVO: Camiones FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 460 / FMX 480 / FMX 500 (Todos con I-Shift) VOLVO: Motores VOLVO D11A / D13A / D13C Código Original / Similar: 104461-1 / 104461BR-1 (Eaton) 1713 + 5012 / 6413 / 3400 000 778 (Sachs) 827426 (VALEO) 85.000.503 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6174",
+        "name": "INTERRUPTOR LUZ MARCHA ATRÁS M16X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "14291",
+        "image": "img/products/Caja EATON/interruptor-luz-marcha-atras-m16x1-5-3-rho-14291.jpg",
+        "description": "INTERRUPTOR LUZ MARCHA ATRÁS M16X1.5 3-RHO 14291 3 Rho Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON EA-11109-LA / EA-11109-LB / F-11E316D-LSE FORD / VW / CUMMINS / MWM: Ford Cargo 1723 / 1729 / 1933 FORD / VW / CUMMINS / MWM: VW Constellation 17280 / 24280 Código Original / Similar: 2V2/941521 (VW) 3004078 (Eaton) BH5X/15520/AA (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P6175",
+        "name": "CONJUNTO SINCRONIZADO 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "13909",
+        "image": "img/products/Caja EATON/conjunto-sincronizado-1-y-2-cinpal-13909.jpg",
+        "description": "CONJUNTO SINCRONIZADO 1º Y 2º CINPAL 13909 Cinpal Vehículos compatibles: AGRALE: Cajas EATON FSO-4405-C AGRALE: Camiones 6000 / 7500 / 8500 / 9200 y Bus MA 7.9 / MA 8.5 / MA 8.5 E-TRONIC / MA 9.2 / MA 9.2 E-TRONIC / MA 9.2 TCA / VOLARE FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e FORD / VW / CUMMINS / MWM: VW 9150 / Delivery 5140 E / 8150 E y Bus 9150 EOD MERCEDES BENZ: Bus LO 812 / LO 814 MERCEDES BENZ: Cajas EATON FSO-4405-C Código Original / Similar: 000.260.2645 (MB) 05-35-0150 (CINPAL) 2P0/311243 (VW) 3344755 (Eaton) 6013004080005 (AGRALE) BG5X/7124/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6176",
+        "name": "SERVOEMBRAGUE KONSBERG 100MM. QUINELATO",
+        "brand": "Quinelato",
+        "code": "13855",
+        "image": "img/products/Caja EATON/servoembrague-konsberg-100mm-quinelato-13855.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 100MM. QUINELATO 13855 Quinelato Vehículos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Código Original / Similar: 1.367.453 (SC) 1.421.186 / 1.513.717 / (SC) 177004 (Eaton) 625359AM / 629683AM (Konsberg) QA-158194400 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P6177",
+        "name": "UNIDAD DE CONTROL REGISTRO FRENO AUTOMATICO TRASERO DERECHO ECKISIL",
+        "brand": "Eckisil",
+        "code": "13834",
+        "image": "img/products/Caja EATON/unidad-de-control-registro-freno-automatico-trasero-derecho-eckisil-13834.jpeg",
+        "description": "UNIDAD DE CONTROL REGISTRO FRENO AUTOMATICO TRASERO DERECHO ECKISIL 13834 Eckisil Vehículos compatibles: MERCEDES BENZ: Bus OH 1621 L-SB / OH 1721 L-SB MERCEDES BENZ: Diferencial EATON 23060-S Código Original / Similar: 94151 (ECKISIL)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P6178",
+        "name": "UNIDAD DE CONTROL REGISTRO FRENO AUTOMATICO TRASERO IZQUIERDO ECKISIL",
+        "brand": "Eckisil",
+        "code": "13835",
+        "image": "img/products/Caja EATON/unidad-de-control-registro-freno-automatico-trasero-izquierdo-eckisil-13835.jpeg",
+        "description": "UNIDAD DE CONTROL REGISTRO FRENO AUTOMATICO TRASERO IZQUIERDO ECKISIL 13835 Eckisil Vehículos compatibles: MERCEDES BENZ: Bus OH 1621 L-SB / OH 1721 L-SB MERCEDES BENZ: Diferencial EATON 23060-S Código Original / Similar: 94152 (ECKISIL)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P6179",
+        "name": "PALANCA DE CAMBIOS VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13683",
+        "image": "img/products/Caja EATON/palanca-de-cambios-vannucci-13683.jpg",
+        "description": "PALANCA DE CAMBIOS VANNUCCI 13683 Vannucci Vehículos compatibles: RENAULT: Camiones KERAX / MIDLUM / PREMIUM VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 / VM 220 / VM 270 / VM 330 (Todos con caja de cambios EATON Código Original / Similar: 20.561.212 / 21.869.820 (VOLVO) 5010242949 / 7421869820 (RENAULT)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6180",
+        "name": "REPARACION PALANCA DE CAMBIOS VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13694",
+        "image": "img/products/Caja EATON/reparacion-palanca-de-cambios-vannucci-13694.jpg",
+        "description": "REPARACION PALANCA DE CAMBIOS VANNUCCI 13694 Vannucci Vehículos compatibles: RENAULT: Camiones KERAX / MIDLUM / PREMIUM VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 / VM 220 / VM 270 / VM 330 (Todos con caja de cambios EATON) Código Original / Similar: 20.561.212/R / 21.869.820/R (VOLVO) 5010242949/R / 7421869820/R (RENAULT)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6181",
+        "name": "KIT DE TRABAS / 11 PIEZAS CINPAL",
+        "brand": "Cinpal",
+        "code": "13583",
+        "image": "img/products/Caja EATON/kit-de-trabas-11-piezas-cinpal-13583.jpg",
+        "description": "KIT DE TRABAS / 11 PIEZAS CINPAL 13583 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205 / FSO-4305 / FSO-4405 FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1317e / 1517e / F14000 (93-98) / F100 (97-98)(99-05 FORD / VW / CUMMINS / MWM: VW 13180 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E Código Original / Similar: (Incluye 10J6 X 2 – 224023 X 2 (Eaton) 224069 – 235416 – 235415 – 239819 (Eaton) 240037 – 240040 – 240767) (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6182",
+        "name": "REP. CILINDRO / TAPA DE SOBRE MARCHA O SPLITTER QUINELATO",
+        "brand": "Quinelato",
+        "code": "13422",
+        "image": "img/products/Caja EATON/rep-cilindro-tapa-de-sobre-marcha-o-splitter-quinelato-13422.jpg",
+        "description": "REP. CILINDRO / TAPA DE SOBRE MARCHA O SPLITTER QUINELATO 13422 Quinelato Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-8609-A – RT-8908-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B – F11E316DLSE FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e / Nuevo 1933 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E IVECO: Cajas EATON RT-9513 – RT-9509-C – RT-9513 IVECO: Camiones Fiat 697 N / 697T / 619 N1 / 190.33 N / 190.33 T Código Original / Similar: 13653 + 14344 + 14345 + 14347 (Eaton) 14765 + 21208 + 21209 + 22826 + (Eaton) 2U0/311950/D / 2U0/311950/E (VW) 4303583 + 5568534 (Eaton) 503356270 + 503356271 + 503356273 (IVECO) BG3X/70006/AA / BG3X/70006/CA (FORD) BG3X/71020/AA / BG3X/71020/CA (FORD) QA-2491 (QUINELATO) TJG/301235/F / TJG/312105/D (FORD) TJG/301235/F / TJG/312105/D (VW) TJG/312105/E / TJG/312105/F (FORD) TJG/312105/E / TJG/312105/F (VW) TJG/312105/G / TJG/312105/H (VW) TJG/312105/H (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6183",
+        "name": "HORQUILLA EMBRAGUE CON RODILLOS IMP.",
+        "brand": "Imp",
+        "code": "12624",
+        "image": "img/products/Caja EATON/horquilla-embrague-con-rodillos-imp-12624.jpg",
+        "description": "HORQUILLA EMBRAGUE CON RODILLOS IMP. 12624 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A _x000D_ Nuevo Cargo C1317 / C1517 / 1519 Código Original / Similar: BH1X/7544/AA (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6184",
+        "name": "CRAPODINA EMBRAGUE / PARA KIT DE TRABAS DE 100MM. HCS",
+        "brand": "Hcs",
+        "code": "12541",
+        "image": "img/products/Caja EATON/crapodina-embrague-para-kit-de-trabas-de-100mm-hcs-12541.jpg",
+        "description": "CRAPODINA EMBRAGUE / PARA KIT DE TRABAS DE 100MM. HCS 12541 Hcs Vehículos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 R (Con Embrague SACHS o EATON de 430mm.) Código Original / Similar: 07P14 / 22P09 (HCS) 3.192.223 / 1.655.843 / 1.669.832 (VOLVO) Altura 87.30mm. Largo encastre horquilla 133.80mm Diam. Agujero Central 66.80mm. Diam. Encastre Placa 90mm. Usa Kit trabas Cod. Silva 12543",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6185",
+        "name": "TRABA CRAPODINA EMBRAGUE 100M. HCS",
+        "brand": "Hcs",
+        "code": "12543",
+        "image": "img/products/Caja EATON/traba-crapodina-embrague-100m-hcs-12543.jpg",
+        "description": "TRABA CRAPODINA EMBRAGUE 100M. HCS 12543 Hcs Vehículos compatibles: MERCEDES BENZ: Camiones 1938 S / 2638/54 / AXOR 3340 K / 3341 / 3344 / ACTROS 2646 (Con embrague Bi-Disco de 400MM SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 113 (Todos con Caja de 8 Marchas)(Para Placa Sachs/Eaton de 430mm.) SCANIA: Camiones R 113 / T 113 / R 143 / T 143 y Bus K 113 (Todos con Caja de 12 Marchas)(Para Placa Sachs de 430mm.) VOLVO: Bus B 7 R (Todos con Embrague SACHS de 430mm.) VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 B / B 12 R (Con Embrague SACHS / EATON de 430mm. y Caja VT) VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 / FM 13 400 / FM 13 440 (Con Embrague Duplo SACHS de 380/400 mm.) VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 R (Con Embrague SACHS o EATON de 430mm.) VOLVO: Camiones VM 310 (Con Embrague EATON de 395mm.)(Para uso con Tubo Guia) Código Original / Similar: 14R12 (HCS) PARA PLACA DE EMBRAGUE SACHS DE 380MM.",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6186",
+        "name": "HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "12365",
+        "image": "img/products/Caja EATON/horquilla-embrague-imp-12365.jpg",
+        "description": "HORQUILLA EMBRAGUE IMP. 12365 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-6306-A / ES-11209 FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1722 / 1723 / 1729 Código Original / Similar: BH1X/7544/BA (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P6187",
+        "name": "PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "12357",
+        "image": "img/products/Caja EATON/palanca-de-cambios-imp-12357.jpg",
+        "description": "PALANCA DE CAMBIOS IMP. 12357 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FTS-16112-L / ES-11209 FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1722 / C1932 / C2632 / 1723 / 1729 / 1933 / 3129 Código Original / Similar: BC45/7210/BA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6188",
+        "name": "KIT REPARACION PERNOS ELASTICOS, TAPONES Y ESFERAS IMP.",
+        "brand": "Imp",
+        "code": "12361",
+        "image": "img/products/Caja EATON/kit-reparacion-pernos-elasticos-tapones-y-esferas-imp-12361.jpg",
+        "description": "KIT REPARACION PERNOS ELASTICOS, TAPONES Y ESFERAS IMP. 12361 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205 / FSO-4305 / FSO-4405 FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 1317 / 1416 / F14000 (93-98) / F100 (97-98) FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / Worker 9150 E / 10150 E / 13180 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E Código Original / Similar: 2RD/398015 / 2R0/398001 (VW) 3344231 / 3362131 (Eaton) BH1X/7K059/FA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6189",
+        "name": "VALVULA SELENOIDE / BY PASS IMP.",
+        "brand": "Imp",
+        "code": "12363",
+        "image": "img/products/Caja EATON/valvula-selenoide-by-pass-imp-12363.jpg",
+        "description": "VALVULA SELENOIDE / BY PASS IMP. 12363 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FTS-16112-L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 / 1933 / 3129 Código Original / Similar: BH1X/7595/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6190",
+        "name": "PISTA CILINDRO ALTA Y BAJA IMP.",
+        "brand": "Imp",
+        "code": "12336",
+        "image": "img/products/Caja EATON/pista-cilindro-alta-y-baja-imp-12336.jpg",
+        "description": "PISTA CILINDRO ALTA Y BAJA IMP. 12336 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FTS-16112-L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 / 1933 Código Original / Similar: 1010093 (Eaton) BH1X/72018/BA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6191",
+        "name": "VALVULA PUNTO NEUTRO IMP.",
+        "brand": "Imp",
+        "code": "12338",
+        "image": "img/products/Caja EATON/valvula-punto-neutro-imp-12338.jpg",
+        "description": "VALVULA PUNTO NEUTRO IMP. 12338 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FTS-16108-LL / FTS-16112-L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 / 1933 / 3129 IVECO: Cajas EATON FTS-16108-LL IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR ATTACK 260 E25 / TECTOR ECOLINE 260 E28 / 260 E30 / TRAKKER ECOLINE 310 T36 AD VOLVO: Cajas EATON FTS-16108-LL VOLVO: Camiones VM 260 / VM 270 Código Original / Similar: 21.609.667 (VOLVO) 2V2/325737 (VW) 3003829 (Eaton) 500056340 / 503356186 (IVECO) BH1X/7595/BA (FORD)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P6192",
+        "name": "KIT RODILLOS Y ARANDELAS DE DIRECTA IMP.",
+        "brand": "Imp",
+        "code": "12326",
+        "image": "img/products/Caja EATON/kit-rodillos-y-arandelas-de-directa-imp-12326.jpg",
+        "description": "KIT RODILLOS Y ARANDELAS DE DIRECTA IMP. 12326 Imp Vehículos compatibles: AGRALE: Bus AGRALE MA 12.0 AGRALE: Cajas EATON FS-4205-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1317e / 1517e / F 14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E IVECO: Cajas EATON FS-4205-A IVECO: Camiones EUROCARGO 120 E15 MERCEDES BENZ: Bus LO 914 / LO 915 MERCEDES BENZ: Cajas EATON FS-4205-A Código Original / Similar: 2S0/398211 (VW) 3003823 (Eaton) BH1X/7K171/AA (FORD) Incluye 235382 / 235383 / 235414 x 14 (Eaton) Incluye 235415 / 235416 (Eaton) Incluye 235382 / 235383 / 235414 x 14 / 235415 / 235416",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6193",
+        "name": "BUJE TORRE PALANCA DE CAMBIOS IMP.",
+        "brand": "Imp",
+        "code": "12263",
+        "image": "img/products/Caja EATON/buje-torre-palanca-de-cambios-imp-12263.jpg",
+        "description": "BUJE TORRE PALANCA DE CAMBIOS IMP. 12263 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON RT-7608-LL – RT-8609-A – RT-8908-LL – RT-11710-B – RTLO-12913-A – RTLO-14918-B FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26260 / 26310 / 26260 E IVECO: Cajas EATON RT-9513 – RT-9509-C – RT-9513 IVECO: Fiat 697 N / 697T / 619 N1 / 190.33 N / 190.33 T VOLVO: Cajas EATON RT-8908-LL VOLVO: Camiones VM 260 Código Original / Similar: 200212 (Eaton) 2RR/312143 (VW) ANCHO 29MM X ALTO 25MM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6194",
+        "name": "KIT DE TRABAS / 8 PIEZAS IMP.",
+        "brand": "Imp",
+        "code": "12267",
+        "image": "img/products/Caja EATON/kit-de-trabas-8-piezas-imp-12267.jpg",
+        "description": "KIT DE TRABAS / 8 PIEZAS IMP. 12267 Imp Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5005-A / FS-5205-A / FS-5305-A FORD / VW / CUMMINS / MWM: Ford Cargo 1716 FORD / VW / CUMMINS / MWM: VW 15160 Código Original / Similar: 2S0/398047/E (VW) 3003828 (Eaton) BH1X/7K059/CA (FORD) Incluye 10J6 X 2 – 224024 – 224069 (Eaton) Incluye 226331 – 235372 – 235416 (Eaton) Incluye 3315686 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6195",
+        "name": "GUIA DIRECTA SIN TUBO GUIA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11778",
+        "image": "img/products/Caja EATON/guia-directa-sin-tubo-guia-industria-argentina-11778.jpg",
+        "description": "GUIA DIRECTA SIN TUBO GUIA INDUSTRIA ARGENTINA 11778 Industria Argentina Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A / FS-5005-A / FS-5205-A FORD / VW / CUMMINS / MWM: VW 13180 / 15170 / 15180 Código Original / Similar: 23147 (Eaton) 2RP/311179/A (VW) BF5X/7050/A (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6196",
+        "name": "JGO. JUNTAS CAJA DE CAMBIOS CON RETENES SABO",
+        "brand": "SABO",
+        "code": "11787",
+        "image": "img/products/Caja EATON/jgo-juntas-caja-de-cambios-con-retenes-sabo-11787.jpg",
+        "description": "JGO. JUNTAS CAJA DE CAMBIOS CON RETENES SABO 11787 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FTS-16112-L / FTS-16108-L FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1932 / C2632 / 1933 / 3129 IVECO: Cajas EATON FTS-16108-L IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR ATTACK 260 E25 / TECTOR ECOLINE 260 E28 / 260 E30 / TRAKKER ECOLINE 310 T36 AD VOLVO: Cajas EATON FTS-16108-L VOLVO: Camiones VM 270 Código Original / Similar: 77120 (SABO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P6197",
+        "name": "DIRECTA / 25 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "11617",
+        "image": "img/products/Caja EATON/directa-25-dientes-cinpal-11617.jpg",
+        "description": "DIRECTA / 25 DIENTES CINPAL 11617 Cinpal Vehículos compatibles: IVECO: Cajas EATON FS-6306-B / FS-6406-B IVECO: Camiones TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK ECOLINE 170 E28 / 240 E28 Código Original / Similar: 12-33-0116 (CINPAL) 3003323 (Eaton) 503355997 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6198",
+        "name": "RETEN ACEITE PALANCA SELECTORA DE CAMBIOS SABO",
+        "brand": "SABO",
+        "code": "10907",
+        "image": "img/products/Caja EATON/reten-aceite-palanca-selectora-de-cambios-sabo-10907.jpg",
+        "description": "RETEN ACEITE PALANCA SELECTORA DE CAMBIOS SABO 10907 SABO Vehículos compatibles: AGRALE: Cajas EATON FSO-4405-C / FSO-4505-A _x000D_ Camiones 6000 / 6500 / 7500 / 8500 / 9200 y Bus MA 7.9 / 8.5 / MA 8.7 / MA 9.0 / MA 9.2 / MA 9.6 / MA 10.0 / VOLARE FORD / VW / CUMMINS / MWM: Cajas EATON FS-2305-C / FS-4205-A / FS-6306-A / FS-6306-B / FSO-4405-C / FSO-4505-C / FSO-4505-D FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e / Nuevo 916 / 1119 FORD / VW / CUMMINS / MWM: VW 9150 / Delivery 5140 E / 8150 E / Constellation 13180 E / 15180 E / 17250 E / 24250 E IVECO: Cajas EATON FSO-2405-E / FSO-4405-B / FS-5406-A / FS-5306-A / FS-5406-A / FS-6303-A / FS-6306-B / FS-6406-B IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 _x000D_ Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C16 / 70 C16 HD / DAILY SCUDATTO 70 C16 / 70 C16 HD y Bus 50 C16 MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4505-A / FSO-4505-HD MERCEDES BENZ: Camiones ACCELO 915C / 816 / 1016 Código Original / Similar: 016.997.5145 (MB) 07893BRG (SABO) 2P0/301225 (VW) 3344678 (Eaton) 503355604 (IVECO) 6013004039001 (AGRALE) BG6X/7288/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6199",
+        "name": "CAMISA DESLIZANTE CAJA MARCHA ATRAS CINPAL",
+        "brand": "Cinpal",
+        "code": "10809",
+        "image": "img/products/Caja EATON/camisa-deslizante-caja-marcha-atras-cinpal-10809.jpg",
+        "description": "CAMISA DESLIZANTE CAJA MARCHA ATRAS CINPAL 10809 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-6306-A / FS-6306-B FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1722 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17250 E / Constellation 17250 E / 24250 E IVECO: Cajas EATON FS-5306-A / FS-6306-A / FS-6306-B IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-6306-A – FS-6306-B VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 270 Código Original / Similar: 000.262.8923 (MB) 20.520.028 (VOLVO) 26-33-0209 (CINPAL) 2RK/311289 (FORD) 2RK/311289 (VW) 4301473 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6200",
+        "name": "DEFLECTOR O TAPA DE SINCRONIZADO 5º Y 6º CINPAL",
+        "brand": "Cinpal",
+        "code": "10787",
+        "image": "img/products/Caja EATON/deflector-o-tapa-de-sincronizado-5-y-6-cinpal-10787.jpg",
+        "description": "DEFLECTOR O TAPA DE SINCRONIZADO 5º Y 6º CINPAL 10787 Cinpal Vehículos compatibles: AGRALE: Bus MA 11.0 / MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A DEUTZ: Bus El Detalle OA101 DEUTZ: Cajas EATON FS-4205-A / FS-5205-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5205-A / FS-5306-A / FS-5406-A / FS-6205-A / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5405-A / FSB-6406-A / FSBO-8406-AE / FSBO-9406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 / F-14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 13180 E / 15180 E / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18330 OT IVECO: Cajas EATON FS-4205-A / FS-5205-A / FS-5205-C / FS-5306-A / FS-5406-A / FS-6305-B / FS-6306-A / FS-6306-B / FS-6406-A / FS-6406-B / FSB-5406-A IVECO: Camiones 150 Turbo / EUROCARGO 120 E15 / 140 E18 / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.262.5634 (MB) 14-33-0202 (CINPAL) 20.520.377 (VOLVO) 2RK/311321 (FORD) 2RK/311321 (VW) 35510174 (Euroricambi) 4301467 (Eaton) 6007004173000 (AGRALE) 7149047 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6201",
+        "name": "ENGRANAJE INTERIOR 5º Y 6º CINPAL",
+        "brand": "Cinpal",
+        "code": "10788",
+        "image": "img/products/Caja EATON/engranaje-interior-5-y-6-cinpal-10788.jpg",
+        "description": "ENGRANAJE INTERIOR 5º Y 6º CINPAL 10788 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5405-A / FSB-6406-A / FSB-6406-B / FSBO-8406-AE / FSBO-9406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18330 OT IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6406-A – FS-6406-B – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.262.2737 (MB) 14-33-0207 (CINPAL) 20.520.031 (VOLVO) 2RK/311321/A (FORD) 2RK/311321/A (VW) 35510158 (Euroricambi) 4301476 (Eaton) 503106041 (IVECO) 6112004090004 (AGRALE)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6202",
+        "name": "ENGRANAJE INTERIOR 3º Y 4º CINPAL",
+        "brand": "Cinpal",
+        "code": "10789",
+        "image": "img/products/Caja EATON/engranaje-interior-3-y-4-cinpal-10789.jpg",
+        "description": "ENGRANAJE INTERIOR 3º Y 4º CINPAL 10789 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5405-A / FSB-6406-A / FSB-6406-B / FSBO-8406-AE / FSBO-9406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18330 OT IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6406-A – FS-6406-B – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.262.2537 (MB) 14-33-0208 (CINPAL) 20.520.030 (VOLVO) 2RK/311337 (FORD) 2RK/311337 (VW) 35510516 (Euroricambi) 4301475 (Eaton) 503106045 (IVECO) 6112004100001 (AGRALE)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6203",
+        "name": "DEFLECTOR O TAPA DE SINCRONIZADO 1º Y 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "10790",
+        "image": "img/products/Caja EATON/deflector-o-tapa-de-sincronizado-1-y-2-cinpal-10790.jpg",
+        "description": "DEFLECTOR O TAPA DE SINCRONIZADO 1º Y 2º CINPAL 10790 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-6306-A / FS-6306-B FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1722 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17250 E / Constellation 17250 E / 24250 E IVECO: Cajas EATON FS-5306-A / FS-6305-B / FS-6306-A / FS-6306-B IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A -FS-6306-A – FS-6306-B VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 270 Código Original / Similar: 000.262.5534 (MB) 14-33-0210 (CINPAL) 20.520.373 (VOLVO) 2RK/311257/A (VW) 2RK/311258 (FORD) 35510316 (Euroricambi) 4301465 (Eaton) 503106002 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6204",
+        "name": "DEFLECTOR O TAPA DE SINCRONIZADO 3º Y 4º CINPAL",
+        "brand": "Cinpal",
+        "code": "10791",
+        "image": "img/products/Caja EATON/deflector-o-tapa-de-sincronizado-3-y-4-cinpal-10791.jpg",
+        "description": "DEFLECTOR O TAPA DE SINCRONIZADO 3º Y 4º CINPAL 10791 Cinpal Vehículos compatibles: AGRALE: Bus MA 11.0 / MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A – FS-6306-A – FS-6306-B – FS-6406-A – FSB-5405-A – FSB-5406-A – FSB-6406-A – FSB-6406-B – _x000D_ FSO-6406-A – FSBO-9406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17220 / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18330 OT IVECO: Cajas EATON FS-5306-A / FS-5406-A / FS-6305-B / FS-6306-A / FS-6306-B / FS-6406-B / FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.262.5734 (MB) 14-33-0211 (CINPAL) 20.520.374 (VOLVO) 2RK/311257 (FORD) 2RK/311257 (VW) 35510096 (Euroricambi) 4301466 (Eaton) 6112004097009 (AGRALE) 7149058 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6205",
+        "name": "ENGRANAJE INTERIOR MARCHA ATRAS CINPAL",
+        "brand": "Cinpal",
+        "code": "10792",
+        "image": "img/products/Caja EATON/engranaje-interior-marcha-atras-cinpal-10792.jpg",
+        "description": "ENGRANAJE INTERIOR MARCHA ATRAS CINPAL 10792 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5405-A / FSB-6406-A / FSB-6406-B FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 15190 EOD / 17230 EOD / 17260 EOT IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6406-A – FS-6406-B – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.262.2637 (MB) 14-33-0212 (CINPAL) 20.520.029 (VOLVO) 2RK/311299 (FORD) 2RK/311299 (VW) 35510253 (Euroricambi) 4301474 (Eaton) 503106051 (IVECO) 6112004109002 (AGRALE)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6206",
+        "name": "ENGRANAJE 4º DEL EJE ACANALADO CINPAL",
+        "brand": "Cinpal",
+        "code": "10750",
+        "image": "img/products/Caja EATON/engranaje-4-del-eje-acanalado-cinpal-10750.jpg",
+        "description": "ENGRANAJE 4º DEL EJE ACANALADO CINPAL 10750 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A -FS-6306-B – FSB-5406-A – FSO-6406-A FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / 1519 FORD / VW / CUMMINS / MWM: VW 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5406-A / FS-6306-B IVECO: Camiones EUROCARGO 160 E18 GNC / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 240 E22 y Bus CC 118 E20 GNC VOLVO: Cajas EATON FS-5406-A – FS-6306-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 220 / VM 270 y Bus B270F Código Original / Similar: 10-33-0723 (CINPAL) 21.603.630 (VOLVO) 2T0/311351/D (VW) 4304401 (Eaton) 503355255 (IVECO) 6112004095003 (AGRALE) BG5X/7110/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6207",
+        "name": "ENGRANAJE 3º DEL EJE ACANALADO / 47 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "10751",
+        "image": "img/products/Caja EATON/engranaje-3-del-eje-acanalado-47-dientes-cinpal-10751.jpg",
+        "description": "ENGRANAJE 3º DEL EJE ACANALADO / 47 DIENTES CINPAL 10751 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A -FS-6306-B – FSB-5406-A – FSO-6406-A FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / 1519 FORD / VW / CUMMINS / MWM: VW 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5406-A / FS-6306-B IVECO: Camiones EUROCARGO 160 E18 GNC / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 240 E22 y Bus CC 118 E20 GNC VOLVO: Cajas EATON FS-5406-A – FS-6306-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 220 / VM 270 y Bus B270F Código Original / Similar: 10-33-0724 (CINPAL) 2T0/311385/D (VW) 4304063 (Eaton) 503355254 (IVECO) 6112004101009 (AGRALE) BG5X/7B340/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6208",
+        "name": "ENGRANAJE 4º DEL CUADRUPLE CINPAL",
+        "brand": "Cinpal",
+        "code": "10752",
+        "image": "img/products/Caja EATON/engranaje-4-del-cuadruple-cinpal-10752.jpg",
+        "description": "ENGRANAJE 4º DEL CUADRUPLE CINPAL 10752 Cinpal Vehículos compatibles: AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSBO-6406-A_x000D_ Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A -FS-6306-B – FSB-5406-A – FSO-6406-A FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / 1519 FORD / VW / CUMMINS / MWM: VW 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5406-A / FS-6306-B IVECO: Camiones EUROCARGO 160 E18 GNC / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 240 E22 y Bus CC 118 E20 GNC VOLVO: Cajas EATON FS-5406-A – FS-6306-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 220 / VM 270 y Bus B270F Código Original / Similar: 10-33-0725 (CINPAL) 21.603.544 (VOLVO) 2T0/311352 (VW) 4304099 (Eaton) 553355254 / 503355984 (IVECO) 6112004122005 (AGRALE) BG5X/7B340/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6209",
+        "name": "DIRECTA / USO CON TAPA CON Y SIN GUIA CINPAL",
+        "brand": "Cinpal",
+        "code": "10759",
+        "image": "img/products/Caja EATON/directa-uso-con-tapa-con-y-sin-guia-cinpal-10759.jpg",
+        "description": "DIRECTA / USO CON TAPA CON Y SIN GUIA CINPAL 10759 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FS-6406-A / FSB-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A – FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 y Bus 17210 OD / 17240 OT / 15190 EOD / 17230 EOD VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 Código Original / Similar: 12-33-0056 (CINPAL) 20.502.346 / 21.986.485 (VOLVO) 2RK/311145 / 2T0/311145 (VW) 4301485 / 3003347 (Eaton) 6112004088008 / 6021004040002 (AGRALE) BH3X/311145/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6210",
+        "name": "ENGRANAJE 5º DEL CUADRUPLE CINPAL",
+        "brand": "Cinpal",
+        "code": "10728",
+        "image": "img/products/Caja EATON/engranaje-5-del-cuadruple-cinpal-10728.jpg",
+        "description": "ENGRANAJE 5º DEL CUADRUPLE CINPAL 10728 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-tronic / MA 15.0 / MA 17.0 / MT 12.0 E-tronic / MT 15.0 E-tronic / Volare AGRALE: Cajas EATON FS-5406-A – FS-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5106-A – FS-5306-A – FS-5406-A – FS-6206-A – FS-6306-A – FS-6406-A – FSB-5406-A – FSB-6206-A – FSB-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C 1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-306-B – FS-6406-A – FS-6406-B – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.263.2915 (MB) 10-33-0550 (CINPAL) 20.502.364 (VOLVO) 2RK/311443 (FORD) 2RK/311443 (VW) 4301478 (Eaton) 503106055 (IVECO) 6112004121007 (AGRALE)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6211",
+        "name": "ENGRANAJE 5º DEL EJE ACANALADO CINPAL",
+        "brand": "Cinpal",
+        "code": "10729",
+        "image": "img/products/Caja EATON/engranaje-5-del-eje-acanalado-cinpal-10729.jpg",
+        "description": "ENGRANAJE 5º DEL EJE ACANALADO CINPAL 10729 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-tronic / MA 15.0 / MA 17.0 / MT 12.0 E-tronic / MT 15.0 E-tronic / Volare AGRALE: Cajas EATON FS-5406-A – FS-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5106-A – FS-5306-A – FS-5406-A – FS-6206-A – FS-6306-A – FS-6406-A – FSB-5406-A – FSB-6206-A – FSB-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C 1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FS-6406-A – FS-6406-B – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.262.5115 (MB) 10-33-0551 (CINPAL) 20.502.353 (VOLVO) 2RK/311353 (FORD) 2RK/311353 (VW) 4301477 (Eaton) 503106042 (IVECO) 6112004091002 (AGRALE)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6212",
+        "name": "ENGRANAJE 3º DEL EJE ACANALADO CINPAL",
+        "brand": "Cinpal",
+        "code": "10730",
+        "image": "img/products/Caja EATON/engranaje-3-del-eje-acanalado-cinpal-10730.jpg",
+        "description": "ENGRANAJE 3º DEL EJE ACANALADO CINPAL 10730 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A – FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 IVECO: Cajas EATON FS-5306-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A VOLVO: Camiones VM 17 210 / VM 23 210 / VM 210 Código Original / Similar: 000.262.8013 (MB) 10-33-0552 (CINPAL) 20.502.355 (VOLVO) 2RK/311285 (FORD) 2RK/311285 (VW) 4301481 (Eaton) 503106046 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6213",
+        "name": "ENGRANAJE 2º DEL EJE ACANALADO CINPAL",
+        "brand": "Cinpal",
+        "code": "10732",
+        "image": "img/products/Caja EATON/engranaje-2-del-eje-acanalado-cinpal-10732.jpg",
+        "description": "ENGRANAJE 2º DEL EJE ACANALADO CINPAL 10732 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A – FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 IVECO: Cajas EATON FS-5306-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A VOLVO: Camiones VM 17 210 / VM 23 210 / VM 210 Código Original / Similar: 000.262.8412 (MB) 10-33-0554 (CINPAL) 20.502.356 (VOLVO) 2RK/311261 (FORD) 2RK/311261 (VW) 4301482 (Eaton) 503106086 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6214",
+        "name": "ENGRANAJE 1º DEL EJE ACANALADO CINPAL",
+        "brand": "Cinpal",
+        "code": "10733",
+        "image": "img/products/Caja EATON/engranaje-1-del-eje-acanalado-cinpal-10733.jpg",
+        "description": "ENGRANAJE 1º DEL EJE ACANALADO CINPAL 10733 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A – FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 IVECO: Cajas EATON FS-5306-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A VOLVO: Camiones VM 17 210 / VM 23 210 / VM 210 Código Original / Similar: 001.262.0211 (MB) 10-33-0555 (CINPAL) 20.502.359 (VOLVO) 2RK/311251 (FORD) 2RK/311251 (VW) 4301483 (Eaton) 503106049 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6215",
+        "name": "ENGRANAJE MARCHA ATRÁS / 45 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "10734",
+        "image": "img/products/Caja EATON/engranaje-marcha-atras-45-dientes-cinpal-10734.jpg",
+        "description": "ENGRANAJE MARCHA ATRÁS / 45 DIENTES CINPAL 10734 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1722 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 IVECO: Cajas EATON FS-5306-A – FS-6306-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 000.262.03333 (MB) 10-33-0556 (CINPAL) 20.502.360 (VOLVO) 2RK/311253 (FORD) 2RK/311253 (VW) 4301484 (Eaton) 503106053 (IVECO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6216",
+        "name": "ENGRANAJE MARCHA ATRÁS DEL EJE ACANALADO CINPAL",
+        "brand": "Cinpal",
+        "code": "10735",
+        "image": "img/products/Caja EATON/engranaje-marcha-atras-del-eje-acanalado-cinpal-10735.jpg",
+        "description": "ENGRANAJE MARCHA ATRÁS DEL EJE ACANALADO CINPAL 10735 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FS-6406-A – FSB-5405-A – FSB-5406-A – FSB-6206-A – FSB-6406-A – FSO-6406-A – FSBO-8406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6406-A – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 10-33-0557 (CINPAL) 20.502.334 (VOLVO) 2RK/311063 (VW) 4304318 (Eaton) 503106059 (IVECO) 6112004129000 (AGRALE) BG1X/7141/AA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6217",
+        "name": "ENGRANAJE 3º FIJO / DEL CUADRUPLE CINPAL",
+        "brand": "Cinpal",
+        "code": "10725",
+        "image": "img/products/Caja EATON/engranaje-3-fijo-del-cuadruple-cinpal-10725.jpg",
+        "description": "ENGRANAJE 3º FIJO / DEL CUADRUPLE CINPAL 10725 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A – FS-6206-A – FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1722 FORD / VW / CUMMINS / MWM: VW 17210 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5306-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 000.263.3213 (MB) 10-33-0537 (CINPAL) 20.502.361 (VOLVO) 22076 (Eaton) TJ3/311439 (FORD) TJ3/311439 (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6218",
+        "name": "ENGRANAJE MOTRIZ DEL CUADRUPLE CINPAL",
+        "brand": "Cinpal",
+        "code": "10726",
+        "image": "img/products/Caja EATON/engranaje-motriz-del-cuadruple-cinpal-10726.jpg",
+        "description": "ENGRANAJE MOTRIZ DEL CUADRUPLE CINPAL 10726 Cinpal Vehículos compatibles: AGRALE: Bus MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-tronic / MA 15.0 / MA 17.0 / MT 12.0 E-tronic / MT 15.0 E-tronic / Volare AGRALE: Cajas EATON FS-5406-A – FS-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5106-A – FS-5306-A – FS-5406-A – FS-6206-A – FS-6306-A – FS-6406-A – FSB-5406-A – FSB-6206-A – FSB-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C 1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 y Bus 17210 OD / 15190 EOD / 17230 EOD IVECO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6406-A – FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 000.263.9610 (MB) 10-33-0548 (CINPAL) 20.502.363 (VOLVO) 3315743 (Eaton) 503106054 (IVECO) 6112004120009 (AGRALE) TE3/311343 (FORD) TE3/311343 (VW)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6219",
+        "name": "CONJUNTO SINCRONIZADO 5º / 6º CINPAL",
+        "brand": "Cinpal",
+        "code": "10686",
+        "image": "img/products/Caja EATON/conjunto-sincronizado-5-6-cinpal-10686.jpg",
+        "description": "CONJUNTO SINCRONIZADO 5º / 6º CINPAL 10686 Cinpal Vehículos compatibles: DEUTZ: Bus El Detalle OA101 DEUTZ: Cajas EATON FS-4205-A / FS-5205-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5205-A / FS-5306-A / FS-5406-A / FS-6205-A / FS-6205-B / FS-6306-A / FS-6306-B / FSB-6406-A FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 / F-14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 13180 E / 15180 E / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 24250 E / 15190 / 17190 / 17230 IVECO: Cajas EATON FS-4205-A / FS-5205-A / FS-5205-C / FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B IVECO: Camiones 150 Turbo / EUROCARGO 120 E15 / 140 E18 / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-6306-B VOLVO: Camiones VM 270 Código Original / Similar: 001.262.0135 (MB) 04-35-0033 (CINPAL) 21.616.233 (VOLVO) 2RG/311231 / 2S0/311301/A (VW) 2T0/311309/A (VW) 6007004174008 (AGRALE) 7149048 (IVECO) A6137 / A8952 (Eaton) BG5X/7124/EA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6220",
+        "name": "CONJUNTO SINCRONIZADO 1º / 2º CINPAL",
+        "brand": "Cinpal",
+        "code": "10687",
+        "image": "img/products/Caja EATON/conjunto-sincronizado-1-2-cinpal-10687.jpg",
+        "description": "CONJUNTO SINCRONIZADO 1º / 2º CINPAL 10687 Cinpal Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-5306-A / FS-6306-A / FS-6306-B FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e / Nuevo C1722 / 1723 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17250 E / Constellation 17250 E / 24250 E IVECO: Cajas EATON FS-5306-A / FS-6306-A / FS-6306-B IVECO: Camiones EUROCARGO 160 E18 GNC / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-6306-A / FS-6306-B VOLVO: Camiones VM 270 Código Original / Similar: 000.262.0035 (MB) 04-35-0038 (CINPAL) 20.520.387 (VOLVO) 2RK/311243 / 2S0/311243 (VW) 503106047 (IVECO) A6135 / A8950 (Eaton) BG5X/7124/FA (FORD)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6221",
+        "name": "CONJUNTO SINCRONIZADO 3º / 4º CINPAL",
+        "brand": "Cinpal",
+        "code": "10688",
+        "image": "img/products/Caja EATON/conjunto-sincronizado-3-4-cinpal-10688.jpg",
+        "description": "CONJUNTO SINCRONIZADO 3º / 4º CINPAL 10688 Cinpal Vehículos compatibles: AGRALE: Bus MA 11.0 / MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-5406-A – FS-6306-A – FS-6306-B – FS-6406-A – FSB-5405-A – FSB-5406-A – FSB-6406-A – FSB-6406-B – FSO-6406-A – FSBO-9406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1716 / 1722 / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 FORD / VW / CUMMINS / MWM: VW 17220 / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18330 OT IVECO: Cajas EATON FS-5406-A / FS-6306-A / FS-6306-B / FS-6406-B / FSB-5406-A IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 04-35-0039 (CINPAL) 20.520.390 (VOLVO) 2RK/311319 (FORD) 2RK/311319 (VW) 6112004384001 (AGRALE) 7149060 (IVECO) A6136 (Eaton)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6222",
+        "name": "KIT DE TRABAS / 9 PIEZAS CINPAL",
+        "brand": "Cinpal",
+        "code": "10690",
+        "image": "img/products/Caja EATON/kit-de-trabas-9-piezas-cinpal-10690.jpg",
+        "description": "KIT DE TRABAS / 9 PIEZAS CINPAL 10690 Cinpal Vehículos compatibles: AGRALE: Bus MA 11.0 / MA 12.0 TCA / MA 12.0 TCE / MA 12.0 E-TRONIC / MA 15.0 / MA 17.0 / MT 12.0 E-TRONIC / MT 15.0 / MT 15.0 E-TRONIC / VOLARE AGRALE: Cajas EATON FS-5406-A / FSB-5406-A / FSB-5406-B / FS-6406-A / FSB-6406-A / FSBO-6406-A DEUTZ: Bus El Detalle OA101 DEUTZ: Cajas EATON FS-4205-A / FS-5205-A FORD / VW / CUMMINS / MWM: Cajas EATON FS-4205-A / FS-5205-A / FS-5306-A / FS-5406-A / FS-6205-A / FS-6306-A / FS-6306-B / FS-6406-A / FSB-5405-A / FSB-6406-A / FSBO-8406-AE / FSBO-9406-AE FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 / 1519 / 1723 / F-14000 (93-98)(99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 13180 E / 15180 E / 17250 E / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 24250 E / 15190 / 17190 / 17230 y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT / 18330 OT IVECO: Cajas EATON FS-4205-A / FS-5205-A / FS-5205-C / FS-5306-A / FS-5406-A / FS-6305-B / FS-6306-A / FS-6306-B / FS-6406-A / FS-6406-B / FSB-5406-A IVECO: Camiones 150 Turbo / EUROCARGO 120 E15 / 140 E18 / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 VOLVO: Cajas EATON FS-5306-A – FS-5406-A – FS-6306-A – FS-6306-B – FSB-6406-B – FSO-6406-A – FSBO-6406-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 / VM 210 / VM 220 / VM 260 / VM 270 y Bus B270F Código Original / Similar: 000.267.0668 + 000.994.3835 (MB) 002.994.3635 + 002.994.4135 (MB) 002.994.3935 + 002.994.4335 (MB) 05-35-0046 (CINPAL) 20.520.007 + 20.520.009 + 20.520.011 (VOLVO) 20.520.200 + 20.502.327 + 20.520.004 (VOLVO) 2T0/398047 / T06/311521 + TE3/311133 (VW) 3003827 / Incluye 10J6 X 2 (Eaton) 3313798 – 3315686 – 3315717 X 2 (Eaton) 3315725 X 2 – 3315728 – 3315752 (Eaton) 503355722 + 503355724 (IVECO) 6001004184000 + 6112004115009 (AGRALE) 6007004385000 + 6112004099005 (AGRALE) 6112004093000 + 6112004119001 (AGRALE) 7142207 + 7149065 (IVECO) 7149059 + 7149053 + 7149079 (IVECO) BH1X/7K059/DA / T06/311521 + TE3/311133 (FORD) TE3/311249/B + TE3/312077/A (FORD) TE3/311249/B + TE3/312077/A (VW) TE3/312061 + TE3/311249 + TE3/3113319 (VW) TE3/312061 + TE3/311249 + TE3/311339 (FORD) (Incluye 10J6 X 2 – 3313798 – 3315686 – 3315717 X 2 – 3315725 X 2 – 3315728 – 3315752)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6223",
+        "name": "VOLANTE DE MOTOR CON CORONA 395MM RMOSS",
+        "brand": "Rmoss",
+        "code": "10480",
+        "image": "img/products/Caja EATON/volante-de-motor-con-corona-395mm-rmoss-10480.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 395MM RMOSS 10480 Rmoss Vehículos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo 1723 / 1729 / 3129 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 6.7L. / ISce6 FORD / VW / CUMMINS / MWM: VW Constellation 17250 E / 24250 E Código Original / Similar: 259C005 (Eaton) 2T2/105269/A (VW) 3966065 (Cummins) 46.35.1223 / 46.35.0223 (CINPAL) BG5X/6375/BA (FORD) 138 DIENTES / AGUJEROS CIGÜEÑAL 8 / AGUJEROS EMBRAGUE 12",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P6224",
+        "name": "VOLANTE DE MOTOR CON CORONA 350MM RMOSS",
+        "brand": "Rmoss",
+        "code": "10484",
+        "image": "img/products/Caja EATON/volante-de-motor-con-corona-350mm-rmoss-10484.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 350MM RMOSS 10484 Rmoss Vehículos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / ACCELO 915 C / ATEGO 1418 / 1718 M / 1720/48 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA Código Original / Similar: 259C028 (Eaton) 46.35.1108 (CINPAL) 906.030.2905 (MB) 146 DIENTES / AGUJEROS CIGÜEÑAL 8 / AGUJEROS EMBRAGUE 12",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P6225",
+        "name": "RETEN DEFLECTOR ACEITE GUIA DIRECTA SABO",
+        "brand": "SABO",
+        "code": "10420",
+        "image": "img/products/Caja EATON/reten-deflector-aceite-guia-directa-sabo-10420.jpg",
+        "description": "RETEN DEFLECTOR ACEITE GUIA DIRECTA SABO 10420 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FSO-2405-A / FSO-2405-B / FSO-2405-D / FSO-2405-E / FSO-2405-F FORD / VW / CUMMINS / MWM: Pick Ups FORD RANGER (+98) / GM S10 / Silverado / MITSUBISHI L200 / NISSAN FRONTIER IVECO: Cajas EATON FSO-2405-E IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55C16 y Bus 50 C16 Código Original / Similar: 0281N (Corteco) 07781GAEP / 7781 (SABO) 3348789 (Eaton) 503355648 (IVECO) BG1T/7052/A (FORD) DIAM. INT. 40MM. / DIAM. EXT. 66MM. / ANCHO 7MM. / MATERIAL ACM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6226",
+        "name": "RETEN GUIA DIRECTA / ALTA TEMPERATURA SABO",
+        "brand": "SABO",
+        "code": "10411",
+        "image": "img/products/Caja EATON/reten-guia-directa-alta-temperatura-sabo-10411.jpg",
+        "description": "RETEN GUIA DIRECTA / ALTA TEMPERATURA SABO 10411 SABO Vehículos compatibles: FORD / VW / CUMMINS / MWM: Cajas EATON FS-4005-A / FS-4205-A / FS-5005-A / FS-5205-A / FS-5306-A / FS-6205-A / FS-6206-A / FS-6306-A FORD / VW / CUMMINS / MWM: Ford Cargo 1517 / 1716 / 1722 / 1722e FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17150 E y Bus 17210 OD / 17240 OT / 18310 OT / 17230 EOD / 17260 EOT / 18320 EOT VOLVO: Cajas EATON FS-5306-A / FS-6306-A VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 Código Original / Similar: 02558BAF / 2558 (SABO) 19110 (Eaton) 20.520.173 (VOLVO) 2RP/311189 (VW) BF7X/7048/B (FORD) DIAM. INT. 47.6MM. / DIAM. EXT. 57.2MM. / ANCHO 5MM. / MATERIAL FPM",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P6227",
+        "name": "RETEN TORRE PALANCA DE CAMBIOS SABO",
+        "brand": "SABO",
+        "code": "10389",
+        "image": "img/products/Caja EATON/reten-torre-palanca-de-cambios-sabo-10389.jpg",
+        "description": "RETEN TORRE PALANCA DE CAMBIOS SABO 10389 SABO Vehículos compatibles: AGRALE: Cajas EATON FSO-4405-C / FSO-4505-C AGRALE: Camiones 6000 / 6500 / 7500 / 8500 / 8700 / 9200 y Bus MA 7.9 / MA 8.5 / MA 8.7 / MA 9.0 / MA 9.2 / MA 9.6 / MA 10.0 FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C / FSO-4505-C / FSO-4505-D / FS-6306-B FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e / 916 / 1119 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / Delivery 5140 E / 8150 E / Constellation 13180 E / 15180 E / 17250 E / 24250 E IVECO: Cajas EATON FSO-2405-E / FSO-4405-B / FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B / FS-6406-B IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C16 / 70 C16 HD / DAILY SCUDATTO 70 C16 / 70 C16 HD y Bus 50 C16 MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4505-A / FSO-4505-A HD MERCEDES BENZ: Camiones ACCELO 915 C / 815 / 1016 Código Original / Similar: 016.997.5145 (MB) 07888GR / 7888 (SABO) 2P0/301225 (VW) 3344678 (Eaton) 503355604 / 553355191 (IVECO) 6013004039001 (AGRALE) BG6X/7288/AA (FORD) DIAM. INT. 19MM. / DIAM. EXT. 25.35MM. / ANCHO 4.3MM. / MATERIAL ACM",
+        "rubro": "CAJA"
     }
 ];
 
