@@ -678,6 +678,28 @@ body {
     font-size: 0.88rem;
 }
 
+.testimonial-google-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    min-height: 44px;
+    padding: 0.7rem 1rem;
+    border: 1px solid rgba(33, 198, 168, 0.35);
+    border-radius: 8px;
+    color: #ffffff;
+    background: rgba(33, 198, 168, 0.14);
+    text-decoration: none;
+    font-weight: 800;
+    transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+}
+
+.testimonial-google-link:hover {
+    transform: translateY(-2px);
+    background: rgba(33, 198, 168, 0.22);
+    border-color: rgba(33, 198, 168, 0.7);
+}
+
 .testimonials-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
