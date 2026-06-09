@@ -8,6 +8,7 @@
     const clearFiltersBtn = document.getElementById('clearFiltersBtn');
     const activeFilters = document.getElementById('activeFilters');
     const loadMoreBtn = document.getElementById('loadMoreBtn');
+    const searchSuggestions = document.getElementById('searchSuggestions');
     const voiceSearchBtn = document.getElementById('voiceSearchBtn'); // Ensure this is selected if used
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
     const INITIAL_RENDER_LIMIT = 48;
@@ -16,14 +17,18 @@
     const SEARCH_DEBOUNCE_MS = 180;
     const INDEX_CHUNK_SIZE = 40;
     const INDEX_CHUNK_BUDGET_MS = 5;
+    const SUGGESTION_LIMIT = 8;
     const FALLBACK_IMAGE = 'img/products/imagen-proximamente.png';
-    const FILTER_BRANDS = ["Mercedes Benz", "Ford", "Iveco", "Scania", "Volkswagen", "Sprinter"];
+    let brandFilterOptions = [];
     let searchTimer = null;
     let currentProducts = [];
     let currentRenderLimit = INITIAL_RENDER_LIMIT;
     let indexedProducts = [];
     let indexReady = false;
     let pendingFilterRequest = false;
+    let searchHasFocus = false;
+    let activeSuggestionIndex = -1;
+    let currentSuggestionProducts = [];
     let productsStatus = document.getElementById('productsStatus');
 
     if (!productsStatus && productGrid) {
@@ -42,16 +47,17 @@
 
     // Simplified consolidated category mapping. Keywords are normalized before matching.
     const categoryMapping = {
-        "MOTOR": ["MOTOR", "BLOCK", "CIGUEÑAL", "CIGUENAL", "DISTRIBUCION", "JUNTA", "JGO JUNTA", "JTA", "RETEN", "TAPA CILINDRO", "VALVULA MOTOR", "SOPORTE MOTOR", "PISTON", "BIELA", "CAMISA", "CARTER", "MULTIPLE", "ESCAPE"],
+        "MOTOR": ["MOTOR", "BLOCK", "CIGUEÑAL", "CIGUENAL", "DISTRIBUCION", "TAPA CILINDRO", "VALVULA MOTOR", "SOPORTE MOTOR", "PISTON", "BIELA", "CAMISA", "CARTER", "MULTIPLE", "ESCAPE"],
+        "JUNTAS Y RETENES": ["JUNTA", "JUNTAS", "JGO JUNTA", "JTA", "RETEN", "RETENES", "ORING", "ORINGS", "EMPAQUETADURA"],
         "INYECCION Y TURBO": ["INYECCION", "INYECTOR", "TOBERA", "BOMBA INYECTORA", "TURBO", "TURBINA", "COMBUSTIBLE", "GAS OIL", "GASOIL", "DIESEL", "ACELERADOR", "ACELERACION"],
         "REFRIGERACION": ["REFRIGERACION", "RADIADOR", "BOMBA AGUA", "CALEFACCION", "VENTILADOR", "TERMOSTATO", "VISCOSO", "MANGUERA AGUA", "DEPOSITO AGUA", "REFRIGERANTE"],
         "TRANSMISION Y EMBRAGUE": ["EMBRAGUE", "CAJA", "VELOCIDAD", "EJE", "CARDAN", "DIFERENCIAL", "TRANSMISION", "RUEDA", "CRAPODINA", "HORQUILLA", "SINCRONIZADO", "DIRECTA", "PALIER"],
-        "FRENOS Y AIRE": ["FRENO", "COMPRESOR", "VALVULA", "CAMARA", "AIRE", "PEDALERA", "TRISTOP", "SECADOR", "PULMON", "REGISTRO"],
-        "SUSPENSION Y DIRECCION": ["DIRECCION", "SUSPENSION", "ELASTICO", "AMORTIGUADOR", "TREN DELANTERO", "BARRA", "BUJE", "ROTULA", "EXTREMO"],
-        "ELECTRICIDAD": ["ELECTRICIDAD", "ALTERNADOR", "ARRANQUE", "INSTRUMENTAL", "FAROS", "LUCES", "BATERIA", "INSTALACION", "ELECTRICA"],
+        "FRENOS Y AIRE": ["FRENO", "COMPRESOR", "VALVULA", "VALVULAS", "CAMARA", "AIRE", "PEDALERA", "TRISTOP", "SECADOR", "PULMON", "REGISTRO"],
+        "SUSPENSION Y DIRECCION": ["DIRECCION", "SUSPENSION", "ELASTICO", "AMORTIGUADOR", "AMORTIGUADORES", "TREN DELANTERO", "BARRA", "BUJE", "ROTULA", "EXTREMO"],
+        "ELECTRICIDAD": ["ELECTRICIDAD", "ALTERNADOR", "ARRANQUE", "INSTRUMENTAL", "FAROS", "LUCES", "BATERIA", "INSTALACION", "ELECTRICA", "SENSOR", "SENSORES", "INTERRUPTOR"],
         "FILTROS Y LUBRICACION": ["FILTRO", "LUBRICACION", "ACEITE", "GRASA"],
-        "ACOPLES Y CONEXIONES": ["ACOPLE", "RACORD", "CONECTOR", "CONEXION", "TEE", "MANGUERA", "TUBO"],
-        "CARROCERIA Y OTROS": ["CABINA", "PUERTA", "VIDRIO", "ESPEJO", "PARAGOLPE", "GUARDABARRO", "HERRAMIENTAS", "REVESTIMIENTO", "BEPO", "DESPIECE", "TANQUE"]
+        "ACOPLES Y CONEXIONES": ["ACOPLE", "RACORD", "CONECTOR", "CONEXION", "TEE", "MANGUERA", "TUBO", "FLEXIBLE", "FLEXIBLES", "CAÑO", "CANO"],
+        "CARROCERIA Y OTROS": ["CABINA", "PUERTA", "VIDRIO", "ESPEJO", "PARAGOLPE", "GUARDABARRO", "HERRAMIENTAS", "REVESTIMIENTO", "BEPO", "DESPIECE", "TANQUE", "DEPOSITO", "DEPOSITOS"]
     };
 
     const normalizedCategoryMapping = Object.fromEntries(
@@ -270,8 +276,7 @@
                 const keywords = normalizedCategoryMapping[category] || [];
                 return keywords.some(keyword => indexedProduct.categoryText.includes(keyword));
             });
-        indexedProduct.brandLabels = FILTER_BRANDS
-            .filter(brand => brandMatches(indexedProduct, brand));
+        indexedProduct.brandLabels = [String(product.brand || '').trim()].filter(Boolean);
 
         return indexedProduct;
     }
@@ -409,17 +414,8 @@
         if (!brand) return true;
         const filterBrand = normalizeText(brand);
         const productBrand = indexedProduct.brandText;
-        const vehicleText = indexedProduct.searchText;
 
-        if (filterBrand === "mercedes benz") {
-            return productBrand.includes("mercedes") || vehicleText.includes("mercedes") || vehicleText.includes("benz") || vehicleText.includes("mb ");
-        }
-
-        if (filterBrand === "volkswagen") {
-            return productBrand.includes("volkswagen") || productBrand.includes("vw") || vehicleText.includes("volkswagen") || vehicleText.includes("vw");
-        }
-
-        return productBrand === filterBrand || productBrand.includes(filterBrand) || vehicleText.includes(filterBrand);
+        return productBrand === filterBrand || productBrand.includes(filterBrand);
     }
 
     function includesWholeToken(text, term) {
@@ -557,8 +553,14 @@
     function appendFilterOption(select, value, label, count) {
         const option = document.createElement('option');
         option.value = value;
+        option.dataset.label = label;
         option.textContent = optionLabel(label, count);
         select.appendChild(option);
+    }
+
+    function clearSelectOptions(select, defaultLabel) {
+        select.textContent = '';
+        appendFilterOption(select, '', defaultLabel);
     }
 
     function setFiltersDisabled(disabled) {
@@ -620,7 +622,7 @@
         const engineCounts = new Map(engines.map(engine => [engine, 0]));
         const truckCounts = new Map(truckModelGroups.map(group => [group.label, 0]));
         const categoryCounts = new Map(Object.keys(categoryMapping).map(category => [category, 0]));
-        const brandCounts = new Map(FILTER_BRANDS.map(brand => [brand, 0]));
+        const brandCounts = new Map();
 
         indexedProducts.forEach(indexedProduct => {
             indexedProduct.engineLabels.forEach(label => engineCounts.set(label, (engineCounts.get(label) || 0) + 1));
@@ -629,31 +631,96 @@
             indexedProduct.brandLabels.forEach(label => brandCounts.set(label, (brandCounts.get(label) || 0) + 1));
         });
 
-        // Populate Engines
+        brandFilterOptions = [...brandCounts.entries()]
+            .filter(([, count]) => count > 0)
+            .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'es'))
+            .map(([brand]) => brand);
+
+        clearSelectOptions(filterEngine, 'Todos los Motores');
+        clearSelectOptions(filterTruck, 'Todos los Camiones');
+        clearSelectOptions(filterCategory, 'Todos los Rubros');
+        clearSelectOptions(filterBrand, 'Todas las Marcas');
+
         engines.forEach(engine => {
             const count = engineCounts.get(engine) || 0;
             appendFilterOption(filterEngine, engine, engine, count);
         });
 
-        // Populate truck/model filter.
         truckModelGroups.forEach(group => {
             const count = truckCounts.get(group.label) || 0;
             if (count === 0) return;
             appendFilterOption(filterTruck, group.label, group.label, count);
         });
 
-        // Populate Categories (Simplified List)
         Object.keys(categoryMapping).forEach(category => {
             const count = categoryCounts.get(category) || 0;
             appendFilterOption(filterCategory, category, category, count);
         });
 
-        // Only truck brands, not parts suppliers.
-        FILTER_BRANDS.forEach(brand => {
+        brandFilterOptions.forEach(brand => {
             const count = brandCounts.get(brand) || 0;
-            if (count === 0) return;
             appendFilterOption(filterBrand, brand, brand, count);
         });
+    }
+
+    function updateSelectOptionCounts(select, counts, keepSelectedEnabled = true) {
+        [...select.options].forEach(option => {
+            if (!option.value) return;
+
+            const label = option.dataset.label || option.value;
+            const count = counts.get(option.value) || 0;
+            option.textContent = optionLabel(label, count);
+            option.disabled = count === 0 && !(keepSelectedEnabled && option.selected);
+        });
+    }
+
+    function searchMatchesProduct(indexedProduct, searchIndex) {
+        if (!searchIndex.text) return true;
+        return matchesSearchQuery(indexedProduct, searchIndex);
+    }
+
+    function matchesFilterSet(indexedProduct, filters, skipFilter = '') {
+        if (!searchMatchesProduct(indexedProduct, filters.searchIndex)) return false;
+
+        if (skipFilter !== 'engine' && !matchesSearchQuery(indexedProduct, filters.engineIndex)) return false;
+        if (skipFilter !== 'truck' && !truckMatches(indexedProduct, filters.selectedTruck)) return false;
+        if (skipFilter !== 'category' && !categoryMatches(indexedProduct, filters.selectedCategory)) return false;
+        if (skipFilter !== 'brand' && !brandMatches(indexedProduct, filters.selectedBrand)) return false;
+        if (!implicitVehicleMatches(indexedProduct, filters.searchContext)) return false;
+
+        return true;
+    }
+
+    function updateFilterAvailability(filters) {
+        if (!indexReady) return;
+
+        const engineCounts = new Map(engines.map(engine => [engine, 0]));
+        const truckCounts = new Map(truckModelGroups.map(group => [group.label, 0]));
+        const categoryCounts = new Map(Object.keys(categoryMapping).map(category => [category, 0]));
+        const brandCounts = new Map(brandFilterOptions.map(brand => [brand, 0]));
+
+        indexedProducts.forEach(indexedProduct => {
+            if (matchesFilterSet(indexedProduct, filters, 'engine')) {
+                indexedProduct.engineLabels.forEach(label => engineCounts.set(label, (engineCounts.get(label) || 0) + 1));
+            }
+
+            if (matchesFilterSet(indexedProduct, filters, 'truck')) {
+                indexedProduct.truckLabels.forEach(label => truckCounts.set(label, (truckCounts.get(label) || 0) + 1));
+            }
+
+            if (matchesFilterSet(indexedProduct, filters, 'category')) {
+                indexedProduct.categoryLabels.forEach(label => categoryCounts.set(label, (categoryCounts.get(label) || 0) + 1));
+            }
+
+            if (matchesFilterSet(indexedProduct, filters, 'brand')) {
+                indexedProduct.brandLabels.forEach(label => brandCounts.set(label, (brandCounts.get(label) || 0) + 1));
+            }
+        });
+
+        updateSelectOptionCounts(filterEngine, engineCounts);
+        updateSelectOptionCounts(filterTruck, truckCounts);
+        updateSelectOptionCounts(filterCategory, categoryCounts);
+        updateSelectOptionCounts(filterBrand, brandCounts);
     }
 
     function escapeHtml(value) {
@@ -686,6 +753,103 @@
         loadMoreBtn.textContent = remaining > 0
             ? `Ver ${Math.min(LOAD_MORE_INCREMENT, remaining)} productos más`
             : 'Ver más productos';
+    }
+
+    function shouldShowSuggestions() {
+        return Boolean(searchSuggestions && searchHasFocus && searchInput.value.trim().length >= 2 && currentSuggestionProducts.length > 0);
+    }
+
+    function setSuggestionsOpen(isOpen) {
+        if (!searchSuggestions) return;
+
+        searchSuggestions.classList.toggle('is-open', isOpen);
+        searchInput.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    }
+
+    function highlightSuggestionName(name, queryIndex) {
+        const safeName = escapeHtml(name);
+        const relevantTerms = queryIndex.terms
+            .map(term => term.text)
+            .filter(term => term.length >= 2)
+            .sort((a, b) => b.length - a.length);
+
+        if (relevantTerms.length === 0) return safeName;
+
+        const pattern = relevantTerms
+            .map(term => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+            .join('|');
+
+        return safeName.replace(new RegExp(`(${pattern})`, 'ig'), '<mark>$1</mark>');
+    }
+
+    function suggestionMeta(product) {
+        return [
+            product.brand,
+            product.rubro,
+            product.code ? `Cod. ${product.code}` : ''
+        ].filter(Boolean).join(' - ');
+    }
+
+    function renderSearchSuggestions(productsToSuggest, queryIndex) {
+        if (!searchSuggestions) return;
+
+        currentSuggestionProducts = productsToSuggest.slice(0, SUGGESTION_LIMIT);
+        activeSuggestionIndex = -1;
+
+        if (!shouldShowSuggestions()) {
+            searchSuggestions.textContent = '';
+            setSuggestionsOpen(false);
+            return;
+        }
+
+        const queryText = escapeHtml(searchInput.value.trim());
+        const itemsHtml = currentSuggestionProducts.map((product, index) => {
+            const image = product.image || FALLBACK_IMAGE;
+            const safeName = escapeHtml(product.name);
+            const highlightedName = highlightSuggestionName(product.name, queryIndex);
+            const safeMeta = escapeHtml(suggestionMeta(product));
+
+            return `
+                <button class="suggestion-item" type="button" role="option" data-index="${index}" aria-label="Ver ${safeName}">
+                    <img src="${escapeHtml(image)}" alt="" loading="lazy" decoding="async" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}'">
+                    <span>
+                        <span class="suggestion-name">${highlightedName}</span>
+                        <span class="suggestion-meta">${safeMeta}</span>
+                    </span>
+                </button>
+            `;
+        }).join('');
+
+        searchSuggestions.innerHTML = `
+            <div class="suggestion-list">${itemsHtml}</div>
+            <div class="suggestion-actions">
+                <button type="button" data-action="exact">Buscar "${queryText}" exacto</button>
+                <button type="button" data-action="all">Ver todos los resultados</button>
+            </div>
+        `;
+
+        setSuggestionsOpen(true);
+    }
+
+    function updateSuggestionActiveState() {
+        if (!searchSuggestions) return;
+
+        searchSuggestions.querySelectorAll('.suggestion-item').forEach((item, index) => {
+            item.classList.toggle('is-active', index === activeSuggestionIndex);
+            item.setAttribute('aria-selected', index === activeSuggestionIndex ? 'true' : 'false');
+        });
+    }
+
+    function openSuggestion(index) {
+        const product = currentSuggestionProducts[index];
+        if (!product) return;
+
+        window.location.href = `producto.html?id=${product.id}`;
+    }
+
+    function hideSuggestions() {
+        activeSuggestionIndex = -1;
+        setSuggestionsOpen(false);
     }
 
     function createFilterChip(label, value, onRemove) {
@@ -838,6 +1002,14 @@
             searchContext.truckLabels.length > 0 ||
             searchContext.gearboxQueries.length > 0;
         const shouldLimitInitialView = !searchIndex.text && !engineIndex.text && !selectedTruck && !selectedCategory && !selectedBrand && !hasImplicitVehicle;
+        const activeFilterState = {
+            searchContext,
+            searchIndex,
+            engineIndex,
+            selectedTruck,
+            selectedCategory,
+            selectedBrand
+        };
 
         const baseMatches = indexedProducts.filter(indexedProduct => {
             // Engine Filter with aliases, e.g. OM352 also finds 1114/1517/1518 parts.
@@ -881,6 +1053,8 @@
         currentRenderLimit = shouldLimitInitialView ? INITIAL_RENDER_LIMIT : RESULT_RENDER_LIMIT;
 
         updateActiveFilters();
+        updateFilterAvailability(activeFilterState);
+        renderSearchSuggestions(rankedProducts, searchContext.originalQuery);
         renderProducts(currentProducts, currentRenderLimit);
     }
 
@@ -891,6 +1065,30 @@
 
     // Event Listeners
     searchInput.addEventListener('input', scheduleFilters);
+    searchInput.addEventListener('focus', () => {
+        searchHasFocus = true;
+        if (currentProducts.length > 0) {
+            renderSearchSuggestions(currentProducts, createQueryIndex(searchInput.value));
+        }
+    });
+    searchInput.addEventListener('keydown', (event) => {
+        if (!searchSuggestions || !searchSuggestions.classList.contains('is-open')) return;
+
+        if (event.key === 'ArrowDown') {
+            event.preventDefault();
+            activeSuggestionIndex = Math.min(activeSuggestionIndex + 1, currentSuggestionProducts.length - 1);
+            updateSuggestionActiveState();
+        } else if (event.key === 'ArrowUp') {
+            event.preventDefault();
+            activeSuggestionIndex = Math.max(activeSuggestionIndex - 1, 0);
+            updateSuggestionActiveState();
+        } else if (event.key === 'Enter' && activeSuggestionIndex >= 0) {
+            event.preventDefault();
+            openSuggestion(activeSuggestionIndex);
+        } else if (event.key === 'Escape') {
+            hideSuggestions();
+        }
+    });
     filterEngine.addEventListener('change', applyFilters);
     filterTruck.addEventListener('change', applyFilters);
     filterCategory.addEventListener('change', applyFilters);
@@ -902,7 +1100,36 @@
         filterTruck.value = '';
         filterCategory.value = '';
         filterBrand.value = '';
+        hideSuggestions();
         applyFilters();
+    });
+
+    if (searchSuggestions) {
+        searchSuggestions.addEventListener('mousedown', (event) => {
+            event.preventDefault();
+        });
+
+        searchSuggestions.addEventListener('click', (event) => {
+            const item = event.target.closest('.suggestion-item');
+            if (item) {
+                openSuggestion(Number(item.dataset.index));
+                return;
+            }
+
+            const action = event.target.closest('[data-action]');
+            if (!action) return;
+
+            hideSuggestions();
+            if (action.dataset.action === 'exact') {
+                searchInput.focus();
+            }
+        });
+    }
+
+    document.addEventListener('click', (event) => {
+        if (!searchSuggestions || event.target.closest('.search-input-wrapper')) return;
+        searchHasFocus = false;
+        hideSuggestions();
     });
 
     if (loadMoreBtn) {

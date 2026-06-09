@@ -100,6 +100,109 @@
             box-shadow: 0 0 20px rgba(0, 98, 204, 0.3);
         }
 
+        .search-suggestions {
+            position: absolute;
+            top: calc(100% + 8px);
+            left: 0;
+            right: 0;
+            display: none;
+            background: #ffffff;
+            border: 1px solid rgba(15, 23, 42, 0.12);
+            border-radius: 8px;
+            box-shadow: 0 18px 46px rgba(15, 23, 42, 0.24);
+            overflow: hidden;
+            z-index: 60;
+        }
+
+        .search-suggestions.is-open {
+            display: block;
+        }
+
+        .suggestion-list {
+            max-height: 390px;
+            overflow-y: auto;
+        }
+
+        .suggestion-item {
+            width: 100%;
+            display: grid;
+            grid-template-columns: 48px minmax(0, 1fr);
+            gap: 0.85rem;
+            align-items: center;
+            padding: 0.72rem 0.95rem;
+            border: 0;
+            border-bottom: 1px solid #e5e7eb;
+            background: #ffffff;
+            color: #334155;
+            text-align: left;
+            cursor: pointer;
+        }
+
+        .suggestion-item:hover,
+        .suggestion-item.is-active {
+            background: #f8fafc;
+        }
+
+        .suggestion-item img {
+            width: 44px;
+            height: 44px;
+            object-fit: contain;
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 0.25rem;
+        }
+
+        .suggestion-name {
+            display: block;
+            color: #1f2937;
+            font-size: 0.92rem;
+            font-weight: 800;
+            line-height: 1.25;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .suggestion-name mark {
+            color: #f59e0b;
+            background: transparent;
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+
+        .suggestion-meta {
+            display: block;
+            margin-top: 0.22rem;
+            color: #64748b;
+            font-size: 0.78rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .suggestion-actions {
+            display: flex;
+            justify-content: space-between;
+            gap: 0.75rem;
+            padding: 0.7rem 0.95rem;
+            background: #f8fafc;
+            color: #64748b;
+            font-size: 0.82rem;
+        }
+
+        .suggestion-actions button {
+            padding: 0;
+            border: 0;
+            background: transparent;
+            color: #475569;
+            text-decoration: underline;
+            cursor: pointer;
+            font: inherit;
+        }
+
         /* Filter Section Styles */
         .filter-container {
             display: flex;
@@ -617,6 +720,15 @@
             .product-item-name {
                 font-size: 0.92rem;
             }
+
+            .suggestion-list {
+                max-height: 330px;
+            }
+
+            .suggestion-actions {
+                flex-direction: column;
+                gap: 0.4rem;
+            }
         }
 
         .catalog-hero {
@@ -940,7 +1052,9 @@
                 <div class="search-container">
                     <div class="search-input-wrapper">
                         <input type="text" id="searchInput" class="search-input"
-                            placeholder="Buscar por código, motor, modelo o repuesto...">
+                            placeholder="Buscar por código, motor, modelo o repuesto..."
+                            autocomplete="off" role="combobox" aria-autocomplete="list"
+                            aria-expanded="false" aria-controls="searchSuggestions">
                         <button id="voiceSearchBtn" class="voice-search-btn" aria-label="Buscar por voz">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                 fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -951,6 +1065,7 @@
                                 <line x1="8" y1="23" x2="16" y2="23"></line>
                             </svg>
                         </button>
+                        <div id="searchSuggestions" class="search-suggestions" role="listbox"></div>
                     </div>
 
                     <div class="filter-container">
@@ -1101,7 +1216,7 @@
 
     <script src="main.js"></script>
     <script src="products.js?v=10"></script>
-    <script src="catalog.js?v=13"></script>
+    <script src="catalog.js?v=16"></script>
     <a href="https://wa.me/5492645859764" class="whatsapp-float" target="_blank" rel="noopener noreferrer">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="30" height="30" fill="white">
             <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
