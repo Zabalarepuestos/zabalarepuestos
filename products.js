@@ -54274,6 +54274,3156 @@ const products = [
         "image": "img/products/Caja EATON/reten-torre-palanca-de-cambios-sabo-10389.jpg",
         "description": "RETEN TORRE PALANCA DE CAMBIOS SABO 10389 SABO Vehículos compatibles: AGRALE: Cajas EATON FSO-4405-C / FSO-4505-C AGRALE: Camiones 6000 / 6500 / 7500 / 8500 / 8700 / 9200 y Bus MA 7.9 / MA 8.5 / MA 8.7 / MA 9.0 / MA 9.2 / MA 9.6 / MA 10.0 FORD / VW / CUMMINS / MWM: Cajas EATON FSO-4405-C / FSO-4505-C / FSO-4505-D / FS-6306-B FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 915 / 915e / 916 / 1119 FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / Delivery 5140 E / 8150 E / Constellation 13180 E / 15180 E / 17250 E / 24250 E IVECO: Cajas EATON FSO-2405-E / FSO-4405-B / FS-5306-A / FS-5406-A / FS-6306-A / FS-6306-B / FS-6406-B IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 IVECO: Utilitarios DAILY 35 C14 / 35 S14 / 35 S14 HD / 40 S16 / 45 S14 / 45 S16 / 55 C16 / 70 C16 / 70 C16 HD / DAILY SCUDATTO 70 C16 / 70 C16 HD y Bus 50 C16 MERCEDES BENZ: Cajas EATON FSO-4405-A / FSO-4505-A / FSO-4505-A HD MERCEDES BENZ: Camiones ACCELO 915 C / 815 / 1016 Código Original / Similar: 016.997.5145 (MB) 07888GR / 7888 (SABO) 2P0/301225 (VW) 3344678 (Eaton) 503355604 / 553355191 (IVECO) 6013004039001 (AGRALE) BG6X/7288/AA (FORD) DIAM. INT. 19MM. / DIAM. EXT. 25.35MM. / ANCHO 4.3MM. / MATERIAL ACM",
         "rubro": "CAJA"
+    },
+    {
+        "id": "P6228",
+        "name": "BULON CARTER 8X1,25X25",
+        "brand": "Ford/VW",
+        "code": "010-035",
+        "image": "img/products/Bulones/bulon-carter-8x1-25x25-010-035.jpg",
+        "description": "Bulon carter 8x1,25x25 Codigo Merkansas: 010-035 Codigo Original / Similar: 3907860 Marca: Ford/VW Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6229",
+        "name": "BULON TAPA DISTRIBUCION 8X1,25X16",
+        "brand": "Ford/VW",
+        "code": "010-036",
+        "image": "img/products/Bulones/bulon-tapa-distribucion-8x1-25x16-010-036.jpg",
+        "description": "Bulon tapa distribucion 8x1,25x16 Codigo Merkansas: 010-036 Codigo Original / Similar: 3900629 Marca: Ford/VW Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6230",
+        "name": "KIT BULONES TAPA CILINDRO CUMMINS 6C-6CT-6CTA",
+        "brand": "Ford/VW",
+        "code": "011-001",
+        "image": "img/products/Bulones/kit-bulones-tapa-cilindro-cummins-6c-6ct-6cta-011-001.jpg",
+        "description": "kit bulones tapa cilindro Cummins 6C-6CT-6CTA Codigo Merkansas: 011-001 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6231",
+        "name": "KIT BULONES TAPA CILINDRO CUMMINS 6BT (26 UNIDADES)",
+        "brand": "Ford/VW",
+        "code": "011-002",
+        "image": "img/products/Bulones/kit-bulones-tapa-cilindro-cummins-6bt-26-unidades-011-002.jpg",
+        "description": "Kit bulones tapa cilindro cummins 6bt (26 unidades) Codigo Merkansas: 011-002 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6233",
+        "name": "RETEN BULON T/VALV.CUMMINS SERIE B 392406",
+        "brand": "Ford/VW",
+        "code": "011-008",
+        "image": "img/products/Bulones/reten-bulon-t-valv-cummins-serie-b-392406-011-008.jpg",
+        "description": "Reten bulon t/valv.cummins serie b 392406 Codigo Merkansas: 011-008 Codigo Original / Similar: 3928406 3935449 3358055 2s0103487 bg3t6k582aa Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6234",
+        "name": "ORING BULON T/VALV.CUMMINS 3282133",
+        "brand": "Ford/VW",
+        "code": "011-009",
+        "image": "img/products/Bulones/oring-bulon-t-valv-cummins-3282133-011-009.jpg",
+        "description": "ORING BULON T/VALV.CUMMINS 3282133 Codigo Merkansas: 011-009 Codigo Original / Similar: 2SP103593 TF3103593 3282133 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6235",
+        "name": "KIT BULONES TAPA CILINDRO CUMMINS 4BT (18 UNIDADES)",
+        "brand": "Ford/VW",
+        "code": "011-013",
+        "image": "img/products/Bulones/kit-bulones-tapa-cilindro-cummins-4bt-18-unidades-011-013.jpg",
+        "description": "Kit bulones tapa cilindro cummins 4bt (18 unidades) Codigo Merkansas: 011-013 Codigo Original / Similar: 3920779 3920780 3920781 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6238",
+        "name": "KIT BULONES TAPA CILINDRO MAN D0834-0836 COSTELLATION (JGO.26 UNIDADES)",
+        "brand": "Ford/VW",
+        "code": "011-016",
+        "image": "img/products/Bulones/kit-bulones-tapa-cilindro-man-d0834-0836-costellation-jgo-26-unidades-011-016.jpg",
+        "description": "Kit bulones tapa cilindro man D0834-0836 costellation (jgo.26 unidades) Codigo Merkansas: 011-016 Codigo Original / Similar: 07W103448F Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6239",
+        "name": "KIT BULONES TAPA CILINDRO MAN D0834-0836 COSTELLATION (JGO.8 UNIDADES)",
+        "brand": "Mercedes Benz",
+        "code": "011-016/1",
+        "image": "img/products/Bulones/kit-bulones-tapa-cilindro-man-d0834-0836-costellation-jgo-8-unidades-011-016-1.jpg",
+        "description": "Kit bulones tapa cilindro man D0834-0836 costellation (jgo.8 unidades) Codigo Merkansas: 011-016/1 Codigo Original / Similar: 07W103448F Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6240",
+        "name": "BULON TAPA CILINDRO MWM 4.10/6.10 X UNIDAD",
+        "brand": "Ford/VW",
+        "code": "011-017",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-mwm-4-10-6-10-x-unidad-011-017.jpg",
+        "description": "Bulon tapa cilindro mwm 4.10/6.10 x unidad Codigo Merkansas: 011-017 Codigo Original / Similar: 2RD103385B Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6241",
+        "name": "BULON TAPA VALVULAS 8X1.25X34 CUMMINS 4BT/6BT FORD/VW",
+        "brand": "Ford/VW",
+        "code": "011-018",
+        "image": "img/products/Bulones/bulon-tapa-valvulas-8x1-25x34-cummins-4bt-6bt-ford-vw-011-018.jpg",
+        "description": "Bulon tapa valvulas 8x1.25x34 cummins 4bt/6bt ford/vw Codigo Merkansas: 011-018 Codigo Original / Similar: 3907049 3960357 BF8T1056A TRA103591 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6242",
+        "name": "BULON SOPORTE MOTOR 14X45 1114",
+        "brand": "Mercedes Benz",
+        "code": "00020",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x45-1114-00020.jpg",
+        "description": "BULON SOPORTE MOTOR 14X45 1114 Codigo Merkansas: 00020 Codigo Original / Similar: 000960014016 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6243",
+        "name": "BULON SOPORTE MOTOR 14X55 1114",
+        "brand": "Mercedes Benz",
+        "code": "00021",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x55-1114-00021.jpg",
+        "description": "BULON SOPORTE MOTOR 14X55 1114 Codigo Merkansas: 00021 Codigo Original / Similar: 000960014092 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6244",
+        "name": "BULON SOPORTE MOTOR 14X65 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00022",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x65-todos-00022.jpg",
+        "description": "BULON SOPORTE MOTOR 14X65 TODOS Codigo Merkansas: 00022 Codigo Original / Similar: 900170014005 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6245",
+        "name": "BULON SOPORTE MOTOR 14X75 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00023",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x75-todos-00023.jpg",
+        "description": "BULON SOPORTE MOTOR 14X75 TODOS Codigo Merkansas: 00023 Codigo Original / Similar: 000960014138 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6246",
+        "name": "BULON SOPORTE MOTOR 14X95 1114",
+        "brand": "Mercedes Benz",
+        "code": "00024",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x95-1114-00024.jpg",
+        "description": "BULON SOPORTE MOTOR 14X95 1114 Codigo Merkansas: 00024 Codigo Original / Similar: 900170014009 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6247",
+        "name": "BULON SOPORTE MOTOR 14X110 1114",
+        "brand": "Mercedes Benz",
+        "code": "00025",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x110-1114-00025.jpg",
+        "description": "BULON SOPORTE MOTOR 14X110 1114 Codigo Merkansas: 00025 Codigo Original / Similar: 000960014100 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6248",
+        "name": "BULON SOPORTE MOTOR 12X30 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00027",
+        "image": "img/products/Bulones/bulon-soporte-motor-12x30-todos-00027.jpg",
+        "description": "BULON SOPORTE MOTOR 12X30 TODOS Codigo Merkansas: 00027 Codigo Original / Similar: 000960012006 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6249",
+        "name": "BULON SOPORTE MOTOR 16X75 1215",
+        "brand": "Mercedes Benz",
+        "code": "00028",
+        "image": "img/products/Bulones/bulon-soporte-motor-16x75-1215-00028.jpg",
+        "description": "BULON SOPORTE MOTOR 16x75 1215 Codigo Merkansas: 00028 Codigo Original / Similar: 000960016054 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6250",
+        "name": "BULON SOPORTE MOTOR 12X40 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00029",
+        "image": "img/products/Bulones/bulon-soporte-motor-12x40-todos-00029.jpg",
+        "description": "BULON SOPORTE MOTOR 12X40 TODOS Codigo Merkansas: 00029 Codigo Original / Similar: 000960012029 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6251",
+        "name": "BULON SOPORTE MOTOR 14X35 1517",
+        "brand": "Mercedes Benz",
+        "code": "00030",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x35-1517-00030.jpg",
+        "description": "BULON SOPORTE MOTOR 14X35 1517 Codigo Merkansas: 00030 Codigo Original / Similar: 000961014019 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6252",
+        "name": "BULON POLEA 4BT/BT",
+        "brand": "Ford/VW",
+        "code": "030-023",
+        "image": "img/products/Bulones/bulon-polea-4bt-bt-030-023.jpg",
+        "description": "Bulon polea 4bt/bt Codigo Merkansas: 030-023 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6253",
+        "name": "BULON TAPA CILINDRO 6BT (14)",
+        "brand": "Ford/VW",
+        "code": "030-025",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-6bt-14-030-025.jpg",
+        "description": "Bulon tapa cilindro 6bt (14) Codigo Merkansas: 030-025 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6254",
+        "name": "BULON TAPA CILINDRO 6BT (6)",
+        "brand": "Ford/VW",
+        "code": "030-026",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-6bt-6-030-026.jpg",
+        "description": "Bulon tapa cilindro 6bt (6) Codigo Merkansas: 030-026 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6255",
+        "name": "BULON BIELA MOTOR MWM 12X25X1.25",
+        "brand": "Ford/VW",
+        "code": "030-030",
+        "image": "img/products/Bulones/bulon-biela-motor-mwm-12x25x1-25-030-030.jpg",
+        "description": "Bulon biela motor mwm 12x25x1.25 Codigo Merkansas: 030-030 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6256",
+        "name": "BULON VOLANTE DE MOTOR FORD/VW 3901395",
+        "brand": "Ford/VW",
+        "code": "030-034",
+        "image": "img/products/Bulones/bulon-volante-de-motor-ford-vw-3901395-030-034.jpg",
+        "description": "Bulon volante de motor ford/vw 3901395 Codigo Merkansas: 030-034 Codigo Original / Similar: BH1X6379AA BF8T6379B TE3105385 3901395 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6258",
+        "name": "BULON SOPORTE MOTOR/SALIDA DE CAJA 16X60 1517/G-85",
+        "brand": "Mercedes Benz",
+        "code": "00031",
+        "image": "img/products/Bulones/bulon-soporte-motor-salida-de-caja-16x60-1517-g-85-00031.jpg",
+        "description": "BULON SOPORTE MOTOR/SALIDA DE CAJA 16X60 1517/G-85 Codigo Merkansas: 00031 Codigo Original / Similar: 000960016030 000000005536 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6259",
+        "name": "BULON SOPORTE MOTOR 14X85 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00032",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x85-todos-00032.jpg",
+        "description": "BULON SOPORTE MOTOR 14X85 TODOS Codigo Merkansas: 00032 Codigo Original / Similar: 000960014094 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6260",
+        "name": "BULON SOPORTE MOTOR 18X95 1633",
+        "brand": "Mercedes Benz",
+        "code": "00033",
+        "image": "img/products/Bulones/bulon-soporte-motor-18x95-1633-00033.jpg",
+        "description": "BULON SOPORTE MOTOR 18X95 1633 Codigo Merkansas: 00033 Codigo Original / Similar: 000960018093 6969908201 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6261",
+        "name": "BULON CABALLETE F/MANO 16X75 1517",
+        "brand": "Mercedes Benz",
+        "code": "00034",
+        "image": "img/products/Bulones/bulon-caballete-f-mano-16x75-1517-00034.jpg",
+        "description": "BULON CABALLETE F/MANO 16X75 1517 Codigo Merkansas: 00034 Codigo Original / Similar: 000960016255 Marca: Mercedes Benz Rubro: 420-FRENO HIDRAULICO Subrubro: FRENO MANO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "420-FRENO HIDRAULICO"
+    },
+    {
+        "id": "P6263",
+        "name": "BULON SOPORTE MOTOR 18X60 OM904",
+        "brand": "Mercedes Benz",
+        "code": "00036",
+        "image": "img/products/Bulones/bulon-soporte-motor-18x60-om904-00036.jpg",
+        "description": "BULON SOPORTE MOTOR 18X60 OM904 Codigo Merkansas: 00036 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6264",
+        "name": "BULON 8X40 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00111",
+        "image": "img/products/Bulones/bulon-8x40-todos-00111.jpg",
+        "description": "BULON 8X40 TODOS Codigo Merkansas: 00111 Codigo Original / Similar: 000931008266 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6265",
+        "name": "BULON TAPA REFRIG.(12) 8X22 LEG. TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00113",
+        "image": "img/products/Bulones/bulon-tapa-refrig-12-8x22-leg-todos-00113.jpg",
+        "description": "BULON TAPA REFRIG.(12) 8x22 LEG. TODOS Codigo Merkansas: 00113 Codigo Original / Similar: 000933008050 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6266",
+        "name": "BULON 6X15 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00114",
+        "image": "img/products/Bulones/bulon-6x15-todos-00114.jpg",
+        "description": "BULON 6X15 TODOS Codigo Merkansas: 00114 Codigo Original / Similar: 000933006102 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6267",
+        "name": "BULON 6X20 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00115",
+        "image": "img/products/Bulones/bulon-6x20-todos-00115.jpg",
+        "description": "BULON 6X20 TODOS Codigo Merkansas: 00115 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6268",
+        "name": "BULON 10 X 1.5 X 65 MULTIPLE ESCAPE FORD/VW CUMMINS SERIE ISBE 4/6 CIL (X5/X8)",
+        "brand": "Ford/VW",
+        "code": "140-012",
+        "image": "img/products/Bulones/bulon-10-x-1-5-x-65-multiple-escape-ford-vw-cummins-serie-isbe-4-6-cil-x5-x8-140-012.jpg",
+        "description": "Bulon 10 x 1.5 x 65 multiple escape ford/vw cummins serie isbe 4/6 cil (x5/x8) Codigo Merkansas: 140-012 Codigo Original / Similar: 3944593 3901448 bg5x1055ha 2rd199120aj Marca: Ford/VW Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6269",
+        "name": "BULON TAPA CILINDRO 12X130X1.75 (8 X TAPA) OM355/6",
+        "brand": "Mercedes Benz",
+        "code": "00159",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-12x130x1-75-8-x-tapa-om355-6-00159.jpg",
+        "description": "BULON TAPA CILINDRO 12X130X1.75 (8 x tapa) OM355/6 Codigo Merkansas: 00159 Codigo Original / Similar: 3459908901 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6270",
+        "name": "BULON TAPA CILINDRO 16X150X2 (X10/X14) OM904/906/924/926",
+        "brand": "Mercedes Benz",
+        "code": "00160",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-16x150x2-x10-x14-om904-906-924-926-00160.jpg",
+        "description": "BULON TAPA CILINDRO 16X150X2 (x10/x14) OM904/906/924/926 Codigo Merkansas: 00160 Codigo Original / Similar: 9060160769 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6271",
+        "name": "BULON CAMISA COMPRESOR 8X105",
+        "brand": "Mercedes Benz",
+        "code": "00179",
+        "image": "img/products/Bulones/bulon-camisa-compresor-8x105-00179.jpg",
+        "description": "BULON CAMISA COMPRESOR 8X105 Codigo Merkansas: 00179 Codigo Original / Similar: 000931008926 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMPRESOR 94mm Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6272",
+        "name": "BULON TAPA VALVULAS 8X60 (ALLEN) (X10) OM355",
+        "brand": "Mercedes Benz",
+        "code": "00180",
+        "image": "img/products/Bulones/bulon-tapa-valvulas-8x60-allen-x10-om355-00180.jpg",
+        "description": "BULON TAPA VALVULAS 8X60 (ALLEN) (x10) OM355 Codigo Merkansas: 00180 Codigo Original / Similar: 3469900619 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6273",
+        "name": "BULON 8X45 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00181",
+        "image": "img/products/Bulones/bulon-8x45-todos-00181.jpg",
+        "description": "BULON 8X45 TODOS Codigo Merkansas: 00181 Codigo Original / Similar: 000931008244 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6274",
+        "name": "BULON TAPA VALVULAS OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "00182",
+        "image": "img/products/Bulones/bulon-tapa-valvulas-om904-906-00182.jpg",
+        "description": "BULON TAPA VALVULAS OM904/906 Codigo Merkansas: 00182 Codigo Original / Similar: 9060160469 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6275",
+        "name": "BULON TRABA ENGANCHE CAMBIO (EATON) FORD/VW (ENVIAR 02648)",
+        "brand": "Ford/VW",
+        "code": "260-045",
+        "image": "img/products/Bulones/bulon-traba-enganche-cambio-eaton-ford-vw-enviar-02648-260-045.jpg",
+        "description": "Bulon traba enganche cambio (eaton) ford/vw (enviar 02648) Codigo Merkansas: 260-045 Codigo Original / Similar: E6HZ7L001A T11301291 Marca: Ford/VW Rubro: 260-CAJA CAMBIO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6276",
+        "name": "BULON PUNTA CIGÜEÑAL CORTO 24X40 OM314",
+        "brand": "Mercedes Benz",
+        "code": "00318",
+        "image": "img/products/Bulones/bulon-punta-ciguenal-corto-24x40-om314-00318.jpg",
+        "description": "BULON PUNTA CIGÜEÑAL CORTO 24x40 OM314 Codigo Merkansas: 00318 Codigo Original / Similar: 3219901801 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6277",
+        "name": "BULON PUNTA CIGÜEÑAL LARGO 24X90 L1218/1620",
+        "brand": "Mercedes Benz",
+        "code": "00320",
+        "image": "img/products/Bulones/bulon-punta-ciguenal-largo-24x90-l1218-1620-00320.jpg",
+        "description": "BULON PUNTA CIGÜEÑAL LARGO 24x90 L1218/1620 Codigo Merkansas: 00320 Codigo Original / Similar: 3669901401 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6278",
+        "name": "BULON VOLANTE MOTOR 14X1.5X30 OM355",
+        "brand": "Mercedes Benz",
+        "code": "00322",
+        "image": "img/products/Bulones/bulon-volante-motor-14x1-5x30-om355-00322.jpg",
+        "description": "BULON VOLANTE MOTOR 14x1.5x30 OM355 Codigo Merkansas: 00322 Codigo Original / Similar: 3559901601 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6279",
+        "name": "BULON VOLANTE MOTOR/POLEA CIG.14X60 OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "00323",
+        "image": "img/products/Bulones/bulon-volante-motor-polea-cig-14x60-om904-906-00323.jpg",
+        "description": "BULON VOLANTE MOTOR/POLEA CIG.14x60 OM904/906 Codigo Merkansas: 00323 Codigo Original / Similar: 9060320171 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6280",
+        "name": "BULON PUNTA CIGÜEÑAL 30X52 OM355",
+        "brand": "Mercedes Benz",
+        "code": "00325",
+        "image": "img/products/Bulones/bulon-punta-ciguenal-30x52-om355-00325.jpg",
+        "description": "BULON PUNTA CIGÜEÑAL 30x52 OM355 Codigo Merkansas: 00325 Codigo Original / Similar: 3269900401 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6281",
+        "name": "BULON BIELA MOTOR 12X88 OM355",
+        "brand": "Mercedes Benz",
+        "code": "00326",
+        "image": "img/products/Bulones/bulon-biela-motor-12x88-om355-00326.jpg",
+        "description": "BULON BIELA MOTOR 12x88 OM355 Codigo Merkansas: 00326 Codigo Original / Similar: 3550380371 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6282",
+        "name": "BULON BIELA MOTOR PRISIONERO 73MM. OM321",
+        "brand": "Mercedes Benz",
+        "code": "00328",
+        "image": "img/products/Bulones/bulon-biela-motor-prisionero-73mm-om321-00328.jpg",
+        "description": "BULON BIELA MOTOR PRISIONERO 73mm. OM321 Codigo Merkansas: 00328 Codigo Original / Similar: 3220380371 Marca: Mercedes Benz Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6283",
+        "name": "BULON RUEDA 18X70 DEL.",
+        "brand": "Ford/VW",
+        "code": "400-001",
+        "image": "img/products/Bulones/bulon-rueda-18x70-del-400-001.jpg",
+        "description": "Bulon rueda 18x70 del. Codigo Merkansas: 400-001 Codigo Original / Similar: 2TA601139A T06601139C Marca: Ford/VW Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6284",
+        "name": "BULON RUEDA 18X90 VW LIVIANOS",
+        "brand": "Ford/VW",
+        "code": "400-002",
+        "image": "img/products/Bulones/bulon-rueda-18x90-vw-livianos-400-002.jpg",
+        "description": "Bulon rueda 18x90 vw livianos Codigo Merkansas: 400-002 Codigo Original / Similar: 2TA601161 XC451118AA Marca: Ford/VW Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6285",
+        "name": "BULON RUEDA 20X70 DEL.VW 11130/140/12140",
+        "brand": "Ford/VW",
+        "code": "400-004",
+        "image": "img/products/Bulones/bulon-rueda-20x70-del-vw-11130-140-12140-400-004.jpg",
+        "description": "Bulon rueda 20x70 del.vw 11130/140/12140 Codigo Merkansas: 400-004 Marca: Ford/VW Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6286",
+        "name": "BULON RUEDA 20X90 TRAS.VW 11130/140/12140",
+        "brand": "Ford/VW",
+        "code": "400-006",
+        "image": "img/products/Bulones/bulon-rueda-20x90-tras-vw-11130-140-12140-400-006.jpg",
+        "description": "Bulon rueda 20x90 tras.vw 11130/140/12140 Codigo Merkansas: 400-006 Codigo Original / Similar: T12601139A Marca: Ford/VW Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6287",
+        "name": "BULON RUEDA COMPLETO FORD / VW M 22X1.50X91 ESTRIADO DELANTERO",
+        "brand": "Ford/VW",
+        "code": "400-008",
+        "image": "img/products/Bulones/bulon-rueda-completo-ford-vw-m-22x1-50x91-estriado-delantero-400-008.jpg",
+        "description": "Bulon rueda completo ford / vw m 22x1.50x91 estriado delantero Codigo Merkansas: 400-008 Codigo Original / Similar: T16601139 Marca: Ford/VW Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6288",
+        "name": "BULON RUEDA COMPLETO FORD/VW 22X1.50X98 ESTRIADO TRASERO",
+        "brand": "Ford/VW",
+        "code": "400-009",
+        "image": "img/products/Bulones/bulon-rueda-completo-ford-vw-22x1-50x98-estriado-trasero-400-009.jpg",
+        "description": "Bulon rueda completo ford/vw 22x1.50x98 estriado trasero Codigo Merkansas: 400-009 Codigo Original / Similar: 98HU1118AA Marca: Ford/VW Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6289",
+        "name": "(04138/2) BULON ABRAZADERA CRUCETA",
+        "brand": "Ford/VW",
+        "code": "410-033",
+        "image": "img/products/Bulones/04138-2-bulon-abrazadera-cruceta-410-033.jpg",
+        "description": "(04138/2) bulon abrazadera cruceta Codigo Merkansas: 410-033 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6290",
+        "name": "BULON ABRAZADERA CRUCETA LARGO C/TUERCA",
+        "brand": "Ford/VW",
+        "code": "410-035",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-largo-c-tuerca-410-035.jpg",
+        "description": "Bulon abrazadera cruceta largo c/tuerca Codigo Merkansas: 410-035 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6291",
+        "name": "BULON ABRAZADERA CRUCETA 1/2X1",
+        "brand": "Ford/VW",
+        "code": "410-036",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-1-2x1-410-036.jpg",
+        "description": "Bulon abrazadera cruceta 1/2x1 Codigo Merkansas: 410-036 Codigo Original / Similar: TAK521153 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6292",
+        "name": "BULON CARDAN 3/8 X 19 FORD/VW",
+        "brand": "Ford/VW",
+        "code": "410-037",
+        "image": "img/products/Bulones/bulon-cardan-3-8-x-19-ford-vw-410-037.jpg",
+        "description": "Bulon cardan 3/8 x 19 FORD/VW Codigo Merkansas: 410-037 Codigo Original / Similar: TMG521153 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6293",
+        "name": "BULON ABRAZADERA CRUCETA 3/8 X 45 C/TUERCA",
+        "brand": "Ford/VW",
+        "code": "410-038",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-3-8-x-45-c-tuerca-410-038.jpg",
+        "description": "Bulon abrazadera cruceta 3/8 x 45 c/tuerca Codigo Merkansas: 410-038 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6294",
+        "name": "TUERCA BULON ABRAZADERA CRUCETA 3/8 X 45",
+        "brand": "Ford/VW",
+        "code": "410-038/1",
+        "image": "img/products/Bulones/tuerca-bulon-abrazadera-cruceta-3-8-x-45-410-038-1.jpg",
+        "description": "Tuerca Bulon abrazadera cruceta 3/8 x 45 Codigo Merkansas: 410-038/1 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6295",
+        "name": "BULON ABRAZADERA CRUCETA 3/8 X 45 SOLO",
+        "brand": "Ford/VW",
+        "code": "410-038/2",
+        "image": "",
+        "description": "Bulon abrazadera cruceta 3/8 x 45 solo Codigo Merkansas: 410-038/2 Marca: Ford/VW Rubro: 410-CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6296",
+        "name": "BULON SOPORTE BALANCIN -CAB.HEMBRA- 352",
+        "brand": "Mercedes Benz",
+        "code": "00513",
+        "image": "img/products/Bulones/bulon-soporte-balancin-cab-hembra-352-00513.jpg",
+        "description": "BULON SOPORTE BALANCIN -CAB.HEMBRA- 352 Codigo Merkansas: 00513 Codigo Original / Similar: 3669900104 3210550071 3120550171 Marca: Mercedes Benz Rubro: 050-DISTRIBUCIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "050-DISTRIBUCIÓN"
+    },
+    {
+        "id": "P6297",
+        "name": "BULON 8X25 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00534",
+        "image": "img/products/Bulones/bulon-8x25-todos-00534.jpg",
+        "description": "BULON 8x25 TODOS Codigo Merkansas: 00534 Codigo Original / Similar: 000933008153 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6298",
+        "name": "TERMINAL ORIENTABLE 14/10 1114",
+        "brand": "Mercedes Benz",
+        "code": "00711",
+        "image": "img/products/Bulones/terminal-orientable-14-10-1114-00711.jpg",
+        "description": "TERMINAL ORIENTABLE 14/10 1114 Codigo Merkansas: 00711 Codigo Original / Similar: 915052010000 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6299",
+        "name": "TERMINAL ORIENTABLE 14/9 1114",
+        "brand": "Mercedes Benz",
+        "code": "00711/1",
+        "image": "img/products/Bulones/terminal-orientable-14-9-1114-00711-1.jpg",
+        "description": "TERMINAL ORIENTABLE 14/9 1114 Codigo Merkansas: 00711/1 Codigo Original / Similar: 915052009009 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6300",
+        "name": "TERMINAL ORIENTABLE 16/4 FINO M/N",
+        "brand": "Mercedes Benz",
+        "code": "00711/2",
+        "image": "img/products/Bulones/terminal-orientable-16-4-fino-m-n-00711-2.jpg",
+        "description": "TERMINAL ORIENTABLE 16/4 FINO M/N Codigo Merkansas: 00711/2 Codigo Original / Similar: 915052004002 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6301",
+        "name": "TERMINAL ORIENTABLE 16/10 M/N",
+        "brand": "Mercedes Benz",
+        "code": "00711/3",
+        "image": "img/products/Bulones/terminal-orientable-16-10-m-n-00711-3.jpg",
+        "description": "TERMINAL ORIENTABLE 16/10 M/N Codigo Merkansas: 00711/3 Codigo Original / Similar: 915052010000 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6302",
+        "name": "TERMINAL ORIENTABLE 12/8 1114",
+        "brand": "Mercedes Benz",
+        "code": "00711/4",
+        "image": "img/products/Bulones/terminal-orientable-12-8-1114-00711-4.jpg",
+        "description": "TERMINAL ORIENTABLE 12/8 1114 Codigo Merkansas: 00711/4 Codigo Original / Similar: 915052008000 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6303",
+        "name": "TERMINAL ORIENTABLE 16/12 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00711/5",
+        "image": "img/products/Bulones/terminal-orientable-16-12-todos-00711-5.jpg",
+        "description": "TERMINAL ORIENTABLE 16/12 TODOS Codigo Merkansas: 00711/5 Codigo Original / Similar: 3829907288 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6304",
+        "name": "TERMINAL ORIENTABLE 20/12",
+        "brand": "Mercedes Benz",
+        "code": "00711/6",
+        "image": "img/products/Bulones/terminal-orientable-20-12-00711-6.jpg",
+        "description": "TERMINAL ORIENTABLE 20/12 Codigo Merkansas: 00711/6 Codigo Original / Similar: 0019908688 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6305",
+        "name": "TERMINAL ORIENTABLE 22/10.5",
+        "brand": "Mercedes Benz",
+        "code": "00711/7",
+        "image": "img/products/Bulones/terminal-orientable-22-10-5-00711-7.jpg",
+        "description": "TERMINAL ORIENTABLE 22/10.5 Codigo Merkansas: 00711/7 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6306",
+        "name": "TERMINAL ORIENTABLE 14/7 1114",
+        "brand": "Mercedes Benz",
+        "code": "00711/8",
+        "image": "img/products/Bulones/terminal-orientable-14-7-1114-00711-8.jpg",
+        "description": "TERMINAL ORIENTABLE 14/7 1114 Codigo Merkansas: 00711/8 Codigo Original / Similar: 915052008000 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6307",
+        "name": "TERMINAL ORIENTABLE 14/8,5 1114",
+        "brand": "Mercedes Benz",
+        "code": "00711/9",
+        "image": "img/products/Bulones/terminal-orientable-14-8-5-1114-00711-9.jpg",
+        "description": "TERMINAL ORIENTABLE 14/8,5 1114 Codigo Merkansas: 00711/9 Codigo Original / Similar: 915052008006 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6308",
+        "name": "TERMINAL ORIENTABLE 12/7",
+        "brand": "Mercedes Benz",
+        "code": "00712",
+        "image": "img/products/Bulones/terminal-orientable-12-7-00712.jpg",
+        "description": "TERMINAL ORIENTABLE 12/7 Codigo Merkansas: 00712 Codigo Original / Similar: 915052006013 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6310",
+        "name": "BULON PERFORADO 14MM (2 AGUJEROS) TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00716",
+        "image": "img/products/Bulones/bulon-perforado-14mm-2-agujeros-todos-00716.jpg",
+        "description": "BULON PERFORADO 14mm (2 agujeros) TODOS Codigo Merkansas: 00716 Codigo Original / Similar: 915036010200 915036010108 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6311",
+        "name": "BULON PERFORADO 14MM(3 AGUJEROS) TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00716/1",
+        "image": "img/products/Bulones/bulon-perforado-14mm-3-agujeros-todos-00716-1.jpg",
+        "description": "BULON PERFORADO 14mm(3 agujeros) TODOS Codigo Merkansas: 00716/1 Codigo Original / Similar: 915036010100 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6313",
+        "name": "BULON PERFORADO 8MM TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00720",
+        "image": "img/products/Bulones/bulon-perforado-8mm-todos-00720.jpg",
+        "description": "BULON PERFORADO 8mm TODOS Codigo Merkansas: 00720 Codigo Original / Similar: 3269900163 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6314",
+        "name": "BULON PERFORADO CALIBRADO HCO.10MM TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00728",
+        "image": "img/products/Bulones/bulon-perforado-calibrado-hco-10mm-todos-00728.jpg",
+        "description": "BULON PERFORADO CALIBRADO HCO.10mm TODOS Codigo Merkansas: 00728 Codigo Original / Similar: 3529900163 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6315",
+        "name": "BULON PERFORADO 10MM TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00729",
+        "image": "img/products/Bulones/bulon-perforado-10mm-todos-00729.jpg",
+        "description": "BULON PERFORADO 10mm TODOS Codigo Merkansas: 00729 Codigo Original / Similar: 915036006101 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6316",
+        "name": "BULON PERFORADO 16MM CTO.1114",
+        "brand": "Mercedes Benz",
+        "code": "00730",
+        "image": "img/products/Bulones/bulon-perforado-16mm-cto-1114-00730.jpg",
+        "description": "BULON PERFORADO 16mm CTO.1114 Codigo Merkansas: 00730 Codigo Original / Similar: 915036012150 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6317",
+        "name": "BULON PERFORADO 16MM P/CALIBRADO 1114",
+        "brand": "Mercedes Benz",
+        "code": "00730/1",
+        "image": "img/products/Bulones/bulon-perforado-16mm-p-calibrado-1114-00730-1.jpg",
+        "description": "BULON PERFORADO 16mm P/CALIBRADO 1114 Codigo Merkansas: 00730/1 Codigo Original / Similar: 3829907163 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6318",
+        "name": "BULON PERFORADO 16MM DOBLE 0H1315",
+        "brand": "Mercedes Benz",
+        "code": "00731",
+        "image": "img/products/Bulones/bulon-perforado-16mm-doble-0h1315-00731.jpg",
+        "description": "BULON PERFORADO 16mm DOBLE 0H1315 Codigo Merkansas: 00731 Codigo Original / Similar: 915047012200 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6319",
+        "name": "BULON PERFORADO 18MM L/N",
+        "brand": "Mercedes Benz",
+        "code": "00733",
+        "image": "img/products/Bulones/bulon-perforado-18mm-l-n-00733.jpg",
+        "description": "BULON PERFORADO 18mm L/N Codigo Merkansas: 00733 Codigo Original / Similar: 915036015101 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6320",
+        "name": "BULON PERFORADO 20MM L/N",
+        "brand": "Mercedes Benz",
+        "code": "00734",
+        "image": "img/products/Bulones/bulon-perforado-20mm-l-n-00734.jpg",
+        "description": "BULON PERFORADO 20mm L/N Codigo Merkansas: 00734 Codigo Original / Similar: 0009975601 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6321",
+        "name": "BULON PERFORADO 14MM DOBLE L/N",
+        "brand": "Mercedes Benz",
+        "code": "00735",
+        "image": "img/products/Bulones/bulon-perforado-14mm-doble-l-n-00735.jpg",
+        "description": "BULON PERFORADO 14mm DOBLE L/N Codigo Merkansas: 00735 Codigo Original / Similar: 915047010200 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6322",
+        "name": "BULON PERFORADO 12/16 CTO.L/N.",
+        "brand": "Mercedes Benz",
+        "code": "00736",
+        "image": "img/products/Bulones/bulon-perforado-12-16-cto-l-n-00736.jpg",
+        "description": "BULON PERFORADO 12/16 CTO.L/N. Codigo Merkansas: 00736 Codigo Original / Similar: 915039012100 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6323",
+        "name": "BULON PERFORADO 12/16 LGO.L/N.",
+        "brand": "Mercedes Benz",
+        "code": "00737",
+        "image": "img/products/Bulones/bulon-perforado-12-16-lgo-l-n-00737.jpg",
+        "description": "BULON PERFORADO 12/16 LGO.L/N. Codigo Merkansas: 00737 Codigo Original / Similar: 915040012206 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6324",
+        "name": "BULON PERFORADO DOBLE 8MM L/N",
+        "brand": "Mercedes Benz",
+        "code": "00738",
+        "image": "img/products/Bulones/bulon-perforado-doble-8mm-l-n-00738.jpg",
+        "description": "BULON PERFORADO DOBLE 8mm L/N Codigo Merkansas: 00738 Codigo Original / Similar: 915047004200 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6325",
+        "name": "BULON PERFORADO 12MM DOBLE L/N",
+        "brand": "Mercedes Benz",
+        "code": "00739",
+        "image": "img/products/Bulones/bulon-perforado-12mm-doble-l-n-00739.jpg",
+        "description": "BULON PERFORADO 12mm DOBLE L/N Codigo Merkansas: 00739 Codigo Original / Similar: 915047008200 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6326",
+        "name": "BULON PERFORADO 6MM.",
+        "brand": "Mercedes Benz",
+        "code": "00740",
+        "image": "img/products/Bulones/bulon-perforado-6mm-00740.jpg",
+        "description": "BULON PERFORADO 6mm. Codigo Merkansas: 00740 Codigo Original / Similar: 3905307 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6327",
+        "name": "BULON SOP.CIERRE CABINA REF.",
+        "brand": "Ford/VW",
+        "code": "890-007/1",
+        "image": "img/products/Bulones/bulon-sop-cierre-cabina-ref-890-007-1.jpg",
+        "description": "Bulon sop.cierre cabina ref. Codigo Merkansas: 890-007/1 Codigo Original / Similar: 2TA899369 tjg899369 e5ht5l369aa Marca: Ford/VW Rubro: 890-CABINA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "890-CABINA"
+    },
+    {
+        "id": "P6328",
+        "name": "BULON REGULADOR BARRA TORSION DE CABINA FORD/VW",
+        "brand": "Ford/VW",
+        "code": "890-031",
+        "image": "img/products/Bulones/bulon-regulador-barra-torsion-de-cabina-ford-vw-890-031.jpg",
+        "description": "Bulon regulador barra torsion de cabina ford/vw Codigo Merkansas: 890-031 Codigo Original / Similar: TJG899323 Marca: Ford/VW Rubro: 890-CABINA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "890-CABINA"
+    },
+    {
+        "id": "P6329",
+        "name": "BULON PERFORADO 14/16 DOBLE GAS-OIL 1114",
+        "brand": "Mercedes Benz",
+        "code": "00911",
+        "image": "img/products/Bulones/bulon-perforado-14-16-doble-gas-oil-1114-00911.jpg",
+        "description": "BULON PERFORADO 14/16 DOBLE GAS-OIL 1114 Codigo Merkansas: 00911 Codigo Original / Similar: 915012008001 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6330",
+        "name": "BULON PERFORADO 16/12 DOBLE GAS-OIL 1114",
+        "brand": "Mercedes Benz",
+        "code": "00911/1",
+        "image": "img/products/Bulones/bulon-perforado-16-12-doble-gas-oil-1114-00911-1.jpg",
+        "description": "BULON PERFORADO 16/12 DOBLE GAS-OIL 1114 Codigo Merkansas: 00911/1 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6332",
+        "name": "BULON COMPRESOR M/V 8X28 1114",
+        "brand": "Mercedes Benz",
+        "code": "01318",
+        "image": "img/products/Bulones/bulon-compresor-m-v-8x28-1114-01318.jpg",
+        "description": "BULON COMPRESOR M/V 8X28 1114 Codigo Merkansas: 01318 Codigo Original / Similar: 3529900604 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMPRESOR 77mm Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6333",
+        "name": "BULON BIELA COMPRESOR 352",
+        "brand": "Mercedes Benz",
+        "code": "01323",
+        "image": "img/products/Bulones/bulon-biela-compresor-352-01323.jpg",
+        "description": "BULON BIELA COMPRESOR 352 Codigo Merkansas: 01323 Codigo Original / Similar: 3211310171 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMPRESOR 94mm Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6334",
+        "name": "BULON REGISTRO COMPRESOR 1521",
+        "brand": "Mercedes Benz",
+        "code": "01359",
+        "image": "img/products/Bulones/bulon-registro-compresor-1521-01359.jpg",
+        "description": "BULON REGISTRO COMPRESOR 1521 Codigo Merkansas: 01359 Codigo Original / Similar: 3601310071 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMPRESOR 90mm WABCO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6335",
+        "name": "BULON TENSOR COMPRESOR 1521",
+        "brand": "Mercedes Benz",
+        "code": "01362",
+        "image": "img/products/Bulones/bulon-tensor-compresor-1521-01362.jpg",
+        "description": "BULON TENSOR COMPRESOR 1521 Codigo Merkansas: 01362 Codigo Original / Similar: 3601310071 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMPRESOR 90mm WABCO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6336",
+        "name": "BULON PERFORADO SALIDA COMPRESOR 22MM",
+        "brand": "Mercedes Benz",
+        "code": "01363",
+        "image": "img/products/Bulones/bulon-perforado-salida-compresor-22mm-01363.jpg",
+        "description": "BULON PERFORADO SALIDA COMPRESOR 22mm Codigo Merkansas: 01363 Codigo Original / Similar: 915036018204 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMP.(CONEXIONES CAÑERIA) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6337",
+        "name": "BULON PERFORADO SALIDA COMPRESOR 26MM",
+        "brand": "Mercedes Benz",
+        "code": "01390",
+        "image": "img/products/Bulones/bulon-perforado-salida-compresor-26mm-01390.jpg",
+        "description": "BULON PERFORADO SALIDA COMPRESOR 26mm Codigo Merkansas: 01390 Codigo Original / Similar: 915036022101 915036022201 Marca: Mercedes Benz Rubro: 130-COMPRESOR Subrubro: COMP.(CONEXIONES CAÑERIA) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "130-COMPRESOR"
+    },
+    {
+        "id": "P6338",
+        "name": "BULON MULTIPLE ESC/ADM.1521",
+        "brand": "Mercedes Benz",
+        "code": "01398",
+        "image": "img/products/Bulones/bulon-multiple-esc-adm-1521-01398.jpg",
+        "description": "BULON MULTIPLE ESC/ADM.1521 Codigo Merkansas: 01398 Codigo Original / Similar: 3469900719 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6339",
+        "name": "BULON 10X45 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "01402",
+        "image": "img/products/Bulones/bulon-10x45-todos-01402.jpg",
+        "description": "BULON 10X45 TODOS Codigo Merkansas: 01402 Codigo Original / Similar: 000931010264 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6340",
+        "name": "BULON MULTIPLE ADM.8X50 366",
+        "brand": "Mercedes Benz",
+        "code": "01423",
+        "image": "img/products/Bulones/bulon-multiple-adm-8x50-366-01423.jpg",
+        "description": "BULON MULTIPLE ADM.8X50 366 Codigo Merkansas: 01423 Codigo Original / Similar: 914126008003 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6341",
+        "name": "BULON MULTIPLE ESCAPE 10X105 LGO. 447/449",
+        "brand": "Mercedes Benz",
+        "code": "01424",
+        "image": "img/products/Bulones/bulon-multiple-escape-10x105-lgo-447-449-01424.jpg",
+        "description": "BULON MULTIPLE ESCAPE 10x105 LGO. 447/449 Codigo Merkansas: 01424 Codigo Original / Similar: 4579901301 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6342",
+        "name": "BULON MULTIPLE ESCAPE 10X85 CTO.447/449",
+        "brand": "Mercedes Benz",
+        "code": "01425",
+        "image": "img/products/Bulones/bulon-multiple-escape-10x85-cto-447-449-01425.jpg",
+        "description": "BULON MULTIPLE ESCAPE 10x85 CTO.447/449 Codigo Merkansas: 01425 Codigo Original / Similar: 4579901201 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6344",
+        "name": "BULON ALTERNADOR COMPLETO 1114 10X145",
+        "brand": "Mercedes Benz",
+        "code": "01545",
+        "image": "img/products/Bulones/bulon-alternador-completo-1114-10x145-01545.jpg",
+        "description": "BULON ALTERNADOR COMPLETO 1114 10X145 Codigo Merkansas: 01545 Codigo Original / Similar: 3521550171 t7210 910105010029 Marca: Mercedes Benz Rubro: 150-ELECTRICIDAD DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "150-ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P6345",
+        "name": "BULON CABEZAL 10X95 LEG",
+        "brand": "Mercedes Benz",
+        "code": "01813",
+        "image": "img/products/Bulones/bulon-cabezal-10x95-leg-01813.jpg",
+        "description": "BULON CABEZAL 10X95 LEG Codigo Merkansas: 01813 Codigo Original / Similar: 3279900204 Marca: Mercedes Benz Rubro: 180-LUBRICACIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "180-LUBRICACIÓN"
+    },
+    {
+        "id": "P6346",
+        "name": "BULON CABEZAL 10X70 LEG",
+        "brand": "Mercedes Benz",
+        "code": "01814",
+        "image": "img/products/Bulones/bulon-cabezal-10x70-leg-01814.jpg",
+        "description": "BULON CABEZAL 10x70 LEG Codigo Merkansas: 01814 Codigo Original / Similar: 3149900004 Marca: Mercedes Benz Rubro: 180-LUBRICACIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "180-LUBRICACIÓN"
+    },
+    {
+        "id": "P6347",
+        "name": "BULON 8X20 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "01830",
+        "image": "img/products/Bulones/bulon-8x20-todos-01830.jpg",
+        "description": "BULON 8X20 TODOS Codigo Merkansas: 01830 Codigo Original / Similar: 000933008147 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6348",
+        "name": "BULON 8X85 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "01831",
+        "image": "img/products/Bulones/bulon-8x85-todos-01831.jpg",
+        "description": "BULON 8x85 TODOS Codigo Merkansas: 01831 Codigo Original / Similar: 000931008304 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6350",
+        "name": "BULON PERFORADO INYECTOR ACEITE C/VALV. OM366",
+        "brand": "Mercedes Benz",
+        "code": "01862/1",
+        "image": "img/products/Bulones/bulon-perforado-inyector-aceite-c-valv-om366-01862-1.jpg",
+        "description": "BULON PERFORADO INYECTOR ACEITE C/VALV. OM366 Codigo Merkansas: 01862/1 Codigo Original / Similar: 3669900063 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6356",
+        "name": "BULON CARCAZA CAJA CAMBIO 10X45X1,5 G60/85 ATEGO",
+        "brand": "Mercedes Benz",
+        "code": "02516",
+        "image": "img/products/Bulones/bulon-carcaza-caja-cambio-10x45x1-5-g60-85-atego-02516.jpg",
+        "description": "BULON CARCAZA CAJA CAMBIO 10X45X1,5 G60/85 ATEGO Codigo Merkansas: 02516 Codigo Original / Similar: 910143010000 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: CARCAZA Y TAPAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6357",
+        "name": "BULON 6X10 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "02519",
+        "image": "img/products/Bulones/bulon-6x10-todos-02519.jpg",
+        "description": "BULON 6X10 TODOS Codigo Merkansas: 02519 Codigo Original / Similar: 000933006122 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6358",
+        "name": "BULON CAJA 14X45X2 1114",
+        "brand": "Mercedes Benz",
+        "code": "02521",
+        "image": "img/products/Bulones/bulon-caja-14x45x2-1114-02521.jpg",
+        "description": "BULON CAJA 14X45X2 1114 Codigo Merkansas: 02521 Codigo Original / Similar: 000933014004 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: CARCAZA Y TAPAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6359",
+        "name": "BULON PLACA EMBRAGUE 8X28 1114",
+        "brand": "Mercedes Benz",
+        "code": "02538",
+        "image": "img/products/Bulones/bulon-placa-embrague-8x28-1114-02538.jpg",
+        "description": "BULON PLACA EMBRAGUE 8x28 1114 Codigo Merkansas: 02538 Codigo Original / Similar: 3122521071 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6360",
+        "name": "BULON LATERAL CUBREVOLANTE 16X45X2 366",
+        "brand": "Mercedes Benz",
+        "code": "02551",
+        "image": "img/products/Bulones/bulon-lateral-cubrevolante-16x45x2-366-02551.jpg",
+        "description": "BULON LATERAL CUBREVOLANTE 16x45x2 366 Codigo Merkansas: 02551 Codigo Original / Similar: 000933016079 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6361",
+        "name": "BULON TRABA ENGANCHE CAMBIO (EATON FS05306) ACCELO",
+        "brand": "Mercedes Benz",
+        "code": "02648",
+        "image": "img/products/Bulones/bulon-traba-enganche-cambio-eaton-fs05306-accelo-02648.jpg",
+        "description": "BULON TRABA ENGANCHE CAMBIO (EATON FS05306) ACCELO Codigo Merkansas: 02648 Codigo Original / Similar: 0009901417 3315272 E6HZ7L001A T11301291 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: PALANCA DE CAMBIO 3 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6362",
+        "name": "BULON TRABA ENGANCHE CAMBIO (EATON FS04405) 710 PLUS",
+        "brand": "Mercedes Benz",
+        "code": "02650",
+        "image": "img/products/Bulones/bulon-traba-enganche-cambio-eaton-fs04405-710-plus-02650.jpg",
+        "description": "BULON TRABA ENGANCHE CAMBIO (EATON FS04405) 710 PLUS Codigo Merkansas: 02650 Codigo Original / Similar: 0009903317 3343752 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: PALANCA DE CAMBIO 3 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6363",
+        "name": "BULON RUEDA 22X85X32 OH1621L",
+        "brand": "Mercedes Benz",
+        "code": "03418",
+        "image": "img/products/Bulones/bulon-rueda-22x85x32-oh1621l-03418.jpg",
+        "description": "BULON RUEDA 22x85x32 OH1621L Codigo Merkansas: 03418 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6364",
+        "name": "BULON RUEDA 22X100X32 OH1621L",
+        "brand": "Mercedes Benz",
+        "code": "03419",
+        "image": "img/products/Bulones/bulon-rueda-22x100x32-oh1621l-03419.jpg",
+        "description": "BULON RUEDA 22x100x32 OH1621L Codigo Merkansas: 03419 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6365",
+        "name": "BULON BRAZO DIRECCION 14X110 312",
+        "brand": "Mercedes Benz",
+        "code": "03420",
+        "image": "img/products/Bulones/bulon-brazo-direccion-14x110-312-03420.jpg",
+        "description": "BULON BRAZO DIRECCION 14X110 312 Codigo Merkansas: 03420 Codigo Original / Similar: 3129901314 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6366",
+        "name": "BULON BRAZO DIRECCION 16X140 C/T 1114",
+        "brand": "Mercedes Benz",
+        "code": "03421",
+        "image": "img/products/Bulones/bulon-brazo-direccion-16x140-c-t-1114-03421.jpg",
+        "description": "BULON BRAZO DIRECCION 16X140 C/T 1114 Codigo Merkansas: 03421 Codigo Original / Similar: 3273320171 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6367",
+        "name": "BULON BRAZO DIRECCION 18X150 C/T 1517",
+        "brand": "Mercedes Benz",
+        "code": "03422",
+        "image": "img/products/Bulones/bulon-brazo-direccion-18x150-c-t-1517-03422.jpg",
+        "description": "BULON BRAZO DIRECCION 18x150 C/T 1517 Codigo Merkansas: 03422 Codigo Original / Similar: 3603320171 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6368",
+        "name": "BULON BRAZO DIRECCION 14X95 608",
+        "brand": "Mercedes Benz",
+        "code": "03423",
+        "image": "img/products/Bulones/bulon-brazo-direccion-14x95-608-03423.jpg",
+        "description": "BULON BRAZO DIRECCION 14x95 608 Codigo Merkansas: 03423 Codigo Original / Similar: 3099900014 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6369",
+        "name": "BULON RUEDA 20X65 DEL.312",
+        "brand": "Mercedes Benz",
+        "code": "03424",
+        "image": "img/products/Bulones/bulon-rueda-20x65-del-312-03424.jpg",
+        "description": "BULON RUEDA 20X65 DEL.312 Codigo Merkansas: 03424 Codigo Original / Similar: 3124011171 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6370",
+        "name": "BULON RUEDA COMPL.20X70 DEL.1114",
+        "brand": "Mercedes Benz",
+        "code": "03426",
+        "image": "img/products/Bulones/bulon-rueda-compl-20x70-del-1114-03426.jpg",
+        "description": "BULON RUEDA COMPL.20X70 DEL.1114 Codigo Merkansas: 03426 Codigo Original / Similar: 3524000474 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6371",
+        "name": "BULON RUEDA 20X80X27 TRAS.1114",
+        "brand": "Mercedes Benz",
+        "code": "03427",
+        "image": "img/products/Bulones/bulon-rueda-20x80x27-tras-1114-03427.jpg",
+        "description": "BULON RUEDA 20X80X27 TRAS.1114 Codigo Merkansas: 03427 Codigo Original / Similar: 3024020071 3764000474 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6373",
+        "name": "BULON RUEDA 20X95X27 TRAS.1114",
+        "brand": "Mercedes Benz",
+        "code": "03429",
+        "image": "img/products/Bulones/bulon-rueda-20x95x27-tras-1114-03429.jpg",
+        "description": "BULON RUEDA 20X95X27 TRAS.1114 Codigo Merkansas: 03429 Codigo Original / Similar: 3274020371 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6374",
+        "name": "BULON RUEDA 20X95 TRAS. ESTRIADO",
+        "brand": "Mercedes Benz",
+        "code": "03431",
+        "image": "img/products/Bulones/bulon-rueda-20x95-tras-estriado-03431.jpg",
+        "description": "BULON RUEDA 20x95 TRAS. ESTRIADO Codigo Merkansas: 03431 Codigo Original / Similar: 3274020371 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6375",
+        "name": "BULON RUEDA COMPL.22X110X30",
+        "brand": "Mercedes Benz",
+        "code": "03445",
+        "image": "img/products/Bulones/bulon-rueda-compl-22x110x30-03445.jpg",
+        "description": "BULON RUEDA COMPL.22x110x30 Codigo Merkansas: 03445 Codigo Original / Similar: 3814010771 3814010174 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6376",
+        "name": "BULON RUEDA 22X90X30 TRAS.1517",
+        "brand": "Mercedes Benz",
+        "code": "03446",
+        "image": "img/products/Bulones/bulon-rueda-22x90x30-tras-1517-03446.jpg",
+        "description": "BULON RUEDA 22x90x30 TRAS.1517 Codigo Merkansas: 03446 Codigo Original / Similar: 3274020471 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6378",
+        "name": "BULON RUEDA COMPL.22X120X32 OSCILANTE",
+        "brand": "Mercedes Benz",
+        "code": "03447",
+        "image": "img/products/Bulones/bulon-rueda-compl-22x120x32-oscilante-03447.jpg",
+        "description": "BULON RUEDA COMPL.22x120x32 OSCILANTE Codigo Merkansas: 03447 Codigo Original / Similar: 3824010771 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6380",
+        "name": "BULON RUEDA 22X75X27 DEL.1517",
+        "brand": "Mercedes Benz",
+        "code": "03449",
+        "image": "img/products/Bulones/bulon-rueda-22x75x27-del-1517-03449.jpg",
+        "description": "BULON RUEDA 22x75x27 DEL.1517 Codigo Merkansas: 03449 Codigo Original / Similar: 3515860040 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6381",
+        "name": "BULON RUEDA 22X70X30",
+        "brand": "Mercedes Benz",
+        "code": "03449/1",
+        "image": "img/products/Bulones/bulon-rueda-22x70x30-03449-1.jpg",
+        "description": "BULON RUEDA 22x70x30 Codigo Merkansas: 03449/1 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6382",
+        "name": "BULON RUEDA 22X75X32",
+        "brand": "Mercedes Benz",
+        "code": "03449/2",
+        "image": "img/products/Bulones/bulon-rueda-22x75x32-03449-2.jpg",
+        "description": "BULON RUEDA 22x75x32 Codigo Merkansas: 03449/2 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6384",
+        "name": "BULON RUEDA 22X85X30",
+        "brand": "Mercedes Benz",
+        "code": "03452",
+        "image": "img/products/Bulones/bulon-rueda-22x85x30-03452.jpg",
+        "description": "BULON RUEDA 22X85X30 Codigo Merkansas: 03452 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6385",
+        "name": "BULON RUEDA 22X85X27",
+        "brand": "Mercedes Benz",
+        "code": "03452/1",
+        "image": "img/products/Bulones/bulon-rueda-22x85x27-03452-1.jpg",
+        "description": "BULON RUEDA 22x85x27 Codigo Merkansas: 03452/1 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6386",
+        "name": "BULON RUEDA DEL.OSCILANTE 20X66 1115",
+        "brand": "Mercedes Benz",
+        "code": "03453",
+        "image": "img/products/Bulones/bulon-rueda-del-oscilante-20x66-1115-03453.jpg",
+        "description": "BULON RUEDA DEL.OSCILANTE 20X66 1115 Codigo Merkansas: 03453 Codigo Original / Similar: 0003310474 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6387",
+        "name": "BULON RUEDA TRAS.OSCILANTE 23X92 1115",
+        "brand": "Mercedes Benz",
+        "code": "03454",
+        "image": "img/products/Bulones/bulon-rueda-tras-oscilante-23x92-1115-03454.jpg",
+        "description": "BULON RUEDA TRAS.OSCILANTE 23X92 1115 Codigo Merkansas: 03454 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6388",
+        "name": "BULON RUEDA COMPL.22X100X32 OSCILANTE",
+        "brand": "Mercedes Benz",
+        "code": "03456",
+        "image": "img/products/Bulones/bulon-rueda-compl-22x100x32-oscilante-03456.jpg",
+        "description": "BULON RUEDA COMPL.22x100x32 OSCILANTE Codigo Merkansas: 03456 Codigo Original / Similar: 3644000074 3824000174 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6389",
+        "name": "BULON RUEDA COMPL.22X110X32 OSCILANTE TUERCA BAJA",
+        "brand": "Mercedes Benz",
+        "code": "03458",
+        "image": "img/products/Bulones/bulon-rueda-compl-22x110x32-oscilante-tuerca-baja-03458.jpg",
+        "description": "BULON RUEDA COMPL.22x110x32 OSCILANTE TUERCA BAJA Codigo Merkansas: 03458 Codigo Original / Similar: 3814010771 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6391",
+        "name": "BULON 12X45X1.5 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "03534",
+        "image": "img/products/Bulones/bulon-12x45x1-5-todos-03534.jpg",
+        "description": "BULON 12x45x1.5 TODOS Codigo Merkansas: 03534 Codigo Original / Similar: 000960012225 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6393",
+        "name": "BULON CORONA 14X45X1 OH",
+        "brand": "Mercedes Benz",
+        "code": "03551",
+        "image": "img/products/Bulones/bulon-corona-14x45x1-oh-03551.jpg",
+        "description": "BULON CORONA 14X45x1 OH Codigo Merkansas: 03551 Codigo Original / Similar: 3839900301 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6394",
+        "name": "BULON PORTA CORONA 14X50X1.5 OH",
+        "brand": "Mercedes Benz",
+        "code": "03552",
+        "image": "img/products/Bulones/bulon-porta-corona-14x50x1-5-oh-03552.jpg",
+        "description": "BULON PORTA CORONA 14x50x1.5 OH Codigo Merkansas: 03552 Codigo Original / Similar: 900170014002 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6395",
+        "name": "BULON CORONA 12X34X1 1521 ( X18)",
+        "brand": "Mercedes Benz",
+        "code": "03553",
+        "image": "img/products/Bulones/bulon-corona-12x34x1-1521-x18-03553.jpg",
+        "description": "BULON CORONA 12X34X1 1521 ( x18) Codigo Merkansas: 03553 Codigo Original / Similar: 3859901001 3859901101 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6396",
+        "name": "BULON FIJACION CORONA 12X78X1 1517/1620/1624 X (18)",
+        "brand": "Mercedes Benz",
+        "code": "03563",
+        "image": "img/products/Bulones/bulon-fijacion-corona-12x78x1-1517-1620-1624-x-18-03563.jpg",
+        "description": "BULON FIJACION CORONA 12X78X1 1517/1620/1624 x (18) Codigo Merkansas: 03563 Codigo Original / Similar: 3859901301 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6397",
+        "name": "BULON REGISTRO CORONA COMP. 1114",
+        "brand": "Mercedes Benz",
+        "code": "03568",
+        "image": "img/products/Bulones/bulon-registro-corona-comp-1114-03568.jpg",
+        "description": "BULON REGISTRO CORONA COMP. 1114 Codigo Merkansas: 03568 Codigo Original / Similar: 3223530176 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6398",
+        "name": "BULON REGISTRO CORONA COMP.1517/1620/ATEGO",
+        "brand": "Mercedes Benz",
+        "code": "03569",
+        "image": "img/products/Bulones/bulon-registro-corona-comp-1517-1620-atego-03569.jpg",
+        "description": "BULON REGISTRO CORONA COMP.1517/1620/ATEGO Codigo Merkansas: 03569 Codigo Original / Similar: 3173530276 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6399",
+        "name": "BULON REGISTRO CORONA C/BCE. OH",
+        "brand": "Mercedes Benz",
+        "code": "03579",
+        "image": "img/products/Bulones/bulon-registro-corona-c-bce-oh-03579.jpg",
+        "description": "BULON REGISTRO CORONA C/BCE. OH Codigo Merkansas: 03579 Codigo Original / Similar: 3833530276 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6400",
+        "name": "BULON ABRAZADERA CRUCETA 10X20X1 CZ264",
+        "brand": "Mercedes Benz",
+        "code": "04138/2",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-10x20x1-cz264-04138-2.jpg",
+        "description": "BULON ABRAZADERA CRUCETA 10x20x1 CZ264 Codigo Merkansas: 04138/2 Codigo Original / Similar: 3849907801 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6401",
+        "name": "BULON ABRAZADERA CRUCETA 10X45X1 710 C/TUERCA",
+        "brand": "Mercedes Benz",
+        "code": "04138/5",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-10x45x1-710-c-tuerca-04138-5.jpg",
+        "description": "BULON ABRAZADERA CRUCETA 10x45x1 710 C/TUERCA Codigo Merkansas: 04138/5 Codigo Original / Similar: 6889907201 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6402",
+        "name": "BULON CINTA FRENO 5/16 1114 FRESADO",
+        "brand": "Mercedes Benz",
+        "code": "04449",
+        "image": "img/products/Bulones/bulon-cinta-freno-5-16-1114-fresado-04449.jpg",
+        "description": "BULON CINTA FRENO 5/16 1114 FRESADO Codigo Merkansas: 04449 Codigo Original / Similar: 3419900030 Marca: Mercedes Benz Rubro: 421-FRENO AIRE Subrubro: FRENARZA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "421-FRENO AIRE"
+    },
+    {
+        "id": "P6403",
+        "name": "BULON CAJA DIRECCION 12X128X1.5 1114",
+        "brand": "Mercedes Benz",
+        "code": "04625",
+        "image": "img/products/Bulones/bulon-caja-direccion-12x128x1-5-1114-04625.jpg",
+        "description": "BULON CAJA DIRECCION 12x128x1.5 1114 Codigo Merkansas: 04625 Codigo Original / Similar: 3099900214 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.MECANICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6404",
+        "name": "BULON MOVIMIENTO DIRECCION 1114",
+        "brand": "Mercedes Benz",
+        "code": "04657",
+        "image": "img/products/Bulones/bulon-movimiento-direccion-1114-04657.jpg",
+        "description": "BULON MOVIMIENTO DIRECCION 1114 Codigo Merkansas: 04657 Codigo Original / Similar: 3219900401 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.MECANICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6405",
+        "name": "BULON MOVIMIENTO DIRECCION M/N 8X38X1.25 1518",
+        "brand": "Mercedes Benz",
+        "code": "04657/1",
+        "image": "img/products/Bulones/bulon-movimiento-direccion-m-n-8x38x1-25-1518-04657-1.jpg",
+        "description": "BULON MOVIMIENTO DIRECCION M/N 8x38x1.25 1518 Codigo Merkansas: 04657/1 Codigo Original / Similar: 3169900114 3849907614 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.HIDRAULICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6406",
+        "name": "BULON SOPORTE CAJA DIRECCION 16X42",
+        "brand": "Mercedes Benz",
+        "code": "04671",
+        "image": "img/products/Bulones/bulon-soporte-caja-direccion-16x42-04671.jpg",
+        "description": "BULON SOPORTE CAJA DIRECCION 16x42 Codigo Merkansas: 04671 Codigo Original / Similar: 3529900202 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.HIDRAULICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6407",
+        "name": "BULON SOPORTE CAJA DIRECCION 16X37",
+        "brand": "Mercedes Benz",
+        "code": "04672",
+        "image": "img/products/Bulones/bulon-soporte-caja-direccion-16x37-04672.jpg",
+        "description": "BULON SOPORTE CAJA DIRECCION 16x37 Codigo Merkansas: 04672 Codigo Original / Similar: 3529900302 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.HIDRAULICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6408",
+        "name": "BULON SOPORTE CAJA DIRECCION 12X60",
+        "brand": "Mercedes Benz",
+        "code": "04682",
+        "image": "img/products/Bulones/bulon-soporte-caja-direccion-12x60-04682.jpg",
+        "description": "BULON SOPORTE CAJA DIRECCION 12x60 Codigo Merkansas: 04682 Codigo Original / Similar: 000961012103 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.HIDRAULICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6409",
+        "name": "BULON SOPORTE CAJA DIRECCION 12X65",
+        "brand": "Mercedes Benz",
+        "code": "04683",
+        "image": "img/products/Bulones/bulon-soporte-caja-direccion-12x65-04683.jpg",
+        "description": "BULON SOPORTE CAJA DIRECCION 12x65 Codigo Merkansas: 04683 Codigo Original / Similar: 000961012074 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.HIDRAULICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6410",
+        "name": "BULON TRABA DIRECCION L/N",
+        "brand": "Mercedes Benz",
+        "code": "05662/2",
+        "image": "img/products/Bulones/bulon-traba-direccion-l-n-05662-2.jpg",
+        "description": "BULON TRABA DIRECCION L/N Codigo Merkansas: 05662/2 Codigo Original / Similar: 3844627171 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: VOLANTE Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6411",
+        "name": "BULON 8X110 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "07209",
+        "image": "img/products/Bulones/bulon-8x110-todos-07209.jpg",
+        "description": "BULON 8X110 TODOS Codigo Merkansas: 07209 Codigo Original / Similar: 000931008220 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6412",
+        "name": "BULON SOPORTE CABINA 12X60X1.5 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "08901",
+        "image": "img/products/Bulones/bulon-soporte-cabina-12x60x1-5-todos-08901.jpg",
+        "description": "BULON SOPORTE CABINA 12X60X1.5 TODOS Codigo Merkansas: 08901 Codigo Original / Similar: 000960012246 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6413",
+        "name": "CODO 26X11 M/H",
+        "brand": "Mercedes Benz",
+        "code": "09169",
+        "image": "img/products/Bulones/codo-26x11-m-h-09169.jpg",
+        "description": "CODO 26x11 M/H Codigo Merkansas: 09169 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6414",
+        "name": "BULON 6X22 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09315",
+        "image": "img/products/Bulones/bulon-6x22-todos-09315.jpg",
+        "description": "BULON 6X22 TODOS Codigo Merkansas: 09315 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6415",
+        "name": "BULON 6X30 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09316",
+        "image": "img/products/Bulones/bulon-6x30-todos-09316.jpg",
+        "description": "BULON 6X30 TODOS Codigo Merkansas: 09316 Codigo Original / Similar: 000931006114 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6416",
+        "name": "BULON 6X35X1 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09318",
+        "image": "img/products/Bulones/bulon-6x35x1-todos-09318.jpg",
+        "description": "BULON 6x35x1 TODOS Codigo Merkansas: 09318 Codigo Original / Similar: 000931006118 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6417",
+        "name": "BULON 6X60 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09319",
+        "image": "img/products/Bulones/bulon-6x60-todos-09319.jpg",
+        "description": "BULON 6X60 TODOS Codigo Merkansas: 09319 Codigo Original / Similar: 000931006134 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6418",
+        "name": "BULON INYECTOR T/CILINDRO OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "09320",
+        "image": "img/products/Bulones/bulon-inyector-t-cilindro-om904-906-09320.jpg",
+        "description": "BULON INYECTOR T/CILINDRO OM904/906 Codigo Merkansas: 09320 Codigo Original / Similar: 9069900104 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6419",
+        "name": "BULON 8X18 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09321",
+        "image": "img/products/Bulones/bulon-8x18-todos-09321.jpg",
+        "description": "BULON 8X18 TODOS Codigo Merkansas: 09321 Codigo Original / Similar: 000933008145 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6420",
+        "name": "BULON 8X120 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09322",
+        "image": "img/products/Bulones/bulon-8x120-todos-09322.jpg",
+        "description": "BULON 8X120 TODOS Codigo Merkansas: 09322 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6421",
+        "name": "BULON PLAQUETA ARBOL LEVAS 8X24 OM352",
+        "brand": "Mercedes Benz",
+        "code": "09324",
+        "image": "img/products/Bulones/bulon-plaqueta-arbol-levas-8x24-om352-09324.jpg",
+        "description": "BULON PLAQUETA ARBOL LEVAS 8x24 OM352 Codigo Merkansas: 09324 Codigo Original / Similar: 3529900704 3129900004 Marca: Mercedes Benz Rubro: 050-DISTRIBUCIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "050-DISTRIBUCIÓN"
+    },
+    {
+        "id": "P6422",
+        "name": "BULON 8X30 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09328",
+        "image": "img/products/Bulones/bulon-8x30-todos-09328.jpg",
+        "description": "BULON 8X30 TODOS Codigo Merkansas: 09328 Codigo Original / Similar: 000933008152 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6423",
+        "name": "BULON 8X35 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09329",
+        "image": "img/products/Bulones/bulon-8x35-todos-09329.jpg",
+        "description": "BULON 8X35 TODOS Codigo Merkansas: 09329 Codigo Original / Similar: 000931008046 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6424",
+        "name": "BULON 8X50 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09334",
+        "image": "img/products/Bulones/bulon-8x50-todos-09334.jpg",
+        "description": "BULON 8X50 TODOS Codigo Merkansas: 09334 Codigo Original / Similar: 000931008246 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6425",
+        "name": "BULON 8X55 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09335",
+        "image": "img/products/Bulones/bulon-8x55-todos-09335.jpg",
+        "description": "BULON 8X55 TODOS Codigo Merkansas: 09335 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6426",
+        "name": "BULON 8X65 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09336",
+        "image": "img/products/Bulones/bulon-8x65-todos-09336.jpg",
+        "description": "BULON 8X65 TODOS Codigo Merkansas: 09336 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6427",
+        "name": "BULON 8X60 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09337",
+        "image": "img/products/Bulones/bulon-8x60-todos-09337.jpg",
+        "description": "BULON 8X60 TODOS Codigo Merkansas: 09337 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6428",
+        "name": "BULON 10X15 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09339",
+        "image": "img/products/Bulones/bulon-10x15-todos-09339.jpg",
+        "description": "BULON 10x15 TODOS Codigo Merkansas: 09339 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6429",
+        "name": "BULON 10X20 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09340",
+        "image": "img/products/Bulones/bulon-10x20-todos-09340.jpg",
+        "description": "BULON 10x20 TODOS Codigo Merkansas: 09340 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6430",
+        "name": "BULON 10X20 T/DIFERENCIAL",
+        "brand": "Mercedes Benz",
+        "code": "09340/1",
+        "image": "img/products/Bulones/bulon-10x20-t-diferencial-09340-1.jpg",
+        "description": "BULON 10x20 T/DIFERENCIAL Codigo Merkansas: 09340/1 Codigo Original / Similar: 000933010011 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6431",
+        "name": "BULON CARDAN COMPLETO 10X28X1 1114",
+        "brand": "Mercedes Benz",
+        "code": "09342",
+        "image": "img/products/Bulones/bulon-cardan-completo-10x28x1-1114-09342.jpg",
+        "description": "BULON CARDAN COMPLETO 10x28x1 1114 Codigo Merkansas: 09342 Codigo Original / Similar: 3219901501 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6432",
+        "name": "BULON 10X40 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09345",
+        "image": "img/products/Bulones/bulon-10x40-todos-09345.jpg",
+        "description": "BULON 10X40 TODOS Codigo Merkansas: 09345 Codigo Original / Similar: 000931010282 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6433",
+        "name": "BULON 10X50 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09347",
+        "image": "img/products/Bulones/bulon-10x50-todos-09347.jpg",
+        "description": "BULON 10X50 TODOS Codigo Merkansas: 09347 Codigo Original / Similar: 000931010260 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6434",
+        "name": "BULON 10X55 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09348",
+        "image": "img/products/Bulones/bulon-10x55-todos-09348.jpg",
+        "description": "BULON 10X55 TODOS Codigo Merkansas: 09348 Codigo Original / Similar: 000931010258 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6435",
+        "name": "BULON 10X60 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09349",
+        "image": "img/products/Bulones/bulon-10x60-todos-09349.jpg",
+        "description": "BULON 10X60 TODOS Codigo Merkansas: 09349 Codigo Original / Similar: 000931010271 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6436",
+        "name": "BULON 10X65 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09350",
+        "image": "img/products/Bulones/bulon-10x65-todos-09350.jpg",
+        "description": "BULON 10X65 TODOS Codigo Merkansas: 09350 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6437",
+        "name": "BULON 10X70 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09351",
+        "image": "img/products/Bulones/bulon-10x70-todos-09351.jpg",
+        "description": "BULON 10X70 TODOS Codigo Merkansas: 09351 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6438",
+        "name": "BULON 10X80 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09352",
+        "image": "img/products/Bulones/bulon-10x80-todos-09352.jpg",
+        "description": "BULON 10X80 TODOS Codigo Merkansas: 09352 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6439",
+        "name": "BULON 10X90 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09354",
+        "image": "img/products/Bulones/bulon-10x90-todos-09354.jpg",
+        "description": "BULON 10X90 TODOS Codigo Merkansas: 09354 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6440",
+        "name": "BULON 12X30 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09356",
+        "image": "img/products/Bulones/bulon-12x30-todos-09356.jpg",
+        "description": "BULON 12X30 TODOS Codigo Merkansas: 09356 Codigo Original / Similar: 000961012151 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6441",
+        "name": "BULON 12X35X1.50 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09358",
+        "image": "img/products/Bulones/bulon-12x35x1-50-todos-09358.jpg",
+        "description": "BULON 12x35x1.50 TODOS Codigo Merkansas: 09358 Codigo Original / Similar: 000961012097 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6442",
+        "name": "BULON 12X50 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09360",
+        "image": "img/products/Bulones/bulon-12x50-todos-09360.jpg",
+        "description": "BULON 12x50 TODOS Codigo Merkansas: 09360 Codigo Original / Similar: 000960012189 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6443",
+        "name": "BULON 12X55X1.50 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09361",
+        "image": "img/products/Bulones/bulon-12x55x1-50-todos-09361.jpg",
+        "description": "BULON 12x55x1.50 TODOS Codigo Merkansas: 09361 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6444",
+        "name": "BULON SOPORTE BALANCIN 12X75X1.75 352/366",
+        "brand": "Mercedes Benz",
+        "code": "09363",
+        "image": "img/products/Bulones/bulon-soporte-balancin-12x75x1-75-352-366-09363.jpg",
+        "description": "BULON SOPORTE BALANCIN 12x75x1.75 352/366 Codigo Merkansas: 09363 Codigo Original / Similar: 000931012061 Marca: Mercedes Benz Rubro: 050-DISTRIBUCIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "050-DISTRIBUCIÓN"
+    },
+    {
+        "id": "P6445",
+        "name": "BULON 14X40X1.5 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09365",
+        "image": "img/products/Bulones/bulon-14x40x1-5-todos-09365.jpg",
+        "description": "BULON 14x40x1.5 TODOS Codigo Merkansas: 09365 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6446",
+        "name": "BULON 14X45 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09366",
+        "image": "img/products/Bulones/bulon-14x45-todos-09366.jpg",
+        "description": "BULON 14x45 TODOS Codigo Merkansas: 09366 Codigo Original / Similar: 000961014054 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6447",
+        "name": "BULON 14X1.5X65 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09367",
+        "image": "img/products/Bulones/bulon-14x1-5x65-todos-09367.jpg",
+        "description": "BULON 14x1.5X65 TODOS Codigo Merkansas: 09367 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6448",
+        "name": "BULON BANCADA BLOCK 14X133 OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "09369",
+        "image": "img/products/Bulones/bulon-bancada-block-14x133-om904-906-09369.jpg",
+        "description": "BULON BANCADA BLOCK 14X133 OM904/906 Codigo Merkansas: 09369 Codigo Original / Similar: 9069900301 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6449",
+        "name": "BULON ALLEN SOPORTE CABINA DEL.10X45X1.50 608",
+        "brand": "Mercedes Benz",
+        "code": "09455",
+        "image": "img/products/Bulones/bulon-allen-soporte-cabina-del-10x45x1-50-608-09455.jpg",
+        "description": "BULON ALLEN SOPORTE CABINA DEL.10X45X1.50 608 Codigo Merkansas: 09455 Codigo Original / Similar: 000912010057 Marca: Mercedes Benz Rubro: 890-CABINA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "890-CABINA"
+    },
+    {
+        "id": "P6450",
+        "name": "BULON ALLEN SOPORTE CABINA TRA.12X30X1.25 608",
+        "brand": "Mercedes Benz",
+        "code": "09456",
+        "image": "img/products/Bulones/bulon-allen-soporte-cabina-tra-12x30x1-25-608-09456.jpg",
+        "description": "BULON ALLEN SOPORTE CABINA TRA.12X30X1.25 608 Codigo Merkansas: 09456 Codigo Original / Similar: 000912012047 Marca: Mercedes Benz Rubro: 890-CABINA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "890-CABINA"
+    },
+    {
+        "id": "P6451",
+        "name": "BULON FLOTANTE GAS-OIL 5X20",
+        "brand": "Mercedes Benz",
+        "code": "09471",
+        "image": "img/products/Bulones/bulon-flotante-gas-oil-5x20-09471.jpg",
+        "description": "BULON FLOTANTE GAS-OIL 5X20 Codigo Merkansas: 09471 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6452",
+        "name": "BULON FREZADO CERRADURA 6X20",
+        "brand": "Mercedes Benz",
+        "code": "09473",
+        "image": "img/products/Bulones/bulon-frezado-cerradura-6x20-09473.jpg",
+        "description": "BULON FREZADO CERRADURA 6x20 Codigo Merkansas: 09473 Codigo Original / Similar: 000965006048 Marca: Mercedes Benz Rubro: 720-PUERTAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "720-PUERTAS"
+    },
+    {
+        "id": "P6453",
+        "name": "BULON TRABA PUERTA CABEZA CHATA 6X12",
+        "brand": "Mercedes Benz",
+        "code": "09474",
+        "image": "img/products/Bulones/bulon-traba-puerta-cabeza-chata-6x12-09474.jpg",
+        "description": "BULON TRABA PUERTA CABEZA CHATA 6x12 Codigo Merkansas: 09474 Codigo Original / Similar: 000965006043 Marca: Mercedes Benz Rubro: 720-PUERTAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "720-PUERTAS"
+    },
+    {
+        "id": "P6454",
+        "name": "BULON 6X35 CABEZA PLANA",
+        "brand": "Mercedes Benz",
+        "code": "09475",
+        "image": "img/products/Bulones/bulon-6x35-cabeza-plana-09475.jpg",
+        "description": "BULON 6x35 CABEZA PLANA Codigo Merkansas: 09475 Codigo Original / Similar: 000965006030 Marca: Mercedes Benz Rubro: 720-PUERTAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "720-PUERTAS"
+    },
+    {
+        "id": "P6455",
+        "name": "BULON FREZADO CERRADURA L/NUEVA 8X25",
+        "brand": "Mercedes Benz",
+        "code": "09477",
+        "image": "img/products/Bulones/bulon-frezado-cerradura-l-nueva-8x25-09477.jpg",
+        "description": "BULON FREZADO CERRADURA L/NUEVA 8X25 Codigo Merkansas: 09477 Codigo Original / Similar: 914141008702 Marca: Mercedes Benz Rubro: 720-PUERTAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "720-PUERTAS"
+    },
+    {
+        "id": "P6456",
+        "name": "BULON TRABA PUERTA CABEZA CHATA 8X16",
+        "brand": "Mercedes Benz",
+        "code": "09477/1",
+        "image": "img/products/Bulones/bulon-traba-puerta-cabeza-chata-8x16-09477-1.jpg",
+        "description": "BULON TRABA PUERTA CABEZA CHATA 8x16 Codigo Merkansas: 09477/1 Codigo Original / Similar: 914130008104 Marca: Mercedes Benz Rubro: 720-PUERTAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "720-PUERTAS"
+    },
+    {
+        "id": "P6457",
+        "name": "BULON PARAGOLPE 10X30 ALLEN L/N",
+        "brand": "Mercedes Benz",
+        "code": "09478",
+        "image": "img/products/Bulones/bulon-paragolpe-10x30-allen-l-n-09478.jpg",
+        "description": "BULON PARAGOLPE 10x30 ALLEN L/N Codigo Merkansas: 09478 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6458",
+        "name": "BULON SOPORTE MOTOR 14X120 1114",
+        "brand": "Mercedes Benz",
+        "code": "09583",
+        "image": "img/products/Bulones/bulon-soporte-motor-14x120-1114-09583.jpg",
+        "description": "BULON SOPORTE MOTOR 14X120 1114 Codigo Merkansas: 09583 Codigo Original / Similar: 900170014022 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6459",
+        "name": "BULON PLACA EMBRAGUE 10X80 ATEGO 1725",
+        "brand": "Mercedes Benz",
+        "code": "09593",
+        "image": "img/products/Bulones/bulon-placa-embrague-10x80-atego-1725-09593.jpg",
+        "description": "BULON PLACA EMBRAGUE 10X80 ATEGO 1725 Codigo Merkansas: 09593 Codigo Original / Similar: 910105010016 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6460",
+        "name": "BULON PLACA EMBRAGUE 8X45 LEG.1517",
+        "brand": "Mercedes Benz",
+        "code": "09597",
+        "image": "img/products/Bulones/bulon-placa-embrague-8x45-leg-1517-09597.jpg",
+        "description": "BULON PLACA EMBRAGUE 8X45 LEG.1517 Codigo Merkansas: 09597 Codigo Original / Similar: 3522520071 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6461",
+        "name": "BULON PLACA EMBRAGUE C/ALA 8X60 904/906",
+        "brand": "Mercedes Benz",
+        "code": "09598",
+        "image": "img/products/Bulones/bulon-placa-embrague-c-ala-8x60-904-906-09598.jpg",
+        "description": "BULON PLACA EMBRAGUE C/ALA 8X60 904/906 Codigo Merkansas: 09598 Codigo Original / Similar: 910105008009 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6462",
+        "name": "BULON PLACA EMBRAGUE 8X55 LEG.",
+        "brand": "Mercedes Benz",
+        "code": "09599",
+        "image": "img/products/Bulones/bulon-placa-embrague-8x55-leg-09599.jpg",
+        "description": "BULON PLACA EMBRAGUE 8X55 LEG. Codigo Merkansas: 09599 Codigo Original / Similar: 000931008413 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6463",
+        "name": "BULON AMORTIGUADOR DEL.INFERIOR C/T16X85",
+        "brand": "Mercedes Benz",
+        "code": "09604",
+        "image": "img/products/Bulones/bulon-amortiguador-del-inferior-c-t16x85-09604.jpg",
+        "description": "BULON AMORTIGUADOR DEL.INFERIOR C/T16X85 Codigo Merkansas: 09604 Codigo Original / Similar: 3529900002 Marca: Mercedes Benz Rubro: 325-ELÁSTICO-SUSPENSIÓN-AMORT. Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "325-ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P6464",
+        "name": "BULON AMORTIGUADOR SUPERIOR 16X95",
+        "brand": "Mercedes Benz",
+        "code": "09605",
+        "image": "img/products/Bulones/bulon-amortiguador-superior-16x95-09605.jpg",
+        "description": "BULON AMORTIGUADOR SUPERIOR 16X95 Codigo Merkansas: 09605 Codigo Original / Similar: 3409900002 Marca: Mercedes Benz Rubro: 325-ELÁSTICO-SUSPENSIÓN-AMORT. Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "325-ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P6465",
+        "name": "BULON AMORTIGUADOR INFERIOR C/TUERCA 20X105",
+        "brand": "Mercedes Benz",
+        "code": "09607",
+        "image": "img/products/Bulones/bulon-amortiguador-inferior-c-tuerca-20x105-09607.jpg",
+        "description": "BULON AMORTIGUADOR INFERIOR C/TUERCA 20X105 Codigo Merkansas: 09607 Codigo Original / Similar: 3529901201 Marca: Mercedes Benz Rubro: 325-ELÁSTICO-SUSPENSIÓN-AMORT. Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "325-ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P6466",
+        "name": "BULON AMORTIGUADOR DEL.20X120C/TCA",
+        "brand": "Mercedes Benz",
+        "code": "09608",
+        "image": "img/products/Bulones/bulon-amortiguador-del-20x120c-tca-09608.jpg",
+        "description": "BULON AMORTIGUADOR DEL.20X120C/TCA Codigo Merkansas: 09608 Codigo Original / Similar: 3529901301 Marca: Mercedes Benz Rubro: 325-ELÁSTICO-SUSPENSIÓN-AMORT. Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "325-ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P6467",
+        "name": "BULON AMORTIGUADOR INF14X150 COMPLETO 710",
+        "brand": "Mercedes Benz",
+        "code": "09612",
+        "image": "img/products/Bulones/bulon-amortiguador-inf14x150-completo-710-09612.jpg",
+        "description": "BULON AMORTIGUADOR INF14X150 COMPLETO 710 Codigo Merkansas: 09612 Codigo Original / Similar: 000960014284 Marca: Mercedes Benz Rubro: 325-ELÁSTICO-SUSPENSIÓN-AMORT. Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "325-ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P6468",
+        "name": "JGO BULON TENSOR ALTERNADOR",
+        "brand": "Mercedes Benz",
+        "code": "09621",
+        "image": "img/products/Bulones/jgo-bulon-tensor-alternador-09621.jpg",
+        "description": "JGO BULON TENSOR ALTERNADOR Codigo Merkansas: 09621 Marca: Mercedes Benz Rubro: 150-ELECTRICIDAD DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "150-ELECTRICIDAD DE MOTOR"
+    },
+    {
+        "id": "P6469",
+        "name": "BULON CARDAN COMPLETO 10X32X1 1517",
+        "brand": "Mercedes Benz",
+        "code": "09692",
+        "image": "img/products/Bulones/bulon-cardan-completo-10x32x1-1517-09692.jpg",
+        "description": "BULON CARDAN COMPLETO 10x32x1 1517 Codigo Merkansas: 09692 Codigo Original / Similar: 3529900401 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6470",
+        "name": "BULON CUBREVOLANTE 12X35X1.75",
+        "brand": "Mercedes Benz",
+        "code": "09751",
+        "image": "img/products/Bulones/bulon-cubrevolante-12x35x1-75-09751.jpg",
+        "description": "BULON CUBREVOLANTE 12X35X1.75 Codigo Merkansas: 09751 Codigo Original / Similar: 900170012005 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6471",
+        "name": "BULON CUBREVOLANTE 12X45X1.75",
+        "brand": "Mercedes Benz",
+        "code": "09752",
+        "image": "img/products/Bulones/bulon-cubrevolante-12x45x1-75-09752.jpg",
+        "description": "BULON CUBREVOLANTE 12X45X1.75 Codigo Merkansas: 09752 Codigo Original / Similar: 900170012004 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6472",
+        "name": "BULON CUBREVOLANTE 12X 95",
+        "brand": "Mercedes Benz",
+        "code": "09753",
+        "image": "img/products/Bulones/bulon-cubrevolante-12x-95-09753.jpg",
+        "description": "BULON CUBREVOLANTE 12x 95 Codigo Merkansas: 09753 Codigo Original / Similar: 000931012136 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6473",
+        "name": "BULON CUBREVOLANTE 12X110",
+        "brand": "Mercedes Benz",
+        "code": "09754",
+        "image": "img/products/Bulones/bulon-cubrevolante-12x110-09754.jpg",
+        "description": "BULON CUBREVOLANTE 12x110 Codigo Merkansas: 09754 Codigo Original / Similar: 000931012180 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6474",
+        "name": "BULON CAJA DIRECCION 12X50X1.5 1114",
+        "brand": "Mercedes Benz",
+        "code": "09775",
+        "image": "img/products/Bulones/bulon-caja-direccion-12x50x1-5-1114-09775.jpg",
+        "description": "BULON CAJA DIRECCION 12x50x1.5 1114 Codigo Merkansas: 09775 Codigo Original / Similar: 3099900114 Marca: Mercedes Benz Rubro: 460-DIRECCIÓN Subrubro: CAJA DIR.MECANICA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "460-DIRECCIÓN"
+    },
+    {
+        "id": "P6475",
+        "name": "BULON REGISTRO FRENO MANO 18X65 1114",
+        "brand": "Mercedes Benz",
+        "code": "09776",
+        "image": "img/products/Bulones/bulon-registro-freno-mano-18x65-1114-09776.jpg",
+        "description": "BULON REGISTRO FRENO MANO 18x65 1114 Codigo Merkansas: 09776 Codigo Original / Similar: 3024230170 Marca: Mercedes Benz Rubro: 420-FRENO HIDRAULICO Subrubro: FRENO MANO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "420-FRENO HIDRAULICO"
+    },
+    {
+        "id": "P6476",
+        "name": "BULON REGISTRO FRENO MANO 12X70 1114",
+        "brand": "Mercedes Benz",
+        "code": "09777",
+        "image": "img/products/Bulones/bulon-registro-freno-mano-12x70-1114-09777.jpg",
+        "description": "BULON REGISTRO FRENO MANO 12x70 1114 Codigo Merkansas: 09777 Codigo Original / Similar: 3544230171 Marca: Mercedes Benz Rubro: 420-FRENO HIDRAULICO Subrubro: FRENO MANO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "420-FRENO HIDRAULICO"
+    },
+    {
+        "id": "P6477",
+        "name": "BULON TAPA CILINDRO 12X111 12.9 (X25) OM352/364/366",
+        "brand": "Mercedes Benz",
+        "code": "09778",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-12x111-12-9-x25-om352-364-366-09778.jpg",
+        "description": "BULON TAPA CILINDRO 12X111 12.9 (x25) OM352/364/366 Codigo Merkansas: 09778 Codigo Original / Similar: 3669900301 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6478",
+        "name": "BULON BOMBA ACEITE 8X40 LEG.1114",
+        "brand": "Mercedes Benz",
+        "code": "09795",
+        "image": "img/products/Bulones/bulon-bomba-aceite-8x40-leg-1114-09795.jpg",
+        "description": "BULON BOMBA ACEITE 8x40 LEG.1114 Codigo Merkansas: 09795 Codigo Original / Similar: 900170008003 Marca: Mercedes Benz Rubro: 180-LUBRICACIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "180-LUBRICACIÓN"
+    },
+    {
+        "id": "P6479",
+        "name": "BULON AMORTIGUADOR TRASERO 20X90 C/T16",
+        "brand": "Mercedes Benz",
+        "code": "09800",
+        "image": "img/products/Bulones/bulon-amortiguador-trasero-20x90-c-t16-09800.jpg",
+        "description": "BULON AMORTIGUADOR TRASERO 20X90 C/T16 Codigo Merkansas: 09800 Codigo Original / Similar: 3523260271 Marca: Mercedes Benz Rubro: 325-ELÁSTICO-SUSPENSIÓN-AMORT. Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "325-ELÁSTICO-SUSPENSIÓN-AMORT."
+    },
+    {
+        "id": "P6480",
+        "name": "BULON CORONA 14X35X1 1114",
+        "brand": "Mercedes Benz",
+        "code": "09803",
+        "image": "img/products/Bulones/bulon-corona-14x35x1-1114-09803.jpg",
+        "description": "BULON CORONA 14X35X1 1114 Codigo Merkansas: 09803 Codigo Original / Similar: 3239901101 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6481",
+        "name": "BULON MULTIPLE 10X110 8.8 1517",
+        "brand": "Mercedes Benz",
+        "code": "09804",
+        "image": "img/products/Bulones/bulon-multiple-10x110-8-8-1517-09804.jpg",
+        "description": "BULON MULTIPLE 10X110 8.8 1517 Codigo Merkansas: 09804 Codigo Original / Similar: 000931010154 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6482",
+        "name": "BULON MULTIPLE 10X115 10.9 1517",
+        "brand": "Mercedes Benz",
+        "code": "09805",
+        "image": "img/products/Bulones/bulon-multiple-10x115-10-9-1517-09805.jpg",
+        "description": "BULON MULTIPLE 10X115 10.9 1517 Codigo Merkansas: 09805 Codigo Original / Similar: 000931010346 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6483",
+        "name": "BULON MULTIPLE 10X115 8.8 1517",
+        "brand": "Mercedes Benz",
+        "code": "09805/1",
+        "image": "img/products/Bulones/bulon-multiple-10x115-8-8-1517-09805-1.jpg",
+        "description": "BULON MULTIPLE 10X115 8.8 1517 Codigo Merkansas: 09805/1 Codigo Original / Similar: 000931010346 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6484",
+        "name": "BULON SOPORTE MOTOR 12X60 1114",
+        "brand": "Mercedes Benz",
+        "code": "09814",
+        "image": "img/products/Bulones/bulon-soporte-motor-12x60-1114-09814.jpg",
+        "description": "BULON SOPORTE MOTOR 12X60 1114 Codigo Merkansas: 09814 Codigo Original / Similar: 000960012071 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6485",
+        "name": "BULON PERFORADO 12MM TODOS",
+        "brand": "Mercedes Benz",
+        "code": "09832",
+        "image": "img/products/Bulones/bulon-perforado-12mm-todos-09832.jpg",
+        "description": "BULON PERFORADO 12mm TODOS Codigo Merkansas: 09832 Codigo Original / Similar: 915036008100 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6486",
+        "name": "BULON TAPA VALVULAS 8X130 (X5) OM355",
+        "brand": "Mercedes Benz",
+        "code": "09905",
+        "image": "img/products/Bulones/bulon-tapa-valvulas-8x130-x5-om355-09905.jpg",
+        "description": "BULON TAPA VALVULAS 8X130 (x5) OM355 Codigo Merkansas: 09905 Codigo Original / Similar: 000931008247 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6487",
+        "name": "BULON CARTER 8X140 OM355/447/449/904/906",
+        "brand": "Mercedes Benz",
+        "code": "10241",
+        "image": "img/products/Bulones/bulon-carter-8x140-om355-447-449-904-906-10241.jpg",
+        "description": "BULON CARTER 8X140 OM355/447/449/904/906 Codigo Merkansas: 10241 Codigo Original / Similar: 910105008062 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6488",
+        "name": "BULON CARTER LARGO 10X148 OM355",
+        "brand": "Mercedes Benz",
+        "code": "10242",
+        "image": "img/products/Bulones/bulon-carter-largo-10x148-om355-10242.jpg",
+        "description": "BULON CARTER LARGO 10X148 OM355 Codigo Merkansas: 10242 Codigo Original / Similar: 000931010234 910105010025 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6489",
+        "name": "BULON CARTER 8X40 CABEZA MACHO ESTRELLA OM904",
+        "brand": "Mercedes Benz",
+        "code": "10243",
+        "image": "img/products/Bulones/bulon-carter-8x40-cabeza-macho-estrella-om904-10243.jpg",
+        "description": "BULON CARTER 8X40 CABEZA MACHO ESTRELLA OM904 Codigo Merkansas: 10243 Codigo Original / Similar: 910105008018 910143008018 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6490",
+        "name": "BULON MANCHON CAJA CAMBIO CTO.8X18",
+        "brand": "Mercedes Benz",
+        "code": "10249",
+        "image": "img/products/Bulones/bulon-manchon-caja-cambio-cto-8x18-10249.jpg",
+        "description": "BULON MANCHON CAJA CAMBIO CTO.8x18 Codigo Merkansas: 10249 Codigo Original / Similar: 3219900601 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: PALANCA DE CAMBIO 2 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6491",
+        "name": "BULON MANCHON CAJA CAMBIO LGO.8X26",
+        "brand": "Mercedes Benz",
+        "code": "10250",
+        "image": "img/products/Bulones/bulon-manchon-caja-cambio-lgo-8x26-10250.jpg",
+        "description": "BULON MANCHON CAJA CAMBIO LGO.8x26 Codigo Merkansas: 10250 Codigo Original / Similar: 3179900301 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: PALANCA DE CAMBIO 2 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6492",
+        "name": "BULON FIJACION PERNO DIF.1517",
+        "brand": "Mercedes Benz",
+        "code": "10251",
+        "image": "img/products/Bulones/bulon-fijacion-perno-dif-1517-10251.jpg",
+        "description": "BULON FIJACION PERNO DIF.1517 Codigo Merkansas: 10251 Codigo Original / Similar: 3279900012 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6493",
+        "name": "BULON TAPA BANCADA ALTA 16X85 1114",
+        "brand": "Mercedes Benz",
+        "code": "10280",
+        "image": "img/products/Bulones/bulon-tapa-bancada-alta-16x85-1114-10280.jpg",
+        "description": "BULON TAPA BANCADA ALTA 16X85 1114 Codigo Merkansas: 10280 Codigo Original / Similar: 3219900801 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6494",
+        "name": "BULON 8X10 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10607",
+        "image": "img/products/Bulones/bulon-8x10-todos-10607.jpg",
+        "description": "BULON 8x10 TODOS Codigo Merkansas: 10607 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6495",
+        "name": "BULON 8X80 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10610",
+        "image": "img/products/Bulones/bulon-8x80-todos-10610.jpg",
+        "description": "BULON 8X80 TODOS Codigo Merkansas: 10610 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6496",
+        "name": "BULON 10X30 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10615",
+        "image": "img/products/Bulones/bulon-10x30-todos-10615.jpg",
+        "description": "BULON 10X30 TODOS Codigo Merkansas: 10615 Codigo Original / Similar: 000933010129 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6497",
+        "name": "BULON 12X70X1.5 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10624",
+        "image": "img/products/Bulones/bulon-12x70x1-5-todos-10624.jpg",
+        "description": "BULON 12X70X1.5 TODOS Codigo Merkansas: 10624 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6498",
+        "name": "BULON 12X80 CABALLETE F/MANO 1114",
+        "brand": "Mercedes Benz",
+        "code": "10625",
+        "image": "img/products/Bulones/bulon-12x80-caballete-f-mano-1114-10625.jpg",
+        "description": "BULON 12X80 CABALLETE F/MANO 1114 Codigo Merkansas: 10625 Codigo Original / Similar: 000931012063 Marca: Mercedes Benz Rubro: 420-FRENO HIDRAULICO Subrubro: FRENO MANO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "420-FRENO HIDRAULICO"
+    },
+    {
+        "id": "P6499",
+        "name": "BULON 12X110 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10630",
+        "image": "img/products/Bulones/bulon-12x110-todos-10630.jpg",
+        "description": "BULON 12X110 TODOS Codigo Merkansas: 10630 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6501",
+        "name": "BULON CUBREVOLANTE 12X135 1518",
+        "brand": "Mercedes Benz",
+        "code": "10632",
+        "image": "img/products/Bulones/bulon-cubrevolante-12x135-1518-10632.jpg",
+        "description": "BULON CUBREVOLANTE 12x135 1518 Codigo Merkansas: 10632 Codigo Original / Similar: 000931012277 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6502",
+        "name": "BULON CUBREVOLANTE 12X145 366",
+        "brand": "Mercedes Benz",
+        "code": "10633",
+        "image": "img/products/Bulones/bulon-cubrevolante-12x145-366-10633.jpg",
+        "description": "BULON CUBREVOLANTE 12x145 366 Codigo Merkansas: 10633 Codigo Original / Similar: 000931012206 Marca: Mercedes Benz Rubro: 250-EMBRAGUE (PLACAS-DISCOS) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "250-EMBRAGUE (PLACAS-DISCOS)"
+    },
+    {
+        "id": "P6503",
+        "name": "BULON 14X80 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10640",
+        "image": "img/products/Bulones/bulon-14x80-todos-10640.jpg",
+        "description": "BULON 14x80 TODOS Codigo Merkansas: 10640 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6504",
+        "name": "BULON 14X90 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10642",
+        "image": "img/products/Bulones/bulon-14x90-todos-10642.jpg",
+        "description": "BULON 14X90 TODOS Codigo Merkansas: 10642 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6505",
+        "name": "BULON 16X45X1.50 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "10643",
+        "image": "img/products/Bulones/bulon-16x45x1-50-todos-10643.jpg",
+        "description": "BULON 16x45x1.50 TODOS Codigo Merkansas: 10643 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6506",
+        "name": "BULON SUNCHO PULMON 5/16X81C/T",
+        "brand": "Mercedes Benz",
+        "code": "10702",
+        "image": "img/products/Bulones/bulon-suncho-pulmon-5-16x81c-t-10702.jpg",
+        "description": "BULON SUNCHO PULMON 5/16X81C/T Codigo Merkansas: 10702 Codigo Original / Similar: 0004231271 Marca: Mercedes Benz Rubro: 421-FRENO AIRE Subrubro: FRENARZA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "421-FRENO AIRE"
+    },
+    {
+        "id": "P6507",
+        "name": "BULON REGISTRO PULMON 2 TRABAS 128MM.",
+        "brand": "Mercedes Benz",
+        "code": "10704",
+        "image": "img/products/Bulones/bulon-registro-pulmon-2-trabas-128mm-10704.jpg",
+        "description": "BULON REGISTRO PULMON 2 TRABAS 128mm. Codigo Merkansas: 10704 Marca: Mercedes Benz Rubro: 421-FRENO AIRE Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "421-FRENO AIRE"
+    },
+    {
+        "id": "P6509",
+        "name": "BULON PERFORADO TURBO 16MM(3 AGUJ)1517",
+        "brand": "Mercedes Benz",
+        "code": "10949",
+        "image": "img/products/Bulones/bulon-perforado-turbo-16mm-3-aguj-1517-10949.jpg",
+        "description": "BULON PERFORADO TURBO 16mm(3 aguj)1517 Codigo Merkansas: 10949 Codigo Original / Similar: 915036012102 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6510",
+        "name": "BULON CINTA FRENO 5/16 C/CHATA",
+        "brand": "Mercedes Benz",
+        "code": "11037",
+        "image": "img/products/Bulones/bulon-cinta-freno-5-16-c-chata-11037.jpg",
+        "description": "BULON CINTA FRENO 5/16 C/CHATA Codigo Merkansas: 11037 Marca: Mercedes Benz Rubro: 421-FRENO AIRE Subrubro: VOLTEO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "421-FRENO AIRE"
+    },
+    {
+        "id": "P6511",
+        "name": "BULON CARDAN COMPLETO 14X40X1.5 1622",
+        "brand": "Mercedes Benz",
+        "code": "12217",
+        "image": "img/products/Bulones/bulon-cardan-completo-14x40x1-5-1622-12217.jpg",
+        "description": "BULON CARDAN COMPLETO 14x40x1.5 1622 Codigo Merkansas: 12217 Codigo Original / Similar: 000960014237 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6512",
+        "name": "BULON CARDAN COMPLETO 12X32X1.5 1521",
+        "brand": "Mercedes Benz",
+        "code": "12218",
+        "image": "img/products/Bulones/bulon-cardan-completo-12x32x1-5-1521-12218.jpg",
+        "description": "BULON CARDAN COMPLETO 12x32x1.5 1521 Codigo Merkansas: 12218 Codigo Original / Similar: 3609903001 0029908301 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6513",
+        "name": "BULON CARDAN COMPLETO 16X45X1.5 1633/1938/O400",
+        "brand": "Mercedes Benz",
+        "code": "12219",
+        "image": "img/products/Bulones/bulon-cardan-completo-16x45x1-5-1633-1938-o400-12219.jpg",
+        "description": "BULON CARDAN COMPLETO 16x45x1.5 1633/1938/O400 Codigo Merkansas: 12219 Codigo Original / Similar: 3959900501 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6514",
+        "name": "BULON PORTA CORONA LGO. 12X92 1517 ( X8 )",
+        "brand": "Mercedes Benz",
+        "code": "12270",
+        "image": "img/products/Bulones/bulon-porta-corona-lgo-12x92-1517-x8-12270.jpg",
+        "description": "BULON PORTA CORONA LGO. 12x92 1517 ( x8 ) Codigo Merkansas: 12270 Codigo Original / Similar: 3279900201 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6515",
+        "name": "BULON PORTA CORONA CTO.12X55 1517 ( X4 )",
+        "brand": "Mercedes Benz",
+        "code": "12276",
+        "image": "img/products/Bulones/bulon-porta-corona-cto-12x55-1517-x4-12276.jpg",
+        "description": "BULON PORTA CORONA CTO.12x55 1517 ( x4 ) Codigo Merkansas: 12276 Codigo Original / Similar: 3279900101 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6516",
+        "name": "BULON TAPA CILINDRO 15X109 (6/5) OM447/449",
+        "brand": "Mercedes Benz",
+        "code": "12372",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-15x109-6-5-om447-449-12372.jpg",
+        "description": "BULON TAPA CILINDRO 15X109 (6/5) OM447/449 Codigo Merkansas: 12372 Codigo Original / Similar: 4229900201 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6517",
+        "name": "BULON TAPA CILINDRO -CAB.HEMBRA- 352/366",
+        "brand": "Mercedes Benz",
+        "code": "12373",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-cab-hembra-352-366-12373.jpg",
+        "description": "BULON TAPA CILINDRO -CAB.HEMBRA- 352/366 Codigo Merkansas: 12373 Codigo Original / Similar: 3669900401 Marca: Mercedes Benz Rubro: 050-DISTRIBUCIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "050-DISTRIBUCIÓN"
+    },
+    {
+        "id": "P6518",
+        "name": "JUEGO BULONES TAPA CILINDRO (6/5) 447/49",
+        "brand": "Mercedes Benz",
+        "code": "12374",
+        "image": "img/products/Bulones/juego-bulones-tapa-cilindro-6-5-447-49-12374.jpg",
+        "description": "JUEGO BULONES TAPA CILINDRO (6/5) 447/49 Codigo Merkansas: 12374 Codigo Original / Similar: 4229900301 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6519",
+        "name": "BULON RUEDA 18X85 TRAS. 814",
+        "brand": "Mercedes Benz",
+        "code": "13422",
+        "image": "img/products/Bulones/bulon-rueda-18x85-tras-814-13422.jpg",
+        "description": "BULON RUEDA 18X85 TRAS. 814 Codigo Merkansas: 13422 Codigo Original / Similar: 6754020071 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6521",
+        "name": "BULON RUEDA 14X51 DEL. 608",
+        "brand": "Mercedes Benz",
+        "code": "13424",
+        "image": "img/products/Bulones/bulon-rueda-14x51-del-608-13424.jpg",
+        "description": "BULON RUEDA 14X51 DEL. 608 Codigo Merkansas: 13424 Codigo Original / Similar: 3094000174 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6522",
+        "name": "BULON RUEDA 14X65 TRAS. 608 SPRINTER 413",
+        "brand": "Mercedes Benz",
+        "code": "13426",
+        "image": "img/products/Bulones/bulon-rueda-14x65-tras-608-sprinter-413-13426.jpg",
+        "description": "BULON RUEDA 14X65 TRAS. 608 sprinter 413 Codigo Merkansas: 13426 Codigo Original / Similar: 3094000374 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6523",
+        "name": "BULON RUEDA 18X75 DEL. 814",
+        "brand": "Mercedes Benz",
+        "code": "13427",
+        "image": "img/products/Bulones/bulon-rueda-18x75-del-814-13427.jpg",
+        "description": "BULON RUEDA 18X75 DEL. 814 Codigo Merkansas: 13427 Codigo Original / Similar: 6884000274 6744020074 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6524",
+        "name": "BULON RUEDA 14X57 TRAS. 608",
+        "brand": "Mercedes Benz",
+        "code": "13428",
+        "image": "img/products/Bulones/bulon-rueda-14x57-tras-608-13428.jpg",
+        "description": "BULON RUEDA 14X57 TRAS. 608 Codigo Merkansas: 13428 Codigo Original / Similar: 3094000274 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6526",
+        "name": "BULON RUEDA 18X64 TRAS.710",
+        "brand": "Mercedes Benz",
+        "code": "13429",
+        "image": "img/products/Bulones/bulon-rueda-18x64-tras-710-13429.jpg",
+        "description": "BULON RUEDA 18X64 TRAS.710 Codigo Merkansas: 13429 Codigo Original / Similar: 6884000074 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6527",
+        "name": "BULON RUEDA 18X60 DEL. 710",
+        "brand": "Mercedes Benz",
+        "code": "13430",
+        "image": "img/products/Bulones/bulon-rueda-18x60-del-710-13430.jpg",
+        "description": "BULON RUEDA 18X60 DEL. 710 Codigo Merkansas: 13430 Codigo Original / Similar: 6884000174 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6528",
+        "name": "TUERCA PUNTA EJE C/BULON 608/710",
+        "brand": "Mercedes Benz",
+        "code": "13441",
+        "image": "img/products/Bulones/tuerca-punta-eje-c-bulon-608-710-13441.jpg",
+        "description": "TUERCA PUNTA EJE C/BULON 608/710 Codigo Merkansas: 13441 Codigo Original / Similar: 3143340072 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6529",
+        "name": "BULON ALLEN P/EJE 8 X 25 608",
+        "brand": "Mercedes Benz",
+        "code": "13442",
+        "image": "img/products/Bulones/bulon-allen-p-eje-8-x-25-608-13442.jpg",
+        "description": "BULON ALLEN P/EJE 8 X 25 608 Codigo Merkansas: 13442 Codigo Original / Similar: 000912008202 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6530",
+        "name": "BULON RUEDA COMPL.22X100X30",
+        "brand": "Mercedes Benz",
+        "code": "18993",
+        "image": "img/products/Bulones/bulon-rueda-compl-22x100x30-18993.jpg",
+        "description": "BULON RUEDA COMPL.22x100x30 Codigo Merkansas: 18993 Codigo Original / Similar: 3814000474 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6531",
+        "name": "BULON BOMBA INYECTORA 10X32MM. TODOS",
+        "brand": "Mercedes Benz",
+        "code": "19061",
+        "image": "img/products/Bulones/bulon-bomba-inyectora-10x32mm-todos-19061.jpg",
+        "description": "BULON BOMBA INYECTORA 10X32mm. TODOS Codigo Merkansas: 19061 Marca: Mercedes Benz Rubro: 070-INYECCIÓN Subrubro: INYECCIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "070-INYECCIÓN"
+    },
+    {
+        "id": "P6532",
+        "name": "BULON TAPA REFRIG. 8X38 (35) LEG.TODOS",
+        "brand": "Mercedes Benz",
+        "code": "19074",
+        "image": "img/products/Bulones/bulon-tapa-refrig-8x38-35-leg-todos-19074.jpg",
+        "description": "BULON TAPA REFRIG. 8X38 (35) LEG.TODOS Codigo Merkansas: 19074 Codigo Original / Similar: 000931008054 Marca: Mercedes Benz Rubro: 180-LUBRICACIÓN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "180-LUBRICACIÓN"
+    },
+    {
+        "id": "P6533",
+        "name": "BULON CORONA 14X31X1 1938",
+        "brand": "Mercedes Benz",
+        "code": "19142",
+        "image": "img/products/Bulones/bulon-corona-14x31x1-1938-19142.jpg",
+        "description": "BULON CORONA 14X31X1 1938 Codigo Merkansas: 19142 Codigo Original / Similar: 3189900001 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1633/34/38 (HL7) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6534",
+        "name": "BULON ABRAZADERA CRUCETA 12X25 1938EL.",
+        "brand": "Mercedes Benz",
+        "code": "19156",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-12x25-1938el-19156.jpg",
+        "description": "BULON ABRAZADERA CRUCETA 12X25 1938EL. Codigo Merkansas: 19156 Codigo Original / Similar: 6969907201 Marca: Mercedes Benz Rubro: 410-CARDAN Subrubro: CARDAN Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "410-CARDAN"
+    },
+    {
+        "id": "P6535",
+        "name": "BULON PUNTA EJE 20X70 L/N",
+        "brand": "Mercedes Benz",
+        "code": "19182",
+        "image": "img/products/Bulones/bulon-punta-eje-20x70-l-n-19182.jpg",
+        "description": "BULON PUNTA EJE 20X70 L/N Codigo Merkansas: 19182 Codigo Original / Similar: 308676020003 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6536",
+        "name": "BULON PUNTA EJE 20X100 L/N",
+        "brand": "Mercedes Benz",
+        "code": "19183",
+        "image": "img/products/Bulones/bulon-punta-eje-20x100-l-n-19183.jpg",
+        "description": "BULON PUNTA EJE 20x100 L/N Codigo Merkansas: 19183 Codigo Original / Similar: 308765020004 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6537",
+        "name": "BULON CAJA 18X70 1633",
+        "brand": "Mercedes Benz",
+        "code": "19189",
+        "image": "img/products/Bulones/bulon-caja-18x70-1633-19189.jpg",
+        "description": "BULON CAJA 18X70 1633 Codigo Merkansas: 19189 Codigo Original / Similar: 308676018021 Marca: Mercedes Benz Rubro: 260-CAJA CAMBIO Subrubro: CARCAZA Y TAPAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "260-CAJA CAMBIO"
+    },
+    {
+        "id": "P6538",
+        "name": "TERMINAL ORIENTABLE 6MM.SAL. DOBLE RECTA",
+        "brand": "Mercedes Benz",
+        "code": "19317",
+        "image": "img/products/Bulones/terminal-orientable-6mm-sal-doble-recta-19317.jpg",
+        "description": "TERMINAL ORIENTABLE 6mm.SAL. DOBLE RECTA Codigo Merkansas: 19317 Codigo Original / Similar: 3769900688 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6539",
+        "name": "TERMINAL ORIENTABLE 6MM.DOBLE SALIDA EN V",
+        "brand": "Mercedes Benz",
+        "code": "19318",
+        "image": "img/products/Bulones/terminal-orientable-6mm-doble-salida-en-v-19318.jpg",
+        "description": "TERMINAL ORIENTABLE 6mm.DOBLE SALIDA EN V Codigo Merkansas: 19318 Codigo Original / Similar: 0019907688 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6540",
+        "name": "BULON MULTIPLE ESCAPE 10X46 C/ARANDELA ATEGO/AXOR/OM904/906",
+        "brand": "Mercedes Benz",
+        "code": "19343",
+        "image": "img/products/Bulones/bulon-multiple-escape-10x46-c-arandela-atego-axor-om904-906-19343.jpg",
+        "description": "BULON MULTIPLE ESCAPE 10X46 C/ARANDELA ATEGO/AXOR/OM904/906 Codigo Merkansas: 19343 Codigo Original / Similar: 9049900412 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6541",
+        "name": "BULON CARCAZA DIST.FREZADO ALLEN 10X25 366LA",
+        "brand": "Mercedes Benz",
+        "code": "19381",
+        "image": "img/products/Bulones/bulon-carcaza-dist-frezado-allen-10x25-366la-19381.jpg",
+        "description": "BULON CARCAZA DIST.FREZADO ALLEN 10X25 366LA Codigo Merkansas: 19381 Codigo Original / Similar: 3769900230 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6542",
+        "name": "ARANDELA BULON CARCAZA DIST. 366LA",
+        "brand": "Mercedes Benz",
+        "code": "19381/1",
+        "image": "img/products/Bulones/arandela-bulon-carcaza-dist-366la-19381-1.jpg",
+        "description": "ARANDELA BULON CARCAZA DIST. 366LA Codigo Merkansas: 19381/1 Codigo Original / Similar: 0125010517 3769900041 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6543",
+        "name": "BULON PUNTA EJE 20/18 X 70 VOLTEO L/V",
+        "brand": "Mercedes Benz",
+        "code": "19384",
+        "image": "img/products/Bulones/bulon-punta-eje-20-18-x-70-volteo-l-v-19384.jpg",
+        "description": "BULON PUNTA EJE 20/18 x 70 VOLTEO L/V Codigo Merkansas: 19384 Codigo Original / Similar: 3839900219 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6544",
+        "name": "BULON PUNTA EJE 20/18 X 100 VOLTEO L/V",
+        "brand": "Mercedes Benz",
+        "code": "19385",
+        "image": "img/products/Bulones/bulon-punta-eje-20-18-x-100-volteo-l-v-19385.jpg",
+        "description": "BULON PUNTA EJE 20/18 x 100 VOLTEO L/V Codigo Merkansas: 19385 Codigo Original / Similar: 3839900119 Marca: Mercedes Benz Rubro: 330-EJE DELANTERO Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "330-EJE DELANTERO"
+    },
+    {
+        "id": "P6545",
+        "name": "BULON BRAZO SOPORTE MOTOR A CUBREV.22 X60 1633",
+        "brand": "Mercedes Benz",
+        "code": "19397",
+        "image": "img/products/Bulones/bulon-brazo-soporte-motor-a-cubrev-22-x60-1633-19397.jpg",
+        "description": "BULON BRAZO SOPORTE MOTOR A CUBREV.22 X60 1633 Codigo Merkansas: 19397 Codigo Original / Similar: 000961022012 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6546",
+        "name": "BULON BRAZO SOPORTE MOTOR A CUBREV.22 X85 1633",
+        "brand": "Mercedes Benz",
+        "code": "19398",
+        "image": "img/products/Bulones/bulon-brazo-soporte-motor-a-cubrev-22-x85-1633-19398.jpg",
+        "description": "BULON BRAZO SOPORTE MOTOR A CUBREV.22 X85 1633 Codigo Merkansas: 19398 Codigo Original / Similar: 000960022054 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6547",
+        "name": "BULON REGISTRO CORONA COMP.22X66 608/710/914",
+        "brand": "Mercedes Benz",
+        "code": "19424",
+        "image": "img/products/Bulones/bulon-registro-corona-comp-22x66-608-710-914-19424.jpg",
+        "description": "BULON REGISTRO CORONA COMP.22X66 608/710/914 Codigo Merkansas: 19424 Codigo Original / Similar: 6703530276 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA(HL4) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6548",
+        "name": "BULON MULTIPLE ADMISION 8X90 OM904/906/924/926",
+        "brand": "Mercedes Benz",
+        "code": "19570",
+        "image": "img/products/Bulones/bulon-multiple-admision-8x90-om904-906-924-926-19570.jpg",
+        "description": "BULON MULTIPLE ADMISION 8X90 OM904/906/924/926 Codigo Merkansas: 19570 Codigo Original / Similar: 910105008028 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6549",
+        "name": "BULON CORONA A/B.C/TUERCA 162/19050",
+        "brand": "Mercedes Benz",
+        "code": "35800",
+        "image": "img/products/Bulones/bulon-corona-a-b-c-tuerca-162-19050-35800.jpg",
+        "description": "BULON CORONA A/B.C/TUERCA 162/19050 Codigo Merkansas: 35800 Codigo Original / Similar: 0019900922 44356 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA Y BAJA 1114/1215 EATON Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6550",
+        "name": "TUERCA BULON CORONA EATON",
+        "brand": "Mercedes Benz",
+        "code": "35801",
+        "image": "img/products/Bulones/tuerca-bulon-corona-eaton-35801.jpg",
+        "description": "TUERCA BULON CORONA EATON Codigo Merkansas: 35801 Codigo Original / Similar: 0039902451 60598 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA Y BAJA 1114/1215 EATON Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6551",
+        "name": "BULON BANCADA EATON",
+        "brand": "Mercedes Benz",
+        "code": "35802",
+        "image": "img/products/Bulones/bulon-bancada-eaton-35802.jpg",
+        "description": "BULON BANCADA EATON Codigo Merkansas: 35802 Codigo Original / Similar: 0009902502 14970 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA Y BAJA 1114/1215 EATON Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6552",
+        "name": "BULON CAJA SAT.LARGO EATON 7/16 X 65",
+        "brand": "Mercedes Benz",
+        "code": "35803",
+        "image": "img/products/Bulones/bulon-caja-sat-largo-eaton-7-16-x-65-35803.jpg",
+        "description": "BULON CAJA SAT.LARGO EATON 7/16 X 65 Codigo Merkansas: 35803 Codigo Original / Similar: 0019901022 109238 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA Y BAJA 1114/1215 EATON Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6553",
+        "name": "BULON CAJA CORTO SAT. EATON",
+        "brand": "Mercedes Benz",
+        "code": "35804",
+        "image": "img/products/Bulones/bulon-caja-corto-sat-eaton-35804.jpg",
+        "description": "BULON CAJA CORTO SAT. EATON Codigo Merkansas: 35804 Codigo Original / Similar: 0019901422 126075 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA Y BAJA 1114/1215 EATON Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6554",
+        "name": "BULON TRABA REG.Y P/PIÑON",
+        "brand": "Mercedes Benz",
+        "code": "35805",
+        "image": "img/products/Bulones/bulon-traba-reg-y-p-pinon-35805.jpg",
+        "description": "BULON TRABA REG.Y P/PIÑON Codigo Merkansas: 35805 Codigo Original / Similar: 0019901322 113325 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: ALTA Y BAJA 1114/1215 EATON Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6555",
+        "name": "BULON BANCADA DIF.18X130 1517",
+        "brand": "Mercedes Benz",
+        "code": "38012",
+        "image": "img/products/Bulones/bulon-bancada-dif-18x130-1517-38012.jpg",
+        "description": "BULON BANCADA DIF.18x130 1517 Codigo Merkansas: 38012 Codigo Original / Similar: 914126018003 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1517/1620 (HL5) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6556",
+        "name": "BULON ALLEN GALERA 1938",
+        "brand": "Mercedes Benz",
+        "code": "39212",
+        "image": "img/products/Bulones/bulon-allen-galera-1938-39212.jpg",
+        "description": "BULON ALLEN GALERA 1938 Codigo Merkansas: 39212 Codigo Original / Similar: 0059906104 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: 1633/34/38 (HL7) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6557",
+        "name": "KIT BULONES MOTOR 352A (S/TAPA CIL.)",
+        "brand": "Mercedes Benz",
+        "code": "50010",
+        "image": "img/products/Bulones/kit-bulones-motor-352a-s-tapa-cil-50010.jpg",
+        "description": "KIT BULONES MOTOR 352A (S/TAPA CIL.) Codigo Merkansas: 50010 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6558",
+        "name": "KIT BULONES MOTOR 366 (S/TAPA CIL.)",
+        "brand": "Mercedes Benz",
+        "code": "50010/1",
+        "image": "img/products/Bulones/kit-bulones-motor-366-s-tapa-cil-50010-1.jpg",
+        "description": "KIT BULONES MOTOR 366 (S/TAPA CIL.) Codigo Merkansas: 50010/1 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6559",
+        "name": "KIT DE BULONES Y JUNTAS DE TURBO 352/6",
+        "brand": "Mercedes Benz",
+        "code": "50182",
+        "image": "img/products/Bulones/kit-de-bulones-y-juntas-de-turbo-352-6-50182.jpg",
+        "description": "KIT DE BULONES Y JUNTAS DE TURBO 352/6 Codigo Merkansas: 50182 Marca: Mercedes Benz Rubro: 094-TURBO Subrubro: TURBO LÍNEA VIEJA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "094-TURBO"
+    },
+    {
+        "id": "P6560",
+        "name": "JUNTA (ARANDELA) BULON TAPA SUP.VALV.904/906/924/926",
+        "brand": "Mercedes Benz",
+        "code": "96122",
+        "image": "img/products/Bulones/junta-arandela-bulon-tapa-sup-valv-904-906-924-926-96122.jpg",
+        "description": "JUNTA (ARANDELA) BULON TAPA SUP.VALV.904/906/924/926 Codigo Merkansas: 96122 Codigo Original / Similar: 9060160080 Marca: Mercedes Benz Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6561",
+        "name": "BULON TAPA CILINDRO 12X122 (X26) IVECO 8040/8060",
+        "brand": "OTROS",
+        "code": "4796457",
+        "image": "img/products/Bulones/bulon-tapa-cilindro-12x122-x26-iveco-8040-8060-4796457.jpg",
+        "description": "BULON TAPA CILINDRO 12x122 (x26) IVECO 8040/8060 Codigo Merkansas: 4796457 Codigo Original / Similar: 4796457 Marca: OTROS Rubro: 011-TAPA CILINDRO Y VÁLVULA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "011-TAPA CILINDRO Y VÁLVULA"
+    },
+    {
+        "id": "P6562",
+        "name": "JGO.BULONES T/CILINDRO(18) MB180",
+        "brand": "Mercedes Benz",
+        "code": "MB0109778",
+        "image": "img/products/Bulones/jgo-bulones-t-cilindro-18-mb180-mb0109778.jpg",
+        "description": "JGO.BULONES T/CILINDRO(18) MB180 Codigo Merkansas: MB0109778 Codigo Original / Similar: 6159900112 02/0312 Marca: Mercedes Benz Rubro: 992-MB180 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "992-MB180"
+    },
+    {
+        "id": "P6563",
+        "name": "BULON PUNTA CIGUEÑAL 180",
+        "brand": "Mercedes Benz",
+        "code": "MB0310071",
+        "image": "img/products/Bulones/bulon-punta-ciguenal-180-mb0310071.jpg",
+        "description": "BULON PUNTA CIGUEÑAL 180 Codigo Merkansas: MB0310071 Codigo Original / Similar: 6150310071 Marca: Mercedes Benz Rubro: 992-MB180 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "992-MB180"
+    },
+    {
+        "id": "P6564",
+        "name": "BULON RUEDA MB180",
+        "brand": "Mercedes Benz",
+        "code": "MB3560071",
+        "image": "img/products/Bulones/bulon-rueda-mb180-mb3560071.jpg",
+        "description": "BULON RUEDA MB180 Codigo Merkansas: MB3560071 Codigo Original / Similar: 6313560071 Marca: Mercedes Benz Rubro: 992-MB180 Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "992-MB180"
+    },
+    {
+        "id": "P6566",
+        "name": "JGO.BULONES T/CILINDRO(18) SPR.",
+        "brand": "Mercedes Benz",
+        "code": "T10109778",
+        "image": "img/products/Bulones/jgo-bulones-t-cilindro-18-spr-t10109778.jpg",
+        "description": "JGO.BULONES T/CILINDRO(18) SPR. Codigo Merkansas: T10109778 Codigo Original / Similar: 0099901101 (4) 0099901201 (10) 0099901301 (4) Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6567",
+        "name": "JGO.BULONES T/CILINDRO(10) SPR.611 CDI",
+        "brand": "Mercedes Benz",
+        "code": "T10109779",
+        "image": "img/products/Bulones/jgo-bulones-t-cilindro-10-spr-611-cdi-t10109779.jpg",
+        "description": "JGO.BULONES T/CILINDRO(10) SPR.611 CDI Codigo Merkansas: T10109779 Codigo Original / Similar: 6119901322 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6569",
+        "name": "BULON BIELA CDI 611/651",
+        "brand": "Mercedes Benz",
+        "code": "T10380071",
+        "image": "img/products/Bulones/bulon-biela-cdi-611-651-t10380071.jpg",
+        "description": "BULON BIELA CDI 611/651 Codigo Merkansas: T10380071 Codigo Original / Similar: 1120380071 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6570",
+        "name": "BULON PERFORADO 12MM.LGO. TURBO SPRINTER",
+        "brand": "Mercedes Benz",
+        "code": "T10960490",
+        "image": "img/products/Bulones/bulon-perforado-12mm-lgo-turbo-sprinter-t10960490.jpg",
+        "description": "BULON PERFORADO 12mm.LGO. TURBO SPRINTER Codigo Merkansas: T10960490 Codigo Original / Similar: 0019900463 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6571",
+        "name": "BULON PERFORADO 12MM.CTO. TURBO SPRINTER",
+        "brand": "Mercedes Benz",
+        "code": "T10960590",
+        "image": "img/products/Bulones/bulon-perforado-12mm-cto-turbo-sprinter-t10960590.jpg",
+        "description": "BULON PERFORADO 12mm.CTO. TURBO SPRINTER Codigo Merkansas: T10960590 Codigo Original / Similar: 0009909663 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6572",
+        "name": "BULON POLEA BOMBA AGUA",
+        "brand": "Mercedes Benz",
+        "code": "T12007904",
+        "image": "img/products/Bulones/bulon-polea-bomba-agua-t12007904.jpg",
+        "description": "BULON POLEA BOMBA AGUA Codigo Merkansas: T12007904 Codigo Original / Similar: 0059907904 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6573",
+        "name": "BULON RUEDA 14X60X1.5 SPRINTER SOLO",
+        "brand": "Mercedes Benz",
+        "code": "T14010070",
+        "image": "img/products/Bulones/bulon-rueda-14x60x1-5-sprinter-solo-t14010070.jpg",
+        "description": "BULON RUEDA 14x60x1.5 SPRINTER SOLO Codigo Merkansas: T14010070 Codigo Original / Similar: 9014010070 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6575",
+        "name": "BULON RUEDA 14X34X1.5 SPRINTER",
+        "brand": "Mercedes Benz",
+        "code": "T14010270",
+        "image": "img/products/Bulones/bulon-rueda-14x34x1-5-sprinter-t14010270.jpg",
+        "description": "BULON RUEDA 14x34x1.5 SPRINTER Codigo Merkansas: T14010270 Codigo Original / Similar: 6014010270 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6576",
+        "name": "BULON ABRAZADERA CRUCETA SPRINTER",
+        "brand": "Mercedes Benz",
+        "code": "T14107101",
+        "image": "img/products/Bulones/bulon-abrazadera-cruceta-sprinter-t14107101.jpg",
+        "description": "BULON ABRAZADERA CRUCETA SPRINTER Codigo Merkansas: T14107101 Codigo Original / Similar: 6909907101 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6577",
+        "name": "BULON ARBOL DE LEVAS 10X40 SPRINTER",
+        "brand": "Mercedes Benz",
+        "code": "T15010011",
+        "image": "img/products/Bulones/bulon-arbol-de-levas-10x40-sprinter-t15010011.jpg",
+        "description": "BULON ARBOL DE LEVAS 10x40 SPRINTER Codigo Merkansas: T15010011 Codigo Original / Similar: 910105010011 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6578",
+        "name": "KIT BULONES TAPA CILINDRO CUMMINS.CARGO 1722E/2422E/2622E VW17250E ISB 6 CIL. 26X128",
+        "brand": "Ford/VW",
+        "code": "011-004",
+        "image": "",
+        "description": "Kit bulones tapa cilindro cummins.cargo 1722e/2422e/2622e vw17250e ISB 6 cil. 26x128 Codigo Merkansas: 011-004 Codigo Original / Similar: 09CU0109 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6579",
+        "name": "KIT BULONES TAPA CILINDRO MWM 6.10/6.12 (22+2 UNIDADES)",
+        "brand": "Ford/VW",
+        "code": "011-014",
+        "image": "",
+        "description": "Kit bulones tapa cilindro mwm 6.10/6.12 (22+2 unidades) Codigo Merkansas: 011-014 Codigo Original / Similar: 503120349 961203500024 2RD103385B TAE103385A Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6580",
+        "name": "KIT BULONES TAPA CILINDRO MWM 4.10/4.12 (14+2 UNIDADES)",
+        "brand": "Ford/VW",
+        "code": "011-015",
+        "image": "",
+        "description": "Kit bulones tapa cilindro mwm 4.10/4.12 (14+2 unidades) Codigo Merkansas: 011-015 Codigo Original / Similar: 503120349 961203500024 2RD103385B TAE103385A Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6581",
+        "name": "BULON BIELA CUMMINS ISC/ISL",
+        "brand": "Ford/VW",
+        "code": "030-072",
+        "image": "",
+        "description": "Bulon biela cummins isc/isl Codigo Merkansas: 030-072 Codigo Original / Similar: 3944679 Marca: Ford/VW Rubro: 030-PIEZAS MOTRICES Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "030-PIEZAS MOTRICES"
+    },
+    {
+        "id": "P6582",
+        "name": "BULON SOPORTE MOTOR 16X40 DEL.L/N",
+        "brand": "Mercedes Benz",
+        "code": "00035",
+        "image": "",
+        "description": "BULON SOPORTE MOTOR 16x40 DEL.L/N Codigo Merkansas: 00035 Codigo Original / Similar: 000961016093 Marca: Mercedes Benz Rubro: 240-SUSPENSIÓN DE MOTOR Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "240-SUSPENSIÓN DE MOTOR"
+    },
+    {
+        "id": "P6583",
+        "name": "TERMINAL ORIENTABLE 16/7",
+        "brand": "Mercedes Benz",
+        "code": "00712/1",
+        "image": "",
+        "description": "TERMINAL ORIENTABLE 16/7 Codigo Merkansas: 00712/1 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6584",
+        "name": "BULON PERFORADO 14MM (2 AGUJEROS) PASO 1MM TODOS",
+        "brand": "Mercedes Benz",
+        "code": "00716/3",
+        "image": "",
+        "description": "BULON PERFORADO 14mm (2 agujeros) PASO 1mm TODOS Codigo Merkansas: 00716/3 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6585",
+        "name": "BULON PERFORADO 16/18 DOBLE GAS-OIL 1114",
+        "brand": "Mercedes Benz",
+        "code": "00911/2",
+        "image": "",
+        "description": "BULON PERFORADO 16/18 DOBLE GAS-OIL 1114 Codigo Merkansas: 00911/2 Marca: Mercedes Benz Rubro: 072-BULONES PERFORADOS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "072-BULONES PERFORADOS"
+    },
+    {
+        "id": "P6586",
+        "name": "BULON MULTIPLE ESCAPE 10X70 CTO.447/449",
+        "brand": "Mercedes Benz",
+        "code": "01425/1",
+        "image": "",
+        "description": "BULON MULTIPLE ESCAPE 10x70 CTO.447/449 Codigo Merkansas: 01425/1 Codigo Original / Similar: 4579901201 Marca: Mercedes Benz Rubro: 140-MÚLTIPLES(ADMIS. Y ESCAPE) Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "140-MÚLTIPLES(ADMIS. Y ESCAPE)"
+    },
+    {
+        "id": "P6587",
+        "name": "BULON PERFORADO INYECTOR ACEITE 14MM 447/449",
+        "brand": "Mercedes Benz",
+        "code": "01860/1",
+        "image": "",
+        "description": "BULON PERFORADO INYECTOR ACEITE 14mm 447/449 Codigo Merkansas: 01860/1 Marca: Mercedes Benz Rubro: 010-BLOCK DE MOTOR Y CÁRTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "010-BLOCK DE MOTOR Y CÁRTER"
+    },
+    {
+        "id": "P6588",
+        "name": "BULON 8X15 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "02024",
+        "image": "",
+        "description": "BULON 8X15 TODOS Codigo Merkansas: 02024 Codigo Original / Similar: 000933008131 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6589",
+        "name": "BULON 6X45 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "02025",
+        "image": "",
+        "description": "BULON 6X45 TODOS Codigo Merkansas: 02025 Codigo Original / Similar: 000931006122 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6590",
+        "name": "BULON 10X35 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "02026",
+        "image": "",
+        "description": "BULON 10X35 TODOS Codigo Merkansas: 02026 Codigo Original / Similar: 000933010145 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6591",
+        "name": "BULON 10X85 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "02028",
+        "image": "",
+        "description": "BULON 10x85 TODOS Codigo Merkansas: 02028 Codigo Original / Similar: 000933010272 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6592",
+        "name": "BULON 10X25 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "02045",
+        "image": "",
+        "description": "BULON 10X25 TODOS Codigo Merkansas: 02045 Codigo Original / Similar: 000933010105 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6593",
+        "name": "BULON RUEDA SOLO 20X80 TRAS.1114",
+        "brand": "Mercedes Benz",
+        "code": "03427/9",
+        "image": "",
+        "description": "BULON RUEDA SOLO 20X80 TRAS.1114 Codigo Merkansas: 03427/9 Codigo Original / Similar: 3024020071 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6594",
+        "name": "BULON RUEDA 22X90 SOLO",
+        "brand": "Mercedes Benz",
+        "code": "03446/9",
+        "image": "",
+        "description": "BULON RUEDA 22x90 SOLO Codigo Merkansas: 03446/9 Codigo Original / Similar: 3274020471 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6595",
+        "name": "BULON RUEDA SOLO 22X120",
+        "brand": "Mercedes Benz",
+        "code": "03447/9",
+        "image": "",
+        "description": "BULON RUEDA SOLO 22x120 Codigo Merkansas: 03447/9 Codigo Original / Similar: 3824010771 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6596",
+        "name": "BULON PALIER 16X1.5X45 ATEGO",
+        "brand": "Mercedes Benz",
+        "code": "03451",
+        "image": "",
+        "description": "BULON PALIER 16X1.5X45 ATEGO Codigo Merkansas: 03451 Codigo Original / Similar: 0000005538 000000001130 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: RUEDAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6597",
+        "name": "BULON PALIER 16X1.5X40 AXOR 1933",
+        "brand": "Mercedes Benz",
+        "code": "03459",
+        "image": "",
+        "description": "BULON PALIER 16X1.5X40 AXOR 1933 Codigo Merkansas: 03459 Marca: Mercedes Benz Rubro: 350-EJE TRASERO Subrubro: RUEDAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "350-EJE TRASERO"
+    },
+    {
+        "id": "P6598",
+        "name": "BULON 12X45X1.75 TODOS",
+        "brand": "Mercedes Benz",
+        "code": "03534/1",
+        "image": "",
+        "description": "BULON 12x45x1.75 TODOS Codigo Merkansas: 03534/1 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6599",
+        "name": "BULON 12X140",
+        "brand": "Mercedes Benz",
+        "code": "10631",
+        "image": "",
+        "description": "BULON 12X140 Codigo Merkansas: 10631 Marca: Mercedes Benz Rubro: 990-PIEZAS NORMALIZADAS Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "990-PIEZAS NORMALIZADAS"
+    },
+    {
+        "id": "P6600",
+        "name": "BULON REGISTRO PULMON 3 TRABAS 128MM.",
+        "brand": "Mercedes Benz",
+        "code": "10704/1",
+        "image": "",
+        "description": "BULON REGISTRO PULMON 3 TRABAS 128mm. Codigo Merkansas: 10704/1 Marca: Mercedes Benz Rubro: 421-FRENO AIRE Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "421-FRENO AIRE"
+    },
+    {
+        "id": "P6601",
+        "name": "BULON RUEDA 18X110X27 710 PARA LLANTA",
+        "brand": "Mercedes Benz",
+        "code": "13423",
+        "image": "",
+        "description": "BULON RUEDA 18x110x27 710 PARA LLANTA Codigo Merkansas: 13423 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6602",
+        "name": "BULON RUEDA TRASERO SOLO 14X55 608",
+        "brand": "Mercedes Benz",
+        "code": "13428/9",
+        "image": "",
+        "description": "BULON RUEDA TRASERO SOLO 14x55 608 Codigo Merkansas: 13428/9 Marca: Mercedes Benz Rubro: 400-RUEDA Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "400-RUEDA"
+    },
+    {
+        "id": "P6603",
+        "name": "BULON CARTER 6X20 (X14) OM651",
+        "brand": "Mercedes Benz",
+        "code": "T10005050",
+        "image": "",
+        "description": "BULON CARTER 6X20 (x14) OM651 Codigo Merkansas: T10005050 Codigo Original / Similar: 000000005050 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6604",
+        "name": "JUEGO BULONES TAPA CILINDRO (10) SPRINTER 651 CDI",
+        "brand": "Mercedes Benz",
+        "code": "T10160369",
+        "image": "",
+        "description": "JUEGO BULONES TAPA CILINDRO (10) SPRINTER 651 CDI Codigo Merkansas: T10160369 Codigo Original / Similar: 6510160369 6510160569 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
+    },
+    {
+        "id": "P6605",
+        "name": "BULON RUEDA 14X55X1.5 SPRINTER",
+        "brand": "Mercedes Benz",
+        "code": "T14010071",
+        "image": "",
+        "description": "BULON RUEDA 14x55x1.5 SPRINTER Codigo Merkansas: T14010071 Codigo Original / Similar: 9014010070 Marca: Mercedes Benz Rubro: 993-SPRINTER Fuente: https://www.merkansas.com.ar/productos",
+        "rubro": "993-SPRINTER"
     }
 ];
 
