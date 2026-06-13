@@ -63553,6 +63553,3345 @@ const products = [
         "image": "img/products/Tanque/tanque-deposito-de-compensacion-con-sensor-para-mercedes-benz-o500-53520.png",
         "description": "TANQUE DEPOSITO DE COMPENSACION CON SENSOR PARA MERCEDES BENZ O500 6345000049 TANQUE DEP.DE COMP.C/SENSOR 6345000049 O500 Vehiculo: MERCEDES BENZ Categorias: MERCEDES BENZ, TANQUES, TANQUES DE COMBUSTIBLE",
         "rubro": "TANQUE MERCEDES BENZ"
+    },
+    {
+        "id": "P7287",
+        "name": "HORQUILLA EMBRAGUE CON RODILLOS DE 25MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9980",
+        "image": "img/products/Embrague/horquilla-embrague-con-rodillos-de-25mm-tf-p-technology-9980.jpg",
+        "description": "HORQUILLA EMBRAGUE CON RODILLOS DE 25MM. TF&P TECHNOLOGY 9980 Marca: Tfp Technology Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 R Codigo Original / Similar: 1.667.058 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7288",
+        "name": "HORQUILLA EMBRAGUE CON RODILLOS Y BUJE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9928",
+        "image": "img/products/Embrague/horquilla-embrague-con-rodillos-y-buje-tf-p-technology-9928.jpg",
+        "description": "HORQUILLA EMBRAGUE CON RODILLOS Y BUJE TF&P TECHNOLOGY 9928 Marca: Tfp Technology Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 420 / FH 460 / FH 500 / FH 540 / FM 12 340 / FM 11 370 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / NH 12 380 / NH 12 420 / NH 12 460 / VM (Todos +2004)(Todos con caja de cambios VT manual por cable) Codigo Original / Similar: 8.172.031 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7289",
+        "name": "SERVOEMBRAGUE WABCO DIAMETRO 102MM. CON ACCIONAMIENTO ELECTRONICO TKL",
+        "brand": "TKL",
+        "code": "9889",
+        "image": "img/products/Embrague/servoembrague-wabco-diametro-102mm-con-accionamiento-electronico-tkl-9889.jpg",
+        "description": "SERVOEMBRAGUE WABCO DIAMETRO 102MM. CON ACCIONAMIENTO ELECTRONICO TKL 9889 Marca: TKL Vehiculos compatibles: MERCEDES BENZ: Camiones ACTROS 2646 S / 2646 LS / 2646 LS/33 / 2655 LS/33 Codigo Original / Similar: 000.250.0562 / 000.250.1562 (MERCEDES BENZ) 970.150.001 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7290",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "9567",
+        "image": "img/products/Embrague/cubre-pedal-freno-y-embrague-suporte-rei-9567.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE SUPORTE REI 9567 Marca: Suporte Rei Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FH 420 / FH 460 / FH 500 / FH 540 / FM 7 310 / FM 9 380 / FM 10 320 / FM 10 360 / FM 11 370 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / FMX 370 / FMX 420 / FMX 480 / FMX 500 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 7 R / B 9 R / B 12 R Codigo Original / Similar: 8.144.663 (VOLVO) R-2204 (REI)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7291",
+        "name": "CUBRE PEDAL EMBRAGUE SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "9576",
+        "image": "img/products/Embrague/cubre-pedal-embrague-suporte-rei-9576.jpg",
+        "description": "CUBRE PEDAL EMBRAGUE SUPORTE REI 9576 Marca: Suporte Rei Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC y Bus B 7 R / B 10 M / B 10 R / B 12 B / B 12 R Codigo Original / Similar: 1.576.051 (VOLVO) R-2254 (REI)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7292",
+        "name": "REP. SERVOEMBRAGUE WABCO COMPLETA QUINELATO",
+        "brand": "Quinelato",
+        "code": "9506",
+        "image": "img/products/Embrague/rep-servoembrague-wabco-completa-quinelato-9506.jpg",
+        "description": "REP. SERVOEMBRAGUE WABCO COMPLETA QUINELATO 9506 Marca: Quinelato Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RSD MERCEDES BENZ: Servoembragues WABCO 970.051.454 0 Codigo Original / Similar: 000.250.0162 (MB) 970.051.994 2 (Wabco) QA-1327 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7293",
+        "name": "ASIENTO VALVULA DESCARGA SERVOEMBRAGUE WABCO QUINELATO",
+        "brand": "Quinelato",
+        "code": "9507",
+        "image": "img/products/Embrague/asiento-valvula-descarga-servoembrague-wabco-quinelato-9507.jpg",
+        "description": "ASIENTO VALVULA DESCARGA SERVOEMBRAGUE WABCO QUINELATO 9507 Marca: Quinelato Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 1729/48 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2036 S/36 / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RS / 0500 RSD MERCEDES BENZ: Servoembragues WABCO 970.051.431 0 / 970.051.445 0 / 970.051.454 0 / 970.051.455 0 Codigo Original / Similar: 970.051.599 4 (Wabco) QA-1327A (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7294",
+        "name": "REP. SERVOEMBRAGUE KONSBERG 125MM. QUINELATO",
+        "brand": "Quinelato",
+        "code": "9519",
+        "image": "img/products/Embrague/rep-servoembrague-konsberg-125mm-quinelato-9519.jpg",
+        "description": "REP. SERVOEMBRAGUE KONSBERG 125MM. QUINELATO 9519 Marca: Quinelato Vehiculos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 480 SCANIA: Servoembrague KONSBERG 1000178631AM Codigo Original / Similar: 1.523.399R / 1.784.480R / 1.927.825R (SC) QA-1946 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7295",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (13/16″) TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "9485",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-20-64mm-13-16-trw-varga-9485.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (13/16″) TRW-VARGA 9485 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 / 914 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / L 1634 / LS 1634 / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1728/51 / LS 1938 EL / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 693.295.7006 (MB) RCCE 0071.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7296",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "9446",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-tf-p-technology-9446.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE TF&P TECHNOLOGY 9446 Marca: Tfp Technology Vehiculos compatibles: RENAULT: Camiones RENAULT DXI 380 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 VOLVO: Válvula Pedal Box WABCO 965.001.002 0 Codigo Original / Similar: 1.623.053 / 20.746.915 (VOLVO) 965.001.902 2 (Wabco)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7297",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE 19.05MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "9421",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-19-05mm-trw-varga-9421.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE 19.05MM. TRW-VARGA 9421 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 Codigo Original / Similar: 388.295.7106 / 388.295.7108 (MB) RCCE 0043.2 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7298",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "9417",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-28-57mm-trw-varga-9417.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM TRW-VARGA 9417 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 308.295.7007 / 000.295.8307 (MB) RCCE 0003.3 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7299",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE 22.22MM TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "9419",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-22-22mm-trw-varga-9419.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE 22.22MM TRW-VARGA 9419 Marca: Trw Varga Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (95-98) FORD / VW / CUMMINS / MWM: VW 8140 y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: 2SL/721405 (FORD) C-2605 (Controil) RCCE 0029.7 (VARGA) TF3/721405 / TAR/721405 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7300",
+        "name": "EMBRAGUE VISCOSO OMER",
+        "brand": "Omer",
+        "code": "9307",
+        "image": "img/products/Embrague/embrague-viscoso-omer-9307.jpg",
+        "description": "EMBRAGUE VISCOSO OMER 9307 Marca: Omer Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Pick ups FORD Ranger 3.0 PowerStroke (+2005) Codigo Original / Similar: 6L55/8A616/AA / 5L55/8A616/AA (FORD)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7301",
+        "name": "CILINDRO EMBRAGUE / BOMBA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9238",
+        "image": "img/products/Embrague/cilindro-embrague-bomba-trucktec-9238.jpg",
+        "description": "CILINDRO EMBRAGUE / BOMBA TRUCKTEC 9238 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Codigo Original / Similar: 906.290.0212 / 906.290.0112 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7302",
+        "name": "INTERRUPTOR FRENO MOTOR EN PEDAL EMBRAGUE MA2Ó",
+        "brand": "Ma2o",
+        "code": "9124",
+        "image": "img/products/Embrague/interruptor-freno-motor-en-pedal-embrague-ma2o-9124.jpg",
+        "description": "INTERRUPTOR FRENO MOTOR EN PEDAL EMBRAGUE MA2Ó 9124 Marca: Ma2o Vehiculos compatibles: AGRALE: Agrale Bus MA 7.9 / MA 9.0 / MT 12 / MT 15 FORD / VW / CUMMINS / MWM: Ford Nuevo C1317 / C1517 / C1722 / C1932 / C2632 Codigo Original / Similar: BC45/2W067/BB (FORD)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7303",
+        "name": "HORQUILLA EMBRAGUE SDUBO",
+        "brand": "Sdubo",
+        "code": "9133",
+        "image": "img/products/Embrague/horquilla-embrague-sdubo-9133.jpg",
+        "description": "HORQUILLA EMBRAGUE SDUBO 9133 Marca: Sdubo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Bus 17230 OD / 17280 OT Codigo Original / Similar: 2W0/311551 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7304",
+        "name": "JGO. CUBRE PEDAL FRENO Y EMBRAGUE UNIVERSAL",
+        "brand": "Universal",
+        "code": "9063",
+        "image": "img/products/Embrague/jgo-cubre-pedal-freno-y-embrague-universal-9063.jpg",
+        "description": "JGO. CUBRE PEDAL FRENO Y EMBRAGUE UNIVERSAL 9063 Marca: Universal Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38T/P / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 200 S36 AD / 200 S36 AT / 200 S40 AT / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AT / 800 S44T AT / 800 S48T AS / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ECOLINE 260 E28 / TECTOR ATTACK ECOLINE 170 E22 / 170 E28 / 240 E22 / TRAKKER 380 T38 / 380 T42 / 410 T38 AD / 410 T44 AD / 410 T48 AD / 720 T42T / TRAKKER ECOLINE 310 T36 AD / 380 T44 AD / 740 T48T AD y Bus CC 118 E20 (GNC) / CC 118 E22 / CC 170 E22 Codigo Original / Similar: 8138108 (X 2) (IVECO)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7305",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE UNIVERSAL",
+        "brand": "Universal",
+        "code": "9019",
+        "image": "img/products/Embrague/cubre-pedal-freno-y-embrague-universal-9019.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE UNIVERSAL 9019 Marca: Universal Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Codigo Original / Similar: 319.292.0082 (MB) 50477 (UNIVERSAL)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7306",
+        "name": "GUARDAPOLVO CARCAZA / CILINDRO DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "8999",
+        "image": "img/products/Embrague/guardapolvo-carcaza-cilindro-de-embrague-imp-8999.jpg",
+        "description": "GUARDAPOLVO CARCAZA / CILINDRO DE EMBRAGUE IMP. 8999 Marca: Imp Vehiculos compatibles: SCANIA: Camiones T 112 / T 142 / R 113 / T 113 / R 143 / T 143 y Bus K 113 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Codigo Original / Similar: 1.307.793 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7307",
+        "name": "RESORTE PEDAL EMBRAGUE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8940",
+        "image": "img/products/Embrague/resorte-pedal-embrague-tf-p-technology-8940.jpg",
+        "description": "RESORTE PEDAL EMBRAGUE TF&P TECHNOLOGY 8940 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus F 113 / K 113 / F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.319.522 / 1.409.551 / 1.391.676 (SC)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7308",
+        "name": "INTERRUPTOR PEDAL EMBRAGUE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "8896",
+        "image": "img/products/Embrague/interruptor-pedal-embrague-tf-p-technology-8896.jpg",
+        "description": "INTERRUPTOR PEDAL EMBRAGUE TF&P TECHNOLOGY 8896 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB Codigo Original / Similar: 1.360.842 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7309",
+        "name": "CARCAZA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8739",
+        "image": "img/products/Embrague/carcaza-embrague-cipec-8739.jpg",
+        "description": "CARCAZA EMBRAGUE CIPEC 8739 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Codigo Original / Similar: 1.443.109 / 1.443.199 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7310",
+        "name": "VARILLA SERVO EMBRAGUE / LARGO 365MM. CIPEC",
+        "brand": "Cipec",
+        "code": "8745",
+        "image": "img/products/Embrague/varilla-servo-embrague-largo-365mm-cipec-8745.jpg",
+        "description": "VARILLA SERVO EMBRAGUE / LARGO 365MM. CIPEC 8745 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 Codigo Original / Similar: 1.670.942 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7311",
+        "name": "SERVOEMBRAGUE TACHO LARGO NTI",
+        "brand": "Nti",
+        "code": "8752",
+        "image": "img/products/Embrague/servoembrague-tacho-largo-nti-8752.jpg",
+        "description": "SERVOEMBRAGUE TACHO LARGO NTI 8752 Marca: Nti Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1722 / 1723 / 1729 / 3129 Codigo Original / Similar: 970.051.120 0 / 970.051.025 0 (Wabco) BC45/7K626/AB / CC45/7K626/AB (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7312",
+        "name": "TAPA INFERIOR CARCAZA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8734",
+        "image": "img/products/Embrague/tapa-inferior-carcaza-embrague-cipec-8734.jpg",
+        "description": "TAPA INFERIOR CARCAZA EMBRAGUE CIPEC 8734 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Codigo Original / Similar: 1.397.161 / 1.740.317 / 1.771.052 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7313",
+        "name": "CRAPODINA EMBRAGUE HIDRAULICA HCS",
+        "brand": "Hcs",
+        "code": "8694",
+        "image": "img/products/Embrague/crapodina-embrague-hidraulica-hcs-8694.jpg",
+        "description": "CRAPODINA EMBRAGUE HIDRAULICA HCS 8694 Marca: Hcs Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW AMAROK 2.0 TDI 16V. +2010 Codigo Original / Similar: 0C6/141671/D (VW) 13-H21 (HCS) 3203 (Sachs) 510015810 (Luk) VKCH-3605234 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7314",
+        "name": "HORQUILLA EMBRAGUE CON RODILLOS TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "8698",
+        "image": "img/products/Embrague/horquilla-embrague-con-rodillos-trucktec-8698.jpg",
+        "description": "HORQUILLA EMBRAGUE CON RODILLOS TRUCKTEC 8698 Marca: Trucktec Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FH 13 400 / FH 13 440 / FH 13 480 / FH 420 / FH 460 / FH 500 / FH 540 / FM 12 340 / FM 11 370 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 370 / FM 380 / FM 420 / NH 12 380 / NH 12 420 / NH 12 460 / VM (Todos +2004)(Todos con caja de cambios VT manual por cable) Codigo Original / Similar: 8.172.031 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7315",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8590",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-cipec-8590.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE CIPEC 8590 Marca: Cipec Vehiculos compatibles: RENAULT: Camiones RENAULT DXI 380 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 VOLVO: Válvula Pedal Box WABCO 965.001.002 0 Codigo Original / Similar: 1.623.053 / 20.746.915 (VOLVO) 5001857546 / 5001864263 (RENAULT) 965.001.902 2 (Wabco)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7316",
+        "name": "HORQUILLA EMBRAGUE COMPLETA CIPEC",
+        "brand": "Cipec",
+        "code": "8571",
+        "image": "img/products/Embrague/horquilla-embrague-completa-cipec-8571.jpg",
+        "description": "HORQUILLA EMBRAGUE COMPLETA CIPEC 8571 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 (+08/2003) Codigo Original / Similar: 1.479.577 / 1.479.578 / 1.543.645 (SCANIA) 1.545.625 / 1.737.306 (SCANIA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7317",
+        "name": "SERVOEMBRAGUE 100MM. WABCO SIN INDICADOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "8463",
+        "image": "img/products/Embrague/servoembrague-100mm-wabco-sin-indicador-de-desgaste-f-s-s-8463.jpg",
+        "description": "SERVOEMBRAGUE 100MM. WABCO SIN INDICADOR DE DESGASTE F.S.S 8463 Marca: F S S Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / ATEGO 1725 / ATRON 1720 y Bus OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Codigo Original / Similar: 001.295.5607 / 000.254.1447 (MB) 970.051.128 0 (Wabco) TAR/721257 (VW) XC45/7K626/AA (FORD)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7318",
+        "name": "SERVOEMBRAGUE F.S.S",
+        "brand": "F S S",
+        "code": "8464",
+        "image": "img/products/Embrague/servoembrague-f-s-s-8464.jpg",
+        "description": "SERVOEMBRAGUE F.S.S 8464 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones 2428 / ATEGO 1725 / 2425/48 Codigo Original / Similar: 000.295.3418 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7319",
+        "name": "SOPORTE FIJACION SERVOEMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8285",
+        "image": "img/products/Embrague/soporte-fijacion-servoembrague-cipec-8285.jpg",
+        "description": "SOPORTE FIJACION SERVOEMBRAGUE CIPEC 8285 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 y Bus K 112 Codigo Original / Similar: 297.743 (SC)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7320",
+        "name": "PALANCA EJE DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8286",
+        "image": "img/products/Embrague/palanca-eje-de-embrague-cipec-8286.jpg",
+        "description": "PALANCA EJE DE EMBRAGUE CIPEC 8286 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 363.355 / 335.730 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7321",
+        "name": "COJINETE DE LA CARCAZA DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8287",
+        "image": "img/products/Embrague/cojinete-de-la-carcaza-de-embrague-cipec-8287.jpg",
+        "description": "COJINETE DE LA CARCAZA DE EMBRAGUE CIPEC 8287 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 / R 143 / T 143 y Bus K 113 Codigo Original / Similar: 380.610 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7322",
+        "name": "HORQUILLA SERVOEMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8288",
+        "image": "img/products/Embrague/horquilla-servoembrague-cipec-8288.jpg",
+        "description": "HORQUILLA SERVOEMBRAGUE CIPEC 8288 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 y Bus F 113 / K 113 Codigo Original / Similar: 526.267 / 1.120.881 / 345.360 (SC)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7323",
+        "name": "ANILLO PRESION CRAPODINA DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8284",
+        "image": "img/products/Embrague/anillo-presion-crapodina-de-embrague-cipec-8284.jpg",
+        "description": "ANILLO PRESION CRAPODINA DE EMBRAGUE CIPEC 8284 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / R 113 / T 113 y Bus K 112 / F 113 / K 113 Codigo Original / Similar: 294.837 / 352.722 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7324",
+        "name": "RODILLO HORQUILLA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8215",
+        "image": "img/products/Embrague/rodillo-horquilla-embrague-cipec-8215.jpg",
+        "description": "RODILLO HORQUILLA EMBRAGUE CIPEC 8215 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 113 Codigo Original / Similar: 355.708 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7325",
+        "name": "PLAQUETA EN PATAS DE EMBRAGUE 18 X 109MM. UGR",
+        "brand": "UGR",
+        "code": "8085",
+        "image": "img/products/Embrague/plaqueta-en-patas-de-embrague-18-x-109mm-ugr-8085.jpg",
+        "description": "PLAQUETA EN PATAS DE EMBRAGUE 18 X 109MM. UGR 8085 Marca: UGR Vehiculos compatibles: MERCEDES BENZ: Bus 0370 / 0373 RSD Codigo Original / Similar: 000.252.1245 / 000.252.1745 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7326",
+        "name": "EJE HORQUILLA DE EMBRAGUE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "8086",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-trucktec-8086.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE TRUCKTEC 8086 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: 655.254.0206 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7327",
+        "name": "REP. HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "8087",
+        "image": "img/products/Embrague/rep-horquilla-embrague-imp-8087.jpg",
+        "description": "REP. HORQUILLA EMBRAGUE IMP. 8087 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M- 96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0371 RS / 0371 RSD / 0371 RSD / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: + 000.254.0335 (MB) 001.992.8401 (X2) + 000.254.0017 (X2) (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7328",
+        "name": "RODAMIENTO A AGUJAS PALANCA DE CAMBIOS / PEDAL DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "8093",
+        "image": "img/products/Embrague/rodamiento-a-agujas-palanca-de-cambios-pedal-de-embrague-imp-8093.jpg",
+        "description": "RODAMIENTO A AGUJAS PALANCA DE CAMBIOS / PEDAL DE EMBRAGUE IMP. 8093 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 / L 710/42 / 712 C / 912/42 / 914 / 914 C / 1214 C / 1215 C / L 1215 / LK 1218 / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 A / 1718 K / 1720 A / 1720 K / 1721 S / 1722 S / 1728//51 / L 1938 / LS 1938 / LS 1941 / LS 1938 EL / 1938 S / LK 2318 / LB 2325 / LK 2325 / LK 2418 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1215 / OF 1315 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1315 / OH 1316 / OHL 1316 / OH 1318 / OH 1320 / OHL 1320 / OH 1418/52 / OHL 1420 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0371 UP / 0400 UP / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD / 0500 MA 2836 Codigo Original / Similar: 010.981.8010 / 011.981.2910 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7329",
+        "name": "SOPORTE CARCAZA EMBRAGUE / MODELO NUEVO CIPEC",
+        "brand": "Cipec",
+        "code": "8021",
+        "image": "img/products/Embrague/soporte-carcaza-embrague-modelo-nuevo-cipec-8021.jpg",
+        "description": "SOPORTE CARCAZA EMBRAGUE / MODELO NUEVO CIPEC 8021 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 / P 94 y Bus K 94 IB / F 94 / K 124 EB / K 124 IB Codigo Original / Similar: 1.386.451 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7330",
+        "name": "RODILLO CENTRAL HORQUILLA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8022",
+        "image": "img/products/Embrague/rodillo-central-horquilla-embrague-cipec-8022.jpg",
+        "description": "RODILLO CENTRAL HORQUILLA EMBRAGUE CIPEC 8022 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 / P 94 y Bus K 94 IB / F 94 / K 124 EB / K 124 IB Codigo Original / Similar: 1.386.452 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7331",
+        "name": "VARILLA EMPUJE SERVOEMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "8015",
+        "image": "img/products/Embrague/varilla-empuje-servoembrague-cipec-8015.jpg",
+        "description": "VARILLA EMPUJE SERVOEMBRAGUE CIPEC 8015 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 / R 143 / T 113 y Bus K 113 Codigo Original / Similar: 1.332.207 (SC)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7332",
+        "name": "BUJE RODAMIENTO SOPORTE CARCAZA DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7980",
+        "image": "img/products/Embrague/buje-rodamiento-soporte-carcaza-de-embrague-cipec-7980.jpg",
+        "description": "BUJE RODAMIENTO SOPORTE CARCAZA DE EMBRAGUE CIPEC 7980 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 113 Codigo Original / Similar: 348.907 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7333",
+        "name": "NIPLE CILINDRO EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7995",
+        "image": "img/products/Embrague/niple-cilindro-embrague-cipec-7995.jpg",
+        "description": "NIPLE CILINDRO EMBRAGUE CIPEC 7995 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / R 380 / R 420 / R 500 / R 580 V8 y Bus F 94 HB / K 94 IB / L 94 HB / K 270 / K 310 Codigo Original / Similar: 813.196 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7334",
+        "name": "REPARACION HORQUILLA EMBRAGUE / +08/2003 NTI",
+        "brand": "Nti",
+        "code": "7813",
+        "image": "img/products/Embrague/reparacion-horquilla-embrague-08-2003-nti-7813.jpg",
+        "description": "REPARACION HORQUILLA EMBRAGUE / +08/2003 NTI 7813 Marca: Nti Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 Codigo Original / Similar: 1.543.645X / 1.545.625X / 2.086.024X (SC) 1.737.306X / 1.479.577X / 1.479.578X (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7335",
+        "name": "SERVOEMBRAGUE WABCO NTI",
+        "brand": "Nti",
+        "code": "7796",
+        "image": "img/products/Embrague/servoembrague-wabco-nti-7796.jpg",
+        "description": "SERVOEMBRAGUE WABCO NTI 7796 Marca: Nti Vehiculos compatibles: IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46Z Codigo Original / Similar: 5801314040 (IVECO) 970.051.227 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7336",
+        "name": "TACHO SERVOEMBRAGUE NTI",
+        "brand": "Nti",
+        "code": "7797",
+        "image": "img/products/Embrague/tacho-servoembrague-nti-7797.jpg",
+        "description": "TACHO SERVOEMBRAGUE NTI 7797 Marca: Nti Vehiculos compatibles: IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46Z IVECO: Servoembragues WABCO 970.051.227 0 (5801314040) Codigo Original / Similar: 970.051.227 0C (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7337",
+        "name": "PERNO CILINDRICO VASTAGO SERVOEMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7763",
+        "image": "img/products/Embrague/perno-cilindrico-vastago-servoembrague-cipec-7763.jpg",
+        "description": "PERNO CILINDRICO VASTAGO SERVOEMBRAGUE CIPEC 7763 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 808.214 (SC)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7338",
+        "name": "HORQUILLA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7769",
+        "image": "img/products/Embrague/horquilla-embrague-cipec-7769.jpg",
+        "description": "HORQUILLA EMBRAGUE CIPEC 7769 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones 112 HW / R 113 / T 113 / R 143 / T 143 y Bus K 113 Codigo Original / Similar: 1.305.936 / 382.412 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7339",
+        "name": "RODILLO HORQUILLA EMBRAGUE COMPLETO IMP.",
+        "brand": "Imp",
+        "code": "7775",
+        "image": "img/products/Embrague/rodillo-horquilla-embrague-completo-imp-7775.jpg",
+        "description": "RODILLO HORQUILLA EMBRAGUE COMPLETO IMP. 7775 Marca: Imp Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 113 / F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.335.485 / 1.753.479 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7340",
+        "name": "HORQUILLA EMBRAGUE 6/8 MARCHAS CIPEC",
+        "brand": "Cipec",
+        "code": "7778",
+        "image": "img/products/Embrague/horquilla-embrague-6-8-marchas-cipec-7778.jpg",
+        "description": "HORQUILLA EMBRAGUE 6/8 MARCHAS CIPEC 7778 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 113 Codigo Original / Similar: 1.336.382 / 1.386.480 (SC) 1.386.450 / 1.307.717 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7341",
+        "name": "HORQUILLA DE EMBRAGUE / NODULAR CIPEC",
+        "brand": "Cipec",
+        "code": "7754",
+        "image": "img/products/Embrague/horquilla-de-embrague-nodular-cipec-7754.jpg",
+        "description": "HORQUILLA DE EMBRAGUE / NODULAR CIPEC 7754 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 342.837 / 362.043 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7342",
+        "name": "SEGURO TRABA ESCLAVO EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7591",
+        "image": "img/products/Embrague/seguro-traba-esclavo-embrague-cipec-7591.jpg",
+        "description": "SEGURO TRABA ESCLAVO EMBRAGUE CIPEC 7591 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Codigo Original / Similar: 1.390.025 (SC)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7343",
+        "name": "BUJE EJE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "7514",
+        "image": "img/products/Embrague/buje-eje-embrague-cipec-7514.jpg",
+        "description": "BUJE EJE EMBRAGUE CIPEC 7514 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 357.591 / 174.862 (SC)",
+        "rubro": "PARTES VARIAS"
+    },
+    {
+        "id": "P7344",
+        "name": "CRAPODINA EMBRAGUE / CON SEGURO ANILLO (Altura 77mm. / Diam. 58.5mm.) THE",
+        "brand": "The",
+        "code": "7098",
+        "image": "img/products/Embrague/crapodina-embrague-con-seguro-anillo-altura-77mm-diam-58-5mm-the-7098.jpg",
+        "description": "CRAPODINA EMBRAGUE / CON SEGURO ANILLO (Altura 77mm. / Diam. 58.5mm.) THE 7098 Marca: The Vehiculos compatibles: VOLVO: Bus B 7 R (Todos con Embrague SACHS de 430mm.) Codigo Original / Similar: 3.192.224 (VOLVO) 33365RR (THE) 3365 (Sachs) F-112225 (INA) RDL-1352 (NWO) VKC-4708 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7345",
+        "name": "CRAPODINA EMBRAGUE / CON SEGURO ANILLO (Altura 84mm. / Diam. 58.5mm.) THE",
+        "brand": "The",
+        "code": "7101",
+        "image": "img/products/Embrague/crapodina-embrague-con-seguro-anillo-altura-84mm-diam-58-5mm-the-7101.jpg",
+        "description": "CRAPODINA EMBRAGUE / CON SEGURO ANILLO (Altura 84mm. / Diam. 58.5mm.) THE 7101 Marca: The Vehiculos compatibles: VOLVO: Bus B 10 M (Con Embrague SACHS de 430mm.) Codigo Original / Similar: 3192226 (VOLVO) 33355RR (THE) 3355 (Sachs) F-122210 (INA) RDL-1315 (NWO) VKC-4659 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7346",
+        "name": "BUJE BARRA ESTABILIZADORA DEL EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "7078",
+        "image": "img/products/Embrague/buje-barra-estabilizadora-del-embrague-imp-7078.jpg",
+        "description": "BUJE BARRA ESTABILIZADORA DEL EMBRAGUE IMP. 7078 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (93-98) Codigo Original / Similar: C1AA/7543 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7347",
+        "name": "TACHO SERVOEMBRAGUE WABCO F.S.S",
+        "brand": "F S S",
+        "code": "7047",
+        "image": "img/products/Embrague/tacho-servoembrague-wabco-f-s-s-7047.jpg",
+        "description": "TACHO SERVOEMBRAGUE WABCO F.S.S 7047 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RS / 0500 RSD MERCEDES BENZ: Servoembragues WABCO 970.051.431 0 / 970.051.445 0 / 970.051.454 0 Codigo Original / Similar: 970.051.033 2 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7348",
+        "name": "TUERCA RACORD CONEXIÓN CILINDRO DE EMBRAGUE AL SERVOEMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6979",
+        "image": "img/products/Embrague/tuerca-racord-conexion-cilindro-de-embrague-al-servoembrague-imp-6979.jpg",
+        "description": "TUERCA RACORD CONEXIÓN CILINDRO DE EMBRAGUE AL SERVOEMBRAGUE IMP. 6979 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RS / 0500 RSD Codigo Original / Similar: 001.997.5171 (MB)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P7349",
+        "name": "INTERRUPTOR PEDAL EMBRAGUE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6947",
+        "image": "img/products/Embrague/interruptor-pedal-embrague-trucktec-6947.jpg",
+        "description": "INTERRUPTOR PEDAL EMBRAGUE TRUCKTEC 6947 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI / 415 CDI / 515 CDI Codigo Original / Similar: 006.545.1014 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7350",
+        "name": "CILINDRO ACTUADOR DE EMBRAGUE / ESCLAVO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6952",
+        "image": "img/products/Embrague/cilindro-actuador-de-embrague-esclavo-trucktec-6952.jpg",
+        "description": "CILINDRO ACTUADOR DE EMBRAGUE / ESCLAVO TRUCKTEC 6952 Marca: Trucktec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Codigo Original / Similar: 1.455.730 / 1.393.332 / 551.572 (SC) 3378 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7351",
+        "name": "KIT EMBRAGUE SIN CRAPODINA / DIAM. 395MM. / 18 ESTRIAS VALEO",
+        "brand": "Valeo",
+        "code": "6602",
+        "image": "img/products/Embrague/kit-embrague-sin-crapodina-diam-395mm-18-estrias-valeo-6602.jpg",
+        "description": "KIT EMBRAGUE SIN CRAPODINA / DIAM. 395MM. / 18 ESTRIAS VALEO 6602 Marca: Valeo Vehiculos compatibles: MERCEDES BENZ: OM 906 LA 2423 B / 2423 K Caja FS-6209-A MERCEDES BENZ: OM 906 LA L 1624 / ATEGO 1725 / 2425/48 y Bus 0500 M 1725 / 0500 U 1725 Caja G 85-6 MERCEDES BENZ: OM 924 LA ATEGO 1419 / 1720 / 1721 y OF 1722 Caja G 85-6 MERCEDES BENZ: OM 926 LA ATEGO 1726 / 1729 / 2426 / 2730 B / 2730 K / 2730/48 y Bus OF 1724 Codigo Original / Similar: 020.250.7703 + 007.250.2304 (MB) 232535 (VALEO) 6650 (Sachs)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7352",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "6482",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-19-05mm-freno-silent-6482.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. FRENO:SILENT 6482 Marca: Frenosilent Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 (96-98)(Con Motor Maxion) Codigo Original / Similar: 2S4/721405/RB (FORD) RCCE 0050.0 / Ate 6423 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7353",
+        "name": "CILINDRO EMBRAGUE DIAM. 1 1/2″ / HIERRO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6451",
+        "image": "img/products/Embrague/cilindro-embrague-diam-1-1-2-hierro-industria-argentina-6451.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 1 1/2″ / HIERRO INDUSTRIA ARGENTINA 6451 Marca: Industria Argentina Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 17-280 / 240 E28 / 240 E28S / 240-280 / 24-280 / 260 E28 / 260 E30 / 310 E28 / 31-280 / TECTOR ECOLINE ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 Codigo Original / Similar: 4854828 / 7145931 / 2505616 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7354",
+        "name": "CILINDRO EMBRAGUE DIAM. 1 1/8” / FAG / HIERRO A-TECH",
+        "brand": "A Tech",
+        "code": "6428",
+        "image": "img/products/Embrague/cilindro-embrague-diam-1-1-8-fag-hierro-a-tech-6428.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 1 1/8” / FAG / HIERRO A-TECH 6428 Marca: A Tech Vehiculos compatibles: VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC y Bus B 10 M / B 10 R / B 12 B / B 12 R Codigo Original / Similar: 1.620.462 / 1.669.488 / 8.126.730 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7355",
+        "name": "CILINDRO EMBRAGUE DIAM. 1 1/8” CON VASTAGO DE EMPUJE / HIERRO A-TECH",
+        "brand": "A Tech",
+        "code": "6429",
+        "image": "img/products/Embrague/cilindro-embrague-diam-1-1-8-con-vastago-de-empuje-hierro-a-tech-6429.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 1 1/8” CON VASTAGO DE EMPUJE / HIERRO A-TECH 6429 Marca: A Tech Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 R VOLVO: Motores VOLVO D 10 B / D 12 A / D 12 C / D 12 D (-2004) Codigo Original / Similar: 1.628.218 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7356",
+        "name": "CILINDRO EMBRAGUE DIAM. 23.81MM. / ALUMINIO A-TECH",
+        "brand": "A Tech",
+        "code": "6430",
+        "image": "img/products/Embrague/cilindro-embrague-diam-23-81mm-aluminio-a-tech-6430.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 23.81MM. / ALUMINIO A-TECH 6430 Marca: A Tech Vehiculos compatibles: VOLVO: Camiones F 4 / F 6 / F 7 / FL 4 / FL 6 Codigo Original / Similar: 3.127.318 / 3.953.328 (VOLVO) 6.857.432 / 6.028.036 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7357",
+        "name": "CILINDRO EMBRAGUE DIAM. 20.64MM. / PLASTICO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6431",
+        "image": "img/products/Embrague/cilindro-embrague-diam-20-64mm-plastico-trucktec-6431.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 20.64MM. / PLASTICO TRUCKTEC 6431 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / 1938 S / ATEGO 1418 / 1725 / 2425/48 Codigo Original / Similar: 001.295.9106 / 002.295.9106 (MB) 958.295.0006 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7358",
+        "name": "CILINDRO EMBRAGUE DIAM. 19.05MM. / PLASTICO CIPEC",
+        "brand": "Cipec",
+        "code": "6432",
+        "image": "img/products/Embrague/cilindro-embrague-diam-19-05mm-plastico-cipec-6432.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 19.05MM. / PLASTICO CIPEC 6432 Marca: Cipec Vehiculos compatibles: MERCEDES BENZ: Camiones 710/42 / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus LO 812 / LO 814 Codigo Original / Similar: 002.295.0206 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7359",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. / HIERRO FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "6433",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-19-05mm-hierro-freno-silent-6433.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. / HIERRO FRENO:SILENT 6433 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 000.295.7706 / 308.295.7006 (MB) RCCE 0004.1 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7360",
+        "name": "CILINDRO EMBRAGUE DIAM. 23.81MM. / HIERRO A-TECH",
+        "brand": "A Tech",
+        "code": "6434",
+        "image": "img/products/Embrague/cilindro-embrague-diam-23-81mm-hierro-a-tech-6434.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 23.81MM. / HIERRO A-TECH 6434 Marca: A Tech Vehiculos compatibles: MERCEDES BENZ: Bus OF 1214 / OH 1314/46 Codigo Original / Similar: 001.295.2906/ 000.295.6806/ 001.295.6006 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7361",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 23.81MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "6435",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-23-81mm-trw-varga-6435.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 23.81MM. TRW-VARGA 6435 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 / 914 C / L 1215 / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1624 / L 1632 / LS 1632 / L 1634 / L 1634 / LS 1634 / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1728/51 / L 1938 / LS 1938 EL / LK 2318 / LB 2325 / LK 2325 / 2423 B / 2423 K / 2428 / LK 2418 / L 2638/54 / 2726 B / 2726 K y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1215 / OF 1315 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 / OH 1315 L-SB / OH 1316 / OH 1318 / OH 1320 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 001.295.5306 / 384.295.7006 (MB) RCCE 0033.5 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7362",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 38.10MM. (1 1/2”) / HIERRO FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "6436",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-38-10mm-1-1-2-hierro-freno-silent-6436.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 38.10MM. (1 1/2”) / HIERRO FRENO:SILENT 6436 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1615 / LK 1618/45 / L 1620 / 1718 K / LK 2318 / LB 2325 / LK 2325 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1318 / OH 1419 / OH 1420 / 0370 / 0373 RSD / 0400 UP Codigo Original / Similar: 345.295.7007 / 001.295.9407 (MB) 384.295.7307 / 384.295.7107 (MB) RCCE 0024.6 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7363",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM. / HIERRO FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "6437",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-28-57mm-hierro-freno-silent-6437.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM. / HIERRO FRENO:SILENT 6437 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 308.295.7007 / 000.295.8307 (MB) RCCE 0003.3 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7364",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM. / HIERRO A-TECH",
+        "brand": "A Tech",
+        "code": "6438",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-28-57mm-hierro-a-tech-6438.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM. / HIERRO A-TECH 6438 Marca: A Tech Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 y Bus LO 914 / LO 915 / LO 916 Codigo Original / Similar: 002.295.1607 / 002.295.2507 (MB) 671228G (FTE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7365",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 25.4MM. / HIERRO A-TECH",
+        "brand": "A Tech",
+        "code": "6440",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-25-4mm-hierro-a-tech-6440.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 25.4MM. / HIERRO A-TECH 6440 Marca: A Tech Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / CAVALLINO 180 E32 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 Codigo Original / Similar: 4853409 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7366",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM. / HIERRO A-TECH",
+        "brand": "A Tech",
+        "code": "6442",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-31-75mm-hierro-a-tech-6442.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM. / HIERRO A-TECH 6442 Marca: A Tech Vehiculos compatibles: IVECO: Camiones EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / EUROTECH 450 E37 / 450 E37T / 450 E37T/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER MP 450 E37T Codigo Original / Similar: 4853408 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7367",
+        "name": "CILINDRO EMBRAGUE DIAM. 24MM. / ALUMINIO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "6424",
+        "image": "img/products/Embrague/cilindro-embrague-diam-24mm-aluminio-tf-p-technology-6424.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 24MM. / ALUMINIO TF&P TECHNOLOGY 6424 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.927.829 / 1.800.442 / 1.523.400 (SC) 631522AM (Konsberg)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7368",
+        "name": "SERVOEMBRAGUE WABCO F.S.S",
+        "brand": "F S S",
+        "code": "6367",
+        "image": "img/products/Embrague/servoembrague-wabco-f-s-s-6367.jpg",
+        "description": "SERVOEMBRAGUE WABCO F.S.S 6367 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RSD Codigo Original / Similar: 000.254.1247 (MB) 970.051.454 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7369",
+        "name": "REP. SERVOEMBRAGUE WABCO COMPLETA F.S.S",
+        "brand": "F S S",
+        "code": "6368",
+        "image": "img/products/Embrague/rep-servoembrague-wabco-completa-f-s-s-6368.jpg",
+        "description": "REP. SERVOEMBRAGUE WABCO COMPLETA F.S.S 6368 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RSD MERCEDES BENZ: Servoembragues WABCO 970.051.454 0 Codigo Original / Similar: 000.250.0162 (MB) 970.051.994 2 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7370",
+        "name": "HORQUILLA EMBRAGUE SIN RODILLOS INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "6251",
+        "image": "img/products/Embrague/horquilla-embrague-sin-rodillos-industria-argentina-6251.jpg",
+        "description": "HORQUILLA EMBRAGUE SIN RODILLOS INDUSTRIA ARGENTINA 6251 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / ATEGO 1418 / 1725 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L- SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 Codigo Original / Similar: 970.254.0408/ 970.254.0508/ 970.254.0308 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7371",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE 22MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "6196",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-22mm-trw-varga-6196.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE 22MM. TRW-VARGA 6196 Marca: Trw Varga Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e Codigo Original / Similar: E5HT/7A543/BA (FORD) RCCE 0068-0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7372",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE 22MM. CIPEC",
+        "brand": "Cipec",
+        "code": "6198",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-22mm-cipec-6198.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE 22MM. CIPEC 6198 Marca: Cipec Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (95-98) FORD / VW / CUMMINS / MWM: VW 8140 y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: 2SL/721405 (FORD / VW / CUMMINS / MWM) C-2605 (Controil) RCCE 0029-7 (VARGA) TF3/721405 / TAR/721405 (VW)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7373",
+        "name": "RODILLO HORQUILLA DE EMBRAGUE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6177",
+        "image": "img/products/Embrague/rodillo-horquilla-de-embrague-trucktec-6177.jpg",
+        "description": "RODILLO HORQUILLA DE EMBRAGUE TRUCKTEC 6177 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Cajas MB G 56-6 / G 60-6 / G 85-6 / G 210-16 / G 211/16 / G 221-9 / G 240-16 / GO-190 / GO-210 MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933/45 / 1933S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 3340 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0371 RS / 0371 RSD / 0371 RSD / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 000.254.0017 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7374",
+        "name": "EJE HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6142",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-imp-6142.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE IMP. 6142 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: 655.254.0206 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7375",
+        "name": "VARILLA ACCIONAMIENTO CILINDRO MAESTRO EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6126",
+        "image": "img/products/Embrague/varilla-accionamiento-cilindro-maestro-embrague-imp-6126.jpg",
+        "description": "VARILLA ACCIONAMIENTO CILINDRO MAESTRO EMBRAGUE IMP. 6126 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (99-05) Codigo Original / Similar: 3C45/2143/BB- 3C45/2143/BA- 3C45/2143/BC (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7376",
+        "name": "RODILLO HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6137",
+        "image": "img/products/Embrague/rodillo-horquilla-de-embrague-imp-6137.jpg",
+        "description": "RODILLO HORQUILLA DE EMBRAGUE IMP. 6137 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Cajas MB G 56-6 / G 60-6 / G 85-6 / G 210-16 / G 211/16 / G 221-9 / G 240-16 / GO-190 / GO-210 MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933/45 / 1933S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 3340 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0371 RS / 0371 RSD / 0371 RSD / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 000.254.0017 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7377",
+        "name": "BUJE HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6138",
+        "image": "img/products/Embrague/buje-horquilla-embrague-imp-6138.jpg",
+        "description": "BUJE HORQUILLA EMBRAGUE IMP. 6138 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 24250 E Codigo Original / Similar: 2T2/141197 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7378",
+        "name": "EJE HORQUILLA DE EMBRAGUE / LARGO 210MM. IMP.",
+        "brand": "Imp",
+        "code": "6139",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-largo-210mm-imp-6139.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE / LARGO 210MM. IMP. 6139 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M- 96) / L 1624 / 1718 M / 1720/48 / ATEGO 1418 / 1725 / 2425 y Bus LO 914 / LO 915 / / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 RS / 0500 RSD Codigo Original / Similar: 679.254.0106 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7379",
+        "name": "RODAMIENTOS A AGUJAS HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6140",
+        "image": "img/products/Embrague/rodamientos-a-agujas-horquilla-embrague-imp-6140.jpg",
+        "description": "RODAMIENTOS A AGUJAS HORQUILLA EMBRAGUE IMP. 6140 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / 2423 B / 2423 K / 2428 y Bus OF 1418 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1318 / OH 1320 / OHL 1320 / OHL 1420 / OHL 1621 / 0500 M 1725 Codigo Original / Similar: 009.981.0410 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7380",
+        "name": "BUJE HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6141",
+        "image": "img/products/Embrague/buje-horquilla-de-embrague-imp-6141.jpg",
+        "description": "BUJE HORQUILLA DE EMBRAGUE IMP. 6141 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: 002.992.1501 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7381",
+        "name": "EMBRAGUE VISCOSO 6 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "6113",
+        "image": "img/products/Embrague/embrague-viscoso-6-agujeros-chezhou-6113.jpg",
+        "description": "EMBRAGUE VISCOSO 6 AGUJEROS CHEZHOU 6113 Marca: Chezhou Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E Codigo Original / Similar: 2S0/121302 (VW)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7382",
+        "name": "VASTAGO HORQUILLA EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "6114",
+        "image": "img/products/Embrague/vastago-horquilla-embrague-montecristo-6114.jpg",
+        "description": "VASTAGO HORQUILLA EMBRAGUE MONTECRISTO 6114 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / L 1633 / LS 1633 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1720/48 / 1721 S / 1722 S / 1728/51 / L 1938 / LS 1938 / LS 1941 / 2423 B / 2423 K y Bus OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1318 / OHL 1621 / 0500 M 1725 / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Codigo Original / Similar: 388.295.0074 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7383",
+        "name": "SOPORTE PEDAL DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "6116",
+        "image": "img/products/Embrague/soporte-pedal-de-embrague-imp-6116.jpg",
+        "description": "SOPORTE PEDAL DE EMBRAGUE IMP. 6116 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / L 1215 / LK 1218 / L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M- 96) / L 1622 / LS 1622 / L 1623 / LS 1623 / LK 2318 / LB 2325 / LK 2325 / LK 2418 / y Bus LO 812 / LO 813 D / LO 814 / OF 1215 / OF 1315 / OF 1620 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 688.294.7001 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7384",
+        "name": "REP. SERVOEMBRAGUE WABCO 82.5MM BEL-AR",
+        "brand": "Bel Ar",
+        "code": "6119",
+        "image": "img/products/Embrague/rep-servoembrague-wabco-82-5mm-bel-ar-6119.jpg",
+        "description": "REP. SERVOEMBRAGUE WABCO 82.5MM BEL-AR 6119 Marca: Bel Ar Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1722 Para Servoembragues WABCO 970.051.120 0 Codigo Original / Similar: 970.051.999 2 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7385",
+        "name": "SERVOEMBRAGUE 100MM. WABCO SIN INDICADOR DE DESGASTE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "6066",
+        "image": "img/products/Embrague/servoembrague-100mm-wabco-sin-indicador-de-desgaste-tf-p-technology-6066.jpg",
+        "description": "SERVOEMBRAGUE 100MM. WABCO SIN INDICADOR DE DESGASTE TF&P TECHNOLOGY 6066 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 Codigo Original / Similar: 345.362 (SC) 970.051.107 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7386",
+        "name": "HORQUILLA EMBRAGUE TIPO ORIGINAL IMP.",
+        "brand": "Imp",
+        "code": "6019",
+        "image": "img/products/Embrague/horquilla-embrague-tipo-original-imp-6019.jpg",
+        "description": "HORQUILLA EMBRAGUE TIPO ORIGINAL IMP. 6019 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / 1214 C y Bus LO 812 / LO 813 D / LO 814 Codigo Original / Similar: 675.250.0113 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7387",
+        "name": "CILINDRO EMBRAGUE DIAM. 1 1/2″ / HIERRO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5912",
+        "image": "img/products/Embrague/cilindro-embrague-diam-1-1-2-hierro-tf-p-technology-5912.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 1 1/2″ / HIERRO TF&P TECHNOLOGY 5912 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 17-280 / 240 E28 / 240 E28S / 240-280 / 24-280 / 260 E28 / 260 E30 / 310 E28 / 31-280 / TECTOR ECOLINE ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 Codigo Original / Similar: 4854828 / 7145931 / 2505616 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7388",
+        "name": "PERNO HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "5913",
+        "image": "img/products/Embrague/perno-horquilla-de-embrague-imp-5913.jpg",
+        "description": "PERNO HORQUILLA DE EMBRAGUE IMP. 5913 Marca: Imp Vehiculos compatibles: AGRALE: Bus AGRALE VOLARE W8 / W9 Codigo Original / Similar: 6025003021004 (AGRALE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7389",
+        "name": "REP. SERVOEMBRAGUE KNORR TIPO VG3286 BEL-AR",
+        "brand": "Bel Ar",
+        "code": "5917",
+        "image": "img/products/Embrague/rep-servoembrague-knorr-tipo-vg3286-bel-ar-5917.jpg",
+        "description": "REP. SERVOEMBRAGUE KNORR TIPO VG3286 BEL-AR 5917 Marca: Bel Ar Vehiculos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / EUROCARGO ATTACK 230 E24 / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T Servoembragues KNORR K002173 (41035648) Codigo Original / Similar: 42546405 (IVECO) K005772 (Knorr) QA-1908M (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7390",
+        "name": "REP. SERVOEMBRAGUE KONSBERG 100MM. BEL-AR",
+        "brand": "Bel Ar",
+        "code": "5918",
+        "image": "img/products/Embrague/rep-servoembrague-konsberg-100mm-bel-ar-5918.jpg",
+        "description": "REP. SERVOEMBRAGUE KONSBERG 100MM. BEL-AR 5918 Marca: Bel Ar Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 Y Bus F 113 / K 113 Servoembragues KONSBERG 622190AM / 622199AM Codigo Original / Similar: 550.465 / 1.336.159 / 550.455 (SC) 625282AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7391",
+        "name": "HORQUILLA EMBRAGUE C/RODILLOS IMP.",
+        "brand": "Imp",
+        "code": "5872",
+        "image": "img/products/Embrague/horquilla-embrague-c-rodillos-imp-5872.jpg",
+        "description": "HORQUILLA EMBRAGUE C/RODILLOS IMP. 5872 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E Codigo Original / Similar: 2T2/141719/E (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7392",
+        "name": "COJINETE EJE HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "5873",
+        "image": "img/products/Embrague/cojinete-eje-horquilla-embrague-imp-5873.jpg",
+        "description": "COJINETE EJE HORQUILLA EMBRAGUE IMP. 5873 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/141707/B / 2T2/141707/A (VW) S1440 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7393",
+        "name": "BUJE GUIA EJE HORQUILLA EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "5874",
+        "image": "img/products/Embrague/buje-guia-eje-horquilla-embrague-montecristo-5874.jpg",
+        "description": "BUJE GUIA EJE HORQUILLA EMBRAGUE MONTECRISTO 5874 Marca: Montecristo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/141255 (VW) S1442 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7394",
+        "name": "EJE HORQUILLA EMBRAGUE / 25 X 122MM. IMP.",
+        "brand": "Imp",
+        "code": "5875",
+        "image": "img/products/Embrague/eje-horquilla-embrague-25-x-122mm-imp-5875.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE / 25 X 122MM. IMP. 5875 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/141327/A (VW) S1443 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7395",
+        "name": "COLLARIN DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "5841",
+        "image": "img/products/Embrague/collarin-de-embrague-imp-5841.jpg",
+        "description": "COLLARIN DE EMBRAGUE IMP. 5841 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/141173 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7396",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "5835",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-20-64mm-trw-varga-5835.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. TRW-VARGA 5835 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1941 (+1992) y Bus 0500 M 1725 Codigo Original / Similar: 384.295.7006 / 388.295.7206 (MB) RCCE 0036.1 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7397",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 163MM. / 4 AGUJ. / CUELLO CORTO CHEZHOU",
+        "brand": "Chezhou",
+        "code": "5782",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-163mm-4-aguj-cuello-corto-chezhou-5782.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 163MM. / 4 AGUJ. / CUELLO CORTO CHEZHOU 5782 Marca: Chezhou Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1418 Frontal MERCEDES BENZ: Motores MB OM 366 LA / OM 904 LA Codigo Original / Similar: 904.200.0323/V (MB) 904.200.0622 / 366.200.5523 (MB)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7398",
+        "name": "EMBRAGUE VISCOSO IMP.",
+        "brand": "Imp",
+        "code": "5535",
+        "image": "img/products/Embrague/embrague-viscoso-imp-5535.jpg",
+        "description": "EMBRAGUE VISCOSO IMP. 5535 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317e / 1517e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 Codigo Original / Similar: 4C45/8A616/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7399",
+        "name": "VALVULA ACCIONAMIENTO DE EMBRAGUE / SPLIT TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5360",
+        "image": "img/products/Embrague/valvula-accionamiento-de-embrague-split-tf-p-technology-5360.jpg",
+        "description": "VALVULA ACCIONAMIENTO DE EMBRAGUE / SPLIT TF&P TECHNOLOGY 5360 Marca: Tfp Technology Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 13 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / NH 380 / NH 420 / NH 460 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 y Bus B 9 R / B 12 R Codigo Original / Similar: 1.653.156 (VOLVO)",
+        "rubro": "VALVULA SPLIT"
+    },
+    {
+        "id": "P7400",
+        "name": "SERVOEMBRAGUE SIN INDICADOR DE DESGASTE WABCO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5355",
+        "image": "img/products/Embrague/servoembrague-sin-indicador-de-desgaste-wabco-tf-p-technology-5355.jpg",
+        "description": "SERVOEMBRAGUE SIN INDICADOR DE DESGASTE WABCO TF&P TECHNOLOGY 5355 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 y Bus K 112 Codigo Original / Similar: 630.717 / 660.717 (SC) 970.051.193 0 / 884.502.819 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7401",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3288 TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5357",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3288-tf-p-technology-5357.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3288 TF&P TECHNOLOGY 5357 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / EUROTECH 440 E42TP/Z / 450 E37 / 450 E37TP / 450 E37 HR / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER MP 450 E37T Codigo Original / Similar: 41035646 / 98438178 / 98420498 (IVECO) K004296 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7402",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3269 TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5358",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3269-tf-p-technology-5358.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3269 TF&P TECHNOLOGY 5358 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T / STRALIS HD 450 S38T / HD 450 S38 T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 570 S38T / ATN 740 S42TZ Codigo Original / Similar: 41035502 / 41035647 / 41035649 (IVECO) II 36379 / K004297 (Knorr) VG3269 / VG3289 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7403",
+        "name": "GUARDAPOLVO HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "5289",
+        "image": "img/products/Embrague/guardapolvo-horquilla-de-embrague-imp-5289.jpg",
+        "description": "GUARDAPOLVO HORQUILLA DE EMBRAGUE IMP. 5289 Marca: Imp Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 Codigo Original / Similar: 7143197 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7404",
+        "name": "CARCAZA INTERMEDIA DEL SERVOEMBRAGUE WABCO BEL-AR",
+        "brand": "Bel Ar",
+        "code": "5246",
+        "image": "img/products/Embrague/carcaza-intermedia-del-servoembrague-wabco-bel-ar-5246.jpg",
+        "description": "CARCAZA INTERMEDIA DEL SERVOEMBRAGUE WABCO BEL-AR 5246 Marca: Bel Ar Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Servoembragues WABCO 884.503.728 0 / 970.051.125 0 / 970.051.128 0 FORD / VW / CUMMINS / MWM: VW Bus 17260 EOT / 18320 EOT Servoembragues WABCO 970.051.163 0 MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / L 2638/54 / ATEGO 1725 y Bus OF 1417 / OF 1418 / OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS MERCEDES BENZ: Servoembragues WABCO 970.051.128 0 / 970.051.163 0 / 970.051.186 0 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / F 113 / K 113 Servoembragues WABCO 970.051.191 0 / 970.051.193 0 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 10 M / B 10 R / B 12 B / B 12 R Servoembragues WABCO 970.051.192 0 / 970.051.194 0 Codigo Original / Similar: 2RP/721221 (FORD / VW / CUMMINS / MWM) 2RP/721221 (VW) 970.051.572 4 (Wabco)",
+        "rubro": "SERVOEMBRAGUES – REPAROS"
+    },
+    {
+        "id": "P7405",
+        "name": "REP. HORQUILLA EMBRAGUE / PARA HORQUILLA IMPORTADA / COD. 2563 VANNUCCI",
+        "brand": "Vannucci",
+        "code": "5231",
+        "image": "img/products/Embrague/rep-horquilla-embrague-para-horquilla-importada-cod-2563-vannucci-5231.jpg",
+        "description": "REP. HORQUILLA EMBRAGUE / PARA HORQUILLA IMPORTADA / COD. 2563 VANNUCCI 5231 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (02-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E y 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7406",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.58MM. (1 1/8″) IMBASA",
+        "brand": "Imbasa",
+        "code": "4958",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-28-58mm-1-1-8-imbasa-4958.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.58MM. (1 1/8″) IMBASA 4958 Marca: Imbasa Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / 914 / L 913 D / 1214 C / L 1218 R / L 1418 R y Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 001.295.9607 (MB) 384.295.7207 / 001.295.9107 (MB) RCCE 0011.4 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7407",
+        "name": "EMBRAGUE VISCOSO MODEFER",
+        "brand": "Modefer",
+        "code": "4733",
+        "image": "img/products/Embrague/embrague-viscoso-modefer-4733.jpg",
+        "description": "EMBRAGUE VISCOSO MODEFER 4733 Marca: Modefer Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: Motores MAN D0834 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E / 17230 Codigo Original / Similar: 2T2/121302 (VW)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7408",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "4713",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-31-75mm-industria-argentina-4713.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM INDUSTRIA ARGENTINA 4713 Marca: Industria Argentina Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619 T1 / IVECO 150 ASPIRADO / 150 N TURBO / 150 T TURBO Codigo Original / Similar: 4292543 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7409",
+        "name": "VASTAGO SERVOEMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "4723",
+        "image": "img/products/Embrague/vastago-servoembrague-cipec-4723.jpg",
+        "description": "VASTAGO SERVOEMBRAGUE CIPEC 4723 Marca: Cipec Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / ATEGO 1725 / ATRON 1720 y Bus OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0500 R / 0500 RS Codigo Original / Similar: 000.295.1233 (MB) 2RP/721439 (FORD) 2RP/721439 (VW)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7410",
+        "name": "PERNO HORQUILLA DE EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "4653",
+        "image": "img/products/Embrague/perno-horquilla-de-embrague-montecristo-4653.jpg",
+        "description": "PERNO HORQUILLA DE EMBRAGUE MONTECRISTO 4653 Marca: Montecristo Vehiculos compatibles: AGRALE: Bus AGRALE VOLARE W8 / W9 Codigo Original / Similar: 6025003022002 (AGRALE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7411",
+        "name": "PISTON SERVOEMBRAGUE WABCO BEL-AR",
+        "brand": "Bel Ar",
+        "code": "4656",
+        "image": "img/products/Embrague/piston-servoembrague-wabco-bel-ar-4656.jpg",
+        "description": "PISTON SERVOEMBRAGUE WABCO BEL-AR 4656 Marca: Bel Ar Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Servoembragues WABCO 884.503.728 0 / 970.051.128 0 MERCEDES BENZ: Camiones L 1620 (M-96) / L 1623 / LS 1623 / L 1624 / L 1633 / LS 1633 / 1718 M / 1728/51 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus OF 1620 / OF 1721 / OF 1722 / OH 1318 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL MERCEDES BENZ: Servoembragues WABCO 970.051.128 0 / 970.051.179 0 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / F 113 / K 113 Servoembragues WABCO 884.502.740 0 / 884.502.819 0 / 970.051.191 0 / 970.051.193 0 / 970.051.107 0 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 10 M / B 10 R / B 12 B / B 12 R Servoembragues WABCO 970.051.192 0 / 970.051.194 0 Codigo Original / Similar: 349.778 (SC) 970.051.634 4 (Wabco) RE/FA/18 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES – REPAROS"
+    },
+    {
+        "id": "P7412",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "4623",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-trw-varga-4623.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE TRW-VARGA 4623 Marca: Trw Varga Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 17300 / 17310 / 18310 / 24220 / 26260 / 26310 / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E / DELIVERY 5140 E / 8150 E y Bus 9150 EOD Codigo Original / Similar: 2T0/721405 (VW) RCCE 0007.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7413",
+        "name": "PERNO ESFERICO HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "4624",
+        "image": "img/products/Embrague/perno-esferico-horquilla-de-embrague-imp-4624.jpg",
+        "description": "PERNO ESFERICO HORQUILLA DE EMBRAGUE IMP. 4624 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE_x000D_ Motores CUMMINS ISBe6 – ISCe6_x000D_ Motores MAN D0836 FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 19320 E / 24250 E / 25320 E / 31320 E / 17280 Codigo Original / Similar: 2T2/311613 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7414",
+        "name": "TACHO SERVOEMBRAGUE 85MM. SIN INDICADOR DE DESGASTE WABCO F.S.S",
+        "brand": "F S S",
+        "code": "4563",
+        "image": "img/products/Embrague/tacho-servoembrague-85mm-sin-indicador-de-desgaste-wabco-f-s-s-4563.jpg",
+        "description": "TACHO SERVOEMBRAGUE 85MM. SIN INDICADOR DE DESGASTE WABCO F.S.S 4563 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones 1718 M / ATEGO 1725 y Bus OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L- SB / 0500 M 1725 MERCEDES BENZ: Servoembragues WABCO 970.051.190 0 Codigo Original / Similar: 970.902.027 4 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7415",
+        "name": "HELICE CON EMBRAGUE VISCOSO CHEZHOU",
+        "brand": "Chezhou",
+        "code": "4463",
+        "image": "img/products/Embrague/helice-con-embrague-viscoso-chezhou-4463.jpg",
+        "description": "HELICE CON EMBRAGUE VISCOSO CHEZHOU 4463 Marca: Chezhou Vehiculos compatibles: MERCEDES BENZ: Bus OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1718 L-SB / OH 1721 / 0500 M 1725 / 0500 U 1725 MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA Euro 5 Codigo Original / Similar: 17.18990-1.A (BW) 382.500.0164 / 368.500.0064 (MB)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7416",
+        "name": "EJE PEDAL EMBRAGUE / ACELERADOR IMP.",
+        "brand": "Imp",
+        "code": "4419",
+        "image": "img/products/Embrague/eje-pedal-embrague-acelerador-imp-4419.jpg",
+        "description": "EJE PEDAL EMBRAGUE / ACELERADOR IMP. 4419 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 E / 26260 E / 31320 E Codigo Original / Similar: 2T2/721085 (VW)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7417",
+        "name": "EJE HORQUILLA EMBRAGUE / LARGO 191MM. IMP.",
+        "brand": "Imp",
+        "code": "4421",
+        "image": "img/products/Embrague/eje-horquilla-embrague-largo-191mm-imp-4421.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE / LARGO 191MM. IMP. 4421 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 15190 EOD / 17230 EOD Codigo Original / Similar: 2W0/141701 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7418",
+        "name": "TENSOR DE PEDAL DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "4433",
+        "image": "img/products/Embrague/tensor-de-pedal-de-embrague-imp-4433.jpg",
+        "description": "TENSOR DE PEDAL DE EMBRAGUE IMP. 4433 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (93-98) Codigo Original / Similar: T75/721627 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TENSOR DE PEDAL"
+    },
+    {
+        "id": "P7419",
+        "name": "ADAPTADOR PARA EMBRAGUE VISCOSO MODEFER",
+        "brand": "Modefer",
+        "code": "4436",
+        "image": "img/products/Embrague/adaptador-para-embrague-viscoso-modefer-4436.jpg",
+        "description": "ADAPTADOR PARA EMBRAGUE VISCOSO MODEFER 4436 Marca: Modefer Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 2626 FORD / VW / CUMMINS / MWM: VW 24250 (-99) Codigo Original / Similar: 1932.439 (MODEFER) TAU/121431/X (FORD) TAU/121431/X (VW)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7420",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "4273",
+        "image": "img/products/Embrague/cubre-pedal-freno-y-embrague-imp-4273.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE IMP. 4273 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (95-99) / Nuevo C1317 / C1517 / C1722 / C1832 / C2632 Codigo Original / Similar: 81DB/7A624/AA TJG/721507 (FORD) R-540 (REI)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7421",
+        "name": "PORTA CRAPODINA DE EMBRAGUE PALAZZOLO",
+        "brand": "Palazzolo",
+        "code": "4238",
+        "image": "img/products/Embrague/porta-crapodina-de-embrague-palazzolo-4238.jpg",
+        "description": "PORTA CRAPODINA DE EMBRAGUE PALAZZOLO 4238 Marca: Palazzolo Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D / OF 1214 / OH 1314/46 Codigo Original / Similar: 308.250.7215 / 308.250.7015 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7422",
+        "name": "EMBRAGUE VISCOSO ELECTROMAGNETICO OMER",
+        "brand": "Omer",
+        "code": "4240",
+        "image": "img/products/Embrague/embrague-viscoso-electromagnetico-omer-4240.jpg",
+        "description": "EMBRAGUE VISCOSO ELECTROMAGNETICO OMER 4240 Marca: Omer Vehiculos compatibles: SCANIA: Camiones P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 340 / R 380 / R 340 / R 380 / R 420 / R 470 / R 500 / R 580 V8 (2006-2012) SCANIA: Motores SCANIA D11 / D12 / D16 Codigo Original / Similar: 1.453.967 / 1.422.502 (SC) 1.766.909 / 1.856.995 (SC) 1932.651 (MODEFER) 2.052.003 / 2.132.266 (SC) 2.132.262 / 2.386.724 (SC) 2.410.084 / 2.410.086 (SC)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7423",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 160MM. CHEZHOU",
+        "brand": "Chezhou",
+        "code": "4112",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-160mm-chezhou-4112.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 160MM. CHEZHOU 4112 Marca: Chezhou Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Codigo Original / Similar: 000.200.5822 (MB)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7424",
+        "name": "SERVOEMBRAGUE WABCO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "4016",
+        "image": "img/products/Embrague/servoembrague-wabco-tf-p-technology-4016.jpg",
+        "description": "SERVOEMBRAGUE WABCO TF&P TECHNOLOGY 4016 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones STRALIS NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46Z Codigo Original / Similar: 5801314040 (IVECO) 970.051.227 0 (Wabco)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7425",
+        "name": "INTERRUPTOR LUCES DE STOP Y PEDAL DE EMBRAGUE 3-RHO",
+        "brand": "3 Rho",
+        "code": "3973",
+        "image": "img/products/Embrague/interruptor-luces-de-stop-y-pedal-de-embrague-3-rho-3973.jpg",
+        "description": "INTERRUPTOR LUCES DE STOP Y PEDAL DE EMBRAGUE 3-RHO 3973 Marca: 3 Rho Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1634 EL / LS 1634 EL / 1938 S / Atego 1418 / 1725 / Axor 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus OH 1518 L-SB / OH 1618 L-SB / OH 1718 L- SB / 0500 RS / 0500 RSD Codigo Original / Similar: 001.545.2409 (MB)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7426",
+        "name": "SERVOEMBRAGUE KONSBERG 80MM. F.S.S",
+        "brand": "F S S",
+        "code": "3856",
+        "image": "img/products/Embrague/servoembrague-konsberg-80mm-f-s-s-3856.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 80MM. F.S.S 3856 Marca: F S S Vehiculos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 y Bus B 10 M (Todos -1996) Codigo Original / Similar: 1.673.067 / 1.655.639 (VOLVO) 626392AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7427",
+        "name": "REP. SERVOEMBRAGUE 100MM. WABCO COMPLETA F.S.S",
+        "brand": "F S S",
+        "code": "3858",
+        "image": "img/products/Embrague/rep-servoembrague-100mm-wabco-completa-f-s-s-3858.jpg",
+        "description": "REP. SERVOEMBRAGUE 100MM. WABCO COMPLETA F.S.S 3858 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / 2726 B / 2726 K / ATEGO 1725 / 2425 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus 0500 RS / 0500 RSD MERCEDES BENZ: Servoembragues WABCO 970.051.431 0 / 970.051.445 0 / 970.051.454 0 Codigo Original / Similar: 000.250.0162 (MB) 970.051.974 2 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7428",
+        "name": "SERVOEMBRAGUE WABCO 10 BAR CON INDICADOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "3842",
+        "image": "img/products/Embrague/servoembrague-wabco-10-bar-con-indicador-de-desgaste-f-s-s-3842.jpg",
+        "description": "SERVOEMBRAGUE WABCO 10 BAR CON INDICADOR DE DESGASTE F.S.S 3842 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones L 1623 / LS 1623 / 1718 M / 1728/51 / ATRON 1720 y Bus OF 1620 / OF 1721 / OF 1722 / 0500 M 1725 Codigo Original / Similar: 384.295.7018 (MB) 970.051.179 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7429",
+        "name": "SERVOEMBRAGUE TACHO LARGO WABCO 10 BAR CON INDICADOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "3843",
+        "image": "img/products/Embrague/servoembrague-tacho-largo-wabco-10-bar-con-indicador-de-desgaste-f-s-s-3843.jpg",
+        "description": "SERVOEMBRAGUE TACHO LARGO WABCO 10 BAR CON INDICADOR DE DESGASTE F.S.S 3843 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / LS 1938 EL y Bus 0500 M 1725 / 0500 R / 0500 RS Codigo Original / Similar: 000.295.1318 (MB) 970.051.164 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7430",
+        "name": "SERVOEMBRAGUE KNORR / VG 3264 F.S.S",
+        "brand": "F S S",
+        "code": "3844",
+        "image": "img/products/Embrague/servoembrague-knorr-vg-3264-f-s-s-3844.jpg",
+        "description": "SERVOEMBRAGUE KNORR / VG 3264 F.S.S 3844 Marca: F S S Vehiculos compatibles: IVECO: Camiones CURSOR 190 E31 / 450 E31T / EUROCARGO 150 E20N / 150 E20T / 160 E21 / 160 E23 / EUROTECH 440 E32TZ/P / 450 E37 / 450 E37T / 450 E37 HR / EUROTRAKKER MP 450 E37T Codigo Original / Similar: 98438178 / 98420498 (IVECO) II 35696 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7431",
+        "name": "SERVOEMBRAGUE WABCO 10 BAR TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3828",
+        "image": "img/products/Embrague/servoembrague-wabco-10-bar-tf-p-technology-3828.jpg",
+        "description": "SERVOEMBRAGUE WABCO 10 BAR TF&P TECHNOLOGY 3828 Marca: Tfp Technology Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1938 EL / 1938 S / L 2638/54 / AXOR 1933 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831 / 3340 K y Bus 0500 RS / 0500 RSD Codigo Original / Similar: 000.254.0047 / 000.254.1247 (MB) 970.051.431 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7432",
+        "name": "PLAQUETA EN PATAS DE EMBRAGUE 15 X 109MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3739",
+        "image": "img/products/Embrague/plaqueta-en-patas-de-embrague-15-x-109mm-trucktec-3739.jpg",
+        "description": "PLAQUETA EN PATAS DE EMBRAGUE 15 X 109MM. TRUCKTEC 3739 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 Codigo Original / Similar: 000.252.2345 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7433",
+        "name": "PLAQUETA EN PATAS DE EMBRAGUE 18 X 109MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3740",
+        "image": "img/products/Embrague/plaqueta-en-patas-de-embrague-18-x-109mm-trucktec-3740.jpg",
+        "description": "PLAQUETA EN PATAS DE EMBRAGUE 18 X 109MM. TRUCKTEC 3740 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Bus 0370 / 0373 RSD Codigo Original / Similar: 000.252.1245 / 000.252.1745 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7434",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "3644",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-trw-varga-3644.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE TRW-VARGA 3644 Marca: Trw Varga Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (95-98) FORD / VW / CUMMINS / MWM: VW 9140 / 9150 y Bus 9150 / 9150 EOD Codigo Original / Similar: 2SL/721261 (FORD) 2SL/721261 / TAP/721261 (VW) RCCE 0047.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7435",
+        "name": "CUBRE PEDAL EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3612",
+        "image": "img/products/Embrague/cubre-pedal-embrague-imp-3612.jpg",
+        "description": "CUBRE PEDAL EMBRAGUE IMP. 3612 Marca: Imp Vehiculos compatibles: SCANIA: Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.422.639 (SC)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7436",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. / HIERRO TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "3616",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-19-05mm-hierro-trw-varga-3616.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. / HIERRO TRW-VARGA 3616 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 000.295.7706 / 308.295.7006 (MB) RCCE 0004.1 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7437",
+        "name": "ANILLO PRESION CRAPODINA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3570",
+        "image": "img/products/Embrague/anillo-presion-crapodina-de-embrague-imp-3570.jpg",
+        "description": "ANILLO PRESION CRAPODINA DE EMBRAGUE IMP. 3570 Marca: Imp Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 362.778 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7438",
+        "name": "ROTULA HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3524",
+        "image": "img/products/Embrague/rotula-horquilla-de-embrague-imp-3524.jpg",
+        "description": "ROTULA HORQUILLA DE EMBRAGUE IMP. 3524 Marca: Imp Vehiculos compatibles: AGRALE: Camiones AGRALE 6000 / 8500 / 9200 y Bus VOLARE W8 / W9 Codigo Original / Similar: 6025003026003 (AGRALE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7439",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE SUPERIOR / PEDAL FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "3476",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-superior-pedal-freno-silent-3476.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE SUPERIOR / PEDAL FRENO:SILENT 3476 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI (1997-2012) Codigo Original / Similar: 000.290.3212 (MB) 986486053 (BOSCH) RCCE0104.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7440",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE INFERIOR / CAJA FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "3477",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-inferior-caja-freno-silent-3477.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE INFERIOR / CAJA FRENO:SILENT 3477 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI (1997-2012) Codigo Original / Similar: 002.295.2107 (MB) RCCE 0075.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7441",
+        "name": "RODILLO HORQUILLA EMBRAGUE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3478",
+        "image": "img/products/Embrague/rodillo-horquilla-embrague-tf-p-technology-3478.jpg",
+        "description": "RODILLO HORQUILLA EMBRAGUE TF&P TECHNOLOGY 3478 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 113 Codigo Original / Similar: 355.708 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7442",
+        "name": "RODILLO HORQUILLA EMBRAGUE COMPLETO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3479",
+        "image": "img/products/Embrague/rodillo-horquilla-embrague-completo-tf-p-technology-3479.jpg",
+        "description": "RODILLO HORQUILLA EMBRAGUE COMPLETO TF&P TECHNOLOGY 3479 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 113 / F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.335.485 / 1.753.479 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7443",
+        "name": "SERVOEMBRAGUE 100MM. KONSBERG VASTAGO CORTO NTI",
+        "brand": "Nti",
+        "code": "3466",
+        "image": "img/products/Embrague/servoembrague-100mm-konsberg-vastago-corto-nti-3466.jpg",
+        "description": "SERVOEMBRAGUE 100MM. KONSBERG VASTAGO CORTO NTI 3466 Marca: Nti Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 (+08/2001) Con Cambio VT 2014 Codigo Original / Similar: 628492AM (Konsberg) 8.171.720 / 1.672.129 / 20.524.584 (VOLVO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7444",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 23.81MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "3467",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-23-81mm-industria-argentina-3467.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 23.81MM. INDUSTRIA ARGENTINA 3467 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 / 914 C / L 1215 / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1624 / L 1632 / LS 1632 / L 1634 / L 1634 / LS 1634 / LS 1634 EL / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1728/51 / L 1938 / LS 1938 EL / LK 2318 / LB 2325 / LK 2325 / 2423 B / 2423 K / 2428 / LK 2418 / L 2638/54 / 2726 B / 2726 K y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1215 / OF 1315 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 / OH 1315 L-SB / OH 1316 / OH 1318 / OH 1320 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 001.295.5306 / 384.295.7006 (MB) 693.295.7006 (MB) RCCE 0033.5 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7445",
+        "name": "VALVULA ACCIONAMIENTO DE EMBRAGUE / SPLIT WAYSER",
+        "brand": "Wayser",
+        "code": "3473",
+        "image": "img/products/Embrague/valvula-accionamiento-de-embrague-split-wayser-3473.jpg",
+        "description": "VALVULA ACCIONAMIENTO DE EMBRAGUE / SPLIT WAYSER 3473 Marca: Wayser Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 13 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / NH 380 / NH 420 / NH 460 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 y Bus B 9 R / B 12 R Codigo Original / Similar: 1.653.156 (VOLVO)",
+        "rubro": "VALVULA SPLIT"
+    },
+    {
+        "id": "P7446",
+        "name": "TACHO SERVOEMBRAGUE CORTO CON INDICADOR DE DESGASTE WABCO F.S.S",
+        "brand": "F S S",
+        "code": "3448",
+        "image": "img/products/Embrague/tacho-servoembrague-corto-con-indicador-de-desgaste-wabco-f-s-s-3448.jpg",
+        "description": "TACHO SERVOEMBRAGUE CORTO CON INDICADOR DE DESGASTE WABCO F.S.S 3448 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones L 1623 / LS 1623 / 1718 M / 1728/51 y Bus OF 1620 / OF 1721 / OF 1722 / 0500 M 1725 MERCEDES BENZ: Servoembragues WABCO 970.051.179 0 Codigo Original / Similar: 970.901.018 4 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7447",
+        "name": "TACHO SERVOEMBRAGUE LARGO CON INDICADOR DE DESGASTE WABCO IMP.",
+        "brand": "Imp",
+        "code": "3449",
+        "image": "img/products/Embrague/tacho-servoembrague-largo-con-indicador-de-desgaste-wabco-imp-3449.jpg",
+        "description": "TACHO SERVOEMBRAGUE LARGO CON INDICADOR DE DESGASTE WABCO IMP. 3449 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / LS 1938 EL / 1938 S y Bus 0500 M 1725 / 0500 R / 0500 RS / 0500 RSD MERCEDES BENZ: Servoembragues WABCO 970.051.164 0 / 970.051.184 0 Codigo Original / Similar: 970.903.029 4 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7448",
+        "name": "EJE PEDAL FRENO Y EMBRAGUE SDUBO",
+        "brand": "Sdubo",
+        "code": "3380",
+        "image": "img/products/Embrague/eje-pedal-freno-y-embrague-sdubo-3380.jpg",
+        "description": "EJE PEDAL FRENO Y EMBRAGUE SDUBO 3380 Marca: Sdubo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 17220 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E y Bus 9150 / 9150 EOD Codigo Original / Similar: T15/721075 (VW)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7449",
+        "name": "REPARACION EJE PEDAL FRENO Y EMBRAGUE SDUBO",
+        "brand": "Sdubo",
+        "code": "3381",
+        "image": "img/products/Embrague/reparacion-eje-pedal-freno-y-embrague-sdubo-3381.jpg",
+        "description": "REPARACION EJE PEDAL FRENO Y EMBRAGUE SDUBO 3381 Marca: Sdubo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 17220 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E y Bus 9150 / 9150 EOD Codigo Original / Similar: T15/721075/98 (VW)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7450",
+        "name": "VARILLA EMPUJE CILINDRO MAESTRO DE EMBRAGUE VANNUCCI",
+        "brand": "Vannucci",
+        "code": "3382",
+        "image": "img/products/Embrague/varilla-empuje-cilindro-maestro-de-embrague-vannucci-3382.jpg",
+        "description": "VARILLA EMPUJE CILINDRO MAESTRO DE EMBRAGUE VANNUCCI 3382 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / 17250 E / 26260 E y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 9150 EOD Codigo Original / Similar: 2VB/721205 (VW) S7391 (SDUBO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7451",
+        "name": "EJE HORQUILLA EMBRAGUE G / LARGO 223MM. MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "3361",
+        "image": "img/products/Embrague/eje-horquilla-embrague-g-largo-223mm-montecristo-3361.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE G / LARGO 223MM. MONTECRISTO 3361 Marca: Montecristo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 24220 y Bus 17210 OD / 15190 EOD / 17230 EOD Codigo Original / Similar: 2RP/141863 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7452",
+        "name": "ARANDELA PLANA HORQUILLA DE EMBRAGUE 9/16” SDUBO",
+        "brand": "Sdubo",
+        "code": "3362",
+        "image": "img/products/Embrague/arandela-plana-horquilla-de-embrague-9-16-sdubo-3362.jpg",
+        "description": "ARANDELA PLANA HORQUILLA DE EMBRAGUE 9/16” SDUBO 3362 Marca: Sdubo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 914 / 915 / 1317 / 1416 / 1722 / 1716 / 1730 / 1831 / 2626 / 1317e / 1517e / 1832e / 2632e / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 19310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: 374049/S2 (FORD / VW / CUMMINS / MWM) TJG/141867 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7453",
+        "name": "HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3173",
+        "image": "img/products/Embrague/horquilla-de-embrague-imp-3173.jpg",
+        "description": "HORQUILLA DE EMBRAGUE IMP. 3173 Marca: Imp Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 342.837 / 362.043 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7454",
+        "name": "BUJE CRAPODINA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3174",
+        "image": "img/products/Embrague/buje-crapodina-embrague-imp-3174.jpg",
+        "description": "BUJE CRAPODINA EMBRAGUE IMP. 3174 Marca: Imp Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 y Bus K 112 Codigo Original / Similar: 304.788 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7455",
+        "name": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE / LARGO 236MM. VANNUCCI",
+        "brand": "Vannucci",
+        "code": "3068",
+        "image": "img/products/Embrague/eje-horquilla-accionamiento-embrague-largo-236mm-vannucci-3068.jpg",
+        "description": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE / LARGO 236MM. VANNUCCI 3068 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 24250 / 26310 Codigo Original / Similar: 2TC/141863 / 2UU/141863 (VW) S14310 / S14311 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7456",
+        "name": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE G / LARGO 222MM. IMP.",
+        "brand": "Imp",
+        "code": "3070",
+        "image": "img/products/Embrague/eje-horquilla-accionamiento-embrague-g-largo-222mm-imp-3070.jpg",
+        "description": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE G / LARGO 222MM. IMP. 3070 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 18310 TITAN Codigo Original / Similar: 2T0/141707 (VW) S14312 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7457",
+        "name": "EJE ARBOL DE MANDO PALANCA DESEMBRAGUE 131MM. IMP.",
+        "brand": "Imp",
+        "code": "3071",
+        "image": "img/products/Embrague/eje-arbol-de-mando-palanca-desembrague-131mm-imp-3071.jpg",
+        "description": "EJE ARBOL DE MANDO PALANCA DESEMBRAGUE 131MM. IMP. 3071 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 18310 TITAN Codigo Original / Similar: 2T0/141701/A (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7458",
+        "name": "LEVA EXTERIOR ACCIONAMIENTO DE EMBRAGUE VANNUCCI",
+        "brand": "Vannucci",
+        "code": "3059",
+        "image": "img/products/Embrague/leva-exterior-accionamiento-de-embrague-vannucci-3059.jpg",
+        "description": "LEVA EXTERIOR ACCIONAMIENTO DE EMBRAGUE VANNUCCI 3059 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: TAR/141873 TAR/141873/A (VW)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7459",
+        "name": "BUJE EJE HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "3062",
+        "image": "img/products/Embrague/buje-eje-horquilla-embrague-imp-3062.jpg",
+        "description": "BUJE EJE HORQUILLA EMBRAGUE IMP. 3062 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1317e / 1517e FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 y Bus 17210 OD / 17240 OT / 18310OT / 17260 EOT / 18320 EOT Codigo Original / Similar: S1460 (SDUBO) TE3/141869 / TJG/141869 (VW) XC45/7N620/AA (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7460",
+        "name": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE 188MM. VANNUCCI",
+        "brand": "Vannucci",
+        "code": "3065",
+        "image": "img/products/Embrague/eje-horquilla-accionamiento-embrague-188mm-vannucci-3065.jpg",
+        "description": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE 188MM. VANNUCCI 3065 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17250 E y Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT Codigo Original / Similar: 2VG/141863 (VW) S1434 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7461",
+        "name": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE / 220MM. LARGO TOTAL IMP.",
+        "brand": "Imp",
+        "code": "3066",
+        "image": "img/products/Embrague/eje-horquilla-accionamiento-embrague-220mm-largo-total-imp-3066.jpg",
+        "description": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE / 220MM. LARGO TOTAL IMP. 3066 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 Codigo Original / Similar: 97HU/7590/A (FORD) 97HU/7590/AB / 97HU/7590/AA (FORD) S1437 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7462",
+        "name": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE / LARGO 188MM. IMP.",
+        "brand": "Imp",
+        "code": "3067",
+        "image": "img/products/Embrague/eje-horquilla-accionamiento-embrague-largo-188mm-imp-3067.jpg",
+        "description": "EJE HORQUILLA ACCIONAMIENTO EMBRAGUE / LARGO 188MM. IMP. 3067 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 Codigo Original / Similar: 2RM/141863 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7463",
+        "name": "SERVOEMBRAGUE 85MM. WABCO SIN INDICADOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "2991",
+        "image": "img/products/Embrague/servoembrague-85mm-wabco-sin-indicador-de-desgaste-f-s-s-2991.jpg",
+        "description": "SERVOEMBRAGUE 85MM. WABCO SIN INDICADOR DE DESGASTE F.S.S 2991 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones 1718 M / ATEGO 1725 / ATRON 1720 y Bus OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / 0500 M 1725 Codigo Original / Similar: 000.254.0147 (MB) 970.051.190 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7464",
+        "name": "VALVULA ACCIONAMIENTO DE EMBRAGUE WABCO / SPLIT F.S.S",
+        "brand": "F S S",
+        "code": "2999",
+        "image": "img/products/Embrague/valvula-accionamiento-de-embrague-wabco-split-f-s-s-2999.jpg",
+        "description": "VALVULA ACCIONAMIENTO DE EMBRAGUE WABCO / SPLIT F.S.S 2999 Marca: F S S Vehiculos compatibles: VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Codigo Original / Similar: 267.859 (VOLVO) 463.022.020 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7465",
+        "name": "RODILLO HORQUILLA DE EMBRAGUE / CALIDAD ORIGINAL MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "2953",
+        "image": "img/products/Embrague/rodillo-horquilla-de-embrague-calidad-original-montecristo-2953.jpg",
+        "description": "RODILLO HORQUILLA DE EMBRAGUE / CALIDAD ORIGINAL MONTECRISTO 2953 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Cajas MB G 56-6 / G 60-6 / G 85-6 / G 210-16 / G 211/16 / G 221-9 / G 240-16 / GO-190 / GO-210 MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933/45 / 1933S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 3340 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0371 RS / 0371 RSD / 0371 RSD / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 000.254.0017 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7466",
+        "name": "EMBOLO SERVOEMBRAGUE KONSBERG 100MM. BEL-AR",
+        "brand": "Bel Ar",
+        "code": "2930",
+        "image": "img/products/Embrague/embolo-servoembrague-konsberg-100mm-bel-ar-2930.jpg",
+        "description": "EMBOLO SERVOEMBRAGUE KONSBERG 100MM. BEL-AR 2930 Marca: Bel Ar Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 Y Bus F 113 / K 113 Servoembragues KONSBERG 622190AM / 622199AM Codigo Original / Similar: 550.467 (SC) 625285AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7467",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. (3/4”) WAYSER",
+        "brand": "Wayser",
+        "code": "2793",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-19-05mm-3-4-wayser-2793.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. (3/4”) WAYSER 2793 Marca: Wayser Vehiculos compatibles: MERCEDES BENZ: Bus 0370 / 0371 R / 0371 UP Codigo Original / Similar: 350.295.7006 (MB) C-2601 (Controil) RCCE 0010.6 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7468",
+        "name": "EJE Y LEVA HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "2565",
+        "image": "img/products/Embrague/eje-y-leva-horquilla-embrague-imp-2565.jpg",
+        "description": "EJE Y LEVA HORQUILLA EMBRAGUE IMP. 2565 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 Codigo Original / Similar: S1438 (SDUBO) YC45/7N512/AB (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7469",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 38.10MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "2496",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-38-10mm-trw-varga-2496.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 38.10MM. TRW-VARGA 2496 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1615 / LK 1618/45 / L 1620 / 1718 K / LK 2318 / LB 2325 / LK 2325 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1318 / OH 1419 / OH 1420 / 0370 / 0373 RSD / 0400 UP Codigo Original / Similar: 345.295.7007 / 001.295.9407 (MB) 384.295.7307 / 384.295.7107 (MB) RCCE 0024.6 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7470",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (1 1/2”) WAYSER",
+        "brand": "Wayser",
+        "code": "2498",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-20-64mm-1-1-2-wayser-2498.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (1 1/2”) WAYSER 2498 Marca: Wayser Vehiculos compatibles: MERCEDES BENZ: Bus 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0400 UP Codigo Original / Similar: 664.295.7006 (MB) RCCE 0037.8 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7471",
+        "name": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (1 1/2”) WAYSER",
+        "brand": "Wayser",
+        "code": "2499",
+        "image": "img/products/Embrague/rep-cilindro-maestro-de-embrague-diam-20-64mm-1-1-2-wayser-2499.jpg",
+        "description": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (1 1/2”) WAYSER 2499 Marca: Wayser Vehiculos compatibles: MERCEDES BENZ: Bus 0373 RSD / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0400 UP Codigo Original / Similar: 000.290.2812 (MB) RRCE 0036.6 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7472",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 23.81MM. (13/16”) FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "2500",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-23-81mm-13-16-freno-silent-2500.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 23.81MM. (13/16”) FRENO:SILENT 2500 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Bus 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP Codigo Original / Similar: 345.295.7006 (MB) RCCE 0023.8 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7473",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "2502",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-19-05mm-trw-varga-2502.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. TRW-VARGA 2502 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / 710/42 / 912/42 / L 913 D / 914 / 1214 C / L 1623 / LS 1623 / L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OF 1721 / OH 1318 / OHL 1621 Codigo Original / Similar: 001.295.5206 / 001.295.2406 (MB) 001.295.5906 / 388.295.7106 (MB) RCCE 0012.2 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7474",
+        "name": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM (3/4”) / 20.64MM. (13/16″) WAYSER",
+        "brand": "Wayser",
+        "code": "2503",
+        "image": "img/products/Embrague/rep-cilindro-maestro-de-embrague-diam-19-05mm-3-4-20-64mm-13-16-wayser-2503.jpg",
+        "description": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM (3/4”) / 20.64MM. (13/16″) WAYSER 2503 Marca: Wayser Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / 710/42 / 912/42 / L 913 D / 914 / 1214 C / L 1623 / LS 1623 / L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OF 1721 / OH 1318 / OHL 1621 Codigo Original / Similar: 000.290.0812/ 000.290.0412/ 000.290.3812 (MB) 000.290.4412 (MB) RRCE 0017.1 / RRCE 0035.8 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7475",
+        "name": "SERVOEMBRAGUE 100MM. WABCO TACHO LARGO SIN INDICADOR DE DESGASTE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2478",
+        "image": "img/products/Embrague/servoembrague-100mm-wabco-tacho-largo-sin-indicador-de-desgaste-tf-p-technology-2478.jpg",
+        "description": "SERVOEMBRAGUE 100MM. WABCO TACHO LARGO SIN INDICADOR DE DESGASTE TF&P TECHNOLOGY 2478 Marca: Tfp Technology Vehiculos compatibles: MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1941 / L 2638/54 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0500 R / 0500 RS Codigo Original / Similar: 000.295.0718 (MB) 970.051.163 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7476",
+        "name": "CILINDRO EMBRAGUE / CAMBIO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "2480",
+        "image": "img/products/Embrague/cilindro-embrague-cambio-trucktec-2480.jpg",
+        "description": "CILINDRO EMBRAGUE / CAMBIO TRUCKTEC 2480 Marca: Trucktec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Codigo Original / Similar: 1.355.979 / 1.532.517 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7477",
+        "name": "CILINDRO EMBRAGUE DIAM. 26MM. FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "2484",
+        "image": "img/products/Embrague/cilindro-embrague-diam-26mm-freno-silent-2484.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 26MM. FRENO:SILENT 2484 Marca: Frenosilent Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 Y Bus F 113 Codigo Original / Similar: 1.358.801 / 1.105.332 / 1.358.800 (SC) 1.361.136 (SC) 624502AM (Konsberg)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7478",
+        "name": "CILINDRO EMBRAGUE DIAM. 25.40MM. FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "2486",
+        "image": "img/products/Embrague/cilindro-embrague-diam-25-40mm-freno-silent-2486.jpg",
+        "description": "CILINDRO EMBRAGUE DIAM. 25.40MM. FRENO:SILENT 2486 Marca: Frenosilent Vehiculos compatibles: SCANIA: Bus K 113 (desde CH-3460353) Codigo Original / Similar: 446.414 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7479",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 28.00 / 1 1/8 TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "2488",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-28-00-1-1-8-trw-varga-2488.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 28.00 / 1 1/8 TRW-VARGA 2488 Marca: Trw Varga Vehiculos compatibles: VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC y Bus B 10 M / B 10 R / B 12 B / B 12 R Codigo Original / Similar: 1.620.462 / 1.669.488 / 8.126.730 (VOLVO) RCCE 0065.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7480",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.58MM. TRW-VARGA",
+        "brand": "Trw Varga",
+        "code": "2492",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-28-58mm-trw-varga-2492.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.58MM. TRW-VARGA 2492 Marca: Trw Varga Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / 914 / L 913 D / 1214 C / L 1218 R / L 1418 R y Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 001.295.9607 (MB) 384.295.7207 / 001.295.9107 (MB) RCCE 0011.4 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7481",
+        "name": "REP. CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.58MM. (1 1/8”) WAYSER",
+        "brand": "Wayser",
+        "code": "2493",
+        "image": "img/products/Embrague/rep-cilindro-auxiliar-de-embrague-diam-28-58mm-1-1-8-wayser-2493.jpg",
+        "description": "REP. CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.58MM. (1 1/8”) WAYSER 2493 Marca: Wayser Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / 914 / L 913 D / 1214 C / L 1218 R / L 1418 R y Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 000.290.1511 / 000.290.4567 (MB) RRCE 0015.3 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7482",
+        "name": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (13/16″) WAYSER",
+        "brand": "Wayser",
+        "code": "2462",
+        "image": "img/products/Embrague/rep-cilindro-maestro-de-embrague-diam-20-64mm-13-16-wayser-2462.jpg",
+        "description": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 20.64MM. (13/16″) WAYSER 2462 Marca: Wayser Vehiculos compatibles: MERCEDES BENZ: Camiones LS 1941 (+1992) y Bus 0500 M 1725 Codigo Original / Similar: 000.290.4412 (MB) RRCE 0035.8 (TRW-VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7483",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. (3/4″) FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "2363",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-19-05mm-3-4-freno-silent-2363.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 19.05MM. (3/4″) FRENO:SILENT 2363 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / 710/42 / 912/42 / L 913 D / 914 / 1214 C / L 1623 / LS 1623 / L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OF 1721 / OH 1318 / OHL 1621 Codigo Original / Similar: 001.295.5206 / 001.295.2406 (MB) 001.295.5906 / 388.295.7106 (MB) RCCE 0012.2 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7484",
+        "name": "SERVOEMBRAGUE 10 BAR SIN INDICADOR DE DESGASTE WABCO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2338",
+        "image": "img/products/Embrague/servoembrague-10-bar-sin-indicador-de-desgaste-wabco-tf-p-technology-2338.jpg",
+        "description": "SERVOEMBRAGUE 10 BAR SIN INDICADOR DE DESGASTE WABCO TF&P TECHNOLOGY 2338 Marca: Tfp Technology Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / ATEGO 1725 / ATRON 1720 y Bus OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Codigo Original / Similar: 001.295.5607 / 000.254.1447 (MB) 970.051.128 0 (Wabco) TAR/721257 (VW) XC45/7K626/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7485",
+        "name": "REP. SERVOEMBRAGUE HALDEX F.S.S",
+        "brand": "F S S",
+        "code": "2340",
+        "image": "img/products/Embrague/rep-servoembrague-haldex-f-s-s-2340.jpg",
+        "description": "REP. SERVOEMBRAGUE HALDEX F.S.S 2340 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Camiones 2428 / ATEGO 1725 / 2425/48 MERCEDES BENZ: Servoembragues HALDEX 321023001 Codigo Original / Similar: 000.250.0362 (MB) 950321029 (Haldex)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7486",
+        "name": "SERVOEMBRAGUE IMPORTADO 8.5 BAR F.S.S",
+        "brand": "F S S",
+        "code": "2349",
+        "image": "img/products/Embrague/servoembrague-importado-8-5-bar-f-s-s-2349.jpg",
+        "description": "SERVOEMBRAGUE IMPORTADO 8.5 BAR F.S.S 2349 Marca: F S S Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo (-1999) Codigo Original / Similar: VG 3208 / I 88094 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7487",
+        "name": "SERVOEMBRAGUE KONSBERG 80MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2327",
+        "image": "img/products/Embrague/servoembrague-konsberg-80mm-tf-p-technology-2327.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 80MM. TF&P TECHNOLOGY 2327 Marca: Tfp Technology Vehiculos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 y Bus B 10 M (Todos -1996) Codigo Original / Similar: 1.673.067 / 1.655.639 (VOLVO) 626392AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7488",
+        "name": "REP. SERVOEMBRAGUE 95MM. KONSBERG QUINELATO",
+        "brand": "Quinelato",
+        "code": "2224",
+        "image": "img/products/Embrague/rep-servoembrague-95mm-konsberg-quinelato-2224.jpg",
+        "description": "REP. SERVOEMBRAGUE 95MM. KONSBERG QUINELATO 2224 Marca: Quinelato Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 (Todos -1996) / FM 7 310 / FM 10 320 / FM 10 360 / FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 y Bus B 10 M / B 10 R / B 12 B / B 12 R Servoembragues KONSBERG 626639AM Codigo Original / Similar: 3.093.099 (VOLVO) 627366AM (Konsberg) QA-1955 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7489",
+        "name": "INTERRUPTOR PEDAL EMBRAGUE MA2Ó",
+        "brand": "Ma2o",
+        "code": "2172",
+        "image": "img/products/Embrague/interruptor-pedal-embrague-ma2o-2172.jpg",
+        "description": "INTERRUPTOR PEDAL EMBRAGUE MA2Ó 2172 Marca: Ma2o Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / Nuevo C1317 / C1517 / C1722 / C1832 / C2632 FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 5140 E / 8150 E / 9150 E / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 E / 26260 E / 31320 E y Bus 17210 OD / 17240 OT / 18310 OT / 9150 EOD / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: 85HU/2W067/AA (FORD) T16/945525 (VW)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7490",
+        "name": "SERVOEMBRAGUE TACHO LARGO WABCO 10 BAR CON INDICADOR DE DESGASTE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2126",
+        "image": "img/products/Embrague/servoembrague-tacho-largo-wabco-10-bar-con-indicador-de-desgaste-tf-p-technology-2126.jpg",
+        "description": "SERVOEMBRAGUE TACHO LARGO WABCO 10 BAR CON INDICADOR DE DESGASTE TF&P TECHNOLOGY 2126 Marca: Tfp Technology Vehiculos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / LS 1938 EL y Bus 0500 M 1725 / 0500 R / 0500 RS Codigo Original / Similar: 000.295.1318 (MB) 970.051.164 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7491",
+        "name": "REP. VALVULA ACCIONAMIENTO DE EMBRAGUE WABCO / SPLIT QUINELATO",
+        "brand": "Quinelato",
+        "code": "2080",
+        "image": "img/products/Embrague/rep-valvula-accionamiento-de-embrague-wabco-split-quinelato-2080.jpg",
+        "description": "REP. VALVULA ACCIONAMIENTO DE EMBRAGUE WABCO / SPLIT QUINELATO 2080 Marca: Quinelato Vehiculos compatibles: VOLVO: Camiones N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC VOLVO: Válvulas WABCO 463.022.020 0 Codigo Original / Similar: 273.667 (VOLVO) 463.022.001 2 (Wabco) QA-1954 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7492",
+        "name": "REP. VALVULA ACCIONAMIENTO DE EMBRAGUE /SPLIT QUINELATO",
+        "brand": "Quinelato",
+        "code": "2081",
+        "image": "img/products/Embrague/rep-valvula-accionamiento-de-embrague-split-quinelato-2081.jpg",
+        "description": "REP. VALVULA ACCIONAMIENTO DE EMBRAGUE /SPLIT QUINELATO 2081 Marca: Quinelato Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 13 400 / FH 13 440 / FH 13 480 / FH 13 520 TOPCLASS / FM 10 320 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / FM 13 400 / FM 13 440 / FM 13 / FMX 11 370 / FMX 13 400 / FMX 13 440 / FMX 13 480 / NH 380 / NH 420 / NH 460 / VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 / VM 210 / VM 260 / VM 310 y Bus B 9 R / B 12 R Codigo Original / Similar: 1.653.156/R (VOLVO) QA-936 (QUINELATO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7493",
+        "name": "REP. SERVOEMBRAGUE KNORR BEL-AR",
+        "brand": "Bel Ar",
+        "code": "2087",
+        "image": "img/products/Embrague/rep-servoembrague-knorr-bel-ar-2087.jpg",
+        "description": "REP. SERVOEMBRAGUE KNORR BEL-AR 2087 Marca: Bel Ar Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 2626 / 2631 Servoembragues KNORR II 35257 / I 88094 IVECO: Camiones IVECO Varios Modelos Servoembragues KNORR I 88094 MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / 1728/51 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / 2423 B / 2423 K / 2428 / ATEGO 1725 y Bus OF 1721 / OF 1722 / OH 1418/52 / OH 1518-SB / OHL 1526 / 0500 M 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 RSD / 0371 UP / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL MERCEDES BENZ: Servoembragues KNORR I 88094 / II 35257 Codigo Original / Similar: I 90586 (Knorr) QA-1910 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7494",
+        "name": "REP. SERVOEMBRAGUE 100MM. KONSBERG QUINELATO",
+        "brand": "Quinelato",
+        "code": "2090",
+        "image": "img/products/Embrague/rep-servoembrague-100mm-konsberg-quinelato-2090.jpg",
+        "description": "REP. SERVOEMBRAGUE 100MM. KONSBERG QUINELATO 2090 Marca: Quinelato Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 (-2005) y Bus B 12 B / B 12 M (2001- 2005) Con Cambio SR-1700 / SR-1900 Servoembragues KONSBERG 628493AM / 628494AM Codigo Original / Similar: 628476AM (Konsberg) 85102142 (VOLVO) QA-1958 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7495",
+        "name": "REP. SERVOEMBRAGUE 95MM. KONSBERG BEL-AR",
+        "brand": "Bel Ar",
+        "code": "2091",
+        "image": "img/products/Embrague/rep-servoembrague-95mm-konsberg-bel-ar-2091.jpg",
+        "description": "REP. SERVOEMBRAGUE 95MM. KONSBERG BEL-AR 2091 Marca: Bel Ar Vehiculos compatibles: VOLVO: Camiones NL 10 320 EDC / NL 10 340 EDC / NL 12 360 EDC / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 12 B / B 12 M (Todos -2001) Servoembragues KONSBERG 626639AM Codigo Original / Similar: 3.093.100 / 270.586 / 3.094.550 (VOLVO) 627182AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES – REPAROS"
+    },
+    {
+        "id": "P7496",
+        "name": "ROTULA HORQUILLA DE EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "2054",
+        "image": "img/products/Embrague/rotula-horquilla-de-embrague-montecristo-2054.jpg",
+        "description": "ROTULA HORQUILLA DE EMBRAGUE MONTECRISTO 2054 Marca: Montecristo Vehiculos compatibles: AGRALE: Camiones AGRALE 6000 / 8500 / 9200 y Bus VOLARE W8 / W9 Codigo Original / Similar: 6013003037006 (AGRALE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7497",
+        "name": "PEDAL EMBRAGUE HIDRAULICO IMP.",
+        "brand": "Imp",
+        "code": "1968",
+        "image": "img/products/Embrague/pedal-embrague-hidraulico-imp-1968.jpg",
+        "description": "PEDAL EMBRAGUE HIDRAULICO IMP. 1968 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 309.290.1416 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7498",
+        "name": "REP. SERVOEMBRAGUE 85MM. SIN INDICADOR DE DESGASTE WABCO COMPLETA BEL-AR",
+        "brand": "Bel Ar",
+        "code": "1755",
+        "image": "img/products/Embrague/rep-servoembrague-85mm-sin-indicador-de-desgaste-wabco-completa-bel-ar-1755.jpg",
+        "description": "REP. SERVOEMBRAGUE 85MM. SIN INDICADOR DE DESGASTE WABCO COMPLETA BEL-AR 1755 Marca: Bel Ar Vehiculos compatibles: MERCEDES BENZ: Camiones 1718 M / ATEGO 1725 y Bus OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / 0500 M 1725 MERCEDES BENZ: Servoembragues WABCO 970.051.190 0 Codigo Original / Similar: 000.250.0362 (MB) 970.051.917 2 (Wabco) QA-1325 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7499",
+        "name": "RODILLO HORQUILLA DE EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1600",
+        "image": "img/products/Embrague/rodillo-horquilla-de-embrague-montecristo-1600.jpg",
+        "description": "RODILLO HORQUILLA DE EMBRAGUE MONTECRISTO 1600 Marca: Montecristo Vehiculos compatibles: AGRALE: Camiones AGRALE 6000 / 8500 / 9200 y Bus VOLARE W8 / W9 Codigo Original / Similar: 6013003010003 (AGRALE) S1428 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7500",
+        "name": "SERVOEMBRAGUE KONSBERG 100MM. / INYECTADO CIPEC",
+        "brand": "Cipec",
+        "code": "1564",
+        "image": "img/products/Embrague/servoembrague-konsberg-100mm-inyectado-cipec-1564.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG 100MM. / INYECTADO CIPEC 1564 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 y Bus F 113 / K 113 Codigo Original / Similar: 374.116 / 371.612 / 1.331.770 (SC) 622190AM / 622199AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7501",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "1574",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-freno-silent-1574.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE FRENO:SILENT 1574 Marca: Frenosilent Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e FORD / VW / CUMMINS / MWM: VW 13180 / 17220 / 17300 / 24220 / 24250 Codigo Original / Similar: 2SP/721261 / TJG/721261 (VW) 96HU/7A508/AA (FORD / VW / CUMMINS / MWM) RCCE 0019.1 / RCCE 0064.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7502",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 163MM. / 4 AGUJ. CHEZHOU",
+        "brand": "Chezhou",
+        "code": "1553",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-163mm-4-aguj-chezhou-1553.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 163MM. / 4 AGUJ. CHEZHOU 1553 Marca: Chezhou Vehiculos compatibles: MERCEDES BENZ: Camiones 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 / 1718 M / 1720 A / 1720 K / Accelo 915 C / 815 / 1016 / Atron 1720 / Atego 1418 / 1720 y Bus OF 1417 / OF 1418 / OF 1721 MERCEDES BENZ: Motores MB OM 366 LA / OM 904 LA / OM 924 Codigo Original / Similar: 904.200.0822 / 376.200.7123/V (MB) 904.200.1423/V / 374.200.7223/V (MB)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7503",
+        "name": "PERNO POSICIONADOR DE EMBRAGUE / PARA HORQUILLA CON ROTULA IMP.",
+        "brand": "Imp",
+        "code": "1555",
+        "image": "img/products/Embrague/perno-posicionador-de-embrague-para-horquilla-con-rotula-imp-1555.jpg",
+        "description": "PERNO POSICIONADOR DE EMBRAGUE / PARA HORQUILLA CON ROTULA IMP. 1555 Marca: Imp Vehiculos compatibles: AGRALE: Camiones AGRALE 6000 / 8500 / 9200 y Bus VOLARE W8 / W9 Codigo Original / Similar: 6013003054001 (AGRALE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7504",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 167MM. / 4 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14804",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-167mm-4-agujeros-chezhou-14804.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 167MM. / 4 AGUJEROS CHEZHOU 14804 Marca: Chezhou Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 916 / 1119 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 4.5 LTRS. Codigo Original / Similar: 1932.659 (MODEFER) BH6X/8A616/AA (FORD)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7505",
+        "name": "EMBRAGUE VISCOSO ELECTROMAGNETICO / 6 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14807",
+        "image": "img/products/Embrague/embrague-viscoso-electromagnetico-6-agujeros-chezhou-14807.jpg",
+        "description": "EMBRAGUE VISCOSO ELECTROMAGNETICO / 6 AGUJEROS CHEZHOU 14807 Marca: Chezhou Vehiculos compatibles: IVECO: Camiones STRALIS ECOLINE 200 S33 AD / 200 S36 AD / STRALIS ECOLINE EUROTRONIC 200 S36 AD / 200 S36 AT / 460 S36T AT / 530 S36T AT / STRALIS ECOLINE HI-ROAD 200 S36 / 460 S36T / 530 S36T / TRAKKER ECOLINE 310 T36 AD Codigo Original / Similar: 504092530 / 5801587047 (IVECO) 504115431 / 504054623 (IVECO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7506",
+        "name": "EMBRAGUE VISCOSO ELECTROMAGNETICO / 8 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14809",
+        "image": "img/products/Embrague/embrague-viscoso-electromagnetico-8-agujeros-chezhou-14809.jpg",
+        "description": "EMBRAGUE VISCOSO ELECTROMAGNETICO / 8 AGUJEROS CHEZHOU 14809 Marca: Chezhou Vehiculos compatibles: IVECO: Motores IVECO FPT F1C 3.0L Euro 5 IVECO: Utilitarios DAILY 40 C14 / 50 C17 / DAILY ECOLINE 35 S14 / 35 S14 HD / 35 C15 / 40 S14 / 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD / DAILY MY 30-160 / 35-150 / 35-160 / 45-170 / 55-170 / 60-170 HD / 65-170 / 70-170 y Bus 45 S17 / 50 C17 / 55 C17 / 70 C17 / 70 C17 HD Codigo Original / Similar: 5801480325 / 504331675 (IVECO) 5801598372 (IVECO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7507",
+        "name": "EJE HORQUILLA DE EMBRAGUE CORTO IMP.",
+        "brand": "Imp",
+        "code": "1477",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-corto-imp-1477.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE CORTO IMP. 1477 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / L 2638/54 y Bus 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 388.254.0006 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7508",
+        "name": "EJE HORQUILLA DE EMBRAGUE MEDIANO IMP.",
+        "brand": "Imp",
+        "code": "1478",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-mediano-imp-1478.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE MEDIANO IMP. 1478 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / 2423 B / 2423 K y Bus OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1318 / OHL 1621 / 0500 M 1725 / 0500 U 1725 Codigo Original / Similar: 386.254.0006 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7509",
+        "name": "EJE HORQUILLA DE EMBRAGUE LARGO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "1479",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-largo-industria-argentina-1479.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE LARGO INDUSTRIA ARGENTINA 1479 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Codigo Original / Similar: 388.254.0106 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7510",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 163MM CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14791",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-163mm-chezhou-14791.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 163MM CHEZHOU 14791 Marca: Chezhou Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (99/03) FORD / VW / CUMMINS / MWM: Motor CUMMINS 6BTAA Codigo Original / Similar: 15.17740-3.A (BORG WARNER) F7HT/8A616/DA / F7HZ/8A616/DA (FORD)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7511",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 233MM. / 6 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14793",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-233mm-6-agujeros-chezhou-14793.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 233MM. / 6 AGUJEROS CHEZHOU 14793 Marca: Chezhou Vehiculos compatibles: VOLVO: Camiones VM 310 VOLVO: Motores MWM MWM7A310 – 7.2 Lts. Codigo Original / Similar: 1932.320 (MODEFER) 20.765.700/V (VOLVO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7512",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 190MM. / 6 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14794",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-190mm-6-agujeros-chezhou-14794.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 190MM. / 6 AGUJEROS CHEZHOU 14794 Marca: Chezhou Vehiculos compatibles: VOLVO: Camiones VM 210 / VM 260 VOLVO: Motores MWM 4.12 TCE / 6.12 TCE Codigo Original / Similar: 1932.319 (MODEFER) 20.765.694/V (VOLVO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7513",
+        "name": "EMBRAGUE VISCOSO / DIAM. EXT. 186MM. / 6 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "14795",
+        "image": "img/products/Embrague/embrague-viscoso-diam-ext-186mm-6-agujeros-chezhou-14795.jpg",
+        "description": "EMBRAGUE VISCOSO / DIAM. EXT. 186MM. / 6 AGUJEROS CHEZHOU 14795 Marca: Chezhou Vehiculos compatibles: VOLVO: Camiones VM 17 210 / VM 17 240 / VM 23 210 / VM 23 240 VOLVO: Motores MWM 6.10 TCA Codigo Original / Similar: 1932.483 (MODEFER) 20.501.355/V (VOLVO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7514",
+        "name": "KIT REPARACION HORQUILLA EMBRAGUE / USADO EN HORQUILLA VANNUCCI IMP.",
+        "brand": "Imp",
+        "code": "14591",
+        "image": "img/products/Embrague/kit-reparacion-horquilla-embrague-usado-en-horquilla-vannucci-imp-14591.jpg",
+        "description": "KIT REPARACION HORQUILLA EMBRAGUE / USADO EN HORQUILLA VANNUCCI IMP. 14591 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 4 Cilindros FORD / VW / CUMMINS / MWM: VW Worker 13190 / 17230 / Constellation 15190 / 17190 / 17230 Codigo Original / Similar: 2T2/141720/V (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7515",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE KNORR DIAM. 23.8MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14379",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-knorr-diam-23-8mm-tf-p-technology-14379.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE KNORR DIAM. 23.8MM. TF&P TECHNOLOGY 14379 Marca: Tfp Technology Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 / D0836 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 Codigo Original / Similar: 2S2/721405 (VW) K098473 / K193911 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7516",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE KNORR DIAM. 22.3MM. / Rosca: M14x1.25 TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14380",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-knorr-diam-22-3mm-rosca-m14x1-25-tf-p-technology-14380.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE KNORR DIAM. 22.3MM. / Rosca: M14x1.25 TF&P TECHNOLOGY 14380 Marca: Tfp Technology Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISL 8.9 Litros FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 Codigo Original / Similar: 2T2/721405 (VW) K098473 / K193911 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7517",
+        "name": "INTERRUPTOR PEDAL EMBRAGUE M12X1.5 3-RHO",
+        "brand": "3 Rho",
+        "code": "14296",
+        "image": "img/products/Embrague/interruptor-pedal-embrague-m12x1-5-3-rho-14296.jpg",
+        "description": "INTERRUPTOR PEDAL EMBRAGUE M12X1.5 3-RHO 14296 Marca: 3 Rho Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Codigo Original / Similar: 1.780.061 (SC)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7518",
+        "name": "SERVOEMBRAGUE WABCO 10 BAR F.S.S",
+        "brand": "F S S",
+        "code": "1430",
+        "image": "img/products/Embrague/servoembrague-wabco-10-bar-f-s-s-1430.jpg",
+        "description": "SERVOEMBRAGUE WABCO 10 BAR F.S.S 1430 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Bus 0500 RSD Codigo Original / Similar: 000.254.0847 (MB) 970.051.445 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7519",
+        "name": "REP. HORQUILLA EMBRAGUE PARCIAL IMP.",
+        "brand": "Imp",
+        "code": "14163",
+        "image": "img/products/Embrague/rep-horquilla-embrague-parcial-imp-14163.jpg",
+        "description": "REP. HORQUILLA EMBRAGUE PARCIAL IMP. 14163 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: 002.992.1501 (X2) + 000.254.0335 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7520",
+        "name": "REP. AYUDA PEDAL EMBRAGUE COMPLETA IMP.",
+        "brand": "Imp",
+        "code": "14166",
+        "image": "img/products/Embrague/rep-ayuda-pedal-embrague-completa-imp-14166.jpg",
+        "description": "REP. AYUDA PEDAL EMBRAGUE COMPLETA IMP. 14166 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 1718 A / 1718 K / 1720 A / 1720 K / 1723 S y Bus OHL 1621 Codigo Original / Similar: 674.290.0093 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7521",
+        "name": "CILINDRO EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "14151",
+        "image": "img/products/Embrague/cilindro-embrague-cipec-14151.jpg",
+        "description": "CILINDRO EMBRAGUE CIPEC 14151 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 Y Bus F 113 Codigo Original / Similar: 1.105.332 / 1.358.800 / 1.361.136 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7522",
+        "name": "SERVOEMBRAGUE WABCO SIN INDICADOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "1410",
+        "image": "img/products/Embrague/servoembrague-wabco-sin-indicador-de-desgaste-f-s-s-1410.jpg",
+        "description": "SERVOEMBRAGUE WABCO SIN INDICADOR DE DESGASTE F.S.S 1410 Marca: F S S Vehiculos compatibles: MERCEDES BENZ: Bus OA 101 EL DETALLE Codigo Original / Similar: 970.051.114 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7523",
+        "name": "SERVO EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "14003",
+        "image": "img/products/Embrague/servo-embrague-cipec-14003.jpg",
+        "description": "SERVO EMBRAGUE CIPEC 14003 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 LA / P 250 LB / P 250 DB / P 310 CB / P 310 DB / P 310 LA / P 360 LA / P 360 CB / P 400 CA / P 400 CB / P 440 CB / G 310 LA / G 310 LB / G 360 LA / G 360 LB / G 400 LA / G 440 CA / G 440 LA / G 480 CB / RN 360 LA / RH 400 LA HIGHLINE / RN 400 LA / RH 400 LB HIGHLINE / RN 400 LB / RH 440 LA HIGHLINE / RN 440 LA / RH 480 LA HIGHLINE / RN 480 LA / R 480 LA BI-TREN / RH 560 LA HIGHLINE / R 560 LA BI-TREN / RH 620 LA HIGHLINE Codigo Original / Similar: 1.367.453 I / 1.454.590 I (SC) 1.469.161 I / 1.513.717 I (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7524",
+        "name": "REPARACION HORQUILLA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "14005",
+        "image": "img/products/Embrague/reparacion-horquilla-embrague-cipec-14005.jpg",
+        "description": "REPARACION HORQUILLA EMBRAGUE CIPEC 14005 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 (+08/2003) Codigo Original / Similar: 1.479.577X / 1.479.578X (SC) 1.543.645X / 1.545.625X (SC) 1.753.479 (SC) 2.086.024X / 1.335.485 (SC) 2.258.072 / 1.737.306X (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7525",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM CIPEC",
+        "brand": "Cipec",
+        "code": "13998",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-28-57mm-cipec-13998.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 28.57MM CIPEC 13998 Marca: Cipec Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 y Bus LO 914 / LO 915 / LO 916 Codigo Original / Similar: 002.295.1607 / 002.295.2507 (MB) 671228G (FTE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7526",
+        "name": "REP. HORQUILLA EMBRAGUE COMPLETA IMP.",
+        "brand": "Imp",
+        "code": "13813",
+        "image": "img/products/Embrague/rep-horquilla-embrague-completa-imp-13813.jpg",
+        "description": "REP. HORQUILLA EMBRAGUE COMPLETA IMP. 13813 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: + 000.254.0335 + 655.254.0206 (MB) 002.992.1501 (X2)+000.254.0017 (X2) (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7527",
+        "name": "REPARACION AYUDA PEDAL DE EMBRAGUE COMPLETA IMP.",
+        "brand": "Imp",
+        "code": "13815",
+        "image": "img/products/Embrague/reparacion-ayuda-pedal-de-embrague-completa-imp-13815.jpg",
+        "description": "REPARACION AYUDA PEDAL DE EMBRAGUE COMPLETA IMP. 13815 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 381.290.0039/C (MB)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7528",
+        "name": "KIT REPARACION AYUDA PEDAL DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "13816",
+        "image": "img/products/Embrague/kit-reparacion-ayuda-pedal-de-embrague-imp-13816.jpg",
+        "description": "KIT REPARACION AYUDA PEDAL DE EMBRAGUE IMP. 13816 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / L 1215 / LK 1218 / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / L 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LK 2318 / LB 2325 / LK 2325 / LK 2418 / L 2638/54 y Bus LO 812 / LO 813 D / LO 814 / LO 914 / LO 915 / OF 1215 / OF 1315 / OF 1620 / OH 1318 Codigo Original / Similar: 382.290.0093 (MB)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7529",
+        "name": "ADAPTADOR / BRIDA EMBRAGUE VISCOSO VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13693",
+        "image": "img/products/Embrague/adaptador-brida-embrague-viscoso-vannucci-13693.jpg",
+        "description": "ADAPTADOR / BRIDA EMBRAGUE VISCOSO VANNUCCI 13693 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D08 34 FORD / VW / CUMMINS / MWM: VW Constellation 15190 / 17190 / 17230 Codigo Original / Similar: 07W/121160/F (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7530",
+        "name": "HORQUILLA EMBRAGUE COMPLETA VANNUCCI",
+        "brand": "Vannucci",
+        "code": "13695",
+        "image": "img/products/Embrague/horquilla-embrague-completa-vannucci-13695.jpg",
+        "description": "HORQUILLA EMBRAGUE COMPLETA VANNUCCI 13695 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Delivery 9170 / 11180 Codigo Original / Similar: 23B/311551 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7531",
+        "name": "EJE HORQUILLA EMBRAGUE / LARGO 180MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13528",
+        "image": "img/products/Embrague/eje-horquilla-embrague-largo-180mm-trucktec-13528.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE / LARGO 180MM. TRUCKTEC 13528 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Bus 0500 RS / 0500 RSD Codigo Original / Similar: 650.254.0006 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7532",
+        "name": "REP. SERVOEMBRAGUE WABCO 100MM. QUINELATO",
+        "brand": "Quinelato",
+        "code": "13419",
+        "image": "img/products/Embrague/rep-servoembrague-wabco-100mm-quinelato-13419.jpg",
+        "description": "REP. SERVOEMBRAGUE WABCO 100MM. QUINELATO 13419 Marca: Quinelato Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 (-2005) y Bus B 12 B / B 12 M (2001-2005) Con Cambio SR-1700 / SR-1900 VOLVO: Camiones FM 9 380 / FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 Con Cambio VT 2014 / 2214 / 2514 (-2005) VOLVO: Servoembragues VOLVO 20.524.584 / 20.524.585 VOLVO: Servoembragues WABCO 970.051.822 0 / 970.051.823 0 Codigo Original / Similar: QA-1343 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7533",
+        "name": "REP. SERVOEMBRAGUE HYDRAIR (GRAU) BEL-AR",
+        "brand": "Bel Ar",
+        "code": "1332",
+        "image": "img/products/Embrague/rep-servoembrague-hydrair-grau-bel-ar-1332.jpg",
+        "description": "REP. SERVOEMBRAGUE HYDRAIR (GRAU) BEL-AR 1332 Marca: Bel Ar Vehiculos compatibles: MERCEDES BENZ: Bus OF 1620 / OH 1315 / OH 1316 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 MERCEDES BENZ: Servoembragues HYDRAIR 000.290.2112 Codigo Original / Similar: 000.290.2515 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7534",
+        "name": "CRAPODINA EMBRAGUE / 6MM. MAS BAJA MJB",
+        "brand": "Mjb",
+        "code": "13270",
+        "image": "img/products/Embrague/crapodina-embrague-6mm-mas-baja-mjb-13270.jpg",
+        "description": "CRAPODINA EMBRAGUE / 6MM. MAS BAJA MJB 13270 Marca: Mjb Vehiculos compatibles: IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 y Bus EUROCARGO CC170 E22 / CC118 E20 GNC (Para uso con Tubo Guia)(Para Placa Sachs de 350/380mm.) Codigo Original / Similar: 3391 (Sachs) 503101330 / 5801302211 (IVECO) VKC-4689A / VKC-4740 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7535",
+        "name": "CILINDRO EMBRAGUE 19.05MM. / PLASTICO / VASTAGO 90MM. A-TECH",
+        "brand": "A Tech",
+        "code": "13156",
+        "image": "img/products/Embrague/cilindro-embrague-19-05mm-plastico-vastago-90mm-a-tech-13156.jpg",
+        "description": "CILINDRO EMBRAGUE 19.05MM. / PLASTICO / VASTAGO 90MM. A-TECH 13156 Marca: A Tech Vehiculos compatibles: MERCEDES BENZ: Camiones 710/42 / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K y Bus LO 812 / LO 814 Codigo Original / Similar: 000.295.0406 (MB) 001.295.9506 / 001.295.9306 (MB) 002.295.0306 / 002.295.0406 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7536",
+        "name": "CILINDRO EMBRAGUE PLASTICO / VASTAGO 95MM. A-TECH",
+        "brand": "A Tech",
+        "code": "13157",
+        "image": "img/products/Embrague/cilindro-embrague-plastico-vastago-95mm-a-tech-13157.jpg",
+        "description": "CILINDRO EMBRAGUE PLASTICO / VASTAGO 95MM. A-TECH 13157 Marca: A Tech Vehiculos compatibles: MERCEDES BENZ: Camiones ACTROS Varios Modelos Codigo Original / Similar: 002.295.0706 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7537",
+        "name": "EMBRAGUE VISCOSO ELECTROMAGNETICO / TIPO BEHR CHEZHOU",
+        "brand": "Chezhou",
+        "code": "13138",
+        "image": "img/products/Embrague/embrague-viscoso-electromagnetico-tipo-behr-chezhou-13138.jpg",
+        "description": "EMBRAGUE VISCOSO ELECTROMAGNETICO / TIPO BEHR CHEZHOU 13138 Marca: Chezhou Vehiculos compatibles: SCANIA: Camiones P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 340 / R 380 / R 340 / R 380 / R 420 / R 470 / R 500 / R 580 V8 SCANIA: Motores SCANIA D11 / D12 / D16 Codigo Original / Similar: 1.763.618/V/ 1.502.308/V (MB) 1932.644 (MODEFER) 2.052.005/V / 2.132.264/V (MB) 2.410.085/V (MB)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7538",
+        "name": "CRAPODINA EMBRAGUE / ALTA THE",
+        "brand": "The",
+        "code": "13117",
+        "image": "img/products/Embrague/crapodina-embrague-alta-the-13117.jpg",
+        "description": "CRAPODINA EMBRAGUE / ALTA THE 13117 Marca: The Vehiculos compatibles: RENAULT: Camiones PREMIUM / MIDLUM DXI 7 (Para Placa de 362mm. De empujar) Codigo Original / Similar: 3151000752 (Sachs) 500122810 (Luk) 5010545988 / 7421188863 (RENAULT) 545988RR (THE) 830072 (VALEO)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P7539",
+        "name": "CRAPODINA EMBRAGUE / BAJA THE",
+        "brand": "The",
+        "code": "13119",
+        "image": "img/products/Embrague/crapodina-embrague-baja-the-13119.jpg",
+        "description": "CRAPODINA EMBRAGUE / BAJA THE 13119 Marca: The Vehiculos compatibles: RENAULT: Camiones PREMIUM 320 DXI Codigo Original / Similar: 262341 (VALEO) 3151150041 (Sachs) 500063130 (Luk) 5000821330 (RENAULT) 821330RR (THE) VKC2173 (SKF)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P7540",
+        "name": "ROTULA HORQUILLA DE EMBRAGUE / CHICA MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1311",
+        "image": "img/products/Embrague/rotula-horquilla-de-embrague-chica-montecristo-1311.jpg",
+        "description": "ROTULA HORQUILLA DE EMBRAGUE / CHICA MONTECRISTO 1311 Marca: Montecristo Vehiculos compatibles: AGRALE: Camiones AGRALE 6000 / 8500 / 9200 y Bus VOLARE W8 / W9 Codigo Original / Similar: 6013003036008 (AGRALE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7541",
+        "name": "EJE HORQUILLA EMBRAGUE 180MM. MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1301",
+        "image": "img/products/Embrague/eje-horquilla-embrague-180mm-montecristo-1301.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE 180MM. MONTECRISTO 1301 Marca: Montecristo Vehiculos compatibles: IVECO: Camiones EUROCARGO 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 y Bus CC 118 E20 GNC / CC 170 E22 Codigo Original / Similar: 503101153 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7542",
+        "name": "REP. HORQUILLA EMBRAGUE CON RODILLO GRANDE VANNUCCI",
+        "brand": "Vannucci",
+        "code": "1296",
+        "image": "img/products/Embrague/rep-horquilla-embrague-con-rodillo-grande-vannucci-1296.jpg",
+        "description": "REP. HORQUILLA EMBRAGUE CON RODILLO GRANDE VANNUCCI 1296 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e / 1722e / 1832e / 2632e / F14000 (02-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E y 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: DIAM. RODILLO 25.5MM. / ESPESOR RODILLO 17.5MM. / LARGO TOTAL 40MM / ESPESOR PERNO 12MM",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7543",
+        "name": "BUJE HORQUILLA EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12882",
+        "image": "img/products/Embrague/buje-horquilla-embrague-industria-argentina-12882.jpg",
+        "description": "BUJE HORQUILLA EMBRAGUE INDUSTRIA ARGENTINA 12882 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0371 RS / 0371 RSD / 0371 RSD / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 001.992.8401 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7544",
+        "name": "RODILLO HORQUILLA DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12887",
+        "image": "img/products/Embrague/rodillo-horquilla-de-embrague-industria-argentina-12887.jpg",
+        "description": "RODILLO HORQUILLA DE EMBRAGUE INDUSTRIA ARGENTINA 12887 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Cajas MB G 56-6 / G 60-6 / G 85-6 / G 210-16 / G 211/16 / G 221-9 / G 240-16 / GO-190 / GO-210 MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / L 1938 / LS 1938 / LS 1938 EL / 1938 S / LS 1941 / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933/45 / 1933S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 3340 K y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0371 RS / 0371 RSD / 0371 RSD / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 000.254.0017 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7545",
+        "name": "JGO. TRABAS CILINDRO ACTUADOR DE EMBRAGUE / ESCLAVO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "12670",
+        "image": "img/products/Embrague/jgo-trabas-cilindro-actuador-de-embrague-esclavo-tf-p-technology-12670.jpg",
+        "description": "JGO. TRABAS CILINDRO ACTUADOR DE EMBRAGUE / ESCLAVO TF&P TECHNOLOGY 12670 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Codigo Original / Similar: 1.341.683 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7546",
+        "name": "ORING RODILLO HORQUILLA DE EMBRAGUE / CAJA CAMBIOS CIPEC",
+        "brand": "Cipec",
+        "code": "12556",
+        "image": "img/products/Embrague/oring-rodillo-horquilla-de-embrague-caja-cambios-cipec-12556.jpg",
+        "description": "ORING RODILLO HORQUILLA DE EMBRAGUE / CAJA CAMBIOS CIPEC 12556 Marca: Cipec Vehiculos compatibles: SCANIA: (Caja de cambios) Camiones P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 / P 250 / P 310 / P 360 / P 400 / G 310 / G 360 / G 400 / G 440 / G 480 / R 360 / R 400 / R 440 / R 480 / R 560 / R 620 SCANIA: (Horquilla de Embrague) Camiones P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Codigo Original / Similar: 1.494.100 (SC)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7547",
+        "name": "RODILLO HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "12478",
+        "image": "img/products/Embrague/rodillo-horquilla-embrague-imp-12478.jpg",
+        "description": "RODILLO HORQUILLA EMBRAGUE IMP. 12478 Marca: Imp Vehiculos compatibles: IVECO: Camiones STRALIS ECOLINE EUROTRONIC 200 S36 AT / 200 S44 AT / 460 S36T AT / 490 S40T AT / 490 S40T AS / 490 S40T AT / 490 S44T AT / 490 S48T AS / 530 S36T AT / 600 S40T AT / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S44T / 800 S48T / 800 S56T / TECTOR 170 E28S / 170 E30S / 240 E28S / 240 E30S / TRAKKER 410 T42 AD / TRAKKER ECOLINE 410 T44 AD / 410 T48 AD / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 380 T44 AT / 410 T48 AD / 410 T48 AT / 500 T48 AD / 740 T48T AD y Bus 170 E28 Codigo Original / Similar: 500021106 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7548",
+        "name": "EJE PEDAL FRENO Y EMBRAGUE / 16 X 245MM. MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1248",
+        "image": "img/products/Embrague/eje-pedal-freno-y-embrague-16-x-245mm-montecristo-1248.jpg",
+        "description": "EJE PEDAL FRENO Y EMBRAGUE / 16 X 245MM. MONTECRISTO 1248 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Camiones 1938 S / ATEGO 1418 / 1725 / 2425/48 / AXOR 1933/45 / 1933 S / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: 970.294.0274 (MB)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P7549",
+        "name": "ROTULA ESFERICA HORQUILLA DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "12389",
+        "image": "img/products/Embrague/rotula-esferica-horquilla-de-embrague-imp-12389.jpg",
+        "description": "ROTULA ESFERICA HORQUILLA DE EMBRAGUE IMP. 12389 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 17280 y Bus 17280 OT Codigo Original / Similar: 2T2/301090 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7550",
+        "name": "EJE HORQUILLA EMBRAGUE 186MM IMP.",
+        "brand": "Imp",
+        "code": "12364",
+        "image": "img/products/Embrague/eje-horquilla-embrague-186mm-imp-12364.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE 186MM IMP. 12364 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317e / 1517e Codigo Original / Similar: 4C45/7590/AA (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7551",
+        "name": "CILINDRO EMBRAGUE AUXILIAR 1 1/8″ FUNDICION INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12370",
+        "image": "img/products/Embrague/cilindro-embrague-auxiliar-1-1-8-fundicion-industria-argentina-12370.jpg",
+        "description": "CILINDRO EMBRAGUE AUXILIAR 1 1/8″ FUNDICION INDUSTRIA ARGENTINA 12370 Marca: Industria Argentina Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / 1519 Codigo Original / Similar: BC45/7A508/BB / BC4Z/7A508/A (FORD)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7552",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "12331",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-imp-12331.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE IMP. 12331 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / C1722 / C1932 / C2632 / 1519 / 1723 / 1729 / 1933 / 3129 Codigo Original / Similar: BC45/7A543/AB (FORD) K043961 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7553",
+        "name": "SOPORTE SERVO EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "12318",
+        "image": "img/products/Embrague/soporte-servo-embrague-imp-12318.jpg",
+        "description": "SOPORTE SERVO EMBRAGUE IMP. 12318 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 17250 E Codigo Original / Similar: 2RM/141691 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7554",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE / DIAM. 31.75MM. A-TECH",
+        "brand": "A Tech",
+        "code": "11981",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-31-75mm-a-tech-11981.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE / DIAM. 31.75MM. A-TECH 11981 Marca: A Tech Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / C1722 / C1932 / C2632 / 1519 / 1723 / 1729 / 1933 / 3129 Codigo Original / Similar: BC45/7A543/AB (FORD) K043961 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7555",
+        "name": "CILINDRO AUXILIAR EMBRAGUE DIAM. 25.40MM. A-TECH",
+        "brand": "A Tech",
+        "code": "11979",
+        "image": "img/products/Embrague/cilindro-auxiliar-embrague-diam-25-40mm-a-tech-11979.jpg",
+        "description": "CILINDRO AUXILIAR EMBRAGUE DIAM. 25.40MM. A-TECH 11979 Marca: A Tech Vehiculos compatibles: AGRALE: Bus VOLARE / MA 12 / MA 15 AGRALE: Motores MWM 4.10 TCA / 4.12 TCE IVECO: Camiones EUROCARGO TECTOR 170 E22 / TECTOR ECOLINE 170 E28S / 240 E28S / TECTOR ECOLINE ATTACK 150 E21 / 170 E21 Codigo Original / Similar: 42037645 / 2477718 / 5801223773 (IVECO) 6013003031009 (AGRALE) 6167 / KN25020B1 (FTE)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7556",
+        "name": "PEDAL EMBRAGUE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11939",
+        "image": "img/products/Embrague/pedal-embrague-trucktec-11939.jpg",
+        "description": "PEDAL EMBRAGUE TRUCKTEC 11939 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI Codigo Original / Similar: 901.290.2016 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7557",
+        "name": "BULON PLACA EMBRAGUE M10 X 1.5 X 80 INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11813",
+        "image": "img/products/Embrague/bulon-placa-embrague-m10-x-1-5-x-80-industria-argentina-11813.jpg",
+        "description": "BULON PLACA EMBRAGUE M10 X 1.5 X 80 INDUSTRIA ARGENTINA 11813 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1624 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1720/48 / L 1938 EL / 2423B / 2423K / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1419 / 1720 / 1721 / 1725 / 1726 / 1729 / 2425/48 / 2426 / 2730 / AXOR 1933/45 / 1933 S/36 / 2035 S / 2036 S / 2040 S / 2041 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K / ATRON 1624 / 1634 / 1720 / 1735 y Bus OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1718 L-SB / OH 1721 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: N910105.010016 (MB)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7558",
+        "name": "HORQUILLA EMBRAGUE CON RODILLOS Y BUJES IMP.",
+        "brand": "Imp",
+        "code": "11784",
+        "image": "img/products/Embrague/horquilla-embrague-con-rodillos-y-bujes-imp-11784.jpg",
+        "description": "HORQUILLA EMBRAGUE CON RODILLOS Y BUJES IMP. 11784 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1941 y Bus 0500 M 1725 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 388.250.0513 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7559",
+        "name": "REP. SERVOEMBRAGUE 100MM. WABCO COMPLETA QUINELATO",
+        "brand": "Quinelato",
+        "code": "1141",
+        "image": "img/products/Embrague/rep-servoembrague-100mm-wabco-completa-quinelato-1141.jpg",
+        "description": "REP. SERVOEMBRAGUE 100MM. WABCO COMPLETA QUINELATO 1141 Marca: Quinelato Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: Servoembragues WABCO 884.503.728 0 / 970.051.128 0 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / ATEGO 1725 y Bus OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL MERCEDES BENZ: Camiones L 1623 / LS 1623 / 1718 M / 1728/51 y Bus OF 1620 / OF 1721 / OF 1722 / 0500 M 1725 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / LS 1938 EL y Bus 0500 M 1725 / 0500 R / 0500 RS MERCEDES BENZ: Servoembragues WABCO 970.051.128 0 MERCEDES BENZ: Servoembragues WABCO 970.051.164 0 MERCEDES BENZ: Servoembragues WABCO 970.051.166 0 / 970.051.179 0 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / F 113 / K 113 SCANIA: Servoembragues WABCO 884.502.740 0 / 884.502.819 0 / 970.051.191 0 / 970.051.193 0 / 970.051.107 0 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 10 M / B 10 R / B 12 B / B 12 R VOLVO: Servoembragues WABCO 884.502.747 0 / 884.502.824 0 / 970.051.192 0 / 970.051.194 0 Codigo Original / Similar: 000.295.0660/ 000.290.1347/ 000.290.1447 (MB) 550.457 (SC) 970.051.906 2 / 970.051.956 2 (Wabco) 970.051.955 2 (Wabco) BF0X/7625/AA (FORD) QA-1322 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7560",
+        "name": "REP. SERVOEMBRAGUE 100MM. TACHO BAJO WABCO PARCIAL QUINELATO",
+        "brand": "Quinelato",
+        "code": "1142",
+        "image": "img/products/Embrague/rep-servoembrague-100mm-tacho-bajo-wabco-parcial-quinelato-1142.jpg",
+        "description": "REP. SERVOEMBRAGUE 100MM. TACHO BAJO WABCO PARCIAL QUINELATO 1142 Marca: Quinelato Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: Servoembragues WABCO 884.503.728 0 / 970.051.128 0 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / ATEGO 1725 y Bus OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL MERCEDES BENZ: Camiones L 1623 / LS 1623 / 1718 M / 1728/51 y Bus OF 1620 / OF 1721 / OF 1722 / 0500 M 1725 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / LS 1938 EL y Bus 0500 M 1725 / 0500 R / 0500 RS MERCEDES BENZ: Servoembragues WABCO 970.051.128 0 MERCEDES BENZ: Servoembragues WABCO 970.051.164 0 MERCEDES BENZ: Servoembragues WABCO 970.051.166 0 / 970.051.179 0 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / F 113 / K 113 SCANIA: Servoembragues WABCO 884.502.740 0 / 884.502.819 0 / 970.051.191 0 / 970.051.193 0 / 970.051.107 0 VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC / FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 y Bus B 10 M / B 10 R / B 12 B / B 12 R VOLVO: Servoembragues WABCO 884.502.747 0 / 884.502.824 0 / 970.051.192 0 / 970.051.194 0 Codigo Original / Similar: 000.290.0147 (MB) QA-1322P (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7561",
+        "name": "REP. SERVOEMBRAGUE KONSBERG COMPLETA / 100MM. QUINELATO",
+        "brand": "Quinelato",
+        "code": "11351",
+        "image": "img/products/Embrague/rep-servoembrague-konsberg-completa-100mm-quinelato-11351.jpg",
+        "description": "REP. SERVOEMBRAGUE KONSBERG COMPLETA / 100MM. QUINELATO 11351 Marca: Quinelato Vehiculos compatibles: RENAULT: Camiones PREMIUM / KERAX DXI 11/13 / MAGNUM DXI 12/13 RENAULT: Servoembragues Konsberg 626736AM / 627612AM / 629300AM / 630889AM / 631141AM RENAULT: Servoembragues Renault 5010545581 / 5001866284 VOLVO: Servoembragues VOLVO 20.812.692 Codigo Original / Similar: QA-1959 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7562",
+        "name": "REP SERVOEMBRAGUE WABCO PARCIAL / CILINDRO FINO QUINELATO",
+        "brand": "Quinelato",
+        "code": "11350",
+        "image": "img/products/Embrague/rep-servoembrague-wabco-parcial-cilindro-fino-quinelato-11350.jpg",
+        "description": "REP SERVOEMBRAGUE WABCO PARCIAL / CILINDRO FINO QUINELATO 11350 Marca: Quinelato Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Servoembragues VW 2P0/721261/A FORD / VW / CUMMINS / MWM: Servoembragues WABCO 970.051.642 0 FORD / VW / CUMMINS / MWM: VW Delivery 9160 / Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 / 17280 / 26280 / 31280 y Bus 9160 OD / 15190 OD / 17230 OD (Todos +2018) Codigo Original / Similar: QA-1340P (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7563",
+        "name": "BUJE PEDAL EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "11305",
+        "image": "img/products/Embrague/buje-pedal-embrague-cipec-11305.jpg",
+        "description": "BUJE PEDAL EMBRAGUE CIPEC 11305 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus F 94 HB / K 94 IB / L 94 UB / K 270 / K 310 / K 124 EB / K 124 IB / K 340 / K 380 / K 420 Codigo Original / Similar: 1.334.539 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7564",
+        "name": "SERVOEMBRAGUE KONSBERG CIPEC",
+        "brand": "Cipec",
+        "code": "11311",
+        "image": "img/products/Embrague/servoembrague-konsberg-cipec-11311.jpg",
+        "description": "SERVOEMBRAGUE KONSBERG CIPEC 11311 Marca: Cipec Vehiculos compatibles: SCANIA: Cajas SCANIA GR-875 / GRS-895 / GRS-905 / GRS-905 R / GRSO-905 R / GRSO-925 R SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / RN 360 / RH 400 / RN 400 / RH 440 / RN 440 / RH 480 / RN 480 / R 480 / RH 560 / R 560 / RH 620 (Todos con Opticruise) Codigo Original / Similar: 1.493.461 / 1.523.399 / 1.784.480 (SC) 1.927.825 / 2.555.0888 (SC) 628554AM / 1000178631AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7565",
+        "name": "REP. RODILLO CENTRAL HORQUILLA DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "10658",
+        "image": "img/products/Embrague/rep-rodillo-central-horquilla-de-embrague-cipec-10658.jpg",
+        "description": "REP. RODILLO CENTRAL HORQUILLA DE EMBRAGUE CIPEC 10658 Marca: Cipec Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 (Para Horquilla Embrague 3.191.966 o 8.171.176) Codigo Original / Similar: 20.806.212 + 20.851.010 (X2) + 1.069.204 (VOLVO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7566",
+        "name": "VASTAGO ESFERICO CILINDRO DE EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1065",
+        "image": "img/products/Embrague/vastago-esferico-cilindro-de-embrague-montecristo-1065.jpg",
+        "description": "VASTAGO ESFERICO CILINDRO DE EMBRAGUE MONTECRISTO 1065 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Camiones 1215 C / L 1218 EL / L 1318 / LK 1318 / 1718 M / ATEGO 1418 / Bus OF 1417 / OF 1418 / OH 1115 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 Codigo Original / Similar: 679.295.0174 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7567",
+        "name": "PORTA CRAPODINA DE EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "10626",
+        "image": "img/products/Embrague/porta-crapodina-de-embrague-cipec-10626.jpg",
+        "description": "PORTA CRAPODINA DE EMBRAGUE CIPEC 10626 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / R 113 / T 113 y Bus F 112 / K 112 / K 113 (Para Placa Sachs/Valeo de 420mm.) Codigo Original / Similar: 358.639 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7568",
+        "name": "CHAVETA EJE HORQUILLA EMBRAGUE / CIGUEÑAL COMPRESOR CIPEC",
+        "brand": "Cipec",
+        "code": "10635",
+        "image": "img/products/Embrague/chaveta-eje-horquilla-embrague-ciguenal-compresor-cipec-10635.jpg",
+        "description": "CHAVETA EJE HORQUILLA EMBRAGUE / CIGUEÑAL COMPRESOR CIPEC 10635 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 800.698 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7569",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3286 TKL",
+        "brand": "TKL",
+        "code": "10603",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3286-tkl-10603.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3286 TKL 10603 Marca: TKL Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37HR / 450 E37T/P / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / TRAKKER 380 T38 / 720 T42T Codigo Original / Similar: 41035648 (IVECO) VG3286 / K002173 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7570",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3287 TKL",
+        "brand": "TKL",
+        "code": "10604",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3287-tkl-10604.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3287 TKL 10604 Marca: TKL Vehiculos compatibles: IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 Codigo Original / Similar: 41035649 (IVECO) VG3287 / K004295 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7571",
+        "name": "BULON HORQUILLA CAJA / EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "10613",
+        "image": "img/products/Embrague/bulon-horquilla-caja-embrague-cipec-10613.jpg",
+        "description": "BULON HORQUILLA CAJA / EMBRAGUE CIPEC 10613 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 234.309 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7572",
+        "name": "PERNO RETORNO PEDAL EMBRAGUE MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "1057",
+        "image": "img/products/Embrague/perno-retorno-pedal-embrague-montecristo-1057.jpg",
+        "description": "PERNO RETORNO PEDAL EMBRAGUE MONTECRISTO 1057 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1720/48 / 1721 S / 1722 S / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 B / ACCELO 915 C y Bus OF 1417 / OF 1418 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / OHL 1621 / 0500 M 1725 / 0500 U 1725 / 0500 MA 2836 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 673.291.0074 (MB)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7573",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 38.10MM. IMBASA",
+        "brand": "Imbasa",
+        "code": "10562",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-diam-38-10mm-imbasa-10562.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE DIAM. 38.10MM. IMBASA 10562 Marca: Imbasa Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1622 / LS 1622 / L 1624 / 1718 A / 1718 K / 1720 A / 1720 K / 1721 S / 1722 S / 2423 B / 2423 K y Bus OHL 1621 Codigo Original / Similar: 386.295.7007 / 386.295.7207 (MB) 6414 (ATE) RCCE 0031.9 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7574",
+        "name": "BUJE DESLIZANTE HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "1053",
+        "image": "img/products/Embrague/buje-deslizante-horquilla-embrague-imp-1053.jpg",
+        "description": "BUJE DESLIZANTE HORQUILLA EMBRAGUE IMP. 1053 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 – ISCe6 FORD / VW / CUMMINS / MWM: Motores MAN D0836 FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 19320 E / 24250 E / 25320 E / 31320 E / 17280 MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / 1214 C / L 1218 R / LK 1218 R / L 1418 R / LK 1418 R y Bus LO 812 / LO 813 D / LO 814 / OF 1620 / OH 1320 / OHL 1320 / OHL 1420 Codigo Original / Similar: 001.254.0235 (MB) 2T2/141197/A (VW) S 1409 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7575",
+        "name": "REP. SERVOEMBRAGUE WABCO DIAMETRO 102MM. CON ACCIONAMIENTO ELECTRONICO QUINELATO",
+        "brand": "Quinelato",
+        "code": "10518",
+        "image": "img/products/Embrague/rep-servoembrague-wabco-diametro-102mm-con-accionamiento-electronico-quinelato-10518.jpg",
+        "description": "REP. SERVOEMBRAGUE WABCO DIAMETRO 102MM. CON ACCIONAMIENTO ELECTRONICO QUINELATO 10518 Marca: Quinelato Vehiculos compatibles: MERCEDES BENZ: Camiones ACTROS 2646 S / 2646 LS / 2646 LS/33 / 2655 LS/33 MERCEDES BENZ: Servoembragues MB 000.250.0562 / 000.250.1562 MERCEDES BENZ: Servoembragues WABCO 970.150.001 0 / 970.150.008 0 Codigo Original / Similar: 970.150.923 2 / 970.150.924 2 (Wabco) QA-1321 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7576",
+        "name": "REP. SERVOEMBRAGUE KNORR COMPLETA QUINELATO",
+        "brand": "Quinelato",
+        "code": "10519",
+        "image": "img/products/Embrague/rep-servoembrague-knorr-completa-quinelato-10519.jpg",
+        "description": "REP. SERVOEMBRAGUE KNORR COMPLETA QUINELATO 10519 Marca: Quinelato Vehiculos compatibles: IVECO: Camiones CURSOR 190 E31 / 450 E31T / EUROCARGO 150 E20N / 150 E20T / 160 E21 / 160 E23 / EUROTECH 440 E32TZ/P / 450 E37 / 450 E37T / 450 E37 HR / EUROTRAKKER MP 450 E37T IVECO: Servoembragues KNORR II 35696 Codigo Original / Similar: 35696/008 (Knorr) 93162181 (IVECO) QA-1908R (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7577",
+        "name": "REP. CILINDRO EMBRAGUE MAESTRO DIAM. 38.10MM. A-TECH",
+        "brand": "A Tech",
+        "code": "10468",
+        "image": "img/products/Embrague/rep-cilindro-embrague-maestro-diam-38-10mm-a-tech-10468.jpg",
+        "description": "REP. CILINDRO EMBRAGUE MAESTRO DIAM. 38.10MM. A-TECH 10468 Marca: A Tech Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB SCANIA: Para Cilindros Embrague 1.506.121 / 1.545.626 / 1.754.943 Codigo Original / Similar: 1.764.082 / 1.764.085 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7578",
+        "name": "EJE HORQUILLA EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "1040",
+        "image": "img/products/Embrague/eje-horquilla-embrague-imp-1040.jpg",
+        "description": "EJE HORQUILLA EMBRAGUE IMP. 1040 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / 1214 C y Bus LO 812 / LO 813 D / LO 814 Codigo Original / Similar: 675.254.0007 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7579",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 22.22MM. FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "10363",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-22-22mm-freno-silent-10363.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 22.22MM. FRENO:SILENT 10363 Marca: Frenosilent Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 (96-98) Codigo Original / Similar: 2SB/721405 (FORD) RCCE 0049.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7580",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 22MM. FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "10364",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-diam-22mm-freno-silent-10364.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE DIAM. 22MM. FRENO:SILENT 10364 Marca: Frenosilent Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e Codigo Original / Similar: E5HT/7A543/BA (FORD) RCCE 0068.0 (VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7581",
+        "name": "ORING RODILLO CENTRAL HORQUILLA EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "10232",
+        "image": "img/products/Embrague/oring-rodillo-central-horquilla-embrague-cipec-10232.jpg",
+        "description": "ORING RODILLO CENTRAL HORQUILLA EMBRAGUE CIPEC 10232 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 / P 94 y Bus K 94 IB / F 94 HB / K 124 EB / K 124 IB Codigo Original / Similar: 1.386.454 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7582",
+        "name": "EJE PEDAL FRENO Y EMBRAGUE CIPEC",
+        "brand": "Cipec",
+        "code": "10224",
+        "image": "img/products/Embrague/eje-pedal-freno-y-embrague-cipec-10224.jpg",
+        "description": "EJE PEDAL FRENO Y EMBRAGUE CIPEC 10224 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / K 124 EB / K 124 IB Codigo Original / Similar: 1.327.046 (SC)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7583",
+        "name": "REP. SERVOEMBRAGUE / EHCA QUINELATO",
+        "brand": "Quinelato",
+        "code": "10116",
+        "image": "img/products/Embrague/rep-servoembrague-ehca-quinelato-10116.jpg",
+        "description": "REP. SERVOEMBRAGUE / EHCA QUINELATO 10116 Marca: Quinelato Vehiculos compatibles: SCANIA: Camiones y Bus Todos con Sistema OPTICRUISE +2010 SCANIA: Servoembragues FTE S2CP10055A Codigo Original / Similar: 1.931.444R / 2.023.059R (SCANIA) 2.037.304R / 574.929R (SCANIA) QA-1948 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7584",
+        "name": "EJE HORQUILLA DE EMBRAGUE LARGO 340MM. IMP.",
+        "brand": "Imp",
+        "code": "10067",
+        "image": "img/products/Embrague/eje-horquilla-de-embrague-largo-340mm-imp-10067.jpg",
+        "description": "EJE HORQUILLA DE EMBRAGUE LARGO 340MM. IMP. 10067 Marca: Imp Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / CURSOR ECOLINE 450 C33 / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S33 AD / 460 S33T AT / 460 S36T AT / 490 S40T AT / 490 S44T AT / 530 S36T AT / 600 S40T AT / 600 S44T AT / TRAKKER 380 T38 / 720 T42T / TRAKKER ECOLINE 380 T44 AT EUROTRONIC / 410 T44 AD / 410 T48 AD / 410 T48 AT EUROTRONIC Codigo Original / Similar: 42103387 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7585",
+        "name": "VASTAGO SERVOEMBRAGUE / TEMPLADO IMP.",
+        "brand": "Imp",
+        "code": "10077",
+        "image": "img/products/Embrague/vastago-servoembrague-templado-imp-10077.jpg",
+        "description": "VASTAGO SERVOEMBRAGUE / TEMPLADO IMP. 10077 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Bus 15190 EOD / 17230 EOD Codigo Original / Similar: 2Z0/141740 (VW)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7586",
+        "name": "BUJE EJE HORQUILLA DE EMBRAGUE SDUBO",
+        "brand": "Sdubo",
+        "code": "10083",
+        "image": "img/products/Embrague/buje-eje-horquilla-de-embrague-sdubo-10083.jpg",
+        "description": "BUJE EJE HORQUILLA DE EMBRAGUE SDUBO 10083 Marca: Sdubo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E / 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 Codigo Original / Similar: 2U2/141715 (VW) S1464 (SDUBO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7587",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3286 TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10051",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3286-tf-p-technology-10051.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3286 TF&P TECHNOLOGY 10051 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37HR / 450 E37T/P / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / TRAKKER 380 T38 / 720 T42T Codigo Original / Similar: 41035648 (IVECO) VG3286 / K002173 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7588",
+        "name": "CILINDRO EMBRAGUE / BOMBA TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10044",
+        "image": "img/products/Embrague/cilindro-embrague-bomba-tf-p-technology-10044.jpg",
+        "description": "CILINDRO EMBRAGUE / BOMBA TF&P TECHNOLOGY 10044 Marca: Tfp Technology Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Codigo Original / Similar: 906.290.0212 / 906.290.0112 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7589",
+        "name": "REP. SERVOEMBRAGUE KNORR TIPO VG3286 F.S.S",
+        "brand": "F S S",
+        "code": "10023",
+        "image": "img/products/Embrague/rep-servoembrague-knorr-tipo-vg3286-f-s-s-10023.jpg",
+        "description": "REP. SERVOEMBRAGUE KNORR TIPO VG3286 F.S.S 10023 Marca: F S S Vehiculos compatibles: IVECO: Camiones CAVALLINO 180 E32 / 450 E32T / 450 E32TY / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E21 / 160 E23 / EUROCARGO ATTACK 230 E24 / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 HR / 450 E37TP / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / STRALIS HD 450 S38T / HD 450 S38 HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T Codigo Original / Similar: 42546405 (IVECO) K005772 (Knorr)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7590",
+        "name": "SERVOEMBRAGUE WABCO 100MM. F.S.S",
+        "brand": "F S S",
+        "code": "10024",
+        "image": "img/products/Embrague/servoembrague-wabco-100mm-f-s-s-10024.jpg",
+        "description": "SERVOEMBRAGUE WABCO 100MM. F.S.S 10024 Marca: F S S Vehiculos compatibles: RENAULT: Camiones PREMIUM / KERAX Codigo Original / Similar: 5010452512 (RENAULT) 970.051.422 0 (Wabco)",
+        "rubro": "FRENOS"
+    },
+    {
+        "id": "P7591",
+        "name": "SERVOEMBRAGUE WABCO 100MM. PREMIUM TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "10025",
+        "image": "img/products/Embrague/servoembrague-wabco-100mm-premium-tf-p-technology-10025.jpg",
+        "description": "SERVOEMBRAGUE WABCO 100MM. PREMIUM TF&P TECHNOLOGY 10025 Marca: Tfp Technology Vehiculos compatibles: RENAULT: Camiones PREMIUM / KERAX / MAGNUM Codigo Original / Similar: 5001864290 / 5010452511 (RENAULT) 970.051.438 0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7592",
+        "name": "SERVOEMBRAGUE WABCO 80MM. F.S.S",
+        "brand": "F S S",
+        "code": "10026",
+        "image": "img/products/Embrague/servoembrague-wabco-80mm-f-s-s-10026.jpg",
+        "description": "SERVOEMBRAGUE WABCO 80MM. F.S.S 10026 Marca: F S S Vehiculos compatibles: RENAULT: Camiones MIDLUM Codigo Original / Similar: 5010452472 (RENAULT) 970.051.430.0 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7593",
+        "name": "HORQUILLA EMBRAGUE CORTA REFORMA / NODULAR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0940",
+        "image": "img/products/Embrague/horquilla-embrague-corta-reforma-nodular-industria-argentina-0940.jpg",
+        "description": "HORQUILLA EMBRAGUE CORTA REFORMA / NODULAR INDUSTRIA ARGENTINA 0940 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1517 / L 1518 Codigo Original / Similar: 352.250.0113/RC (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7594",
+        "name": "HORQUILLA EMBRAGUE MEDIANA REFORMA / NODULAR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0941",
+        "image": "img/products/Embrague/horquilla-embrague-mediana-reforma-nodular-industria-argentina-0941.jpg",
+        "description": "HORQUILLA EMBRAGUE MEDIANA REFORMA / NODULAR INDUSTRIA ARGENTINA 0941 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1517 / L 1518 y Bus OF 1214 / OH 1314/46 Codigo Original / Similar: 381.250.0113/R (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7595",
+        "name": "ESPARRAGO ARRANQUE / CARTER DE EMBRAGUE 10 X 1.5 X 70 MM. S-3",
+        "brand": "S 3",
+        "code": "0905",
+        "image": "img/products/Embrague/esparrago-arranque-carter-de-embrague-10-x-1-5-x-70-mm-s-3-0905.jpg",
+        "description": "ESPARRAGO ARRANQUE / CARTER DE EMBRAGUE 10 X 1.5 X 70 MM. S-3 0905 Marca: S 3 Vehiculos compatibles: MERCEDES BENZ: Camiones L 710 / L 710/42 / 914 / 1214 C / L 1215 / LK 1615 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus LO 812 / LO 814 / OF 1214 / OF 1315 / OH 1315 / OH 1316 / OHL 1316 MERCEDES BENZ: Motores MB OM 366 / OM 366 A / OM 366 LA Codigo Original / Similar: 000.990.4805 (MB)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7596",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3288 F.S.S",
+        "brand": "F S S",
+        "code": "0874",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3288-f-s-s-0874.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3288 F.S.S 0874 Marca: F S S Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / EUROTECH 440 E42TP/Z / 450 E37 / 450 E37TP / 450 E37 HR / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER MP 450 E37T Codigo Original / Similar: 41035646 / 98438178 / 98420498 (IVECO) K004296 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7597",
+        "name": "HORQUILLA EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0849",
+        "image": "img/products/Embrague/horquilla-embrague-industria-argentina-0849.jpg",
+        "description": "HORQUILLA EMBRAGUE INDUSTRIA ARGENTINA 0849 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Utilitarios MB 180 D Codigo Original / Similar: 631.293.0311 / 631.293.0211 (MB)",
+        "rubro": "MB 180 D"
+    },
+    {
+        "id": "P7598",
+        "name": "HORQUILLA EMBRAGUE ROSCA 14MM. REFORMA / NODULAR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0726",
+        "image": "img/products/Embrague/horquilla-embrague-rosca-14mm-reforma-nodular-industria-argentina-0726.jpg",
+        "description": "HORQUILLA EMBRAGUE ROSCA 14MM. REFORMA / NODULAR INDUSTRIA ARGENTINA 0726 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 381.250.0213 / 381.254.0213 (MB) 390.250.7013/R / 381.254.0208/R (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7599",
+        "name": "CHAPON CUBREVOLANTE DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "0745",
+        "image": "img/products/Embrague/chapon-cubrevolante-de-embrague-imp-0745.jpg",
+        "description": "CHAPON CUBREVOLANTE DE EMBRAGUE IMP. 0745 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 345.251.0002 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7600",
+        "name": "HORQUILLA EMBRAGUE LARGA REFORMA / NODULAR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0712",
+        "image": "img/products/Embrague/horquilla-embrague-larga-reforma-nodular-industria-argentina-0712.jpg",
+        "description": "HORQUILLA EMBRAGUE LARGA REFORMA / NODULAR INDUSTRIA ARGENTINA 0712 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1517 / L 1518 Codigo Original / Similar: 352.250.0113/RL (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7601",
+        "name": "ADAPTADOR HORQUILLA EMBRAGUE REFORMA ROSCA 12MM. X 1.75MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0716",
+        "image": "img/products/Embrague/adaptador-horquilla-embrague-reforma-rosca-12mm-x-1-75mm-industria-argentina-0716.jpg",
+        "description": "ADAPTADOR HORQUILLA EMBRAGUE REFORMA ROSCA 12MM. X 1.75MM. INDUSTRIA ARGENTINA 0716 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7602",
+        "name": "ADAPTADOR HORQUILLA EMBRAGUE REFORMA ROSCA 14MM. X 2MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0717",
+        "image": "img/products/Embrague/adaptador-horquilla-embrague-reforma-rosca-14mm-x-2mm-industria-argentina-0717.jpg",
+        "description": "ADAPTADOR HORQUILLA EMBRAGUE REFORMA ROSCA 14MM. X 2MM. INDUSTRIA ARGENTINA 0717 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7603",
+        "name": "HORQUILLA EMBRAGUE ROSCA 12MM. REFORMA / NODULAR INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0725",
+        "image": "img/products/Embrague/horquilla-embrague-rosca-12mm-reforma-nodular-industria-argentina-0725.jpg",
+        "description": "HORQUILLA EMBRAGUE ROSCA 12MM. REFORMA / NODULAR INDUSTRIA ARGENTINA 0725 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 381.250.0213 / 381.254.0213 (MB) 390.250.7013/R / 381.254.0208/R (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7604",
+        "name": "SERVOEMBRAGUE 100MM. KONSBERG VASTAGO 85MM. F.S.S",
+        "brand": "F S S",
+        "code": "0625",
+        "image": "img/products/Embrague/servoembrague-100mm-konsberg-vastago-85mm-f-s-s-0625.jpg",
+        "description": "SERVOEMBRAGUE 100MM. KONSBERG VASTAGO 85MM. F.S.S 0625 Marca: F S S Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 (-2005) y Bus B 12 B / B 12 M (2001-2005) Con Cambio SR-1700 / SR-1900 Codigo Original / Similar: 20.524.585 (VOLVO) 629277AM (Konsberg)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7605",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3269 F.S.S",
+        "brand": "F S S",
+        "code": "0628",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3269-f-s-s-0628.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3269 F.S.S 0628 Marca: F S S Vehiculos compatibles: IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 740 E42TZ / EUROTRAKKER 380 E37 / MP 450 E37T / MP 720 E42 HT / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 720 T42T / STRALIS HD 450 S38T / HD 450 S38 T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 570 S38T / ATN 740 S42TZ Codigo Original / Similar: 41035502 / 41035647 / 41035649 (IVECO) II 36379 / K004297 (Knorr) VG3269 / VG3289 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7606",
+        "name": "REP. SERVOEMBRAGUE 80MM. KONSBERG QUINELATO",
+        "brand": "Quinelato",
+        "code": "0634",
+        "image": "img/products/Embrague/rep-servoembrague-80mm-konsberg-quinelato-0634.jpg",
+        "description": "REP. SERVOEMBRAGUE 80MM. KONSBERG QUINELATO 0634 Marca: Quinelato Vehiculos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 y Bus B 10 M (Todos -1996) VOLVO: Servoembragues KONSBERG 626392AM Codigo Original / Similar: 271.194 (VOLVO) 626703AM (Konsberg) QA-1950 (QUINELATO)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7607",
+        "name": "REGISTRO DE EMBRAGUE ORIGINAL / ROTULA 12 MM. LARGO 230MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0607",
+        "image": "img/products/Embrague/registro-de-embrague-original-rotula-12-mm-largo-230mm-industria-argentina-0607.jpg",
+        "description": "REGISTRO DE EMBRAGUE ORIGINAL / ROTULA 12 MM. LARGO 230MM. INDUSTRIA ARGENTINA 0607 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / LK 1218 / LK 1615 / L 1618/45 / L 1619 / L 1620 / 1718 K / LK 2318 / LB 2325 / LK 2325 / LK 2418 y Bus OF 1215 / OF 1315 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OH 1419 / OH 1420 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 384.290.7939 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7608",
+        "name": "REGISTRO DE EMBRAGUE ORIGINAL / ROTULA 14 MM. LARGO 270MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0622",
+        "image": "img/products/Embrague/registro-de-embrague-original-rotula-14-mm-largo-270mm-industria-argentina-0622.jpg",
+        "description": "REGISTRO DE EMBRAGUE ORIGINAL / ROTULA 14 MM. LARGO 270MM. INDUSTRIA ARGENTINA 0622 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1215 / / LK 2318 / LB 2325 / LK 2325 / LK 2418 y Bus OF 1214 / OF 1215 / OF 1315 / OH 1314/46 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: 000.295.0233 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7609",
+        "name": "TACHO SERVOEMBRAGUE CORTO SIN INDICADOR DE DESGASTE WABCO F.S.S",
+        "brand": "F S S",
+        "code": "0593",
+        "image": "img/products/Embrague/tacho-servoembrague-corto-sin-indicador-de-desgaste-wabco-f-s-s-0593.jpg",
+        "description": "TACHO SERVOEMBRAGUE CORTO SIN INDICADOR DE DESGASTE WABCO F.S.S 0593 Marca: F S S Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e FORD / VW / CUMMINS / MWM: Servoembragues WABCO 884.503.728 0 / 970.051.128 0 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 17250 E / 26260 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / ATEGO 1725 y Bus OF 1417 / OF 1418 / OF 1721 / OF 1722 / OH 1418/52 / OH 1518 L-SB / OHL 1526 / 0500 M 1725 / 0500 U 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 UP / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL MERCEDES BENZ: Servoembragues WABCO 970.051.128 0 SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / F 113 / K 113 SCANIA: Servoembragues WABCO 884.502.740 0 / 884.502.819 0 / 970.051.191 0 / 970.051.193 0 / 970.051.107 0 VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 340 / NL 12 360 / NL 12 410 y Bus B 10 M (Todos -1996) VOLVO: Servoembragues WABCO 884.502.747 0 / 970.051.192 0 Codigo Original / Similar: 2RP/721425 (FORD) 970.051.013 4 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7610",
+        "name": "TACHO SERVOEMBRAGUE LARGO SIN INDICADOR DE DESGASTE F.S.S",
+        "brand": "F S S",
+        "code": "0594",
+        "image": "img/products/Embrague/tacho-servoembrague-largo-sin-indicador-de-desgaste-f-s-s-0594.jpg",
+        "description": "TACHO SERVOEMBRAGUE LARGO SIN INDICADOR DE DESGASTE F.S.S 0594 Marca: F S S Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Servoembragues WABCO 970.051.125 0 FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 17210 EOD MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1941 / L 2638/54 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0500 R / 0500 RS MERCEDES BENZ: Servoembragues WABCO 970.051.163 0 Codigo Original / Similar: 970.903.010 4 (Wabco)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7611",
+        "name": "TACHO SERVOEMBRAGUE LARGO SIN INDICADOR DE DESGASTE CIPEC",
+        "brand": "Cipec",
+        "code": "0596",
+        "image": "img/products/Embrague/tacho-servoembrague-largo-sin-indicador-de-desgaste-cipec-0596.jpg",
+        "description": "TACHO SERVOEMBRAGUE LARGO SIN INDICADOR DE DESGASTE CIPEC 0596 Marca: Cipec Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Servoembragues WABCO 970.051.125 0 FORD / VW / CUMMINS / MWM: VW Bus 17210 OD / 17210 EOD MERCEDES BENZ: Camiones L 1938 / LS 1938 / LS 1941 / L 2638/54 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0500 R / 0500 RS MERCEDES BENZ: Servoembragues WABCO 970.051.163 0 Codigo Original / Similar: 970.903.010 4 (Wabco)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7612",
+        "name": "VASTAGO EMPUJE CILINDRO EMBRAGUE 15CM. CON REGULACION IMP.",
+        "brand": "Imp",
+        "code": "0556",
+        "image": "img/products/Embrague/vastago-empuje-cilindro-embrague-15cm-con-regulacion-imp-0556.jpg",
+        "description": "VASTAGO EMPUJE CILINDRO EMBRAGUE 15CM. CON REGULACION IMP. 0556 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LB 2325 / LK 2325 / L 2638/54 y Bus LO 812 / LO 813 D / LO 814 / OF 1315 / OF 1620 / OH 1419 / OH 1420 Codigo Original / Similar: 688.290.7039 / 688.290.0439 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7613",
+        "name": "CUBRE PEDAL FRENO Y EMBRAGUE BAYROS 2000",
+        "brand": "Bayros 2000",
+        "code": "0559",
+        "image": "img/products/Embrague/cubre-pedal-freno-y-embrague-bayros-2000-0559.jpg",
+        "description": "CUBRE PEDAL FRENO Y EMBRAGUE BAYROS 2000 0559 Marca: Bayros 2000 Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D / 709 / L 710 / L 710 D / 710/42 / 712 C / 912/42 / L 913 D / 914 / 914 C / 1214 C / 1215 C / L 1215 / L 1218 R / L 1218 EL / LK 1218 / L 1318 / LK 1318 / LK 1418 R / L 1619 / L 1620 / L 1622 / LS 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 / LS 1634 EL 1718 A / 1718 K / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LK 2318 / LB 2325 / LK 2325 / LK 2418 / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K / ACCELO 915 C y Bus LO 608 D / LO 812 / LO 813 D / LO 814 / LO 914 / LO 915 / OF 1214 / OF 1215 / OF 1315 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1314/56 / OH 1315 / OH 1315 L-SB / OH 1318 / OH 1320 / OH 1418/52 / OH 1419 / OH 1420 / OH 1518 L—SB / OH 1618 L-SB / OH 1621 L-SB / OH 1718 L-SB / OH 1721 L-SB / OHL 1316 / OHL 1320 / OHL 1420 / OHL 1526 / OHL 1621 / 0500M 1725 / 0500U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 201.291.0282 / 110.291.0182 (MB)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7614",
+        "name": "VASTAGO AYUDA PEDAL DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "0526",
+        "image": "img/products/Embrague/vastago-ayuda-pedal-de-embrague-imp-0526.jpg",
+        "description": "VASTAGO AYUDA PEDAL DE EMBRAGUE IMP. 0526 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 913 / 914 / L 1215 / LK 1218 / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / L 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / LK 2318 / LB 2325 / LK 2325 / LK 2418 / L 2638/54 y Bus LO 812 / LO 813 D / LO 814 / LO 914 / LO 915 / OF 1215 / OF 1315 / OF 1620 / OH 1318 Codigo Original / Similar: + 111.291.0491 + 381.993.0201 (MB) + 309.291.0091 + 110.993.0501 (MB) 381.290.1439 / 382.290.8419 (MB)",
+        "rubro": "ACELERACION Y PEDALES"
+    },
+    {
+        "id": "P7615",
+        "name": "SERVOEMBRAGUE 100MM. KONSBERG TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "0533",
+        "image": "img/products/Embrague/servoembrague-100mm-konsberg-tf-p-technology-0533.jpg",
+        "description": "SERVOEMBRAGUE 100MM. KONSBERG TF&P TECHNOLOGY 0533 Marca: Tfp Technology Vehiculos compatibles: VOLVO: Camiones FM 9 380 / FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 Con Cambio VT 2014 / 2214 / 2514 (-2005) Codigo Original / Similar: 20.524.584 (VOLVO) 629276AM (Konsberg)",
+        "rubro": "SERVOEMBRAGUES"
+    },
+    {
+        "id": "P7616",
+        "name": "KIT REPARACION VASTAGO CILINDRO PRINCIPAL DE EMBRAGUE UGR",
+        "brand": "UGR",
+        "code": "0497",
+        "image": "img/products/Embrague/kit-reparacion-vastago-cilindro-principal-de-embrague-ugr-0497.jpg",
+        "description": "KIT REPARACION VASTAGO CILINDRO PRINCIPAL DE EMBRAGUE UGR 0497 Marca: UGR Vehiculos compatibles: MERCEDES BENZ: Camiones L 710 / 710/42 / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / LS 1938 EL / L 2638/54 / ACCELO 915 C y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1214 / OH 1314/46 / OH 1315 / OH 1316 / OH 1320 / OH 1419 / OH 1420 / OH 1526 / OHL 1316 / OHL 1320 / OHL 1420 Codigo Original / Similar: + 381.295.0033 + 005.981.3810 (MB) 000.996.1045 / 000.996.1145 (MB) 386.996.7045 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7617",
+        "name": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 28.57MM. / PLASTICO A-TECH",
+        "brand": "A Tech",
+        "code": "0461",
+        "image": "img/products/Embrague/rep-cilindro-maestro-de-embrague-diam-28-57mm-plastico-a-tech-0461.jpg",
+        "description": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 28.57MM. / PLASTICO A-TECH 0461 Marca: A Tech Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 10 320 / FM 9 380 / FM 10 360 / FM 12 340 / FM 12 380 / FM 12 420 / NH 12 380 / NH 12 420 / NH 12 460 y Bus B 12 R VOLVO: Motores VOLVO D 10 B / D 12 A / D 12 C / D 12 D (+2004) VOLVO: Para Cilindros VOLVO 20.835.246 / 8.172.824",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7618",
+        "name": "REP. CILINDRO MAESTRO DE EMBRAGUE COMPLETO A-TECH",
+        "brand": "A Tech",
+        "code": "0464",
+        "image": "img/products/Embrague/rep-cilindro-maestro-de-embrague-completo-a-tech-0464.jpg",
+        "description": "REP. CILINDRO MAESTRO DE EMBRAGUE COMPLETO A-TECH 0464 Marca: A Tech Vehiculos compatibles: IVECO: Camiones EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / EUROTECH 450 E37 / 450 E37T / 450 E37T/P / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER MP 450 E37T IVECO: Para Cilindros IVECO 4853408 Codigo Original / Similar: 93161140 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7619",
+        "name": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM. A-TECH",
+        "brand": "A Tech",
+        "code": "0466",
+        "image": "img/products/Embrague/rep-cilindro-maestro-de-embrague-diam-31-75mm-a-tech-0466.jpg",
+        "description": "REP. CILINDRO MAESTRO DE EMBRAGUE DIAM. 31.75MM. A-TECH 0466 Marca: A Tech Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTRAKKER 380 E37 / 450 E37T / MP 720 E42 IVECO: Para Cilindros IVECO 41211005 / 41285355",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7620",
+        "name": "SERVOEMBRAGUE KNORR TIPO VG3208 F.S.S",
+        "brand": "F S S",
+        "code": "0423",
+        "image": "img/products/Embrague/servoembrague-knorr-tipo-vg3208-f-s-s-0423.jpg",
+        "description": "SERVOEMBRAGUE KNORR TIPO VG3208 F.S.S 0423 Marca: F S S Vehiculos compatibles: IVECO: Camiones IVECO Varios Modelos MERCEDES BENZ: Camiones L 1620 (M-96) / L 1624 / L 1633 / LS 1633 / 1718 M / 1728/51 / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 / 2423 B / 2423 K / 2428 / ATEGO 1725 y Bus OF 1417 / OF 1418 / OF 1721 / OF 1722 / OH 1418/52 / OH 1518-SB / OHL 1526 / 0500 M 1725 / 0370 / 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0371 RSD / 0371 UP / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL Codigo Original / Similar: I 88094 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7621",
+        "name": "LEVA EJE DE EMBRAGUE IMP.",
+        "brand": "Imp",
+        "code": "0165",
+        "image": "img/products/Embrague/leva-eje-de-embrague-imp-0165.jpg",
+        "description": "LEVA EJE DE EMBRAGUE IMP. 0165 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 308.290.0034 / H98.308.293.0010 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7622",
+        "name": "CILINDRO MAESTRO DE EMBRAGUE 22MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0137",
+        "image": "img/products/Embrague/cilindro-maestro-de-embrague-22mm-industria-argentina-0137.jpg",
+        "description": "CILINDRO MAESTRO DE EMBRAGUE 22MM. INDUSTRIA ARGENTINA 0137 Marca: Industria Argentina Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (95-98) FORD / VW / CUMMINS / MWM: VW 8140 y Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: 2SL/721405 (FORD) 919601 (IMBASA) C-2605 (Controil) RCCE 0029-7 (VARGA) TF3/721405 / TAR/721405 (VW)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7623",
+        "name": "CILINDRO AUXILIAR DE EMBRAGUE INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "0042",
+        "image": "img/products/Embrague/cilindro-auxiliar-de-embrague-industria-argentina-0042.jpg",
+        "description": "CILINDRO AUXILIAR DE EMBRAGUE INDUSTRIA ARGENTINA 0042 Marca: Industria Argentina Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 916 / 1119 Codigo Original / Similar: CC45/7A508/AA (FORD) RCCE01510 (TRW-VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7624",
+        "name": "EMBRAGUE VISCOSO 6 AGUJEROS OMER",
+        "brand": "Omer",
+        "code": "0043",
+        "image": "img/products/Embrague/embrague-viscoso-6-agujeros-omer-0043.jpg",
+        "description": "EMBRAGUE VISCOSO 6 AGUJEROS OMER 0043 Marca: Omer Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 2626 / 2631 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 / 24220 / 24250 Codigo Original / Similar: 1932.116 (MODEFER) 2TC/121431/A (VW) TMG/121431 (FORD)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7625",
+        "name": "EMBRAGUE VISCOSO 4 AGUJEROS CHEZHOU",
+        "brand": "Chezhou",
+        "code": "0044",
+        "image": "img/products/Embrague/embrague-viscoso-4-agujeros-chezhou-0044.jpg",
+        "description": "EMBRAGUE VISCOSO 4 AGUJEROS CHEZHOU 0044 Marca: Chezhou Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / F14000 (93-98)(04-05) FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17220 / 9150 E / 10150 E / 13180 E / 15180 E y Bus 9150 OD / 17210 OD / 9150 EOD / 15190 EOD / 17230 EOD Codigo Original / Similar: 1932.114 (MODEFER) 98HU/8A616/BA / 98TU/8A616/CA (FORD) TJ3/121431 / TAP/121431 (VW)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7626",
+        "name": "CILINDRO EMBRAGUE MAESTRO DIAM. 38.1MM. / VASTAGO 129.5MM. / ALUMINIO TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "6422",
+        "image": "img/products/Embrague/cilindro-embrague-maestro-diam-38-1mm-vastago-129-5mm-aluminio-tf-p-technology-6422.jpg",
+        "description": "CILINDRO EMBRAGUE MAESTRO DIAM. 38.1MM. / VASTAGO 129.5MM. / ALUMINIO TF&P TECHNOLOGY 6422 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB / K 124 EB / K 124 IB Codigo Original / Similar: 1.506.121 / 1.545.626 / 1.754.943 (SC)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7627",
+        "name": "VOLANTE DE MOTOR CON CORONA 362MM. / 133 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9778",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-362mm-133-dientes-rmoss-9778.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 362MM. / 133 DIENTES RMOSS 9778 Marca: Rmoss Vehiculos compatibles: MERCEDES BENZ: Camiones 914 C / 1215 C y Bus OH 1115 L-SB / OH 1315 L-SB MERCEDES BENZ: Motores MB OM 904 LA Codigo Original / Similar: 46.35.0102 (CINPAL) 906.030.2005 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7628",
+        "name": "VOLANTE DE MOTOR CON CORONA 350MM. / 133 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9779",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-350mm-133-dientes-rmoss-9779.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 350MM. / 133 DIENTES RMOSS 9779 Marca: Rmoss Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 / L 1620 (M-96) / L 1622 / LS 1622 / 1718 A / 1718 K / 1720 A / 1720 K / 1721 S / 1722 S y Bus OF 1620 / OF 1721 / OH 1318 / OH 1320 / OHL 1320 / OHL 1420 / OHL 1621 MERCEDES BENZ: Motores MB OM 366 A / OM 366 LA Codigo Original / Similar: 376.030.1305 (MB) 46.35.0124 / 46.35.1124 (CINPAL)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7629",
+        "name": "VOLANTE DE MOTOR CON CORONA 420-430MM. / 158 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9780",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-420-430mm-158-dientes-rmoss-9780.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 420-430MM. / 158 DIENTES RMOSS 9780 Marca: Rmoss Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 y Bus F 112 / K 112 (8 Marchas) Codigo Original / Similar: 393.151 / 306.993 (SC) 46.35.1092 (CINPAL)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7630",
+        "name": "VOLANTE DE MOTOR CON CORONA 430MM. / 156 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9783",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-430mm-156-dientes-rmoss-9783.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 430MM. / 156 DIENTES RMOSS 9783 Marca: Rmoss Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC (Todos Monodisco) Codigo Original / Similar: 478.931 (VOLVO)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7631",
+        "name": "VOLANTE DE MOTOR CON CORONA 380MM. / 153 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9784",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-380mm-153-dientes-rmoss-9784.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 380MM. / 153 DIENTES RMOSS 9784 Marca: Rmoss Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 / FM 12 340 / FM 12 380 / FM 12 420 / FM 10 320 (Embrague Monodisco y Bidisco) Codigo Original / Similar: 1.547.025 / 20.730.051 (VOLVO)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7632",
+        "name": "VOLANTE DE MOTOR CON CORONA 430MM. / 153 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9785",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-430mm-153-dientes-rmoss-9785.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 430MM. / 153 DIENTES RMOSS 9785 Marca: Rmoss Vehiculos compatibles: VOLVO: Camiones FH 13 400 / 440 / 480 / 520 (Monodisco +2007) Codigo Original / Similar: 21.246.953 / 21.184.666 (VOLVO)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7633",
+        "name": "VOLANTE DE MOTOR CON CORONA 420MM. / 156 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9786",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-420mm-156-dientes-rmoss-9786.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 420MM. / 156 DIENTES RMOSS 9786 Marca: Rmoss Vehiculos compatibles: IVECO: Camiones EUROTECH 450 E37 / 450 E37T / 450 E37TP Codigo Original / Similar: 98426708 (IVECO)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7634",
+        "name": "VOLANTE DE MOTOR CON CORONA 430MM. / 155 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9787",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-430mm-155-dientes-rmoss-9787.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 430MM. / 155 DIENTES RMOSS 9787 Marca: Rmoss Vehiculos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38TP / HD 450 S38HR / HD S42T / HD S42TP / HD 450 S42HR / HD 570 S38T / HD 570 S42T / AT 200 S38 / AT 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S40 AT / 200 S44 AT / 200 S44 AT EUROTRONIC / 490 S40T AT / 490 S40T AT EUROTRONIC / 490 S44T AS EUROTRONIC / 490 S44T AT / 490 S44T AT EUROTRONIC / 490 S44T HI-WAY EUROTRONIC / 490 S48T AS EUROTRONIC / 490 S48T HI-WAY EUROTRONIC / 600 S40T AT / 600 S40T AT EUROTRONIC / 600 S44T AS EUROTRONIC / 600 S44T AT / 600 S44T AT EUROTRONIC / 600 S44T HI-WAY EUROTRONIC / 600 S48T AS EUROTRONIC / 600 S48T HI-WAY EUROTRONIC / 600 S56T AS EUROTRONIC / 600 S56T HI-WAY EUROTRONIC / 800 S44T AS EUROTRONIC / 800 S44T AT / 800 S44T AT EUROTRONIC / 800 S44T HI-WAY EUROTRONIC / 800 S48T AS / 800 S48T AS EUROTRONIC / 800 S48T AT EUROTRONIC / 800 S48T HI-WAY EUROTRONIC / 800 S56T AS EUROTRONIC / 800 S56T HI-WAY EUROTRONIC / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 720 T42T / TRAKKER ECOLINE 380 T44 AD / 380 T44 AT EUROTRONIC / 410 T44 AD / 410 T48 AD / 410 T48 AD EUROTRONIC / 410 T48 AT EUROTRONIC / 500 T48 AD EUROTRONIC / 740 T48T AD / 740 T48T AD EUROTRONIC Codigo Original / Similar: 99475581 (IVECO)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7635",
+        "name": "VOLANTE DE MOTOR CON CORONA 320MM. / 173 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9788",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-320mm-173-dientes-rmoss-9788.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 320MM. / 173 DIENTES RMOSS 9788 Marca: Rmoss Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 FORD / VW / CUMMINS / MWM: VW 9150 E / 10150 E Codigo Original / Similar: 2R0/105269/C (VW) 3966829 (Cummins) 46.35.1128 (CINPAL)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7636",
+        "name": "VOLANTE DE MOTOR CON CORONA 325MM. / 138 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9791",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-325mm-138-dientes-rmoss-9791.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 325MM. / 138 DIENTES RMOSS 9791 Marca: Rmoss Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA FORD / VW / CUMMINS / MWM: VW 9140 / 9150 y Bus 9150 OD Codigo Original / Similar: 2RD/105269/A (VW) 6007001804003 (AGRALE) 941001450055 (MWM) BF8T/6375/BB (FORD)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7637",
+        "name": "VOLANTE DE MOTOR CON CORONA 327/330MM. / 138 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9792",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-327-330mm-138-dientes-rmoss-9792.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 327/330MM. / 138 DIENTES RMOSS 9792 Marca: Rmoss Vehiculos compatibles: AGRALE: Camiones AGRALE E-TRONIC 8500 / 9200 y Bus AGRALE VOLARE W8 / W9 / E-TRONIC MA 7.5 / MA 8.5 / MA 9.2 / MA 10.0 AGRALE: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: Motores MWM 4.12 TCE FORD / VW / CUMMINS / MWM: VW 8150 E / 9150 E y Bus 9150 EOD Codigo Original / Similar: 2R0/105269/A (VW) 6013101162003 (AGRALE) 941201450015 (MWM)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7638",
+        "name": "VOLANTE DE MOTOR CON CORONA 420MM. / 151 DIENTES RMOSS",
+        "brand": "Rmoss",
+        "code": "9775",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-420mm-151-dientes-rmoss-9775.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 420MM. / 151 DIENTES RMOSS 9775 Marca: Rmoss Vehiculos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 / LB 2325 / LK 2325 y Bus 0371 R / 0400 R / 0400 UP MERCEDES BENZ: Motores MB OM 449 A / OM 449 LA Codigo Original / Similar: 46.35.0033 / 46.35.1033 (CINPAL) 475.030.0005 / 475.030.0105 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7639",
+        "name": "REPARACION MIDI SERVO KNORR NTI",
+        "brand": "Nti",
+        "code": "8758",
+        "image": "img/products/Embrague/reparacion-midi-servo-knorr-nti-8758.jpg",
+        "description": "REPARACION MIDI SERVO KNORR NTI 8758 Marca: Nti Vehiculos compatibles: IVECO: Camiones TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 IVECO: Para Midi Servo KNORR K 015222 Codigo Original / Similar: 42546211 / 42556969 (IVECO)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7640",
+        "name": "CILINDRO ESCLAVO 36MM. / VASTAGO 136MM. IMP.",
+        "brand": "Imp",
+        "code": "8591",
+        "image": "img/products/Embrague/cilindro-esclavo-36mm-vastago-136mm-imp-8591.jpg",
+        "description": "CILINDRO ESCLAVO 36MM. / VASTAGO 136MM. IMP. 8591 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/721261 (VW) K011271 / K033411 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7641",
+        "name": "INTERRUPTOR LUCES DE STOP 1/8” X 27 NPFT / 5.5 BAR 3-RHO",
+        "brand": "3 Rho",
+        "code": "7061",
+        "image": "img/products/Embrague/interruptor-luces-de-stop-1-8-x-27-npft-5-5-bar-3-rho-7061.jpg",
+        "description": "INTERRUPTOR LUCES DE STOP 1/8” X 27 NPFT / 5.5 BAR 3-RHO 7061 Marca: 3 Rho Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 1722 / 2626 / F 14000 (93-98) FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 24220 / 24250 y Bus 9150 OD / 17210 OD / 17240 OT Codigo Original / Similar: TJG/945517 (VW)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7642",
+        "name": "CRAPODINA HIDRAULICA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6950",
+        "image": "img/products/Embrague/crapodina-hidraulica-trucktec-6950.jpg",
+        "description": "CRAPODINA HIDRAULICA TRUCKTEC 6950 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Codigo Original / Similar: 000.254.2508 / 000.254.1608 (MB) 13-H08 (HCS) VKCH4844 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7643",
+        "name": "CRAPODINA HIDRAULICA HCS",
+        "brand": "Hcs",
+        "code": "5830",
+        "image": "img/products/Embrague/crapodina-hidraulica-hcs-5830.jpg",
+        "description": "CRAPODINA HIDRAULICA HCS 5830 Marca: Hcs Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Codigo Original / Similar: 000.254.2508 / 000.254.1608 (MB) 13-H08 (HCS) VKCH4844 (SKF)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7644",
+        "name": "MIDI-SERVO 83MM. KNORR / M12 X 1 IMP.",
+        "brand": "Imp",
+        "code": "5550",
+        "image": "img/products/Embrague/midi-servo-83mm-knorr-m12-x-1-imp-5550.jpg",
+        "description": "MIDI-SERVO 83MM. KNORR / M12 X 1 IMP. 5550 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 13180 E / 15180 E / 17250 E / 19320 E / 25320 E / 26260 E / 31320 E Codigo Original / Similar: 2R2/721257 (VW) K 036633 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7645",
+        "name": "VOLANTE DE MOTOR CON CORONA FINA 280MM. / 125 DIENTES IMP.",
+        "brand": "Imp",
+        "code": "5489",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-fina-280mm-125-dientes-imp-5489.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA FINA 280MM. / 125 DIENTES IMP. 5489 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D MERCEDES BENZ: Motores MB OM 364 Codigo Original / Similar: 364.030.0005 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7646",
+        "name": "VARILLA ACCIONAMIENTO PEDAL DE FRENO IMP.",
+        "brand": "Imp",
+        "code": "4921",
+        "image": "img/products/Embrague/varilla-accionamiento-pedal-de-freno-imp-4921.jpg",
+        "description": "VARILLA ACCIONAMIENTO PEDAL DE FRENO IMP. 4921 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Bus 9150 OD / 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: TAR/721206 (VW)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7647",
+        "name": "INTERRUPTOR FRENO DE MOTOR 3-RHO",
+        "brand": "3 Rho",
+        "code": "4750",
+        "image": "img/products/Embrague/interruptor-freno-de-motor-3-rho-4750.jpg",
+        "description": "INTERRUPTOR FRENO DE MOTOR 3-RHO 4750 Marca: 3 Rho Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / F 14000 (99-05) FORD / VW / CUMMINS / MWM: VW Bus 17210 OD Codigo Original / Similar: 2RP/945521 / TJG/945521 (VW) XC45/2W067/CA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7648",
+        "name": "INTERRUPTOR LUCES DE FRENO 3-RHO",
+        "brand": "3 Rho",
+        "code": "3964",
+        "image": "img/products/Embrague/interruptor-luces-de-freno-3-rho-3964.jpg",
+        "description": "INTERRUPTOR LUCES DE FRENO 3-RHO 3964 Marca: 3 Rho Vehiculos compatibles: FORD / VW / CUMMINS / MWM: F87B/13480/AB FORD / VW / CUMMINS / MWM: Ford F4000 (+98) / F100 (+98) / RANGER (+98) Codigo Original / Similar: F87Z/13480/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "PEDALES DE EMBRAGUE Y FRENO"
+    },
+    {
+        "id": "P7649",
+        "name": "REP. CILINDRO ESCLAVO 34MM. NTI",
+        "brand": "Nti",
+        "code": "3925",
+        "image": "img/products/Embrague/rep-cilindro-esclavo-34mm-nti-3925.jpg",
+        "description": "REP. CILINDRO ESCLAVO 34MM. NTI 3925 Marca: Nti Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Cilindros KNORR K011270 / K033409 FORD / VW / CUMMINS / MWM: VW CONSTELLATION 13180 E / 15180 E / 17250 E / 26260 E Codigo Original / Similar: 2U2798135 (VW) K0112700062 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7650",
+        "name": "REP. CILINDRO ESCLAVO 36MM. NTI",
+        "brand": "Nti",
+        "code": "3926",
+        "image": "img/products/Embrague/rep-cilindro-esclavo-36mm-nti-3926.jpg",
+        "description": "REP. CILINDRO ESCLAVO 36MM. NTI 3926 Marca: Nti Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Cilindros KNORR K011271 / K033411 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/798135 (VW) K0112700061 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7651",
+        "name": "EJE HORQUILLA EMBREAGUE ESTRIADO MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "13702",
+        "image": "img/products/Embrague/eje-horquilla-embreague-estriado-montecristo-13702.jpg",
+        "description": "EJE HORQUILLA EMBREAGUE ESTRIADO MONTECRISTO 13702 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Camiones L 1521 / L 1526 Codigo Original / Similar: 343.293.0001 (MB)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7652",
+        "name": "VOLANTE DE MOTOR CON CORONA 430MM. CINPAL",
+        "brand": "Cinpal",
+        "code": "13556",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-430mm-cinpal-13556.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 430MM. CINPAL 13556 Marca: Cinpal Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo C1932 / C2632 / 1933 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 / ISL 8.9 Litros FORD / VW / CUMMINS / MWM: VW Constellation 19330 / 19360 / 19420 / 25360 / 25420 / 26420 / 31330 y Bus 18330 OT Codigo Original / Similar: 2T2/105269/E (VW) 46-35-1273 / 46-35-0273 (CINPAL) 4996282 (Cummins) BH1X/6375/AA (FORD)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7653",
+        "name": "VOLANTE DE MOTOR CON CORONA 430MM. / 158 DIENTES CINPAL",
+        "brand": "Cinpal",
+        "code": "13558",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-430mm-158-dientes-cinpal-13558.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 430MM. / 158 DIENTES CINPAL 13558 Marca: Cinpal Vehiculos compatibles: SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / R 360 / R 400 / R 440 / R 480 / P 280 / P 320 / P 340 / P 360 / P 380 / P 410 / P 440 / P 450 / G 280 / G _x000D_ 320 / G 340 / G 360 / G 380 / G 410 / G 440 / G 450 / G 500 / G 540 / R 280 / R 320 / R 360 / R 410 / R 450 / R 500 / R 540 / S 380 / S 410 / S 440 / S 450 / S 500 / S 540 y Bus N 250 / N 280 / N 310 / F 250 / F 280 / F 320 / F 310 / F 360 / K 250 / K 280 / K 310 / K 320 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 (Todos +2013) SCANIA: Motores SCANIA 9 / 13 Litros Codigo Original / Similar: 1.776.466 / 573.203 / 2.481.691 (SC) 46-35-1301 (CINPAL)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7654",
+        "name": "CILINDRO ESCLAVO 36MM. / VASTAGO 136MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "13320",
+        "image": "img/products/Embrague/cilindro-esclavo-36mm-vastago-136mm-industria-argentina-13320.jpg",
+        "description": "CILINDRO ESCLAVO 36MM. / VASTAGO 136MM. INDUSTRIA ARGENTINA 13320 Marca: Industria Argentina Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E Codigo Original / Similar: 2T2/721261 (VW) K011271 / K033411 (Knorr)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7655",
+        "name": "CILINDRO MAESTRO DE FRENO DOBLE CIRCUITO DIAM. 26.99MM. FRENO:SILENT",
+        "brand": "Frenosilent",
+        "code": "13237",
+        "image": "img/products/Embrague/cilindro-maestro-de-freno-doble-circuito-diam-26-99mm-freno-silent-13237.jpg",
+        "description": "CILINDRO MAESTRO DE FRENO DOBLE CIRCUITO DIAM. 26.99MM. FRENO:SILENT 13237 Marca: Frenosilent Vehiculos compatibles: MERCEDES BENZ: Utilitarios VITO 111 CDI Y VITO Tourer Codigo Original / Similar: 447.031.0201 (MB) PMN246 (TRW-VARGA)",
+        "rubro": "EMBRAGUE"
+    },
+    {
+        "id": "P7656",
+        "name": "VOLANTE DE MOTOR CON CORONA 365MM. RMOSS",
+        "brand": "Rmoss",
+        "code": "10479",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-365mm-rmoss-10479.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 365MM. RMOSS 10479 Marca: Rmoss Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / C1722 / 1119 / 1519 / 1723 Codigo Original / Similar: 46.35.1299 / 46.35.0299 (CINPAL) 5264491 / 5264490 (Cummins) BH1X/6375/BA (FORD)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7657",
+        "name": "VOLANTE DE MOTOR CON CORONA 380MM RMOSS",
+        "brand": "Rmoss",
+        "code": "10481",
+        "image": "img/products/Embrague/volante-de-motor-con-corona-380mm-rmoss-10481.jpg",
+        "description": "VOLANTE DE MOTOR CON CORONA 380MM RMOSS 10481 Marca: Rmoss Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / 260 E28 / 260 E30 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 Codigo Original / Similar: 504207039 (IVECO)",
+        "rubro": "MOTOR"
     }
 ];
 
