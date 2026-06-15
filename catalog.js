@@ -10,6 +10,8 @@
     const loadMoreBtn = document.getElementById('loadMoreBtn');
     const searchSuggestions = document.getElementById('searchSuggestions');
     const voiceSearchBtn = document.getElementById('voiceSearchBtn'); // Ensure this is selected if used
+    const vehicleFilterTree = document.getElementById('vehicleFilterTree');
+    const typeFilterGrid = document.getElementById('typeFilterGrid');
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
     const INITIAL_RENDER_LIMIT = 48;
     const RESULT_RENDER_LIMIT = 120;
@@ -30,6 +32,7 @@
     let activeSuggestionIndex = -1;
     let currentSuggestionProducts = [];
     let productsStatus = document.getElementById('productsStatus');
+    let vehicleFilterItems = [];
 
     if (!productsStatus && productGrid) {
         productsStatus = document.createElement('p');
@@ -105,6 +108,86 @@
         { label: "Volkswagen Constellation", aliases: ["Volkswagen Constellation", "VW Constellation", "Constellation"] },
         { label: "Volkswagen 17-220", aliases: ["Volkswagen 17-220", "VW 17-220", "17220", "17 220"] },
         { label: "Volkswagen 17-310", aliases: ["Volkswagen 17-310", "VW 17-310", "17310", "17 310"] }
+    ];
+
+    const vehicleFilterGroups = [
+        {
+            label: "MERCEDES BENZ",
+            search: "Mercedes Benz",
+            icon: "mercedes_logo.png",
+            open: true,
+            children: [
+                { label: "MB 1112/1114", search: "Mercedes Benz 1114", icon: "img/camion_animado.png" },
+                { label: "MB 608", search: "Mercedes Benz 608", icon: "img/camion_animado.png" },
+                { label: "MB 1215/1218/1620", search: "Mercedes Benz 1620", icon: "img/camion_animado.png" },
+                { label: "MB 1624/1633/1634", search: "Mercedes Benz 1634", icon: "img/camion_animado.png" },
+                { label: "MB ATRON 1634", search: "Mercedes Benz Atron 1634", icon: "img/camion_animado.png" },
+                { label: "MB 1938", search: "Mercedes Benz 1938", icon: "img/camion_animado.png" },
+                { label: "MB ATEGO", search: "Mercedes Benz Atego", icon: "img/camion_animado.png" },
+                { label: "MB AXOR", search: "Mercedes Benz Axor", icon: "img/camion_animado.png" },
+                { label: "MB 712/1720", search: "Mercedes Benz 1720", icon: "img/camion_animado.png" },
+                { label: "MB 710", search: "Mercedes Benz 710", icon: "img/camion_animado.png" },
+                { label: "MB ACCELO", search: "Mercedes Benz Accelo", icon: "img/camion_animado.png" },
+                { label: "MB ACTROS", search: "Mercedes Benz Actros", icon: "img/camion_animado.png" },
+                { label: "MB 1938 FRONTAL", search: "Mercedes Benz 1938 Frontal", icon: "img/camion_animado.png" },
+                { label: "MB NEW ACTROS", search: "Mercedes Benz New Actros", icon: "img/camion_animado.png" }
+            ]
+        },
+        {
+            label: "FORD",
+            search: "Ford",
+            icon: "ford_logo.png",
+            children: [
+                { label: "FORD CARGO 915", search: "Ford Cargo 915", icon: "img/camion_animado.png" },
+                { label: "FORD CARGO 1722", search: "Ford Cargo 1722", icon: "img/camion_animado.png" },
+                { label: "FORD CARGO 1729", search: "Ford Cargo 1729", icon: "img/camion_animado.png" },
+                { label: "FORD CARGO 916", search: "Ford Cargo 916", icon: "img/camion_animado.png" }
+            ]
+        },
+        {
+            label: "IVECO",
+            search: "Iveco",
+            icon: "iveco_logo.png",
+            children: [
+                { label: "IVECO DAILY", search: "Iveco Daily", icon: "img/camion_animado.png" },
+                { label: "IVECO EUROCARGO", search: "Iveco Eurocargo", icon: "img/camion_animado.png" },
+                { label: "IVECO TECTOR", search: "Iveco Tector", icon: "img/camion_animado.png" },
+                { label: "IVECO STRALIS", search: "Iveco Stralis", icon: "img/camion_animado.png" }
+            ]
+        },
+        {
+            label: "VOLKSWAGEN",
+            search: "Volkswagen",
+            icon: "volkswagen_logo.png",
+            children: [
+                { label: "VW WORKER", search: "Volkswagen Worker", icon: "img/camion_animado.png" },
+                { label: "VW CONSTELLATION", search: "Volkswagen Constellation", icon: "img/camion_animado.png" },
+                { label: "VW 17-220", search: "Volkswagen 17-220", icon: "img/camion_animado.png" },
+                { label: "VW 17-310", search: "Volkswagen 17-310", icon: "img/camion_animado.png" }
+            ]
+        },
+        {
+            label: "SCANIA",
+            search: "Scania",
+            icon: "scania_logo.png",
+            children: [
+                { label: "SCANIA 111", search: "Scania 111", icon: "img/camion_animado.png" },
+                { label: "SCANIA 113", search: "Scania 113", icon: "img/camion_animado.png" },
+                { label: "SCANIA 114", search: "Scania 114", icon: "img/camion_animado.png" },
+                { label: "SCANIA 124", search: "Scania 124", icon: "img/camion_animado.png" },
+                { label: "SCANIA PGR", search: "Scania PGR", icon: "img/camion_animado.png" }
+            ]
+        },
+        {
+            label: "ACCESORIOS",
+            search: "Accesorios",
+            icon: FALLBACK_IMAGE,
+            children: [
+                { label: "CARROCERIA", search: "Carroceria", category: "CARROCERIA Y OTROS", icon: "parts_image.png" },
+                { label: "ELECTRICIDAD", search: "Electricidad", category: "ELECTRICIDAD", icon: "parts_image.png" },
+                { label: "FRENOS", search: "Frenos", category: "FRENOS Y AIRE", icon: "parts_image.png" }
+            ]
+        }
     ];
 
     function normalizeText(value) {
@@ -570,6 +653,154 @@
                 control.disabled = disabled;
                 control.setAttribute('aria-disabled', disabled ? 'true' : 'false');
             });
+
+        [vehicleFilterTree, typeFilterGrid]
+            .filter(Boolean)
+            .forEach(control => {
+                control.classList.toggle('is-loading', disabled);
+                control.setAttribute('aria-disabled', disabled ? 'true' : 'false');
+            });
+    }
+
+    function getVehicleFilterMatcher(item) {
+        if (!item._matcher) {
+            const context = detectSearchContext(item.search);
+            const query = context.productQuery.text ? context.productQuery : context.originalQuery;
+            item._matcher = { context, query };
+        }
+
+        return item._matcher;
+    }
+
+    function vehicleFilterMatches(indexedProduct, item) {
+        if (item.category && !categoryMatches(indexedProduct, item.category)) return false;
+        if (!item.search) return true;
+
+        const matcher = getVehicleFilterMatcher(item);
+        return matchesSearchQuery(indexedProduct, matcher.query) && implicitVehicleMatches(indexedProduct, matcher.context);
+    }
+
+    function countVehicleFilter(item, filters = null) {
+        if (!indexReady) return '...';
+
+        return indexedProducts.reduce((total, indexedProduct) => {
+            if (filters && !matchesFilterSet(indexedProduct, filters, item.category ? 'category' : '')) return total;
+            return vehicleFilterMatches(indexedProduct, item) ? total + 1 : total;
+        }, 0);
+    }
+
+    function countCategoryFilter(category, filters = null) {
+        if (!indexReady) return '...';
+
+        return indexedProducts.reduce((total, indexedProduct) => {
+            if (filters && !matchesFilterSet(indexedProduct, filters, 'category')) return total;
+            return categoryMatches(indexedProduct, category) ? total + 1 : total;
+        }, 0);
+    }
+
+    function isVehicleFilterActive(item) {
+        const activeSearch = normalizeText(searchInput.value);
+        const itemSearch = normalizeText(item.search);
+        return Boolean(itemSearch && activeSearch === itemSearch) ||
+            Boolean(item.category && filterCategory.value === item.category);
+    }
+
+    function renderVehicleFilters(filters = null) {
+        if (!vehicleFilterTree) return;
+
+        vehicleFilterItems = [];
+        vehicleFilterTree.textContent = '';
+
+        vehicleFilterGroups.forEach((group, groupIndex) => {
+            const groupElement = document.createElement('div');
+            groupElement.className = `filter-tree-group${group.open ? ' is-open' : ''}`;
+            groupElement.dataset.groupIndex = String(groupIndex);
+
+            const groupButton = createVehicleFilterButton(group, countVehicleFilter(group, filters), true);
+            groupElement.appendChild(groupButton);
+
+            if (Array.isArray(group.children) && group.children.length > 0) {
+                const childrenElement = document.createElement('div');
+                childrenElement.className = 'filter-tree-children';
+
+                group.children.forEach(child => {
+                    childrenElement.appendChild(createVehicleFilterButton(child, countVehicleFilter(child, filters), false));
+                });
+
+                groupElement.appendChild(childrenElement);
+            }
+
+            vehicleFilterTree.appendChild(groupElement);
+        });
+    }
+
+    function createVehicleFilterButton(item, count, isGroup) {
+        const itemIndex = vehicleFilterItems.push(item) - 1;
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = `filter-tree-row${isGroup ? '' : ' filter-tree-child'}${isVehicleFilterActive(item) ? ' is-active' : ''}`;
+        button.dataset.filterIndex = String(itemIndex);
+
+        const icon = document.createElement('img');
+        icon.className = 'filter-tree-icon';
+        icon.src = item.icon || 'img/camion_animado.png';
+        icon.alt = '';
+        icon.loading = 'lazy';
+
+        const label = document.createElement('span');
+        label.className = 'filter-tree-label';
+        label.textContent = item.label;
+
+        const badge = document.createElement('span');
+        badge.className = 'filter-tree-count';
+        badge.textContent = String(count);
+
+        button.append(icon, label, badge);
+
+        if (isGroup) {
+            const toggle = document.createElement('span');
+            toggle.className = 'filter-tree-toggle';
+            toggle.textContent = item.open ? '−' : '+';
+            button.appendChild(toggle);
+        }
+
+        return button;
+    }
+
+    function renderTypeFilters(filters = null) {
+        if (!typeFilterGrid) return;
+
+        typeFilterGrid.textContent = '';
+
+        Object.keys(categoryMapping).forEach(category => {
+            const count = countCategoryFilter(category, filters);
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = `type-filter-btn${filterCategory.value === category ? ' is-active' : ''}`;
+            button.dataset.category = category;
+            button.textContent = category;
+
+            const badge = document.createElement('span');
+            badge.className = 'filter-chip-count';
+            badge.textContent = String(count);
+            button.appendChild(badge);
+
+            typeFilterGrid.appendChild(button);
+        });
+    }
+
+    function renderSidebarFilters(filters = null) {
+        renderVehicleFilters(filters);
+        renderTypeFilters(filters);
+    }
+
+    function applyVehicleFilter(item) {
+        searchInput.value = item.search || '';
+        if (item.category) {
+            filterCategory.value = item.category;
+        }
+        hideSuggestions();
+        applyFilters();
     }
 
     function scheduleIndexWork(callback) {
@@ -661,6 +892,8 @@
             const count = brandCounts.get(brand) || 0;
             appendFilterOption(filterBrand, brand, brand, count);
         });
+
+        renderSidebarFilters();
     }
 
     function updateSelectOptionCounts(select, counts, keepSelectedEnabled = true) {
@@ -721,6 +954,7 @@
         updateSelectOptionCounts(filterTruck, truckCounts);
         updateSelectOptionCounts(filterCategory, categoryCounts);
         updateSelectOptionCounts(filterBrand, brandCounts);
+        renderSidebarFilters();
     }
 
     function escapeHtml(value) {
@@ -1094,6 +1328,39 @@
     filterCategory.addEventListener('change', applyFilters);
     filterBrand.addEventListener('change', applyFilters);
 
+    if (vehicleFilterTree) {
+        vehicleFilterTree.addEventListener('click', (event) => {
+            const button = event.target.closest('.filter-tree-row');
+            if (!button) return;
+
+            const groupElement = button.closest('.filter-tree-group');
+            const item = vehicleFilterItems[Number(button.dataset.filterIndex)];
+            if (!item) return;
+
+            if (button.parentElement === groupElement && groupElement) {
+                const groupIndex = Number(groupElement.dataset.groupIndex);
+                const group = vehicleFilterGroups[groupIndex];
+                if (group) {
+                    group.open = !group.open;
+                }
+            }
+
+            applyVehicleFilter(item);
+        });
+    }
+
+    if (typeFilterGrid) {
+        typeFilterGrid.addEventListener('click', (event) => {
+            const button = event.target.closest('.type-filter-btn');
+            if (!button) return;
+
+            const selectedCategory = button.dataset.category || '';
+            filterCategory.value = filterCategory.value === selectedCategory ? '' : selectedCategory;
+            hideSuggestions();
+            applyFilters();
+        });
+    }
+
     clearFiltersBtn.addEventListener('click', () => {
         searchInput.value = '';
         filterEngine.value = '';
@@ -1198,6 +1465,7 @@
     if (productsStatus) {
         productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos.`;
     }
+    renderSidebarFilters();
 
     window.setTimeout(() => {
         buildIndexAsync(() => {

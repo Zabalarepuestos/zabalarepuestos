@@ -66892,6 +66892,2103 @@ const products = [
         "image": "img/products/Embrague/volante-de-motor-con-corona-380mm-rmoss-10481.jpg",
         "description": "VOLANTE DE MOTOR CON CORONA 380MM RMOSS 10481 Marca: Rmoss Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ECOLINE 170 E28 / 170 E28T / 240 E28 / 260 E28 / 260 E30 / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 y Bus CC 118 E20 GNC / CC 118 E22 / CC 170 E22 Codigo Original / Similar: 504207039 (IVECO)",
         "rubro": "MOTOR"
+    },
+    {
+        "id": "P7658",
+        "name": "TURBO GT4082 BIAGIO",
+        "brand": "Biagio",
+        "code": "9478",
+        "image": "img/products/Turbo/turbo-gt4082-biagio-9478.jpg",
+        "description": "TURBO GT4082 BIAGIO 9478 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones P 94 (260 HP) Codigo Original / Similar: 1.405.655 / 1.423.028 / 1.501.636 (SC) 1.501.637 (SC) 452232-5017S (Garrett) TC0760011 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7659",
+        "name": "TUBO RETORNO ACEITE AL TURBO 680 MM ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "9291",
+        "image": "img/products/Turbo/tubo-retorno-aceite-al-turbo-680-mm-engine-parts-9291.jpg",
+        "description": "TUBO RETORNO ACEITE AL TURBO 680 MM ENGINE PARTS 9291 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e / Nuevo C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 FORD / VW / CUMMINS / MWM: VW Constellation 17250 E Codigo Original / Similar: 2T2/145577 (VW) 3934084 (Cummins) BH1X/6415/AA (FORD)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7660",
+        "name": "JUNTA TURBO AL MULTIPLE DE ESCAPE TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9218",
+        "image": "img/products/Turbo/junta-turbo-al-multiple-de-escape-trucktec-9218.jpg",
+        "description": "JUNTA TURBO AL MULTIPLE DE ESCAPE TRUCKTEC 9218 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Codigo Original / Similar: 651.096.0480 (MB)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7661",
+        "name": "MANGUERA CONEXIÓN TURBO-RADIADOR INTERCOOLER / 997 X 75MM. BINS",
+        "brand": "Bins",
+        "code": "8608",
+        "image": "img/products/Turbo/manguera-conexion-turbo-radiador-intercooler-997-x-75mm-bins-8608.jpg",
+        "description": "MANGUERA CONEXIÓN TURBO-RADIADOR INTERCOOLER / 997 X 75MM. BINS 8608 Marca: Bins Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 Codigo Original / Similar: 2RH/117241 (VW)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7662",
+        "name": "MANGUERA RETORNO ACEITE AL TURBO / 121 X 21.5MM. BINS",
+        "brand": "Bins",
+        "code": "8609",
+        "image": "img/products/Turbo/manguera-retorno-aceite-al-turbo-121-x-21-5mm-bins-8609.jpg",
+        "description": "MANGUERA RETORNO ACEITE AL TURBO / 121 X 21.5MM. BINS 8609 Marca: Bins Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 E / 15180 E / Constellation 13180 E / 15180 E / 26260 E y Bus 17240 OT / 15190 EOD / 17230 EOD / 17260 EOT Codigo Original / Similar: 2TB/145467 / 2W0/145743/B (VW)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7663",
+        "name": "TUBO DESCARGA DE ACEITE DEL TURBO VANNUCCI",
+        "brand": "Vannucci",
+        "code": "8413",
+        "image": "img/products/Turbo/tubo-descarga-de-aceite-del-turbo-vannucci-8413.jpg",
+        "description": "TUBO DESCARGA DE ACEITE DEL TURBO VANNUCCI 8413 Marca: Vannucci Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 FORD / VW / CUMMINS / MWM: Motores CUMMINS 6BT – 6BTA – 6BTAA FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17210 Codigo Original / Similar: 3354907 (Cummins) TRA/145471 (FORD / VW / CUMMINS / MWM) TRA/145471 (VW)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7664",
+        "name": "MANGUERA SALIDA TURBO A FILTRO IMP.",
+        "brand": "Imp",
+        "code": "8417",
+        "image": "img/products/Turbo/manguera-salida-turbo-a-filtro-imp-8417.jpg",
+        "description": "MANGUERA SALIDA TURBO A FILTRO IMP. 8417 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 2626 (-2001) Codigo Original / Similar: XC45/9K658/DA / TMG/129973/A (FORD)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7665",
+        "name": "TURBO HY35W BIAGIO",
+        "brand": "Biagio",
+        "code": "8405",
+        "image": "img/products/Turbo/turbo-hy35w-biagio-8405.jpg",
+        "description": "TURBO HY35W BIAGIO 8405 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e / Nuevo C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 Codigo Original / Similar: 4038684 / 4040040 (Holset) 4038685 / 4040095 / 3791340 (Cummins) BH4X/6400/DA (FORD) MB9X/6400/WA / BG5X/6400/CA (FORD)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7666",
+        "name": "TURBO TBP418 BIAGIO",
+        "brand": "Biagio",
+        "code": "8406",
+        "image": "img/products/Turbo/turbo-tbp418-biagio-8406.jpg",
+        "description": "TURBO TBP418 BIAGIO 8406 Marca: Biagio Vehiculos compatibles: VOLVO: Camiones VM 17 240 / VM 23 240 VOLVO: Motores MWM 6.10 TCA Codigo Original / Similar: 735598-5001S (Garrett) 90529201008302 (MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7667",
+        "name": "ABRAZADERA CAÑO LUBRICACION DE TURBO / FILTRO DE AGUA COMPLETA CIPEC",
+        "brand": "Cipec",
+        "code": "8317",
+        "image": "img/products/Turbo/abrazadera-cano-lubricacion-de-turbo-filtro-de-agua-completa-cipec-8317.jpg",
+        "description": "ABRAZADERA CAÑO LUBRICACION DE TURBO / FILTRO DE AGUA COMPLETA CIPEC 8317 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus F 112 / K 112 / F 113 / K 113 / F 94 HB / K 94 IB / L 94 HB / K 270 / K 310 / K 340 Codigo Original / Similar: 219.721X / 221.628X (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7668",
+        "name": "PROTECTOR CALOR TURBO COMPRESOR CIPEC",
+        "brand": "Cipec",
+        "code": "8239",
+        "image": "img/products/Turbo/protector-calor-turbo-compresor-cipec-8239.jpg",
+        "description": "PROTECTOR CALOR TURBO COMPRESOR CIPEC 8239 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 113 / K 113 Codigo Original / Similar: 1.102.686 (SC)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7669",
+        "name": "MANGUERA RETORNO DE TURBO 19X60MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "7918",
+        "image": "img/products/Turbo/manguera-retorno-de-turbo-19x60mm-tf-p-technology-7918.jpg",
+        "description": "MANGUERA RETORNO DE TURBO 19X60MM. TF&P TECHNOLOGY 7918 Marca: Tfp Technology Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Codigo Original / Similar: 466.328 (VOLVO)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7670",
+        "name": "ABRAZADERA TURBO A SALIDA DE ESCAPE C/INSERTO / RANGO 120MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6946",
+        "image": "img/products/Turbo/abrazadera-turbo-a-salida-de-escape-c-inserto-rango-120mm-perfecto-6946.jpg",
+        "description": "ABRAZADERA TURBO A SALIDA DE ESCAPE C/INSERTO / RANGO 120MM. PERFECTO 6946 Marca: Perfecto Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.431.701 / 1.371.086 / 1.392.945 (SCANIA)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7671",
+        "name": "ABRAZADERA SALIDA ESCAPE DEL TURBO C/INSERTO / RANGO 120MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6948",
+        "image": "img/products/Turbo/abrazadera-salida-escape-del-turbo-c-inserto-rango-120mm-perfecto-6948.jpg",
+        "description": "ABRAZADERA SALIDA ESCAPE DEL TURBO C/INSERTO / RANGO 120MM. PERFECTO 6948 Marca: Perfecto Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.431.701 (SCANIA) 1.433.190 / 1.371.083 / 1.392.945 (SCANIA)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7672",
+        "name": "ABRAZADERA TURBO C/INSERTO / RANGO 75MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6914",
+        "image": "img/products/Turbo/abrazadera-turbo-c-inserto-rango-75mm-perfecto-6914.jpg",
+        "description": "ABRAZADERA TURBO C/INSERTO / RANGO 75MM. PERFECTO 6914 Marca: Perfecto Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T / 450 E37T/P / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 E31T / EUROTRAKKER 190 E42 / 380 E37 / 450 E37T / 720 E42 / STRALIS HD 450 S38T / HD 450 S38T HR / HD 450 S38T/P / HD 450 S42T / HD 450 S42 HR / HD 450 S42T/P / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T HR / ATN 490 S38T/P / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 570 S38T / NR 570 S41T / NR 740 S41TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T42 AD / 410 T38 AD / 720 T42T Codigo Original / Similar: 4800661 (IVECO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7673",
+        "name": "MANGUERA DESCARGA DE ACEITE DEL TURBO IMP.",
+        "brand": "Imp",
+        "code": "6904",
+        "image": "img/products/Turbo/manguera-descarga-de-aceite-del-turbo-imp-6904.jpg",
+        "description": "MANGUERA DESCARGA DE ACEITE DEL TURBO IMP. 6904 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / 2425/48 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Codigo Original / Similar: 904.997.0282 (MB)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7674",
+        "name": "ABRAZADERA TURBO C/INSERTO / RANGO 62MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6913",
+        "image": "img/products/Turbo/abrazadera-turbo-c-inserto-rango-62mm-perfecto-6913.jpg",
+        "description": "ABRAZADERA TURBO C/INSERTO / RANGO 62MM. PERFECTO 6913 Marca: Perfecto Vehiculos compatibles: IVECO: Camiones EUROCARGO 160 E21 / 160 E23 Codigo Original / Similar: 4843862 (IVECO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7675",
+        "name": "ABRAZADERA DEL MOTOR A LA ADMISION DEL TURBO C/INSERTO / RANGO 57MM. ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6816",
+        "image": "img/products/Turbo/abrazadera-del-motor-a-la-admision-del-turbo-c-inserto-rango-57mm-engine-parts-6816.jpg",
+        "description": "ABRAZADERA DEL MOTOR A LA ADMISION DEL TURBO C/INSERTO / RANGO 57MM. ENGINE PARTS 6816 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 1317e / 1517e Codigo Original / Similar: 2R0/130421/F (VW) 5255953 / 4898590 (Cummins) BG5X/6F081/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7676",
+        "name": "ABRAZADERA SALIDA TURBO A INTERCOOLER C/RESORTE / RANGO 76-84MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6817",
+        "image": "img/products/Turbo/abrazadera-salida-turbo-a-intercooler-c-resorte-rango-76-84mm-perfecto-6817.jpg",
+        "description": "ABRAZADERA SALIDA TURBO A INTERCOOLER C/RESORTE / RANGO 76-84MM. PERFECTO 6817 Marca: Perfecto Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 (-06) Codigo Original / Similar: 3924381 (Cummins) TRG/117275 (FORD / VW / CUMMINS / MWM) TRG/117275 (VW)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7677",
+        "name": "ABRAZADERA INTERCOOLER A LA ADMISION DEL TURBO C/RESORTE/RANGO 98-106MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6822",
+        "image": "img/products/Turbo/abrazadera-intercooler-a-la-admision-del-turbo-c-resorte-rango-98-106mm-perfecto-6822.jpg",
+        "description": "ABRAZADERA INTERCOOLER A LA ADMISION DEL TURBO C/RESORTE/RANGO 98-106MM. PERFECTO 6822 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1623 / LS 1623 / 1938 S / AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K y Bus LO 812 / LO 814 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1320 / OH 1518 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 / 0500 M 1725 / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0400 UP / 0500 R Codigo Original / Similar: 384.997.7590 / 005.997.0690 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7678",
+        "name": "ABRAZADERA INTERCOOLER A LA ADMISION DEL TURBO C/RESORTE / RANGO 104-112MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6823",
+        "image": "img/products/Turbo/abrazadera-intercooler-a-la-admision-del-turbo-c-resorte-rango-104-112mm-perfecto-6823.jpg",
+        "description": "ABRAZADERA INTERCOOLER A LA ADMISION DEL TURBO C/RESORTE / RANGO 104-112MM. PERFECTO 6823 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones L 1622 / LS 1622 / L 1623 / LS 1623 / 1938 S / AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K y Bus LO 812 / LO 814 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1320 / OH 1518 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 / 0500 M 1725 / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 RS / 0400 RSD / 0400 RSD BUGGY / 0400 RSE / 0400 RSE BUGGY / 0400 RSL / 0400 UP / 0500 R Codigo Original / Similar: 384.997.7590 / 005.997.0690 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7679",
+        "name": "ABRAZADERA TURBO C/INSERTO / RANGO 82MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6825",
+        "image": "img/products/Turbo/abrazadera-turbo-c-inserto-rango-82mm-perfecto-6825.jpg",
+        "description": "ABRAZADERA TURBO C/INSERTO / RANGO 82MM. PERFECTO 6825 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones L 1634 EL / LS 1634 EL / LS 1938 EL / 1938 S / L 2638/54 / AXOR 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 3340 K y Bus 0400 RSD BUGGY / 0400 RSE BUGGY / 0500 RS / 0500 RSD Codigo Original / Similar: 006.997.9590 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7680",
+        "name": "ABRAZADERA TURBO A SALIDA MULTIPLE C/INSERTO / RANGO 83MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6826",
+        "image": "img/products/Turbo/abrazadera-turbo-a-salida-multiple-c-inserto-rango-83mm-perfecto-6826.jpg",
+        "description": "ABRAZADERA TURBO A SALIDA MULTIPLE C/INSERTO / RANGO 83MM. PERFECTO 6826 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / 0500 M 1725 / 0500 U 1725 Codigo Original / Similar: 376.997.7090 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7681",
+        "name": "ABRAZADERA TURBO A INTERCOOLER C/INSERTO / RANGO 90MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6827",
+        "image": "img/products/Turbo/abrazadera-turbo-a-intercooler-c-inserto-rango-90mm-perfecto-6827.jpg",
+        "description": "ABRAZADERA TURBO A INTERCOOLER C/INSERTO / RANGO 90MM. PERFECTO 6827 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones L 710/42 / 914/42 y Bus LO 814 Codigo Original / Similar: 003.997.8590 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7682",
+        "name": "ABRAZADERA TURBO C/INSERTO / RANGO 70MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6828",
+        "image": "img/products/Turbo/abrazadera-turbo-c-inserto-rango-70mm-perfecto-6828.jpg",
+        "description": "ABRAZADERA TURBO C/INSERTO / RANGO 70MM. PERFECTO 6828 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / 0500 M 1725 / 0500 U 1725 Codigo Original / Similar: 002.997.9790 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7683",
+        "name": "ABRAZADERA TUBO DE ESCAPE AL TURBO C/INSERTO / RANGO 106MM. ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6810",
+        "image": "img/products/Turbo/abrazadera-tubo-de-escape-al-turbo-c-inserto-rango-106mm-engine-parts-6810.jpg",
+        "description": "ABRAZADERA TUBO DE ESCAPE AL TURBO C/INSERTO / RANGO 106MM. ENGINE PARTS 6810 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 17220 / 24220 Euro 3 Codigo Original / Similar: 2T0/130421 (VW) 3905216 / 3415546 (Cummins)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7684",
+        "name": "TUBO DESCARGA DE ACEITE DEL TURBO ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "6293",
+        "image": "img/products/Turbo/tubo-descarga-de-aceite-del-turbo-engine-parts-6293.jpg",
+        "description": "TUBO DESCARGA DE ACEITE DEL TURBO ENGINE PARTS 6293 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Codigo Original / Similar: 2T2/145877/A (VW) 3943828 (Cummins) BG6X/6415/AA (FORD)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7685",
+        "name": "CAÑO LUBRICACION DEL TURBO TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "6160",
+        "image": "img/products/Turbo/cano-lubricacion-del-turbo-trucktec-6160.jpg",
+        "description": "CAÑO LUBRICACION DEL TURBO TRUCKTEC 6160 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 611 LA MERCEDES BENZ: Utilitarios SPRINTER 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Codigo Original / Similar: 611.180.0620 (MB)",
+        "rubro": "SPRINTER"
+    },
+    {
+        "id": "P7686",
+        "name": "TURBO GT25 / K16 BIAGIO",
+        "brand": "Biagio",
+        "code": "5962",
+        "image": "img/products/Turbo/turbo-gt25-k16-biagio-5962.jpg",
+        "description": "TURBO GT25 / K16 BIAGIO 5962 Marca: Biagio Vehiculos compatibles: AGRALE: Camiones AGRALE E-TRONIC 8500 / 9200 y Bus AGRALE VOLARE W8 / W9 / E-TRONIC MA 7.5 / MA 8.5 / MA 9.2 / MA 10.0 / MA 12.0 / MA 12.0 LE CA / MA 15.0 AGRALE: Motores MWM 4.12 ACTEON FORD / VW / CUMMINS / MWM: Motores MWM 4.08 TCE / 4.12 TCE FORD / VW / CUMMINS / MWM: VW DELIVERY 8150 E / CONSTELLATION 13180 E / 15180 E PUMA TATSA: Bus PUMA TATSA D 9.8 MIDIBUS PUMA TATSA: Motores MWM 4.12 ACTEON Codigo Original / Similar: 2P0/145061/D – 2W0/145061/C (VW) 70000175683 (BW) 733676-5003S (Garrett) 905292010084 (MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7687",
+        "name": "TURBO TA4536 / S400-205 BIAGIO",
+        "brand": "Biagio",
+        "code": "5963",
+        "image": "img/products/Turbo/turbo-ta4536-s400-205-biagio-5963.jpg",
+        "description": "TURBO TA4536 / S400-205 BIAGIO 5963 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones 112 HW / R 113 / T 113 y Bus K 112 / F 113 / K 113 SCANIA: Motores SC DS 11 310CV / DS 1178 Codigo Original / Similar: 1.114.892 / 1.677.955 (SC) 1.677.956 / 1.114.891 / 1.670.970 (SC) 170404 / 770404 (BW) 465213-5001S (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7688",
+        "name": "CAÑO LUBRICACION TURBO / LATERAL INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5967",
+        "image": "img/products/Turbo/cano-lubricacion-turbo-lateral-industria-argentina-5967.jpg",
+        "description": "CAÑO LUBRICACION TURBO / LATERAL INDUSTRIA ARGENTINA 5967 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / 1718 A / 1718 K / 1720 A / 1720 K / 1721 S / 1722 S y Bus OF 1721 / OH 1318 / OH 1621 L-SB / OH 1721 L-SB / OHL 1320 / OHL 1621 MERCEDES BENZ: Motores MB OM 366 A / OM 366 LA Codigo Original / Similar: 376.180.7120 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7689",
+        "name": "TURBO HX35W BIAGIO",
+        "brand": "Biagio",
+        "code": "5961",
+        "image": "img/products/Turbo/turbo-hx35w-biagio-5961.jpg",
+        "description": "TURBO HX35W BIAGIO 5961 Marca: Biagio Vehiculos compatibles: IVECO: Camiones EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR STRADALE 240 E25 S y Bus EUROCARGO CC170 E22 IVECO: Motor IVECO TECTOR F4AE0681D / F4AEE681 Codigo Original / Similar: 3595279 / 3597180 (Holset) 504040250 (IVECO)",
+        "rubro": "SOBREALIMENTACION"
+    },
+    {
+        "id": "P7690",
+        "name": "TURBO TBP4 BIAGIO",
+        "brand": "Biagio",
+        "code": "5207",
+        "image": "img/products/Turbo/turbo-tbp4-biagio-5207.jpg",
+        "description": "TURBO TBP4 BIAGIO 5207 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 6.10 TCA Euro 3 Camiones WORKER 13180 / 15180 Codigo Original / Similar: 2S0/145061/M (VW) 763655-5001S / 763655-0001 (Garrett) 905292010118 (MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7691",
+        "name": "TURBO GT-4594 / HX 55 BIAGIO",
+        "brand": "Biagio",
+        "code": "5162",
+        "image": "img/products/Turbo/turbo-gt-4594-hx-55-biagio-5162.jpg",
+        "description": "TURBO GT-4594 / HX 55 BIAGIO 5162 Marca: Biagio Vehiculos compatibles: VOLVO: Camiones FH 12 380 / FH 12 420 / NH 12 380 / NH 12 420 VOLVO: Motores VOLVO D 12 C Codigo Original / Similar: 4049337 (Holset) 452154-5001S (Garrett) 8.148.873 (VOLVO)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7692",
+        "name": "CODO TURBO ADMISION ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "4975",
+        "image": "img/products/Turbo/codo-turbo-admision-engine-parts-4975.jpg",
+        "description": "CODO TURBO ADMISION ENGINE PARTS 4975 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / F4000 (+98) / F100 (99- 06) FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4BTAA Codigo Original / Similar: 3918686 (Cummins) BF6X/6N696/AA (FORD)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7693",
+        "name": "ABRAZADERA SALIDA DE TURBO A ENFRIADOR DE AIRE ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "4976",
+        "image": "img/products/Turbo/abrazadera-salida-de-turbo-a-enfriador-de-aire-engine-parts-4976.jpg",
+        "description": "ABRAZADERA SALIDA DE TURBO A ENFRIADOR DE AIRE ENGINE PARTS 4976 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / F4000 (+98) / F100 (99- 06) FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT – 4BTAA Codigo Original / Similar: 3918951 (Cummins) BF6X/6W400/A (FORD)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7694",
+        "name": "MANGUERA RETORNO ACEITE DEL TURBO SILICONA ROJA 21 X 80MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "4851",
+        "image": "img/products/Turbo/manguera-retorno-aceite-del-turbo-silicona-roja-21-x-80mm-tf-p-technology-4851.jpg",
+        "description": "MANGUERA RETORNO ACEITE DEL TURBO SILICONA ROJA 21 X 80MM. TF&P TECHNOLOGY 4851 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones P94 / P114 / R114 / T114 / P124 / R124 / T124 y Bus F94 HB / K94 IB / L94 UB / K124 EB / K124 IB Codigo Original / Similar: 1.433.110/ 1.423.508 / 139.463 / 366.940 (SC)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7695",
+        "name": "MANGUERA RETORNO ACEITE DEL TURBO SILICONA AZUL 21 X 100MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "4852",
+        "image": "img/products/Turbo/manguera-retorno-aceite-del-turbo-silicona-azul-21-x-100mm-tf-p-technology-4852.jpg",
+        "description": "MANGUERA RETORNO ACEITE DEL TURBO SILICONA AZUL 21 X 100MM. TF&P TECHNOLOGY 4852 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / P 93 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 1.376.875 / 397.999 (SC)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7696",
+        "name": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2”) 90 X 120MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "4853",
+        "image": "img/products/Turbo/manguera-turbo-a-filtro-de-aire-silicona-roja-3-1-2-90-x-120mm-tf-p-technology-4853.jpg",
+        "description": "MANGUERA TURBO A FILTRO DE AIRE SILICONA ROJA (3 1/2”) 90 X 120MM. TF&P TECHNOLOGY 4853 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 143 / T 143 y Bus K 112 Codigo Original / Similar: 312.646 / 271.066 / 1.674.313 (SC)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7697",
+        "name": "TURBO S1B BIAGIO",
+        "brand": "Biagio",
+        "code": "4664",
+        "image": "img/products/Turbo/turbo-s1b-biagio-4664.jpg",
+        "description": "TURBO S1B BIAGIO 4664 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Motores DEUTZ BF4M Bus PUMA TATSA D 10.5 F Codigo Original / Similar: 04195653 / 04196563/ 04197581 / 04198470 (MB) 313274 (BW)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7698",
+        "name": "MANGUERA INTERCOOLER SILICONA ROJA 2 5/8” X 75 MM. (SALIDA DE TURBO) TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "4590",
+        "image": "img/products/Turbo/manguera-intercooler-silicona-roja-2-5-8-x-75-mm-salida-de-turbo-tf-p-technology-4590.jpg",
+        "description": "MANGUERA INTERCOOLER SILICONA ROJA 2 5/8” X 75 MM. (SALIDA DE TURBO) TF&P TECHNOLOGY 4590 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 Codigo Original / Similar: 375.527 / 1.347.080 (SC) 55185 (SABO)",
+        "rubro": "MANGUERAS INTERCOOLER"
+    },
+    {
+        "id": "P7699",
+        "name": "ABRAZADERA TURBO-ESCAPE IMP.",
+        "brand": "Imp",
+        "code": "4549",
+        "image": "img/products/Turbo/abrazadera-turbo-escape-imp-4549.jpg",
+        "description": "ABRAZADERA TURBO-ESCAPE IMP. 4549 Marca: Imp Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33 / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 490 S46T / NR 490 S46T HR / NR 570 S38T / NR 570 S41T / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / TRAKKER 380 T38 / 380 T38 AD / 380 T42 / 410 T38 AD / 410 T42 AD / 720 T42T Codigo Original / Similar: 41201881 (IVECO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7700",
+        "name": "TURBO S1B-364 BIAGIO",
+        "brand": "Biagio",
+        "code": "4446",
+        "image": "img/products/Turbo/turbo-s1b-364-biagio-4446.jpg",
+        "description": "TURBO S1B-364 BIAGIO 4446 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Bus LO 814 MERCEDES BENZ: Motores MB OM 364 LA Codigo Original / Similar: 315264 (BW) 364.096.6199 / 364.096.5299 (MB)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7701",
+        "name": "TURBO TA5102 / S400-206 BIAGIO",
+        "brand": "Biagio",
+        "code": "4447",
+        "image": "img/products/Turbo/turbo-ta5102-s400-206-biagio-4447.jpg",
+        "description": "TURBO TA5102 / S400-206 BIAGIO 4447 Marca: Biagio Vehiculos compatibles: VOLVO: Camiones NL 12 360 EDC / NL 12 410 EDC y Bus B 12 B / B 12 R VOLVO: Motores VOLVO TD122 / TD123 Codigo Original / Similar: 466076-5020S (Garrett) 478.794 / 478.795 (VOLVO) 772100 / 172100 (BW)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7702",
+        "name": "TURBO TV6114 / 5400 / 4LGK BIAGIO",
+        "brand": "Biagio",
+        "code": "4448",
+        "image": "img/products/Turbo/turbo-tv6114-5400-4lgk-biagio-4448.jpg",
+        "description": "TURBO TV6114 / 5400 / 4LGK BIAGIO 4448 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 y Bus F 112 / K 112 Codigo Original / Similar: 14009880000 (BW) 525.222 / 397.664 (SC) 716639-5001S (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7703",
+        "name": "TURBO BIAGIO",
+        "brand": "Biagio",
+        "code": "4449",
+        "image": "img/products/Turbo/turbo-biagio-4449.jpg",
+        "description": "TURBO BIAGIO 4449 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Camiones F 14000 (93-98) FORD / VW / CUMMINS / MWM: Motores MWM 6.10 TCA Codigo Original / Similar: TC0130021 (Mahle) TC0130402 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7704",
+        "name": "TURBO HX30W BIAGIO",
+        "brand": "Biagio",
+        "code": "4378",
+        "image": "img/products/Turbo/turbo-hx30w-biagio-4378.jpg",
+        "description": "TURBO HX30W BIAGIO 4378 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 814 / 815 / 915 FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT / 4BTAA Codigo Original / Similar: 3592317 / 3592318 (Holset) 3800998 (Cummins) BF0X/6400/BA BF6X/6400/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7705",
+        "name": "TURBO GT42 / S400-207 / HX50 BIAGIO",
+        "brand": "Biagio",
+        "code": "4196",
+        "image": "img/products/Turbo/turbo-gt42-s400-207-hx50-biagio-4196.jpg",
+        "description": "TURBO GT42 / S400-207 / HX50 BIAGIO 4196 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 124 EB / K 124 IB / POT. 360/420 HP (1998-2007) Codigo Original / Similar: 1.423.029 / 1.423.040 / 1.423.038 (SC) 1.423.041 / 1.395.243 (SC) 70000174619 (BW) 703072-5003S (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7706",
+        "name": "TURBO TA4513 / S400-202 BIAGIO",
+        "brand": "Biagio",
+        "code": "4197",
+        "image": "img/products/Turbo/turbo-ta4513-s400-202-biagio-4197.jpg",
+        "description": "TURBO TA4513 / S400-202 BIAGIO 4197 Marca: Biagio Vehiculos compatibles: VOLVO: Camiones N 10 300 / N 310 / NL 10 310 / NL 10 340 Codigo Original / Similar: 422.987 / 1.545.820 (VOLVO) 466818-5007S (Garrett) 769193 / 169193 (BW)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7707",
+        "name": "TURBO GT4288 / S400 BIAGIO",
+        "brand": "Biagio",
+        "code": "4198",
+        "image": "img/products/Turbo/turbo-gt4288-s400-biagio-4198.jpg",
+        "description": "TURBO GT4288 / S400 BIAGIO 4198 Marca: Biagio Vehiculos compatibles: VOLVO: Camiones NL 10 320 EDC / FM 10 360 Codigo Original / Similar: 452174-5007S 452174-5005S (Garrett) 8.128.168 / 425.989 (VOLVO) 80000174023 (BW)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7708",
+        "name": "TURBO TA4512 / S400-205 BIAGIO",
+        "brand": "Biagio",
+        "code": "4199",
+        "image": "img/products/Turbo/turbo-ta4512-s400-205-biagio-4199.jpg",
+        "description": "TURBO TA4512 / S400-205 BIAGIO 4199 Marca: Biagio Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 (Todos -1992) y Bus B 10 M / B 10 R Codigo Original / Similar: 1.545.098 / 6.886.157 (VOLVO) 465922-5012S (Garrett) 770435 / 170435 (BW)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7709",
+        "name": "TURBO HX30WE / K16 BIAGIO",
+        "brand": "Biagio",
+        "code": "4190",
+        "image": "img/products/Turbo/turbo-hx30we-k16-biagio-4190.jpg",
+        "description": "TURBO HX30WE / K16 BIAGIO 4190 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317e / 1517e FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 Codigo Original / Similar: 3966664 / 3966672 / 3970466 (Cummins) BG8X/6400/AA BG5X/6400/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7710",
+        "name": "TURBO HX50W BIAGIO",
+        "brand": "Biagio",
+        "code": "4191",
+        "image": "img/products/Turbo/turbo-hx50w-biagio-4191.jpg",
+        "description": "TURBO HX50W BIAGIO 4191 Marca: Biagio Vehiculos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / AT 200 S42 / ATN 200 S38 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 490 S42T HR / ATN 570 S38T / ATN 570 S42T / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 570 S38T / NR 570 S41T / NR 740 S41TZ / TRAKKER 380 T38 / 380 T42 / 380 T38 AD / 410 T38 AD / 410 T42 AD / 720 T42T Codigo Original / Similar: 3596206 / 3596693 (Holset) 500390351 (IVECO)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7711",
+        "name": "TURBO HX55 BIAGIO",
+        "brand": "Biagio",
+        "code": "4193",
+        "image": "img/products/Turbo/turbo-hx55-biagio-4193.jpg",
+        "description": "TURBO HX55 BIAGIO 4193 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones R 380 / R 420 / POT 380/420 HP +2007 Codigo Original / Similar: 1.538.372 / 1.538.373 (SC) 14839880010 (BORG WARNER) 4038613 / 4038616 / 4038617 (Holset)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7712",
+        "name": "TURBO K24 BIAGIO",
+        "brand": "Biagio",
+        "code": "4194",
+        "image": "img/products/Turbo/turbo-k24-biagio-4194.jpg",
+        "description": "TURBO K24 BIAGIO 4194 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Bus OF 1722 MERCEDES BENZ: Motores MB OM 924 LA Codigo Original / Similar: 53249707114 (BW) 924.096.1799/ 924.096.1599/ 924.096.0899 (MB)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7713",
+        "name": "TURBO TA5126 BIAGIO",
+        "brand": "Biagio",
+        "code": "4195",
+        "image": "img/products/Turbo/turbo-ta5126-biagio-4195.jpg",
+        "description": "TURBO TA5126 BIAGIO 4195 Marca: Biagio Vehiculos compatibles: IVECO: Camiones EUROTECH 440 E42T / 440 E42TZ/P / 450 E37 / 450 E37T/P / 450 E37 HR / 740 E42TZ / EUROTRAKKER 190 E42 / 380 E37 / MP 450 E37T / MP 720 E42 HT Codigo Original / Similar: 454003-5002S (Garrett) 500373230 / 4854264 (IVECO)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7714",
+        "name": "MANGUERA RETORNO ACEITE AL TURBO IMP.",
+        "brand": "Imp",
+        "code": "4001",
+        "image": "img/products/Turbo/manguera-retorno-aceite-al-turbo-imp-4001.jpg",
+        "description": "MANGUERA RETORNO ACEITE AL TURBO IMP. 4001 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA / 6.10 TCA FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15180 / 17210 y Bus 9150 OD / 17210 OD / 9150 EOD Codigo Original / Similar: 2TA/145467 (VW) 941008610124 (MWM)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7715",
+        "name": "ABRAZADERA TUBO DE ESCAPE AL TURBO 80MM. C/INSERTO 80MM. ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "3992",
+        "image": "img/products/Turbo/abrazadera-tubo-de-escape-al-turbo-80mm-c-inserto-80mm-engine-parts-3992.jpg",
+        "description": "ABRAZADERA TUBO DE ESCAPE AL TURBO 80MM. C/INSERTO 80MM. ENGINE PARTS 3992 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 915e / 1317e / 1517e / 1722e / F14000 (99-05) / Nuevo C1722 FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15190 / 17210 / 17250 E / Constellation 17250 E Codigo Original / Similar: 3354862 (Cummins) TRA/145475 (FORD / VW / CUMMINS / MWM) TRA/145475 (VW)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7716",
+        "name": "TURBO CON VALVULA K27 / HX35W BIAGIO",
+        "brand": "Biagio",
+        "code": "3859",
+        "image": "img/products/Turbo/turbo-con-valvula-k27-hx35w-biagio-3859.jpg",
+        "description": "TURBO CON VALVULA K27 / HX35W BIAGIO 3859 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Camiones 1728/51 / 2423 B / 2423 K / 2428 y Bus 0500 M 1725 / 0500 U 1725 MERCEDES BENZ: Motores MB OM 906 LA Codigo Original / Similar: 53279707100 / 53279707115 (BW) 791493-5001S (Garrett) 802301 (Master power) 906.096.2799/ 906.096.4199/ 906.096.7399 (MB) TC0480077 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7717",
+        "name": "TURBO TO4B71 / S76 BIAGIO",
+        "brand": "Biagio",
+        "code": "3861",
+        "image": "img/products/Turbo/turbo-to4b71-s76-biagio-3861.jpg",
+        "description": "TURBO TO4B71 / S76 BIAGIO 3861 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Motores PERKINS 6-354 FASE 4 Codigo Original / Similar: 310407 (BW) 465154-5001 (Garrett)",
+        "rubro": "PERKINS – MAXION"
+    },
+    {
+        "id": "P7718",
+        "name": "TURBO TA31 BIAGIO",
+        "brand": "Biagio",
+        "code": "3862",
+        "image": "img/products/Turbo/turbo-ta31-biagio-3862.jpg",
+        "description": "TURBO TA31 BIAGIO 3862 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F4000 / F100 (96-98) FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA Codigo Original / Similar: 465837-5001 465837-5003 / 465837-5004 (Garrett) 905292010039 / 905292010045 (MWM) 905292010046 905292010058 (MWM) BF9T/6400/AA BF5X/6400/E (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7719",
+        "name": "TURBO HX30W / K16 BIAGIO",
+        "brand": "Biagio",
+        "code": "3863",
+        "image": "img/products/Turbo/turbo-hx30w-k16-biagio-3863.jpg",
+        "description": "TURBO HX30W / K16 BIAGIO 3863 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F4000 (+98) / F250 (+98) / F100 (+98) FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BT / 4BTAA Codigo Original / Similar: 3592315 / 3800986 (Holset) 3592316 (Cummins) BF8T/6400/B (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7720",
+        "name": "TURBO HX35W / K29 BIAGIO",
+        "brand": "Biagio",
+        "code": "3864",
+        "image": "img/products/Turbo/turbo-hx35w-k29-biagio-3864.jpg",
+        "description": "TURBO HX35W / K29 BIAGIO 3864 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores Interact 6.0 Euro III – ISBe6 FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 1723 Euro 6 FORD / VW / CUMMINS / MWM: VW 17250 E / Constellation 17250 E Codigo Original / Similar: 175580 (BW) 2S0/145061/E / 2T2/145061 (VW) 4036746 / 4036747 / 4042707 / 4042708 (Holset) 4043147 / 4043148 (Holset) 805563 (Master power) TC0210082 / TC0210478 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7721",
+        "name": "TURBO TA3164 / S2AS-058 BIAGIO",
+        "brand": "Biagio",
+        "code": "3780",
+        "image": "img/products/Turbo/turbo-ta3164-s2as-058-biagio-3780.jpg",
+        "description": "TURBO TA3164 / S2AS-058 BIAGIO 3780 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Camiones L 710 / 912/42 / L 913 D / L 913 y Bus LO 812 / LO 813 D MERCEDES BENZ: Motores MB OM 364 A Codigo Original / Similar: 197336 (BW) 364.096.2199 / 364.096.0399 (MB) 374.096.0199 / 364.096.0699 (MB) 466192-0003 / 466192- 0005 / 466192-0008 (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7722",
+        "name": "TURBO GT25 / S100G-101 BIAGIO",
+        "brand": "Biagio",
+        "code": "3782",
+        "image": "img/products/Turbo/turbo-gt25-s100g-101-biagio-3782.jpg",
+        "description": "TURBO GT25 / S100G-101 BIAGIO 3782 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 014 A / MAXION 2.5 MERCEDES BENZ: Utilitarios SPRINTER 310 D Codigo Original / Similar: 006.096.5199 (MB) 704090-5001S BW 170475 (Garrett) 79035 (Maxion)",
+        "rubro": "SPRINTER – MOTOR MAXION"
+    },
+    {
+        "id": "P7723",
+        "name": "TURBO TA3406 / H1C BIAGIO",
+        "brand": "Biagio",
+        "code": "3783",
+        "image": "img/products/Turbo/turbo-ta3406-h1c-biagio-3783.jpg",
+        "description": "TURBO TA3406 / H1C BIAGIO 3783 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1416 (SIN INTERCOOLER) FORD / VW / CUMMINS / MWM: Motores CUMMINS 6BT / 6BTA / 6BTAA Codigo Original / Similar: 166592 (BW) 3522778 / 3528741 3534285 (Holset) 3802289 / 3919119 3919121 (Cummins) 466563-0003 466563-5003 / 466563-5004 (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7724",
+        "name": "TURBO TA3408 / H1C / HX35 BIAGIO",
+        "brand": "Biagio",
+        "code": "3784",
+        "image": "img/products/Turbo/turbo-ta3408-h1c-hx35-biagio-3784.jpg",
+        "description": "TURBO TA3408 / H1C / HX35 BIAGIO 3784 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / F14000 (CON INTERCOOLER) FORD / VW / CUMMINS / MWM: Motores CUMMINS 6BT / 6BTA / 6BTAA FORD / VW / CUMMINS / MWM: VW 15160 / 15170 Codigo Original / Similar: 3531696 / 3531504 / 3534098 / 3535449 (Holset) 3536047 / 3536244 / 3536681 / 3536473 (Holset) 3590093 / 3590092 / 3591244 (Holset) 3802391 / 3800988 (Cummins) 466575-5003 BW 170483 (Garrett) BF8X/6400/D / BF8X/6400/E (FORD / VW / CUMMINS / MWM) TC0210050 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7725",
+        "name": "TURBO TA3164 / S2AS-063 BIAGIO",
+        "brand": "Biagio",
+        "code": "3728",
+        "image": "img/products/Turbo/turbo-ta3164-s2as-063-biagio-3728.jpg",
+        "description": "TURBO TA3164 / S2AS-063 BIAGIO 3728 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Bus LO 814 MERCEDES BENZ: Motores MB OM 364 LA Euro I Codigo Original / Similar: 12619700001 (BW) 374.096.0099 (MB) 374.096.0699 / 376.096.0099 (MB) 466192-5014 (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7726",
+        "name": "TURBO T2 BIAGIO",
+        "brand": "Biagio",
+        "code": "3730",
+        "image": "img/products/Turbo/turbo-t2-biagio-3730.jpg",
+        "description": "TURBO T2 BIAGIO 3730 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford RANGER (+98) FORD / VW / CUMMINS / MWM: Motores MAXION 2.5 HSD Codigo Original / Similar: 704344-5001 (Garrett) 79040 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7727",
+        "name": "TURBO TA31 / K16 BIAGIO",
+        "brand": "Biagio",
+        "code": "3731",
+        "image": "img/products/Turbo/turbo-ta31-k16-biagio-3731.jpg",
+        "description": "TURBO TA31 / K16 BIAGIO 3731 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 4.10 TCA FORD / VW / CUMMINS / MWM: VW 9150 y Bus 9150 OD Codigo Original / Similar: 2R0/145061/A (VW) 465819-5003 BW 172150 (Garrett) 905292010056 905292010063 / 905292010081 (MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7728",
+        "name": "TURBO TO4E06 / S81 BIAGIO",
+        "brand": "Biagio",
+        "code": "3734",
+        "image": "img/products/Turbo/turbo-to4e06-s81-biagio-3734.jpg",
+        "description": "TURBO TO4E06 / S81 BIAGIO 3734 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones P 93 Codigo Original / Similar: 1.317.661 (SC) 310794 (BW) 466616-5011S (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7729",
+        "name": "TURBO GT4288 / S400-201 / HX50 BIAGIO",
+        "brand": "Biagio",
+        "code": "3735",
+        "image": "img/products/Turbo/turbo-gt4288-s400-201-hx50-biagio-3735.jpg",
+        "description": "TURBO GT4288 / S400-201 / HX50 BIAGIO 3735 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 y Bus F 113 / K 113 Codigo Original / Similar: 1.107.962 / 1.489.194 (SC) 174618 (BW) 3525517 (Holset) 452109-5010S (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7730",
+        "name": "TURBO GT2052 / S100G BIAGIO",
+        "brand": "Biagio",
+        "code": "3727",
+        "image": "img/products/Turbo/turbo-gt2052-s100g-biagio-3727.jpg",
+        "description": "TURBO GT2052 / S100G BIAGIO 3727 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 014 LA / MAXION 2.5 MERCEDES BENZ: Utilitarios SPRINTER 312 D / 412 D Codigo Original / Similar: 007.096.5399 (MB) 708257-5001S BW 8000175520 (Garrett) 79050 (Maxion)",
+        "rubro": "SPRINTER – MOTOR MAXION"
+    },
+    {
+        "id": "P7731",
+        "name": "CASQUILLO RETORNO DE ACEITE AL TURBO / ACERO / LARGO 40MM. / DIAM. EXT. 22MM. MONTECRISTO",
+        "brand": "Montecristo",
+        "code": "3620",
+        "image": "img/products/Turbo/casquillo-retorno-de-aceite-al-turbo-acero-largo-40mm-diam-ext-22mm-montecristo-3620.jpg",
+        "description": "CASQUILLO RETORNO DE ACEITE AL TURBO / ACERO / LARGO 40MM. / DIAM. EXT. 22MM. MONTECRISTO 3620 Marca: Montecristo Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 815 / 915 C / 1016 / ATEGO 1418 / 1419 / 1725 / 1726 / 2425/48 / 2426 / ATRON 1720 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K / 3131 B/36 / 3131 K/36 / 3131/48 y Bus LO 914 / LO 915 / LO 916 / OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1721 / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 M 1826 / 0500 U 1826 MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Codigo Original / Similar: 904.011.0077 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7732",
+        "name": "TURBO TA4521 / S400-204 BIAGIO",
+        "brand": "Biagio",
+        "code": "3546",
+        "image": "img/products/Turbo/turbo-ta4521-s400-204-biagio-3546.jpg",
+        "description": "TURBO TA4521 / S400-204 BIAGIO 3546 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 / LB 2325 / LK 2325 y Bus 0371 R / 0400 R / 0400 UP MERCEDES BENZ: Motores MB OM 449 A / OM 449 LA Codigo Original / Similar: 004.096.2299 / 003.096.5899 (MB) 170402 (BW) 466618-5008 (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7733",
+        "name": "TURBO TO4E BIAGIO",
+        "brand": "Biagio",
+        "code": "3456",
+        "image": "img/products/Turbo/turbo-to4e-biagio-3456.jpg",
+        "description": "TURBO TO4E BIAGIO 3456 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MWM 6.10 TCA FORD / VW / CUMMINS / MWM: VW 13180 / 15180 / 17210 y Bus 17210 OD VOLVO: Camiones VM 17 210 / VM 23 210 VOLVO: Motores MWM 6.10 TCA Codigo Original / Similar: 170430 (BW) 2T0/145061/A / 2R0/145061/E BW 170430 (VW) 702154-5004S 702154-5011 / 702154-5014S (Garrett) 905292010048/ 905292010062/ 905292010067 (MWM)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7734",
+        "name": "TURBO TO4E66 / S2EL / K27 BIAGIO",
+        "brand": "Biagio",
+        "code": "3454",
+        "image": "img/products/Turbo/turbo-to4e66-s2el-k27-biagio-3454.jpg",
+        "description": "TURBO TO4E66 / S2EL / K27 BIAGIO 3454 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Camiones LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / 1718 A / 1718 K / 1720 A / 1720 K / 1721 S / 1722 S / LK 2318 / LK 2418 y Bus OF 1315 / OF 1620 / OF 1721 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OH 1621L-SB / OH 1721L-SB / OHL 1316 / OHL 1320 / OHL 1420 / OHL 1621 MERCEDES BENZ: Motores MB OM 366 A / OM 366 LA Codigo Original / Similar: 169145/ 169146/ 169147/ 169112/ 169107 (BW) 366.096.2599/ 366.096.3899/ 376.096.8799 (MB) 376.096.8899/ 366.096.3699/ 366.096.7299 (MB) 466646-5007S / 466646- 5041S (Garrett)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7735",
+        "name": "MANGUERA INTERCOOLER SILICONA ROJA 3” X 70 MM. (SALIDA DE TURBO) TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "3287",
+        "image": "img/products/Turbo/manguera-intercooler-silicona-roja-3-x-70-mm-salida-de-turbo-tf-p-technology-3287.jpg",
+        "description": "MANGUERA INTERCOOLER SILICONA ROJA 3” X 70 MM. (SALIDA DE TURBO) TF&P TECHNOLOGY 3287 Marca: Tfp Technology Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / T 143 Codigo Original / Similar: 267.353 / 1.302.637 / 373.210 (SC)",
+        "rubro": "MANGUERAS INTERCOOLER"
+    },
+    {
+        "id": "P7736",
+        "name": "MANGUERA SALIDA DEL TURBO INTERCOOLER (ROJA) IMP.",
+        "brand": "Imp",
+        "code": "2554",
+        "image": "img/products/Turbo/manguera-salida-del-turbo-intercooler-roja-imp-2554.jpg",
+        "description": "MANGUERA SALIDA DEL TURBO INTERCOOLER (ROJA) IMP. 2554 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 FORD / VW / CUMMINS / MWM: VW 9150 / Constellation 13180 E / 15180 E y Bus 9150 OD / 9150 EOD Codigo Original / Similar: 2TA/117247 (VW) XC45/6W650/DA / 7C45/6W650/DA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7737",
+        "name": "MANGUERA CODO FILTRO AIRE A TURBO 100 MM. IMP.",
+        "brand": "Imp",
+        "code": "2406",
+        "image": "img/products/Turbo/manguera-codo-filtro-aire-a-turbo-100-mm-imp-2406.jpg",
+        "description": "MANGUERA CODO FILTRO AIRE A TURBO 100 MM. IMP. 2406 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1521 Codigo Original / Similar: 345.528.0008 / 345.094.7082 (MB)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7738",
+        "name": "ABRAZADERA TURBO A SALIDA MULTIPLE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2210",
+        "image": "img/products/Turbo/abrazadera-turbo-a-salida-multiple-tf-p-technology-2210.jpg",
+        "description": "ABRAZADERA TURBO A SALIDA MULTIPLE TF&P TECHNOLOGY 2210 Marca: Tfp Technology Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / 0500 M 1725 / 0500 U 1725 Codigo Original / Similar: 376.997.7090 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7739",
+        "name": "JGO. JUNTAS DE TURBO CICCARELLI",
+        "brand": "Ciccarelli",
+        "code": "1641",
+        "image": "img/products/Turbo/jgo-juntas-de-turbo-ciccarelli-1641.jpg",
+        "description": "JGO. JUNTAS DE TURBO CICCARELLI 1641 Marca: Ciccarelli Vehiculos compatibles: MERCEDES BENZ: Camiones LK 1218 / L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / LK 1615 / L 1618/45 / L 1619 / L 1620 / L 1620 (M-96) / L 1622 / LS 1622 / L 1623 / LS 1623 / 1718 A / 1718 K / 1720 A / 1720 K / 1721 S / 1722 S / LK 2318 / LK 2418 y Bus OF 1315 / OF 1620 / OF 1721 / OH 1315 / OH 1316 / OH 1318 / OH 1320 / OH 1621L-SB / OH 1721L-SB / OHL 1316 / OHL 1320 / OHL 1420 / OHL 1621 MERCEDES BENZ: Motores MB OM 366 A / OM 366 LA",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7740",
+        "name": "TURBO HE221W BIAGIO",
+        "brand": "Biagio",
+        "code": "14814",
+        "image": "img/products/Turbo/turbo-he221w-biagio-14814.jpg",
+        "description": "TURBO HE221W BIAGIO 14814 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 915e / 916 / 1119 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe4 4.5 LT Codigo Original / Similar: 173871 / 174058 (BW) 2882005 / 3768495 (Cummins) 3785676 / 3785686 (Cummins) 802706 (Master power) B1HX/6400/DA / BG5X/6400/BA (FORD) BH1X/6400/HA / BH4X/6400/HA (FORD) BH4X/6400/GA (FORD) TC0210139 / TC0210150 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7741",
+        "name": "TURBO HX40W / GT40 BIAGIO",
+        "brand": "Biagio",
+        "code": "14815",
+        "image": "img/products/Turbo/turbo-hx40w-gt40-biagio-14815.jpg",
+        "description": "TURBO HX40W / GT40 BIAGIO 14815 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones P 93 260 / P 94 260 y Bus F 94 HB / K 94 IB / L 94 UB / K 310 SCANIA: Motores SC 9 Litros Euro 2 y Euro 3 Codigo Original / Similar: 1.400.413 / 1.405.660 (SC) 1.423.021 / 1.430.805 / 1.501.641 (SC) 1.524.872 / 1.776.561 (SC) 13749880000 (BW) 452163-9005 / 452308-5010 (Garrett) 452311-5006 (Garrett) 801362 (Master power) TC0760007 / TC0760008 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7742",
+        "name": "TURBO HE500WG / GTA425 BIAGIO",
+        "brand": "Biagio",
+        "code": "14816",
+        "image": "img/products/Turbo/turbo-he500wg-gta425-biagio-14816.jpg",
+        "description": "TURBO HE500WG / GTA425 BIAGIO 14816 Marca: Biagio Vehiculos compatibles: SCANIA: Camiones P 360 / P 400 / P 440 / G 360 / G 400 / G 440 / G 480 / R 360 / R 400 / R 440 / R 480 y Bus F 360 / K 360 / K 400 / K 410 / K 440 / K 450 / K 460 / K 490 SCANIA: Motores SC 13 litros Codigo Original / Similar: 1.854.855 / 2.057.668 (SC) 14879880096 (BW) 2.327.719 / 2.552.125 / 2.731.993 (SC) 805310 (Master power) TC0760431 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7743",
+        "name": "BI-TURBO MP240 BIAGIO",
+        "brand": "Biagio",
+        "code": "14818",
+        "image": "img/products/Turbo/bi-turbo-mp240-biagio-14818.jpg",
+        "description": "BI-TURBO MP240 BIAGIO 14818 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Motores MAN D0834 FORD / VW / CUMMINS / MWM: VW Worker 13190 / 15190 / 17230 / Constellation 15190 / 17190 / 17230 y Bus 15190 OD / 17230 OD Codigo Original / Similar: 07W/145703/J / 07W/145703/Q (VW) 07W/145704/F (VW) 07W145704C (VW) 1000988026 (BW) 808197 (Master power)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7744",
+        "name": "TURBO GT20 BIAGIO",
+        "brand": "Biagio",
+        "code": "14819",
+        "image": "img/products/Turbo/turbo-gt20-biagio-14819.jpg",
+        "description": "TURBO GT20 BIAGIO 14819 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Ranger (99-01) FORD / VW / CUMMINS / MWM: Motores MAXION 2.5 HSD 115 CV Euro 2 Codigo Original / Similar: 7005523R1 (MWM) 708258-5005 (Garrett) 79054 (Maxion) 805124 (Master power) BF9T/6400/A (FORD) TC0570111 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7745",
+        "name": "MANGUERA FILTRO DE AIRE A TURBO IMP.",
+        "brand": "Imp",
+        "code": "14525",
+        "image": "img/products/Turbo/manguera-filtro-de-aire-a-turbo-imp-14525.jpg",
+        "description": "MANGUERA FILTRO DE AIRE A TURBO IMP. 14525 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 916 / 1119 Codigo Original / Similar: EC45/9K658/DA (FORD)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7746",
+        "name": "MANGUERA FILTRO DE AIRE A TURBO 370 X 90 X 100 MM. IMP.",
+        "brand": "Imp",
+        "code": "1441",
+        "image": "img/products/Turbo/manguera-filtro-de-aire-a-turbo-370-x-90-x-100-mm-imp-1441.jpg",
+        "description": "MANGUERA FILTRO DE AIRE A TURBO 370 X 90 X 100 MM. IMP. 1441 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1526 / LS 1526 y Bus OHL 1526 Codigo Original / Similar: 350.528.7482 (MB)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7747",
+        "name": "JUNTA BASE TURBO A ESCAPE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14113",
+        "image": "img/products/Turbo/junta-base-turbo-a-escape-tf-p-technology-14113.jpg",
+        "description": "JUNTA BASE TURBO A ESCAPE TF&P TECHNOLOGY 14113 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / 260 E25 / TECTOR 170 E25 / 170 E25T / 240 E25 / 260 E25 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 260 E25 / TECTOR ECOLINE 170 E28S / 170 E28 / 170 E28T / 17-280 / 240 E28 / 240 E28S / 24-280 / 240-280 / 260 E28 / 310 E28 / 31-280 / TECTOR ECOLINE ATTACK 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / 240 E28 RSU y Bus CC 170 E22 Codigo Original / Similar: 4894510 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7748",
+        "name": "MANGUERA DE AIRE DEL FILTRO AL TURBO RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "14017",
+        "image": "img/products/Turbo/manguera-de-aire-del-filtro-al-turbo-reserplastic-14017.jpg",
+        "description": "MANGUERA DE AIRE DEL FILTRO AL TURBO RESERPLASTIC 14017 Marca: Reserplastic Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1317 / C1517 / 1519 Codigo Original / Similar: BH1X/9K614/EA (FORD)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7749",
+        "name": "MANGUERA SALIDA TURBO / SILICONA CIPEC",
+        "brand": "Cipec",
+        "code": "13984",
+        "image": "img/products/Turbo/manguera-salida-turbo-silicona-cipec-13984.jpg",
+        "description": "MANGUERA SALIDA TURBO / SILICONA CIPEC 13984 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / R 360 / R 400 / R 440 / R 480 / R 560 / R 620 y Bus N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 SCANIA: Motores SC 9 y 13 Litros Codigo Original / Similar: 1.857.265 (SC)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7750",
+        "name": "ABRAZADERA MANGUERA SALIDA TURBO CIPEC",
+        "brand": "Cipec",
+        "code": "13985",
+        "image": "img/products/Turbo/abrazadera-manguera-salida-turbo-cipec-13985.jpg",
+        "description": "ABRAZADERA MANGUERA SALIDA TURBO CIPEC 13985 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 250 / P 310 / P 360 / P 400 / P 440 / G 310 / G 360 / G 400 / G 440 / G 480 / R 360 / R 400 / R 440 / R 480 / R 560 / R 620 y Bus N 250 / N 280 / N 310 / F 250 / F 280 / F 310 / F 320 / F 360 SCANIA: Motores SC 9 y 13 Litros Codigo Original / Similar: 1.857.864 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7751",
+        "name": "ABRAZADERA TUBO DE ESCAPE TURBO CIPEC",
+        "brand": "Cipec",
+        "code": "13971",
+        "image": "img/products/Turbo/abrazadera-tubo-de-escape-turbo-cipec-13971.jpg",
+        "description": "ABRAZADERA TUBO DE ESCAPE TURBO CIPEC 13971 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.392.945 / 1.431.701 (SC) 1.433.190 / 1.371.083 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7752",
+        "name": "MANGUERA RETORNO ACEITE DEL TURBO 21 X 100MM. IMP.",
+        "brand": "Imp",
+        "code": "13912",
+        "image": "img/products/Turbo/manguera-retorno-aceite-del-turbo-21-x-100mm-imp-13912.jpg",
+        "description": "MANGUERA RETORNO ACEITE DEL TURBO 21 X 100MM. IMP. 13912 Marca: Imp Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / P 93 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 1.376.875 / 397.999 (SC)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7753",
+        "name": "MANGUERA DEL TURBO AL FILTRO DE AIRE IMP.",
+        "brand": "Imp",
+        "code": "13913",
+        "image": "img/products/Turbo/manguera-del-turbo-al-filtro-de-aire-imp-13913.jpg",
+        "description": "MANGUERA DEL TURBO AL FILTRO DE AIRE IMP. 13913 Marca: Imp Vehiculos compatibles: SCANIA: Camiones P 114 / R 114 / T 114 / P 124 / R 124 / T 124 Codigo Original / Similar: 1.453.978 (SC)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7754",
+        "name": "MANGUERA MULTIPLE DE ADMISION A TURBO IMP.",
+        "brand": "Imp",
+        "code": "13724",
+        "image": "img/products/Turbo/manguera-multiple-de-admision-a-turbo-imp-13724.jpg",
+        "description": "MANGUERA MULTIPLE DE ADMISION A TURBO IMP. 13724 Marca: Imp Vehiculos compatibles: IVECO: Camiones STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / NR 200 S46 / NR 570 S46T / NR 740 S41TZ / NR 740 S46TZ / STRALIS ECOLINE 200 S44 AT / 490 S44T AT / 490 S48T AS / 600 S44T AT / 800 S44T AT / 800 S48T AS / STRALIS ECOLINE EUROTRONIC 200 S44 AT / 490 S44T AS / 490 S44T AT / 490 S48T AS / 600 S44T AS / 600 S44T AT / 600 S48T AS / 600 S56T AS / 800 S44T AS / 800 S44T AT / 800 S48T AS / 800 S48T AT / 800 S56T AS / STRALIS ECOLINE HI-WAY EUROTRONIC 490 S44T / 490 S48T / 600 S44T / 600 S48T / 600 S56T / 800 S48T / 800 S56T / STRALIS ECOLINE HI-ROAD EUROTRONIC 800 S48TZ / TRAKKER ECOLINE 380 T44 AD / 380 T48T AT / 380 T50 AT / 410 T44 AD / 410 T48 AD / 410 T48 AT / 740 T48T AD / TRAKKER ECOLINE EUROTRONIC 410 T44 AD / 410 T44 AT / 410 T48 AD / 500 T48 AD / 740 T48T AD / 740 T48T AT / TRAKKER ECOLINE HI-LAND EUROTRONIC 380 T44 AD / 380 T44 AT / 380 T48T AT Codigo Original / Similar: 41296616 (IVECO)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7755",
+        "name": "MANGUERA INTERCOOLER ROJA 2 5/8″ X 75 MM. (SALIDA DE TURBO) IMP.",
+        "brand": "Imp",
+        "code": "13730",
+        "image": "img/products/Turbo/manguera-intercooler-roja-2-5-8-x-75-mm-salida-de-turbo-imp-13730.jpg",
+        "description": "MANGUERA INTERCOOLER ROJA 2 5/8″ X 75 MM. (SALIDA DE TURBO) IMP. 13730 Marca: Imp Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 Codigo Original / Similar: 2276 (Yaco) 375.527 / 1.347.080 (SC) 41700004 / M0004 (BINS) 55185 (SABO)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7756",
+        "name": "MANGUERA RETORNO ACEITE DEL TURBO ROJA 7/8″ X 90MM IMP.",
+        "brand": "Imp",
+        "code": "13731",
+        "image": "img/products/Turbo/manguera-retorno-aceite-del-turbo-roja-7-8-x-90mm-imp-13731.jpg",
+        "description": "MANGUERA RETORNO ACEITE DEL TURBO ROJA 7/8″ X 90MM IMP. 13731 Marca: Imp Vehiculos compatibles: SCANIA: Camiones P94 / P114 / R114 / T114 / P124 / R124 / T124 y Bus F94 HB / K94 IB / L94 UB / K124 EB / K124 IB Codigo Original / Similar: 1.433.110 / 1.423.508 (SC) 139.463 / 366.940 (SC) 41700005 / M0005 (BINS)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7757",
+        "name": "MANGUERA ASPIRACION TURBO / DESDE CARCAZA DE FILTRO DE AIRE IMP.",
+        "brand": "Imp",
+        "code": "13704",
+        "image": "img/products/Turbo/manguera-aspiracion-turbo-desde-carcaza-de-filtro-de-aire-imp-13704.jpg",
+        "description": "MANGUERA ASPIRACION TURBO / DESDE CARCAZA DE FILTRO DE AIRE IMP. 13704 Marca: Imp Vehiculos compatibles: AGRALE: Camiones 7000 / 7500 / 8500 / 9200 y Bus MT 12.0 Codigo Original / Similar: 6007001320000 (AGRALE)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7758",
+        "name": "MANGUERA RETORNO DE ACEITE DEL TURBO / DIAM. 22MM. IMP.",
+        "brand": "Imp",
+        "code": "13711",
+        "image": "img/products/Turbo/manguera-retorno-de-aceite-del-turbo-diam-22mm-imp-13711.jpg",
+        "description": "MANGUERA RETORNO DE ACEITE DEL TURBO / DIAM. 22MM. IMP. 13711 Marca: Imp Vehiculos compatibles: SCANIA: Camiones P 114 / R 114 / T 114 Codigo Original / Similar: 1.386.805 (SCANIA)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7759",
+        "name": "JUNTA MULTIPLE ADMISION / CODO AIRE AL TURBO ELRING",
+        "brand": "Elring",
+        "code": "13502",
+        "image": "img/products/Turbo/junta-multiple-admision-codo-aire-al-turbo-elring-13502.jpg",
+        "description": "JUNTA MULTIPLE ADMISION / CODO AIRE AL TURBO ELRING 13502 Marca: Elring Vehiculos compatibles: MERCEDES BENZ: Camiones ACTROS 2042 / 2048 / 2645 / 2651 / 3342 / 3351 / AROCS 3342 K/36 / 4145/54 / 4845 K/48 MERCEDES BENZ: Motor MB OM 471 LA Euro 5 Codigo Original / Similar: 472.098.0880 (MB)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7760",
+        "name": "JGO. JUNTAS Y ORINGS PARA MONTAJE DE TURBO ELRING",
+        "brand": "Elring",
+        "code": "13476",
+        "image": "img/products/Turbo/jgo-juntas-y-orings-para-montaje-de-turbo-elring-13476.jpg",
+        "description": "JGO. JUNTAS Y ORINGS PARA MONTAJE DE TURBO ELRING 13476 Marca: Elring Vehiculos compatibles: MERCEDES BENZ: Motores MB OM 651 LA MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI Codigo Original / Similar: 651.096.0480/R (MB)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7761",
+        "name": "CODO MULTIPLE ADMISION TURBO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "12886",
+        "image": "img/products/Turbo/codo-multiple-admision-turbo-industria-argentina-12886.jpg",
+        "description": "CODO MULTIPLE ADMISION TURBO INDUSTRIA ARGENTINA 12886 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones LK 1615 / L 1619 / L 1620 Codigo Original / Similar: 376.098.3515 / 376.098.3615 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7762",
+        "name": "MANGUERA ENTRE TUBOS DEL FILTRO DE AIRE AL TURBO RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "11923",
+        "image": "img/products/Turbo/manguera-entre-tubos-del-filtro-de-aire-al-turbo-reserplastic-11923.jpg",
+        "description": "MANGUERA ENTRE TUBOS DEL FILTRO DE AIRE AL TURBO RESERPLASTIC 11923 Marca: Reserplastic Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo C1722 / C1932 / C2632 / 1729 / 1933 Codigo Original / Similar: BH1X/9K614/BA (FORD)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7763",
+        "name": "TURBO K16 BIAGIO",
+        "brand": "Biagio",
+        "code": "11795",
+        "image": "img/products/Turbo/turbo-k16-biagio-11795.jpg",
+        "description": "TURBO K16 BIAGIO 11795 Marca: Biagio Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Camiones F 4000 (04-19) FORD / VW / CUMMINS / MWM: Motores CUMMINS 4BTAA Euro 2 / Euro 3 Codigo Original / Similar: 174614 / 174002 (BW) 3967635 / 3970937 (Cummins) 805282 (Master power) BG5T/6400/AA / BG5T/6400/AB (FORD) TC0210127 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7764",
+        "name": "TURBO B1G / CON RUEDA DE TITANIO BIAGIO",
+        "brand": "Biagio",
+        "code": "11800",
+        "image": "img/products/Turbo/turbo-b1g-con-rueda-de-titanio-biagio-11800.jpg",
+        "description": "TURBO B1G / CON RUEDA DE TITANIO BIAGIO 11800 Marca: Biagio Vehiculos compatibles: MERCEDES BENZ: Camiones ACCELO 815 / 1016 / ATEGO 1419 / 1720 / 1721 y Bus LO 916 / OF 1519 / OF 1721/59 / OH 1621 / OH 1721 Codigo Original / Similar: 11559880005 (BW) 802776 (Master power) 924.096.3399 / 924.096.3899 (MB) TC0480483 (Mahle)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7765",
+        "name": "SOPORTE MOTOR DELANTERO TURBO INTERCOOLER SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "1156",
+        "image": "img/products/Turbo/soporte-motor-delantero-turbo-intercooler-suporte-rei-1156.jpg",
+        "description": "SOPORTE MOTOR DELANTERO TURBO INTERCOOLER SUPORTE REI 1156 Marca: Suporte Rei Vehiculos compatibles: SCANIA: Camiones T 112 / T 142 / R 113 / T 113 / R 143 / T 143 y Bus K 112 / F 113 / K 113 Codigo Original / Similar: 332.738 (SC) R-198 (REI)",
+        "rubro": "SOPORTES"
+    },
+    {
+        "id": "P7766",
+        "name": "ORING MULTIPLE ADMISION A TURBO / SILICONA AMARILLA CIPEC",
+        "brand": "Cipec",
+        "code": "11289",
+        "image": "img/products/Turbo/oring-multiple-admision-a-turbo-silicona-amarilla-cipec-11289.jpg",
+        "description": "ORING MULTIPLE ADMISION A TURBO / SILICONA AMARILLA CIPEC 11289 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 361.523 (SC)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7767",
+        "name": "MANGUERA RETORNO ACEITE TURBO AL BLOCK / DIAM. INT. 22MM. TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11095",
+        "image": "img/products/Turbo/manguera-retorno-aceite-turbo-al-block-diam-int-22mm-trucktec-11095.jpg",
+        "description": "MANGUERA RETORNO ACEITE TURBO AL BLOCK / DIAM. INT. 22MM. TRUCKTEC 11095 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Camiones L 1624 / 1728/51 / 2423 B / 2423 K / 2428 / 2426 B / 2726 K / ATEGO 1725 / 1726 / 1729 / 2425/48 / 2426 / 2730 / AXOR 1933/45 / 1933 S/36 / 1933 LS/36 / 1933 S/36 / 2831/48 / 2831 B / 2831 K / 3131 B / 3131 K / 3131/48 / ATRON 1624 y Buses 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 U 1826-59 / 0500 M 1826-30 / 0500 R 1830 / OF 1724 MERCEDES BENZ: Motores MB OM 906 LA / OM 926 LA Codigo Original / Similar: 906.997.0382 (MB)",
+        "rubro": "MANGUERAS"
+    },
+    {
+        "id": "P7768",
+        "name": "BAJADA DE TURBO CON FRENO DE MOTOR IMP.",
+        "brand": "Imp",
+        "code": "0991",
+        "image": "img/products/Turbo/bajada-de-turbo-con-freno-de-motor-imp-0991.jpg",
+        "description": "BAJADA DE TURBO CON FRENO DE MOTOR IMP. 0991 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1619 / L 1620 / L 1622 / LS 1622 y Bus OH 1320 / OHL 1420 MERCEDES BENZ: Motores MB OM 366 A / OM 366 LA Codigo Original / Similar: 376.140.0553/ 376.140.1753/ 376.140.0453 (MB)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7769",
+        "name": "TUBO EXPANSION ESCAPE TURBO IMP.",
+        "brand": "Imp",
+        "code": "0983",
+        "image": "img/products/Turbo/tubo-expansion-escape-turbo-imp-0983.jpg",
+        "description": "TUBO EXPANSION ESCAPE TURBO IMP. 0983 Marca: Imp Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 113 / T 113 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 276.087 (SC)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7770",
+        "name": "MARCADOR PRESION DE TURBO 24V. / DIAM. 56MM. VDO",
+        "brand": "Vdo",
+        "code": "0843",
+        "image": "img/products/Turbo/marcador-presion-de-turbo-24v-diam-56mm-vdo-0843.jpg",
+        "description": "MARCADOR PRESION DE TURBO 24V. / DIAM. 56MM. VDO 0843 Marca: Vdo Vehiculos compatibles: VOLVO: Camiones NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Codigo Original / Similar: 8.123.663 (VOLVO)",
+        "rubro": "INSTRUMENTAL"
+    },
+    {
+        "id": "P7771",
+        "name": "BULBO PRESION DE ACEITE EN TURBO / R7/16 – 24 UNS 3-RHO",
+        "brand": "3 Rho",
+        "code": "0846",
+        "image": "img/products/Turbo/bulbo-presion-de-aceite-en-turbo-r7-16-24-uns-3-rho-0846.jpg",
+        "description": "BULBO PRESION DE ACEITE EN TURBO / R7/16 – 24 UNS 3-RHO 0846 Marca: 3 Rho Vehiculos compatibles: VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / NL 10 280 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC y Bus B 10 M / B 10 R / B 12 B / B 12 R VOLVO: Motores VOLVO TD100 / TD101 / TD102 / THD100D / TD122 / TD123 Codigo Original / Similar: 8.125.161 / 1.608.835 (VOLVO)",
+        "rubro": "ELECTRICIDAD"
+    },
+    {
+        "id": "P7772",
+        "name": "TURBO TO4E46 / K27 BIAGIO",
+        "brand": "Biagio",
+        "code": "0732",
+        "image": "img/products/Turbo/turbo-to4e46-k27-biagio-0732.jpg",
+        "description": "TURBO TO4E46 / K27 BIAGIO 0732 Marca: Biagio Vehiculos compatibles: IVECO: Camiones 150N TURBO / 150T TURBO / 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T IVECO: Motor IVECO 8060.25 / 8060.45 Codigo Original / Similar: 465640-5013S / 465413- 5003 (Garrett) 99446017 / 4848508 (IVECO)",
+        "rubro": "TURBOCOMPRESOR"
+    },
+    {
+        "id": "P7773",
+        "name": "RETEN RUEDA TRASERA / PIÑON DIFERENCIAL / MEDIA TEMPERATURA SABO",
+        "brand": "SABO",
+        "code": "9745",
+        "image": "img/products/Turbo/reten-rueda-trasera-pinon-diferencial-media-temperatura-sabo-9745.jpg",
+        "description": "RETEN RUEDA TRASERA / PIÑON DIFERENCIAL / MEDIA TEMPERATURA SABO 9745 Marca: SABO Vehiculos compatibles: AGRALE: Bus MA 15.0 / MT 15.0 FORD / VW / CUMMINS / MWM: Ford F 14000 (93-98) FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 24250 E / 25320 E / 26260 E / 31320 E / 15190 / 17190 / 17230 / 17280 / 19330 / 19360 / 19420 / 25360 / 25420 / 26280 / 26420 / 31280 / 31330 FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / Constellation 17280 y Bus 17210 OD / 17240 OT / 17230 EOD / 17260 EOT / 18320 EOT / 17230 OD / 18330 OT IVECO: Bus CC 170 E22 / 170 S28 IVECO: Camiones FIAT 190 29N / 190 29T / 190 33N / 190 33T / 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB (Rueda Trasera)_x000D_ Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / EUROCARGO TECTOR 170 E22 RSU / TECTOR ATTACK 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S y Bus ECOLINE 170 S28 (Piñon Diferencial) MERCEDES BENZ: Bus OH 1115 L-SB / OH 1315 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 MERCEDES BENZ: Eje Trasero DANA-SPICER 23060-S VOLVO: Bus B 270 R Codigo Original / Similar: 000.356.0060 (MB) 07338BAYF / 7338 (SABO) 104182 (MERITOR) 2TJ/501317/A / 2S0/501317 (VW) 503106017 (IVECO) 7142398 / 503106158 (IVECO) E5HT/1175/BA / T16/501317 (FORD) T16/501317 / 2RH/501317 (VW)",
+        "rubro": "EJE TRASERO – DIFERENCIAL"
+    },
+    {
+        "id": "P7774",
+        "name": "CRUCETA PALANCA CAMBIOS DADO 22.42 / LARGO 53.00 ETMA",
+        "brand": "Etma",
+        "code": "8335",
+        "image": "img/products/Turbo/cruceta-palanca-cambios-dado-22-42-largo-53-00-etma-8335.jpg",
+        "description": "CRUCETA PALANCA CAMBIOS DADO 22.42 / LARGO 53.00 ETMA 8335 Marca: Etma Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Codigo Original / Similar: CR1089 (ETMA)",
+        "rubro": "CAJA"
+    },
+    {
+        "id": "P7775",
+        "name": "CRUCETA CARDAN DADO 59.98 / LARGO 170.00 ETMA",
+        "brand": "Etma",
+        "code": "6238",
+        "image": "img/products/Turbo/cruceta-cardan-dado-59-98-largo-170-00-etma-6238.jpg",
+        "description": "CRUCETA CARDAN DADO 59.98 / LARGO 170.00 ETMA 6238 Marca: Etma Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 / 697 N / 697 T / 697 NB / IVECO 190 29N / 190 29T / 190 33N / 190 33T Codigo Original / Similar: 4021288 / 7133973 (IVECO) CR1037 / STR1-037 (ETMA)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7776",
+        "name": "BOMBA DE AGUA / SIN POLEA RODA",
+        "brand": "Roda",
+        "code": "6017",
+        "image": "img/products/Turbo/bomba-de-agua-sin-polea-roda-6017.jpg",
+        "description": "BOMBA DE AGUA / SIN POLEA RODA 6017 Marca: Roda Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619 T1 / 697 N / 697 T / 697 NB Codigo Original / Similar: 4606023 / 4952496 (Fiat) BA1115 (Fulp100 / BMR) BA144 (VMG) RD325P (RODA)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7777",
+        "name": "VALVULA FRENO DE MANO / 4 SALIDAS TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "5373",
+        "image": "img/products/Turbo/valvula-freno-de-mano-4-salidas-tf-p-technology-5373.jpg",
+        "description": "VALVULA FRENO DE MANO / 4 SALIDAS TF&P TECHNOLOGY 5373 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones 619 N1 / 619 N1 TURBO / 619 T1 Codigo Original / Similar: 4695730 (IVECO) 961.702.001 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7778",
+        "name": "HELICE VENTILADOR 10 PALAS DIAM. EXT. 555 MM. AGUJERO CENTRAL 82MM. OMER",
+        "brand": "Omer",
+        "code": "4884",
+        "image": "img/products/Turbo/helice-ventilador-10-palas-diam-ext-555-mm-agujero-central-82mm-omer-4884.jpg",
+        "description": "HELICE VENTILADOR 10 PALAS DIAM. EXT. 555 MM. AGUJERO CENTRAL 82MM. OMER 4884 Marca: Omer Vehiculos compatibles: IVECO: Camiones 619 N1 / 619 N1 TURBO / 619 T1 / 673 N / 673 T Codigo Original / Similar: 4629725 (IVECO)",
+        "rubro": "VENTILADOR"
+    },
+    {
+        "id": "P7779",
+        "name": "HELICE VENTILADOR 10 PALAS DIAM. EXT. 420 MM. AGUJERO CENTRAL 75 MM. OMER",
+        "brand": "Omer",
+        "code": "4885",
+        "image": "img/products/Turbo/helice-ventilador-10-palas-diam-ext-420-mm-agujero-central-75-mm-omer-4885.jpg",
+        "description": "HELICE VENTILADOR 10 PALAS DIAM. EXT. 420 MM. AGUJERO CENTRAL 75 MM. OMER 4885 Marca: Omer Vehiculos compatibles: IVECO: Camiones 150 ASPIRADO / 150N TURBO / 150T TURBO y Bus AU 130 Codigo Original / Similar: 4761185 (IVECO)",
+        "rubro": "VENTILADOR"
+    },
+    {
+        "id": "P7780",
+        "name": "RODAMIENTO DE CARDAN CON GOMA Y SOPORTE DIAM. INT. 45MM. IMP.",
+        "brand": "Imp",
+        "code": "3845",
+        "image": "img/products/Turbo/rodamiento-de-cardan-con-goma-y-soporte-diam-int-45mm-imp-3845.jpg",
+        "description": "RODAMIENTO DE CARDAN CON GOMA Y SOPORTE DIAM. INT. 45MM. IMP. 3845 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 / 1722 / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E IVECO: Camiones 150 ASPIRADO / 150 N TURBO / 150 T TURBO / CAVALLINO 180 E32 / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 240 E25 / VERTIS 130 V18 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 M / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 y Bus B 10 M Codigo Original / Similar: 000.410.0222 88509 (MB) 000.410.1522 (MB) 7149142 88509 (IVECO) 88509 (Original) TJG/521117 (FORD / VW / CUMMINS / MWM) TJG/521117 – 88509 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7781",
+        "name": "BIELA COMPRESOR MARELLI 70MM. INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "3497",
+        "image": "img/products/Turbo/biela-compresor-marelli-70mm-industria-argentina-3497.jpg",
+        "description": "BIELA COMPRESOR MARELLI 70MM. INDUSTRIA ARGENTINA 3497 Marca: Industria Argentina Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB / 150 ASPIRADO / 150 N TURBO / 150 T TURBO y Bus AU130",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P7782",
+        "name": "JGO. JUNTAS SIN TAPA DE CILINDRO ELRING",
+        "brand": "Elring",
+        "code": "3032",
+        "image": "img/products/Turbo/jgo-juntas-sin-tapa-de-cilindro-elring-3032.jpg",
+        "description": "JGO. JUNTAS SIN TAPA DE CILINDRO ELRING 3032 Marca: Elring Vehiculos compatibles: IVECO: Camiones 150 ASPIRADO / 150N TURBO / 150T TURBO / EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / 160 E25 / 320 E18 y Bus AU 130 IVECO: Motor IVECO 8060.25 Codigo Original / Similar: 15870 (ELRING) 1907853 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7783",
+        "name": "PISTON COMPRESOR MARELLI 70MM. STD INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "3040",
+        "image": "img/products/Turbo/piston-compresor-marelli-70mm-std-industria-argentina-3040.jpg",
+        "description": "PISTON COMPRESOR MARELLI 70MM. STD INDUSTRIA ARGENTINA 3040 Marca: Industria Argentina Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB / 150 ASPIRADO / 150 N TURBO / 150 T TURBO y Bus AU130",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P7784",
+        "name": "REPARACION VALVULA RELAY WABCO F.S.S",
+        "brand": "F S S",
+        "code": "3010",
+        "image": "img/products/Turbo/reparacion-valvula-relay-wabco-f-s-s-3010.jpg",
+        "description": "REPARACION VALVULA RELAY WABCO F.S.S 3010 Marca: F S S Vehiculos compatibles: IVECO: Camiones 619 N1 / 619 N1 TURBO / 619 T1 / 150 ASPIRADO / 150 N TURBO / 150 T TURBO / EUROCARGO 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T IVECO: Válvulas WABCO 473.017.000 0 Codigo Original / Similar: 473.017.000 2 (Wabco)",
+        "rubro": "RELAY"
+    },
+    {
+        "id": "P7785",
+        "name": "VALVULA DISTRIBUIDORA WABCO / M22 X 1.5 F.S.S",
+        "brand": "F S S",
+        "code": "2995",
+        "image": "img/products/Turbo/valvula-distribuidora-wabco-m22-x-1-5-f-s-s-2995.jpg",
+        "description": "VALVULA DISTRIBUIDORA WABCO / M22 X 1.5 F.S.S 2995 Marca: F S S Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Codigo Original / Similar: 4684437 / 4731117 (IVECO) 973.002.000 0 / 973.002.022 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7786",
+        "name": "VALVULA ACCIONAMIENTO FRENO DE MOTOR WABCO 10 BAR F.S.S",
+        "brand": "F S S",
+        "code": "2998",
+        "image": "img/products/Turbo/valvula-accionamiento-freno-de-motor-wabco-10-bar-f-s-s-2998.jpg",
+        "description": "VALVULA ACCIONAMIENTO FRENO DE MOTOR WABCO 10 BAR F.S.S 2998 Marca: F S S Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 MERCEDES BENZ: Camiones L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1624 / L 1632 / LS 1632 / L 1633 / LS 1633 / L 1634 / L 1634 EL / LS 1634 / LS 11634 EL / L 1938 / LS 1938 / LS 1938 EL / LS 1941 / L 2638/54 y Bus OF 1721 Codigo Original / Similar: 345.434.7401 (MB) 463.013.025 0 / 463.013.110 0 (Wabco) 463.013.110 0 (Wabco) 4782794 (IVECO)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7787",
+        "name": "HEMBRA CARDAN / 16 ESTRIAS / DIAM. 44.4MM / LARGO 175MM. / DADO 34.9MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "2978",
+        "image": "img/products/Turbo/hembra-cardan-16-estrias-diam-44-4mm-largo-175mm-dado-34-9mm-tf-p-technology-2978.jpg",
+        "description": "HEMBRA CARDAN / 16 ESTRIAS / DIAM. 44.4MM / LARGO 175MM. / DADO 34.9MM. TF&P TECHNOLOGY 2978 Marca: Tfp Technology Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / F 14000 (99-05) IVECO: Camiones 150N TURBO / 150T TURBO / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 MERCEDES BENZ: Camiones 712 C / 914 / 914 C / 1214 C y Bus LO 812 / LO 814 / LO 914 / LO 915 Codigo Original / Similar: 4-3-1241KX (Spicer) 85HU/4841/A (FORD / VW / CUMMINS / MWM) LV1050 (Mec-Par)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7788",
+        "name": "VALVULA FRENO DE MANO / 4 SALIDAS F.S.S",
+        "brand": "F S S",
+        "code": "2378",
+        "image": "img/products/Turbo/valvula-freno-de-mano-4-salidas-f-s-s-2378.jpg",
+        "description": "VALVULA FRENO DE MANO / 4 SALIDAS F.S.S 2378 Marca: F S S Vehiculos compatibles: IVECO: Camiones 619 N1 / 619 N1 TURBO / 619 T1 Codigo Original / Similar: 4695730 (IVECO) 961.702.001 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7789",
+        "name": "VALVULA RELAY WABCO 10 BAR / M22 X 1.5 / DOBLE SEÑAL F.S.S",
+        "brand": "F S S",
+        "code": "2351",
+        "image": "img/products/Turbo/valvula-relay-wabco-10-bar-m22-x-1-5-doble-senal-f-s-s-2351.jpg",
+        "description": "VALVULA RELAY WABCO 10 BAR / M22 X 1.5 / DOBLE SEÑAL F.S.S 2351 Marca: F S S Vehiculos compatibles: IVECO: Camiones 619 N1 / 619 N1 TURBO / 619 T1 / 150 ASPIRADO / 150 N TURBO / 150 T TURBO / EUROCARGO 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T Codigo Original / Similar: 42043784 / 4672022 / 4688363 (IVECO) 473.017.000 0 (Wabco)",
+        "rubro": "RELAY"
+    },
+    {
+        "id": "P7790",
+        "name": "POLEA CIGUEÑAL / BALANCEADOR ARMONICO INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "1818",
+        "image": "img/products/Turbo/polea-ciguenal-balanceador-armonico-industria-argentina-1818.jpg",
+        "description": "POLEA CIGUEÑAL / BALANCEADOR ARMONICO INDUSTRIA ARGENTINA 1818 Marca: Industria Argentina Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Codigo Original / Similar: 4623878 (IVECO)",
+        "rubro": "POLEAS"
+    },
+    {
+        "id": "P7791",
+        "name": "REP. TAPA COMPRESOR MARELLI 70MM. A-TECH",
+        "brand": "A Tech",
+        "code": "1799",
+        "image": "img/products/Turbo/rep-tapa-compresor-marelli-70mm-a-tech-1799.jpg",
+        "description": "REP. TAPA COMPRESOR MARELLI 70MM. A-TECH 1799 Marca: A Tech Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB / 150 ASPIRADO / 150 N TURBO / 150 T TURBO y Bus AU130 Codigo Original / Similar: 99440222 / 99440223 (IVECO)",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P7792",
+        "name": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 45MM. SABO",
+        "brand": "SABO",
+        "code": "1756",
+        "image": "img/products/Turbo/rodamiento-de-cardan-con-goma-diam-int-45mm-sabo-1756.jpg",
+        "description": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 45MM. SABO 1756 Marca: SABO Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 / 1722 / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E IVECO: Camiones 150 ASPIRADO / 150 N TURBO / 150 T TURBO / CAVALLINO 180 E32 / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 240 E25 / VERTIS 130 V18 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 M / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 y Bus B 10 M Codigo Original / Similar: 000.410.0222 (MB) 07802ROL (SABO) 88509 (PL) TJG/521117 (FORD) TJG/521117 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7793",
+        "name": "CUBRE RODAMIENTO DE CARDAN DIAM. INT. 45MM. / 88509 INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "1538",
+        "image": "img/products/Turbo/cubre-rodamiento-de-cardan-diam-int-45mm-88509-industria-argentina-1538.jpg",
+        "description": "CUBRE RODAMIENTO DE CARDAN DIAM. INT. 45MM. / 88509 INDUSTRIA ARGENTINA 1538 Marca: Industria Argentina Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 / 1722 / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E IVECO: Camiones 150 ASPIRADO / 150 N TURBO / 150 T TURBO / CAVALLINO 180 E32 / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 240 E25 / VERTIS 130 V18 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 M / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 y Bus B 10 M Codigo Original / Similar: 88509 (Original) TE3/521203 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7794",
+        "name": "JUNTA MULTIPLE DE ESCAPE TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14108",
+        "image": "img/products/Turbo/junta-multiple-de-escape-tf-p-technology-14108.jpg",
+        "description": "JUNTA MULTIPLE DE ESCAPE TF&P TECHNOLOGY 14108 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones 150 ASPIRADO / 150N TURBO / 150T TURBO / EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / 160 E25 y Bus AU 130 Codigo Original / Similar: 98489690 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7795",
+        "name": "JUNTA MULTIPLE DE ADMISION TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "14115",
+        "image": "img/products/Turbo/junta-multiple-de-admision-tf-p-technology-14115.jpg",
+        "description": "JUNTA MULTIPLE DE ADMISION TF&P TECHNOLOGY 14115 Marca: Tfp Technology Vehiculos compatibles: IVECO: Camiones 150 ASPIRADO / 150N TURBO / 150T TURBO / EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / 160 E25 y Bus AU 130 Codigo Original / Similar: 4851921 / 504092109 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7796",
+        "name": "TERMOSTATO 79º CALORSTAT",
+        "brand": "Calorstat",
+        "code": "12854",
+        "image": "img/products/Turbo/termostato-79-calorstat-12854.jpg",
+        "description": "TERMOSTATO 79º CALORSTAT 12854 Marca: Calorstat Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 100 / F 4000 MWM SIN TURBO Codigo Original / Similar: 922507570146 (MWM)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7797",
+        "name": "TERMOSTATO 71º CALORSTAT",
+        "brand": "Calorstat",
+        "code": "12848",
+        "image": "img/products/Turbo/termostato-71-calorstat-12848.jpg",
+        "description": "TERMOSTATO 71º CALORSTAT 12848 Marca: Calorstat Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB Codigo Original / Similar: 98463638 (IVECO)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7798",
+        "name": "TERMOSTATO 88º CALORSTAT",
+        "brand": "Calorstat",
+        "code": "12852",
+        "image": "img/products/Turbo/termostato-88-calorstat-12852.jpg",
+        "description": "TERMOSTATO 88º CALORSTAT 12852 Marca: Calorstat Vehiculos compatibles: CHEVROLET: CHEVROLET S10 / BLAZER FORD / VW / CUMMINS / MWM: Ford RANGER (97-01) / F 100 (96-98) FORD / VW / CUMMINS / MWM: Motores MAXION 2.5 8V TURBO DIESEL / HSD MERCEDES BENZ: Motores MB OM 014 A / OM 014 LA / MAXION 2.5 MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D Codigo Original / Similar: 005.203.2375 (MB) BF5T/8575/AA (FORD) ERR3291 (Maxion)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7799",
+        "name": "ÓPTICA PRINCIPAL DERECHA E IZQUIERDA VIC",
+        "brand": "Vic",
+        "code": "12697",
+        "image": "img/products/Turbo/optica-principal-derecha-e-izquierda-vic-12697.jpg",
+        "description": "ÓPTICA PRINCIPAL DERECHA E IZQUIERDA VIC 12697 Marca: Vic Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619 T1 / 697 N / 697 T / 697 NB Codigo Original / Similar: 4213249 (IVECO) 664 (VIC)",
+        "rubro": "OPTICAS Y FAROS"
+    },
+    {
+        "id": "P7800",
+        "name": "BOMBA DE AGUA / INCLUYE JUNTA RODA",
+        "brand": "Roda",
+        "code": "11761",
+        "image": "img/products/Turbo/bomba-de-agua-incluye-junta-roda-11761.jpg",
+        "description": "BOMBA DE AGUA / INCLUYE JUNTA RODA 11761 Marca: Roda Vehiculos compatibles: IVECO: Camiones 150N TURBO / 150T TURBO Codigo Original / Similar: 4679303 / 4679304 (Fiat) BA1277 (Fulp100 / BMR) BA149 (VMG) RD324 (RODA)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7801",
+        "name": "BOMBA DE AGUA / EJE SIN ROSCA / INCLUYE JUNTA RODA",
+        "brand": "Roda",
+        "code": "11763",
+        "image": "img/products/Turbo/bomba-de-agua-eje-sin-rosca-incluye-junta-roda-11763.jpg",
+        "description": "BOMBA DE AGUA / EJE SIN ROSCA / INCLUYE JUNTA RODA 11763 Marca: Roda Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619 T1 / 697 N / 697 T / 697 NB Codigo Original / Similar: 4606023 / 4952496 (Fiat) BA147 (VMG) BA1807 (Fulp100 / BMR) RD327 (RODA)",
+        "rubro": "REFRIGERACION"
+    },
+    {
+        "id": "P7802",
+        "name": "RODAMIENTO DE CARDAN CON GOMA, SOPORTE Y ALEMITE DIAM. INT. 45MM. IMP.",
+        "brand": "Imp",
+        "code": "11011",
+        "image": "img/products/Turbo/rodamiento-de-cardan-con-goma-soporte-y-alemite-diam-int-45mm-imp-11011.jpg",
+        "description": "RODAMIENTO DE CARDAN CON GOMA, SOPORTE Y ALEMITE DIAM. INT. 45MM. IMP. 11011 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 / 1722 / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E IVECO: Camiones 150 ASPIRADO / 150 N TURBO / 150 T TURBO / CAVALLINO 180 E32 / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 240 E25 / VERTIS 130 V18 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 M / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 y Bus B 10 M Codigo Original / Similar: 000.410.0222 (MB) 7149142 (IVECO) TJG/521117 (FORD) TJG/521117 (UNIVERSAL) TJG/521117 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7803",
+        "name": "VALVULA DISTRIBUIDORA WABCO TKL",
+        "brand": "TKL",
+        "code": "10901",
+        "image": "img/products/Turbo/valvula-distribuidora-wabco-tkl-10901.jpg",
+        "description": "VALVULA DISTRIBUIDORA WABCO TKL 10901 Marca: TKL Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Codigo Original / Similar: 4684437 / 4731117 (IVECO) 973.002.000 0 / 973.002.022 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7804",
+        "name": "TENSOR CORREA COMPLETO POLEA LISA (7PK) 85MM. X 29MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "1060",
+        "image": "img/products/Turbo/tensor-correa-completo-polea-lisa-7pk-85mm-x-29mm-tf-p-technology-1060.jpg",
+        "description": "TENSOR CORREA COMPLETO POLEA LISA (7PK) 85MM. X 29MM. TF&P TECHNOLOGY 1060 Marca: Tfp Technology Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford RANGER / F 100 (96-98) CHEVROLET S10 / BLAZER FORD / VW / CUMMINS / MWM: LAND ROVER Defender / Discovery FORD / VW / CUMMINS / MWM: Motores MAXION 2.5 8V TURBO DIESEL / HSD MERCEDES BENZ: Motores MB OM 014 A / OM 014 LA / MAXION 2.5 8V TURBO DIESEL / HSD MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D Codigo Original / Similar: 000.200.0670 / 000.200.0970 (MB) BG2T/10B300/AA / BF5T/10B300/A (FORD / VW / CUMMINS / MWM) CHEV 70520171 / 70992880 (FORD / VW / CUMMINS / MWM) ERR4708 (Maxion)",
+        "rubro": "TENSORES DE CORREA Y POLEAS"
+    },
+    {
+        "id": "P7805",
+        "name": "RETEN RUEDA TRASERA / BAJA TEMPERATURA SABO",
+        "brand": "SABO",
+        "code": "10414",
+        "image": "img/products/Turbo/reten-rueda-trasera-baja-temperatura-sabo-10414.jpg",
+        "description": "RETEN RUEDA TRASERA / BAJA TEMPERATURA SABO 10414 Marca: SABO Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (93-98) FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 24250 E / 25320 E / 26260 E / 31320 E / 15190 / 17190 / 17230 / 17280 / 19330 / 19360 / 19420 / 25360 / 25420 / 26280 / 26420 / 31280 / 31330 IVECO: Camiones FIAT 190 29N / 190 29T / 190 33N / 190 33T / 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB (Rueda Trasera)_x000D_ Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / EUROCARGO TECTOR 170 E22 RSU / TECTOR ATTACK 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S y Bus ECOLINE 170 S28 (Piñon Diferencial) MERCEDES BENZ: Bus OH 1115 L-SB / OH 1315 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 MERCEDES BENZ: Eje Trasero DANA-SPICER 23060-S Codigo Original / Similar: 000.356.0060 (MB) 02713BRY / 2713 (SABO) 2713N (Corteco) 2TJ/501317/A / 2S0/501317 (VW) 7142398 / 503106158 (IVECO) E5HT/1175/BA / T16/501317 (FORD) Opcional 07340BAYF / 7340 (SABO) T16/501317 / 2RH/501317 (VW)",
+        "rubro": "EJE TRASERO – DIFERENCIAL"
+    },
+    {
+        "id": "P7806",
+        "name": "RETEN RUEDA TRASERA / PIÑON DIFERENCIAL / ALTA TEMPERATURA SABO",
+        "brand": "SABO",
+        "code": "10381",
+        "image": "img/products/Turbo/reten-rueda-trasera-pinon-diferencial-alta-temperatura-sabo-10381.jpg",
+        "description": "RETEN RUEDA TRASERA / PIÑON DIFERENCIAL / ALTA TEMPERATURA SABO 10381 Marca: SABO Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F 14000 (93-98) FORD / VW / CUMMINS / MWM: VW 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 15180 E / 17250 E / 19320 E / 24250 E / 25320 E / 26260 E / 31320 E / 15190 / 17190 / 17230 / 17280 / 19330 / 19360 / 19420 / 25360 / 25420 / 26280 / 26420 / 31280 / 31330 IVECO: Camiones EUROCARGO 160 E18 GNC / EUROCARGO ATTACK 170 E22 / EUROCARGO TECTOR 170 E22 RSU / TECTOR ATTACK 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 170 E28 / 240 E22 / 240 E28 / TECTOR ECOLINE 170 E28 / 170 E28S / 170 E28T / 170 E30S / 240 E28 / 240 E28S / 240 E30S y Bus ECOLINE 170 S28 (Piñon Diferencial) IVECO: Camiones FIAT 190 29N / 190 29T / 190 33N / 190 33T / 619 N1 / 619 N1 TURBO / 619T1 / 697 N / 697 T / 697 NB (Rueda Trasera) MERCEDES BENZ: Bus OH 1115 L-SB / OH 1315 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 MERCEDES BENZ: Eje Trasero DANA-SPICER 23060-S Codigo Original / Similar: 000.356.0060 (MB) 07340BAYF / 7340 (SABO) 2TJ/501317/A / 2S0/501317 (VW) 3189P (Corteco) 7142398 / 503106158 (IVECO) E5HT/1175/BA / T16/501317 (FORD) T16/501317 / 2RH/501317 (VW)",
+        "rubro": "EJE TRASERO – DIFERENCIAL"
+    },
+    {
+        "id": "P7807",
+        "name": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 45MM. SUPORTE REI",
+        "brand": "Suporte Rei",
+        "code": "0966",
+        "image": "img/products/Turbo/rodamiento-de-cardan-con-goma-diam-int-45mm-suporte-rei-0966.jpg",
+        "description": "RODAMIENTO DE CARDAN CON GOMA DIAM. INT. 45MM. SUPORTE REI 0966 Marca: Suporte Rei Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 / 1722 / F14000 (99-05) FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 13180 E / 15180 E / Constellation 13180 E / 15180 E IVECO: Camiones 150 ASPIRADO / 150 N TURBO / 150 T TURBO / CAVALLINO 180 E32 / CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 / 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR 170 E25 / 240 E25 / VERTIS 130 V18 y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 R / LK 1218 R / L 1218 EL / L 1318 / LK 1318 / L 1418 R / LK 1418 R / L 1620 (M-96) / 1718 A / 1718 M / 1720 K / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 VOLVO: Camiones VM 17 210 / VM 17 240 / VM 17 260 / VM 23 210 / VM 23 240 y Bus B 10 M Codigo Original / Similar: 000.410.0222 PL 88509 (MB) 88509 (PL) R-252R (REI) TJG/521117 (FORD) TJG/521117 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7808",
+        "name": "JUNTA TAPA CILINDROS / ESPESOR 1.27MM. ELRING",
+        "brand": "Elring",
+        "code": "0931",
+        "image": "img/products/Turbo/junta-tapa-cilindros-espesor-1-27mm-elring-0931.jpg",
+        "description": "JUNTA TAPA CILINDROS / ESPESOR 1.27MM. ELRING 0931 Marca: Elring Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 TURBO / 619 T1 / 697 N / 697 T / 697 NB / 190 29N / 190 29T / 190 33N / 190 33T y Bus 3919 NA / 319 NB / 391 IVECO: Motor IVECO 8210T Codigo Original / Similar: 172750 (ELRING) 99484354 / 4766646 / 4670516 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7809",
+        "name": "JUNTA TAPA CILINDROS / ESPESOR 1.43MM. ELRING",
+        "brand": "Elring",
+        "code": "0922",
+        "image": "img/products/Turbo/junta-tapa-cilindros-espesor-1-43mm-elring-0922.jpg",
+        "description": "JUNTA TAPA CILINDROS / ESPESOR 1.43MM. ELRING 0922 Marca: Elring Vehiculos compatibles: IVECO: Camiones 150 ASPIRADO / 150N TURBO / 150T TURBO / EUROCARGO 140 E18 / 140 E20 / 150 E20N / 150 E20T / 160 E21 / 160 E23 / 160 E25 y Bus AU 130 IVECO: Motor IVECO 8060.25 Codigo Original / Similar: 172770 (ELRING) 1907832 (IVECO)",
+        "rubro": "JGOS. DE JUNTAS, JUNTAS Y RETENES"
+    },
+    {
+        "id": "P7810",
+        "name": "MACHO CARDAN / 16 ESTRIAS / DIAM. TUBO 84.4MM / LARGO 173MM. TF&P TECHNOLOGY",
+        "brand": "Tfp Technology",
+        "code": "0822",
+        "image": "img/products/Turbo/macho-cardan-16-estrias-diam-tubo-84-4mm-largo-173mm-tf-p-technology-0822.jpg",
+        "description": "MACHO CARDAN / 16 ESTRIAS / DIAM. TUBO 84.4MM / LARGO 173MM. TF&P TECHNOLOGY 0822 Marca: Tfp Technology Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / F 14000 (99-05) IVECO: Camiones 150N TURBO / 150T TURBO / EUROCARGO 90 E14 / 90 E15 / 120 E15 / 120 E17 MERCEDES BENZ: Camiones 712 C / 914 / 914 C / 1214 C y Bus LO 812 / LO 814 / LO 914 / LO 915 Codigo Original / Similar: 4-40-761 (Spicer) PT1020 (Mec-Par)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7811",
+        "name": "ALOJAMIENTO VALVULA ADMISION COMPRESOR BENDIX 85.50 MM. BX 2150 BEL-AR",
+        "brand": "Bel Ar",
+        "code": "0664",
+        "image": "img/products/Turbo/alojamiento-valvula-admision-compresor-bendix-85-50-mm-bx-2150-bel-ar-0664.jpg",
+        "description": "ALOJAMIENTO VALVULA ADMISION COMPRESOR BENDIX 85.50 MM. BX 2150 BEL-AR 0664 Marca: Bel Ar Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Compresores BX 2150 FORD / VW / CUMMINS / MWM: Ford Cargo Turbo Atac 85 a 91 FORD / VW / CUMMINS / MWM: Motores MWM 6.6 Turbo Codigo Original / Similar: 294751 (Bendix) 85HU/2W152/A (FORD / VW / CUMMINS / MWM)",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P7812",
+        "name": "REP. TAPA COMPRESOR BENDIX 85.50 MM. BX 2150 BEL-AR",
+        "brand": "Bel Ar",
+        "code": "0302",
+        "image": "img/products/Turbo/rep-tapa-compresor-bendix-85-50-mm-bx-2150-bel-ar-0302.jpg",
+        "description": "REP. TAPA COMPRESOR BENDIX 85.50 MM. BX 2150 BEL-AR 0302 Marca: Bel Ar Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Compresores BX 2150 FORD / VW / CUMMINS / MWM: Ford Cargo Turbo Atac 85 a 91 FORD / VW / CUMMINS / MWM: Motores MWM 6.6 Turbo Codigo Original / Similar: 105148 (Bendix) 85HU/2877/A (FORD)",
+        "rubro": "COMPRESOR"
+    },
+    {
+        "id": "P7813",
+        "name": "CRUCETA PALANCA CAMBIOS DADO 16.00 / LARGO 38.00 ETMA",
+        "brand": "Etma",
+        "code": "0019",
+        "image": "img/products/Turbo/cruceta-palanca-cambios-dado-16-00-largo-38-00-etma-0019.jpg",
+        "description": "CRUCETA PALANCA CAMBIOS DADO 16.00 / LARGO 38.00 ETMA 0019 Marca: Etma Vehiculos compatibles: IVECO: Camiones FIAT 619 N1 / 619 N1 Turbo / 619 T1 Codigo Original / Similar: CR1054I (ETMA)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7814",
+        "name": "ABRAZADERA CRUCETA CARDAN 71.60MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "9247",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-71-60mm-sin-refuerzo-lateral-imp-9247.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 71.60MM. SIN REFUERZO LATERAL IMP. 9247 Marca: Imp Vehiculos compatibles: AGRALE: Agrale 9500 AGRALE: Spicer 5-515X / SKF 4546-A / Stahl HCZ-274 / ETMA CR1202 FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e / Nuevo C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: Para Cruceta Spicer 5-510X / Stahl HCZ-272 / ETMA CR1192 FORD / VW / CUMMINS / MWM: Spicer 5-515X / SKF 4546-A / Stahl HCZ-274 / ETMA CR1202 / Ford BF1X/4635/A / TMJ/598089 / BF1X/4635/D FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 26310 / 17250 E / 26260 E / Constellation 17250 E / 24250 E / 26260 E y Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1623 / LS 1623 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY MERCEDES BENZ: Para Cruceta Spicer 5-510X / Stahl HCZ-272 / ETMA CR1192 / MB 000.410.2031 MERCEDES BENZ: Para Cruceta Spicer 5-515X / SKF 4546-A / Stahl HCZ-274 / ETMA CR1202 / MB 000.410.3131 VOLVO: Bus B 10 R VOLVO: Para Cruceta Spicer 5-510X / Stahl HCZ-272 / ETMA CR1192 Codigo Original / Similar: 665.411.7006 (MB) 87HU/4A254/BA / E7HZ/4A254/A (FORD) 8C45/4A254/CA (FORD)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7815",
+        "name": "ABRAZADERA SOPORTE MOTOR TRASERO IMP.",
+        "brand": "Imp",
+        "code": "9249",
+        "image": "img/products/Abrazadera/abrazadera-soporte-motor-trasero-imp-9249.jpg",
+        "description": "ABRAZADERA SOPORTE MOTOR TRASERO IMP. 9249 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / F 14000 (95-98) FORD / VW / CUMMINS / MWM: VW 17210 OD / 15190 EOD / 17230 EOD Codigo Original / Similar: 2C45/6A065/AA / 87HU/6A065/AA (FORD) TPL/199321/A (VW)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7816",
+        "name": "ABRAZADERA BARRA ESTABILIZADORA TRASERA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "9235",
+        "image": "img/products/Abrazadera/abrazadera-barra-estabilizadora-trasera-trucktec-9235.jpg",
+        "description": "ABRAZADERA BARRA ESTABILIZADORA TRASERA TRUCKTEC 9235 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI Codigo Original / Similar: 000.995.3402 / 906.326.1940 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7817",
+        "name": "ABRAZADERA BUJE BARRA ESTABILIZADORA TRASERA CIPEC",
+        "brand": "Cipec",
+        "code": "8301",
+        "image": "img/products/Abrazadera/abrazadera-buje-barra-estabilizadora-trasera-cipec-8301.jpg",
+        "description": "ABRAZADERA BUJE BARRA ESTABILIZADORA TRASERA CIPEC 8301 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 113 / T 113 / R 143 / T 143 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus K 113 Codigo Original / Similar: 295.752 / 1.377.738 (SC)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7818",
+        "name": "ABRAZADERA CAÑO ESCAPE / DIAM. 90MM. IMP.",
+        "brand": "Imp",
+        "code": "8033",
+        "image": "img/products/Abrazadera/abrazadera-cano-escape-diam-90mm-imp-8033.jpg",
+        "description": "ABRAZADERA CAÑO ESCAPE / DIAM. 90MM. IMP. 8033 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1624 / 1728/51 / 2423 B / 2423 K / 2726 B / 2726 K / 2428 / ATEGO 1725 / 2425/48 / AXOR 1933/45 / 1933 S/36 / 2831/48 / 2831 B / 2831 K y Bus OF 1722 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 906 LA – OM 926 LA Codigo Original / Similar: 620.997.0590 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7819",
+        "name": "ABRAZADERA CAÑO ESCAPE / DIAM. 76MM. UGR",
+        "brand": "UGR",
+        "code": "8034",
+        "image": "img/products/Abrazadera/abrazadera-cano-escape-diam-76mm-ugr-8034.jpg",
+        "description": "ABRAZADERA CAÑO ESCAPE / DIAM. 76MM. UGR 8034 Marca: UGR Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / ACCELO 915 C / ATEGO 1418 y Bus LO 914 / LO 915 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Motores MB OM 904 LA – OM 924 LA Codigo Original / Similar: 620.997.0490 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7820",
+        "name": "ABRAZADERA CAÑO INYECTOR / 4 CAÑOS CIPEC",
+        "brand": "Cipec",
+        "code": "7972",
+        "image": "img/products/Abrazadera/abrazadera-cano-inyector-4-canos-cipec-7972.jpg",
+        "description": "ABRAZADERA CAÑO INYECTOR / 4 CAÑOS CIPEC 7972 Marca: Cipec Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D / 709 / L 710 D / L 710 / L 710/42 / 912/42 / L 913 D / 914 / 1214 C / y Bus LO 608 D / LO 812 / LO 813 D / LO 814 MERCEDES BENZ: Motores MB OM 314 / OM 364 / OM 364 A / OM 364 LA SCANIA: Camiones R 112 / T 112 / P 93 / R 113 / T 113 / P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 113 / K 113 / F 94 HB / K 94 IB / L 94 HB VOLVO: Camiones N 10 280 / N 10 300 / N 10 310 / N 12 / NL 10 280 / NL 10 310 / NL 10 320 / NL 10 320 EDC / NL 10 340 / NL 10 340 EDC / NL 12 360 / NL 12 360 EDC / NL 12 410 / NL 12 410 EDC Codigo Original / Similar: 324.687 / 324.690 (SC) 496.995.0322 + 366.078.0286 (MB) 8.120.828 / 8.194.353 (VOLVO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7821",
+        "name": "ABRAZADERA ESCAPE 5/16″ PARA CAÑO ESCAPE 4″ PERFECTO",
+        "brand": "Perfecto",
+        "code": "7823",
+        "image": "img/products/Abrazadera/abrazadera-escape-5-16-para-cano-escape-4-perfecto-7823.jpg",
+        "description": "ABRAZADERA ESCAPE 5/16″ PARA CAÑO ESCAPE 4″ PERFECTO 7823 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones LK 1218 / L 1618/45 / L 1620 / L 1622 / LS 1622 / L 1633 / LS 1633 / 1718 A / 1720 A / 1721 S / 1722 S / L 1938 / LS 1938 / LS 1941 / LB 2325 / LK 2325 y Bus OH 1115 L-SB / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 Codigo Original / Similar: 386.492.7040 (MB)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7822",
+        "name": "ABRAZADERA INTERCOOLER C/INSERTO / RANGO 101MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6945",
+        "image": "img/products/Abrazadera/abrazadera-intercooler-c-inserto-rango-101mm-perfecto-6945.jpg",
+        "description": "ABRAZADERA INTERCOOLER C/INSERTO / RANGO 101MM. PERFECTO 6945 Marca: Perfecto Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 / P 270 / P 310 / P 340 / P 380 / P 420 / G 340 / G 380 / G 420 / G 470 / R 380 / R 420 / R 500 / R 580 V8 y Bus K 94 IB / L 94 UB / K 124 EB / K 124 IB / K 270 / K 310 / K 340 / K 380 / K 420 Codigo Original / Similar: 1.352.704 / 1.439.823 (SCANIA) 1.391.051 / 1.445.398 (SCANIA)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7823",
+        "name": "ABRAZADERA ESCAPE C/INSERTO / RANGO 102MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6915",
+        "image": "img/products/Abrazadera/abrazadera-escape-c-inserto-rango-102mm-perfecto-6915.jpg",
+        "description": "ABRAZADERA ESCAPE C/INSERTO / RANGO 102MM. PERFECTO 6915 Marca: Perfecto Vehiculos compatibles: IVECO: Camiones EUROCARGO TECTOR 260 E25 / TECTOR 260 E25 / TECTOR STRADALE 260 E25S Codigo Original / Similar: 5801223618 (IVECO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7824",
+        "name": "ABRAZADERA INTERCOOLER C/INSERTO / RANGO 75MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6908",
+        "image": "img/products/Abrazadera/abrazadera-intercooler-c-inserto-rango-75mm-perfecto-6908.jpg",
+        "description": "ABRAZADERA INTERCOOLER C/INSERTO / RANGO 75MM. PERFECTO 6908 Marca: Perfecto Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB / K 124 EB / K 124 IB Codigo Original / Similar: 1.439.822 / 1.371.085 / 1.392.944 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7825",
+        "name": "ABRAZADERA INTERCOOLER / MULTIPLE ADMISION C/INSERTO / RANGO 102MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6910",
+        "image": "img/products/Abrazadera/abrazadera-intercooler-multiple-admision-c-inserto-rango-102mm-perfecto-6910.jpg",
+        "description": "ABRAZADERA INTERCOOLER / MULTIPLE ADMISION C/INSERTO / RANGO 102MM. PERFECTO 6910 Marca: Perfecto Vehiculos compatibles: SCANIA: Camiones P 94 y Bus F 94 HB Codigo Original / Similar: 1.439.824 / 1.392.943 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7826",
+        "name": "ABRAZADERA SALIDA DE ESCAPE C/INSERTO / RANGO 87MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6911",
+        "image": "img/products/Abrazadera/abrazadera-salida-de-escape-c-inserto-rango-87mm-perfecto-6911.jpg",
+        "description": "ABRAZADERA SALIDA DE ESCAPE C/INSERTO / RANGO 87MM. PERFECTO 6911 Marca: Perfecto Vehiculos compatibles: IVECO: Camiones EUROTRAKKER 190 E42 / 380 E37 / 450 E37 / 720 E42 Codigo Original / Similar: 500305817 (IVECO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7827",
+        "name": "ABRAZADERA MULTIPLE ADMISION C/INSERTO / RANGO 120MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6912",
+        "image": "img/products/Abrazadera/abrazadera-multiple-admision-c-inserto-rango-120mm-perfecto-6912.jpg",
+        "description": "ABRAZADERA MULTIPLE ADMISION C/INSERTO / RANGO 120MM. PERFECTO 6912 Marca: Perfecto Vehiculos compatibles: IVECO: Camiones EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / CURSOR 180 E33 / 450 E33 / 450 E33TY Codigo Original / Similar: 99435103 (IVECO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7828",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 80-88MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6814",
+        "image": "img/products/Abrazadera/abrazadera-manguera-intercooler-c-resorte-rango-80-88mm-perfecto-6814.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 80-88MM. PERFECTO 6814 Marca: Perfecto Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 1317e / 1517e / 1722e / 1832e / 2632e / Nuevo C1317 / C1517 / C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: VW 13180 / 15170 / 15180 / 15190 / 17210 / 17220 / 24220 / 26260 / 8150 E / 13180 E / 15180 E / 26260 E y Bus 17240 OT / 18310 OT / 9150 EOD Codigo Original / Similar: 2TE/117273/A (VW) YC45/6F081/AB / YC45/6F081/AA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7829",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 74-82MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6818",
+        "image": "img/products/Abrazadera/abrazadera-manguera-intercooler-c-resorte-rango-74-82mm-perfecto-6818.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 74-82MM. PERFECTO 6818 Marca: Perfecto Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Camiones L 710/42 / 914 / 1214 C / 1718 A / 1718 K / 1720 A / 1720 K / ACCELO 915 C y Bus LO 812 / LO 814 / LO 914 / OF 1417 / OF 1418 / OF 1722 MERCEDES BENZ: Camiones L 710/42 / 914 / 1214 C / 1718 A / 1718 K / 1720 A / 1720 K / ACCELO 915 C y Bus LO 812 / LO 814 / LO 914 / OF 1417 / OF 1418 / OF 1722 Codigo Original / Similar: 384.997.7390 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7830",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 86-94MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6820",
+        "image": "img/products/Abrazadera/abrazadera-manguera-intercooler-c-resorte-rango-86-94mm-perfecto-6820.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 86-94MM. PERFECTO 6820 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / LS 1938 EL / 1938 S / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2831 y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 L-SB / OH 1718 L-SB / OH 1721 L-SB / OHL 1621 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 384.997.7490 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7831",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 92-100MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6821",
+        "image": "img/products/Abrazadera/abrazadera-manguera-intercooler-c-resorte-rango-92-100mm-perfecto-6821.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 92-100MM. PERFECTO 6821 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C / 1214 C / 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1620 (M-96) / L 1622 / L 1623 / LS 1623 / L 1624 / L 1632 / LS 1632 / L 1634 / L 1634 EL / LS 1634 / LS 1634 EL / 1718 M / 1720 A / 1720 K / 1721 S / 1722 S / 1728/51 / LS 1938 EL / 1938 S / 2423 B / 2423 K / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2831 y Bus LO 812 / LO 814 / LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1620 / OF 1721 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 L-SB / OH 1718 L-SB / OH 1721 L-SB / OHL 1621 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RS / 0500 RSD Codigo Original / Similar: 384.997.7490 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7832",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 116-124MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6824",
+        "image": "img/products/Abrazadera/abrazadera-manguera-intercooler-c-resorte-rango-116-124mm-perfecto-6824.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER C/RESORTE / RANGO 116-124MM. PERFECTO 6824 Marca: Perfecto Vehiculos compatibles: MERCEDES BENZ: Camiones L 1633 / LS 1633 / L 1938 / LS 1938 / LS 1941 Codigo Original / Similar: 384.997.7690 / 344.997.8190 (MB)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7833",
+        "name": "ABRAZADERA ENTRADA DE AGUA C/RESORTE / RANGO 56-64MM. PERFECTO",
+        "brand": "Perfecto",
+        "code": "6812",
+        "image": "img/products/Abrazadera/abrazadera-entrada-de-agua-c-resorte-rango-56-64mm-perfecto-6812.jpg",
+        "description": "ABRAZADERA ENTRADA DE AGUA C/RESORTE / RANGO 56-64MM. PERFECTO 6812 Marca: Perfecto Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW 13180 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 26260 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 17250 E / 19320 E / 25320 E / 31320 E y Bus 17210 OD / 17240 OT / 15190 EOD / 17230 EOD / 17260 EOT Codigo Original / Similar: 2TE/117273 / TAL/117281 (VW)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7834",
+        "name": "CONJUNTO ABRAZADERAS FILTRO DE AIRE RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "6489",
+        "image": "img/products/Abrazadera/conjunto-abrazaderas-filtro-de-aire-reserplastic-6489.jpg",
+        "description": "CONJUNTO ABRAZADERAS FILTRO DE AIRE RESERPLASTIC 6489 Marca: Reserplastic Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P7835",
+        "name": "CONJUNTO ABRAZADERAS GRANDES FILTRO DE AIRE RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "6491",
+        "image": "img/products/Abrazadera/conjunto-abrazaderas-grandes-filtro-de-aire-reserplastic-6491.jpg",
+        "description": "CONJUNTO ABRAZADERAS GRANDES FILTRO DE AIRE RESERPLASTIC 6491 Marca: Reserplastic Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 915e FORD / VW / CUMMINS / MWM: VW 9140 / 9150 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P7836",
+        "name": "ABRAZADERA MULTIPLE DE COMBUSTIBLE BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "6313",
+        "image": "img/products/Abrazadera/abrazadera-multiple-de-combustible-blk-diesel-6313.jpg",
+        "description": "ABRAZADERA MULTIPLE DE COMBUSTIBLE BLK DIESEL 6313 Marca: BLK Diesel Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Codigo Original / Similar: 2T2/130319/A (VW) 3966853 (Cummins) BG6X/9N978/BA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "INYECCION"
+    },
+    {
+        "id": "P7837",
+        "name": "ABRAZADERA DEL CABLE “ECM” BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "6314",
+        "image": "img/products/Abrazadera/abrazadera-del-cable-ecm-blk-diesel-6314.jpg",
+        "description": "ABRAZADERA DEL CABLE “ECM” BLK DIESEL 6314 Marca: BLK Diesel Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Codigo Original / Similar: 2T2/971502 (VW) 3919294 (Cummins) BG6X/9N978/CA (FORD / VW / CUMMINS / MWM)",
+        "rubro": "MODULO ELECTRONICO"
+    },
+    {
+        "id": "P7838",
+        "name": "ABRAZADERA BUJE BARRA ESTABILIZADORA DELANTERA INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "5909",
+        "image": "img/products/Abrazadera/abrazadera-buje-barra-estabilizadora-delantera-industria-argentina-5909.jpg",
+        "description": "ABRAZADERA BUJE BARRA ESTABILIZADORA DELANTERA INDUSTRIA ARGENTINA 5909 Marca: Industria Argentina Vehiculos compatibles: MERCEDES BENZ: Camiones 710 Plus / ACCELO 915 C / 815 / 1016 / ATEGO 1418 / 1725 / 2425/48 / 1419 / 1720 / 1721 / 1726 / 1729 / 2426 / 2730 B / 2730 K y Bus OH 1618 L-SB / OH 1718 L-SB Codigo Original / Similar: 970.323.0021 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7839",
+        "name": "ABRAZADERA SUPERIOR BARRA ESTABILIZADORA TRASERA IMP.",
+        "brand": "Imp",
+        "code": "5527",
+        "image": "img/products/Abrazadera/abrazadera-superior-barra-estabilizadora-trasera-imp-5527.jpg",
+        "description": "ABRAZADERA SUPERIOR BARRA ESTABILIZADORA TRASERA IMP. 5527 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 710/42 / 712 C / 914 C y Bus LO 812 / LO 813 D / LO 814 / LO 914 / LO 915 Codigo Original / Similar: 667.326.0027 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7840",
+        "name": "ABRAZADERA SUPERIOR FILTRO DE AIRE IMP.",
+        "brand": "Imp",
+        "code": "5226",
+        "image": "img/products/Abrazadera/abrazadera-superior-filtro-de-aire-imp-5226.jpg",
+        "description": "ABRAZADERA SUPERIOR FILTRO DE AIRE IMP. 5226 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 1722e FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26260 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 Codigo Original / Similar: 2S0/129142 (VW)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P7841",
+        "name": "ABRAZADERA INFERIOR FILTRO DE AIRE IMP.",
+        "brand": "Imp",
+        "code": "5227",
+        "image": "img/products/Abrazadera/abrazadera-inferior-filtro-de-aire-imp-5227.jpg",
+        "description": "ABRAZADERA INFERIOR FILTRO DE AIRE IMP. 5227 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 1722e FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26260 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 Codigo Original / Similar: 2S0/129142/A (VW)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P7842",
+        "name": "SILENCIADOR VALVULA SECADORA DE AIRE / CON ABRAZADERA F.S.S",
+        "brand": "F S S",
+        "code": "4564",
+        "image": "img/products/Abrazadera/silenciador-valvula-secadora-de-aire-con-abrazadera-f-s-s-4564.jpg",
+        "description": "SILENCIADOR VALVULA SECADORA DE AIRE / CON ABRAZADERA F.S.S 4564 Marca: F S S Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 UB Codigo Original / Similar: 1.313.854 (SC) 432.407.070 0 (Wabco)",
+        "rubro": "VALVULAS NEUMATICAS"
+    },
+    {
+        "id": "P7843",
+        "name": "ABRAZADERA BARRA ESTABILIZADORA TRASERA IMP.",
+        "brand": "Imp",
+        "code": "4431",
+        "image": "img/products/Abrazadera/abrazadera-barra-estabilizadora-trasera-imp-4431.jpg",
+        "description": "ABRAZADERA BARRA ESTABILIZADORA TRASERA IMP. 4431 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317 / 1416 / 1716 / 1722 / 1317e / 1517e / 1722e / Nuevo C1317 / C1517 / C1722 FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 13180 E / 15180 E / 17250 E / Constellation 13180 E / 15180 E / 17250 E y Bus 17210 OD / 15190 EOD / 17230 EOD Codigo Original / Similar: E5HT/5K487/BA (FORD) T16/511319 (VW)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7844",
+        "name": "ABRAZADERA BARRA ESTABILIZADORA DELANTERA IMP.",
+        "brand": "Imp",
+        "code": "4435",
+        "image": "img/products/Abrazadera/abrazadera-barra-estabilizadora-delantera-imp-4435.jpg",
+        "description": "ABRAZADERA BARRA ESTABILIZADORA DELANTERA IMP. 4435 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 1730 / 1831 / 2626 / 2631 / 915e / 1317e / 1517e / 1722e / 1832e / 2632e / Nuevo C1317 / C1517 / C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26310 / 5140 E / 8150 E / 13180 E / 15180 E / 17250 E / 26260 E / Constellation 17250 E / 19320 E / 25320 E / 26260 E / 31320 E y Bus 17210 OD / 17240 OT / 18310 OT / 15190 EOD / 17230 EOD / 17260 EOT / 18320 EOT Codigo Original / Similar: TAR/411053 (VW) XC45/5K487/AA (FORD)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7845",
+        "name": "ABRAZADERA CAÑO SALIDA DE ESCAPE 24MM. SDUBO",
+        "brand": "Sdubo",
+        "code": "3991",
+        "image": "img/products/Abrazadera/abrazadera-cano-salida-de-escape-24mm-sdubo-3991.jpg",
+        "description": "ABRAZADERA CAÑO SALIDA DE ESCAPE 24MM. SDUBO 3991 Marca: Sdubo Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford F14000 (96-98) / F100 (96-98) Codigo Original / Similar: TGG/253143 (FORD / VW / CUMMINS / MWM)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7846",
+        "name": "ABRAZADERA CON GOMA PARA TUBO 10MM. / PARA TORNILLO 6MM. CIPEC",
+        "brand": "Cipec",
+        "code": "3959",
+        "image": "img/products/Abrazadera/abrazadera-con-goma-para-tubo-10mm-para-tornillo-6mm-cipec-3959.jpg",
+        "description": "ABRAZADERA CON GOMA PARA TUBO 10MM. / PARA TORNILLO 6MM. CIPEC 3959 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones y Buses Serie 2 / Serie 3 / Serie 4 y Serie 5 VOLVO: Camiones y Buses TODOS Codigo Original / Similar: 813.935 / 804.573 (SC) 946.834 (VOLVO)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7847",
+        "name": "ABRAZADERA CON GOMA PARA TUBO 12MM. / PARA TORNILLO 6MM. CIPEC",
+        "brand": "Cipec",
+        "code": "3960",
+        "image": "img/products/Abrazadera/abrazadera-con-goma-para-tubo-12mm-para-tornillo-6mm-cipec-3960.jpg",
+        "description": "ABRAZADERA CON GOMA PARA TUBO 12MM. / PARA TORNILLO 6MM. CIPEC 3960 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones y Buses Serie 2 / Serie 3 / Serie 4 y Serie 5 Codigo Original / Similar: 813.936 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7848",
+        "name": "ABRAZADERA SUPERIOR FILTRO DE AIRE CIPEC",
+        "brand": "Cipec",
+        "code": "3792",
+        "image": "img/products/Abrazadera/abrazadera-superior-filtro-de-aire-cipec-3792.jpg",
+        "description": "ABRAZADERA SUPERIOR FILTRO DE AIRE CIPEC 3792 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / P 93 / R 113 / T 113 / R 143 / T 143 Codigo Original / Similar: 298.076 (SC)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P7849",
+        "name": "FUELLE CON ABRAZADERA DE LA CREMALLERA DE DIRECCION TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "3273",
+        "image": "img/products/Abrazadera/fuelle-con-abrazadera-de-la-cremallera-de-direccion-trucktec-3273.jpg",
+        "description": "FUELLE CON ABRAZADERA DE LA CREMALLERA DE DIRECCION TRUCKTEC 3273 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D / 412 D / 308 CDI / 311 CDI / 313 CDI / 411 CDI / 413 CDI / 414 CDI Codigo Original / Similar: 901.460.5500 (MB)",
+        "rubro": "DIRECCION"
+    },
+    {
+        "id": "P7850",
+        "name": "ABRAZADERA CRUCETA CARDAN 88MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "2575",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-88mm-sin-refuerzo-lateral-imp-2575.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 88MM. SIN REFUERZO LATERAL IMP. 2575 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / VW 2T2/521297 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32T / 450 E32T / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37 HR / 450 E37T/P / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 570 S38T / ATN 570 S38T HR / ATN 570 S42T / ATN 570 S42T HR / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 570 S38T / NR 570 S41T IVECO: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / Iveco 7149670 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1728/51 / LS 1938 EL / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 2425/48 / AXOR 1933/45 / 1933 S/46 / 2535 S / 2831/48 / 2831 B / 2831 K y Bus OH 1418/52 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RSD MERCEDES BENZ: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / MB 000.410.3431 / 000.410.3831 VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 10 320 / FM 10 360 / FM 11 370 / FMX 11 370 / FM 12 340 / FM 12 380 / FM 12 420 NH 12 380 / NH 12 420 / NH 12 460 / VM 310 VOLVO: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / Volvo 8.127.182 Codigo Original / Similar: 2T2/521397/A (VW) 696.995.7010 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7851",
+        "name": "ABRAZADERA CRUCETA CARDAN 59MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "2442",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-59mm-con-refuerzo-lateral-imp-2442.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 59MM. CON REFUERZO LATERAL IMP. 2442 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317e / 1517e FORD / VW / CUMMINS / MWM: Para Cruceta Spicer SPL90-1X / SKF 4547-A / Stahl HCZ-271 / ETMA CR1183 / Ford BG4X/4635/AA / VW 2T0/525171/D / 2TG/598089 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 Euro III y Bus 17210 OD / 15190 EOD / 17230 EOD MERCEDES BENZ: Camiones 1215 C / L 1218 R / L 1218 EL / L 1418 R / L 1318 / LK 1318 / L 1620 (M-96) / 1720/48 / ATEGO 1418 y Bus OF 1417 / OF 1418 / OF 1721 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Para Cruceta Spicer SPL90-1X / SKF 4547-A / Stahl HCZ-271 / ETMA CR1183 / MB 000.410.2731 Codigo Original / Similar: 2TG/521151 (VW) 695.995.7010 (MB) 8C45/4A254/AA / F4HT/4A254/AA (FORD)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7852",
+        "name": "ABRAZADERA CRUCETA CARDAN 45.5MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "2445",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-45-5mm-con-refuerzo-lateral-imp-2445.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 45.5MM. CON REFUERZO LATERAL IMP. 2445 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Para Cruceta Spicer 5-160X / SKF-4565-A / Stahl HCZ-210 / ETMA CR1002 / MB 000.410.1231 MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D Codigo Original / Similar: 690.995.7010 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7853",
+        "name": "ABRAZADERA CRUCETA CARDAN 54MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "2446",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-54mm-con-refuerzo-lateral-imp-2446.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 54MM. CON REFUERZO LATERAL IMP. 2446 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 / L 710 D / L 913 D y Bus LO 813 D MERCEDES BENZ: Para Cruceta Spicer 5-160X / SKF-4565-A / Stahl HCZ-210 / ETMA CR1002 / MB 000.410.1231 Codigo Original / Similar: 688.990.7045 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7854",
+        "name": "ABRAZADERA CRUCETA CARDAN 65MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "2447",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-65mm-con-refuerzo-lateral-imp-2447.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 65MM. CON REFUERZO LATERAL IMP. 2447 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / F 14000 (99-05) FORD / VW / CUMMINS / MWM: Para Cruceta Spicer 5-438X / SKF 4588-A / Stahl HCZ-264 / ETMA CR1164 / Ford BF1X/4635/C / 88HU/4635/A / VW TE3/598089 FORD / VW / CUMMINS / MWM: VW 17220 IVECO: Camiones CURSOR 180 E33 / EUROCARGO 150 E20 N / 150 E20 T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO CAVALLINO 180 E32 / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 IVECO: Para Cruceta Spicer 5-438X / SKF 4588-A / Stahl HCZ-264 / ETMA CR1164 / Iveco 7149141 MERCEDES BENZ: Camiones LK 1218 / LK 1218 R / LK 1418 R / L 1618/45 / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OH 1318 / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 MERCEDES BENZ: Para Cruceta Spicer 5-438X / SKF 4588-A / Stahl HCZ-264 / ETMA CR1164 / MB 000.410.1731 Codigo Original / Similar: 384.995.7010 (MB) TMG/521151 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7855",
+        "name": "ABRAZADERA CRUCETA CARDAN 54MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "2400",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-54mm-sin-refuerzo-lateral-imp-2400.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 54MM. SIN REFUERZO LATERAL IMP. 2400 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 / L 710 D / L 913 D y Bus LO 813 D MERCEDES BENZ: Para Cruceta Spicer 5-160X / SKF-4565-A / Stahl HCZ-210 / ETMA CR1002 / MB 000.410.1231 Codigo Original / Similar: 688.990.7045 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7856",
+        "name": "JGO. ABRAZADERAS FILTRO DE AIRE RESERPLASTIC",
+        "brand": "Reserplastic",
+        "code": "2347",
+        "image": "img/products/Abrazadera/jgo-abrazaderas-filtro-de-aire-reserplastic-2347.jpg",
+        "description": "JGO. ABRAZADERAS FILTRO DE AIRE RESERPLASTIC 2347 Marca: Reserplastic Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 1722e FORD / VW / CUMMINS / MWM: VW 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 17300 / 17310 / 18310 / 24220 / 24250 / 26260 / 26310 / 13180 E / 15180 E / 17250 E / 26260 E MERCEDES BENZ: Camiones L 1218 R / LK 1218 R / L 1418 R / LK 1418 R / L 1620 (M-96) / L 1623 / LS 1623 Codigo Original / Similar: 000.090.0142 (MB) BG5X/9D671/AA (FORD)",
+        "rubro": "FILTROS"
+    },
+    {
+        "id": "P7857",
+        "name": "ABRAZADERA BUJE BARRA ESTABILIZADORA DELANTERA IMP.",
+        "brand": "Imp",
+        "code": "1792",
+        "image": "img/products/Abrazadera/abrazadera-buje-barra-estabilizadora-delantera-imp-1792.jpg",
+        "description": "ABRAZADERA BUJE BARRA ESTABILIZADORA DELANTERA IMP. 1792 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 709 / L 710 D / L 710 / 913 Codigo Original / Similar: 309.323.0440 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7858",
+        "name": "ABRAZADERA CRUCETA CARDAN 45.5MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "1779",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-45-5mm-sin-refuerzo-lateral-imp-1779.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 45.5MM. SIN REFUERZO LATERAL IMP. 1779 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Para Cruceta Spicer 5-160X / SKF-4565-A / Stahl HCZ-210 / ETMA CR1002 / MB 000.410.1231 MERCEDES BENZ: Utilitarios SPRINTER 310 D / 312 D Codigo Original / Similar: 690.995.7010 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7859",
+        "name": "ABRAZADERA BUJE BARRA ESTABILIZADORA TRASERA IMP.",
+        "brand": "Imp",
+        "code": "1731",
+        "image": "img/products/Abrazadera/abrazadera-buje-barra-estabilizadora-trasera-imp-1731.jpg",
+        "description": "ABRAZADERA BUJE BARRA ESTABILIZADORA TRASERA IMP. 1731 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 608 D y Bus LO 608 D Codigo Original / Similar: 309.326.0740 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7860",
+        "name": "ABRAZADERA CRUCETA CARDAN 59MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "1734",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-59mm-sin-refuerzo-lateral-imp-1734.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 59MM. SIN REFUERZO LATERAL IMP. 1734 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1317e / 1517e FORD / VW / CUMMINS / MWM: Para Cruceta Spicer SPL90-1X / SKF 4547-A / Stahl HCZ-271 / ETMA CR1183 / Ford BG4X/4635/AA / VW 2T0/525171/D / 2TG/598089 FORD / VW / CUMMINS / MWM: VW 17210 / 17220 Euro III y Bus 17210 OD / 15190 EOD / 17230 EOD MERCEDES BENZ: Camiones 1215 C / L 1218 R / L 1218 EL / L 1418 R / L 1318 / LK 1318 / L 1620 (M-96) / 1720/48 / ATEGO 1418 y Bus OF 1417 / OF 1418 / OF 1721 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB MERCEDES BENZ: Para Cruceta Spicer SPL90-1X / SKF 4547-A / Stahl HCZ-271 / ETMA CR1183 / MB 000.410.2731 Codigo Original / Similar: 2TG/521151 (VW) 695.995.7010 (MB) 8C45/4A254/AA / F4HT/4A254/AA (FORD)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7861",
+        "name": "ABRAZADERA CRUCETA CARDAN 65MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "14841",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-65mm-sin-refuerzo-lateral-imp-14841.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 65MM. SIN REFUERZO LATERAL IMP. 14841 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / F 14000 (99-05) FORD / VW / CUMMINS / MWM: Para Cruceta Spicer 5-438X / SKF 4588-A / Stahl HCZ-264 / ETMA CR1164 / Ford BF1X/4635/C / 88HU/4635/A / VW TE3/598089 FORD / VW / CUMMINS / MWM: VW 17220 IVECO: Camiones CURSOR 180 E33 / EUROCARGO 150 E20 N / 150 E20 T / 160 E18 GNC / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO CAVALLINO 180 E32 / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / y Bus CC118 E20 GNC / CC118 E22 / CC170 E22 IVECO: Para Cruceta Spicer 5-438X / SKF 4588-A / Stahl HCZ-264 / ETMA CR1164 / Iveco 7149141 MERCEDES BENZ: Camiones LK 1218 / LK 1218 R / LK 1418 R / L 1618/45 / L 1620 (M-96) / 1718 A / 1718 K / 1720 A / 1720 K y Bus OF 1620 / OH 1318 / OH 1621 L-SB / OH 1721 L-SB / OHL 1621 MERCEDES BENZ: Para Cruceta Spicer 5-438X / SKF 4588-A / Stahl HCZ-264 / ETMA CR1164 / MB 000.410.1731 Codigo Original / Similar: 384.995.7010 (MB) TMG/521151 (VW)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7862",
+        "name": "ABRAZADERA CRUCETA CARDAN 77MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "14843",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-77mm-con-refuerzo-lateral-imp-14843.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 77MM. CON REFUERZO LATERAL IMP. 14843 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1624 / 2423 B / 2423 K / ATEGO 1418 / 1725 / 2425/48 / ATRON 1720 y Bus OF 1722 / OH 1518 L-SB / OH 1618 L-SB / OH 1621-55 / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 MERCEDES BENZ: Para Cruceta Spicer SPL140-1X / Stahl HCZ-290 / ETMA CR1260 / MB 000.410.3531 / 000.410.3931 VOLVO: Camiones VM 210 / VM 220 / VM 260 / VM 270 VOLVO: Para Cruceta Spicer SPL140-1X / Stahl HCZ-290 / ETMA CR1260 Codigo Original / Similar: 695.995.7110 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7863",
+        "name": "ABRAZADERA CRUCETA CARDAN 71.60MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "14845",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-71-60mm-con-refuerzo-lateral-imp-14845.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 71.60MM. CON REFUERZO LATERAL IMP. 14845 Marca: Imp Vehiculos compatibles: AGRALE: Agrale 9500 AGRALE: Spicer 5-515X / SKF 4546-A / Stahl HCZ-274 / ETMA CR1202 FORD / VW / CUMMINS / MWM: Ford Cargo 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e / Nuevo C1722 / C1932 / C2632 FORD / VW / CUMMINS / MWM: Para Cruceta Spicer 5-510X / Stahl HCZ-272 / ETMA CR1192_x000D_ Agrale 9500 FORD / VW / CUMMINS / MWM: Spicer 5-515X / SKF 4546-A / Stahl HCZ-274 / ETMA CR1202 / Ford BF1X/4635/A / TMJ/598089 / BF1X/4635/D FORD / VW / CUMMINS / MWM: VW 17300 / 17310 / 24220 / 26310 / 17250 E / 26260 E / Constellation 17250 E / 24250 E / 26260 E y Bus 17240 OT / 18310 OT / 17260 EOT / 18320 EOT MERCEDES BENZ: Camiones L 1623 / LS 1623 y Bus 0371 R / 0371 RS / 0371 RSD / 0371 RSE / 0371 RSL / 0374 RSD / 0400 R / 0400 RS / 0400 RSD / 0400 RSE / 0400 RSL / 0400 RSD BUGGY / 0400 RSE BUGGY MERCEDES BENZ: Para Cruceta Spicer 5-510X / Stahl HCZ-272 / ETMA CR1192 / MB 000.410.2031 MERCEDES BENZ: Para Cruceta Spicer 5-515X / SKF 4546-A / Stahl HCZ-274 / ETMA CR1202 / MB 000.410.3131 VOLVO: Bus B 10 R VOLVO: Para Cruceta Spicer 5-510X / Stahl HCZ-272 / ETMA CR1192 Codigo Original / Similar: 665.411.7006 (MB) 87HU/4A254/BA (FORD) E7HZ/4A254/A / 8C45/4A254/CA (FORD)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7864",
+        "name": "ABRAZADERA TUBO VARILLA NIVEL ACEITE CIPEC",
+        "brand": "Cipec",
+        "code": "14833",
+        "image": "img/products/Abrazadera/abrazadera-tubo-varilla-nivel-aceite-cipec-14833.jpg",
+        "description": "ABRAZADERA TUBO VARILLA NIVEL ACEITE CIPEC 14833 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 93 / R 112 / T 112 / R 142 / T 142 / R 113 / T 113 / R 143 / T 143 y Bus F 112 / K 112 / F 113 / K 113 Codigo Original / Similar: 796.352 (SC)",
+        "rubro": "VARILLA NIVEL DE ACEITE"
+    },
+    {
+        "id": "P7865",
+        "name": "BULON ABRAZADERA CRUCETA CARDAN 3/8″ X 3/4″ UNF IMP.",
+        "brand": "Imp",
+        "code": "14835",
+        "image": "img/products/Abrazadera/bulon-abrazadera-cruceta-cardan-3-8-x-3-4-unf-imp-14835.jpg",
+        "description": "BULON ABRAZADERA CRUCETA CARDAN 3/8″ X 3/4″ UNF IMP. 14835 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / 915e / 1317e / 1517e / C1317 / C1517 / 916 / 1119 / 1519 / F 14000 (99-05) FORD / VW / CUMMINS / MWM: VW 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 17210 / 17220 / 5140 E / 8150 E / 9150 E / 10150 E / 13180 E / 15180 E / Delivery 9160 / 6160 / 9170 / 9180 / 11180 / Worker 13190 / 15190 / Constellation 13180 E / 15180 E / 15190 / 17190 / 17230 y Bus 9150 OD / 17210 OD / 9150 EOD / 15190 EOD / 9160 OD / 15190 OD / 17230 OD IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO 160 E18 GNG / 160 E21 / 160 E23 / 170 E21 / EUROCARGO ATTACK 170 E22 / 170 E22T / 230 E24 / EUROCARGO CAVALLINO 180 E32 / 450 E32T / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROCARGO TECTOR 170 E22 / 170 E22 RSU / 170 E24 / 230 E22 / 230 E24 / TECTOR ATTACK 170 E22 / 170 E22T / 170 E22 RSU / TECTOR ATTACK ECOLINE 150 E21 / 170 E21 / 170 E22 / 170 E22T / 170 E22 RSU / 240 E22 y Bus CC 118 E20 GNC / 118 E22 / CC 170 E22 / ECOLINE 150 E21 Codigo Original / Similar: 2C35/4N272/AA / F1HZ/4N272/A (FORD) 503100343 (IVECO) TMG/521153 (VW)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7866",
+        "name": "BULON ABRAZADERA CRUCETA CARDAN / 1/2″ X 1″ UNF IMP.",
+        "brand": "Imp",
+        "code": "14836",
+        "image": "img/products/Abrazadera/bulon-abrazadera-cruceta-cardan-1-2-x-1-unf-imp-14836.jpg",
+        "description": "BULON ABRAZADERA CRUCETA CARDAN / 1/2″ X 1″ UNF IMP. 14836 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722 / 1730 / 1831 / 2626 / 2631 / 1722e / 1832e / 2632e / C1722 / C1932 / C2632 / 1723 / 1729 / 1933 / 3129 FORD / VW / CUMMINS / MWM: VW 18310 / 24220 / 24250 / 26260 / 26310 / 17250 E / 26260 E / Worker 17230 / Constellation 17250 E / 24250 E / 25320 E / 26260 E / 31320 E / 17230 / 17280 / 26280 / 31280 / 31330 y Bus 17240 OT / 18310 OT / 17260 EOT / 17280 OT / 18330 OT Codigo Original / Similar: F1HT/4N272/BA (FORD) TAK/521153 (VW)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7867",
+        "name": "BULON ABRAZADERA CRUCETA CARDAN / M12 X 1.25 X 25 IMP.",
+        "brand": "Imp",
+        "code": "14837",
+        "image": "img/products/Abrazadera/bulon-abrazadera-cruceta-cardan-m12-x-1-25-x-25-imp-14837.jpg",
+        "description": "BULON ABRAZADERA CRUCETA CARDAN / M12 X 1.25 X 25 IMP. 14837 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT MERCEDES BENZ: Camiones L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / 1728/51 / 1938 S / LS 1938 EL / 2423 B / 2423 K / L 2638/54 / Atron 1624 / 1634 / 1735 / Atego _x000D_ 1725 / 1726 / 1729 / 2425/48 / 2426 y Bus OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OF 1724 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1718 L-SB / OH 1721 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 U 1826 / 0500 M 1826 / 0500 R 1830 / 0500 RS / 0500 RSD / 0500 MA 2836 / 0500 UA 2836 / 0500 RS 1836 Codigo Original / Similar: 2T2/521153/A (VW) 696.990.7201 (MB)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7868",
+        "name": "BULON ABRAZADERA CRUCETA CARDAN / M12 X 1.25 X 25 CON COLLAR IMP.",
+        "brand": "Imp",
+        "code": "14838",
+        "image": "img/products/Abrazadera/bulon-abrazadera-cruceta-cardan-m12-x-1-25-x-25-con-collar-imp-14838.jpg",
+        "description": "BULON ABRAZADERA CRUCETA CARDAN / M12 X 1.25 X 25 CON COLLAR IMP. 14838 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT MERCEDES BENZ: Camiones L 1624 / L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1718 M / 1728/51 / 1938 S / LS 1938 EL / 2423 B / 2423 K / L 2638/54 / Atron 1624 / 1634 / 1735 / Atego _x000D_ 1725 / 1726 / 1729 / 2425/48 / 2426 y Bus OF 1417 / OF 1418 / OF 1519 / OF 1721 / OF 1722 / OF 1724 / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1621 / OH 1718 L-SB / OH 1721 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 U 1826 / 0500 M 1826 / 0500 R 1830 / 0500 RS / 0500 RSD / 0500 MA 2836 / 0500 UA 2836 / 0500 RS 1836 Codigo Original / Similar: 2T2/521153/A (VW) 696.990.7201 (MB)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7869",
+        "name": "ABRAZADERA CRUCETA CARDAN 88MM. CON REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "14839",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-88mm-con-refuerzo-lateral-imp-14839.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 88MM. CON REFUERZO LATERAL IMP. 14839 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / VW 2T2/521297 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32T / 450 E32T / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37 HR / 450 E37T/P / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 570 S38T / ATN 570 S38T HR / ATN 570 S42T / ATN 570 S42T HR / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 _x000D_ / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 570 S38T / NR 570 S41T IVECO: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / Iveco 7149670 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1728/51 / LS 1938 EL / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 2425/48 / AXOR 1933/45 / 1933 S/46 / 2535 S / 2831/48 / 2831 B / 2831 K y Bus OH 1418/52 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RSD MERCEDES BENZ: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / MB 000.410.3431 / 000.410.3831 VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 10 320 / FM 10 360 / FM 11 370 / FMX 11 370 / FM 12 340 / FM 12 380 / FM 12 420 NH 12 380 / NH 12 420 / NH 12 460 / VM 310 VOLVO: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / Volvo 8.127.182 Codigo Original / Similar: 2T2/521397/A (VW) 696.995.7010 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7870",
+        "name": "ABRAZADERA CRUCETA CARDAN 77MM. SIN REFUERZO LATERAL IMP.",
+        "brand": "Imp",
+        "code": "14840",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-77mm-sin-refuerzo-lateral-imp-14840.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN 77MM. SIN REFUERZO LATERAL IMP. 14840 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones L 1624 / 2423 B / 2423 K / ATEGO 1418 / 1725 / 2425/48 / ATRON 1720 y Bus OF 1722 / OH 1518 L-SB / OH 1618 L-SB / OH 1621-55 / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 MERCEDES BENZ: Para Cruceta Spicer SPL140-1X / Stahl HCZ-290 / ETMA CR1260 / MB 000.410.3531 / 000.410.3931 VOLVO: Camiones VM 210 / VM 220 / VM 260 / VM 270 VOLVO: Para Cruceta Spicer SPL140-1X / Stahl HCZ-290 / ETMA CR1260 Codigo Original / Similar: 695.995.7110 (MB)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7871",
+        "name": "MEDIA ABRAZADERA SALIDA DE ESCAPE IMP.",
+        "brand": "Imp",
+        "code": "14599",
+        "image": "img/products/Abrazadera/media-abrazadera-salida-de-escape-imp-14599.jpg",
+        "description": "MEDIA ABRAZADERA SALIDA DE ESCAPE IMP. 14599 Marca: Imp Vehiculos compatibles: IVECO: Utilitarios DAILY 35.10 / 35.12 / 35.13 / 38.13 / 40.12 / 40.13 / 49.10 / 49.12 / 50.13 / 59.12 / 60.12 / 60.13 / 70.12 / 70.13 Codigo Original / Similar: 8586089 (IVECO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7872",
+        "name": "ABRAZADERA MULTIPLE DE ESCAPE IMP.",
+        "brand": "Imp",
+        "code": "14601",
+        "image": "img/products/Abrazadera/abrazadera-multiple-de-escape-imp-14601.jpg",
+        "description": "ABRAZADERA MULTIPLE DE ESCAPE IMP. 14601 Marca: Imp Vehiculos compatibles: IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO CAVALLINO 180 E32 / 450 E32T / 450 E32TY / EUROCARGO CAVALLINO ATTACK 180 E32T / 450 E32T / EUROTECH CURSOR 190 E31 / 450 E31T / STRALIS ECOLINE 200 S36 AD / 200 S36 AT / 460 S33T AT / 460 S36T AT / 530 S36T AT Codigo Original / Similar: 500305814 (IVECO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7873",
+        "name": "ABRAZADERA DE ESCAPE 3″ (76.20MM.) IMP.",
+        "brand": "Imp",
+        "code": "14515",
+        "image": "img/products/Abrazadera/abrazadera-de-escape-3-76-20mm-imp-14515.jpg",
+        "description": "ABRAZADERA DE ESCAPE 3″ (76.20MM.) IMP. 14515 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: VW Delivery 9160 / Worker 13190 / 15190 / 17230 / Constellation 13180 E / 13180 E / 14190 / 15190 / 17190 / 17230 / 17280 / 24280 / 26280 / 31280 y Bus 9160 OD / 15190 OD / 17230 OD / 17280 OT / 18280 OT Codigo Original / Similar: 2S2/253143/B (VW) F6618 (FADO)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7874",
+        "name": "ABRAZADERA CRUCETA CARDAN DADO 60MM. CON BULONES / M12 X 1.25MM. REI AUTOPARTS",
+        "brand": "Rei Autoparts",
+        "code": "14024",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-dado-60mm-con-bulones-m12-x-1-25mm-rei-autoparts-14024.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN DADO 60MM. CON BULONES / M12 X 1.25MM. REI AUTOPARTS 14024 Marca: Rei Autoparts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / VW 2T2/521297 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E IVECO: Camiones CURSOR 180 E33 / 450 E33T / 450 E33TY / EUROCARGO ATTACK 230 E24 / EUROCARGO CAVALLINO 180 E32T / 450 E32T / EUROCARGO CAVALLINO ATTACK 180 E32 / 450 E32T / EUROTECH 450 E37 / 450 E37 HR / 450 E37T/P / 740 E42TZ / EUROTECH CURSOR 190 E31 / 450 31T / STRALIS HD 450 S38T / HD 450 S38T/P / HD 450 S38 HR / HD 450 S42T / HD 450 S42T/P / HD 450 S42 HR / HD 570 S38T / HD 570 S42T / ATN 200 S38 / ATN 200 S42 / ATN 490 S38T / ATN 490 S38T/P / ATN 490 S38T HR / ATN 490 S42T / ATN 570 S38T / ATN 570 S38T HR / ATN 570 S42T / ATN 570 S42T HR / ATN 740 S42TZ / NR 200 S38 / NR 200 S41 / NR 200 S46 / NR 490 S38T / NR 490 S38T HR / NR 490 S39T / NR 490 S41T / NR 490 S41T HR / NR 570 S38T / NR 570 S41T IVECO: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / Iveco 7149670 MERCEDES BENZ: Camiones L 1632 / LS 1632 / L 1634 / LS 1634 / L 1634 EL / LS 1634 EL / 1728/51 / LS 1938 EL / 2428 / L 2638/54 / 2726 B / 2726 K / ATEGO 2425/48 / AXOR 1933/45 / 1933 S/46 / 2535 S / 2831/48 / 2831 B / 2831 K y Bus OH 1418/52 / 0500 M 1725 / 0500 U 1725 / 0500 R / 0500 RSD MA MERCEDES BENZ: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / MB 000.410.3431 / 000.410.3831 VOLVO: Camiones FH 12 380 / FH 12 400 / FH 12 420 / FH 12 460 / FM 10 320 / FM 10 360 / FM 11 370 / FMX 11 370 / FM 12 340 / FM 12 380 / FM 12 420 NH 12 380 / NH 12 420 / NH 12 460 / VM 310 VOLVO: Para Cruceta Spicer SPL250-1X / SPL250X / Stahl HCZ-232 / HCZ-236 / ETMA CR1240 / Volvo 8.127.182 Codigo Original / Similar: 2507018X (Spicer) 2T2/521153/A + 2T2/521397/A (VW) 503120290 (IVECO) 696.995.7010 + 696.990.7201 (MB) S-303 (REI)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7875",
+        "name": "ABRAZADERA CRUCETA CARDAN DADO 49.20MM. CON BULONES / M12 X 1.25MM. REI AUTOPARTS",
+        "brand": "Rei Autoparts",
+        "code": "14026",
+        "image": "img/products/Abrazadera/abrazadera-cruceta-cardan-dado-49-20mm-con-bulones-m12-x-1-25mm-rei-autoparts-14026.jpg",
+        "description": "ABRAZADERA CRUCETA CARDAN DADO 49.20MM. CON BULONES / M12 X 1.25MM. REI AUTOPARTS 14026 Marca: Rei Autoparts Vehiculos compatibles: MERCEDES BENZ: Camiones L 1624 / 2423 B / 2423 K / ATEGO 1418 / 1725 / 2425/48 / ATRON 1720 y Bus OF 1722 / OH 1518 L-SB / OH 1618 L-SB / OH 1621-55 / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 MERCEDES BENZ: Para Cruceta Spicer SPL140-1X / Stahl HCZ-290 / ETMA CR1260 / MB 000.410.3531 / 000.410.3931 VOLVO: Camiones VM 210 / VM 220 / VM 260 / VM 270 VOLVO: Para Cruceta Spicer SPL140-1X / Stahl HCZ-290 / ETMA CR1260 Codigo Original / Similar: 140-70-18X / 140-70-49 (Spicer) 695.995.7110 + 696.990.7201 (MB) S-343 (REI)",
+        "rubro": "CARDAN"
+    },
+    {
+        "id": "P7876",
+        "name": "ABRAZADERA MANGUERA INTERCOOLER CIPEC",
+        "brand": "Cipec",
+        "code": "13968",
+        "image": "img/products/Abrazadera/abrazadera-manguera-intercooler-cipec-13968.jpg",
+        "description": "ABRAZADERA MANGUERA INTERCOOLER CIPEC 13968 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 y Bus F 94 HB / K 94 IB / L 94 UB Codigo Original / Similar: 1.352.704 / 1.439.823 (SC) 1.391.051 / 1.445.398 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7877",
+        "name": "ABRAZADERA INTERCOOLER CIPEC",
+        "brand": "Cipec",
+        "code": "13972",
+        "image": "img/products/Abrazadera/abrazadera-intercooler-cipec-13972.jpg",
+        "description": "ABRAZADERA INTERCOOLER CIPEC 13972 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 94 / P 114 / R 114 / T 114 / P 124 / R 124 / T 124 y Bus F 94 HB / K 94 IB / L 94 HB Codigo Original / Similar: 1.392.944 (SC) 1.439.822 / 1.371.085 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7878",
+        "name": "ABRAZADERA INTERCOOLER 92 X 101MM CIPEC",
+        "brand": "Cipec",
+        "code": "13980",
+        "image": "img/products/Abrazadera/abrazadera-intercooler-92-x-101mm-cipec-13980.jpg",
+        "description": "ABRAZADERA INTERCOOLER 92 X 101MM CIPEC 13980 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones R 112 / T 112 / R 142 / T 142 / R 113 / T 113 / R 143 / T 143 y Bus K 113 Codigo Original / Similar: 1.674.343 / 1.675.932 (SC)",
+        "rubro": "ABRAZADERAS"
+    },
+    {
+        "id": "P7879",
+        "name": "ABRAZADERA / SOPORTE BARRA ESTABILIZADORA DELANTERA IMP.",
+        "brand": "Imp",
+        "code": "13760",
+        "image": "img/products/Abrazadera/abrazadera-soporte-barra-estabilizadora-delantera-imp-13760.jpg",
+        "description": "ABRAZADERA / SOPORTE BARRA ESTABILIZADORA DELANTERA IMP. 13760 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 710 Plus / ACCELO 915 C / 815 / 1016 / ATEGO 1418 / 1725 / 2425/48 / 1419 / 1720 / 1721 / 1726 / 1729 / 2426 / 2730 B / 2730 K y Bus OH 1618 L-SB / OH 1718 L-SB Codigo Original / Similar: 958.323.0021 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7880",
+        "name": "ABRAZADERA / SOPORTE BUJE BARRA ESTABILIZADORA TRASERA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "13757",
+        "image": "img/products/Abrazadera/abrazadera-soporte-buje-barra-estabilizadora-trasera-trucktec-13757.jpg",
+        "description": "ABRAZADERA / SOPORTE BUJE BARRA ESTABILIZADORA TRASERA TRUCKTEC 13757 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 2831/48 / 2831 B / 2831 K / 3340 K / ACTROS Codigo Original / Similar: 943.326.0164 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7881",
+        "name": "BULON ABRAZADERA INYECTOR / M6 X 1.0 X 40 BLK DIESEL",
+        "brand": "BLK Diesel",
+        "code": "13439",
+        "image": "img/products/Abrazadera/bulon-abrazadera-inyector-m6-x-1-0-x-40-blk-diesel-13439.jpg",
+        "description": "BULON ABRAZADERA INYECTOR / M6 X 1.0 X 40 BLK DIESEL 13439 Marca: BLK Diesel Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1832e / 2632e / Nuevo C1932 / C2632 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISCe6 FORD / VW / CUMMINS / MWM: VW Constellation 19320 E / 25320 E / 31320 E y Bus 18320 EOT Codigo Original / Similar: 2RD/199120/AF (VW) 4017567 (Cummins)",
+        "rubro": "MOTOR"
+    },
+    {
+        "id": "P7882",
+        "name": "ABRAZADERA MULTIPLE DE ADMISION ENGINE PARTS",
+        "brand": "Engine Parts",
+        "code": "13448",
+        "image": "img/products/Abrazadera/abrazadera-multiple-de-admision-engine-parts-13448.jpg",
+        "description": "ABRAZADERA MULTIPLE DE ADMISION ENGINE PARTS 13448 Marca: Engine Parts Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 1722e / C1722 FORD / VW / CUMMINS / MWM: Motores CUMMINS ISBe6 – ISCe6 FORD / VW / CUMMINS / MWM: VW 17250 E / CONSTELLATION 17250 E / 24250 E y Bus 18320 EOT Codigo Original / Similar: 2S0/130421 (VW) 4897018 (Cummins) BG5X/6F081/BA / BH8X/8287/AA (FORD)",
+        "rubro": "MULTIPLE DE ADMISION Y ESCAPE"
+    },
+    {
+        "id": "P7883",
+        "name": "MEDIA ABRAZADERA CAÑO ESCAPE CIPEC",
+        "brand": "Cipec",
+        "code": "12594",
+        "image": "img/products/Abrazadera/media-abrazadera-cano-escape-cipec-12594.jpg",
+        "description": "MEDIA ABRAZADERA CAÑO ESCAPE CIPEC 12594 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones P 93 / R 113 / T 113 / R 143 / T 143 Codigo Original / Similar: 543.771 (SC)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7884",
+        "name": "SOPORTE ABRAZADERA SILENCIADOR DE ESCAPE IMP.",
+        "brand": "Imp",
+        "code": "12353",
+        "image": "img/products/Abrazadera/soporte-abrazadera-silenciador-de-escape-imp-12353.jpg",
+        "description": "SOPORTE ABRAZADERA SILENCIADOR DE ESCAPE IMP. 12353 Marca: Imp Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Nuevo Ford Cargo 916 / 1119 / 1519 / 1723 / 1729 / 1933_x000D_ / 3129 Codigo Original / Similar: CC45/5A262/AB / GC4Z/5A262/AA / (FORD) GC45/5A262/AA (FORD)",
+        "rubro": "ESCAPE"
+    },
+    {
+        "id": "P7885",
+        "name": "BULON ABRAZADERA CRUCETA CARDAN 3/8 NF X 24 INDUSTRIA ARGENTINA",
+        "brand": "Industria Argentina",
+        "code": "11814",
+        "image": "img/products/Abrazadera/bulon-abrazadera-cruceta-cardan-3-8-nf-x-24-industria-argentina-11814.jpg",
+        "description": "BULON ABRAZADERA CRUCETA CARDAN 3/8 NF X 24 INDUSTRIA ARGENTINA 11814 Marca: Industria Argentina Vehiculos compatibles: FORD / VW / CUMMINS / MWM: Ford Cargo 712 / 814 / 815 / 914 / 915 / 1317 / 1416 / 1517 / 1716 / 1722 / F 14000 (93-98)(99-05)_x000D_ VW 9140 / 9150 / 13180 / 15160 / 15170 / 15180 / 15190 / 9150 E / 10150 E / 13180 E / 15180 E / Delivery 5140 E / 8150 E / Constellation 13180 E / 15180 E y Bus 9150 OD / 17210 OD / 9150 EOD / 15190 EOD / 17230 EOD Codigo Original / Similar: TMG/521153 (VW)",
+        "rubro": "BULONERIA"
+    },
+    {
+        "id": "P7886",
+        "name": "ABRAZADERA BARRA ESTABILIZADORA DELANTERA / TRASERA TRUCKTEC",
+        "brand": "Trucktec",
+        "code": "11828",
+        "image": "img/products/Abrazadera/abrazadera-barra-estabilizadora-delantera-trasera-trucktec-11828.jpg",
+        "description": "ABRAZADERA BARRA ESTABILIZADORA DELANTERA / TRASERA TRUCKTEC 11828 Marca: Trucktec Vehiculos compatibles: MERCEDES BENZ: Utilitarios SPRINTER 411 CDI / 415 CDI / 515 CDI / 311 CDI / 316 CDI / 416 CDI / 516 CDI Codigo Original / Similar: 906.323.0040 / 906.995.0102 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7887",
+        "name": "BANCADA O ABRAZADERA BUJE CENTRAL BARRA ESTABILIZADORA DELANTERA UGR",
+        "brand": "UGR",
+        "code": "11430",
+        "image": "img/products/Abrazadera/bancada-o-abrazadera-buje-central-barra-estabilizadora-delantera-ugr-11430.jpg",
+        "description": "BANCADA O ABRAZADERA BUJE CENTRAL BARRA ESTABILIZADORA DELANTERA UGR 11430 Marca: UGR Vehiculos compatibles: MERCEDES BENZ: Camiones AXOR 1933/45 / 1933 S/36 / 2035 S / 2040 S / 2044 S / 2535 S / 2540 S / 2831/48 / 2831 B / 2831 K / 3340 K Codigo Original / Similar: 941.323.0521 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7888",
+        "name": "BANCADA O ABRAZADERA BUJE SOPORTE BARRA ESTABILIZADORA TRASERA UGR",
+        "brand": "UGR",
+        "code": "11432",
+        "image": "img/products/Abrazadera/bancada-o-abrazadera-buje-soporte-barra-estabilizadora-trasera-ugr-11432.jpg",
+        "description": "BANCADA O ABRAZADERA BUJE SOPORTE BARRA ESTABILIZADORA TRASERA UGR 11432 Marca: UGR Vehiculos compatibles: MERCEDES BENZ: Camiones ATEGO 1726 / 2426 (Todos 4 x 4) Codigo Original / Similar: 941.323.0421 (MB)",
+        "rubro": "SUSPENSION"
+    },
+    {
+        "id": "P7889",
+        "name": "ABRAZADERA TOMA DE AIRE CIPEC",
+        "brand": "Cipec",
+        "code": "11288",
+        "image": "img/products/Abrazadera/abrazadera-toma-de-aire-cipec-11288.jpg",
+        "description": "ABRAZADERA TOMA DE AIRE CIPEC 11288 Marca: Cipec Vehiculos compatibles: SCANIA: Camiones T 112 / R 142 / P 93 / R 113 / T 113 / R 143 / T 143 Codigo Original / Similar: 318.541 (SC)",
+        "rubro": "CARROCERIA"
+    },
+    {
+        "id": "P7890",
+        "name": "ABRAZADERA TUBO ADMISION A MULTIPLE DE ESCAPE IMP.",
+        "brand": "Imp",
+        "code": "10137",
+        "image": "img/products/Abrazadera/abrazadera-tubo-admision-a-multiple-de-escape-imp-10137.jpg",
+        "description": "ABRAZADERA TUBO ADMISION A MULTIPLE DE ESCAPE IMP. 10137 Marca: Imp Vehiculos compatibles: MERCEDES BENZ: Camiones 712 C / 914 C/ 1215 C / L 1218 EL / L 1318 / LK 1318 / L 1624 / 1718 M / 1720/48 / 1728/51 / 2423 B / 2423 K / 2428 / 2726 B / 2726 K / ACCELO 915 C / ATEGO 1418 / 1725 / AXOR 1933 / 1933 S / 2831 y Bus LO 914 / LO 915 / OF 1417 / OF 1418 / OF 1722 / OH 1115 L-SB / OH 1315 L-SB / OH 1418/52 / OH 1518 L-SB / OH 1618 L-SB / OH 1718 L-SB / 0500 M 1725 / 0500 U 1725 / 0500 R MERCEDES BENZ: Motores MB OM 904 LA / OM 906 LA / OM 924 LA / OM 926 LA Codigo Original / Similar: 906.997.0190 (MB)",
+        "rubro": "ESCAPE"
     }
 ];
 

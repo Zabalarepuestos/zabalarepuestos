@@ -204,6 +204,173 @@
         }
 
         /* Filter Section Styles */
+        .catalog-layout {
+            display: grid;
+            grid-template-columns: 272px minmax(0, 1fr);
+            gap: 1.35rem;
+            align-items: start;
+        }
+
+        .catalog-filter-panel {
+            position: sticky;
+            top: 92px;
+            align-self: start;
+            max-height: calc(100vh - 110px);
+            overflow-y: auto;
+            background: #ffffff;
+            color: #1f2f46;
+            border: 1px solid rgba(15, 23, 42, 0.08);
+            box-shadow: 0 16px 42px rgba(15, 23, 42, 0.08);
+            padding: 1.35rem 1.25rem;
+        }
+
+        .catalog-filter-title {
+            margin: 0 0 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #e5e7eb;
+            color: #0f172a;
+            font-size: 0.86rem;
+            font-weight: 800;
+            letter-spacing: 0;
+            text-transform: uppercase;
+        }
+
+        .filter-tree {
+            display: flex;
+            flex-direction: column;
+            gap: 0.28rem;
+            margin-bottom: 2rem;
+        }
+
+        .filter-tree-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.18rem;
+        }
+
+        .filter-tree-row {
+            width: 100%;
+            min-height: 36px;
+            display: grid;
+            grid-template-columns: 26px minmax(0, 1fr) auto 18px;
+            align-items: center;
+            gap: 0.5rem;
+            border: 0;
+            background: transparent;
+            color: #334155;
+            padding: 0.24rem 0;
+            text-align: left;
+            cursor: pointer;
+            font: inherit;
+        }
+
+        .filter-tree-row:hover,
+        .filter-tree-row.is-active {
+            color: #f59e0b;
+        }
+
+        .filter-tree-label {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-size: 0.88rem;
+            font-weight: 600;
+            letter-spacing: 0;
+        }
+
+        .filter-tree-count,
+        .filter-chip-count {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 22px;
+            height: 22px;
+            padding: 0 0.35rem;
+            background: #f1f5f9;
+            color: #c0c8d2;
+            font-size: 0.78rem;
+            font-weight: 800;
+            line-height: 1;
+        }
+
+        .filter-tree-toggle {
+            color: #a8b0bb;
+            font-size: 1.1rem;
+            line-height: 1;
+            text-align: center;
+        }
+
+        .filter-tree-icon {
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+        }
+
+        .filter-tree-children {
+            display: none;
+            padding-left: 1.9rem;
+            margin: 0.1rem 0 0.45rem;
+        }
+
+        .filter-tree-group.is-open .filter-tree-children {
+            display: flex;
+            flex-direction: column;
+            gap: 0.22rem;
+        }
+
+        .filter-tree-child {
+            grid-template-columns: 24px minmax(0, 1fr) auto;
+            min-height: 34px;
+        }
+
+        .filter-tree-child .filter-tree-label {
+            font-size: 0.84rem;
+            font-weight: 600;
+        }
+
+        .type-filter-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.62rem 0.55rem;
+        }
+
+        .type-filter-btn {
+            min-height: 30px;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.38rem;
+            border: 0;
+            background: #f3f4f6;
+            color: #475569;
+            padding: 0.42rem 0.62rem;
+            font-size: 0.78rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: 0.2s ease;
+        }
+
+        .type-filter-btn:hover,
+        .type-filter-btn.is-active {
+            background: #f59e0b;
+            color: #ffffff;
+        }
+
+        .type-filter-btn.is-active .filter-chip-count,
+        .type-filter-btn:hover .filter-chip-count {
+            background: rgba(255, 255, 255, 0.22);
+            color: #ffffff;
+        }
+
+        .filter-tree.is-loading,
+        .type-filter-grid.is-loading {
+            opacity: 0.55;
+            pointer-events: none;
+        }
+
+        .catalog-results {
+            min-width: 0;
+        }
+
         .filter-container {
             display: flex;
             gap: 15px;
@@ -934,6 +1101,26 @@
         }
 
         @media (max-width: 768px) {
+            .catalog-layout {
+                grid-template-columns: 1fr;
+            }
+
+            .catalog-filter-panel {
+                position: static;
+                padding: 1.1rem 1rem;
+                max-height: none;
+            }
+
+            .filter-tree {
+                max-height: 420px;
+                overflow: auto;
+                padding-right: 0.25rem;
+            }
+
+            .filter-tree-row {
+                min-height: 38px;
+            }
+
             .catalog-toolbar {
                 align-items: flex-start;
             }
@@ -1216,7 +1403,7 @@
 
     <script src="main.js"></script>
     <script src="products.js?v=10"></script>
-    <script src="catalog.js?v=16"></script>
+    <script src="catalog.js?v=19"></script>
     <a href="https://wa.me/5492645859764" class="whatsapp-float" target="_blank" rel="noopener noreferrer">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="30" height="30" fill="white">
             <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
