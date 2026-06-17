@@ -17,12 +17,15 @@
     const RESULT_RENDER_LIMIT = 120;
     const LOAD_MORE_INCREMENT = 120;
     const SEARCH_DEBOUNCE_MS = 180;
+    const FILTER_AVAILABILITY_DELAY_MS = 80;
     const INDEX_CHUNK_SIZE = 40;
     const INDEX_CHUNK_BUDGET_MS = 5;
     const SUGGESTION_LIMIT = 8;
     const FALLBACK_IMAGE = 'img/products/imagen-proximamente.png';
     let brandFilterOptions = [];
     let searchTimer = null;
+    let availabilityTimer = null;
+    let availabilityRequestId = 0;
     let currentProducts = [];
     let currentRenderLimit = INITIAL_RENDER_LIMIT;
     let indexedProducts = [];
@@ -933,19 +936,28 @@
         const brandCounts = new Map(brandFilterOptions.map(brand => [brand, 0]));
 
         indexedProducts.forEach(indexedProduct => {
-            if (matchesFilterSet(indexedProduct, filters, 'engine')) {
+            const matchesSearch = searchMatchesProduct(indexedProduct, filters.searchIndex);
+            const matchesImplicitVehicle = matchesSearch && implicitVehicleMatches(indexedProduct, filters.searchContext);
+            if (!matchesImplicitVehicle) return;
+
+            const matchesEngine = matchesSearchQuery(indexedProduct, filters.engineIndex);
+            const matchesTruck = truckMatches(indexedProduct, filters.selectedTruck);
+            const matchesCategory = categoryMatches(indexedProduct, filters.selectedCategory);
+            const matchesBrand = brandMatches(indexedProduct, filters.selectedBrand);
+
+            if (matchesTruck && matchesCategory && matchesBrand) {
                 indexedProduct.engineLabels.forEach(label => engineCounts.set(label, (engineCounts.get(label) || 0) + 1));
             }
 
-            if (matchesFilterSet(indexedProduct, filters, 'truck')) {
+            if (matchesEngine && matchesCategory && matchesBrand) {
                 indexedProduct.truckLabels.forEach(label => truckCounts.set(label, (truckCounts.get(label) || 0) + 1));
             }
 
-            if (matchesFilterSet(indexedProduct, filters, 'category')) {
+            if (matchesEngine && matchesTruck && matchesBrand) {
                 indexedProduct.categoryLabels.forEach(label => categoryCounts.set(label, (categoryCounts.get(label) || 0) + 1));
             }
 
-            if (matchesFilterSet(indexedProduct, filters, 'brand')) {
+            if (matchesEngine && matchesTruck && matchesCategory) {
                 indexedProduct.brandLabels.forEach(label => brandCounts.set(label, (brandCounts.get(label) || 0) + 1));
             }
         });
@@ -955,6 +967,17 @@
         updateSelectOptionCounts(filterCategory, categoryCounts);
         updateSelectOptionCounts(filterBrand, brandCounts);
         renderSidebarFilters();
+    }
+
+    function scheduleFilterAvailability(filters) {
+        const requestId = availabilityRequestId + 1;
+        availabilityRequestId = requestId;
+        window.clearTimeout(availabilityTimer);
+
+        availabilityTimer = window.setTimeout(() => {
+            if (requestId !== availabilityRequestId) return;
+            updateFilterAvailability(filters);
+        }, FILTER_AVAILABILITY_DELAY_MS);
     }
 
     function escapeHtml(value) {
@@ -1263,10 +1286,19 @@
 
         let searchMatches = baseMatches;
         if (searchIndex.text) {
-            const strongMatches = baseMatches.filter(indexedProduct => matchesStrongSearchQuery(indexedProduct, searchIndex));
-            const looseMatches = baseMatches.filter(indexedProduct =>
-                !matchesStrongSearchQuery(indexedProduct, searchIndex) && matchesSearchQuery(indexedProduct, searchIndex)
-            );
+            const strongMatches = [];
+            const looseMatches = [];
+
+            baseMatches.forEach(indexedProduct => {
+                if (matchesStrongSearchQuery(indexedProduct, searchIndex)) {
+                    strongMatches.push(indexedProduct);
+                    return;
+                }
+
+                if (matchesSearchQuery(indexedProduct, searchIndex)) {
+                    looseMatches.push(indexedProduct);
+                }
+            });
 
             searchMatches = strongMatches.length > 0 ? [...strongMatches, ...looseMatches] : looseMatches;
         }
@@ -1287,9 +1319,9 @@
         currentRenderLimit = shouldLimitInitialView ? INITIAL_RENDER_LIMIT : RESULT_RENDER_LIMIT;
 
         updateActiveFilters();
-        updateFilterAvailability(activeFilterState);
         renderSearchSuggestions(rankedProducts, searchContext.originalQuery);
         renderProducts(currentProducts, currentRenderLimit);
+        scheduleFilterAvailability(activeFilterState);
     }
 
     function scheduleFilters() {
