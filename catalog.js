@@ -17,6 +17,7 @@
     const quoteTrayList = document.getElementById('quoteTrayList');
     const quoteTraySend = document.getElementById('quoteTraySend');
     const quoteTrayClear = document.getElementById('quoteTrayClear');
+    const quoteTrayToggle = document.getElementById('quoteTrayToggle');
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
     const INITIAL_RENDER_LIMIT = 48;
     const RESULT_RENDER_LIMIT = 120;
@@ -44,6 +45,7 @@
     let productsStatus = document.getElementById('productsStatus');
     let vehicleFilterItems = [];
     let quoteItems = [];
+    let quoteTrayListOpen = false;
 
     if (!productsStatus && productGrid) {
         productsStatus = document.createElement('p');
@@ -1218,10 +1220,21 @@
         if (!quoteTray || !quoteTrayCount || !quoteTrayList || !quoteTraySend) return;
 
         const count = quoteItems.length;
+        if (count === 0) {
+            quoteTrayListOpen = false;
+        }
+
         quoteTray.classList.toggle('is-open', count > 0);
+        quoteTray.classList.toggle('has-list-open', quoteTrayListOpen && count > 0);
         quoteTray.setAttribute('aria-hidden', String(count === 0));
         quoteTrayCount.textContent = `${count} ${count === 1 ? 'repuesto' : 'repuestos'}`;
         quoteTraySend.disabled = count === 0;
+
+        if (quoteTrayToggle) {
+            quoteTrayToggle.disabled = count === 0;
+            quoteTrayToggle.textContent = quoteTrayListOpen ? 'Ocultar lista' : 'Ver lista';
+            quoteTrayToggle.setAttribute('aria-expanded', String(quoteTrayListOpen && count > 0));
+        }
 
         if (count === 0) {
             quoteTrayList.textContent = '';
@@ -1590,6 +1603,13 @@
             saveQuoteItems();
             renderQuoteTray();
             updateQuoteButtons();
+        });
+    }
+
+    if (quoteTrayToggle) {
+        quoteTrayToggle.addEventListener('click', () => {
+            quoteTrayListOpen = !quoteTrayListOpen;
+            renderQuoteTray();
         });
     }
 
