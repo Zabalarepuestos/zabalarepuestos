@@ -19,13 +19,13 @@
     const quoteTrayClear = document.getElementById('quoteTrayClear');
     const quoteTrayToggle = document.getElementById('quoteTrayToggle');
     const productsData = typeof products !== 'undefined' && Array.isArray(products) ? products : [];
-    const INITIAL_RENDER_LIMIT = 48;
+    const INITIAL_RENDER_LIMIT = 32;
     const RESULT_RENDER_LIMIT = 120;
     const LOAD_MORE_INCREMENT = 120;
     const SEARCH_DEBOUNCE_MS = 180;
     const FILTER_AVAILABILITY_DELAY_MS = 80;
-    const INDEX_CHUNK_SIZE = 40;
-    const INDEX_CHUNK_BUDGET_MS = 5;
+    const INDEX_CHUNK_SIZE = 60;
+    const INDEX_CHUNK_BUDGET_MS = 8;
     const SUGGESTION_LIMIT = 8;
     const FALLBACK_IMAGE = 'img/products/imagen-proximamente.png';
     const QUOTE_STORAGE_KEY = 'zabalaQuoteItems';
@@ -1318,7 +1318,7 @@
             const safeRubro = escapeHtml(product.rubro || '');
             const safeProductId = escapeHtml(product.id);
             const quoteIsAdded = isProductInQuote(product.id);
-            const shouldPrioritizeImage = index < 8;
+            const shouldPrioritizeImage = index < 4;
             const imageLoading = shouldPrioritizeImage ? 'eager' : 'lazy';
             const imagePriority = shouldPrioritizeImage ? 'fetchpriority="high"' : '';
 
