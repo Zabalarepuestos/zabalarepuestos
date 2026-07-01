@@ -109,7 +109,7 @@
         }
 
         .product-compatible-trucks {
-            margin-bottom: 2.5rem;
+            margin-bottom: 2rem;
             padding: 1.25rem;
             background: rgba(37, 99, 235, 0.08);
             border: 1px solid rgba(37, 99, 235, 0.22);
@@ -140,6 +140,54 @@
             font-size: 0.9rem;
         }
 
+        .product-detail-actions {
+            display: grid;
+            gap: 0.85rem;
+            margin-top: auto;
+        }
+
+        .btn-add-quote-detail {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            width: 100%;
+            min-height: 56px;
+            padding: 1rem 1.1rem;
+            border: 1px solid rgba(125, 211, 252, 0.34);
+            border-radius: 12px;
+            background: rgba(14, 165, 233, 0.12);
+            color: #e0f7ff;
+            font: inherit;
+            font-size: 1rem;
+            font-weight: 800;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .btn-add-quote-detail:hover,
+        .btn-add-quote-detail:focus-visible {
+            border-color: rgba(125, 211, 252, 0.82);
+            background: rgba(14, 165, 233, 0.24);
+            transform: translateY(-2px);
+            outline: none;
+        }
+
+        .btn-add-quote-detail.is-added {
+            border-color: rgba(34, 197, 94, 0.65);
+            background: rgba(34, 197, 94, 0.17);
+            color: #dcfce7;
+        }
+
+        .quote-detail-note {
+            min-height: 1.2rem;
+            margin: -0.25rem 0 0;
+            color: #bae6fd;
+            font-size: 0.88rem;
+            font-weight: 700;
+            text-align: center;
+        }
+
         .btn-whatsapp-large {
             background: #25D366;
             color: white;
@@ -153,7 +201,6 @@
             font-weight: 700;
             font-size: 1.1rem;
             transition: var(--transition);
-            margin-top: auto;
         }
 
         .btn-whatsapp-large:hover {
@@ -341,7 +388,7 @@
     </footer>
 
     <script src="products.js?v=20"></script>
-    <script src="producto.js?v=5"></script>
+    <script src="producto.js?v=6"></script>
     <a href="https://wa.me/5492645859764" class="whatsapp-float" target="_blank" rel="noopener noreferrer">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="30" height="30" fill="white">
             <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->

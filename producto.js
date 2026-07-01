@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const FALLBACK_IMAGE = 'img/products/imagen-proximamente.png';
+const QUOTE_STORAGE_KEY = 'zabalaQuoteItems';
 
 const STOP_WORDS = new Set([
     'para', 'con', 'sin', 'del', 'las', 'los', 'una', 'uno', 'por', 'tipo',
@@ -383,9 +384,72 @@ function renderRelatedProducts(product) {
     `;
 }
 
+function loadQuoteItemIds() {
+    try {
+        const savedIds = JSON.parse(localStorage.getItem(QUOTE_STORAGE_KEY) || '[]');
+        return Array.isArray(savedIds) ? savedIds.map(String) : [];
+    } catch (error) {
+        return [];
+    }
+}
+
+function saveQuoteItemIds(ids) {
+    try {
+        localStorage.setItem(QUOTE_STORAGE_KEY, JSON.stringify(ids.slice(0, 24)));
+    } catch (error) {
+        // The visible state still updates even if browser storage is unavailable.
+    }
+}
+
+function isProductInQuote(productId) {
+    return loadQuoteItemIds().includes(String(productId));
+}
+
+function setQuoteDetailState(button, note, isAdded) {
+    if (!button) return;
+
+    button.classList.toggle('is-added', isAdded);
+    button.setAttribute('aria-pressed', String(isAdded));
+    const label = button.querySelector('span');
+    if (label) {
+        label.textContent = isAdded ? 'Agregado a cotización' : 'Agregar producto a cotización';
+    }
+    if (note) {
+        note.textContent = isAdded
+            ? 'Este repuesto ya está en tu cotización rápida.'
+            : '';
+    }
+}
+
+function addProductToQuote(product) {
+    const ids = loadQuoteItemIds();
+    const productId = String(product.id);
+    if (ids.includes(productId)) return true;
+    if (ids.length >= 24) return false;
+
+    ids.push(productId);
+    saveQuoteItemIds(ids);
+    return true;
+}
+
+function bindQuoteDetailButton(product) {
+    const button = document.getElementById('addQuoteDetailBtn');
+    const note = document.getElementById('quoteDetailNote');
+    if (!button) return;
+
+    button.addEventListener('click', () => {
+        const wasAdded = addProductToQuote(product);
+        setQuoteDetailState(button, note, wasAdded || isProductInQuote(product.id));
+        if (!wasAdded && note) {
+            note.textContent = 'Tu cotización rápida ya tiene 24 repuestos.';
+        }
+    });
+}
+
 function renderProductDetail(product, container) {
     const whatsappMessage = encodeURIComponent(`Hola Zabala Repuestos! Me gustaria cotizar el siguiente producto: ${product.name} (Codigo: ${product.code})`);
     const whatsappLink = `https://wa.me/5492645859764?text=${whatsappMessage}`;
+    const quoteIsAdded = isProductInQuote(product.id);
 
     const html = `
         <a href="catalogo.html" class="back-link">
@@ -414,13 +478,27 @@ function renderProductDetail(product, container) {
                 </p>
 
                 ${renderTruckCompatibility(product)}
-                
-                <a href="${whatsappLink}" class="btn-whatsapp-large" target="_blank" rel="noopener noreferrer">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="24" height="24" fill="currentColor">
-                        <path d="M248 8C111 8 0 119 0 256c0 58.8 22.1 114.5 62.1 158.4L8.7 512.6c-1.3 5.4 2.8 9.6 8.3 8.3l108.8-57.9c43.6 28.1 94.9 43 147.2 43 137 0 248-111 248-248S385 8 248 8zm120.3 365.1c-6.8 19.1-39.7 34.9-54.3 37.1-12.7 1.9-28.5 3.3-80.9-17-48.4-18.7-79.6-66.3-81.8-69.3-2.2-3-19.4-25.8-19.4-49.2 0-23.4 12.1-35 16.4-39.7 3.5-3.8 7.7-4.4 10.3-4.4 2.6 0 5.2 0 7.4.1 2.4.1 5.7.5 8.7 7.7 3.3 7.9 11.2 27.4 12.2 29.4s1.7 4.3.3 6.9-2.2 4-4.4 6.6c-2.4 2.8-5.1 6.3-7.2 8.5-2.6 2.6-5.3 5.5-2.2 10.8 3.1 5.3 13.9 22.8 29.8 37 20.3 18.1 37.4 24.2 42.7 26.9 5.3 2.7 8.5 2.2 11.6-1.4 3.1-3.6 13.5-15.7 17.1-21 3.6-5.3 7.3-4.4 12.3-2.6 5.1 1.8 32.2 15.2 37.7 17.9 5.5 2.7 9.2 4 10.5 6.3 1.3 2.3 1.3 13.2-5.5 32.3z" />
-                    </svg>
-                    Consultar Precio por WhatsApp
-                </a>
+
+                <div class="product-detail-actions">
+                    <button id="addQuoteDetailBtn" class="btn-add-quote-detail${quoteIsAdded ? ' is-added' : ''}" type="button" aria-pressed="${quoteIsAdded}">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M8 7h13"></path>
+                            <path d="M8 12h13"></path>
+                            <path d="M8 17h13"></path>
+                            <path d="M3 12h1"></path>
+                            <path d="M3 17h1"></path>
+                            <path d="M3 7h1"></path>
+                        </svg>
+                        <span>${quoteIsAdded ? 'Agregado a cotización' : 'Agregar producto a cotización'}</span>
+                    </button>
+                    <p id="quoteDetailNote" class="quote-detail-note">${quoteIsAdded ? 'Este repuesto ya está en tu cotización rápida.' : ''}</p>
+                    <a href="${whatsappLink}" class="btn-whatsapp-large" target="_blank" rel="noopener noreferrer">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="24" height="24" fill="currentColor">
+                            <path d="M248 8C111 8 0 119 0 256c0 58.8 22.1 114.5 62.1 158.4L8.7 512.6c-1.3 5.4 2.8 9.6 8.3 8.3l108.8-57.9c43.6 28.1 94.9 43 147.2 43 137 0 248-111 248-248S385 8 248 8zm120.3 365.1c-6.8 19.1-39.7 34.9-54.3 37.1-12.7 1.9-28.5 3.3-80.9-17-48.4-18.7-79.6-66.3-81.8-69.3-2.2-3-19.4-25.8-19.4-49.2 0-23.4 12.1-35 16.4-39.7 3.5-3.8 7.7-4.4 10.3-4.4 2.6 0 5.2 0 7.4.1 2.4.1 5.7.5 8.7 7.7 3.3 7.9 11.2 27.4 12.2 29.4s1.7 4.3.3 6.9-2.2 4-4.4 6.6c-2.4 2.8-5.1 6.3-7.2 8.5-2.6 2.6-5.3 5.5-2.2 10.8 3.1 5.3 13.9 22.8 29.8 37 20.3 18.1 37.4 24.2 42.7 26.9 5.3 2.7 8.5 2.2 11.6-1.4 3.1-3.6 13.5-15.7 17.1-21 3.6-5.3 7.3-4.4 12.3-2.6 5.1 1.8 32.2 15.2 37.7 17.9 5.5 2.7 9.2 4 10.5 6.3 1.3 2.3 1.3 13.2-5.5 32.3z" />
+                        </svg>
+                        Consultar Precio por WhatsApp
+                    </a>
+                </div>
             </div>
         </div>
 
@@ -428,6 +506,7 @@ function renderProductDetail(product, container) {
     `;
 
     container.innerHTML = html;
+    bindQuoteDetailButton(product);
 }
 
 function showError(message) {
