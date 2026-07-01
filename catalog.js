@@ -231,12 +231,30 @@
         ["crapodina", ["ruleman empuje"]],
         ["ruleman", ["rodamiento"]],
         ["rodamiento", ["ruleman"]],
+        ["balancin", ["balancinera"]],
+        ["balancinera", ["balancin"]],
+        ["bomba", ["bombin"]],
+        ["bombin", ["bomba"]],
+        ["bulbo", ["sensor", "interruptor"]],
+        ["sensor", ["bulbo"]],
+        ["interruptor", ["llave", "bulbo", "switch"]],
+        ["llave", ["interruptor", "switch"]],
+        ["termostato", ["termostatica"]],
+        ["termostatica", ["termostato"]],
+        ["cruceta", ["cruzeta"]],
+        ["cruzeta", ["cruceta"]],
+        ["cardan", ["cardanico"]],
+        ["cardanico", ["cardan"]],
+        ["viscoso", ["acople viscoso", "embrague viscoso"]],
+        ["soporte", ["base", "apoyo"]],
+        ["motriz", ["motor"]],
         ["electro", ["electrico", "electromagnetico"]],
         ["electrico", ["electro"]],
         ["mb", ["mercedes benz"]]
     ]);
 
     const gearboxContextTerms = ["zf", "eaton"];
+    const SEARCH_MINOR_TYPO_MIN_LENGTH = 5;
     const SEARCH_STOP_WORDS = new Set([
         "de", "del", "la", "las", "el", "los", "para", "por", "con", "sin", "y", "o", "a", "al", "en"
     ]);
@@ -275,6 +293,81 @@
     function includesTerm(text, compact, term, compactTerm) {
         if (!term) return true;
         return text.includes(term) || compact.includes(compactTerm);
+    }
+
+    function searchTokens(text) {
+        return [...new Set(String(text || '').split(' ').filter(token => token.length > 1))];
+    }
+
+    function maxTypoDistance(term) {
+        if (!term || term.length < SEARCH_MINOR_TYPO_MIN_LENGTH || /\d/.test(term)) return 0;
+        return term.length >= 8 ? 2 : 1;
+    }
+
+    function isCloseToken(term, token) {
+        const allowedDistance = maxTypoDistance(term);
+        if (!allowedDistance || !token || token.length < SEARCH_MINOR_TYPO_MIN_LENGTH || /\d/.test(token)) return false;
+
+        const lengthDiff = Math.abs(term.length - token.length);
+        if (lengthDiff > allowedDistance) return false;
+        if (token.startsWith(term) || term.startsWith(token)) return true;
+        if (term.length === token.length) {
+            for (let i = 0; i < term.length - 1; i += 1) {
+                if (
+                    term[i] !== token[i] &&
+                    term[i] === token[i + 1] &&
+                    term[i + 1] === token[i] &&
+                    term.slice(0, i) === token.slice(0, i) &&
+                    term.slice(i + 2) === token.slice(i + 2)
+                ) {
+                    return true;
+                }
+            }
+        }
+
+        let previous = Array.from({ length: token.length + 1 }, (_, index) => index);
+        for (let i = 1; i <= term.length; i += 1) {
+            const current = [i];
+            let rowMin = current[0];
+
+            for (let j = 1; j <= token.length; j += 1) {
+                const substitutionCost = term[i - 1] === token[j - 1] ? 0 : 1;
+                const value = Math.min(
+                    previous[j] + 1,
+                    current[j - 1] + 1,
+                    previous[j - 1] + substitutionCost
+                );
+                current[j] = value;
+                rowMin = Math.min(rowMin, value);
+            }
+
+            if (rowMin > allowedDistance) return false;
+            previous = current;
+        }
+
+        return previous[token.length] <= allowedDistance;
+    }
+
+    function termHasCloseToken(term, tokens) {
+        if (!Array.isArray(tokens) || !tokens.length) return false;
+
+        return term.alternatives.some(alternative => {
+            if (!alternative.text || alternative.text.includes(' ')) return false;
+            return tokens.some(token => isCloseToken(alternative.text, token));
+        });
+    }
+
+    function firstTermStartsField(fieldTokens, queryIndex) {
+        if (!queryIndex.text || !Array.isArray(fieldTokens) || fieldTokens.length === 0) return false;
+        const firstTerm = queryIndex.terms[0];
+        if (!firstTerm) return false;
+
+        return firstTerm.alternatives.some(alternative => {
+            if (!alternative.text || alternative.text.includes(' ')) return false;
+            return fieldTokens[0] === alternative.text ||
+                fieldTokens[0].startsWith(alternative.text) ||
+                isCloseToken(alternative.text, fieldTokens[0]);
+        });
     }
 
     function productBaseText(product) {
@@ -339,18 +432,24 @@
             baseCompact: compactBase,
             searchText,
             searchCompact: searchText.replace(/\s+/g, ''),
+            searchTokens: searchTokens(searchText),
             strongText,
             strongCompact: strongText.replace(/\s+/g, ''),
             strongSearchText,
             strongSearchCompact: strongSearchText.replace(/\s+/g, ''),
+            strongSearchTokens: searchTokens(strongSearchText),
             nameText,
             nameCompact: nameText.replace(/\s+/g, ''),
+            nameTokens: searchTokens(nameText),
             codeText,
             codeCompact: codeText.replace(/\s+/g, ''),
+            codeTokens: searchTokens(codeText),
             rubroText,
             rubroCompact: rubroText.replace(/\s+/g, ''),
+            rubroTokens: searchTokens(rubroText),
             descriptionText,
             descriptionCompact: descriptionText.replace(/\s+/g, ''),
+            descriptionTokens: searchTokens(descriptionText),
             brandText: normalizeText(product.brand),
             brandLower: String(product.brand || '').toLowerCase(),
             categoryText,
@@ -403,9 +502,7 @@
         }
 
         return queryIndex.terms.every(term =>
-            term.alternatives.some(alternative =>
-                includesTerm(indexedProduct.searchText, indexedProduct.searchCompact, alternative.text, alternative.compact)
-            )
+            queryTermMatchesField(indexedProduct.searchText, indexedProduct.searchCompact, term, indexedProduct.searchTokens)
         );
     }
 
@@ -417,9 +514,7 @@
         }
 
         return queryIndex.terms.every(term =>
-            term.alternatives.some(alternative =>
-                includesTerm(indexedProduct.strongSearchText, indexedProduct.strongSearchCompact, alternative.text, alternative.compact)
-            )
+            queryTermMatchesField(indexedProduct.strongSearchText, indexedProduct.strongSearchCompact, term, indexedProduct.strongSearchTokens)
         );
     }
 
@@ -431,22 +526,24 @@
         return Boolean(queryIndex.text && includesTerm(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex.text, queryIndex.compact));
     }
 
-    function queryTermMatchesField(fieldText, fieldCompact, term) {
-        return term.alternatives.some(alternative =>
+    function queryTermMatchesField(fieldText, fieldCompact, term, fieldTokens = []) {
+        const exactAlternativeMatch = term.alternatives.some(alternative =>
             includesTerm(fieldText, fieldCompact, alternative.text, alternative.compact)
         );
+
+        return exactAlternativeMatch || termHasCloseToken(term, fieldTokens);
     }
 
-    function queryTermsEveryField(fieldText, fieldCompact, queryIndex) {
+    function queryTermsEveryField(fieldText, fieldCompact, queryIndex, fieldTokens = []) {
         if (!queryIndex.text) return true;
 
-        return queryIndex.terms.every(term => queryTermMatchesField(fieldText, fieldCompact, term));
+        return queryIndex.terms.every(term => queryTermMatchesField(fieldText, fieldCompact, term, fieldTokens));
     }
 
-    function queryTermsSomeField(fieldText, fieldCompact, queryIndex) {
+    function queryTermsSomeField(fieldText, fieldCompact, queryIndex, fieldTokens = []) {
         if (!queryIndex.text) return false;
 
-        return queryIndex.terms.some(term => queryTermMatchesField(fieldText, fieldCompact, term));
+        return queryIndex.terms.some(term => queryTermMatchesField(fieldText, fieldCompact, term, fieldTokens));
     }
 
     function termPositionInField(fieldText, fieldCompact, term) {
@@ -479,7 +576,7 @@
         if (!queryIndex.text) return 0;
 
         return queryIndex.terms.filter(term =>
-            queryTermMatchesField(indexedProduct.searchText, indexedProduct.searchCompact, term)
+            queryTermMatchesField(indexedProduct.searchText, indexedProduct.searchCompact, term, indexedProduct.searchTokens)
         ).length;
     }
 
@@ -488,10 +585,12 @@
 
         if (exactCodeMatches(indexedProduct, queryIndex)) return 0;
         if (exactNameMatches(indexedProduct, queryIndex)) return 8 + orderedTermPenalty(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex);
-        if (queryTermsEveryField(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex)) return 20 + orderedTermPenalty(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex);
-        if (queryTermsEveryField(indexedProduct.codeText, indexedProduct.codeCompact, queryIndex)) return 30;
+        if (firstTermStartsField(indexedProduct.nameTokens, queryIndex) && queryTermsEveryField(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex, indexedProduct.nameTokens)) return 12;
+        if (queryTermsEveryField(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex, indexedProduct.nameTokens)) return 20 + orderedTermPenalty(indexedProduct.nameText, indexedProduct.nameCompact, queryIndex);
+        if (queryTermsEveryField(indexedProduct.codeText, indexedProduct.codeCompact, queryIndex, indexedProduct.codeTokens)) return 30;
         if (matchesStrongSearchQuery(indexedProduct, queryIndex)) return 45 + orderedTermPenalty(indexedProduct.strongSearchText, indexedProduct.strongSearchCompact, queryIndex);
-        if (queryTermsEveryField(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex)) return 85 + orderedTermPenalty(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex);
+        if (queryTermsEveryField(indexedProduct.rubroText, indexedProduct.rubroCompact, queryIndex, indexedProduct.rubroTokens)) return 65;
+        if (queryTermsEveryField(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex, indexedProduct.searchTokens)) return 85 + orderedTermPenalty(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex);
         if (includesTerm(indexedProduct.baseText, indexedProduct.baseCompact, queryIndex.text, queryIndex.compact)) return 105;
         if (matchesSearchQuery(indexedProduct, queryIndex)) return 125;
         return 220 - matchedTermCount(indexedProduct, queryIndex);
@@ -638,6 +737,17 @@
         });
 
         return Math.min(...scores);
+    }
+
+    function directOriginalQueryBonus(indexedProduct, searchContext) {
+        const originalQuery = searchContext.originalQuery;
+        if (!originalQuery.text || originalQuery.text === searchContext.productQuery.text) return 0;
+
+        if (queryTermsEveryField(indexedProduct.nameText, indexedProduct.nameCompact, originalQuery, indexedProduct.nameTokens)) return 12;
+        if (queryTermsEveryField(indexedProduct.codeText, indexedProduct.codeCompact, originalQuery, indexedProduct.codeTokens)) return 10;
+        if (queryTermsEveryField(indexedProduct.strongText, indexedProduct.strongCompact, originalQuery, indexedProduct.strongSearchTokens)) return 7;
+
+        return 0;
     }
 
     function compareRankedProducts(a, b) {
@@ -1454,7 +1564,11 @@
             ? searchMatches
                 .map(indexedProduct => ({
                     product: indexedProduct.product,
-                    score: searchIndex.text ? searchScore(indexedProduct, searchIndex) : searchScore(indexedProduct, scoreIndex),
+                    score: Math.max(
+                        0,
+                        (searchIndex.text ? searchScore(indexedProduct, searchIndex) : searchScore(indexedProduct, scoreIndex)) -
+                            directOriginalQueryBonus(indexedProduct, searchContext)
+                    ),
                     vehicleScore: vehicleSearchScore(indexedProduct, searchContext)
                 }))
                 .sort(compareRankedProducts)
