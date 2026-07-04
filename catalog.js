@@ -785,6 +785,23 @@
             });
     }
 
+    function populateFastFilters() {
+        const brandLabels = [...new Set(productsData.map(product => String(product.brand || '').trim()).filter(Boolean))]
+            .sort((a, b) => a.localeCompare(b, 'es'));
+
+        brandFilterOptions = brandLabels;
+
+        clearSelectOptions(filterEngine, 'Todos los Motores');
+        clearSelectOptions(filterTruck, 'Todos los Camiones');
+        clearSelectOptions(filterCategory, 'Todos los Rubros');
+        clearSelectOptions(filterBrand, 'Todas las Marcas');
+
+        engines.forEach(engine => appendFilterOption(filterEngine, engine, engine));
+        truckModelGroups.forEach(group => appendFilterOption(filterTruck, group.label, group.label));
+        Object.keys(categoryMapping).forEach(category => appendFilterOption(filterCategory, category, category));
+        brandLabels.forEach(brand => appendFilterOption(filterBrand, brand, brand));
+    }
+
     function getVehicleFilterMatcher(item) {
         if (!item._matcher) {
             const context = detectSearchContext(item.search);
@@ -1033,6 +1050,85 @@
     function searchMatchesProduct(indexedProduct, searchIndex) {
         if (!searchIndex.text) return true;
         return matchesSearchQuery(indexedProduct, searchIndex);
+    }
+
+    function rawTextMatchesQuery(text, queryIndex) {
+        if (!queryIndex.text) return true;
+        const compact = text.replace(/\s+/g, '');
+
+        if (includesTerm(text, compact, queryIndex.text, queryIndex.compact)) return true;
+
+        return queryIndex.terms.every(term =>
+            term.alternatives.some(alternative =>
+                includesTerm(text, compact, alternative.text, alternative.compact)
+            )
+        );
+    }
+
+    function rawTruckMatches(text, truckLabel) {
+        if (!truckLabel) return true;
+        const group = truckModelGroups.find(item => item.label === truckLabel);
+        if (!group) return true;
+        const compact = text.replace(/\s+/g, '');
+
+        return group.aliases.some(alias => {
+            const aliasText = normalizeText(alias);
+            const aliasCompact = aliasText.replace(/\s+/g, '');
+            if (/^[0-9]+$/.test(aliasText)) {
+                return includesWholeToken(text, aliasText);
+            }
+
+            return text.includes(aliasText) || compact.includes(aliasCompact);
+        });
+    }
+
+    function rawCategoryMatches(text, category) {
+        if (!category) return true;
+        const keywords = normalizedCategoryMapping[category] || [];
+        return keywords.some(keyword => text.includes(keyword));
+    }
+
+    function rawBrandMatches(product, selectedBrand) {
+        if (!selectedBrand) return true;
+        const brand = normalizeText(product.brand);
+        const selected = normalizeText(selectedBrand);
+        return brand === selected || brand.includes(selected);
+    }
+
+    function applyFastFiltersBeforeIndex() {
+        const searchTerm = searchInput.value;
+        const selectedEngine = filterEngine.value;
+        const selectedTruck = filterTruck.value;
+        const selectedCategory = filterCategory.value;
+        const selectedBrand = filterBrand.value;
+        const searchContext = detectSearchContext(searchTerm);
+        const searchIndex = searchContext.productQuery.text ? searchContext.productQuery : searchContext.originalQuery;
+        const engineIndex = createQueryIndex(selectedEngine);
+        const hasActiveCriteria = Boolean(
+            searchTerm.trim() ||
+            selectedEngine ||
+            selectedTruck ||
+            selectedCategory ||
+            selectedBrand
+        );
+
+        pendingFilterRequest = hasActiveCriteria;
+
+        currentProducts = productsData.filter(product => {
+            const text = productBaseText(product);
+            const matchesSearch = rawTextMatchesQuery(text, searchIndex);
+            const matchesEngine = rawTextMatchesQuery(text, engineIndex);
+            const matchesTruck = rawTruckMatches(text, selectedTruck);
+            const matchesCategory = rawCategoryMatches(text, selectedCategory);
+            const matchesBrand = rawBrandMatches(product, selectedBrand);
+
+            return matchesSearch && matchesEngine && matchesTruck && matchesCategory && matchesBrand;
+        });
+        currentRenderLimit = hasActiveCriteria ? RESULT_RENDER_LIMIT : INITIAL_RENDER_LIMIT;
+
+        updateActiveFilters();
+        renderProducts(currentProducts, currentRenderLimit);
+        renderSearchSuggestions(currentProducts, searchContext.originalQuery);
     }
 
     function matchesFilterSet(indexedProduct, filters, skipFilter = '') {
@@ -1482,21 +1578,12 @@
     // Main Filter Function
     function applyFilters() {
         if (!indexReady) {
-            pendingFilterRequest = true;
-            currentProducts = productsData;
-            currentRenderLimit = INITIAL_RENDER_LIMIT;
-            renderProducts(currentProducts, currentRenderLimit);
+            applyFastFiltersBeforeIndex();
             if (productsStatus) {
-                const hasActiveCriteria = Boolean(
-                    searchInput.value.trim() ||
-                    filterEngine.value ||
-                    filterTruck.value ||
-                    filterCategory.value ||
-                    filterBrand.value
-                );
-                productsStatus.textContent = hasActiveCriteria
-                    ? `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos. Preparando búsqueda...`
-                    : `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos.`;
+                const visibleCount = Math.min(currentRenderLimit, currentProducts.length);
+                productsStatus.textContent = currentProducts.length > visibleCount
+                    ? `Mostrando ${visibleCount} de ${currentProducts.length} productos. Afinando conteos...`
+                    : `Mostrando ${currentProducts.length} productos. Afinando conteos...`;
             }
             return;
         }
@@ -1775,20 +1862,21 @@
     }
 
     // Initial Setup
-    setFiltersDisabled(true);
+    setFiltersDisabled(false);
+    populateFastFilters();
     const initialQuery = new URLSearchParams(window.location.search).get('q');
     if (initialQuery) {
         searchInput.value = initialQuery;
     }
     quoteItems = loadQuoteItems();
     renderQuoteTray();
+    renderSidebarFilters();
     currentProducts = productsData;
     currentRenderLimit = INITIAL_RENDER_LIMIT;
     renderProducts(currentProducts, currentRenderLimit);
     if (productsStatus) {
         productsStatus.textContent = `Mostrando ${Math.min(INITIAL_RENDER_LIMIT, productsData.length)} de ${productsData.length} productos.`;
     }
-    renderSidebarFilters();
 
     window.setTimeout(() => {
         buildIndexAsync(() => {
