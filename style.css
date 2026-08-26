@@ -2882,28 +2882,29 @@ body {
 }
 
 .article-audio {
-    width: min(100%, 840px);
+    width: min(100%, 760px);
     margin: 0 auto;
     padding: 1rem 0;
     border-block: 1px solid rgba(148, 163, 184, 0.2);
 }
 
 .article-audio-controls {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: minmax(0, 224px) 48px minmax(0, 1fr);
     align-items: center;
     gap: 0.75rem;
 }
 
 .article-audio button,
 .article-audio select {
-    min-height: 44px;
+    min-height: 48px;
     border: 1px solid rgba(148, 163, 184, 0.35);
     border-radius: 6px;
     background: var(--card-bg);
     color: var(--text-color);
     font: inherit;
     font-size: 0.875rem;
+    line-height: 1.4;
     cursor: pointer;
 }
 
@@ -2912,9 +2913,13 @@ body {
     align-items: center;
     justify-content: center;
     gap: 0.65rem;
-    width: 210px;
-    max-width: calc(100% - 56px);
-    padding: 0.6rem;
+    width: 100%;
+    min-height: 48px;
+    padding: 0.65rem;
+}
+
+.article-audio-toggle [data-audio-label] {
+    min-width: 0;
 }
 
 .article-audio .article-audio-toggle {
@@ -2937,32 +2942,31 @@ body {
 .article-audio-stop {
     display: grid;
     place-items: center;
-    width: 44px;
-    flex: 0 0 44px;
+    width: 48px;
+    height: 48px;
 }
 
 .article-audio-icon {
     display: block;
-    width: 18px;
-    height: 18px;
-    flex: 0 0 18px;
-    background: currentColor;
-    mask: url('assets/blog/player/play.svg') center / contain no-repeat;
+    width: 20px;
+    height: 20px;
+    flex: 0 0 20px;
 }
 
-.article-audio[data-state="playing"] .article-audio-toggle .article-audio-icon {
-    mask-image: url('assets/blog/player/pause.svg');
+.article-audio .article-audio-pause-icon,
+.article-audio[data-state="playing"] .article-audio-play-icon {
+    display: none;
 }
 
-.article-audio-stop .article-audio-icon {
-    mask-image: url('assets/blog/player/square.svg');
+.article-audio[data-state="playing"] .article-audio-pause-icon {
+    display: block;
 }
 
 .article-audio-speed {
     display: flex;
     align-items: center;
     gap: 0.65rem;
-    margin-left: auto;
+    justify-self: end;
     color: var(--text-muted);
     font-size: 0.8125rem;
 }
@@ -3025,9 +3029,13 @@ body {
 }
 
 @media (max-width: 480px) {
+    .article-audio-controls {
+        grid-template-columns: minmax(0, 1fr) 48px;
+    }
+
     .article-audio-speed {
+        grid-column: 1 / -1;
         width: 100%;
-        margin-left: 0;
         justify-content: space-between;
     }
 }

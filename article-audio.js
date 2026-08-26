@@ -4,15 +4,25 @@
     const player = document.querySelector('[data-article-audio]');
     if (!player) return;
 
+    // Lucide icons, inlined so they also render when opening the HTML locally.
+    // License: assets/blog/player/LICENSE-lucide.txt
     player.innerHTML = `
         <div class="article-audio-controls">
             <button type="button" class="article-audio-toggle" data-audio-toggle>
-                <span class="article-audio-icon" aria-hidden="true"></span>
+                <svg class="article-audio-icon article-audio-play-icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z" />
+                </svg>
+                <svg class="article-audio-icon article-audio-pause-icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="14" y="3" width="5" height="18" rx="1" />
+                    <rect x="5" y="3" width="5" height="18" rx="1" />
+                </svg>
                 <span data-audio-label>Escuchar art&#237;culo</span>
             </button>
             <button type="button" class="article-audio-stop" data-audio-stop
                 aria-label="Detener lectura" title="Detener lectura" disabled>
-                <span class="article-audio-icon" aria-hidden="true"></span>
+                <svg class="article-audio-icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect width="18" height="18" x="3" y="3" rx="2" />
+                </svg>
             </button>
             <label class="article-audio-speed">Velocidad
                 <select data-audio-speed aria-label="Velocidad de lectura">
