@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Camiones electricos e hidrogeno</title>
+  <desc id="desc">Ilustracion editorial de tecnologias para transporte pesado</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.45" stop-color="#134e4a"/>
+      <stop offset="1" stop-color="#0b6fbd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <path d="M0 536h1200v184H0z" fill="#0f172a" opacity="0.7"/>
+  <path d="M160 400h325l70 84h110v92H160z" fill="#f1f5f9"/>
+  <path d="M488 400h90l66 84h-88z" fill="#67e8f9"/>
+  <path d="M225 580a52 52 0 1 0 104 0 52 52 0 0 0-104 0zm300 0a52 52 0 1 0 104 0 52 52 0 0 0-104 0z" fill="#020617"/>
+  <circle cx="277" cy="580" r="22" fill="#94a3b8"/>
+  <circle cx="577" cy="580" r="22" fill="#94a3b8"/>
+  <path d="M795 210c0-58 42-96 88-96s88 38 88 96c0 72-88 164-88 164s-88-92-88-164z" fill="#22c55e" opacity="0.95"/>
+  <path d="M858 208h52l-34 47h44l-72 82 22-62h-38z" fill="#ecfeff"/>
+  <path d="M756 438h254" stroke="#7dd3fc" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 22"/>
+  <text x="150" y="176" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800">Tecnologia pesada</text>
+  <text x="154" y="230" fill="#ccfbf1" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">electricos, hidrogeno y mantenimiento</text>
+</svg>
