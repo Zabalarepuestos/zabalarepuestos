@@ -3091,6 +3091,21 @@ body {
     line-height: 1.5;
 }
 
+.article-cover-figure figcaption a,
+.article-inline-figure figcaption a {
+    color: #7dd3fc;
+    font-weight: 700;
+    text-decoration-color: rgba(125, 211, 252, 0.55);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+.article-cover-figure figcaption a:hover,
+.article-inline-figure figcaption a:hover {
+    color: #bae6fd;
+    text-decoration-color: currentColor;
+}
+
 .article-inline-figure {
     width: min(100%, 820px);
     margin: 2.25rem auto 2.75rem;
