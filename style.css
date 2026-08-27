@@ -2764,6 +2764,19 @@ body {
     padding-top: 0.5rem;
 }
 
+.blog-card-body .blog-card-meta {
+    margin-top: auto;
+    padding-top: 0.5rem;
+}
+
+.blog-featured-body .blog-card-meta {
+    margin-top: 1rem;
+}
+
+.blog-card-meta time {
+    color: #bfdbfe;
+}
+
 .blog-card-body h3 {
     min-height: 3.05em;
     margin: 0;
