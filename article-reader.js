@@ -1,0 +1,398 @@
+(() => {
+  'use strict';
+
+  const onReady = callback => {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', callback, { once: true });
+    } else {
+      callback();
+    }
+  };
+
+  onReady(() => {
+    const article = document.querySelector('article.article-content, article.content, main article, article');
+    if (!article || document.body.classList.contains('article-reader-enhanced')) return;
+
+    document.body.classList.add('article-reader-enhanced');
+    document.documentElement.classList.add('article-reader-page');
+    if (!article.id) article.id = 'articleContent';
+
+    const skipLink = document.createElement('a');
+    skipLink.className = 'article-reader-skip';
+    skipLink.href = `#${article.id}`;
+    skipLink.textContent = 'Saltar al artículo';
+    document.body.prepend(skipLink);
+
+    const articleTitle = document.querySelector('.article-title, .hero h1, header h1, h1');
+    const articleHeader = articleTitle?.closest('.article-header, .article-hero, .hero, header');
+    articleHeader?.classList.add('article-reader-header');
+    if (articleTitle && articleHeader && !articleHeader.querySelector('.article-reader-breadcrumb')) {
+      const breadcrumb = document.createElement('nav');
+      breadcrumb.className = 'article-reader-breadcrumb';
+      breadcrumb.setAttribute('aria-label', 'Migas de pan');
+      breadcrumb.innerHTML = `
+        <a href="../blog.html"><i class="fa-solid fa-arrow-left" aria-hidden="true"></i> Blog</a>
+        <span aria-hidden="true">/</span>
+        <span>Guía práctica</span>
+      `;
+      articleTitle.parentElement.prepend(breadcrumb);
+    }
+
+    let progress = document.getElementById('reading-progress');
+    if (!progress) {
+      progress = document.createElement('div');
+      progress.id = 'reading-progress';
+      document.body.prepend(progress);
+    }
+    progress.classList.add('article-reader-progress');
+    progress.setAttribute('role', 'progressbar');
+    progress.setAttribute('aria-label', 'Progreso de lectura');
+    progress.setAttribute('aria-valuemin', '0');
+    progress.setAttribute('aria-valuemax', '100');
+    progress.setAttribute('aria-valuenow', '0');
+
+    const tools = document.createElement('aside');
+    tools.className = 'article-reader-tools';
+    tools.setAttribute('aria-label', 'Herramientas de lectura');
+    tools.innerHTML = `
+      <div class="article-reader-summary">
+        <span class="article-reader-summary-icon" aria-hidden="true"><i class="fa-solid fa-book-open"></i></span>
+        <span><strong>Lectura cómoda</strong><small id="articleReaderProgressText">0% leído</small></span>
+      </div>
+      <div class="article-reader-actions">
+        <div class="article-reader-font-controls" role="group" aria-label="Tamaño del texto">
+          <button type="button" data-reader-action="smaller" aria-label="Reducir tamaño del texto">A−</button>
+          <button type="button" data-reader-action="larger" aria-label="Aumentar tamaño del texto">A+</button>
+        </div>
+        <button type="button" data-reader-action="focus" aria-label="Activar modo enfoque" title="Modo enfoque" aria-pressed="false"><i class="fa-regular fa-eye" aria-hidden="true"></i><span>Enfoque</span></button>
+        <button type="button" data-reader-action="read" aria-label="Marcar artículo como leído" title="Marcar leído" aria-pressed="false"><i class="fa-regular fa-circle-check" aria-hidden="true"></i><span>Marcar leído</span></button>
+        <button type="button" data-reader-action="share" aria-label="Compartir artículo" title="Compartir"><i class="fa-solid fa-arrow-up-from-bracket" aria-hidden="true"></i><span>Compartir</span></button>
+        <button type="button" data-reader-action="top" aria-label="Volver al inicio del artículo"><i class="fa-solid fa-arrow-up" aria-hidden="true"></i></button>
+      </div>
+      <p class="article-reader-status" id="articleReaderStatus" role="status" aria-live="polite"></p>
+    `;
+    article.insertAdjacentElement('beforebegin', tools);
+
+    const slugify = value => value
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '')
+      .slice(0, 72);
+
+    const headings = [...article.querySelectorAll('h2')];
+    const escapeHtml = value => value.replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+    const usedIds = new Set([...document.querySelectorAll('[id]')].map(element => element.id));
+    headings.forEach((heading, index) => {
+      if (heading.id) return;
+      const base = slugify(heading.textContent) || `seccion-${index + 1}`;
+      let id = base;
+      let suffix = 2;
+      while (usedIds.has(id)) id = `${base}-${suffix++}`;
+      heading.id = id;
+      usedIds.add(id);
+    });
+
+    let tableOfContents = document.querySelector('.toc, .table-of-contents, [data-article-toc]');
+    if (tableOfContents || headings.length >= 3) {
+      const needsPlacement = !tableOfContents;
+      if (!tableOfContents) tableOfContents = document.createElement('nav');
+      tableOfContents.classList.add('article-reader-toc');
+      tableOfContents.setAttribute('aria-label', 'Contenido del artículo');
+      tableOfContents.innerHTML = `
+        <div class="article-reader-toc-heading">
+          <span><i class="fa-solid fa-list-check" aria-hidden="true"></i></span>
+          <span><strong>En esta guía</strong><small>${headings.length} temas para ir directo a lo importante</small></span>
+        </div>
+        <ol>${headings.map((heading, index) => `
+          <li><a href="#${heading.id}"><span>${String(index + 1).padStart(2, '0')}</span>${escapeHtml(heading.textContent.trim())}</a></li>
+        `).join('')}</ol>
+      `;
+      if (needsPlacement) tools.insertAdjacentElement('afterend', tableOfContents);
+    }
+
+    if (tableOfContents && 'IntersectionObserver' in window) {
+      const tocLinks = [...tableOfContents.querySelectorAll('a[href^="#"]')];
+      const linkById = new Map(tocLinks.map(link => [decodeURIComponent(link.getAttribute('href').slice(1)), link]));
+      const sectionObserver = new IntersectionObserver(entries => {
+        const visible = entries
+          .filter(entry => entry.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
+        if (!visible) return;
+        tocLinks.forEach(link => link.removeAttribute('aria-current'));
+        linkById.get(visible.target.id)?.setAttribute('aria-current', 'location');
+      }, { rootMargin: '-18% 0px -68% 0px', threshold: 0 });
+      headings.forEach(heading => sectionObserver.observe(heading));
+    }
+
+    tableOfContents?.addEventListener('click', event => {
+      const link = event.target.closest('a[href^="#"]');
+      if (!link) return;
+      const id = decodeURIComponent(link.getAttribute('href').slice(1));
+      const target = document.getElementById(id);
+      if (!target) return;
+      event.preventDefault();
+      if (!window.matchMedia('(min-width: 1000px)').matches && indexPanel) indexPanel.open = false;
+      const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      target.scrollIntoView({ behavior: reducedMotion ? 'auto' : 'smooth', block: 'start' });
+      window.history.replaceState(null, '', `#${encodeURIComponent(id)}`);
+    });
+
+    const cover = document.querySelector('.article-cover, .cover, .article-image');
+    if (cover && !document.querySelector('.article-reader-cover-caption')) {
+      cover.classList.add('article-reader-cover');
+      const coverCaption = document.createElement('p');
+      coverCaption.className = 'article-reader-cover-caption';
+      coverCaption.innerHTML = '<i class="fa-regular fa-image" aria-hidden="true"></i> Imagen de apoyo de la guía';
+      cover.insertAdjacentElement('afterend', coverCaption);
+    }
+
+    // One reading layout for the legacy article templates; moving nodes preserves audio listeners.
+    const layout = article.parentElement.classList.contains('article-layout')
+      ? article.parentElement : document.createElement('div');
+    if (!layout.isConnected) tools.before(layout);
+    layout.classList.add('article-reader-layout');
+    const controls = document.createElement('div');
+    controls.className = 'article-reader-controls';
+    const audioWidget = document.querySelector('.article-listen-widget, .article-audio-panel, .article-audio-player, .listen');
+    if (audioWidget) {
+      audioWidget.querySelectorAll('i').forEach(icon => icon.setAttribute('aria-hidden', 'true'));
+      const audioPanel = document.createElement('details');
+      audioPanel.className = 'article-reader-audio';
+      const audioSummary = document.createElement('summary');
+      audioSummary.innerHTML = '<i class="fa-solid fa-headphones" aria-hidden="true"></i><span>Escuchar el artículo</span><small>Mostrar controles</small>';
+      audioPanel.append(audioSummary, audioWidget);
+      audioPanel.addEventListener('toggle', () => {
+        audioSummary.querySelector('small').textContent = audioPanel.open ? 'Ocultar controles' : 'Mostrar controles';
+      });
+      controls.append(audioPanel);
+    }
+    controls.append(tools);
+    layout.append(controls);
+
+    let indexPanel = null;
+    if (tableOfContents) {
+      indexPanel = document.createElement('details');
+      indexPanel.className = 'article-reader-index';
+      const indexSummary = document.createElement('summary');
+      indexSummary.innerHTML = '<span><i class="fa-solid fa-list-ul" aria-hidden="true"></i> En esta guía</span><small>' + headings.length + ' secciones</small>';
+      indexPanel.append(indexSummary, tableOfContents);
+      layout.append(indexPanel);
+      const desktopIndex = window.matchMedia('(min-width: 1000px)');
+      const updateIndex = () => { indexPanel.open = desktopIndex.matches; };
+      updateIndex();
+      desktopIndex.addEventListener('change', updateIndex);
+    } else {
+      layout.classList.add('article-reader-layout-single');
+    }
+    layout.append(article);
+    article.querySelectorAll('table').forEach(table => {
+      if (table.parentElement.classList.contains('article-reader-table')) return;
+      const wrapper = document.createElement('div');
+      wrapper.className = 'article-reader-table';
+      wrapper.tabIndex = 0;
+      wrapper.setAttribute('role', 'region');
+      wrapper.setAttribute('aria-label', table.caption?.textContent || 'Tabla del artículo; desplaza horizontalmente para ver todas las columnas');
+      table.before(wrapper);
+      wrapper.append(table);
+    });
+
+    const rootSize = parseFloat(getComputedStyle(document.documentElement).fontSize) || 16;
+    const initialArticleSize = parseFloat(getComputedStyle(article).fontSize) || 17;
+    const baseRem = initialArticleSize / rootSize;
+    let fontStep = Number.parseInt(localStorage.getItem('zaleasyReaderFontStep') || '0', 10);
+    if (!Number.isFinite(fontStep)) fontStep = 0;
+    fontStep = Math.max(-1, Math.min(2, fontStep));
+
+    const status = tools.querySelector('#articleReaderStatus');
+    const progressText = tools.querySelector('#articleReaderProgressText');
+    const summaryTitle = tools.querySelector('.article-reader-summary strong');
+    const focusButton = tools.querySelector('[data-reader-action="focus"]');
+    const readButton = tools.querySelector('[data-reader-action="read"]');
+    const articleFileName = decodeURIComponent(window.location.pathname.split('/').pop() || '');
+    const articleLibraryHref = articleFileName ? `Blog htmls/${articleFileName}` : window.location.pathname;
+    const getArticleCategory = () => {
+      const raw = document.querySelector('.tag, .article-category, .article-kicker, .category-badge, [class*="category"]')?.textContent?.trim() || '';
+      return raw.replace(/\s+/g, ' ').replace(/[^\p{L}\p{N}\s-]/gu, '').trim();
+    };
+    const getReadArticles = () => {
+      try {
+        const items = JSON.parse(localStorage.getItem('zaleasyReadArticles') || '[]');
+        return Array.isArray(items) ? items : [];
+      } catch (error) {
+        return [];
+      }
+    };
+    let articleIsRead = getReadArticles().includes(articleLibraryHref);
+    let completionAnnounced = articleIsRead;
+    let lastSavedProgressBucket = -1;
+
+    const refreshReadButton = () => {
+      if (!readButton) return;
+      readButton.setAttribute('aria-pressed', articleIsRead ? 'true' : 'false');
+      readButton.setAttribute('aria-label', articleIsRead ? 'Marcar artículo como pendiente' : 'Marcar artículo como leído');
+      readButton.innerHTML = articleIsRead
+        ? '<i class="fa-solid fa-circle-check" aria-hidden="true"></i><span>Leído</span>'
+        : '<i class="fa-regular fa-circle-check" aria-hidden="true"></i><span>Marcar leído</span>';
+      tools.classList.toggle('article-reader-complete', articleIsRead);
+      if (summaryTitle) summaryTitle.textContent = articleIsRead ? 'Lectura completada' : 'Lectura cómoda';
+    };
+
+    const setArticleRead = (read, shouldAnnounce = true) => {
+      articleIsRead = Boolean(read);
+      const existing = getReadArticles();
+      const next = articleIsRead
+        ? [...new Set([...existing, articleLibraryHref])]
+        : existing.filter(href => href !== articleLibraryHref);
+      localStorage.setItem('zaleasyReadArticles', JSON.stringify(next));
+      refreshReadButton();
+      if (shouldAnnounce) announce(articleIsRead ? 'Artículo marcado como leído.' : 'Artículo marcado como pendiente.');
+    };
+
+    refreshReadButton();
+
+    const announce = message => {
+      if (!status) return;
+      status.textContent = message;
+      window.clearTimeout(window.__zaleasyReaderStatusTimer);
+      window.__zaleasyReaderStatusTimer = window.setTimeout(() => {
+        status.textContent = '';
+      }, 2600);
+    };
+
+    const applyFontSize = shouldAnnounce => {
+      const size = Math.max(0.94, baseRem * (1 + fontStep * 0.1));
+      article.style.setProperty('--article-reader-font-size', `${size.toFixed(3)}rem`);
+      localStorage.setItem('zaleasyReaderFontStep', String(fontStep));
+      if (shouldAnnounce) {
+        announce(fontStep > 0 ? 'Texto ampliado.' : fontStep < 0 ? 'Texto reducido.' : 'Tamaño de texto restablecido.');
+      }
+    };
+    applyFontSize(false);
+
+    const getArticleProgress = () => {
+      const rect = article.getBoundingClientRect();
+      const start = window.scrollY + rect.top;
+      const readableDistance = Math.max(article.offsetHeight - window.innerHeight * 0.35, 1);
+      return Math.round(Math.min(Math.max(((window.scrollY - start) / readableDistance) * 100, 0), 100));
+    };
+
+    let progressFrame = 0;
+    const updateProgress = () => {
+      progressFrame = 0;
+      const value = getArticleProgress();
+      progress.style.width = `${value}%`;
+      progress.setAttribute('aria-valuenow', String(value));
+      if (progressText) progressText.textContent = articleIsRead ? 'Lectura completada' : `${value}% leído`;
+
+      const progressBucket = Math.floor(value / 5);
+      if (progressBucket !== lastSavedProgressBucket) {
+        lastSavedProgressBucket = progressBucket;
+        localStorage.setItem('zaleasyLastBlogRead', JSON.stringify({
+          href: articleLibraryHref,
+          title: articleTitle?.textContent?.trim() || document.title,
+          category: getArticleCategory(),
+          savedAt: Date.now(),
+          progress: value
+        }));
+      }
+
+      if (value >= 90 && !articleIsRead) {
+        setArticleRead(true, false);
+        if (!completionAnnounced) {
+          completionAnnounced = true;
+          announce('Lectura completada. El artículo quedó marcado como leído.');
+        }
+      }
+    };
+    const requestProgressUpdate = () => {
+      if (!progressFrame) progressFrame = window.requestAnimationFrame(updateProgress);
+    };
+    window.addEventListener('scroll', requestProgressUpdate, { passive: true });
+    window.addEventListener('resize', requestProgressUpdate, { passive: true });
+    updateProgress();
+
+    tools.addEventListener('click', async event => {
+      const button = event.target.closest('button[data-reader-action]');
+      if (!button) return;
+      const action = button.dataset.readerAction;
+
+      if (action === 'smaller') {
+        fontStep = Math.max(-1, fontStep - 1);
+        applyFontSize(true);
+      }
+
+      if (action === 'larger') {
+        fontStep = Math.min(2, fontStep + 1);
+        applyFontSize(true);
+      }
+
+      if (action === 'focus') {
+        const enabled = document.body.classList.toggle('article-reader-focus');
+        button.setAttribute('aria-pressed', enabled ? 'true' : 'false');
+        button.setAttribute('aria-label', enabled ? 'Salir del modo enfoque' : 'Activar modo enfoque');
+        button.innerHTML = enabled
+          ? '<i class="fa-solid fa-eye-slash" aria-hidden="true"></i><span>Salir del enfoque</span>'
+          : '<i class="fa-regular fa-eye" aria-hidden="true"></i><span>Enfoque</span>';
+        article.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
+        announce(enabled ? 'Modo enfoque activado.' : 'Modo enfoque desactivado.');
+      }
+
+      if (action === 'read') {
+        setArticleRead(!articleIsRead);
+      }
+
+      if (action === 'share') {
+        const shareData = {
+          title: document.title,
+          text: document.querySelector('meta[name="description"]')?.content || document.title,
+          url: window.location.href
+        };
+        try {
+          if (navigator.share) {
+            await navigator.share(shareData);
+            announce('Opciones para compartir abiertas.');
+          } else if (navigator.clipboard) {
+            await navigator.clipboard.writeText(window.location.href);
+            announce('Enlace del artículo copiado.');
+          } else {
+            announce('Copia la dirección del navegador para compartir.');
+          }
+        } catch (error) {
+          if (error?.name !== 'AbortError') announce('No pudimos compartir el artículo.');
+        }
+      }
+
+      if (action === 'top') {
+        article.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+
+    document.addEventListener('keydown', event => {
+      if (event.key !== 'Escape' || !document.body.classList.contains('article-reader-focus')) return;
+      event.preventDefault();
+      focusButton?.click();
+    });
+
+    const rawCategory = document.querySelector('.tag, .article-category, .article-kicker, .category-badge, [class*="category"]')?.textContent?.trim() || '';
+    const category = rawCategory.replace(/\s+/g, ' ').replace(/[^\p{L}\p{N}\s-]/gu, '').trim();
+    const blogUrl = new URL('../blog.html', window.location.href);
+    if (category) blogUrl.searchParams.set('buscar', category);
+    blogUrl.hash = 'blogArticles';
+
+    const nextStep = document.createElement('aside');
+    nextStep.className = 'article-reader-next';
+    nextStep.setAttribute('aria-labelledby', 'articleReaderNextTitle');
+    nextStep.innerHTML = `
+      <span><i class="fa-solid fa-route" aria-hidden="true"></i> Siguiente paso</span>
+      <h2 id="articleReaderNextTitle">Convierte esta lectura en una acción concreta</h2>
+      <p>Explora más guías del mismo tema o lleva el control diario de tu negocio a Zaleasy.</p>
+      <div>
+        <a class="article-reader-next-primary" href="${blogUrl.pathname}${blogUrl.search}${blogUrl.hash}"><i class="fa-solid fa-layer-group" aria-hidden="true"></i> Ver lecturas relacionadas</a>
+        <a href="../app.html"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> Abrir Zaleasy</a>
+      </div>
+    `;
+    article.insertAdjacentElement('afterend', nextStep);
+  });
+})();

@@ -1,510 +1,1430 @@
-﻿<!DOCTYPE html>
+﻿<!doctype html>
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Venta de repuestos para camiones Mercedes Benz, Iveco, Ford, Scania y Sprinter. Solo retiro en local. Av Rioja 931 Sur.">
-    <title>Zabala Repuestos | Mercedes, Iveco, Ford, Scania, Volkswagen</title>
-    <link rel="icon" type="image/png" sizes="32x32" href="img/zabala-favicon-32.png?v=1">
-    <link rel="apple-touch-icon" sizes="180x180" href="img/zabala-favicon-180.png?v=1">
-    <link rel="stylesheet" href="style.css?v=4">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-    
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Zabala Repuestos | Especialistas en camiones">
-    <meta property="og:description" content="Venta de repuestos para camiones Mercedes Benz, Iveco, Ford, Scania y Sprinter. Retiro en local, envíos y asesoramiento. Av Rioja 931 Sur.">
-    <meta property="og:image" content="fondo_local.jpg">
-    <meta property="og:url" content="https://www.zabalarepuestos.com/">
-    <meta property="og:type" content="website">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zaleasy | Control de ventas, gastos y caja gratis</title>
+  <meta name="description"
+    content="Registra ventas, gastos, medios de pago y cierres de caja en una sola pantalla. Zaleasy es gratis, online y pensado para emprendedores y PyMEs." />
+  <meta name="theme-color" content="#0a0b10" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="assets/logo-navbar.png" />
+
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://zaleasy.com/" />
+  <meta property="og:title" content="Zaleasy | Control de ventas, gastos y caja gratis" />
+  <meta property="og:description" content="Registra ventas, gastos, medios de pago y cierres de caja en una sola pantalla. Gratis, online y sin tarjeta." />
+  <meta property="og:image" content="https://zaleasy.com/assets/logo.png" />
+  <meta property="og:locale" content="es_AR" />
+  <meta property="og:site_name" content="Zaleasy" />
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://zaleasy.com/" />
+  <meta name="twitter:title" content="Zaleasy | Control de ventas, gastos y caja gratis" />
+  <meta name="twitter:description" content="Registra ventas, gastos, medios de pago y cierres de caja en una sola pantalla. Gratis, online y sin tarjeta." />
+  <meta name="twitter:image" content="https://zaleasy.com/assets/logo.png" />
+
+  <link rel="canonical" href="https://zaleasy.com/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="landing.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6041920422141090"
+    crossorigin="anonymous"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Zaleasy",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "description": "Software gratuito para registrar ventas, gastos, medios de pago y cierres de caja diarios.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  </script>
+
+  <link rel="icon" type="image/png" href="assets/logo-navbar.png" />
+  <link rel="shortcut icon" type="image/png" href="assets/logo-navbar.png" />
+  <link rel="apple-touch-icon" href="assets/logo-navbar.png" />
 </head>
 
 <body>
+  <a class="skip-link" href="#main-content">Saltar al contenido</a>
+  <!-- Background Animation -->
+  <div class="bg-animated"></div>
 
-    <header class="main-header">
-        <div class="container header-content">
-            <a class="logo logo-link" href="#inicio" aria-label="Zabala Repuestos, inicio">
-                <img src="img/camion_animado.png" id="truck-anim" class="truck-icon-header" alt="">
-                <h1>Zabala<span class="highlight">Repuestos</span></h1>
-            </a>
-            <button class="hamburger" id="hamburger" aria-label="Toggle menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
-            <nav class="main-nav" id="mainNav">
-                <ul>
-                    <li><a href="#inicio" class="active">Inicio</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="nosotros.html">Nosotros</a></li>
-                    <li><a href="catalogo.html">Catálogo</a></li>
-                    <li><a href="#marcas">Marcas</a></li>
-                    <li><a href="cotizar.html">Cotizar</a></li>
-                    <li><a href="#faq">FAQ</a></li>
-                    <li><a href="#ubicacion">Ubicación</a></li>
-                </ul>
-            </nav>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container nav-container">
+      <div class="brand">
+        <img src="assets/logo-navbar.png" alt="Zaleasy Logo" loading="eager" decoding="async" style="
+              height: 45px;
+              border-radius: 50%;
+              box-shadow: 0 4px 15px rgba(108, 92, 231, 0.4);
+            " />
+        <h2>Zaleasy</h2>
+      </div>
+      <button class="mobile-menu-btn" aria-label="Abrir men&uacute;" aria-expanded="false" aria-controls="site-navigation">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <div class="nav-links" id="site-navigation">
+        <a href="blog.html">Blog</a>
+        <a href="index.html#features">Funciones</a>
+        <a href="index.html#daily-flow">Flujo diario</a>
+        <a href="index.html#pricing">Precio</a>
+        <a href="index.html#faq">FAQ</a>
+        <a href="app.html" class="btn btn-primary">Crear Cuenta Gratis</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <main id="main-content">
+  <header class="hero">
+    <div class="container hero-container">
+      <div class="hero-content">
+        <div class="badge-new">
+          Gratis para emprendedores y PyMEs
         </div>
-    </header>
-
-    <main>
-        <section id="inicio" class="hero-section">
-            <div class="hero-overlay"></div>
-            <div class="container hero-content">
-                <div class="hero-box animate-up">
-                    <span class="hero-eyebrow">Repuestos para línea pesada en San Juan</span>
-                    <h2>Zabala Repuestos</h2>
-                    <p class="hero-text-desc delay-1">Empresa familiar dedicada a la venta de repuestos para camiones
-                        Mercedes
-                        Benz, Iveco, Scania, Ford, Volkswagen y Sprinter.</p>
-                    <div class="hero-buttons delay-3">
-                        <a href="catalogo.html" class="btn btn-primary">Ver catálogo</a>
-                        <a href="#ubicacion" class="btn btn-secondary">Ver ubicación</a>
-                    </div>
-                </div>
+        <h1 class="hero-title">
+          Controla ventas, gastos y caja <span class="highlight">en una sola pantalla.</span>
+        </h1>
+        <p class="hero-subtitle">
+          Registra operaciones en segundos, separa medios de pago, revisa gastos y cierra el d&iacute;a
+          con n&uacute;meros claros. Sin planillas, sin instalaci&oacute;n y sin tarjeta.
+        </p>
+        <div class="hero-actions">
+          <a href="app.html" class="btn btn-primary btn-lg">Empezar gratis <i
+              class="fa-solid fa-arrow-right"></i></a>
+          <a href="#daily-flow" class="btn btn-outline btn-lg">Ver flujo diario</a>
+        </div>
+        <div class="hero-trust-row" aria-label="Beneficios clave">
+          <span><i class="fa-solid fa-credit-card"></i> Sin tarjeta</span>
+          <span><i class="fa-solid fa-download"></i> Sin instalaci&oacute;n</span>
+          <span><i class="fa-solid fa-file-export"></i> Exporta a CSV</span>
+          <span><i class="fa-solid fa-mobile-screen"></i> Funciona en celular</span>
+        </div>
+        <div class="hero-stats">
+          <div class="stat">
+            <i class="fa-solid fa-check-circle" style="color: var(--success)"></i>
+            +1,000 Negocios
+          </div>
+          <div class="stat">
+            <i class="fa-solid fa-cloud" style="color: var(--primary)"></i>
+            100% en la Nube
+          </div>
+          <div class="stat">
+            <i class="fa-solid fa-shield-halved" style="color: var(--warning)"></i>
+            Seguro y Privado
+          </div>
+        </div>
+      </div>
+      <div class="hero-image">
+        <div class="product-preview" aria-label="Vista previa del panel de Zaleasy">
+          <div class="preview-topbar">
+            <div>
+              <span>Hoy</span>
+              <strong>Turno Ma&ntilde;ana</strong>
             </div>
-        </section>
+            <span class="preview-status"><i class="fa-solid fa-circle"></i> En vivo</span>
+          </div>
 
-        <!-- Trust Banner -->
-        <div class="trust-banner">
-            <div class="container">
-                <div class="trust-grid">
-                    <div class="trust-item">
-                        <span class="trust-icon" aria-hidden="true">
-                            <svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"></path></svg>
-                        </span>
-                        <span class="trust-text">Repuestos Originales y Alternativos</span>
-                    </div>
-                    <div class="trust-item">
-                        <span class="trust-icon" aria-hidden="true">
-                            <svg viewBox="0 0 24 24"><path d="M12 21s7-5.2 7-12a7 7 0 0 0-14 0c0 6.8 7 12 7 12Z"></path><path d="M12 11.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path></svg>
-                        </span>
-                        <span class="trust-text">Retiro inmediato en local</span>
-                    </div>
-                    <div class="trust-item">
-                        <span class="trust-icon" aria-hidden="true">
-                            <svg viewBox="0 0 24 24"><path d="M3 7h18v10H3z"></path><path d="M3 10h18"></path><path d="M7 14h4"></path></svg>
-                        </span>
-                        <span class="trust-text">Todos los medios de pago</span>
-                    </div>
-                    <div class="trust-item">
-                        <span class="trust-icon" aria-hidden="true">
-                            <svg viewBox="0 0 24 24"><path d="M8 12h8"></path><path d="M12 8v8"></path><path d="M4.5 7.5 8 4l4 4 4-4 3.5 3.5L12 20 4.5 7.5Z"></path></svg>
-                        </span>
-                        <span class="trust-text">Asesoramiento Especializado</span>
-                    </div>
-                </div>
+          <div class="preview-kpis">
+            <div>
+              <span>Ventas</span>
+              <strong>$128.450</strong>
             </div>
+            <div>
+              <span>Gastos</span>
+              <strong>$18.900</strong>
+            </div>
+            <div>
+              <span>Caja neta</span>
+              <strong>$109.550</strong>
+            </div>
+          </div>
+
+          <div class="preview-workspace">
+            <div class="preview-form">
+              <span class="preview-label">Nueva venta</span>
+              <div class="preview-row"><span>Producto</span><strong>Combo almuerzo x2</strong></div>
+              <div class="preview-row"><span>Medio</span><strong>Transferencia</strong></div>
+              <button type="button"><i class="fa-solid fa-plus"></i> Registrar venta</button>
+            </div>
+
+            <div class="preview-side">
+              <div class="preview-chart" aria-hidden="true">
+                <span style="height: 48%"></span>
+                <span style="height: 70%"></span>
+                <span style="height: 42%"></span>
+                <span style="height: 86%"></span>
+                <span style="height: 62%"></span>
+              </div>
+              <div class="preview-check">
+                <i class="fa-solid fa-circle-check"></i>
+                <div>
+                  <strong>Cierre listo</strong>
+                  <span>3 pagos conciliados</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Animated Stats Section -->
+  <section class="stats-section">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item" data-target="1000" data-suffix="+">
+          <div class="stat-number" id="stat-users">0+</div>
+          <div class="stat-label">Negocios Activos</div>
+        </div>
+        <div class="stat-item" data-target="500000" data-suffix="+">
+          <div class="stat-number" id="stat-tx">0+</div>
+          <div class="stat-label">Ventas Registradas</div>
+        </div>
+        <div class="stat-item" data-target="100" data-suffix="%">
+          <div class="stat-number" id="stat-trial">0%</div>
+          <div class="stat-label">Gratuito</div>
+        </div>
+        <div class="stat-item" data-target="100" data-suffix="%">
+          <div class="stat-number" id="stat-cloud">0%</div>
+          <div class="stat-label">En la Nube</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="conversion-strip" aria-label="Resumen de valor">
+    <div class="container conversion-strip-grid">
+      <div>
+        <strong>Para el mostrador real</strong>
+        <span>Efectivo, transferencias, tarjetas, gastos y cierres en una sola rutina.</span>
+      </div>
+      <div>
+        <strong>Menos carga mental</strong>
+        <span>El sistema suma, separa medios de pago y te muestra qu&eacute; revisar.</span>
+      </div>
+      <div>
+        <strong>Datos listos para decidir</strong>
+        <span>Historial, reportes y CSV para compartir con tu equipo o contador.</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="decision-panel" aria-labelledby="decision-panel-title">
+    <div class="container decision-panel-layout">
+      <div class="decision-copy">
+        <span class="section-kicker"><i class="fa-solid fa-clipboard-check"></i> Cierre claro</span>
+        <h2 id="decision-panel-title">Al terminar el d&iacute;a sabes qu&eacute; pas&oacute; y qu&eacute; hacer ma&ntilde;ana</h2>
+        <p>
+          La p&aacute;gina ahora muestra mejor el beneficio central de Zaleasy: convertir ventas sueltas,
+          gastos y medios de pago en una lectura simple para decidir sin adivinar.
+        </p>
+      </div>
+      <div class="decision-grid" aria-label="Indicadores destacados de Zaleasy">
+        <article class="decision-card">
+          <i class="fa-solid fa-cash-register"></i>
+          <span>Caja esperada</span>
+          <strong>$109.550</strong>
+          <small>Separada por efectivo, tarjeta y transferencia</small>
+        </article>
+        <article class="decision-card accent">
+          <i class="fa-solid fa-arrow-trend-up"></i>
+          <span>Margen del d&iacute;a</span>
+          <strong>85%</strong>
+          <small>Ventas menos gastos visibles en segundos</small>
+        </article>
+        <article class="decision-card">
+          <i class="fa-solid fa-user-check"></i>
+          <span>Cliente frecuente</span>
+          <strong>12 compras</strong>
+          <small>Historial listo para vender mejor</small>
+        </article>
+        <article class="decision-card">
+          <i class="fa-solid fa-file-export"></i>
+          <span>Reporte listo</span>
+          <strong>CSV</strong>
+          <small>Datos ordenados para Excel o contador</small>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="daily-flow" class="daily-flow" aria-labelledby="daily-flow-title">
+    <div class="container daily-flow-layout">
+      <div class="daily-flow-copy">
+        <span class="section-kicker"><i class="fa-solid fa-bolt"></i> Flujo diario</span>
+        <h2 id="daily-flow-title">De la primera venta al cierre, sin perder el control</h2>
+        <p>
+          La mayor fricci&oacute;n de un negocio chico no es vender: es recordar qu&eacute; entr&oacute;,
+          qu&eacute; sali&oacute;, cu&aacute;nto queda en caja y qu&eacute; conviene revisar ma&ntilde;ana.
+          Zaleasy ordena ese recorrido en una rutina simple.
+        </p>
+        <a href="app.html" class="btn btn-primary btn-lg">Probar el flujo gratis <i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+
+      <div class="daily-flow-steps" aria-label="Pasos principales del uso diario">
+        <article class="flow-step">
+          <div class="flow-step-marker">01</div>
+          <div>
+            <h3>Registra ventas en segundos</h3>
+            <p>Ventas simples, multiproducto, cliente opcional y medio de pago claro desde el inicio.</p>
+          </div>
+          <i class="fa-solid fa-cart-plus"></i>
+        </article>
+
+        <article class="flow-step featured">
+          <div class="flow-step-marker">02</div>
+          <div>
+            <h3>Mira la salud del d&iacute;a</h3>
+            <p>Balance neto, gastos, caja y productos destacados en una vista pensada para decidir r&aacute;pido.</p>
+          </div>
+          <i class="fa-solid fa-chart-line"></i>
+        </article>
+
+        <article class="flow-step">
+          <div class="flow-step-marker">03</div>
+          <div>
+            <h3>Cierra caja con confianza</h3>
+            <p>Archiva el d&iacute;a, exporta datos y empieza la siguiente jornada con n&uacute;meros limpios.</p>
+          </div>
+          <i class="fa-solid fa-lock"></i>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="features">
+    <div class="container">
+      <div class="section-header">
+        <h2>Todo lo que tu negocio necesita</h2>
+        <p>
+          Dise&ntilde;ado para ser r&aacute;pido, intuitivo y poderoso. Deja las hojas de
+          c&aacute;lculo en el pasado.
+        </p>
+      </div>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon">
+            <i class="fa-solid fa-money-bill-transfer"></i>
+          </div>
+          <h3>Control de Ingresos y Gastos</h3>
+          <p>
+            Registra entradas y salidas de dinero con un par de clics.
+            Visualiza tu balance neto real al instante.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <i class="fa-solid fa-cash-register"></i>
+          </div>
+          <h3>Cierres de Caja Precisos</h3>
+          <p>
+            Calcula autom&aacute;ticamente cu&aacute;nto debes tener f&iacute;sicamente y cu&aacute;nto en
+            bancos. Genera res&uacute;menes diarios sin errores.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-bullseye"></i></div>
+          <h3>Metas de Venta</h3>
+          <p>
+            Establece objetivos monetarios diarios y mira la barra de progreso
+            llenarse. Mot&iacute;vate a lograr m&aacute;s resultados cada d&iacute;a.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <i class="fa-solid fa-calculator"></i>
+          </div>
+          <h3>Calculadora de Vuelto</h3>
+          <p>
+            Agiliza tus cobros en efectivo con nuestra calculadora r&aacute;pida
+            integrada. Reduce el margen de error humano.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <i class="fa-solid fa-chart-pie"></i>
+          </div>
+          <h3>Gr&aacute;ficos y Anal&iacute;ticas</h3>
+          <p>
+            Entiende por d&oacute;nde entra tu dinero. Gr&aacute;ficos visuales de tus
+            m&eacute;todos de pago m&aacute;s populares.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-file-csv"></i></div>
+          <h3>Exportaci&oacute;n CSV</h3>
+          <p>
+            Tus datos te pertenecen. Descarga reportes completos compatibles
+            con Excel para pasar a tu contador.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <i class="fa-solid fa-cart-shopping"></i>
+          </div>
+          <h3>Transacciones Multiproducto</h3>
+          <p>
+            Agrega m&uacute;ltiples art&iacute;culos en una sola venta, asocia nombres de
+            clientes y usa autocompletado inteligente.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-receipt"></i></div>
+          <h3>Recibos Consolidados</h3>
+          <p>
+            Imprime o comparte un &uacute;nico ticket agrupado, detallando cada
+            producto de la compra de tu cliente con claridad.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-users"></i></div>
+          <h3>Reporte de Top Clientes</h3>
+          <p>
+            Descubre r&aacute;pidamente qui&eacute;nes son tus mejores compradores y premia
+            su fidelidad bas&aacute;ndote en su historial.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <i class="fa-solid fa-gauge-high"></i>
+          </div>
+          <h3>Dashboard Avanzado</h3>
+          <p>
+            Monitorea tu resumen semanal, proyecciones de metas mensuales y un
+            feed de actividad en vivo desde un solo lugar.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-bolt"></i></div>
+          <h3>Accesos R&aacute;pidos (Chips)</h3>
+          <p>
+            Cobra al instante utilizando botones preconfigurados de un solo
+            clic para tus productos o categor&iacute;as m&aacute;s frecuentes.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-wallet"></i></div>
+          <h3>Caja Personalizable</h3>
+          <p>
+            Ajusta el dinero inicial en tu caja (base) en cualquier momento
+            para que tus cierres diarios sean matem&aacute;ticamente perfectos.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Use Cases Section -->
+  <section id="use-cases" style="padding: 5rem 0; background-color: var(--bg-main); border-top: 1px solid var(--border-color);">
+    <div class="container">
+      <div class="section-header" style="text-align: center; margin-bottom: 3.5rem;">
+        <span style="background: rgba(162, 155, 254, 0.15); color: #a29bfe; padding: 0.4rem 1.2rem; border-radius: 20px; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; display: inline-block; margin-bottom: 1rem; border: 1px solid rgba(162, 155, 254, 0.3);">
+          <i class="fa-solid fa-briefcase"></i> Casos de Uso
+        </span>
+        <h2 style="font-size: 2.5rem; color: var(--text-main); margin-bottom: 1rem;">
+          Dise&ntilde;ado para tu industria
+        </h2>
+        <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto; font-size: 1.05rem;">
+          Zaleasy es tan flexible que se adapta a cualquier negocio que necesite un control r&aacute;pido y sin estr&eacute;s.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5rem;">
+        
+        <!-- Case 1 -->
+        <div style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); text-align: center; transition: all 0.3s;" onmouseover="this.style.borderColor='#a29bfe'; this.style.transform='translateY(-5px)';" onmouseout="this.style.borderColor='rgba(255,255,255,0.05)'; this.style.transform='none';">
+          <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(255, 71, 87, 0.1); color: #ff4757; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin: 0 auto 1.5rem;">
+            <i class="fa-solid fa-utensils"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; color: var(--text-main); margin-bottom: 0.8rem;">Gastronom&iacute;a y Foodtrucks</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.5;">Calcula el vuelto al instante, registra combos m&uacute;ltiples y cierra caja r&aacute;pido al final del turno sin que falten billetes.</p>
         </div>
 
-        <section class="home-actions" aria-label="Accesos principales">
-            <div class="container home-actions-grid">
-                <a class="home-action" href="catalogo.html">
-                    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path></svg>
-                    <span>
-                        <strong>Buscar un repuesto</strong>
-                        <small>Explorá el catálogo por motor, camión o código.</small>
-                    </span>
-                </a>
-                <a class="home-action" href="cotizar.html">
-                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h14v13H8l-3 3V4Z"></path><path d="M8 8h8M8 12h6"></path></svg>
-                    <span>
-                        <strong>Pedir una cotización</strong>
-                        <small>Consultanos por la pieza que necesitás.</small>
-                    </span>
-                </a>
-                <a class="home-action" href="#ubicacion">
-                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-5.2 7-12a7 7 0 0 0-14 0c0 6.8 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.5"></circle></svg>
-                    <span>
-                        <strong>Visitar el local</strong>
-                        <small>Av Rioja 931 Sur, San Juan.</small>
-                    </span>
-                </a>
-            </div>
-        </section>
-
-        <section id="marcas" class="brands-section">
-            <div class="container">
-                <h2 class="section-title">Nuestras Marcas</h2>
-                <div class="brands-grid">
-                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Mercedes+Benz" aria-label="Ver repuestos Mercedes Benz">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <div class="brand-logo">Mercedes Benz</div>
-                            </div>
-                            <div class="flip-card-back">
-                                <img src="mercedes_logo.png" alt="Mercedes Benz Logo" class="back-logo">
-                            </div>
-                        </div>
-                    </a>
-                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Iveco" aria-label="Ver repuestos Iveco">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <div class="brand-logo">Iveco</div>
-                            </div>
-                            <div class="flip-card-back">
-                                <img src="iveco_logo.png" alt="Iveco Logo" class="back-logo">
-                            </div>
-                        </div>
-                    </a>
-                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Ford" aria-label="Ver repuestos Ford">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <div class="brand-logo">Ford</div>
-                            </div>
-                            <div class="flip-card-back">
-                                <img src="ford_logo.png" alt="Ford Logo" class="back-logo">
-                            </div>
-                        </div>
-                    </a>
-                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Scania" aria-label="Ver repuestos Scania">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <div class="brand-logo">Scania</div>
-                            </div>
-                            <div class="flip-card-back">
-                                <img src="scania_logo.png" alt="Scania Logo" class="back-logo">
-                            </div>
-                        </div>
-                    </a>
-                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Volkswagen" aria-label="Ver repuestos Volkswagen">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <div class="brand-logo">Volkswagen</div>
-                            </div>
-                            <div class="flip-card-back">
-                                <img src="volkswagen_logo.png" alt="Volkswagen Logo" class="back-logo">
-                            </div>
-                        </div>
-                    </a>
-                    <a class="brand-card flip-card brand-card-link" href="catalogo.html?q=Sprinter" aria-label="Ver repuestos Sprinter">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <div class="brand-logo">Sprinter</div>
-                            </div>
-                            <div class="flip-card-back">
-                                <img src="sprinter_logo.png" alt="Sprinter Logo" class="back-logo">
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </section>
-
-        <section class="products-section">
-            <div class="container">
-                <h2 class="section-title">Familia de productos</h2>
-                <div class="products-carousel-wrapper">
-                    <button class="carousel-nav carousel-prev" aria-label="Anterior">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
-                            <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" />
-                        </svg>
-                    </button>
-
-                    <div class="products-carousel">
-                        <div class="products-track">
-                            <a class="product-card product-card-link" href="catalogo.html?q=motor">
-                                <div class="product-image">
-                                    <img src="motores.jpg" alt="Motores y Componentes">
-                                </div>
-                                <h3 class="product-title">Motores y Componentes</h3>
-                            </a>
-                            <a class="product-card product-card-link" href="catalogo.html?q=embrague">
-                                <div class="product-image">
-                                    <img src="embragues.jpg" alt="Embragues">
-                                </div>
-                                <h3 class="product-title">Embragues</h3>
-                            </a>
-                            <a class="product-card product-card-link" href="catalogo.html?q=transmision">
-                                <div class="product-image">
-                                    <img src="transmision.jpg" alt="Transmisión">
-                                </div>
-                                <h3 class="product-title">Transmisión</h3>
-                            </a>
-                            <a class="product-card product-card-link" href="catalogo.html?q=carroceria">
-                                <div class="product-image">
-                                    <img src="carroceria.jpg" alt="Carrocería">
-                                </div>
-                                <h3 class="product-title">Carrocería</h3>
-                            </a>
-                            <a class="product-card product-card-link" href="catalogo.html?q=freno">
-                                <div class="product-image">
-                                    <img src="frenos.jpg" alt="Frenos">
-                                </div>
-                                <h3 class="product-title">Frenos</h3>
-                            </a>
-                            <a class="product-card product-card-link" href="catalogo.html?q=refrigeracion">
-                                <div class="product-image">
-                                    <img src="refrigeracion.jpg" alt="Refrigeración">
-                                </div>
-                                <h3 class="product-title">Refrigeración</h3>
-                            </a>
-                            <a class="product-card product-card-link" href="catalogo.html?q=electricidad">
-                                <div class="product-image">
-                                    <img src="sistema_electrico.jpg" alt="Sistema eléctrico">
-                                </div>
-                                <h3 class="product-title">Sistema eléctrico</h3>
-                            </a>
-                        </div>
-                    </div>
-
-                    <button class="carousel-nav carousel-next" aria-label="Siguiente">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
-                            <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" />
-                        </svg>
-                    </button>
-                </div>
-            </div>
-        </section>
-
-        <section class="quality-section">
-            <div class="container">
-                <div class="quality-content">
-                    <div class="quality-text">
-                        <h2 class="quality-title">Calidad y Garantía</h2>
-                        <p>En nuestra empresa brindamos <strong>calidad y garantía</strong> en los productos que
-                            ofrecemos, pueden encontrar línea completa de repuestos para camiones <strong>Mercedes Benz,
-                                Ford, Scania, Iveco y Sprinter</strong>.</p>
-                    </div>
-                    <div class="quality-image">
-                        <img src="parts_image.png" alt="Repuestos de calidad">
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- FAQ Section -->
-        <section id="faq" class="faq-section">
-            <div class="container">
-                <h2 class="section-title">Preguntas Frecuentes</h2>
-                <div class="faq-container">
-                    <div class="faq-item">
-                        <button class="faq-question">
-                            ¿Hacen envíos a domicilio?
-                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </button>
-                        <div class="faq-answer">
-                            <p>Actualmente trabajamos con <strong>retiro en local</strong> en nuestra sucursal ubicada en Av Rioja 931 Sur. Te esperamos para asesorarte personalmente en todo lo que necesites.</p>
-                        </div>
-                    </div>
-                    <div class="faq-item">
-                        <button class="faq-question">
-                            ¿Qué medios de pago aceptan?
-                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </button>
-                        <div class="faq-answer">
-                            <p>Aceptamos efectivo, transferencias bancarias, tarjetas de débito y crédito. Consultá por promociones vigentes o facilidades de pago al momento de tu compra.</p>
-                        </div>
-                    </div>
-                    <div class="faq-item">
-                        <button class="faq-question">
-                            ¿Traen repuestos a pedido?
-                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </button>
-                        <div class="faq-answer">
-                            <p>Sí, si no tenemos el repuesto específico en stock, podemos traerlo a pedido. Comunicate con nosotros por WhatsApp o completá el formulario de cotización para consultarnos sobre piezas especiales.</p>
-                        </div>
-                    </div>
-                    <div class="faq-item">
-                        <button class="faq-question">
-                            ¿Tienen garantía los repuestos?
-                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="faq-icon"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </button>
-                        <div class="faq-answer">
-                            <p>Todos nuestros repuestos cuentan con garantía de fábrica por defectos de fabricación. Recordá conservar siempre tu factura de compra para cualquier reclamo o cambio necesario.</p>
-                            <p class="highlight-text" style="margin-top: 0.8rem; font-size: 0.95rem; color: #f87171;">⚠️ <strong>Importante:</strong> Los repuestos eléctricos no tienen cambio ni se aceptan devoluciones bajo ninguna circunstancia.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="testimonials-section">
-            <div class="container testimonials-shell">
-                <div class="testimonials-heading">
-                    <span class="section-eyebrow">Reseñas en Google</span>
-                    <h2 class="section-title">Lo Que Dicen Nuestros Clientes</h2>
-                    <p>Zabala Repuestos figura en Google Maps con una valoracion positiva de clientes que ya visitaron el local.</p>
-                </div>
-
-                <div class="testimonials-layout">
-                    <article class="testimonial-featured">
-                        <div class="testimonial-score">
-                            <span class="score-number">4.6</span>
-                            <span class="stars" aria-label="4.6 de 5 estrellas">★★★★★</span>
-                            <span class="score-label">Calificacion verificada en Google</span>
-                        </div>
-                        <p class="testimonial-featured-text">Clientes valoran la atencion, el asesoramiento y la disponibilidad de repuestos para linea pesada.</p>
-                        <div class="testimonial-person">
-                            <div class="avatar">G</div>
-                            <div>
-                                <strong>Perfil de Google Maps</strong>
-                                <span>Zabala Repuestos - Av Rioja Sur 931</span>
-                            </div>
-                        </div>
-                        <a class="testimonial-google-link" href="https://www.google.com/maps/place/Zabala+Repuestos/@-31.5450632,-68.5207029,17z/data=!3m1!4b1!4m6!3m5!1s0x96816a9f1715dc57:0x8c201e7b0a2d9853!8m2!3d-31.5450632!4d-68.5207029!16s%2Fg%2F1tfxhxck" target="_blank" rel="noopener noreferrer">Ver opiniones reales en Google</a>
-                    </article>
-
-                    <div class="testimonials-grid">
-                        <article class="testimonial-card">
-                            <div class="testimonial-header">
-                                <div class="avatar">1</div>
-                                <div>
-                                    <strong>Atencion al cliente</strong>
-                                    <div class="stars">★★★★★</div>
-                                </div>
-                            </div>
-                            <p class="testimonial-text">Un punto fuerte para quienes buscan orientacion antes de comprar el repuesto correcto.</p>
-                        </article>
-                        <article class="testimonial-card">
-                            <div class="testimonial-header">
-                                <div class="avatar">2</div>
-                                <div>
-                                    <strong>Asesoramiento</strong>
-                                    <div class="stars">★★★★★</div>
-                                </div>
-                            </div>
-                            <p class="testimonial-text">La experiencia del local ayuda a identificar piezas por camion, motor, codigo o muestra.</p>
-                        </article>
-                        <article class="testimonial-card">
-                            <div class="testimonial-header">
-                                <div class="avatar">3</div>
-                                <div>
-                                    <strong>Repuestos disponibles</strong>
-                                    <div class="stars">★★★★★</div>
-                                </div>
-                            </div>
-                            <p class="testimonial-text">Catalogo orientado a Mercedes Benz, Iveco, Ford, Scania, Volkswagen, Cummins y Sprinter.</p>
-                        </article>
-                        <article class="testimonial-card">
-                            <div class="testimonial-header">
-                                <div class="avatar">4</div>
-                                <div>
-                                    <strong>Retiro en local</strong>
-                                    <div class="stars">★★★★★</div>
-                                </div>
-                            </div>
-                            <p class="testimonial-text">Atencion presencial en Av Rioja Sur 931 para resolver consultas y retirar repuestos.</p>
-                        </article>
-                    </div>
-                </div>
-
-                <div class="testimonial-points" aria-label="Motivos de confianza">
-                    <div>
-                        <strong>Asesoramiento real</strong>
-                        <span>Te ayudamos a identificar la pieza correcta.</span>
-                    </div>
-                    <div>
-                        <strong>Atencion local</strong>
-                        <span>Av Rioja 931 Sur, San Juan.</span>
-                    </div>
-                    <div>
-                        <strong>Repuestos para trabajo</strong>
-                        <span>Mercedes Benz, Iveco, Ford, Scania y mas.</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="ubicacion" class="info-section">
-            <div class="container">
-                <h2 class="section-title">Dónde Encontrarnos</h2>
-                <div class="info-grid">
-                    <div class="info-details">
-                        <div class="info-item">
-                            <h3>Dirección</h3>
-                            <p>Av Rioja 931 Sur</p>
-                        </div>
-                        <div class="info-item">
-                            <h3>Contacto</h3>
-                            <p>Tel: 4220004</p>
-                            <p>Email: zabalarepuestos@gmail.com</p>
-                        </div>
-                        <div class="info-item">
-                            <h3>Horarios</h3>
-                            <p>Lunes a Viernes: 8:30 - 13:00 / 16:00 - 19:30</p>
-                            <p>Sábados: 9:00 - 13:00</p>
-                        </div>
-                        <div class="location-actions">
-                            <a class="location-action location-action-primary"
-                                href="https://www.google.com/maps/search/?api=1&query=Zabala+Repuestos+Av+Rioja+931+Sur+San+Juan"
-                                target="_blank" rel="noopener noreferrer">
-                                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-5.2 7-12a7 7 0 0 0-14 0c0 6.8 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.5"></circle></svg>
-                                Cómo llegar
-                            </a>
-                            <a class="location-action" href="https://wa.me/5492645859764" target="_blank"
-                                rel="noopener noreferrer">
-                                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-11.8 7L4 20l1.5-4.1A8 8 0 1 1 20 11.5Z"></path><path d="M9 9.5c.8 2 2 3.2 4 4"></path></svg>
-                                Consultar por WhatsApp
-                            </a>
-                        </div>
-                    </div>
-                    <div class="map-container">
-                        <!-- Placeholder for map since we can't easily embed a real interactive one without API key or external iframe limits, styling a nice box instead -->
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.2388649891336!2d-68.52327782340417!3d-31.545058602485245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a9f1715dc57%3A0x8c201e7b0a2d9853!2sZabala%20Repuestos!5e0!3m2!1ses-419!2sar!4v1766191594059!5m2!1ses-419!2sar"
-                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
-                            title="Mapa de ubicación de Zabala Repuestos">
-                        </iframe>
-                        <div class="map-overlay-hint">Av Rioja 931 Sur</div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <footer class="main-footer">
-        <div class="container">
-            <div class="footer-grid">
-                <div class="footer-col">
-                    <div class="logo">
-                        <h3>Zabala<span class="highlight">Repuestos</span></h3>
-                    </div>
-                    <p class="footer-desc">Tu aliado de confianza en repuestos para camiones. Calidad, garantía y trayectoria desde 1955 en San Juan.</p>
-                </div>
-                <div class="footer-col">
-                    <h4>Enlaces Rápidos</h4>
-                    <ul>
-                        <li><a href="#inicio">Inicio</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="nosotros.html">Nosotros</a></li>
-                        <li><a href="catalogo.html">Catálogo</a></li>
-                        <li><a href="cotizar.html">Cotizar</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>Contacto</h4>
-                    <ul>
-                        <li>📍 Av Rioja 931 Sur, San Juan</li>
-                        <li>📞 Tel: 4220004</li>
-                        <li>📱 WhatsApp: +54 9 264 585-9764</li>
-                        <li>✉️ zabalarepuestos@gmail.com</li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>Horarios</h4>
-                    <ul>
-                        <li>Lunes a Viernes:</li>
-                        <li>8:30 - 13:00 / 16:00 - 19:30</li>
-                        <li>Sábados:</li>
-                        <li>9:00 - 13:00</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2024 Zabala Repuestos. Todos los derechos reservados.</p>
-            </div>
+        <!-- Case 2 -->
+        <div style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); text-align: center; transition: all 0.3s;" onmouseover="this.style.borderColor='#a29bfe'; this.style.transform='translateY(-5px)';" onmouseout="this.style.borderColor='rgba(255,255,255,0.05)'; this.style.transform='none';">
+          <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(0, 184, 212, 0.1); color: #00d2d3; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin: 0 auto 1.5rem;">
+            <i class="fa-solid fa-scissors"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; color: var(--text-main); margin-bottom: 0.8rem;">Barber&iacute;as y Est&eacute;ticas</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.5;">Lleva un registro de los clientes que m&aacute;s te compran, anota tus servicios y mira tus d&iacute;as m&aacute;s rentables de la semana.</p>
         </div>
-    </footer>
 
-    <script src="main.js"></script>
+        <!-- Case 3 -->
+        <div style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); text-align: center; transition: all 0.3s;" onmouseover="this.style.borderColor='#a29bfe'; this.style.transform='translateY(-5px)';" onmouseout="this.style.borderColor='rgba(255,255,255,0.05)'; this.style.transform='none';">
+          <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(46, 213, 115, 0.1); color: #2ed573; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin: 0 auto 1.5rem;">
+            <i class="fa-solid fa-shirt"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; color: var(--text-main); margin-bottom: 0.8rem;">Tiendas de Ropa</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.5;">Genera recibos consolidados de varias prendas. Ingresa el nombre del cliente y sabe exactamente cu&aacute;ndo y qu&eacute; vendiste cada temporada.</p>
+        </div>
 
+        <!-- Case 4 -->
+        <div style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); text-align: center; transition: all 0.3s;" onmouseover="this.style.borderColor='#a29bfe'; this.style.transform='translateY(-5px)';" onmouseout="this.style.borderColor='rgba(255,255,255,0.05)'; this.style.transform='none';">
+          <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(255, 165, 2, 0.1); color: #ffa502; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin: 0 auto 1.5rem;">
+            <i class="fa-solid fa-laptop-code"></i>
+          </div>
+          <h3 style="font-size: 1.2rem; color: var(--text-main); margin-bottom: 0.8rem;">Freelancers</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.5;">Reemplaza tu documento de Excel antiguo. Controla tus contratos, suscripciones u honorarios y analiza tus gastos con el reporte mensual.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Ad Banner 1: After Features -->
+  <div class="ad-banner" aria-label="Publicidad">
+    <p class="ad-label">Publicidad</p>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6041920422141090" data-ad-slot="6763726885"
+      data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
+  <!-- Social Proof / Testimonials Section -->
+  <section id="testimonials" style="
+        padding: 5rem 0;
+        background-color: var(--bg-card);
+        border-top: 1px solid var(--border-color);
+      ">
+    <div class="container">
+      <div class="section-header" style="text-align: center; margin-bottom: 3.5rem">
+        <h2 style="
+              font-size: 2.5rem;
+              color: var(--text-main);
+              margin-bottom: 1rem;
+            ">
+          Confiado por emprendedores que valoran su tiempo
+        </h2>
+        <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto">
+          No pierdas una sola venta m&aacute;s por el desastre de los papeles.
+        </p>
+      </div>
+
+      <div class="testimonials-grid" style="
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+          ">
+        <!-- Testimonial 1 -->
+        <div class="testimonial-card" style="
+              background: var(--bg-main);
+              padding: 2rem;
+              border-radius: 12px;
+              border: 1px solid var(--border-color);
+              position: relative;
+            ">
+          <i class="fa-solid fa-quote-left" style="
+                color: var(--primary);
+                font-size: 2rem;
+                opacity: 0.2;
+                position: absolute;
+                top: 1.5rem;
+                right: 2rem;
+              "></i>
+          <div style="
+                display: flex;
+                gap: 0.3rem;
+                color: #ffc107;
+                margin-bottom: 1rem;
+              ">
+            <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+              class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+          </div>
+          <p style="
+                color: var(--text-muted);
+                font-size: 1.05rem;
+                line-height: 1.6;
+                margin-bottom: 1.5rem;
+                font-style: italic;
+              ">
+            "Usaba un viejo cuaderno para mi rotiser&iacute;a. Con Zaleasy la
+            calculadora de vueltos y saber por cu&aacute;l m&eacute;todo me pagaron cada
+            empanada es una locura de f&aacute;cil. Recomendado 100%."
+          </p>
+          <div style="display: flex; align-items: center; gap: 1rem">
+            <div style="
+                  width: 45px;
+                  height: 45px;
+                  border-radius: 50%;
+                  background: linear-gradient(
+                    135deg,
+                    var(--primary),
+                    var(--secondary)
+                  );
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  font-weight: bold;
+                  color: white;
+                ">
+              MC
+            </div>
+            <div>
+              <h4 style="color: var(--text-main); font-size: 1rem; margin: 0">
+                Mart&iacute;n C.
+              </h4>
+              <span style="color: var(--text-muted); font-size: 0.85rem">Due&ntilde;o de local Gastron&oacute;mico</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 2 -->
+        <div class="testimonial-card" style="
+              background: var(--primary);
+              padding: 2rem;
+              border-radius: 12px;
+              box-shadow: 0 10px 25px rgba(99, 102, 241, 0.2);
+              transform: translateY(-10px);
+            ">
+          <div style="
+                display: flex;
+                gap: 0.3rem;
+                color: #ffc107;
+                margin-bottom: 1rem;
+              ">
+            <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+              class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+          </div>
+          <p style="
+                color: white;
+                font-size: 1.05rem;
+                line-height: 1.6;
+                margin-bottom: 1.5rem;
+                font-weight: 500;
+              ">
+            "Cierro la caja de mi est&eacute;tica en 40 segundos, literal. Le muestro
+            los reportes en el celular a mis socias todas las noches desde mi
+            cama. El precio es ridiculamente barato para lo que te soluciona."
+          </p>
+          <div style="display: flex; align-items: center; gap: 1rem">
+            <div style="
+                  width: 45px;
+                  height: 45px;
+                  border-radius: 50%;
+                  background: white;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  font-weight: bold;
+                  color: var(--primary);
+                ">
+              LV
+            </div>
+            <div>
+              <h4 style="color: white; font-size: 1rem; margin: 0">
+                Luciana V.
+              </h4>
+              <span style="color: rgba(255, 255, 255, 0.8); font-size: 0.85rem">Centro de Est&eacute;tica</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 3 -->
+        <div class="testimonial-card" style="
+              background: var(--bg-main);
+              padding: 2rem;
+              border-radius: 12px;
+              border: 1px solid var(--border-color);
+              position: relative;
+            ">
+          <i class="fa-solid fa-quote-left" style="
+                color: var(--primary);
+                font-size: 2rem;
+                opacity: 0.2;
+                position: absolute;
+                top: 1.5rem;
+                right: 2rem;
+              "></i>
+          <div style="
+                display: flex;
+                gap: 0.3rem;
+                color: #ffc107;
+                margin-bottom: 1rem;
+              ">
+            <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+              class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i>
+          </div>
+          <p style="
+                color: var(--text-muted);
+                font-size: 1.05rem;
+                line-height: 1.6;
+                margin-bottom: 1.5rem;
+                font-style: italic;
+              ">
+            "Soy freelance de marketing y necesitaba algo puro para registrar
+            ingresos sin un ERP gigante ni planillas de Excel pesadas. Es
+            r&aacute;pido, tiene dark mode y la tabla de top-servicios es vital."
+          </p>
+          <div style="display: flex; align-items: center; gap: 1rem">
+            <div style="
+                  width: 45px;
+                  height: 45px;
+                  border-radius: 50%;
+                  background: var(--bg-card);
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  font-weight: bold;
+                  color: var(--text-main);
+                  border: 1px solid var(--border-color);
+                ">
+              FP
+            </div>
+            <div>
+              <h4 style="color: var(--text-main); font-size: 1rem; margin: 0">
+                Federico P.
+              </h4>
+              <span style="color: var(--text-muted); font-size: 0.85rem">Freelancer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust Banner -->
+  <section class="trust-banner" style="
+        background: linear-gradient(135deg, var(--bg-card), var(--bg-main));
+        padding: 3rem 0;
+        border-top: 1px solid var(--border-color);
+        border-bottom: 1px solid var(--border-color);
+        text-align: center;
+      ">
+    <div class="container" style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 4rem;
+          align-items: center;
+        ">
+      <div style="display: flex; align-items: center; gap: 1rem">
+        <div style="
+              width: 50px;
+              height: 50px;
+              border-radius: 12px;
+              background: rgba(46, 213, 115, 0.1);
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              font-size: 1.5rem;
+              color: var(--success);
+            ">
+          <i class="fa-solid fa-bolt"></i>
+        </div>
+        <div style="text-align: left">
+          <h4 style="color: var(--text-main); margin: 0; font-size: 1.1rem">
+            Cero Instalaciones
+          </h4>
+          <span style="color: var(--text-muted); font-size: 0.9rem">Funciona desde el navegador</span>
+        </div>
+      </div>
+
+      <div style="display: flex; align-items: center; gap: 1rem">
+        <div style="
+              width: 50px;
+              height: 50px;
+              border-radius: 12px;
+              background: rgba(99, 102, 241, 0.1);
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              font-size: 1.5rem;
+              color: var(--primary);
+            ">
+          <i class="fa-solid fa-fingerprint"></i>
+        </div>
+        <div style="text-align: left">
+          <h4 style="color: var(--text-main); margin: 0; font-size: 1.1rem">
+            Google Security
+          </h4>
+          <span style="color: var(--text-muted); font-size: 0.9rem">Tus finanzas cifradas</span>
+        </div>
+      </div>
+
+      <div style="display: flex; align-items: center; gap: 1rem">
+        <div style="
+              width: 50px;
+              height: 50px;
+              border-radius: 12px;
+              background: rgba(46, 213, 115, 0.1);
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              font-size: 1.5rem;
+              color: var(--success);
+            ">
+          <i class="fa-solid fa-heart"></i>
+        </div>
+        <div style="text-align: left">
+          <h4 style="color: var(--text-main); margin: 0; font-size: 1.1rem">
+            100% Gratuito
+          </h4>
+          <span style="color: var(--text-muted); font-size: 0.9rem">Financiado por Google Ads</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How It Works Section -->
+  <section id="how-it-works" class="how-it-works" style="padding: 5rem 0; background-color: var(--bg-main)">
+    <div class="container">
+      <div class="section-header" style="text-align: center; margin-bottom: 3rem">
+        <h2 style="
+              font-size: 2.5rem;
+              color: var(--text-main);
+              margin-bottom: 1rem;
+            ">
+          &iquest;C&oacute;mo funciona Zaleasy?
+        </h2>
+        <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto">
+          Tres simples pasos te separan de tener el control total de las
+          finanzas de tu emprendimiento.
+        </p>
+      </div>
+
+      <div class="steps-grid" style="
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            position: relative;
+          ">
+        <div class="step-card" style="
+              background: var(--bg-card);
+              padding: 2.5rem;
+              border-radius: 12px;
+              border: 1px solid var(--border-color);
+              text-align: center;
+              position: relative;
+            ">
+          <div class="step-number" style="
+                position: absolute;
+                top: -20px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 40px;
+                height: 40px;
+                background: var(--primary);
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 50%;
+                font-weight: bold;
+                font-size: 1.2rem;
+                border: 4px solid var(--bg-main);
+              ">
+            1
+          </div>
+          <div class="step-icon" style="font-size: 3rem; color: var(--primary); margin: 1.5rem 0">
+            <i class="fa-brands fa-google"></i>
+          </div>
+          <h3 style="
+                color: var(--text-main);
+                margin-bottom: 1rem;
+                font-size: 1.3rem;
+              ">
+            Inicia Sesi&oacute;n Segura
+          </h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem">
+            Entra con tu cuenta de Google en 1 clic. Tu informaci&oacute;n queda
+            respaldada en la nube privada de Firebase, no perder&aacute;s datos.
+          </p>
+        </div>
+
+        <div class="step-card" style="
+              background: var(--bg-card);
+              padding: 2.5rem;
+              border-radius: 12px;
+              border: 1px solid var(--border-color);
+              text-align: center;
+              position: relative;
+            ">
+          <div class="step-number" style="
+                position: absolute;
+                top: -20px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 40px;
+                height: 40px;
+                background: var(--primary);
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 50%;
+                font-weight: bold;
+                font-size: 1.2rem;
+                border: 4px solid var(--bg-main);
+              ">
+            2
+          </div>
+          <div class="step-icon" style="font-size: 3rem; color: var(--success); margin: 1.5rem 0">
+            <i class="fa-solid fa-cash-register"></i>
+          </div>
+          <h3 style="
+                color: var(--text-main);
+                margin-bottom: 1rem;
+                font-size: 1.3rem;
+              ">
+            Registra tu D&iacute;a
+          </h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem">
+            Anota ventas y gastos en segundos desde tu m&oacute;vil o PC. La app hace
+            las matem&aacute;ticas y te muestra gr&aacute;ficas en vivo.
+          </p>
+        </div>
+
+        <div class="step-card" style="
+              background: var(--bg-card);
+              padding: 2.5rem;
+              border-radius: 12px;
+              border: 1px solid var(--border-color);
+              text-align: center;
+              position: relative;
+            ">
+          <div class="step-number" style="
+                position: absolute;
+                top: -20px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 40px;
+                height: 40px;
+                background: var(--primary);
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 50%;
+                font-weight: bold;
+                font-size: 1.2rem;
+                border: 4px solid var(--bg-main);
+              ">
+            3
+          </div>
+          <div class="step-icon" style="font-size: 3rem; color: var(--warning); margin: 1.5rem 0">
+            <i class="fa-solid fa-lock"></i>
+          </div>
+          <h3 style="
+                color: var(--text-main);
+                margin-bottom: 1rem;
+                font-size: 1.3rem;
+              ">
+            Cierra y Descansa
+          </h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem">
+            Al terminar, toca "Cierre de Caja". El sistema guarda todo en el
+            historial perpetuo, exporta a CSV y te prepara para el siguiente
+            d&iacute;a.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section id="faq" class="faq" style="
+        padding: 5rem 0;
+        background-color: var(--bg-card);
+        border-top: 1px solid var(--border-color);
+        border-bottom: 1px solid var(--border-color);
+      ">
+    <div class="container" style="max-width: 800px">
+      <div class="section-header" style="text-align: center; margin-bottom: 3rem">
+        <h2 style="
+              font-size: 2.5rem;
+              color: var(--text-main);
+              margin-bottom: 1rem;
+            ">
+          Preguntas Frecuentes
+        </h2>
+        <p style="color: var(--text-muted)">
+          Resolvemos todas tus dudas sobre Zaleasy.
+        </p>
+      </div>
+
+      <div class="faq-list" style="display: flex; flex-direction: column; gap: 1rem">
+        <!-- QA 1 -->
+        <div class="faq-accordion" tabindex="0" role="button" aria-expanded="false">
+          <div class="faq-question">
+            <h4>&iquest;Realmente es gratis? &iquest;C&oacute;mo se financia?</h4>
+            <i class="fa-solid fa-chevron-down faq-icon"></i>
+          </div>
+          <div class="faq-answer">
+            <p>
+              S&iacute;, Zaleasy es 100% gratuito para todos los emprendedores. Nuestro
+              servicio se financia exclusivamente a trav&eacute;s de anuncios discretos
+              de Google AdSense, lo que nos permite mantener la plataforma
+              sostenible sin cobrarte absolutamente nada, nunca.
+            </p>
+          </div>
+        </div>
+        <!-- QA 2 -->
+        <div class="faq-accordion" tabindex="0" role="button" aria-expanded="false">
+          <div class="faq-question">
+            <h4>&iquest;Mis datos son privados? &iquest;Ustedes los ven?</h4>
+            <i class="fa-solid fa-chevron-down faq-icon"></i>
+          </div>
+          <div class="faq-answer">
+            <p>
+              Tu privacidad es absoluta. Zaleasy utiliza el sistema de
+              autenticaci&oacute;n de Google y los protocolos seguros de
+              infraestructura en la Nube. Adem&aacute;s de funcionar de manera
+              descentralizada con la memoria de tus dispositivos. Nadie puede
+              ver ni usar tus n&uacute;meros.
+            </p>
+          </div>
+        </div>
+        <!-- QA 3 -->
+        <div class="faq-accordion" tabindex="0" role="button" aria-expanded="false">
+          <div class="faq-question">
+            <h4>
+              &iquest;Puedo usarlo desde mi celular y mi computadora al mismo tiempo?
+            </h4>
+            <i class="fa-solid fa-chevron-down faq-icon"></i>
+          </div>
+          <div class="faq-answer">
+            <p>
+              &iexcl;Claro que s&iacute;! Zaleasy es responsivo y se adapta. Puedes
+              registrar ventas con el celular cuando est&aacute;s atendiendo en el
+              mostrador, y al final del d&iacute;a ingresar desde tu computadora
+              port&aacute;til para analizar los reportes grandes o exportar los
+              archivos a Excel para tu contador.
+            </p>
+          </div>
+        </div>
+        <!-- QA 4 (NEW) -->
+        <div class="faq-accordion" tabindex="0" role="button" aria-expanded="false">
+          <div class="faq-question">
+            <h4>&iquest;Puedo exportar mis ventas a Excel o CSV?</h4>
+            <i class="fa-solid fa-chevron-down faq-icon"></i>
+          </div>
+          <div class="faq-answer">
+            <p>
+              S&iacute;, con un solo clic. Tanto el historial de ventas del d&iacute;a como
+              el historial completo se pueden exportar en formato CSV, que es
+              directamente compatible con Excel, Google Sheets y cualquier
+              software contable. Tus datos siempre estar&aacute;n disponibles para
+              compartirlos con tu contador.
+            </p>
+          </div>
+        </div>
+        <!-- QA 5 (NEW) -->
+        <div class="faq-accordion" tabindex="0" role="button" aria-expanded="false">
+          <div class="faq-question">
+            <h4>&iquest;Tengo que pagar por nuevas actualizaciones?</h4>
+            <i class="fa-solid fa-chevron-down faq-icon"></i>
+          </div>
+          <div class="faq-answer">
+            <p>
+              &iexcl;Nunca! Al ser una plataforma financiada por publicidad de Google,
+              todas las nuevas funcionalidades, reportes y herramientas que
+              agreguemos estar&aacute;n disponibles para todos los usuarios de forma
+              gratuita. Crecemos junto a tu negocio sin costos extras.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Comparison Section -->
+  <section id="comparison" style="padding: 6rem 0; background-color: var(--bg-card); border-top: 1px solid var(--border-color);">
+    <div class="container" style="max-width: 1000px;">
+      <div class="section-header" style="text-align: center; margin-bottom: 3.5rem;">
+        <span style="background: rgba(255, 165, 2, 0.15); color: #ffa502; padding: 0.4rem 1.2rem; border-radius: 20px; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; display: inline-block; margin-bottom: 1rem; border: 1px solid rgba(255, 165, 2, 0.3);">
+          <i class="fa-solid fa-scale-balanced"></i> Comparativa
+        </span>
+        <h2 style="font-size: 2.8rem; color: var(--text-main); margin-bottom: 1rem; font-weight: 800; line-height: 1.2;">
+          Deja atr&aacute;s el <span style="color: #ff4757;">pasado</span>
+        </h2>
+        <p style="color: var(--text-muted); font-size: 1.1rem; margin: 0 auto; line-height: 1.6;">
+          Mira por qu&eacute; miles de emprendedores est&aacute;n abandonando las libretas y las hojas de c&aacute;lculo confusas.
+        </p>
+      </div>
+
+      <div style="overflow-x: auto; padding-bottom: 2rem;">
+        <table style="width: 100%; min-width: 700px; border-collapse: separate; border-spacing: 0; border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.2);">
+          <thead>
+            <tr>
+              <th style="padding: 1.5rem; text-align: left; background: var(--bg-main); border-bottom: 2px solid var(--border-color); color: var(--text-muted); font-size: 1.1rem; width: 40%;">Caracter&iacute;stica</th>
+              <th style="padding: 1.5rem; text-align: center; background: rgba(255, 71, 87, 0.05); border-bottom: 2px solid var(--border-color); color: var(--text-main); font-size: 1.1rem; width: 20%;"><i class="fa-solid fa-book-open" style="color: #ff4757; margin-bottom: 6px; display: block; font-size: 1.5rem;"></i> Cuaderno</th>
+              <th style="padding: 1.5rem; text-align: center; background: rgba(46, 213, 115, 0.05); border-bottom: 2px solid var(--border-color); color: var(--text-main); font-size: 1.1rem; width: 20%;"><i class="fa-solid fa-file-excel" style="color: #2ed573; margin-bottom: 6px; display: block; font-size: 1.5rem;"></i> Excel</th>
+              <th style="padding: 1.5rem; text-align: center; background: rgba(108, 92, 231, 0.1); border-bottom: 2px solid var(--primary); border-top: 2px solid var(--primary); color: #fff; font-size: 1.3rem; width: 20%; position: relative;"><div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: var(--primary);"></div><img src="assets/logo.png" alt="Zaleasy" style="width: 30px; height: 30px; border-radius: 50%; display: block; margin: 0 auto 6px;"> Zaleasy</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 1.2rem 1.5rem; background: var(--bg-main); border-bottom: 1px solid var(--border-color); color: var(--text-main); font-weight: 500;">Registro desde el Celular</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(255, 71, 87, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-xmark" style="color: #ff4757;"></i> Impersonal</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(46, 213, 115, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-triangle-exclamation" style="color: #ffa502;"></i> Dif&iacute;cil de leer</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(108, 92, 231, 0.05); border-bottom: 1px solid var(--border-color); border-left: 2px solid var(--primary); border-right: 2px solid var(--primary); font-weight: 700; color: #fff;"><i class="fa-solid fa-check" style="color: var(--success); margin-right: 6px;"></i> 100% Nativo</td>
+            </tr>
+            <tr>
+              <td style="padding: 1.2rem 1.5rem; background: var(--bg-main); border-bottom: 1px solid var(--border-color); color: var(--text-main); font-weight: 500;">C&aacute;lculo de balances/vueltos</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(255, 71, 87, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-xmark" style="color: #ff4757;"></i> Calculadora manual</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(46, 213, 115, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-triangle-exclamation" style="color: #ffa502;"></i> Requiere f&oacute;rmulas</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(108, 92, 231, 0.05); border-bottom: 1px solid var(--border-color); border-left: 2px solid var(--primary); border-right: 2px solid var(--primary); font-weight: 700; color: #fff;"><i class="fa-solid fa-bolt" style="color: #ffa502; margin-right: 6px;"></i> Instant&aacute;neo</td>
+            </tr>
+            <tr>
+              <td style="padding: 1.2rem 1.5rem; background: var(--bg-main); border-bottom: 1px solid var(--border-color); color: var(--text-main); font-weight: 500;">Gr&aacute;ficas de Venta Diarias</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(255, 71, 87, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-xmark" style="color: #ff4757;"></i> Imposible</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(46, 213, 115, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-triangle-exclamation" style="color: #ffa502;"></i> Deben configurarse</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(108, 92, 231, 0.05); border-bottom: 1px solid var(--border-color); border-left: 2px solid var(--primary); border-right: 2px solid var(--primary); font-weight: 700; color: #fff;"><i class="fa-solid fa-chart-column" style="color: #00d2d3; margin-right: 6px;"></i> Autom&aacute;ticas</td>
+            </tr>
+            <tr>
+              <td style="padding: 1.2rem 1.5rem; background: var(--bg-main); border-bottom: 1px solid var(--border-color); color: var(--text-main); font-weight: 500;">Seguridad y Respaldo de datos</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(255, 71, 87, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-fire" style="color: #ff4757;"></i> Se moja / Pierde</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(46, 213, 115, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);"><i class="fa-solid fa-triangle-exclamation" style="color: #ffa502;"></i> Disco duro / Local</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(108, 92, 231, 0.05); border-bottom: 1px solid var(--border-color); border-left: 2px solid var(--primary); border-right: 2px solid var(--primary); font-weight: 700; color: #fff;"><i class="fa-solid fa-cloud" style="color: #a29bfe; margin-right: 6px;"></i> Nube de Google</td>
+            </tr>
+            <tr>
+              <td style="padding: 1.2rem 1.5rem; background: var(--bg-main); border-bottom: 1px solid var(--border-color); color: var(--text-main); font-weight: 500; border-bottom-left-radius: 16px;">Precio</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(255, 71, 87, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);">$ 2 USD (F&iacute;sico)</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(46, 213, 115, 0.02); border-bottom: 1px solid var(--border-color); color: var(--text-muted);">$ 6 USD / mes</td>
+              <td style="padding: 1.2rem; text-align: center; background: rgba(108, 92, 231, 0.1); border-bottom: 2px solid var(--primary); border-left: 2px solid var(--primary); border-right: 2px solid var(--primary); border-bottom-right-radius: 16px; font-weight: 800; color: var(--success); font-size: 1.2rem;">GRATIS 100%</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Section -->
+  <section id="pricing" style="padding: 6rem 0; background-color: var(--bg-main); border-top: 1px solid var(--border-color);">
+    <div class="container" style="max-width: 900px;">
+      <div class="section-header" style="text-align: center; margin-bottom: 3.5rem;">
+        <span style="background: rgba(46, 213, 115, 0.15); color: var(--success); padding: 0.4rem 1.2rem; border-radius: 20px; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; display: inline-block; margin-bottom: 1rem; border: 1px solid rgba(46, 213, 115, 0.3);">
+          <i class="fa-solid fa-tag"></i> Planes y Precios
+        </span>
+        <h2 style="font-size: 2.8rem; color: var(--text-main); margin-bottom: 1rem; font-weight: 800; line-height: 1.2;">
+          El software de ventas <br/><span class="highlight">m&aacute;s accesible del mercado</span>
+        </h2>
+        <p style="color: var(--text-muted); font-size: 1.1rem; margin: 0 auto; line-height: 1.6;">
+          Sin tarjetas de cr&eacute;dito. Sin pruebas de 14 d&iacute;as. Sin complicaciones.
+        </p>
+      </div>
+
+      <div style="display: flex; justify-content: center;">
+        <div style="background: linear-gradient(135deg, var(--bg-card) 0%, rgba(108, 92, 231, 0.05) 100%); border: 1px solid rgba(108, 92, 231, 0.3); border-radius: 24px; padding: 3.5rem; width: 100%; max-width: 500px; box-shadow: 0 25px 50px rgba(0,0,0,0.3); text-align: center; position: relative; overflow: hidden; transform: translateY(-10px);">
+          
+          <!-- Ribbon -->
+          <div style="position: absolute; top: 20px; right: -40px; background: var(--success); color: white; padding: 0.5rem 4rem; transform: rotate(45deg); font-weight: 800; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; box-shadow: 0 5px 15px rgba(46, 213, 115, 0.3);">
+            Mejor Opci&oacute;n
+          </div>
+
+          <h3 style="font-size: 1.8rem; color: var(--text-main); margin-bottom: 0.5rem; font-weight: 700;">Plan "Emprendedor"</h3>
+          <p style="color: #a29bfe; font-weight: 600; margin-bottom: 2rem;">Todo lo que necesitas para operar</p>
+          
+          <div style="display: flex; justify-content: center; align-items: center; gap: 0.8rem; margin-bottom: 2.5rem;">
+            <span style="font-size: 2rem; color: rgba(255,255,255,0.2); font-weight: 600; text-decoration: line-through;">$29</span>
+            <span style="font-size: 4.5rem; color: var(--text-main); font-weight: 800; line-height: 1;">$0</span>
+            <span style="font-size: 1rem; color: var(--text-muted); font-weight: 500; align-self: flex-end; margin-bottom: 0.8rem;">/mes</span>
+          </div>
+
+          <a href="app.html" class="btn btn-primary btn-lg" style="width: 100%; font-size: 1.1rem; padding: 1.1rem; border-radius: 12px; margin-bottom: 2.5rem; box-shadow: 0 10px 25px rgba(108, 92, 231, 0.4);">
+            Crear Cuenta Gratis <i class="fa-solid fa-arrow-right" style="margin-left: 8px;"></i>
+          </a>
+
+          <div style="text-align: left; display: flex; flex-direction: column; gap: 1rem; margin: 0 auto; max-width: 320px;">
+            <div style="display: flex; align-items: flex-start; gap: 1rem; color: var(--text-muted);">
+              <i class="fa-solid fa-circle-check" style="color: var(--success); font-size: 1.2rem; margin-top: 2px;"></i>
+              <span style="font-size: 1.05rem;">Ventas y tickets ilimitados</span>
+            </div>
+            <div style="display: flex; align-items: flex-start; gap: 1rem; color: var(--text-muted);">
+              <i class="fa-solid fa-circle-check" style="color: var(--success); font-size: 1.2rem; margin-top: 2px;"></i>
+              <span style="font-size: 1.05rem;">Cierres de caja y balances</span>
+            </div>
+            <div style="display: flex; align-items: flex-start; gap: 1rem; color: var(--text-muted);">
+              <i class="fa-solid fa-circle-check" style="color: var(--success); font-size: 1.2rem; margin-top: 2px;"></i>
+              <span style="font-size: 1.05rem;">Reportes y Base de Clientes</span>
+            </div>
+            <div style="display: flex; align-items: flex-start; gap: 1rem; color: var(--text-muted);">
+              <i class="fa-solid fa-circle-check" style="color: var(--success); font-size: 1.2rem; margin-top: 2px;"></i>
+              <span style="font-size: 1.05rem;">Actualizaciones gratis para siempre</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Creator and Mission Section -->
+  <section id="creator" style="
+        padding: 5rem 0;
+        background-color: var(--bg-main);
+        border-top: 1px solid var(--border-color);
+      ">
+    <div class="container">
+      <div style="
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+          ">
+        <img src="assets/facundo.jpg" alt="Facundo Luis Zabala" loading="lazy" decoding="async" style="
+              width: 150px;
+              height: 150px;
+              border-radius: 50%;
+              object-fit: cover;
+              border: 4px solid var(--primary);
+              box-shadow: 0 10px 25px rgba(108, 92, 231, 0.3);
+              margin-bottom: 1.5rem;
+            " />
+        <h2 style="font-size: 2.2rem; color: var(--text-main); margin-bottom: 0.5rem;">
+          Facundo Luis Zabala
+        </h2>
+        <h4 style="color: var(--primary); margin-bottom: 1.5rem; font-weight: 600;">Creador de Zaleasy</h4>
+        <p style="color: var(--text-muted); font-size: 1.1rem; line-height: 1.8; margin-bottom: 2rem;">
+          "Mi misi&oacute;n es ayudar a que cada emprendedor tenga acceso a herramientas tecnol&oacute;gicas de primer nivel sin que
+          eso sea un obst&aacute;culo financiero. Cre&eacute; Zaleasy para democratizar el control del flujo de caja, con la visi&oacute;n de
+          que el &eacute;xito de tu negocio no deber&iacute;a depender de pagar costosas licencias. Es por eso que mantendremos esta
+          plataforma <strong>gratuita para siempre</strong>, sustentada por Google Ads para cubrir los servidores."
+        </p>
+        <a href="app.html" class="btn btn-primary btn-lg" style="
+              box-shadow: 0 10px 25px rgba(108, 92, 231, 0.4);
+              text-transform: uppercase;
+              font-weight: 800;
+              letter-spacing: 0.5px;
+              border-radius: 12px;
+              padding: 1.2rem 2.5rem;
+            ">
+          <i class="fa-solid fa-rocket" style="margin-right: 0.5rem"></i>
+          &Uacute;nete a la Revoluci&oacute;n Gratis
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest Blog Posts Section -->
+  <section style="padding: 5rem 0; background-color: var(--bg-main); border-top: 1px solid var(--border-color);">
+    <div class="container">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 3rem; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <h2 style="font-size: 2.2rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.5rem;">
+            &Uacute;ltimos del Blog
+          </h2>
+          <p style="color: var(--text-muted); font-size: 1.05rem;">
+            Estrategias de ventas y finanzas para hacer crecer tu negocio.
+          </p>
+        </div>
+        <a href="blog.html" style="color: var(--primary); font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; font-size: 1rem; transition: color 0.2s;" onmouseover="this.style.color='#a29bfe'" onmouseout="this.style.color='var(--primary)'">
+          Ver todos los art&iacute;culos <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
+        
+        <!-- Post 1: Costos por metodo de pago -->
+        <a href="Blog htmls/costos-por-metodo-pago.html" style="text-decoration: none;">
+          <article style="background: var(--bg-card); border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); overflow: hidden; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'; this.style.borderColor='rgba(108,92,231,0.3)';" onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.borderColor='rgba(255,255,255,0.05)';">
+            <div style="height: 200px; background: url('assets/Blog imagenes/costos-por-metodo-pago.png') center/cover;"></div>
+            <div style="padding: 1.6rem;">
+              <span style="background: var(--primary-light); color: #a29bfe; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Finanzas</span>
+              <h3 style="font-size: 1.15rem; font-weight: 700; margin: 0.9rem 0 0.5rem; line-height: 1.4; color: var(--text-main);">Costos por M&eacute;todo de Pago: C&oacute;mo Cobrar sin Perder Margen</h3>
+              <p style="color: var(--text-muted); font-size: 0.9rem; line-height: 1.6; margin-bottom: 1rem;">Compara comisiones, plazos y costos para que cada forma de cobro tenga un resultado visible.</p>
+              <span style="color: var(--primary); font-weight: 600; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 0.4rem;">Leer art&iacute;culo <i class="fa-solid fa-arrow-right" style="font-size: 0.8rem;"></i></span>
+            </div>
+          </article>
+        </a>
+
+        <!-- Post 2: Quiebres de stock -->
+        <a href="Blog htmls/quiebres-stock-ventas-perdidas.html" style="text-decoration: none;">
+          <article style="background: var(--bg-card); border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); overflow: hidden; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'; this.style.borderColor='rgba(108,92,231,0.3)';" onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.borderColor='rgba(255,255,255,0.05)';">
+            <div style="height: 200px; background: url('assets/Blog imagenes/quiebres-stock-ventas-perdidas.png') center/cover;"></div>
+            <div style="padding: 1.6rem;">
+              <span style="background: var(--primary-light); color: #a29bfe; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Inventario</span>
+              <h3 style="font-size: 1.15rem; font-weight: 700; margin: 0.9rem 0 0.5rem; line-height: 1.4; color: var(--text-main);">Quiebres de Stock: C&oacute;mo Medir Ventas Perdidas y Reponer Mejor</h3>
+              <p style="color: var(--text-muted); font-size: 0.9rem; line-height: 1.6; margin-bottom: 1rem;">Registra faltantes y demanda no atendida para ajustar reposici&oacute;n antes de perder clientes.</p>
+              <span style="color: var(--primary); font-weight: 600; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 0.4rem;">Leer art&iacute;culo <i class="fa-solid fa-arrow-right" style="font-size: 0.8rem;"></i></span>
+            </div>
+          </article>
+        </a>
+
+        <!-- Post 3: Clientes inactivos -->
+        <a href="Blog htmls/clientes-inactivos-recuperacion.html" style="text-decoration: none;">
+          <article style="background: var(--bg-card); border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); overflow: hidden; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'; this.style.borderColor='rgba(108,92,231,0.3)';" onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.borderColor='rgba(255,255,255,0.05)';">
+            <div style="height: 200px; background: url('assets/Blog imagenes/clientes-inactivos-recuperacion.png') center/cover;"></div>
+            <div style="padding: 1.6rem;">
+              <span style="background: var(--primary-light); color: #a29bfe; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Clientes</span>
+              <h3 style="font-size: 1.15rem; font-weight: 700; margin: 0.9rem 0 0.5rem; line-height: 1.4; color: var(--text-main);">Clientes Inactivos: C&oacute;mo Recuperar Ventas sin Enviar Mensajes Masivos</h3>
+              <p style="color: var(--text-muted); font-size: 0.9rem; line-height: 1.6; margin-bottom: 1rem;">Detecta ausencias, segmenta contactos y ofrece motivos relevantes para volver a conversar.</p>
+              <span style="color: var(--primary); font-weight: 600; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 0.4rem;">Leer art&iacute;culo <i class="fa-solid fa-arrow-right" style="font-size: 0.8rem;"></i></span>
+            </div>
+          </article>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Ad Banner 2: After Creator Section -->
+  <div class="ad-banner" aria-label="Publicidad">
+    <p class="ad-label">Publicidad</p>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6041920422141090" data-ad-slot="1410347919"
+      data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  <footer class="footer">
+    <div class="container footer-content">
+      <div class="footer-brand">
+        <img src="assets/logo-navbar.png" alt="Zaleasy Logo" loading="lazy" decoding="async" style="
+              height: 35px;
+              border-radius: 50%;
+              margin-bottom: 0.5rem;
+              display: block;
+            " />
+        <h3>Zaleasy</h3>
+        <p>
+          Haciendo la gesti&oacute;n financiera f&aacute;cil y accesible para todos los
+          emprendedores.
+        </p>
+      </div>
+      <div class="footer-links">
+        <h4>Enlaces &Uacute;tiles</h4>
+        <a href="app.html">Iniciar Sesi&oacute;n</a>
+        <a href="blog.html">Blog</a>
+        <a href="index.html#features">Caracter&iacute;sticas</a>
+        <a href="index.html#creator">Nuestra Misi&oacute;n</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Zaleasy. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+  </main>
+
+  <!-- Footer Script -->
+  <script>
+    // --- Mobile navigation ---
+    const mobileMenuButton = document.querySelector(".mobile-menu-btn");
+    const siteNavigation = document.querySelector(".nav-links");
+
+    if (mobileMenuButton && siteNavigation) {
+      mobileMenuButton.addEventListener("click", () => {
+        const isOpen = siteNavigation.classList.toggle("active");
+        mobileMenuButton.setAttribute("aria-expanded", String(isOpen));
+      });
+
+      siteNavigation.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => {
+          siteNavigation.classList.remove("active");
+          mobileMenuButton.setAttribute("aria-expanded", "false");
+        });
+      });
+    }
+
+    // --- FAQ Accordion ---
+    function toggleFaq(el) {
+      const isOpen = el.classList.contains("open");
+      document
+        .querySelectorAll(".faq-accordion.open")
+        .forEach((a) => {
+          a.classList.remove("open");
+          a.setAttribute("aria-expanded", "false");
+        });
+      if (!isOpen) {
+        el.classList.add("open");
+        el.setAttribute("aria-expanded", "true");
+      }
+    }
+
+    document.querySelectorAll(".faq-accordion").forEach((item) => {
+      item.addEventListener("click", () => toggleFaq(item));
+      item.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          toggleFaq(item);
+        }
+      });
+    });
+
+    // --- Animated Stats Counter ---
+    const animateStat = (el, target, suffix, duration) => {
+      const start = performance.now();
+      const tick = (now) => {
+        const elapsed = now - start;
+        const progress = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        const current = Math.round(target * eased);
+        const formatted =
+          current >= 1000000
+            ? (current / 1000000).toFixed(1) + "M"
+            : current >= 1000
+              ? current.toLocaleString("es-AR")
+              : current;
+        el.textContent = formatted + suffix;
+        if (progress < 1) requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+    };
+
+    const statsObserver = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const items = document.querySelectorAll(".stat-item");
+            items.forEach((item, i) => {
+              const target = parseInt(item.getAttribute("data-target"));
+              const suffix = item.getAttribute("data-suffix");
+              const el = item.querySelector(".stat-number");
+              setTimeout(
+                () => animateStat(el, target, suffix, 1200),
+                i * 150,
+              );
+            });
+            statsObserver.disconnect();
+          }
+        });
+      },
+      { threshold: 0.3 },
+    );
+
+    const statsSection = document.querySelector(".stats-section");
+    if (statsSection) statsObserver.observe(statsSection);
+  </script>
+
+  <div class="mobile-cta-bar" aria-label="Acceso r&aacute;pido">
+    <span>Controla tu caja hoy</span>
+    <a href="app.html" class="btn btn-primary">Empezar gratis</a>
+  </div>
+
+  <!-- Back to Top Button -->
+  <button id="back-to-top" aria-label="Volver arriba" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+    <i class="fa-solid fa-chevron-up"></i>
+  </button>
+  <script>
+    window.addEventListener('scroll', () => {
+      const btn = document.getElementById('back-to-top');
+      if (window.scrollY > 400) {
+        btn.classList.add('visible');
+      } else {
+        btn.classList.remove('visible');
+      }
+    }, { passive: true });
+  </script>
+  <script src="pwa.js?v=20260806-resilient-v1"></script>
 </body>
 
 </html>
+
 

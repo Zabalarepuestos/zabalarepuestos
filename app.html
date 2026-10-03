@@ -1,0 +1,2458 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar sesi&oacute;n | Zaleasy</title>
+    <meta name="description" content="Sistema premium para la gesti&oacute;n y seguimiento de ventas diarias.">
+    <meta name="theme-color" content="#0a0b10">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="apple-touch-icon" href="assets/logo-navbar.png">
+    <link rel="stylesheet" href="styles.css?v=20260825-intent-order-v11">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Firebase SDK (Version 10) -->
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+        import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged, signOut, signInWithEmailAndPassword, createUserWithEmailAndPassword, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-auth.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-analytics.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyC3jQvGOiL5JjTJHkAAE7UdyvcjodxrulU",
+            authDomain: "zaleasy.firebaseapp.com",
+            projectId: "zaleasy",
+            storageBucket: "zaleasy.firebasestorage.app",
+            messagingSenderId: "399486935842",
+            appId: "1:399486935842:web:3b925f75b6c6d184807b7b",
+            measurementId: "G-J40EPBT3FJ"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+        const auth = getAuth(app);
+        const provider = new GoogleAuthProvider();
+
+        window.firebaseAuth = auth;
+        window.firebaseProvider = provider;
+        window.firebaseSignIn = signInWithPopup;
+        window.firebaseSignOut = signOut;
+        window.firebaseOnAuth = onAuthStateChanged;
+        window.firebaseSignInWithEmail = signInWithEmailAndPassword;
+        window.firebaseCreateUserWithEmail = createUserWithEmailAndPassword;
+        window.firebaseSendPasswordResetEmail = sendPasswordResetEmail;
+    </script>
+
+  <link rel="icon" type="image/png" href="assets/logo-navbar.png" />
+  <link rel="shortcut icon" type="image/png" href="assets/logo-navbar.png" />
+  <link rel="apple-touch-icon" href="assets/logo-navbar.png" />
+</head>
+
+<body>
+    <div class="bg-animated"></div>
+    <a class="app-skip-link auth-skip-link" href="#auth-email">Saltar al acceso</a>
+
+    <!-- Auth Screen Layout -->
+    <div id="auth-screen" class="auth-container" role="main" aria-labelledby="auth-intro-title">
+        <div class="auth-shell">
+            <section class="auth-intro" aria-labelledby="auth-intro-title">
+                <span class="auth-eyebrow"><i class="fa-solid fa-sparkles" aria-hidden="true"></i> Gesti&oacute;n simple para negocios reales</span>
+                <h1 id="auth-intro-title">Todo tu negocio claro, desde un solo lugar.</h1>
+                <p class="auth-intro-copy">Registra lo que vendes, entiende tu caja y detecta qu&eacute; necesita atenci&oacute;n sin depender de planillas dispersas.</p>
+
+                <ul class="auth-benefits" aria-label="Beneficios principales de Zaleasy">
+                    <li><span><i class="fa-solid fa-bolt" aria-hidden="true"></i></span><div><strong>Opera m&aacute;s r&aacute;pido</strong><small>Ventas y gastos listos en pocos pasos.</small></div></li>
+                    <li><span><i class="fa-solid fa-layer-group" aria-hidden="true"></i></span><div><strong>Centraliza tu gesti&oacute;n</strong><small>Caja, clientes, inventario y seguimiento conectados.</small></div></li>
+                    <li><span><i class="fa-solid fa-chart-line" aria-hidden="true"></i></span><div><strong>Decide con contexto</strong><small>Reportes, alertas y pr&oacute;ximas acciones visibles.</small></div></li>
+                </ul>
+
+                <div class="auth-preview" aria-label="Vista ilustrativa del panel de Zaleasy">
+                    <div class="auth-preview-head">
+                        <span><i class="fa-solid fa-table-cells-large" aria-hidden="true"></i> Resumen del negocio</span>
+                        <small>Ejemplo</small>
+                    </div>
+                    <div class="auth-preview-grid">
+                        <div><span class="auth-preview-icon income"><i class="fa-solid fa-arrow-trend-up" aria-hidden="true"></i></span><small>Ventas de hoy</small><strong>$184.500</strong></div>
+                        <div><span class="auth-preview-icon cash"><i class="fa-solid fa-wallet" aria-hidden="true"></i></span><small>Caja neta</small><strong>$151.200</strong></div>
+                        <div><span class="auth-preview-icon stock"><i class="fa-solid fa-boxes-stacked" aria-hidden="true"></i></span><small>Stock cr&iacute;tico</small><strong>2 alertas</strong></div>
+                    </div>
+                </div>
+
+                <div class="auth-trust-row" aria-label="Condiciones de acceso">
+                    <span><i class="fa-solid fa-circle-check" aria-hidden="true"></i> Gratis de por vida</span>
+                    <span><i class="fa-solid fa-circle-check" aria-hidden="true"></i> Sin tarjeta</span>
+                    <span><i class="fa-solid fa-shield-halved" aria-hidden="true"></i> Acceso seguro</span>
+                </div>
+            </section>
+
+            <div class="auth-card card">
+            <div class="brand auth-brand">
+                <div class="logo-icon">
+                    <i class="fa-solid fa-chart-line"></i>
+                </div>
+                <h2>Zaleasy</h2>
+            </div>
+            <p class="auth-subtitle">Inicia sesi&oacute;n para gestionar tus ventas en la nube.</p>
+
+            <div class="auth-fast-entry">
+                <button type="button" id="btn-local-demo" class="auth-demo-button">
+                    <span><i class="fa-solid fa-laptop" aria-hidden="true"></i> Explorar sin cuenta</span>
+                    <small>Prueba la app ahora · datos solo en este dispositivo</small>
+                </button>
+            </div>
+            <div class="auth-account-divider" aria-hidden="true"><span>o accede con tu cuenta</span></div>
+
+            <form id="email-auth-form" class="auth-email-form">
+                <div class="auth-field">
+                    <label for="auth-email">Correo electr&oacute;nico</label>
+                    <div class="input-wrapper auth-input-wrapper">
+                        <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+                        <input type="email" id="auth-email" placeholder="tu@negocio.com" required autocomplete="email"
+                            aria-describedby="auth-form-feedback">
+                    </div>
+                </div>
+                <div class="auth-field">
+                    <label for="auth-password">Contrase&ntilde;a</label>
+                    <div class="input-wrapper auth-input-wrapper">
+                        <i class="fa-solid fa-lock" aria-hidden="true"></i>
+                        <input type="password" id="auth-password" placeholder="Tu contrase&ntilde;a" required
+                            minlength="6" autocomplete="current-password" aria-describedby="auth-form-feedback">
+                        <button type="button" class="auth-password-toggle" id="auth-password-toggle"
+                            aria-label="Mostrar contrase&ntilde;a" aria-pressed="false">
+                            <i class="fa-regular fa-eye" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="auth-form-options">
+                    <button type="button" class="auth-link-button" id="btn-forgot-password">&iquest;Olvidaste tu contrase&ntilde;a?</button>
+                </div>
+                <p class="auth-form-feedback" id="auth-form-feedback" role="status" aria-live="polite" hidden></p>
+                <div class="auth-actions">
+                    <button type="submit" id="btn-email-login" class="btn btn-primary btn-block auth-btn">
+                        Iniciar Sesi&oacute;n
+                    </button>
+                    <button type="button" id="btn-email-register" class="btn btn-outline btn-block auth-btn">
+                        Registrarse
+                    </button>
+                </div>
+            </form>
+
+            <div style="display: flex; align-items: center; margin: 1rem 0;">
+                <hr style="flex: 1; border: none; border-top: 1px solid var(--border-color);">
+                <span style="padding: 0 0.8rem; color: var(--text-muted); font-size: 0.9rem;">o</span>
+                <hr style="flex: 1; border: none; border-top: 1px solid var(--border-color);">
+            </div>
+
+            <button id="btn-google-login" class="btn btn-outline btn-block auth-btn"
+                style="border-color: var(--border-color); color: var(--text-main);">
+                <i class="fa-brands fa-google" style="color: #4285F4;"></i> Continuar con Google
+            </button>
+            <p class="auth-note"><i class="fa-solid fa-shield-halved"></i> Acceso seguro y cifrado</p>
+            <a class="auth-resource-link" href="blog.html">
+                <i class="fa-regular fa-compass" aria-hidden="true"></i>
+                <span><strong>&iquest;Primera vez en Zaleasy?</strong> Explora gu&iacute;as pr&aacute;cticas para empezar.</span>
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+            </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Free Access Notice -->
+    <div id="trial-screen" class="auth-container" style="display: none;" role="main" aria-labelledby="trial-title" aria-hidden="true" inert>
+        <div class="auth-card card" style="max-width: 480px;">
+            <div class="brand auth-brand">
+                <div class="logo-icon">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+                <h2 id="trial-title">Acceso gratuito</h2>
+            </div>
+            <p class="auth-subtitle" id="trial-text" style="margin-bottom: 2rem;">Zaleasy es gratis de por vida. No necesitas suscripci&oacute;n ni tarjeta para gestionar tus ventas.</p>
+
+            <button id="btn-continue-trial" class="btn btn-outline btn-block">
+                Entrar a la Aplicaci&oacute;n <i class="fa-solid fa-arrow-right"></i>
+            </button>
+            <p class="auth-note"><a href="#" id="logout-trial" style="color:var(--text-muted);"><i
+                        class="fa-solid fa-right-from-bracket"></i> Cambiar de cuenta</a></p>
+        </div>
+    </div>
+    <div class="app-container" id="main-app" style="display: none;" aria-hidden="true" inert>
+        <a class="app-skip-link" href="#app-main-content">Saltar al contenido de la app</a>
+        <p class="app-sr-only" id="app-route-status" role="status" aria-live="polite" aria-atomic="true"></p>
+        <!-- Sidebar Overlay -->
+        <div class="sidebar-overlay" id="sidebar-overlay"></div>
+        <!-- Sidebar -->
+        <aside class="sidebar" id="app-sidebar">
+            <div class="brand">
+                <img src="assets/logo-navbar.png" alt="Zaleasy Logo"
+                    style="height: 38px; border-radius: 20%; margin-right: 0.5rem; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+                <div style="display: flex; align-items: center; gap: 0.4rem; overflow: hidden;">
+                    <h2 id="sidebar-brand-name"
+                        style="margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Zaleasy</h2>
+                    <button type="button" class="btn-icon" id="edit-sidebar-brand" title="Editar nombre del negocio" aria-label="Editar nombre del negocio"
+                        style="padding: 0; width: auto; height: auto; background: none; border: none; cursor: pointer;">
+                        <i class="fa-solid fa-pen" style="font-size: 0.8rem; color: var(--text-muted);" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+
+            <nav class="nav-menu">
+                <a href="#inicio" class="nav-item active" id="nav-dashboard" aria-current="page">
+                    <i class="fa-solid fa-house"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#historial" class="nav-item" id="nav-historial">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                    <span>Historial</span>
+                    <span class="nav-indicator" id="nav-historial-badge" aria-hidden="true" hidden>0</span>
+                </a>
+                <a href="#reportes" class="nav-item" id="nav-reportes">
+                    <i class="fa-solid fa-chart-pie"></i>
+                    <span>Reportes</span>
+                </a>
+                <a href="#clientes" class="nav-item" id="nav-clientes">
+                    <i class="fa-solid fa-address-book"></i>
+                    <span>Clientes</span>
+                    <span class="nav-indicator danger" id="nav-clientes-badge" aria-hidden="true" hidden>0</span>
+                </a>
+                <a href="#inventario" class="nav-item" id="nav-inventario">
+                    <i class="fa-solid fa-boxes-stacked"></i>
+                    <span>Inventario</span>
+                    <span class="nav-indicator warning" id="nav-inventario-badge" aria-hidden="true" hidden>0</span>
+                </a>
+                <a href="#configuracion" class="nav-item" id="nav-config">
+                    <i class="fa-solid fa-gear"></i>
+                    <span>Configuraci&oacute;n</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="sidebar-mobile-tools" aria-label="Herramientas de la jornada">
+                    <button type="button" id="mobile-share-summary">
+                        <i class="fa-solid fa-share-nodes" aria-hidden="true"></i>
+                        <span>Compartir resumen</span>
+                    </button>
+                    <button type="button" id="mobile-close-register">
+                        <i class="fa-solid fa-cash-register" aria-hidden="true"></i>
+                        <span>Cierre de caja</span>
+                    </button>
+                    <button type="button" id="mobile-account-actions">
+                        <i class="fa-solid fa-user" aria-hidden="true"></i>
+                        <span>Cuenta</span>
+                    </button>
+                </div>
+                <a class="sidebar-resource-link" id="sidebar-learning-link" href="blog.html">
+                    <span class="sidebar-resource-icon"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i></span>
+                    <span><strong id="sidebar-learning-title">Gu&iacute;as para tu operaci&oacute;n</strong><small id="sidebar-learning-description">Consejos para vender y organizar mejor</small></span>
+                    <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                </a>
+                <div class="license-info">
+                    <i class="fa-solid fa-heart" style="color: var(--danger, #ff4757)"></i>
+                    <div class="license-text">
+                        <p class="plan">Plan Gratuito</p>
+                        <p class="price">100% Gratis de por vida</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content" id="app-main-content" tabindex="-1" aria-labelledby="dynamic-greeting">
+            <header class="top-header">
+                <div class="header-left" style="min-width: 0;">
+                    <div style="display: flex; align-items: center; gap: 0.8rem; margin-bottom: 0.4rem; flex-wrap: wrap;">
+                        <button id="mobile-menu-btn" class="btn-icon hide-desktop" type="button"
+                            aria-label="Abrir menu de navegacion" aria-expanded="false" aria-controls="app-sidebar"
+                            style="display: none; font-size: 1.4rem; color: var(--text-main); background: none; border: none; padding: 0;">
+                            <i class="fa-solid fa-bars"></i>
+                        </button>
+                        <h1 id="dynamic-greeting" style="margin: 0; font-size: 1.4rem; line-height: 1.2;">Dashboard de Ventas</h1>
+                    </div>
+                    <div style="display:flex; align-items:center; gap:0.6rem; flex-wrap: wrap;">
+                        <p id="current-date" style="margin: 0;">Cargando fecha...</p>
+                        <span id="live-clock" class="live-clock"></span>
+                    </div>
+                </div>
+                <div class="global-search" id="global-search">
+                    <i class="fa-solid fa-magnifying-glass global-search-icon" aria-hidden="true"></i>
+                    <input type="search" id="global-search-input" placeholder="Buscar o ejecutar una accion..."
+                        autocomplete="off" aria-label="Buscar en toda la aplicacion" aria-expanded="false"
+                        aria-controls="global-search-results" aria-autocomplete="list" aria-keyshortcuts="Control+K Meta+K" />
+                    <kbd class="global-search-shortcut" aria-hidden="true">Ctrl K</kbd>
+                    <button type="button" class="global-search-clear" id="global-search-clear" title="Limpiar busqueda" aria-label="Limpiar busqueda" hidden>
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                    <div class="global-search-panel" id="global-search-panel" hidden>
+                        <div class="global-search-panel-head">
+                            <span id="global-search-status">Acciones y secciones</span>
+                            <small id="global-search-count"></small>
+                        </div>
+                        <div class="global-search-results" id="global-search-results" role="listbox" aria-label="Resultados de busqueda"></div>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <div class="local-demo-indicator" id="local-demo-indicator" hidden>
+                        <span><i class="fa-solid fa-laptop" aria-hidden="true"></i><strong>Modo local</strong></span>
+                        <small>Sin sincronizaci&oacute;n</small>
+                        <button type="button" id="btn-exit-local-demo" aria-label="Salir del modo local">Salir</button>
+                    </div>
+                    <div class="header-quick-actions" aria-label="Acciones operativas">
+                        <div class="notification-center" id="notification-center">
+                            <button type="button" class="notification-trigger" id="notification-trigger"
+                                aria-label="Abrir centro de alertas" aria-expanded="false" aria-controls="notification-panel"
+                                title="Alertas operativas">
+                                <i class="fa-regular fa-bell"></i>
+                                <span class="notification-count" id="notification-count" hidden>0</span>
+                            </button>
+                            <div class="notification-panel" id="notification-panel" hidden>
+                                <div class="notification-panel-head">
+                                    <div>
+                                        <span class="notification-kicker">Centro operativo</span>
+                                        <h2>Alertas y prioridades</h2>
+                                    </div>
+                                    <span class="badge" id="notification-status">Todo al d&iacute;a</span>
+                                </div>
+                                <p class="notification-summary" id="notification-summary">No hay acciones urgentes en este momento.</p>
+                                <div class="notification-list" id="notification-list"></div>
+                                <button type="button" class="notification-review" id="notification-review">
+                                    <span>Ver plan completo del d&iacute;a</span><i class="fa-solid fa-arrow-right"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <button class="btn btn-outline" id="btn-share-summary" aria-label="Compartir resumen del d&iacute;a"
+                            title="Compartir resumen del d&iacute;a" style="gap:.4rem;">
+                            <i class="fa-solid fa-share-nodes"></i> <span class="hide-mobile">Compartir</span>
+                        </button>
+                        <button class="btn btn-outline btn-close-register" id="btn-close-register"
+                            aria-label="Abrir cierre de caja" title="Abrir cierre de caja">
+                            <i class="fa-solid fa-cash-register"></i> <span class="hide-mobile">Cierre de Caja</span>
+                        </button>
+                        <button class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema" title="Cambiar tema">
+                            <i class="fa-solid fa-moon"></i>
+                        </button>
+                    </div>
+                    <div class="user-profile" id="user-profile-btn" style="cursor:pointer;"
+                        title="Cerrar Sesi&oacute;n">
+                        <img id="user-avatar" src="https://ui-avatars.com/api/?name=Admin&background=0D8ABC&color=fff"
+                            alt="User Profile">
+                    </div>
+                </div>
+            </header>
+
+            <div id="view-dashboard" class="dashboard-wrapper">
+                <section class="dashboard-viewbar" aria-labelledby="dashboard-view-title">
+                    <div class="dashboard-viewbar-copy">
+                        <span class="dashboard-viewbar-kicker"><i class="fa-solid fa-table-columns"></i> Tablero personalizable</span>
+                        <h2 id="dashboard-view-title">Vista del tablero</h2>
+                        <p id="dashboard-view-description">Lo esencial para registrar movimientos y decidir qu&eacute; atender hoy.</p>
+                    </div>
+                    <div class="dashboard-view-controls" id="dashboard-view-controls" role="group" aria-label="Elegir contenido del tablero">
+                        <button type="button" class="dashboard-view-option active" data-dashboard-view="summary" aria-pressed="true">
+                            <i class="fa-solid fa-gauge-high"></i><span>Resumen</span>
+                        </button>
+                        <button type="button" class="dashboard-view-option" data-dashboard-view="operation" aria-pressed="false">
+                            <i class="fa-solid fa-list-check"></i><span>Operaci&oacute;n</span>
+                        </button>
+                        <button type="button" class="dashboard-view-option" data-dashboard-view="analysis" aria-pressed="false">
+                            <i class="fa-solid fa-chart-line"></i><span>An&aacute;lisis</span>
+                        </button>
+                        <button type="button" class="dashboard-view-option" data-dashboard-view="all" aria-pressed="false">
+                            <i class="fa-solid fa-border-all"></i><span>Todo</span>
+                        </button>
+                    </div>
+                    <span class="dashboard-view-count" id="dashboard-view-count" aria-live="polite">0 secciones</span>
+                </section>
+                <div class="dashboard-grid">
+                    <!-- KPI Cards -->
+                    <div class="kpi-cards">
+                        <div class="card kpi-card">
+                            <div class="kpi-icon revenue">
+                                <i class="fa-solid fa-arrow-trend-up"></i>
+                            </div>
+                            <div class="kpi-details">
+                                <h3>Ingresos del D&iacute;a</h3>
+                                <p class="kpi-value" id="kpi-revenue">$0.00</p>
+                                <span class="kpi-trend" id="kpi-trend-revenue"></span>
+                            </div>
+                        </div>
+                        <div class="card kpi-card">
+                            <div class="kpi-icon sales">
+                                <i class="fa-solid fa-cart-shopping"></i>
+                            </div>
+                            <div class="kpi-details">
+                                <h3>Ventas Hoy</h3>
+                                <p class="kpi-value" id="kpi-sales-count">0</p>
+                                <span class="kpi-trend" id="kpi-trend-count"></span>
+                            </div>
+                        </div>
+                        <div class="card kpi-card">
+                            <div class="kpi-icon"
+                                style="background:var(--danger-light); color:var(--danger); box-shadow: 0 4px 15px rgba(232, 67, 147, 0.2);">
+                                <i class="fa-solid fa-arrow-trend-down"></i>
+                            </div>
+                            <div class="kpi-details">
+                                <h3>Gastos del D&iacute;a</h3>
+                                <p class="kpi-value" id="kpi-expenses" style="color: var(--danger);">$0.00</p>
+                                <span class="kpi-trend" id="kpi-trend-expenses"></span>
+                            </div>
+                        </div>
+                        <div class="card kpi-card">
+                            <div class="kpi-icon avg">
+                                <i class="fa-solid fa-scale-balanced"></i>
+                            </div>
+                            <div class="kpi-details">
+                                <h3>Balance Neto</h3>
+                                <p class="kpi-value" id="kpi-balance">$0.00</p>
+                                <span class="kpi-trend" id="kpi-trend-balance"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Smart Shortcuts -->
+                    <div class="card smart-shortcuts-card" id="smart-shortcuts-card">
+                        <div class="smart-shortcuts-head">
+                            <div>
+                                <span class="smart-shortcuts-kicker"><i class="fa-solid fa-bolt"></i> Accesos inteligentes</span>
+                                <h2>Atajos para operar sin perder tiempo</h2>
+                                <p id="smart-shortcuts-summary">Zaleasy ordenar&aacute; tus acciones principales seg&uacute;n caja, clientes, stock y pendientes.</p>
+                            </div>
+                            <span class="badge" id="smart-shortcuts-badge">Listo</span>
+                        </div>
+                        <div class="smart-shortcuts-grid" id="smart-shortcuts-grid" aria-label="Accesos rapidos del tablero">
+                            <button type="button" class="smart-shortcut" data-action="sale">
+                                <span class="smart-shortcut-icon"><i class="fa-solid fa-plus"></i></span>
+                                <span><strong>Venta</strong><small>Registrar ingreso</small></span>
+                            </button>
+                            <button type="button" class="smart-shortcut" data-action="expense">
+                                <span class="smart-shortcut-icon"><i class="fa-solid fa-receipt"></i></span>
+                                <span><strong>Gasto</strong><small>Registrar salida</small></span>
+                            </button>
+                            <button type="button" class="smart-shortcut" data-action="clients">
+                                <span class="smart-shortcut-icon"><i class="fa-solid fa-users"></i></span>
+                                <span><strong>Clientes</strong><small>Cobros y saldos</small></span>
+                            </button>
+                            <button type="button" class="smart-shortcut" data-action="inventory">
+                                <span class="smart-shortcut-icon"><i class="fa-solid fa-boxes-stacked"></i></span>
+                                <span><strong>Stock</strong><small>Revisar alertas</small></span>
+                            </button>
+                            <button type="button" class="smart-shortcut" data-action="followups">
+                                <span class="smart-shortcut-icon"><i class="fa-solid fa-calendar-check"></i></span>
+                                <span><strong>Pendientes</strong><small>Agenda operativa</small></span>
+                            </button>
+                            <button type="button" class="smart-shortcut" data-action="close">
+                                <span class="smart-shortcut-icon"><i class="fa-solid fa-cash-register"></i></span>
+                                <span><strong>Cierre</strong><small>Controlar caja</small></span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Secondary Metrics Strip -->
+                    <div class="secondary-metrics-strip" id="secondary-metrics-strip">
+                        <div class="sec-metric" id="sec-ticket-avg">
+                            <div class="sec-metric-icon" style="background:rgba(124,111,240,0.1);color:var(--primary)">
+                                <i class="fa-solid fa-receipt"></i>
+                            </div>
+                            <div class="sec-metric-body">
+                                <span class="sec-metric-label">Ticket Promedio</span>
+                                <span class="sec-metric-value" id="val-ticket-avg">$0.00</span>
+                            </div>
+                        </div>
+                        <div class="sec-metric-divider"></div>
+                        <div class="sec-metric" id="sec-clients">
+                            <div class="sec-metric-icon" style="background:rgba(0,203,164,0.1);color:var(--success)">
+                                <i class="fa-solid fa-users"></i>
+                            </div>
+                            <div class="sec-metric-body">
+                                <span class="sec-metric-label">Clientes Hoy</span>
+                                <span class="sec-metric-value" id="val-clients">0</span>
+                            </div>
+                        </div>
+                        <div class="sec-metric-divider"></div>
+                        <div class="sec-metric" id="sec-margin">
+                            <div class="sec-metric-icon" style="background:rgba(255,214,110,0.1);color:var(--warning)">
+                                <i class="fa-solid fa-percent"></i>
+                            </div>
+                            <div class="sec-metric-body">
+                                <span class="sec-metric-label">Margen Neto</span>
+                                <span class="sec-metric-value" id="val-margin">0%</span>
+                            </div>
+                        </div>
+                        <div class="sec-metric-divider"></div>
+                        <div class="sec-metric" id="sec-cash">
+                            <div class="sec-metric-icon" style="background:rgba(232,67,147,0.1);color:var(--danger)">
+                                <i class="fa-solid fa-money-bill-wave"></i>
+                            </div>
+                            <div class="sec-metric-body" style="width: 100%;">
+                                <div
+                                    style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                                    <span class="sec-metric-label">Efectivo en Caja
+                                        <button type="button" class="btn-icon" id="edit-cash-base"
+                                            title="Editar monto inicial en caja" aria-label="Editar monto inicial en caja"
+                                            style="padding: 0; width: auto; height: auto; margin-left: 5px; background: none; border: none; cursor: pointer;">
+                                            <i class="fa-solid fa-pen" aria-hidden="true"
+                                                style="font-size: 0.8rem; color: var(--text-muted);"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                                <span class="sec-metric-value" id="val-cash">$0.00</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Setup Checklist -->
+                    <div class="card setup-checklist-card" id="setup-checklist-card">
+                        <div class="setup-checklist-head">
+                            <div>
+                                <div class="card-header setup-checklist-title">
+                                    <h2><i class="fa-solid fa-list-check"></i> Primeros pasos</h2>
+                                    <span class="badge" id="setup-checklist-badge">0/5 listo</span>
+                                </div>
+                                <p id="setup-checklist-subtitle">Completa lo esencial para que Zaleasy trabaje mejor con tus datos.</p>
+                            </div>
+                            <button type="button" class="setup-checklist-toggle" id="setup-checklist-toggle"
+                                aria-label="Contraer configuracion inicial" aria-expanded="true" aria-controls="setup-checklist-grid">
+                                <i class="fa-solid fa-chevron-up" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                        <div class="setup-progress-track" aria-hidden="true">
+                            <div class="setup-progress-fill" id="setup-progress-fill"></div>
+                        </div>
+                        <div class="setup-checklist-grid" id="setup-checklist-grid">
+                            <button type="button" class="setup-step" data-step="store">
+                                <i class="fa-solid fa-store"></i>
+                                <span>Nombre del negocio</span>
+                            </button>
+                            <button type="button" class="setup-step" data-step="goal">
+                                <i class="fa-solid fa-bullseye"></i>
+                                <span>Meta diaria real</span>
+                            </button>
+                            <button type="button" class="setup-step" data-step="catalog">
+                                <i class="fa-solid fa-boxes-stacked"></i>
+                                <span>Cat&aacute;logo inicial</span>
+                            </button>
+                            <button type="button" class="setup-step" data-step="cash">
+                                <i class="fa-solid fa-cash-register"></i>
+                                <span>Base de caja</span>
+                            </button>
+                            <button type="button" class="setup-step" data-step="sale">
+                                <i class="fa-solid fa-receipt"></i>
+                                <span>Primera venta</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Daily Pulse Insight -->
+                    <div class="card daily-pulse-card" id="daily-pulse-card">
+                        <div class="daily-pulse-main">
+                            <div class="daily-pulse-icon" id="daily-pulse-icon">
+                                <i class="fa-solid fa-compass"></i>
+                            </div>
+                            <div class="daily-pulse-copy">
+                                <div class="card-header daily-pulse-header">
+                                    <h2>Pulso del D&iacute;a</h2>
+                                    <span class="badge" id="daily-pulse-badge">Listo para empezar</span>
+                                </div>
+                                <p id="daily-pulse-text">Registra tu primera venta o gasto para recibir una recomendaci&oacute;n concreta.</p>
+                            </div>
+                        </div>
+                        <div class="daily-pulse-actions" aria-label="Acciones sugeridas">
+                            <button type="button" class="daily-pulse-action" id="pulse-action-primary">
+                                <i class="fa-solid fa-plus"></i>
+                                <span>Registrar venta</span>
+                            </button>
+                            <button type="button" class="daily-pulse-action" id="pulse-action-secondary">
+                                <i class="fa-solid fa-pen-clip"></i>
+                                <span>Anotar pendiente</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Accounts Receivable Snapshot -->
+                    <div class="card receivables-card" id="receivables-card">
+                        <div class="receivables-copy">
+                            <div class="card-header receivables-header">
+                                <h2><i class="fa-solid fa-hand-holding-dollar"></i> Cuentas por Cobrar</h2>
+                                <span class="badge" id="receivables-count">0 clientes</span>
+                            </div>
+                            <p class="receivables-amount" id="receivables-total">$0.00</p>
+                            <p class="receivables-detail" id="receivables-detail">Sin saldos pendientes registrados.</p>
+                        </div>
+                        <div class="receivables-actions">
+                            <button type="button" class="receivables-action primary" id="receivables-open-clients">
+                                <i class="fa-solid fa-address-book"></i>
+                                <span>Ver clientes</span>
+                            </button>
+                            <button type="button" class="receivables-action" id="receivables-register-payment">
+                                <i class="fa-solid fa-circle-check"></i>
+                                <span>Registrar cobro</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Low Stock Snapshot -->
+                    <div class="card stock-alert-card" id="stock-alert-card">
+                        <div class="stock-alert-copy">
+                            <div class="card-header stock-alert-header">
+                                <h2><i class="fa-solid fa-box-open"></i> Alerta de Stock</h2>
+                                <span class="badge" id="stock-alert-badge">Sin stock cargado</span>
+                            </div>
+                            <p id="stock-alert-text">Carga productos con stock para recibir alertas autom&aacute;ticas.</p>
+                            <div class="stock-alert-list" id="stock-alert-list"></div>
+                        </div>
+                        <div class="stock-alert-actions">
+                            <button type="button" class="stock-alert-action primary" id="stock-alert-open-inventory">
+                                <i class="fa-solid fa-boxes-stacked"></i>
+                                <span>Ver inventario</span>
+                            </button>
+                            <button type="button" class="stock-alert-action" id="stock-alert-add-product">
+                                <i class="fa-solid fa-plus"></i>
+                                <span>Nuevo producto</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Action Center -->
+                    <div class="card action-center-card" id="action-center-card">
+                        <div class="card-header action-center-header">
+                            <div>
+                                <h2><i class="fa-solid fa-wand-magic-sparkles"></i> Centro de Acciones</h2>
+                                <p id="action-center-subtitle">Prioridades generadas con tus ventas, caja, clientes e inventario.</p>
+                            </div>
+                            <span class="badge" id="action-center-badge">0 acciones</span>
+                        </div>
+                        <div class="action-center-list" id="action-center-list"></div>
+                    </div>
+
+                    <!-- Daily Plan -->
+                    <div class="card daily-plan-card" id="daily-plan-card">
+                        <div class="card-header daily-plan-header">
+                            <div>
+                                <h2><i class="fa-solid fa-clipboard-check"></i> Plan del D&iacute;a</h2>
+                                <p id="daily-plan-subtitle">Checklist operativo generado con el estado real del negocio.</p>
+                            </div>
+                            <span class="badge" id="daily-plan-badge">0/0 listo</span>
+                        </div>
+                        <div class="daily-plan-progress" aria-hidden="true">
+                            <span id="daily-plan-progress-fill"></span>
+                        </div>
+                        <div class="daily-plan-list" id="daily-plan-list"></div>
+                    </div>
+
+                    <!-- Due Radar -->
+                    <div class="card due-radar-card" id="due-radar-card">
+                        <div class="card-header">
+                            <div>
+                                <h2><i class="fa-solid fa-tower-broadcast"></i> Radar de vencimientos</h2>
+                                <p id="due-radar-summary">Anticipa seguimientos, cobros y gastos antes de que se acumulen.</p>
+                            </div>
+                            <span class="badge" id="due-radar-badge">0 urgentes</span>
+                        </div>
+                        <div class="due-radar-timeline" id="due-radar-timeline"></div>
+                        <div class="due-radar-empty" id="due-radar-empty">
+                            <i class="fa-regular fa-circle-check"></i>
+                            <p>Sin vencimientos cercanos.</p>
+                            <span>Agrega seguimientos o gastos recurrentes para verlos ordenados por prioridad.</span>
+                        </div>
+                        <div class="due-radar-actions">
+                            <button type="button" class="btn btn-outline" id="due-radar-add-followup">
+                                <i class="fa-solid fa-calendar-plus"></i> Nuevo seguimiento
+                            </button>
+                            <button type="button" class="btn btn-outline" id="due-radar-add-recurring">
+                                <i class="fa-solid fa-receipt"></i> Gasto recurrente
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Operational Health -->
+                    <div class="card operational-health-card" id="operational-health-card">
+                        <div class="operational-health-main">
+                            <div class="health-score-ring" id="health-score-ring" style="--score: 0;">
+                                <strong id="health-score-value">0</strong>
+                                <span>salud</span>
+                            </div>
+                            <div class="operational-health-copy">
+                                <div class="card-header operational-health-header">
+                                    <h2><i class="fa-solid fa-heart-pulse"></i> Sem&aacute;foro Operativo</h2>
+                                    <span class="badge" id="health-status-badge">Calculando</span>
+                                </div>
+                                <p id="health-summary-text">Zaleasy evaluar&aacute; ventas, caja, cobros, stock y respaldo para indicar qu&eacute; atender primero.</p>
+                            </div>
+                        </div>
+                        <div class="health-metrics-grid" id="health-metrics-grid"></div>
+                    </div>
+
+                    <!-- Data Quality Auditor -->
+                    <div class="card data-quality-card" id="data-quality-card">
+                        <div class="data-quality-header">
+                            <div>
+                                <h2><i class="fa-solid fa-clipboard-question"></i> Auditor de Datos</h2>
+                                <p id="data-quality-summary">Detecta datos incompletos que pueden afectar reportes, clientes, stock y decisiones de cierre.</p>
+                            </div>
+                            <span class="badge" id="data-quality-badge">Calculando</span>
+                        </div>
+                        <div class="data-quality-grid" id="data-quality-grid"></div>
+                    </div>
+
+                    <!-- Closing Forecast -->
+                    <div class="card closing-forecast-card" id="closing-forecast-card">
+                        <div class="card-header closing-forecast-header">
+                            <div>
+                                <h2><i class="fa-solid fa-chart-simple"></i> Pron&oacute;stico de Cierre</h2>
+                                <p id="closing-forecast-subtitle">Proyecci&oacute;n del d&iacute;a seg&uacute;n tu ritmo actual de ventas.</p>
+                            </div>
+                            <label class="closing-hour-control">
+                                <span>Cierre</span>
+                                <select id="closing-hour-select" aria-label="Hora de cierre">
+                                    <option value="18">18:00</option>
+                                    <option value="19">19:00</option>
+                                    <option value="20">20:00</option>
+                                    <option value="21">21:00</option>
+                                    <option value="22">22:00</option>
+                                    <option value="23">23:00</option>
+                                </select>
+                            </label>
+                        </div>
+                        <div class="closing-forecast-grid">
+                            <div class="closing-forecast-main" data-tone="neutral" id="closing-forecast-main">
+                                <span id="closing-forecast-label">Proyectado</span>
+                                <strong id="closing-forecast-projected">$0.00</strong>
+                                <small id="closing-forecast-status">Carga movimientos para calcular el cierre.</small>
+                            </div>
+                            <div class="closing-forecast-metric">
+                                <span>Falta para meta</span>
+                                <strong id="closing-forecast-gap">$0.00</strong>
+                            </div>
+                            <div class="closing-forecast-metric">
+                                <span>Ritmo necesario</span>
+                                <strong id="closing-forecast-pace">$0.00/h</strong>
+                            </div>
+                            <div class="closing-forecast-metric">
+                                <span>Balance estimado</span>
+                                <strong id="closing-forecast-balance">$0.00</strong>
+                            </div>
+                        </div>
+                        <p class="closing-forecast-advice" id="closing-forecast-advice">Cuando registres ventas, Zaleasy estimar&aacute; si llegas a la meta antes del cierre.</p>
+                        <div class="closing-forecast-actions">
+                            <button type="button" class="btn btn-primary" id="closing-forecast-sale">
+                                <i class="fa-solid fa-plus"></i> Venta
+                            </button>
+                            <button type="button" class="btn btn-outline" id="closing-forecast-expense">
+                                <i class="fa-solid fa-minus"></i> Gasto
+                            </button>
+                            <button type="button" class="btn btn-outline" id="closing-forecast-close">
+                                <i class="fa-solid fa-cash-register"></i> Cierre
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Goal & Chart (new row) -->
+                    <div class="charts-row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+                        <div class="card goal-card">
+                            <div class="card-header">
+                                <h2>Meta Diaria</h2>
+                                <button type="button" class="btn-icon" id="edit-goal" title="Editar meta" aria-label="Editar meta diaria"><i
+                                        class="fa-solid fa-pen" aria-hidden="true"></i></button>
+                            </div>
+                            <div class="goal-info">
+                                <span id="goal-progress-text">$0.00 / $100.00</span>
+                                <span class="badge" id="goal-percentage">0%</span>
+                            </div>
+                            <div class="progress-bar-container">
+                                <div class="progress-bar" id="goal-progress-bar"></div>
+                            </div>
+                            <p class="goal-subtitle">Progreso hacia el objetivo de hoy</p>
+                            <!-- Monthly Projection -->
+                            <div class="monthly-projection" id="monthly-projection" style="display:none;">
+                                <i class="fa-solid fa-chart-line"></i>
+                                <span id="monthly-projection-text">Proyectando...</span>
+                            </div>
+                        </div>
+                        <div class="card streak-card" id="streak-card">
+                            <div class="card-header">
+                                <h2>Racha Activa</h2>
+                                <span id="streak-badge" class="badge">🔥</span>
+                            </div>
+                            <div class="streak-display">
+                                <span class="streak-number" id="streak-count">0</span>
+                                <span class="streak-label">d&iacute;as seguidos<br>con ventas</span>
+                            </div>
+                            <p class="goal-subtitle" id="streak-subtitle">&iexcl;Registra una venta hoy para comenzar!
+                            </p>
+                        </div>
+                        <!-- Top Product Widget -->
+                        <div class="card top-product-card">
+                            <div class="card-header">
+                                <h2>🏆 Top Hoy</h2>
+                            </div>
+                            <div id="top-product-content" class="top-product-content">
+                                <p class="top-product-name" id="top-product-name">Sin datos</p>
+                                <p class="top-product-amount" id="top-product-amount">$0.00</p>
+                                <span class="top-product-count" id="top-product-count">0 ventas</span>
+                            </div>
+                        </div>
+                        <div class="card chart-card">
+                            <div class="card-header">
+                                <h2>Ingresos por M&eacute;todo</h2>
+                            </div>
+                            <div class="chart-container">
+                                <canvas id="methodsChart"></canvas>
+                            </div>
+                        </div>
+                        <!-- Peak Hour Widget -->
+                        <div class="card peak-hour-card">
+                            <div class="card-header">
+                                <h2>⏰ Hora Pico</h2>
+                                <span class="badge" id="peak-hour-badge">—</span>
+                            </div>
+                            <div id="peak-hour-bars" class="peak-hour-bars">
+                                <!-- 24 mini bars rendered by JS -->
+                            </div>
+                            <p class="goal-subtitle" id="peak-hour-subtitle">Registra ventas para ver tu hora m&aacute;s
+                                activa.</p>
+                        </div>
+                    </div>
+
+                    <!-- Weekly Summary + Quick Products + Activity Feed Row -->
+                    <div class="charts-row" style="grid-template-columns: 2fr 1fr 1.2fr; grid-column: 1 / -1;">
+                        <!-- Weekly Bar Chart Widget -->
+                        <div class="card weekly-summary-card">
+                            <div class="card-header">
+                                <h2><i class="fa-solid fa-calendar-week"
+                                        style="color:var(--primary);margin-right:.4rem;"></i>Resumen de la Semana</h2>
+                                <span class="badge" id="weekly-best-day-badge">—</span>
+                            </div>
+                            <div id="weekly-bars-container" class="weekly-bars-container">
+                                <!-- 7 day bars rendered by JS -->
+                            </div>
+                            <div class="weekly-legend">
+                                <span class="weekly-legend-dot income-dot"></span><span>Ingresos</span>
+                                <span class="weekly-legend-dot expense-dot"></span><span>Gastos</span>
+                            </div>
+                        </div>
+                        <!-- Quick Products Widget -->
+                        <div class="card quick-products-card">
+                            <div class="card-header">
+                                <h2><i class="fa-solid fa-bolt"
+                                        style="color:var(--warning);margin-right:.4rem;"></i>Productos R&aacute;pidos
+                                </h2>
+                                <span class="badge">Click para agregar</span>
+                            </div>
+                            <p style="font-size:.8rem;color:var(--text-muted);margin-bottom:.8rem;">Tus productos
+                                m&aacute;s
+                                usados. Click para agregar al formulario.</p>
+                            <div id="quick-products-chips" class="quick-products-chips">
+                                <!-- Rendered by JS -->
+                            </div>
+                            <div id="quick-products-empty" class="quick-products-empty" style="display:none;">
+                                <i class="fa-solid fa-box-open"></i>
+                                <p>A&uacute;n no hay productos registrados.</p>
+                            </div>
+                        </div>
+                        <!-- Live Activity Feed Widget -->
+                        <div class="card activity-feed-card">
+                            <div class="card-header">
+                                <h2><i class="fa-solid fa-bolt-lightning"
+                                        style="color:var(--success);margin-right:.4rem;"></i>Actividad Reciente</h2>
+                                <span class="badge" id="activity-feed-count">0 hoy</span>
+                            </div>
+                            <div id="activity-feed-list" class="activity-feed-list">
+                                <!-- Rendered by JS -->
+                            </div>
+                            <div id="activity-feed-empty" class="activity-feed-empty">
+                                <i class="fa-regular fa-clock"></i>
+                                <p>Sin actividad a&uacute;n hoy</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Week vs Last Week Comparison Card (full width) -->
+                    <div class="card" id="week-vs-lastweek-card" style="grid-column: 1 / -1; padding: 1.5rem 2rem;">
+                        <div class="card-header" style="margin-bottom: 1.2rem;">
+                            <h2><i class="fa-solid fa-arrows-left-right" style="color:var(--primary);margin-right:.5rem;"></i>Esta Semana vs. Semana Pasada</h2>
+                            <span class="badge" id="wvw-status-badge">Calculando...</span>
+                        </div>
+                        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1.5rem; align-items: center;">
+                            <!-- This week -->
+                            <div style="text-align: center;">
+                                <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.3rem; text-transform: uppercase; letter-spacing: 0.05em;">Esta semana</p>
+                                <p id="wvw-this-week" style="font-size: 2rem; font-weight: 800; color: var(--text-main); margin: 0;">$0.00</p>
+                            </div>
+                            <!-- Trend indicator -->
+                            <div style="text-align: center;">
+                                <div id="wvw-trend-icon" style="font-size: 2.5rem; line-height: 1;">→</div>
+                                <p id="wvw-diff-text" style="font-size: 1rem; font-weight: 700; margin: 0.3rem 0 0; color: var(--text-muted);">—</p>
+                            </div>
+                            <!-- Last week -->
+                            <div style="text-align: center;">
+                                <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.3rem; text-transform: uppercase; letter-spacing: 0.05em;">Semana pasada</p>
+                                <p id="wvw-last-week" style="font-size: 2rem; font-weight: 800; color: var(--text-muted); margin: 0;">$0.00</p>
+                            </div>
+                            <!-- Progress bar -->
+                            <div style="grid-column: 1 / -1;">
+                                <div style="display: flex; justify-content: space-between; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">
+                                    <span>Progreso relativo</span>
+                                    <span id="wvw-pct-label">0%</span>
+                                </div>
+                                <div style="height: 8px; background: var(--bg-hover); border-radius: 99px; overflow: hidden;">
+                                    <div id="wvw-progress-bar" style="height: 100%; width: 0%; background: var(--primary); border-radius: 99px; transition: width 0.8s ease;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Notepad Widget (full-width row) -->
+                    <div class="card notepad-card" style="grid-column: 1 / -1;">
+                        <div class="card-header" style="margin-bottom:.8rem;">
+                            <h2><i class="fa-solid fa-pen-clip"
+                                    style="color:var(--warning);margin-right:.4rem;"></i>Notas del D&iacute;a</h2>
+                            <span id="notepad-saved-indicator"
+                                style="font-size:.75rem; color:var(--success); opacity:0; transition:opacity .5s;"><i
+                                    class="fa-solid fa-check"></i> Guardado</span>
+                        </div>
+                        <textarea id="day-notepad" aria-label="Notas y pendientes del dia"
+                            placeholder="Anota recordatorios, pendientes o cualquier cosa del d&iacute;a..." rows="2"
+                            style="width:100%; resize:vertical; background:var(--bg-hover); border:1px solid var(--border-color); border-radius:var(--radius-sm); color:var(--text-main); font-family:inherit; font-size:.92rem; padding:.8rem 1rem; outline:none; line-height:1.6; transition:border-color .2s;"></textarea>
+                    </div>
+
+                    <!-- Follow-up Agenda -->
+                    <div class="card followups-card" id="followups-card">
+                        <div class="card-header">
+                            <div>
+                                <h2><i class="fa-solid fa-calendar-check"></i> Seguimientos</h2>
+                                <p id="followups-summary">Organiza cobros, reposiciones, llamadas y tareas del negocio.</p>
+                            </div>
+                            <span class="badge" id="followups-badge">0 pendientes</span>
+                        </div>
+                        <form id="followup-form" class="followup-form">
+                            <div class="input-wrapper followup-title-wrap">
+                                <i class="fa-solid fa-list-check"></i>
+                                <input type="text" id="followup-title" aria-label="Descripcion del seguimiento" placeholder="Ej: llamar a cliente, reponer stock, revisar gasto..." required>
+                            </div>
+                            <select id="followup-type" aria-label="Tipo de seguimiento">
+                                <option value="general">General</option>
+                                <option value="cobro">Cobro</option>
+                                <option value="stock">Stock</option>
+                                <option value="cliente">Cliente</option>
+                                <option value="caja">Caja</option>
+                            </select>
+                            <input type="date" id="followup-date" aria-label="Fecha del seguimiento">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fa-solid fa-plus"></i> Agregar
+                            </button>
+                        </form>
+                        <div class="followup-list" id="followup-list"></div>
+                        <div class="followup-empty" id="followup-empty">
+                            <i class="fa-regular fa-circle-check"></i>
+                            <p>Sin pendientes activos.</p>
+                        </div>
+                    </div>
+
+                    <!-- Recurring Expenses -->
+                    <div class="card recurring-card" id="recurring-card">
+                        <div class="card-header">
+                            <div>
+                                <h2><i class="fa-solid fa-repeat"></i> Gastos Recurrentes</h2>
+                                <p id="recurring-summary">Controla alquiler, servicios, sueldos, suscripciones o proveedores fijos.</p>
+                            </div>
+                            <span class="badge" id="recurring-badge">0 activos</span>
+                        </div>
+                        <form id="recurring-form" class="recurring-form">
+                            <div class="input-wrapper recurring-title-wrap">
+                                <i class="fa-solid fa-receipt"></i>
+                                <input type="text" id="recurring-name" aria-label="Nombre del gasto recurrente" placeholder="Ej: alquiler, internet, proveedor mensual..." required>
+                            </div>
+                            <input type="number" id="recurring-amount" min="0" step="0.01" placeholder="Monto" aria-label="Monto del gasto recurrente" required>
+                            <select id="recurring-frequency" aria-label="Frecuencia del gasto recurrente">
+                                <option value="monthly">Mensual</option>
+                                <option value="weekly">Semanal</option>
+                                <option value="daily">Diario</option>
+                            </select>
+                            <input type="date" id="recurring-next-date" aria-label="Proxima fecha del gasto recurrente">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fa-solid fa-plus"></i> Agregar
+                            </button>
+                        </form>
+                        <div class="recurring-list" id="recurring-list"></div>
+                        <div class="recurring-empty" id="recurring-empty">
+                            <i class="fa-regular fa-calendar"></i>
+                            <p>Sin gastos recurrentes cargados.</p>
+                        </div>
+                    </div>
+
+                    <!-- Pricing Margin Simulator -->
+                    <div class="card margin-simulator-card" id="margin-simulator-card">
+                        <div class="card-header margin-simulator-header">
+                            <div>
+                                <h2><i class="fa-solid fa-tags"></i> Precio y Margen</h2>
+                                <p id="margin-simulator-summary">Calcula precio sugerido, ganancia y margen antes de vender.</p>
+                            </div>
+                            <span class="badge" id="margin-simulator-badge">Simulador</span>
+                        </div>
+                        <div class="margin-simulator-grid">
+                            <div class="input-wrapper margin-field-wide">
+                                <i class="fa-solid fa-box"></i>
+                                <input type="text" id="margin-product-name" aria-label="Producto o servicio para simular" placeholder="Producto o servicio" list="products-datalist">
+                            </div>
+                            <label class="margin-field">
+                                <span>Costo</span>
+                                <input type="number" id="margin-cost" min="0" step="0.01" placeholder="0.00">
+                            </label>
+                            <label class="margin-field">
+                                <span>Margen deseado</span>
+                                <input type="number" id="margin-target" min="0" max="95" step="0.1" placeholder="35">
+                            </label>
+                            <label class="margin-field">
+                                <span>Precio final</span>
+                                <input type="number" id="margin-price" min="0" step="0.01" placeholder="0.00">
+                            </label>
+                        </div>
+                        <div class="margin-simulator-results">
+                            <div>
+                                <span>Ganancia</span>
+                                <strong id="margin-profit">$0.00</strong>
+                            </div>
+                            <div>
+                                <span>Margen real</span>
+                                <strong id="margin-real">0%</strong>
+                            </div>
+                            <div>
+                                <span>Markup</span>
+                                <strong id="margin-markup">0%</strong>
+                            </div>
+                        </div>
+                        <p class="margin-simulator-advice" id="margin-simulator-advice">Ingresa costo y margen para obtener un precio sugerido.</p>
+                        <div class="margin-simulator-actions">
+                            <button type="button" class="btn btn-primary" id="margin-apply-sale">
+                                <i class="fa-solid fa-arrow-right"></i> Usar en venta
+                            </button>
+                            <button type="button" class="btn btn-outline" id="margin-save-product">
+                                <i class="fa-solid fa-boxes-stacked"></i> Guardar en inventario
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Add Sale Form -->
+                    <div class="card form-section">
+                        <div class="card-header">
+                            <h2>Nueva Transacci&oacute;n</h2>
+                            <span class="badge" id="transaction-draft-status">Nuevo</span>
+                        </div>
+                        <form id="sale-form" class="sale-form">
+                            <div class="transaction-type-toggle"
+                                style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem;">
+                                <button type="button" class="btn btn-primary type-btn" data-type="income"
+                                    style="flex: 1;" id="btn-type-income">Ingreso / Venta</button>
+                                <button type="button" class="btn btn-outline type-btn" data-type="expense"
+                                    style="flex: 1;" id="btn-type-expense">A&ntilde;adir Gasto</button>
+                            </div>
+                            <!-- Customer Name -->
+                            <div class="form-group">
+                                <label for="customer-name">Cliente <span
+                                        style="color:var(--text-muted);font-weight:400;">(opcional)</span></label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-user"></i>
+                                    <input type="text" id="customer-name"
+                                        placeholder="Ej: Juan Garc&iacute;a, Empresa XYZ..."
+                                        style="padding-left:2.5rem;">
+                                </div>
+                            </div>
+                            <!-- Multi-Item List -->
+                            <div class="form-group">
+                                <label
+                                    style="display:flex; justify-content:space-between; align-items:center; margin-bottom:.6rem;">
+                                    <span>Productos / &Iacute;tems</span>
+                                    <button type="button" id="btn-add-item" class="btn-add-item">
+                                        <i class="fa-solid fa-circle-plus"></i> Agregar &iacute;tem
+                                    </button>
+                                </label>
+                                 <div id="items-container" class="items-container">
+                                     <!-- Item rows injected by JS -->
+                                 </div>
+                             </div>
+                            <div class="form-group">
+                                <label for="method">M&eacute;todo de Pago</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-credit-card"></i>
+                                    <select id="method">
+                                        <option value="Efectivo">💵 Efectivo</option>
+                                        <option value="Tarjeta">💳 Tarjeta de Cr&eacute;dito/D&eacute;bito</option>
+                                        <option value="Transferencia">🏦 Transferencia</option>
+                                        <option value="MercadoPago">📱 MercadoPago</option>
+                                        <option value="A Cobrar" style="color:var(--danger); font-weight: bold;">📝 Fiado / Por Cobrar</option>
+                                        <option value="Pago de Deuda" style="color:var(--success); font-weight: bold;">✅ Cobro de Deuda</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="notes">Notas / Observaciones <span
+                                        style="color:var(--text-muted);font-weight:400;">(opcional)</span></label>
+                                 <div class="input-wrapper">
+                                     <i class="fa-solid fa-note-sticky"></i>
+                                     <input type="text" id="notes" placeholder="Ej: Cliente VIP, descuento aplicado..."
+                                         style="padding-left:2.5rem;">
+                                 </div>
+                             </div>
+                             <section class="transaction-review" aria-label="Resumen de la transacci&oacute;n"
+                                 aria-live="polite">
+                                 <div class="transaction-review-header">
+                                     <div>
+                                         <span class="transaction-review-eyebrow"><i
+                                                 class="fa-solid fa-shield-check"></i> Revisi&oacute;n final</span>
+                                         <h3>Resumen de la operaci&oacute;n</h3>
+                                     </div>
+                                     <button type="button" class="transaction-clear-btn" id="btn-clear-transaction"
+                                         title="Limpiar el formulario" aria-label="Limpiar el formulario">
+                                         <i class="fa-solid fa-rotate-left"></i> <span>Limpiar</span>
+                                     </button>
+                                 </div>
+                                 <div class="transaction-review-grid">
+                                     <div class="transaction-review-item">
+                                         <span>Tipo</span>
+                                         <strong id="transaction-review-type">Ingreso</strong>
+                                     </div>
+                                     <div class="transaction-review-item">
+                                         <span>&Iacute;tems listos</span>
+                                         <strong id="transaction-review-items">0 de 1</strong>
+                                     </div>
+                                     <div class="transaction-review-item">
+                                         <span>M&eacute;todo</span>
+                                         <strong id="transaction-review-method">Efectivo</strong>
+                                     </div>
+                                     <div class="transaction-review-item transaction-review-total">
+                                         <span>Total</span>
+                                         <strong id="transaction-review-total">$0.00</strong>
+                                     </div>
+                                 </div>
+                                 <p class="transaction-review-status" id="transaction-review-status"
+                                     data-state="incomplete">
+                                     <i class="fa-solid fa-circle-info"></i>
+                                     <span>Completa la descripci&oacute;n y el monto del primer &iacute;tem.</span>
+                                 </p>
+                             </section>
+                             <div class="quick-actions">
+                                <button type="button" class="btn btn-outline quick-amount" data-amount="1000">+
+                                    $1.000</button>
+                                <button type="button" class="btn btn-outline quick-amount" data-amount="5000">+
+                                    $5.000</button>
+                                <button type="button" class="btn btn-outline quick-amount" data-amount="10000">+
+                                    $10.000</button>
+                            </div>
+                            <div class="form-actions-row" style="display:flex; gap: 0.8rem; flex-wrap: wrap;">
+                                <button type="button" class="btn btn-outline" id="btn-generate-quote" style="flex: 1; min-width: 140px;" title="Generar un presupuesto en PDF sin afectar la caja">
+                                    <i class="fa-solid fa-file-invoice"></i> Presupuesto
+                                </button>
+                                <button type="submit" class="btn btn-primary" style="flex: 2; min-width: 140px;" id="btn-submit-transaction">
+                                    <i class="fa-solid fa-plus"></i> Registrar Venta
+                                </button>
+                                <button type="button" class="btn btn-outline" id="btn-calculator" style="flex: 0; min-width: 60px; padding: 0 1rem;" title="Calculadora de vuelto">
+                                    <i class="fa-solid fa-calculator"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+
+                    <!-- Recent Sales List -->
+                    <div class="card list-section">
+                        <div class="card-header">
+                            <h2>Ventas Recientes</h2>
+                            <div class="header-actions">
+                                <button type="button" class="btn-icon" id="export-csv" title="Exportar CSV" aria-label="Exportar movimientos actuales en CSV">
+                                    <i class="fa-solid fa-download" aria-hidden="true"></i>
+                                </button>
+                                <button type="button" class="btn-icon" id="clear-sales" title="Limpiar movimientos actuales" aria-label="Limpiar movimientos actuales">
+                                    <i class="fa-solid fa-trash-can" aria-hidden="true"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="search-container">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" id="search-sales" aria-label="Buscar ventas por descripcion" placeholder="Buscar por descripci&oacute;n...">
+                        </div>
+                        <!-- Category Filter Pills -->
+                        <div id="category-filters" class="category-filter-row">
+                            <button class="cat-pill active" data-cat="">Todas</button>
+                            <button class="cat-pill" data-cat="Producto">📦 Producto</button>
+                            <button class="cat-pill" data-cat="Servicio">⚙️ Servicio</button>
+                            <button class="cat-pill" data-cat="Suscripci&oacute;n">🔄 Suscripci&oacute;n</button>
+                            <button class="cat-pill" data-cat="Consultor&iacute;a">💼 Consultor&iacute;a</button>
+                            <button class="cat-pill" data-cat="Alquiler">🏠 Alquiler</button>
+                            <button class="cat-pill" data-cat="Marketing">📣 Marketing</button>
+                            <button class="cat-pill" data-cat="Insumos">🛒 Insumos</button>
+                            <button class="cat-pill" data-cat="Otros">🔖 Otros</button>
+                        </div>
+                        <div class="table-container">
+                            <table class="sales-table">
+                                <thead>
+                                    <tr>
+                                        <th>Hora</th>
+                                        <th>Descripci&oacute;n</th>
+                                        <th>Tipo</th>
+                                        <th>M&eacute;todo</th>
+                                        <th>Monto</th>
+                                        <th style="text-align: right;">Acciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="sales-body">
+                                    <!-- Sales rows will be dynamically inserted here -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="empty-state" id="empty-state">
+                            <div class="empty-icon">
+                                <i class="fa-solid fa-receipt" aria-hidden="true"></i>
+                            </div>
+                            <p>No hay ventas registradas hoy.</p>
+                            <span>Registra el primer movimiento para comenzar a ver tu operaci&oacute;n del d&iacute;a.</span>
+                            <div class="empty-state-actions" aria-label="Acciones para comenzar las ventas del d&iacute;a">
+                                <button type="button" class="btn btn-primary empty-state-action" data-quick-action="sale">
+                                    <i class="fa-solid fa-cart-plus" aria-hidden="true"></i> Registrar primera venta
+                                </button>
+                                <a class="empty-state-guide" href="Blog htmls/ventas-mostrador-datos.html" target="_blank" rel="noopener">
+                                    Ver gu&iacute;a para registrar mejores datos <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- History View -->
+            <div id="view-historial" class="dashboard-wrapper" style="display: none;">
+                <div class="card list-section" style="min-height: 70vh;">
+                    <div class="card-header">
+                        <div class="history-list-title">
+                            <h2>Historial Completo</h2>
+                            <span class="history-results-summary" id="history-results-summary" aria-live="polite">0 movimientos</span>
+                        </div>
+                        <div class="header-actions">
+                            <select id="history-type-filter" class="form-control" aria-label="Filtrar historial por tipo"
+                                style="background: var(--bg-main); border: 1px solid var(--border-color); color: var(--text-main); border-radius: var(--radius-sm); padding: 0.5rem; display: inline-block; width: auto; margin-right: 0.5rem;">
+                                <option value="">Todos</option>
+                                <option value="income">Ingresos</option>
+                                <option value="expense">Gastos</option>
+                                <option value="pending">Por cobrar</option>
+                            </select>
+                            <input type="date" id="history-date-filter" class="form-control" aria-label="Filtrar historial por fecha"
+                                style="background: var(--bg-main); border: 1px solid var(--border-color); color: var(--text-main); border-radius: var(--radius-sm); padding: 0.5rem; display: inline-block; width: auto; margin-right: 1rem;">
+                            <button type="button" class="btn-icon" id="history-export-csv" title="Exportar CSV" aria-label="Exportar historial completo en CSV">
+                                <i class="fa-solid fa-download" aria-hidden="true"></i>
+                            </button>
+                            <button type="button" class="btn-icon" id="history-clear-all" title="Limpiar todo el historial" aria-label="Limpiar todo el historial">
+                                <i class="fa-solid fa-trash-can" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="search-container">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" id="history-search" aria-label="Buscar en el historial"
+                            placeholder="Buscar por producto, m&eacute;todo o tipo...">
+                    </div>
+                    <div class="history-view-toolbar">
+                        <div class="history-quick-filters" id="history-quick-filters" aria-label="Per&iacute;odos r&aacute;pidos">
+                            <button type="button" class="history-filter-chip" data-range="today">Hoy</button>
+                            <button type="button" class="history-filter-chip" data-range="7">7 d&iacute;as</button>
+                            <button type="button" class="history-filter-chip" data-range="30">30 d&iacute;as</button>
+                            <button type="button" class="history-filter-chip" data-range="clear">Limpiar filtros</button>
+                        </div>
+                        <div class="history-density-control" role="group" aria-label="Densidad del historial">
+                            <span>Vista</span>
+                            <button type="button" data-history-density="comfortable" aria-pressed="true" title="Vista c&oacute;moda">
+                                <i class="fa-solid fa-table-list" aria-hidden="true"></i><span>C&oacute;moda</span>
+                            </button>
+                            <button type="button" data-history-density="compact" aria-pressed="false" title="Vista compacta">
+                                <i class="fa-solid fa-bars-staggered" aria-hidden="true"></i><span>Compacta</span>
+                            </button>
+                        </div>
+                    </div>
+                    <section class="history-overview-grid" aria-label="Resumen de los movimientos filtrados">
+                        <article class="history-overview-card" data-tone="income">
+                            <span class="history-overview-icon"><i class="fa-solid fa-arrow-trend-up" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Ingresos</small>
+                                <strong id="history-income-total">$0</strong>
+                                <em id="history-income-meta">Sin ingresos en la selecci&oacute;n</em>
+                            </span>
+                        </article>
+                        <article class="history-overview-card" data-tone="expense">
+                            <span class="history-overview-icon"><i class="fa-solid fa-arrow-trend-down" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Gastos</small>
+                                <strong id="history-expense-total">$0</strong>
+                                <em id="history-expense-meta">Sin gastos en la selecci&oacute;n</em>
+                            </span>
+                        </article>
+                        <article class="history-overview-card" data-tone="balance">
+                            <span class="history-overview-icon"><i class="fa-solid fa-scale-balanced" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Balance filtrado</small>
+                                <strong id="history-net-total">$0</strong>
+                                <em id="history-net-meta">Sin movimientos para comparar</em>
+                            </span>
+                        </article>
+                        <article class="history-overview-card" data-tone="pending">
+                            <span class="history-overview-icon"><i class="fa-solid fa-clock" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Por cobrar</small>
+                                <strong id="history-pending-total">$0</strong>
+                                <em id="history-pending-meta">Sin cobros pendientes</em>
+                            </span>
+                        </article>
+                    </section>
+                    <div class="table-container">
+                        <table class="sales-table">
+                            <thead>
+                                <tr>
+                                    <th>Fecha y Hora</th>
+                                    <th>Descripci&oacute;n</th>
+                                    <th>Tipo</th>
+                                    <th>M&eacute;todo</th>
+                                    <th>Monto</th>
+                                    <th style="text-align: right;">Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody id="history-body">
+                                <!-- History rows will be dynamically inserted here -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <nav class="history-pagination" id="history-pagination" aria-label="Paginaci&oacute;n del historial" hidden>
+                        <p id="history-page-summary" aria-live="polite">Mostrando 0 movimientos</p>
+                        <label for="history-page-size">
+                            Por p&aacute;gina
+                            <select id="history-page-size" class="form-control">
+                                <option value="10">10</option>
+                                <option value="25" selected>25</option>
+                                <option value="50">50</option>
+                            </select>
+                        </label>
+                        <div class="history-page-actions">
+                            <button type="button" class="btn-icon" id="history-page-prev" aria-label="P&aacute;gina anterior" disabled>
+                                <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+                            </button>
+                            <span id="history-page-indicator">P&aacute;gina 1 de 1</span>
+                            <button type="button" class="btn-icon" id="history-page-next" aria-label="P&aacute;gina siguiente" disabled>
+                                <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </nav>
+                    <div class="empty-state" id="history-empty-state">
+                        <div class="empty-icon">
+                            <i class="fa-solid fa-box-open"></i>
+                        </div>
+                        <p id="history-empty-title">No hay registros hist&oacute;ricos.</p>
+                        <span id="history-empty-copy">Tus ventas y gastos pasados aparecer&aacute;n aqu&iacute; despu&eacute;s de los cierres de
+                            caja.</span>
+                        <div class="empty-state-actions" id="history-empty-default-actions" aria-label="Acciones para comenzar">
+                            <button type="button" class="btn btn-primary empty-state-action" data-quick-action="sale">
+                                <i class="fa-solid fa-cart-plus" aria-hidden="true"></i> Registrar primera venta
+                            </button>
+                            <button type="button" class="btn btn-outline empty-state-action" data-quick-action="expense">
+                                <i class="fa-solid fa-receipt" aria-hidden="true"></i> Anotar un gasto
+                            </button>
+                            <a class="empty-state-guide" href="Blog htmls/cierre-de-caja-diario.html" target="_blank" rel="noopener">
+                                Ver gu&iacute;a de cierre de caja <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                        <button type="button" class="btn btn-primary" id="history-empty-clear-filters" hidden>
+                            <i class="fa-solid fa-filter-circle-xmark" aria-hidden="true"></i> Limpiar filtros
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Reports View -->
+            <div id="view-reportes" class="dashboard-wrapper" style="display: none;">
+                 <aside class="view-learning-strip" aria-label="Gu&iacute;a recomendada para reportes">
+                    <span class="view-learning-icon"><i class="fa-solid fa-chart-line" aria-hidden="true"></i></span>
+                    <span class="view-learning-copy">
+                        <small>Aprende mientras analizas</small>
+                        <strong>Interpreta ventas, margen y tendencias con una gu&iacute;a pr&aacute;ctica.</strong>
+                    </span>
+                    <a href="Blog htmls/reporte-semanal-de-ventas.html" target="_blank" rel="noopener">
+                        Ver gu&iacute;a de reportes <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                     </a>
+                 </aside>
+
+                 <section class="reports-period-bar" aria-label="Per&iacute;odo del reporte">
+                     <div class="reports-period-copy">
+                         <span class="reports-period-icon"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i></span>
+                         <span>
+                             <small>Per&iacute;odo del an&aacute;lisis</small>
+                             <strong id="reports-period-label">Todo el historial</strong>
+                             <em id="reports-period-summary" aria-live="polite">0 movimientos analizados</em>
+                         </span>
+                     </div>
+                     <div class="reports-period-controls" id="reports-period-controls" role="group"
+                         aria-label="Seleccionar per&iacute;odo del reporte">
+                         <button type="button" data-report-period="7" aria-pressed="false">7 d&iacute;as</button>
+                         <button type="button" data-report-period="30" aria-pressed="false">30 d&iacute;as</button>
+                         <button type="button" data-report-period="90" aria-pressed="false">90 d&iacute;as</button>
+                         <button type="button" data-report-period="all" aria-pressed="true">Todo</button>
+                     </div>
+                 </section>
+
+                 <!-- Summary KPIs -->
+                <div class="kpi-cards" style="margin-bottom: 1.5rem;">
+                    <div class="card kpi-card">
+                        <div class="kpi-icon revenue"><i class="fa-solid fa-coins"></i></div>
+                        <div class="kpi-details">
+                            <h3>Total Hist&oacute;rico</h3>
+                            <p class="kpi-value" id="rep-total-revenue">$0.00</p>
+                        </div>
+                    </div>
+                    <div class="card kpi-card">
+                        <div class="kpi-icon sales"><i class="fa-solid fa-receipt"></i></div>
+                        <div class="kpi-details">
+                            <h3>Total Transacciones</h3>
+                            <p class="kpi-value" id="rep-total-tx">0</p>
+                        </div>
+                    </div>
+                    <div class="card kpi-card">
+                        <div class="kpi-icon avg"><i class="fa-solid fa-chart-line"></i></div>
+                        <div class="kpi-details">
+                            <h3>Promedio por Venta</h3>
+                            <p class="kpi-value" id="rep-avg-sale">$0.00</p>
+                        </div>
+                    </div>
+                    <div class="card kpi-card">
+                        <div class="kpi-icon" style="background: rgba(231,76,60,0.15);">
+                            <i class="fa-solid fa-arrow-trend-down" style="color:var(--danger);"></i>
+                        </div>
+                        <div class="kpi-details">
+                            <h3>Total Gastos</h3>
+                            <p class="kpi-value" id="rep-total-expenses" style="color:var(--danger);">$0.00</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card executive-summary-card" id="executive-summary-card">
+                    <div class="card-header">
+                        <div>
+                            <h2><i class="fa-solid fa-clipboard-list"></i> Resumen Ejecutivo</h2>
+                            <p id="executive-summary-period">Lectura automatica del rendimiento general.</p>
+                        </div>
+                        <button class="btn btn-outline" id="copy-executive-summary">
+                            <i class="fa-solid fa-copy"></i> Copiar resumen
+                        </button>
+                    </div>
+                    <div class="executive-summary-grid" id="executive-summary-grid">
+                        <div class="executive-summary-item">
+                            <span>Balance neto</span>
+                            <strong id="exec-net-balance">$0.00</strong>
+                        </div>
+                        <div class="executive-summary-item">
+                            <span>Metodo principal</span>
+                            <strong id="exec-top-method">Sin datos</strong>
+                        </div>
+                        <div class="executive-summary-item">
+                            <span>Cliente clave</span>
+                            <strong id="exec-top-client">Sin datos</strong>
+                        </div>
+                        <div class="executive-summary-item">
+                            <span>Riesgo operativo</span>
+                            <strong id="exec-risk-level">Bajo</strong>
+                        </div>
+                    </div>
+                    <p class="executive-summary-text" id="executive-summary-text">Registra ventas, clientes e inventario para generar recomendaciones ejecutivas.</p>
+                </div>
+
+                <section class="reports-decision-card" id="reports-decision-card" data-tone="neutral" aria-labelledby="reports-decision-title">
+                    <span class="reports-decision-icon" id="reports-decision-icon" aria-hidden="true">
+                        <i class="fa-solid fa-compass"></i>
+                    </span>
+                    <div class="reports-decision-copy">
+                        <small>Pr&oacute;xima decisi&oacute;n recomendada</small>
+                        <h2 id="reports-decision-title">Empieza registrando actividad real</h2>
+                        <p id="reports-decision-text">Con algunos movimientos podremos detectar cobros, gastos y oportunidades que requieren atenci&oacute;n.</p>
+                    </div>
+                    <div class="reports-decision-actions">
+                        <button type="button" class="btn btn-primary" id="reports-decision-primary" data-report-action="sale">
+                            <i class="fa-solid fa-cart-plus" aria-hidden="true"></i><span>Registrar una venta</span>
+                        </button>
+                        <button type="button" class="btn btn-outline" id="reports-decision-secondary" data-report-action="dashboard">
+                            <i class="fa-solid fa-house" aria-hidden="true"></i><span>Volver al inicio</span>
+                        </button>
+                    </div>
+                </section>
+
+                <!-- Charts Row -->
+                <div class="charts-row" style="margin-bottom: 1.5rem;">
+                    <div class="card chart-card" style="flex: 2;">
+                        <div class="card-header">
+                             <h2 id="reports-trend-title">Tendencia reciente de ingresos</h2>
+                        </div>
+                        <div class="chart-container" style="height: 260px;">
+                            <canvas id="rep-weekly-chart"></canvas>
+                        </div>
+                    </div>
+                    <div class="card chart-card" style="flex: 1;">
+                        <div class="card-header">
+                            <h2>M&eacute;todos de Pago</h2>
+                        </div>
+                        <div class="chart-container" style="height: 260px;">
+                            <canvas id="rep-methods-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Category Chart Row -->
+                <div class="charts-row" style="margin-bottom: 1.5rem;">
+                    <div class="card chart-card" style="flex: 1;">
+                        <div class="card-header">
+                            <h2>Ventas por Categor&iacute;a</h2>
+                        </div>
+                        <div class="chart-container" style="height: 260px;">
+                            <canvas id="rep-category-chart"></canvas>
+                        </div>
+                    </div>
+                    <div class="card" style="flex: 1; display:flex; flex-direction:column;">
+                        <div class="card-header">
+                             <h2 id="reports-activity-title"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Actividad por d&iacute;a</h2>
+                        </div>
+                        <div id="rep-heatmap" class="rep-heatmap"></div>
+                         <p id="reports-activity-caption" style="font-size:.8rem;color:var(--text-muted);margin-top:.5rem;">&Uacute;ltimos 30 d&iacute;as de transacciones</p>
+                    </div>
+                </div>
+
+                <!-- Top Products Table -->
+                <div class="card list-section">
+                    <div class="card-header">
+                        <h2><i class="fa-solid fa-trophy" style="color: gold; margin-right: .5rem;"></i>Top Productos /
+                            Servicios M&aacute;s Vendidos</h2>
+                    </div>
+                    <div class="table-container">
+                        <table class="sales-table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Producto / Servicio</th>
+                                    <th>Veces Vendido</th>
+                                    <th>Total Generado</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rep-top-products-body"></tbody>
+                        </table>
+                    </div>
+                    <div class="empty-state" id="rep-empty-state">
+                        <div class="empty-icon"><i class="fa-solid fa-chart-bar" aria-hidden="true"></i></div>
+                        <p>No hay datos hist&oacute;ricos.</p>
+                        <span>Registra movimientos y realiza un cierre de caja para generar indicadores comparables.</span>
+                        <div class="empty-state-actions" aria-label="Acciones para generar reportes">
+                            <button type="button" class="btn btn-primary empty-state-action" data-quick-action="sale">
+                                <i class="fa-solid fa-cart-plus" aria-hidden="true"></i> Registrar una venta
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Top Clientes Table -->
+                <div class="card list-section" style="margin-top: 1.5rem;">
+                    <div class="card-header">
+                        <h2><i class="fa-solid fa-users" style="color: var(--primary); margin-right: .5rem;"></i>Top
+                            Clientes</h2>
+                    </div>
+                    <div class="table-container" id="rep-top-clients-container">
+                        <table class="sales-table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Cliente</th>
+                                    <th>Compras</th>
+                                    <th>Total Gastado</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rep-top-clients-body"></tbody>
+                        </table>
+                    </div>
+                    <div class="empty-state" id="rep-clients-empty-state">
+                        <div class="empty-icon"><i class="fa-solid fa-user-slash" aria-hidden="true"></i></div>
+                        <p>No hay clientes registrados.</p>
+                        <span>Asocia un nombre de cliente al registrar ventas para verlos aqu&iacute;.</span>
+                        <div class="empty-state-actions" aria-label="Acciones para comenzar el reporte de clientes">
+                            <button type="button" class="btn btn-outline empty-state-action" data-quick-action="sale">
+                                <i class="fa-solid fa-user-plus" aria-hidden="true"></i> Registrar venta con cliente
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Clientes View -->
+            <div id="view-clientes" class="dashboard-wrapper" style="display: none;">
+                <div class="card list-section" style="max-width: 1000px; margin: 0 auto; min-height: 70vh;">
+                    <div class="card-header">
+                        <h2><i class="fa-solid fa-address-book" style="color: var(--primary); margin-right: .5rem;"></i>Directorio de Clientes</h2>
+                        <div class="header-actions">
+                            <button type="button" class="btn-icon" id="export-clientes-csv" title="Exportar CSV" aria-label="Exportar clientes en CSV">
+                                <i class="fa-solid fa-download" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <aside class="view-learning-strip view-learning-strip-embedded" aria-label="Gu&iacute;a recomendada para clientes">
+                        <span class="view-learning-icon"><i class="fa-solid fa-user-check" aria-hidden="true"></i></span>
+                        <span class="view-learning-copy">
+                            <small>Mejora tu seguimiento</small>
+                            <strong>Descubre qu&eacute; datos conviene guardar de cada cliente.</strong>
+                        </span>
+                        <a href="Blog htmls/ficha-cliente-completa.html" target="_blank" rel="noopener">
+                            Ver gu&iacute;a de clientes <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                        </a>
+                    </aside>
+                    <section class="clients-overview-grid" aria-label="Resumen de clientes">
+                        <article class="clients-metric-card">
+                            <span class="clients-metric-icon"><i class="fa-solid fa-users" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Total de clientes</small>
+                                <strong id="clientes-total-count">0</strong>
+                                <em id="clientes-total-meta">A&uacute;n sin actividad</em>
+                            </span>
+                        </article>
+                        <article class="clients-metric-card" data-tone="danger">
+                            <span class="clients-metric-icon"><i class="fa-solid fa-clock" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Con saldo pendiente</small>
+                                <strong id="clientes-debt-count">0</strong>
+                                <em id="clientes-debt-meta">Todo al d&iacute;a</em>
+                            </span>
+                        </article>
+                        <article class="clients-metric-card" data-tone="warning">
+                            <span class="clients-metric-icon"><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Saldo por cobrar</small>
+                                <strong id="clientes-debt-total">$0</strong>
+                                <em id="clientes-debt-total-meta">Sin cobros pendientes</em>
+                            </span>
+                        </article>
+                        <article class="clients-metric-card" data-tone="success">
+                            <span class="clients-metric-icon"><i class="fa-solid fa-star" aria-hidden="true"></i></span>
+                            <span>
+                                <small>Clientes clave</small>
+                                <strong id="clientes-key-count">0</strong>
+                                <em id="clientes-key-meta">Por desarrollar</em>
+                            </span>
+                        </article>
+                    </section>
+                    <div class="clients-search-row">
+                        <div class="search-container">
+                            <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+                            <input type="search" id="search-clientes" aria-label="Buscar clientes por nombre" placeholder="Buscar por nombre del cliente..." autocomplete="off">
+                            <button type="button" class="clients-search-clear" id="clientes-clear-search" aria-label="Limpiar b&uacute;squeda de clientes" title="Limpiar b&uacute;squeda" hidden>
+                                <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                        <span class="clients-result-count" id="clientes-result-count" aria-live="polite">0 clientes</span>
+                    </div>
+                    <div class="clients-directory-tools">
+                        <div class="clients-segment-filters" id="clientes-segment-filters" role="group" aria-label="Filtrar clientes por segmento">
+                            <button type="button" class="active" aria-pressed="true" data-client-filter="all">Todos</button>
+                            <button type="button" aria-pressed="false" data-client-filter="debt"><i class="fa-solid fa-clock" aria-hidden="true"></i> Pendientes</button>
+                            <button type="button" aria-pressed="false" data-client-filter="key"><i class="fa-solid fa-star" aria-hidden="true"></i> Clave</button>
+                            <button type="button" aria-pressed="false" data-client-filter="reactivate"><i class="fa-solid fa-user-clock" aria-hidden="true"></i> Reactivar</button>
+                            <button type="button" aria-pressed="false" data-client-filter="active"><i class="fa-solid fa-circle-check" aria-hidden="true"></i> Activos</button>
+                        </div>
+                        <label class="clients-sort-control" for="clientes-sort">
+                            <span>Ordenar por</span>
+                            <select id="clientes-sort" aria-label="Ordenar directorio de clientes">
+                                <option value="spent-desc">Mayor valor</option>
+                                <option value="debt-desc">Mayor deuda</option>
+                                <option value="recent-desc">Actividad reciente</option>
+                                <option value="name-asc">Nombre A-Z</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div class="table-container" id="clientes-table-container">
+                        <table class="sales-table">
+                            <thead>
+                                <tr>
+                                    <th>Nombre del Cliente</th>
+                                    <th>Total de Transacciones</th>
+                                    <th>Total Invertido</th>
+                                    <th>Deuda (Fiado)</th>
+                                    <th>&Uacute;ltima Actividad</th>
+                                    <th style="text-align: right;">Acci&oacute;n</th>
+                                </tr>
+                            </thead>
+                            <tbody id="clientes-body">
+                                <!-- Populated by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="empty-state" id="clientes-empty-state">
+                        <div class="empty-icon"><i class="fa-solid fa-user-slash" aria-hidden="true"></i></div>
+                        <p>No hay clientes registrados en el historial.</p>
+                        <span>Asocia nombres de cliente (opcional) al registrar tus ventas para que aparezcan analizados autom&aacute;ticamente en este directorio.</span>
+                        <div class="empty-state-actions" aria-label="Acciones para crear el directorio de clientes">
+                            <button type="button" class="btn btn-primary empty-state-action" data-quick-action="sale">
+                                <i class="fa-solid fa-user-plus" aria-hidden="true"></i> Registrar venta con cliente
+                            </button>
+                        </div>
+                    </div>
+                    <div class="empty-state" id="clientes-filter-empty-state">
+                        <div class="empty-icon"><i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i></div>
+                        <p>No encontramos clientes con estos filtros.</p>
+                        <span id="clientes-filter-empty-copy">Prueba otra b&uacute;squeda o vuelve a mostrar el directorio completo.</span>
+                        <div class="empty-state-actions">
+                            <button type="button" class="btn btn-outline empty-state-action" id="clientes-empty-clear-search">
+                                <i class="fa-solid fa-rotate-left" aria-hidden="true"></i> Mostrar todos
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Inventario View -->
+            <div id="view-inventario" class="dashboard-wrapper" style="display: none;">
+                <div class="card list-section inventory-list-section" style="max-width: 1000px; margin: 0 auto; min-height: 70vh;">
+                    <div class="card-header">
+                        <h2><i class="fa-solid fa-boxes-stacked" style="color: var(--primary); margin-right: .5rem;"></i>Cat&aacute;logo de Productos</h2>
+                        <div class="header-actions">
+                            <button class="btn btn-outline" id="export-inventario-csv">
+                                <i class="fa-solid fa-download"></i> Exportar
+                            </button>
+                            <button class="btn btn-primary" id="btn-new-product" aria-controls="new-product-form" aria-expanded="false">
+                                <i class="fa-solid fa-plus"></i> Nuevo Producto
+                            </button>
+                        </div>
+                    </div>
+                     <aside class="view-learning-strip view-learning-strip-embedded" aria-label="Gu&iacute;a recomendada para inventario">
+                        <span class="view-learning-icon"><i class="fa-solid fa-boxes-stacked" aria-hidden="true"></i></span>
+                        <span class="view-learning-copy">
+                            <small>Controla antes de reponer</small>
+                            <strong>Conecta ventas y stock para comprar con mejores datos.</strong>
+                        </span>
+                        <a href="Blog htmls/inventario-y-ventas.html" target="_blank" rel="noopener">
+                            Ver gu&iacute;a de inventario <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                         </a>
+                     </aside>
+
+                     <section class="inventory-overview-grid" aria-label="Resumen del inventario">
+                         <article class="inventory-metric-card">
+                             <span class="inventory-metric-icon"><i class="fa-solid fa-boxes-stacked" aria-hidden="true"></i></span>
+                             <span>
+                                 <small>Productos</small>
+                                 <strong id="inventory-total-products">0</strong>
+                                 <em id="inventory-total-products-meta">Cat&aacute;logo vac&iacute;o</em>
+                             </span>
+                         </article>
+                         <article class="inventory-metric-card" data-tone="success">
+                             <span class="inventory-metric-icon"><i class="fa-solid fa-cubes" aria-hidden="true"></i></span>
+                             <span>
+                                 <small>Unidades registradas</small>
+                                 <strong id="inventory-total-units">0</strong>
+                                 <em id="inventory-total-units-meta">Sin stock cargado</em>
+                             </span>
+                         </article>
+                         <article class="inventory-metric-card" data-tone="danger">
+                             <span class="inventory-metric-icon"><i class="fa-solid fa-triangle-exclamation" aria-hidden="true"></i></span>
+                             <span>
+                                 <small>Stock cr&iacute;tico</small>
+                                 <strong id="inventory-critical-count">0</strong>
+                                 <em id="inventory-critical-meta">Sin alertas</em>
+                             </span>
+                         </article>
+                         <article class="inventory-metric-card" data-tone="warning">
+                             <span class="inventory-metric-icon"><i class="fa-solid fa-coins" aria-hidden="true"></i></span>
+                             <span>
+                                 <small>Valor estimado</small>
+                                 <strong id="inventory-estimated-value">$0</strong>
+                                 <em id="inventory-estimated-value-meta">Precio por stock</em>
+                             </span>
+                         </article>
+                     </section>
+
+                     <!-- New Product Form (hidden by default) -->
+                    <section id="new-product-form" class="inventory-product-form" style="display: none;" aria-labelledby="inventory-form-title">
+                        <div class="inventory-form-heading">
+                            <span class="inventory-form-icon" aria-hidden="true"><i class="fa-solid fa-box-open"></i></span>
+                            <div>
+                                <span class="inventory-form-kicker" id="inventory-form-kicker">Nuevo producto</span>
+                                <h3 id="inventory-form-title">A&ntilde;adir al cat&aacute;logo</h3>
+                                <p>El nombre es obligatorio. Precio y stock pueden completarse m&aacute;s adelante.</p>
+                            </div>
+                        </div>
+                        <div class="inventory-form-grid">
+                            <div class="form-group inventory-form-name">
+                                <label for="inv-name">Nombre del Producto</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-tag"></i>
+                                    <input type="text" id="inv-name" placeholder="Ej: Camiseta" autocomplete="off">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="inv-price">Precio (Opcional)</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-dollar-sign"></i>
+                                    <input type="number" id="inv-price" step="0.01" min="0" inputmode="decimal" placeholder="0.00" aria-describedby="inv-price-help">
+                                </div>
+                                <small id="inv-price-help">Se usar&aacute; como valor sugerido al vender.</small>
+                            </div>
+                            <div class="form-group">
+                                <label for="inv-stock">Stock (Opcional)</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-boxes-stacked"></i>
+                                    <input type="number" id="inv-stock" min="0" inputmode="numeric" placeholder="Ej: 50" aria-describedby="inv-stock-help">
+                                </div>
+                                <small id="inv-stock-help">Activa alertas cuando queden 5 unidades o menos.</small>
+                            </div>
+                        </div>
+                        <div class="inventory-form-actions">
+                            <button class="btn btn-primary" id="btn-save-inv-product"><i class="fa-solid fa-check"></i> Guardar Producto</button>
+                            <button class="btn btn-outline" id="btn-cancel-inv-product">Cancelar</button>
+                        </div>
+                    </section>
+
+                     <div class="inventory-toolbar">
+                         <div class="inventory-search-row">
+                             <div class="search-container">
+                                 <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+                                 <input type="search" id="search-inventario" aria-label="Buscar productos en el inventario" placeholder="Buscar productos en el cat&aacute;logo..." autocomplete="off">
+                                 <button type="button" class="inventory-search-clear" id="inventory-clear-search"
+                                     aria-label="Limpiar b&uacute;squeda del inventario" title="Limpiar b&uacute;squeda" hidden>
+                                     <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+                                 </button>
+                             </div>
+                             <label class="inventory-sort-control">
+                                 <span>Ordenar</span>
+                                 <select id="inventory-sort" aria-label="Ordenar inventario">
+                                     <option value="name">Nombre A-Z</option>
+                                     <option value="stock-asc">Menor stock</option>
+                                     <option value="stock-desc">Mayor stock</option>
+                                     <option value="value-desc">Mayor valor</option>
+                                 </select>
+                             </label>
+                         </div>
+                         <div class="inventory-filter-row">
+                             <div class="inventory-filter-chips" id="inventory-filter-chips" role="group"
+                                 aria-label="Filtrar inventario por estado">
+                                 <button type="button" data-inventory-filter="all" aria-pressed="true">Todos <span id="inventory-filter-all-count">0</span></button>
+                                 <button type="button" data-inventory-filter="low" aria-pressed="false">Stock bajo <span id="inventory-filter-low-count">0</span></button>
+                                 <button type="button" data-inventory-filter="out" aria-pressed="false">Agotados <span id="inventory-filter-out-count">0</span></button>
+                                 <button type="button" data-inventory-filter="untracked" aria-pressed="false">Sin controlar <span id="inventory-filter-untracked-count">0</span></button>
+                             </div>
+                             <span class="inventory-result-count" id="inventory-result-count" aria-live="polite">0 productos</span>
+                         </div>
+                     </div>
+                    
+                    <div class="table-container" id="inventario-table-container">
+                        <table class="sales-table">
+                            <thead>
+                                <tr>
+                                    <th>Producto / Servicio</th>
+                                    <th>Precio Base</th>
+                                    <th>Stock Disponible</th>
+                                    <th style="text-align: right;">Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody id="inventario-body">
+                                <!-- Populated by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                     <div class="empty-state" id="inventario-empty-state">
+                        <div class="empty-icon"><i class="fa-solid fa-box-open" aria-hidden="true"></i></div>
+                        <p>Tu cat&aacute;logo est&aacute; vac&iacute;o.</p>
+                        <span>A&ntilde;ade productos para que se completen autom&aacute;ticamente al registrar tus ventas de forma m&aacute;s r&aacute;pida.</span>
+                        <div class="empty-state-actions" aria-label="Acciones para comenzar el inventario">
+                            <button type="button" class="btn btn-primary empty-state-action" data-quick-action="product">
+                                <i class="fa-solid fa-box" aria-hidden="true"></i> Agregar primer producto
+                             </button>
+                         </div>
+                     </div>
+                     <div class="empty-state" id="inventario-filter-empty-state">
+                         <div class="empty-icon"><i class="fa-solid fa-filter-circle-xmark" aria-hidden="true"></i></div>
+                         <p>No hay productos con estos filtros.</p>
+                         <span>Prueba otra b&uacute;squeda o vuelve a mostrar todo el cat&aacute;logo.</span>
+                         <div class="empty-state-actions">
+                             <button type="button" class="btn btn-outline empty-state-action" id="inventory-reset-filters">
+                                 <i class="fa-solid fa-rotate-left" aria-hidden="true"></i> Limpiar filtros
+                             </button>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+
+            <datalist id="products-datalist">
+                <!-- Injected via JS -->
+            </datalist>
+
+            <!-- Config View -->
+            <div id="view-config" class="dashboard-wrapper" style="display: none;">
+                <div class="card list-section config-card">
+                    <div class="card-header">
+                        <h2><i class="fa-solid fa-gear"
+                                style="color: var(--text-muted); margin-right: .5rem;"></i>Configuraci&oacute;n de
+                            Empresa</h2>
+                    </div>
+
+                    <nav class="config-nav" aria-label="Secciones de configuraci&oacute;n">
+                        <button type="button" data-config-target="config-profile"><i class="fa-solid fa-store" aria-hidden="true"></i> Perfil</button>
+                        <button type="button" data-config-target="config-goals"><i class="fa-solid fa-bullseye" aria-hidden="true"></i> Objetivos</button>
+                        <button type="button" data-config-target="config-alerts"><i class="fa-solid fa-bell" aria-hidden="true"></i> Alertas</button>
+                        <button type="button" data-config-target="config-data"><i class="fa-solid fa-database" aria-hidden="true"></i> Datos y respaldo</button>
+                    </nav>
+
+                    <section class="config-readiness-panel" aria-labelledby="config-readiness-title">
+                        <div class="config-readiness-head">
+                            <div class="config-readiness-heading">
+                                <span class="config-readiness-icon" aria-hidden="true"><i class="fa-solid fa-shield-heart"></i></span>
+                                <div>
+                                    <span class="config-eyebrow">Puesta a punto</span>
+                                    <h3 id="config-readiness-title">Tu espacio de trabajo</h3>
+                                    <p id="config-readiness-summary">Revisando la configuraci&oacute;n del negocio...</p>
+                                </div>
+                            </div>
+                            <span class="config-readiness-score" id="config-readiness-score">0% listo</span>
+                        </div>
+                        <div class="config-readiness-progress" role="progressbar" aria-label="Progreso de configuraci&oacute;n" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+                            <span id="config-readiness-progress"></span>
+                        </div>
+                        <div class="config-readiness-grid" aria-label="Pasos recomendados">
+                            <button type="button" class="config-readiness-item" data-config-target="config-profile" data-readiness-key="profile">
+                                <span class="config-readiness-item-icon"><i class="fa-solid fa-store" aria-hidden="true"></i></span>
+                                <span><strong>Identidad</strong><small id="config-readiness-profile">Pendiente</small></span>
+                                <i class="fa-regular fa-circle config-readiness-state" aria-hidden="true"></i>
+                            </button>
+                            <button type="button" class="config-readiness-item" data-config-target="config-goals" data-readiness-key="goal">
+                                <span class="config-readiness-item-icon"><i class="fa-solid fa-bullseye" aria-hidden="true"></i></span>
+                                <span><strong>Meta diaria</strong><small id="config-readiness-goal">Pendiente</small></span>
+                                <i class="fa-regular fa-circle config-readiness-state" aria-hidden="true"></i>
+                            </button>
+                            <button type="button" class="config-readiness-item" data-config-target="config-alerts" data-readiness-key="alert">
+                                <span class="config-readiness-item-icon"><i class="fa-solid fa-bell" aria-hidden="true"></i></span>
+                                <span><strong>Alertas</strong><small id="config-readiness-alert">Pendiente</small></span>
+                                <i class="fa-regular fa-circle config-readiness-state" aria-hidden="true"></i>
+                            </button>
+                            <button type="button" class="config-readiness-item" data-config-target="config-data" data-readiness-key="backup">
+                                <span class="config-readiness-item-icon"><i class="fa-solid fa-cloud-arrow-down" aria-hidden="true"></i></span>
+                                <span><strong>Respaldo</strong><small id="config-readiness-backup">Pendiente</small></span>
+                                <i class="fa-regular fa-circle config-readiness-state" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </section>
+
+                    <div class="config-content">
+                        <!-- Store / User Settings -->
+                        <section class="config-section" id="config-profile">
+                            <h3 style="margin-bottom: 1rem; color: var(--text-main);"><i class="fa-solid fa-store"
+                                    style="margin-right: 0.5rem; color: var(--primary);"></i>Perfil del Negocio</h3>
+                            <div class="form-group" style="margin-bottom: 1rem;">
+                                <label for="config-store-name">Nombre de tu Negocio / Proyecto</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-signature"></i>
+                                    <input type="text" id="config-store-name" placeholder="Ej: Mi Tienda Online">
+                                </div>
+                            </div>
+                            <div class="form-group" style="margin-top: 1.5rem; margin-bottom: 1rem;">
+                                <label for="config-brand-color">Color de Marca (Branding Principal)</label>
+                                <div style="display: flex; gap: 0.8rem; align-items: center; margin-top: .5rem; background: var(--bg-hover); padding: .5rem 1rem; border-radius: var(--radius-md);">
+                                    <input type="color" id="config-brand-color" value="#6c5ce7" style="width: 40px; height: 40px; border: none; border-radius: 50%; cursor: pointer; padding: 0; background: transparent;">
+                                    <span style="color: var(--text-muted); font-size: 0.85rem;">Personaliza el color de los elementos de Zaleasy.</span>
+                                </div>
+                            </div>
+                            <div style="display: flex; gap: 1rem;">
+                                <button class="btn btn-outline" id="btn-save-store-name">Guardar Nombre</button>
+                                <button class="btn btn-primary" id="btn-save-brand-color" style="flex: 1;"><i class="fa-solid fa-palette"></i> Aplicar Color</button>
+                            </div>
+                        </section>
+
+                        <!-- Daily Goal Default -->
+                        <section class="config-section" id="config-goals">
+                            <h3 style="margin-bottom: 1rem; color: var(--text-main);"><i class="fa-solid fa-bullseye"
+                                    style="margin-right: 0.5rem; color: var(--primary);"></i>Meta Diaria</h3>
+                            <p style="color: var(--text-muted); margin-bottom: 1rem; font-size: 0.9rem;">Esto ajusta la
+                                meta por defecto en tu Dashboard principal.</p>
+                            <div class="form-group" style="margin-bottom: 1rem;">
+                                <label for="config-daily-goal">Meta Diaria (ARS)</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-dollar-sign"></i>
+                                    <input type="number" id="config-daily-goal" step="0.01" min="0">
+                                </div>
+                            </div>
+                            <button class="btn btn-outline" id="btn-save-config-goal">Actualizar Meta</button>
+                        </section>
+
+                        <!-- Alert Threshold -->
+                        <section class="config-section" id="config-alerts">
+                            <h3 style="margin-bottom: 1rem; color: var(--text-main);"><i class="fa-solid fa-bell"
+                                    style="margin-right: 0.5rem; color: var(--warning);"></i>Alerta de Venta Grande</h3>
+                            <p style="color: var(--text-muted); margin-bottom: 1rem; font-size: 0.9rem;">Recibe una
+                                notificaci&oacute;n especial cuando una venta supere este monto. (0 = desactivado)</p>
+                            <div class="form-group" style="margin-bottom: 1rem;">
+                                <label for="config-alert-threshold">Monto de Alerta (ARS)</label>
+                                <div class="input-wrapper">
+                                    <i class="fa-solid fa-dollar-sign"></i>
+                                    <input type="number" id="config-alert-threshold" step="0.01" min="0"
+                                        placeholder="Ej: 50000">
+                                </div>
+                            </div>
+                            <button class="btn btn-outline" id="btn-save-alert-threshold">Guardar Alerta</button>
+                        </section>
+
+                        <!-- Data Health -->
+                        <section class="data-health-panel" id="config-data">
+                            <div class="data-health-header">
+                                <div>
+                                    <h3><i class="fa-solid fa-database"></i> Estado de Datos</h3>
+                                    <p>Revisa el estado de tu informaci&oacute;n y crea una copia antes de hacer cambios importantes.</p>
+                                </div>
+                                <span class="badge" id="data-health-status">Calculando...</span>
+                            </div>
+                            <div class="data-health-grid">
+                                <div class="data-health-item">
+                                    <span>Movimientos de hoy</span>
+                                    <strong id="data-health-sales">0</strong>
+                                </div>
+                                <div class="data-health-item">
+                                    <span>Hist&oacute;ricos</span>
+                                    <strong id="data-health-history">0</strong>
+                                </div>
+                                <div class="data-health-item">
+                                    <span>Clientes</span>
+                                    <strong id="data-health-clients">0</strong>
+                                </div>
+                                <div class="data-health-item">
+                                    <span>Cat&aacute;logo</span>
+                                    <strong id="data-health-products">0</strong>
+                                </div>
+                            </div>
+                            <div class="data-health-footer">
+                                <span id="data-health-storage"><i class="fa-solid fa-hard-drive"></i> Uso local: 0 KB</span>
+                                <span id="data-health-backup"><i class="fa-solid fa-clock-rotate-left"></i> Sin copias registradas</span>
+                            </div>
+                            <div class="config-backup-actions" aria-label="Acciones de respaldo">
+                                <button class="btn btn-outline" id="btn-backup-data">
+                                    <i class="fa-solid fa-cloud-arrow-down"></i> Descargar respaldo
+                                </button>
+                                <label class="btn btn-outline" style="cursor:pointer;"
+                                    title="Importar copia de seguridad JSON">
+                                    <i class="fa-solid fa-cloud-arrow-up"></i> Importar respaldo
+                                    <input type="file" id="btn-import-data" accept=".json,application/json" style="display:none;"
+                                        aria-describedby="import-data-feedback">
+                                </label>
+                            </div>
+                            <p class="data-import-feedback" id="import-data-feedback" role="alert" hidden></p>
+                        </section>
+
+                        <!-- Destructive action isolated from safe backup tools -->
+                        <section class="config-danger">
+                            <div>
+                                <h3><i class="fa-solid fa-triangle-exclamation" aria-hidden="true"></i> Zona de peligro</h3>
+                                <p>Borra definitivamente la informaci&oacute;n guardada en este dispositivo. Esta acci&oacute;n no se puede deshacer.</p>
+                            </div>
+                            <button type="button" class="btn btn-outline" id="btn-factory-reset">
+                                <i class="fa-solid fa-trash-can" aria-hidden="true"></i> Borrar todos los datos
+                            </button>
+                        </section>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Coming Soon Placeholder (Kept just in case we add more tabs later) -->
+            <div id="view-coming-soon" class="dashboard-wrapper" style="display: none;">
+                <div class="card" style="text-align: center; padding: 5rem 2rem;">
+                    <i class="fa-solid fa-person-digging"
+                        style="font-size: 4rem; color: var(--primary); margin-bottom: 2rem;"></i>
+                    <h2 id="coming-soon-title" style="margin-bottom: 1rem; font-size: 2rem;">Secci&oacute;n en
+                        Desarrollo</h2>
+                    <p style="color: var(--text-muted); font-size: 1.1rem;">Nuestros ingenieros est&aacute;n trabajando
+                        para
+                        traer este m&oacute;dulo muy pronto.</p>
+                </div>
+            </div>
+        </main>
+
+        <!-- Mobile App Navigation -->
+        <nav class="mobile-app-nav" id="mobile-app-nav" aria-label="Navegacion principal movil">
+            <button type="button" class="mobile-app-nav-item active" data-mobile-view="nav-dashboard" aria-label="Ir al inicio" aria-current="page">
+                <i class="fa-solid fa-house"></i><span>Inicio</span>
+            </button>
+            <button type="button" class="mobile-app-nav-item" data-mobile-view="nav-historial" aria-label="Ir al historial">
+                <i class="fa-solid fa-clock-rotate-left"></i><span>Historial</span><span class="mobile-nav-indicator" id="mobile-history-badge" aria-hidden="true" hidden>0</span>
+            </button>
+            <button type="button" class="mobile-app-nav-item mobile-app-nav-primary" data-mobile-action="sale" aria-label="Registrar nueva venta">
+                <span class="mobile-app-nav-primary-icon"><i class="fa-solid fa-plus"></i></span><span>Venta</span>
+            </button>
+            <button type="button" class="mobile-app-nav-item" data-mobile-view="nav-clientes" aria-label="Ir a clientes">
+                <i class="fa-solid fa-address-book"></i><span>Clientes</span><span class="mobile-nav-indicator danger" id="mobile-clients-badge" aria-hidden="true" hidden>0</span>
+            </button>
+            <button type="button" class="mobile-app-nav-item" data-mobile-view="nav-inventario" aria-label="Ir al inventario">
+                <i class="fa-solid fa-boxes-stacked"></i><span>Stock</span><span class="mobile-nav-indicator warning" id="mobile-inventory-badge" aria-hidden="true" hidden>0</span>
+            </button>
+        </nav>
+
+        <!-- Available only while the authenticated application is visible -->
+        <div class="quick-create" id="quick-create">
+            <div class="quick-create-menu" id="quick-create-menu" hidden>
+                <button type="button" class="quick-create-action" data-quick-action="product">
+                    <span class="quick-create-action-icon product"><i class="fa-solid fa-box"></i></span>
+                    <span><strong>Nuevo producto</strong><small>Agregar al inventario</small></span>
+                </button>
+                <button type="button" class="quick-create-action" data-quick-action="followup">
+                    <span class="quick-create-action-icon followup"><i class="fa-solid fa-calendar-plus"></i></span>
+                    <span><strong>Nuevo seguimiento</strong><small>Agendar un pendiente</small></span>
+                </button>
+                <button type="button" class="quick-create-action" data-quick-action="expense">
+                    <span class="quick-create-action-icon expense"><i class="fa-solid fa-receipt"></i></span>
+                    <span><strong>Registrar gasto</strong><small>Anotar una salida</small></span>
+                </button>
+                <button type="button" class="quick-create-action" data-quick-action="sale">
+                    <span class="quick-create-action-icon sale"><i class="fa-solid fa-cart-plus"></i></span>
+                    <span><strong>Registrar venta</strong><small>Cargar un ingreso</small></span>
+                </button>
+            </div>
+            <button id="fab-quick-add" class="fab-btn" type="button" title="Crear nuevo" aria-label="Abrir menu de creacion rapida"
+                aria-expanded="false" aria-controls="quick-create-menu">
+                <i class="fa-solid fa-plus"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast">
+        <div class="toast-icon">
+            <i class="fa-solid fa-check"></i>
+        </div>
+        <div class="toast-content">
+            <p class="toast-title">&Eacute;xito</p>
+            <p class="toast-message">Venta registrada correctamente.</p>
+        </div>
+    </div>
+
+    <!-- Import Preview Modal -->
+    <div id="import-data-modal" class="modal-overlay" role="dialog" aria-modal="true"
+        aria-labelledby="import-data-modal-title" aria-describedby="import-data-modal-description" aria-hidden="true">
+        <div class="modal import-data-modal">
+            <div class="modal-header">
+                <div>
+                    <span class="import-modal-kicker">Vista previa segura</span>
+                    <h2 id="import-data-modal-title">Revisar copia de seguridad</h2>
+                </div>
+                <button type="button" class="btn-icon close-modal-close" aria-label="Cerrar vista previa de importaci&oacute;n">
+                    <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="import-file-meta">
+                    <span aria-hidden="true"><i class="fa-solid fa-file-shield"></i></span>
+                    <div>
+                        <strong id="import-file-name">Copia de Zaleasy</strong>
+                        <small id="import-file-date">Fecha no disponible</small>
+                    </div>
+                    <span class="badge" id="import-file-version">Versi&oacute;n 1</span>
+                </div>
+                <p class="import-modal-description" id="import-data-modal-description">Comprueba el contenido y elige c&oacute;mo incorporarlo. Nada cambiar&aacute; hasta que selecciones una opci&oacute;n.</p>
+                <div class="import-data-summary" id="import-data-summary" aria-live="polite"></div>
+                <div class="import-current-backup">
+                    <i class="fa-solid fa-shield-halved" aria-hidden="true"></i>
+                    <span>Si vas a reemplazar, puedes respaldar primero el estado actual.</span>
+                    <button type="button" class="btn btn-outline" id="btn-backup-before-import">Respaldar ahora</button>
+                </div>
+                <div class="import-choice-grid">
+                    <button type="button" class="import-choice merge" id="btn-confirm-import-merge">
+                        <span class="import-choice-icon"><i class="fa-solid fa-code-merge" aria-hidden="true"></i></span>
+                        <span><strong>Fusionar con mis datos</strong><small>Conserva lo actual y agrega registros que no est&eacute;n repetidos.</small></span>
+                    </button>
+                    <button type="button" class="import-choice replace" id="btn-confirm-import-replace">
+                        <span class="import-choice-icon"><i class="fa-solid fa-arrow-rotate-left" aria-hidden="true"></i></span>
+                        <span><strong>Reemplazar datos</strong><small>Sustituye movimientos, clientes, productos y preferencias por esta copia.</small></span>
+                    </button>
+                </div>
+                <button type="button" class="btn btn-outline import-cancel close-modal-close">Cancelar importaci&oacute;n</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Data Reset Confirmation Modal -->
+    <div id="reset-data-modal" class="modal-overlay" role="dialog" aria-modal="true"
+        aria-labelledby="reset-data-modal-title" aria-describedby="reset-data-modal-description" aria-hidden="true">
+        <div class="modal reset-data-modal">
+            <div class="modal-header">
+                <div>
+                    <span class="reset-modal-kicker">Acci&oacute;n irreversible</span>
+                    <h2 id="reset-data-modal-title">Borrar todos los datos locales</h2>
+                </div>
+                <button type="button" class="btn-icon close-modal-close" aria-label="Cerrar confirmaci&oacute;n de borrado">
+                    <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="reset-warning-hero">
+                    <span aria-hidden="true"><i class="fa-solid fa-triangle-exclamation"></i></span>
+                    <div>
+                        <strong>Esta acci&oacute;n no se puede deshacer.</strong>
+                        <p id="reset-data-modal-description">Se eliminar&aacute;n movimientos, historial, clientes, productos y preferencias guardadas en este dispositivo.</p>
+                    </div>
+                </div>
+                <div class="reset-data-summary" id="reset-data-summary" aria-live="polite"></div>
+                <div class="reset-backup-reminder">
+                    <i class="fa-solid fa-shield-halved" aria-hidden="true"></i>
+                    <span><strong>Recomendado:</strong> descarga una copia antes de continuar.</span>
+                    <button type="button" class="btn btn-outline" id="btn-backup-before-reset">
+                        <i class="fa-solid fa-download" aria-hidden="true"></i> Descargar copia
+                    </button>
+                </div>
+                <div class="form-group reset-confirm-field">
+                    <label for="reset-confirm-input">Escribe <strong>BORRAR</strong> para confirmar</label>
+                    <input type="text" id="reset-confirm-input" autocomplete="off" spellcheck="false"
+                        aria-describedby="reset-confirm-help" placeholder="BORRAR">
+                    <small id="reset-confirm-help">El bot&oacute;n final permanecer&aacute; desactivado hasta que el texto coincida.</small>
+                </div>
+                <div class="reset-modal-actions">
+                    <button type="button" class="btn btn-outline close-modal-close">Cancelar</button>
+                    <button type="button" class="btn btn-danger" id="btn-confirm-factory-reset" disabled>
+                        <i class="fa-solid fa-trash-can" aria-hidden="true"></i> Borrar definitivamente
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Goal Modal -->
+    <div id="goal-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="goal-modal-title" aria-hidden="true">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="goal-modal-title">Configurar Meta Diaria</h2>
+                <button type="button" class="btn-icon close-modal" aria-label="Cerrar configuracion de meta"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="new-goal">Nueva Meta (USD)</label>
+                    <div class="input-wrapper">
+                        <i class="fa-solid fa-bullseye"></i>
+                        <input type="number" id="new-goal" step="0.01" min="1" placeholder="Ej: 100" value="100.00">
+                    </div>
+                </div>
+                <button id="save-goal" class="btn btn-primary btn-block">
+                    <i class="fa-solid fa-check"></i> Guardar Meta
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Close Register Modal -->
+    <div id="close-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="close-modal-title" aria-hidden="true">
+        <div class="modal modal-lg">
+            <div class="modal-header">
+                <h2 id="close-modal-title">Resumen de Cierre de Caja</h2>
+                <button type="button" class="btn-icon close-modal-close" aria-label="Cerrar resumen de caja"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="summary-grid" id="close-summary-grid">
+                    <!-- Populated via JS -->
+                </div>
+                <div class="close-readiness-panel" id="close-readiness-panel">
+                    <!-- Populated via JS -->
+                </div>
+                <div class="cash-reconciliation-panel" id="cash-reconciliation-panel">
+                    <div class="cash-reconciliation-head">
+                        <div>
+                            <h3><i class="fa-solid fa-scale-balanced"></i> Conciliaci&oacute;n de efectivo</h3>
+                            <p>Compara el efectivo esperado con el dinero contado antes de cerrar.</p>
+                        </div>
+                        <span class="badge" id="cash-reconciliation-status">Sin contar</span>
+                    </div>
+                    <div class="cash-reconciliation-grid">
+                        <div class="cash-reconciliation-field">
+                            <span>Esperado en caja</span>
+                            <strong id="cash-expected-display">$0.00</strong>
+                        </div>
+                        <label class="cash-reconciliation-field">
+                            <span>Efectivo contado</span>
+                            <input type="number" id="cash-counted-input" min="0" step="0.01" placeholder="0.00">
+                        </label>
+                        <div class="cash-reconciliation-field">
+                            <span>Diferencia</span>
+                            <strong id="cash-difference-display">$0.00</strong>
+                        </div>
+                    </div>
+                    <p class="cash-reconciliation-note" id="cash-reconciliation-note">Ingresa el efectivo contado para detectar sobrantes o faltantes.</p>
+                </div>
+                <div class="total-highlight">
+                    <span>Total del D&iacute;a:</span>
+                    <strong id="close-total-day">$0.00</strong>
+                </div>
+                <p class="warning-text"><i class="fa-solid fa-triangle-exclamation"></i> Al confirmar, se
+                    iniciar&aacute; un
+                    nuevo ciclo de ventas y el historial actual se archivar&aacute;.</p>
+                <button id="confirm-close" class="btn btn-primary btn-block">
+                    <i class="fa-solid fa-check-double"></i> Confirmar Cierre
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Calculator Modal -->
+    <div id="calculator-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="calculator-modal-title" aria-hidden="true">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="calculator-modal-title">Calculadora de Vuelto</h2>
+                <button type="button" class="btn-icon close-modal-close" aria-label="Cerrar calculadora de vuelto"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="calc-total">Total de la Compra (USD)</label>
+                    <div class="input-wrapper">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                        <input type="number" id="calc-total" step="0.01" min="0" placeholder="0.00" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="calc-received">Monto Recibido (USD)</label>
+                    <div class="input-wrapper">
+                        <i class="fa-solid fa-hand-holding-dollar"></i>
+                        <input type="number" id="calc-received" step="0.01" min="0" placeholder="Ej: 50.00">
+                    </div>
+                </div>
+
+                <div class="total-highlight" style="margin-top: 1.5rem;">
+                    <span>Vuelto a entregar:</span>
+                    <strong id="calc-change" style="color: var(--primary);">$0.00</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Receipt Modal -->
+    <div id="receipt-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="receipt-modal-title" aria-hidden="true">
+        <div class="modal modal-lg" style="max-width:420px;">
+            <div class="modal-header">
+                <h2 id="receipt-modal-title"><i class="fa-solid fa-receipt" style="color:var(--primary);margin-right:.5rem;"></i>Recibo de
+                    Transacci&oacute;n</h2>
+                <button type="button" class="btn-icon close-modal-close" aria-label="Cerrar comprobante"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+            </div>
+            <div class="modal-body" id="receipt-body">
+                <!-- Populated by JS -->
+            </div>
+            <div style="margin-top:1.5rem; display:flex; gap:.8rem;">
+                <button id="btn-print-receipt" class="btn btn-primary" style="flex:1;">
+                    <i class="fa-solid fa-print"></i> Guardar PDF
+                </button>
+                <button class="btn btn-outline close-modal-close" style="flex:1;">
+                    <i class="fa-solid fa-xmark"></i> Cerrar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Edit Transaction Modal -->
+    <div id="edit-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="edit-modal-title" aria-hidden="true">
+        <div class="modal modal-lg" style="max-width:460px;">
+            <div class="modal-header">
+                <h2 id="edit-modal-title"><i class="fa-solid fa-pen-to-square" style="color:var(--primary);margin-right:.5rem;"></i>Editar
+                    Transacci&oacute;n</h2>
+                <button type="button" class="btn-icon" id="close-edit-modal" aria-label="Cerrar edicion de transaccion"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="edit-id">
+                <div style="display:flex; gap:.5rem; margin-bottom:1.5rem;">
+                    <button type="button" class="btn btn-primary" id="edit-type-income" style="flex:1;">Ingreso /
+                        Venta</button>
+                    <button type="button" class="btn btn-outline" id="edit-type-expense" style="flex:1;">A&ntilde;adir
+                        Gasto</button>
+                </div>
+                <div class="form-group">
+                    <label for="edit-product">Producto / Descripci&oacute;n</label>
+                    <div class="input-wrapper"><i class="fa-solid fa-tag"></i>
+                        <input type="text" id="edit-product" placeholder="Descripci&oacute;n" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="edit-amount">Monto (ARS)</label>
+                    <div class="input-wrapper"><i class="fa-solid fa-dollar-sign"></i>
+                        <input type="number" id="edit-amount" step="0.01" min="0" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="edit-method">M&eacute;todo de Pago</label>
+                    <div class="input-wrapper"><i class="fa-solid fa-credit-card"></i>
+                        <select id="edit-method">
+                            <option value="Efectivo">Efectivo</option>
+                            <option value="Tarjeta">Tarjeta de Cr&eacute;dito/D&eacute;bito</option>
+                            <option value="Transferencia">Transferencia</option>
+                            <option value="MercadoPago">MercadoPago</option>
+                            <option value="A Cobrar" style="color:var(--danger)">Fiado / Por Cobrar</option>
+                            <option value="Pago de Deuda" style="color:var(--success)">Cobro de Deuda</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="edit-category">Categor&iacute;a</label>
+                    <div class="input-wrapper"><i class="fa-solid fa-folder-open"></i>
+                        <select id="edit-category">
+                            <option value="">Sin categor&iacute;a</option>
+                            <option value="Producto">📦 Producto</option>
+                            <option value="Servicio">⚙️ Servicio</option>
+                            <option value="Suscripci&oacute;n">🔄 Suscripci&oacute;n</option>
+                            <option value="Consultor&iacute;a">💼 Consultor&iacute;a</option>
+                            <option value="Alquiler">🏠 Alquiler</option>
+                            <option value="Marketing">📣 Marketing</option>
+                            <option value="Insumos">🛒 Insumos</option>
+                            <option value="Otros">🔖 Otros</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="edit-notes">Notas</label>
+                    <div class="input-wrapper"><i class="fa-solid fa-note-sticky"></i>
+                        <input type="text" id="edit-notes" placeholder="Notas opcionales..."
+                            style="padding-left:2.5rem;">
+                    </div>
+                </div>
+                <button id="btn-save-edit" class="btn btn-primary btn-block" style="margin-top:.5rem;">
+                    <i class="fa-solid fa-check"></i> Guardar Cambios
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Currency Converter Modal -->
+    <div id="converter-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="converter-modal-title" aria-hidden="true">
+        <div class="modal" style="max-width:380px;">
+            <div class="modal-header">
+                <h2 id="converter-modal-title"><i class="fa-solid fa-coins" style="color:var(--success);margin-right:.5rem;"></i>Conversor ARS /
+                    USD</h2>
+                <button type="button" class="btn-icon close-modal-close" aria-label="Cerrar conversor de moneda"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+            </div>
+            <div class="modal-body">
+                <p style="font-size:.82rem;color:var(--text-muted);margin-bottom:1rem;">Tipo de cambio: <strong
+                        id="conv-rate-display">1 USD = $1200 ARS</strong></p>
+                <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+                    <div class="form-group" style="margin:0;">
+                        <label for="conv-ars">Monto en ARS</label>
+                        <div class="input-wrapper">
+                            <i class="fa-solid fa-dollar-sign"></i>
+                            <input type="number" id="conv-ars" step="0.01" min="0" placeholder="Ej: 50000">
+                        </div>
+                    </div>
+                    <div class="form-group" style="margin:0;">
+                        <label for="conv-usd">Monto en USD</label>
+                        <div class="input-wrapper">
+                            <i class="fa-solid fa-dollar-sign"></i>
+                            <input type="number" id="conv-usd" step="0.01" min="0" placeholder="Ej: 41.67">
+                        </div>
+                    </div>
+                </div>
+                <div class="total-highlight" style="margin-top:1.2rem; margin-bottom:0;">
+                    <span id="conv-result-label">USD equivalente</span>
+                    <strong id="conv-result" style="color:var(--success);">$0.00</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confetti Canvas -->
+    <canvas id="confetti-canvas"
+        style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;"></canvas>
+
+    <!-- Script for Logic -->
+    <script src="app.js?v=20260825-intent-order-v7"></script>
+    <script src="pwa.js?v=20260806-resilient-v1"></script>
+</body>
+
+</html>
