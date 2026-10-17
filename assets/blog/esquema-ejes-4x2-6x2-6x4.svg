@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 788" role="img" aria-labelledby="title desc">
+  <title id="title">Comparación de configuraciones 4 por 2, 6 por 2 y 6 por 4</title>
+  <desc id="desc">Vista superior simplificada. Azul indica eje motriz y gris indica eje sin tracción.</desc>
+  <rect width="1400" height="788" fill="#0b1728"/>
+  <g font-family="Arial, sans-serif" fill="#f7fafc">
+    <text x="64" y="70" font-size="38" font-weight="700">¿Cuántos ejes reciben tracción?</text>
+    <text x="64" y="111" font-size="22" fill="#b7c9dc">Cada eje equivale a dos posiciones de rueda, aunque tenga cubiertas duales.</text>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <rect x="56" y="155" width="409" height="485" rx="14" fill="#13253b" stroke="#2c4965"/>
+    <rect x="495" y="155" width="409" height="485" rx="14" fill="#13253b" stroke="#2c4965"/>
+    <rect x="934" y="155" width="409" height="485" rx="14" fill="#13253b" stroke="#2c4965"/>
+    <g fill="#fff" font-size="40" font-weight="700"><text x="88" y="213">4×2</text><text x="527" y="213">6×2</text><text x="966" y="213">6×4</text></g>
+    <g fill="#bfd3e7" font-size="23"><text x="88" y="249">2 ejes · 1 motriz</text><text x="527" y="249">3 ejes · 1 motriz</text><text x="966" y="249">3 ejes · 2 motrices</text></g>
+    <g fill="#243b52" stroke="#607990" stroke-width="3">
+      <rect x="170" y="286" width="180" height="298" rx="24"/>
+      <rect x="609" y="286" width="180" height="298" rx="24"/>
+      <rect x="1048" y="286" width="180" height="298" rx="24"/>
+    </g>
+    <g fill="#304e67"><rect x="184" y="301" width="152" height="70" rx="13"/><rect x="623" y="301" width="152" height="70" rx="13"/><rect x="1062" y="301" width="152" height="70" rx="13"/></g>
+    <g fill="#7b91a5">
+      <rect x="132" y="354" width="256" height="18" rx="8"/>
+      <rect x="571" y="354" width="256" height="18" rx="8"/>
+      <rect x="1010" y="354" width="256" height="18" rx="8"/>
+      <rect x="571" y="510" width="256" height="18" rx="8"/>
+    </g>
+    <g fill="#36bcf6"><rect x="132" y="510" width="256" height="18" rx="8"/><rect x="571" y="454" width="256" height="18" rx="8"/><rect x="1010" y="454" width="256" height="18" rx="8"/><rect x="1010" y="510" width="256" height="18" rx="8"/></g>
+    <g fill="#a9c0d2" font-size="20" text-anchor="middle"><text x="260" y="610">Eje trasero motriz</text><text x="699" y="610">Un motriz + uno libre</text><text x="1138" y="610">Dos traseros motrices</text></g>
+    <g font-size="20"><rect x="65" y="687" width="30" height="16" rx="5" fill="#36bcf6"/><text x="105" y="702" fill="#e4f2fa">Eje motriz</text><rect x="273" y="687" width="30" height="16" rx="5" fill="#7b91a5"/><text x="313" y="702" fill="#e4f2fa">Eje sin tracción</text><text x="808" y="702" fill="#b7c9dc">Esquema orientativo · Vista superior</text></g>
+  </g>
+</svg>
